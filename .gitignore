@@ -1,6 +1,16 @@
 .DS_Store
 
+.claude/
+
 to_add/
 
 # Not relevant
 library/Z*
+
+# Logs from build scripts
+logs/
+
+# Intermediate build artifacts
+build/
+__pycache__/
+*.pyc

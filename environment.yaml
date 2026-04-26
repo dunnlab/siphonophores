@@ -1,0 +1,13 @@
+name: siphonophores
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - python-docx
+  - pypdf
+  - pdfminer.six
+  - requests
+  - rapidfuzz
+  - tqdm
+  - pyyaml
+  - lxml
