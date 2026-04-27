@@ -24,3 +24,7 @@ part of `siphonophores.bib` and are excluded from reconciliation.
 `translations/` (also at the repo root) holds translations of papers in
 the main library — companion files to bib entries rather than primary
 records of their own. Excluded from reconciliation.
+
+`others/` (at the repo root) holds alternate scans, plate-only excerpts,
+and other miscellaneous PDFs that supplement entries in the main library
+without being the primary record. Excluded from reconciliation.
