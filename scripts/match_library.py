@@ -165,7 +165,7 @@ def main() -> None:
         # Skip ignored Z* sub-tree (already gitignored). Files like Z* still
         # exist on disk so we still consider them — only library/Z* directory.
         rel = p.relative_to(LIBRARY)
-        if rel.parts and rel.parts[0].startswith("Z"):
+        if rel.parts and (rel.parts[0].startswith("Z") or rel.parts[0] == "orphans"):
             continue
         pdfs[str(rel)] = p
         for key in candidate_keys_for_filename(p.stem):

@@ -122,7 +122,7 @@ def collect_orphans() -> tuple[list[dict], list[Path]]:
         if p in used:
             continue
         rel = p.relative_to(LIBRARY)
-        if rel.parts and rel.parts[0].startswith("Z"):
+        if rel.parts and (rel.parts[0].startswith("Z") or rel.parts[0] == "orphans"):
             continue
         pdf_orphans.append(p)
     return docx_orphans, pdf_orphans

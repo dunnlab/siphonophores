@@ -14,3 +14,6 @@ logs/
 build/
 __pycache__/
 *.pyc
+
+# Workspace for hand-review (e.g. orphan PDF inspection)
+tmp/

@@ -201,7 +201,7 @@ def main() -> None:
     orphan_pdfs: list[Path] = []
     for p in LIBRARY.rglob("*.pdf"):
         rel = p.relative_to(LIBRARY)
-        if rel.parts and rel.parts[0].startswith("Z"):
+        if rel.parts and (rel.parts[0].startswith("Z") or rel.parts[0] == "orphans"):
             continue
         if p.name in referenced_files:
             continue

@@ -44,7 +44,7 @@ def collect_library_pdfs() -> set[str]:
     out: set[str] = set()
     for p in LIBRARY.rglob("*.pdf"):
         rel = p.relative_to(LIBRARY)
-        if rel.parts and rel.parts[0].startswith("Z"):
+        if rel.parts and (rel.parts[0].startswith("Z") or rel.parts[0] == "orphans"):
             continue
         out.add(p.name)
     return out
@@ -55,7 +55,7 @@ def pdf_paths_by_basename() -> dict[str, list[Path]]:
     out: dict[str, list[Path]] = defaultdict(list)
     for p in LIBRARY.rglob("*.pdf"):
         rel = p.relative_to(LIBRARY)
-        if rel.parts and rel.parts[0].startswith("Z"):
+        if rel.parts and (rel.parts[0].startswith("Z") or rel.parts[0] == "orphans"):
             continue
         out[p.name].append(p)
     return out
