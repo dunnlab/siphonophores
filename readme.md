@@ -2,12 +2,36 @@
 
 This is a collection of siphonophore manuscripts. The vast majority were painstakingly curated by Phil Pugh. He made high quality scans of many of the older papers, and curated metadata.
 
-His original reference list is preserved here as `AASCANNED LITERATURE.docx`. A
-machine-readable bibliography derived from it lives in
-[`siphonophores.bib`](siphonophores.bib); see [`CONTRIBUTING.md`](CONTRIBUTING.md)
-for how it's built and how to regenerate it.
+## Cloning
 
-PDFs sit under `library/`, sharded by surname-letter shelves (`library/A`,
+The PDFs in this repo are stored in [Git LFS](https://git-lfs.github.com).
+Without LFS installed, `git clone` will fetch only ~135-byte pointer files
+in place of the actual PDFs.
+
+One-time setup (per machine):
+
+```bash
+brew install git-lfs        # macOS; or apt/dnf/etc. on Linux
+git lfs install             # wires the LFS filter into your git config
+```
+
+Then clone normally — git will hydrate the LFS pointers as it checks out:
+
+```bash
+git clone https://github.com/dunnlab/siphonophores.git
+```
+
+If you cloned *before* installing LFS, run `git lfs pull` inside the
+existing checkout to swap the pointer files for the real PDFs.
+
+## Repo contents
+
+Phil's original reference list is preserved here as `AASCANNED LITERATURE.docx`. This is an artefact for provenance, do not update it.
+
+A machine-readable bibliography derived from it lives in
+[`siphonophores.bib`](siphonophores.bib); see [`CONTRIBUTING.md`](CONTRIBUTING.md) for how it's built and how to regenerate it. This document should be kept up to date with repo contents.
+
+Siphonophore Library PDFs sit under `library/`, sharded by surname-letter shelves (`library/A`,
 `library/B`, …). Two subdirectories are special:
 
 - `library/orphans/` — PDFs we want to keep but for which we have no known
