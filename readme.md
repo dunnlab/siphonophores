@@ -44,6 +44,8 @@ Siphonophore Library PDFs sit under `library/`, sharded by surname-letter shelve
 
 [`siphonophores.bib`](siphonophores.bib) contains reference data for all these PDFs. This document should be kept up to date with repo contents.
 
+[`instructions.md`](instructions.md) holds clade-specific knowledge to be injected into the context of an MCP server serving this corpus — facts about siphonophore taxonomy and biology that should override or qualify what the older literature in `library/` says.
+
 ### Other materials
 
 `nonlibrary/` contains PDFs that fall outside of the core library, including:
