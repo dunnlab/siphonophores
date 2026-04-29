@@ -2,6 +2,12 @@
 
 This is a collection of siphonophore manuscripts. The vast majority were painstakingly curated by Phil Pugh. He made high-quality scans of many of the older papers, and curated metadata.
 
+<!-- BEGIN: stats (autogen by scripts/validate_bib.py --emit-readme) -->
+![Library by decade](assets/library_stats.png)
+
+**1,761 PDFs · 1,802 bib records · 62,996 total pages** (mean 36 pages/PDF, median 14)
+<!-- END: stats -->
+
 ## Cloning
 
 The PDFs in this repo are stored in [Git LFS](https://git-lfs.github.com).
@@ -70,4 +76,17 @@ Casey's process for adding PDFs:
 
 1. Rename PDF according to conventions, place in the appropriate `library/` directory.
 2. Add entry to `siphonophores.bib`.
-3. Validate `siphonophores.bib` with XXX.
+3. Validate `siphonophores.bib` with:
+
+```bash
+# Fast checks (bib well-formedness, key/DOI/file/URL coverage, inventory gaps):
+python scripts/validate_bib.py
+
+# Add --scan-pdfs for content-level checks (md5 dedup, page counts, corruption);
+# adds ~6s on this corpus:
+python scripts/validate_bib.py --scan-pdfs
+
+# Once everything is passing, regenerate the headline stats and histogram in
+# this readme (implies --scan-pdfs):
+python scripts/validate_bib.py --emit-readme
+```

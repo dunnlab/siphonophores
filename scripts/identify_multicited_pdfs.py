@@ -104,7 +104,7 @@ def main() -> None:
     paths_by_name: dict[str, Path] = {}
     for p in LIBRARY.rglob("*.pdf"):
         rel = p.relative_to(LIBRARY)
-        if rel.parts and (rel.parts[0].startswith("Z") or rel.parts[0] == "orphans"):
+        if rel.parts and rel.parts[0] == "orphans":
             continue
         paths_by_name.setdefault(p.name, p)
 

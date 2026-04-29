@@ -7,9 +7,6 @@
 
 to_add/
 
-# Not relevant
-library/Z*
-
 # Logs from build scripts
 logs/
 

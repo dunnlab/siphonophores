@@ -157,7 +157,7 @@ def collect_orphan_pdfs(entries: list[dict]) -> list[Path]:
     out: list[Path] = []
     for p in LIBRARY.rglob("*.pdf"):
         rel = p.relative_to(LIBRARY)
-        if rel.parts and (rel.parts[0].startswith("Z") or rel.parts[0] == "orphans"):
+        if rel.parts and rel.parts[0] == "orphans":
             continue
         if p.name in referenced:
             continue

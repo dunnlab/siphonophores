@@ -10,9 +10,11 @@ Output: ``logs/validate_bib.log`` (also printed to stdout). Sections:
 
     SUMMARY            high-level coverage numbers
     INVENTORY GAPS     bib ↔ library/ mismatches that need fixing
-    METADATA HEALTH    missing/conflicting fields
+    METADATA HEALTH    missing/conflicting fields, duplicate keys/DOIs
     DATA INTEGRITY     malformed DOIs, URLs, etc.
-    STATS BY YEAR      decade-by-decade coverage table
+    STATS BY DECADE    decade-by-decade coverage table
+    PDF CONTENT SCAN   (only with --scan-pdfs) duplicate hashes, page
+                       stats, corrupt files
 
 Goal: a clean run is one where INVENTORY GAPS is empty and you've
 explicitly accepted whatever METADATA HEALTH issues remain.
@@ -20,10 +22,13 @@ explicitly accepted whatever METADATA HEALTH issues remain.
 from __future__ import annotations
 
 import argparse
-import logging
+import hashlib
 import re
+import statistics
+import subprocess
 import sys
 from collections import Counter, defaultdict
+from concurrent.futures import ProcessPoolExecutor, as_completed
 from pathlib import Path
 
 import bibtexparser
@@ -34,17 +39,22 @@ LOGS = REPO / "logs"
 LOGS.mkdir(exist_ok=True)
 BIB = REPO / "siphonophores.bib"
 OUT = LOGS / "validate_bib.log"
+README = REPO / "readme.md"
+ASSETS = REPO / "assets"
+HISTOGRAM_PNG = ASSETS / "library_stats.png"
+README_BEGIN = "<!-- BEGIN: stats (autogen by scripts/validate_bib.py --emit-readme) -->"
+README_END = "<!-- END: stats -->"
 
 DOI_RE = re.compile(r"^10\.\d{4,9}/.+$")
 URL_RE = re.compile(r"^https?://[^\s]+$")
 
 
 def collect_library_pdfs() -> set[str]:
-    """All PDF basenames in library/ except the gitignored Z* shelf."""
+    """All PDF basenames in library/, excluding the orphans/ subdir."""
     out: set[str] = set()
     for p in LIBRARY.rglob("*.pdf"):
         rel = p.relative_to(LIBRARY)
-        if rel.parts and (rel.parts[0].startswith("Z") or rel.parts[0] == "orphans"):
+        if rel.parts and rel.parts[0] == "orphans":
             continue
         out.add(p.name)
     return out
@@ -55,7 +65,7 @@ def pdf_paths_by_basename() -> dict[str, list[Path]]:
     out: dict[str, list[Path]] = defaultdict(list)
     for p in LIBRARY.rglob("*.pdf"):
         rel = p.relative_to(LIBRARY)
-        if rel.parts and (rel.parts[0].startswith("Z") or rel.parts[0] == "orphans"):
+        if rel.parts and rel.parts[0] == "orphans":
             continue
         out[p.name].append(p)
     return out
@@ -84,21 +94,148 @@ def report(lines: list[str], heading: str | None = None) -> str:
     return body + "\n".join(lines) + ("\n" if lines else "")
 
 
+def md5_of(path: Path) -> tuple[str, str | None, str | None]:
+    """Return (path-as-str, md5-hexdigest, error). Streams the file in chunks."""
+    h = hashlib.md5()
+    try:
+        with path.open("rb") as f:
+            for chunk in iter(lambda: f.read(1 << 20), b""):
+                h.update(chunk)
+        return (str(path), h.hexdigest(), None)
+    except OSError as e:
+        return (str(path), None, str(e))
+
+
+def pdfinfo_of(path: Path) -> tuple[str, int | None, str | None]:
+    """Return (path-as-str, page-count, error). Uses ``pdfinfo`` from poppler."""
+    try:
+        r = subprocess.run(
+            ["pdfinfo", str(path)],
+            capture_output=True,
+            text=True,
+            timeout=30,
+        )
+    except FileNotFoundError:
+        return (str(path), None, "pdfinfo not installed")
+    except subprocess.TimeoutExpired:
+        return (str(path), None, "pdfinfo timed out")
+    if r.returncode != 0:
+        msg = (r.stderr or r.stdout or "").strip().splitlines()
+        return (str(path), None, msg[0] if msg else f"pdfinfo exit {r.returncode}")
+    for line in r.stdout.splitlines():
+        if line.startswith("Pages:"):
+            try:
+                return (str(path), int(line.split(":", 1)[1].strip()), None)
+            except ValueError:
+                return (str(path), None, f"unparseable Pages line: {line!r}")
+    return (str(path), None, "no Pages line in pdfinfo output")
+
+
+def render_histogram_png(
+    decade_records: dict[int, int],
+    pre_1750_records: int,
+    headline: dict[str, int],
+    out_path: Path,
+) -> None:
+    """Render the decade histogram (1750+) with a stat overlay."""
+    import matplotlib
+    matplotlib.use("Agg")
+    import matplotlib.pyplot as plt
+
+    decades = sorted(decade_records.keys())
+    counts = [decade_records[d] for d in decades]
+    labels = [f"{d}s" for d in decades]
+
+    fig, ax = plt.subplots(figsize=(11, 5))
+    ax.bar(labels, counts, color="#3b6ea5", edgecolor="white", linewidth=0.5)
+    ax.set_xlabel("decade")
+    ax.set_ylabel("publications in library")
+    ax.set_title("Siphonophore literature collection by decade")
+    ax.tick_params(axis="x", rotation=45)
+    for spine in ("top", "right"):
+        ax.spines[spine].set_visible(False)
+
+    overlay = (
+        f"{headline['records']:,} bib records\n"
+        f"{headline['pdfs']:,} PDFs\n"
+        f"{headline['total_pages']:,} total pages "
+        f"(median {headline['median_pages']}/PDF)"
+    )
+    if pre_1750_records:
+        overlay += f"\n+ {pre_1750_records} pre-1750 records (not shown)"
+    ax.text(
+        0.02, 0.97, overlay,
+        transform=ax.transAxes, va="top", ha="left",
+        fontsize=11, family="monospace",
+        bbox=dict(boxstyle="round,pad=0.5", facecolor="white", edgecolor="#cccccc"),
+    )
+
+    fig.tight_layout()
+    fig.savefig(out_path, dpi=150)
+    plt.close(fig)
+
+
+def update_readme_block(readme_path: Path, png_rel: str, headline: dict[str, int]) -> None:
+    """Replace the stats sentinel block in readme.md with fresh numbers + PNG ref."""
+    text = readme_path.read_text()
+    pattern = re.compile(
+        rf"({re.escape(README_BEGIN)})(.*?)({re.escape(README_END)})",
+        re.DOTALL,
+    )
+    if not pattern.search(text):
+        raise SystemExit(
+            f"sentinel block not found in {readme_path.name}; "
+            f"add a `{README_BEGIN}` … `{README_END}` block where you want the stats."
+        )
+    block = (
+        f"\n"
+        f"![Library by decade]({png_rel})\n"
+        f"\n"
+        f"**{headline['pdfs']:,} PDFs · {headline['records']:,} bib records · "
+        f"{headline['total_pages']:,} total pages** "
+        f"(mean {headline['mean_pages']:.0f} pages/PDF, median {headline['median_pages']})\n"
+    )
+    new_text = pattern.sub(rf"\1{block}\3", text)
+    readme_path.write_text(new_text)
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--full", action="store_true", help="list every offender, not just counts")
+    ap.add_argument(
+        "--scan-pdfs",
+        action="store_true",
+        help="also hash each PDF and run pdfinfo (slower; ~1 min for ~1800 PDFs)",
+    )
+    ap.add_argument(
+        "--emit-readme",
+        action="store_true",
+        help=f"regenerate {HISTOGRAM_PNG.relative_to(REPO)} and the stats sentinel "
+             f"block in {README.name}; implies --scan-pdfs",
+    )
     args = ap.parse_args()
+    if args.emit_readme:
+        args.scan_pdfs = True
 
     entries = load_bib()
     lib_pdfs = collect_library_pdfs()
     paths_by_name = pdf_paths_by_basename()
 
+    n_with_file = sum(1 for e in entries if (e.get("file") or "").strip())
+    n_with_doi = sum(1 for e in entries if (e.get("doi") or "").strip())
+    n_with_url = sum(1 for e in entries if (e.get("url") or "").strip())
+    n = len(entries)
+
     out_lines: list[str] = [
         f"siphonophores.bib validation",
         f"  bib: {BIB}",
         f"  library: {LIBRARY}",
-        f"  records:  {len(entries)}",
-        f"  pdfs:     {len(lib_pdfs)} (excluding library/Z*)",
+        f"  records:  {n}",
+        f"  pdfs:     {len(lib_pdfs)} (excluding library/orphans/)",
+        "",
+        f"  with file field:  {n_with_file:>5}    without: {n - n_with_file:>5}",
+        f"  with doi field:   {n_with_doi:>5}    without: {n - n_with_doi:>5}",
+        f"  with url field:   {n_with_url:>5}    without: {n - n_with_url:>5}",
     ]
 
     # ----- 1. Index bib by file basename -----
@@ -159,6 +296,14 @@ def main() -> None:
     id_counts = Counter(e["ID"] for e in entries)
     dup_keys = {k: n for k, n in id_counts.items() if n > 1}
 
+    # Duplicate DOIs (warn — sometimes intentional; e.g. plate excerpts of one work)
+    doi_to_keys: dict[str, list[str]] = defaultdict(list)
+    for e in entries:
+        doi = (e.get("doi") or "").strip().lower()
+        if doi:
+            doi_to_keys[doi].append(e["ID"])
+    dup_dois = {d: ks for d, ks in doi_to_keys.items() if len(ks) > 1}
+
     # Required-ish fields
     missing_author = [e for e in entries if not (e.get("author") or "").strip()]
     missing_year = [e for e in entries if get_year(e) is None]
@@ -178,6 +323,7 @@ def main() -> None:
     ]
 
     health_lines.append(f"duplicate citation keys:                {len(dup_keys)}")
+    health_lines.append(f"duplicate DOIs (warning, may be ok):    {len(dup_dois)}")
     health_lines.append(f"missing author:                         {len(missing_author)}")
     health_lines.append(f"missing year:                           {len(missing_year)}")
     health_lines.append(f"missing title:                          {len(missing_title)}")
@@ -189,6 +335,10 @@ def main() -> None:
         health_lines.append("\n  -- duplicate keys:")
         for k, n in sorted(dup_keys.items()):
             health_lines.append(f"     {k}  ({n}x)")
+    if dup_dois:
+        health_lines.append("\n  -- duplicate DOIs (sometimes legitimate, e.g. plate excerpts):")
+        for d, ks in sorted(dup_dois.items()):
+            health_lines.append(f"     {d}: {', '.join(ks)}")
     if args.full or len(missing_year) <= 10:
         if missing_year:
             health_lines.append("\n  -- entries with no year:")
@@ -275,6 +425,110 @@ def main() -> None:
         )
 
     out_lines.append(report(stats_lines, "STATS BY DECADE"))
+
+    # ----- 6. PDF content scan (slow; opt-in) -----
+    if args.scan_pdfs:
+        pdfs = [p for p in LIBRARY.rglob("*.pdf")
+                if not (p.relative_to(LIBRARY).parts
+                        and p.relative_to(LIBRARY).parts[0] == "orphans")]
+
+        # Hash + page-count in parallel.
+        hash_results: dict[str, str] = {}
+        hash_errors: list[tuple[str, str]] = []
+        page_results: dict[str, int] = {}
+        page_errors: list[tuple[str, str]] = []
+
+        with ProcessPoolExecutor() as ex:
+            future_kind: dict = {}
+            for p in pdfs:
+                future_kind[ex.submit(md5_of, p)] = "hash"
+                future_kind[ex.submit(pdfinfo_of, p)] = "page"
+            for fut in as_completed(future_kind):
+                kind = future_kind[fut]
+                path, value, err = fut.result()
+                if kind == "hash":
+                    if err is not None:
+                        hash_errors.append((path, err))
+                    else:
+                        hash_results[path] = value  # type: ignore[assignment]
+                else:  # page
+                    if err is not None:
+                        page_errors.append((path, err))
+                    else:
+                        page_results[path] = value  # type: ignore[assignment]
+
+        # Group by hash to find content duplicates.
+        by_hash: dict[str, list[str]] = defaultdict(list)
+        for path, h in hash_results.items():
+            by_hash[h].append(path)
+        dup_hash_groups = {h: ps for h, ps in by_hash.items() if len(ps) > 1}
+
+        scan_lines: list[str] = []
+        scan_lines.append(f"PDFs scanned:                           {len(pdfs)}")
+        scan_lines.append(f"successfully hashed:                    {len(hash_results)}")
+        scan_lines.append(f"duplicate-content groups (same hash):   {len(dup_hash_groups)}")
+        scan_lines.append(f"corrupt / unreadable (pdfinfo failed):  {len(page_errors)}")
+        scan_lines.append(f"hash read errors:                       {len(hash_errors)}")
+
+        if page_results:
+            pages = list(page_results.values())
+            scan_lines.append("")
+            scan_lines.append(f"total pages:                            {sum(pages)}")
+            scan_lines.append(f"mean pages per pdf:                     {statistics.mean(pages):.1f}")
+            scan_lines.append(f"median pages per pdf:                   {statistics.median(pages):.0f}")
+
+        if dup_hash_groups:
+            scan_lines.append("\n  -- duplicate-content PDF groups:")
+            for h, paths in sorted(dup_hash_groups.items(), key=lambda kv: kv[1][0]):
+                scan_lines.append(f"     {h[:12]}…  ({len(paths)} files)")
+                for path in sorted(paths):
+                    rel = Path(path).relative_to(LIBRARY)
+                    scan_lines.append(f"        {rel}")
+
+        if page_errors and (args.full or len(page_errors) <= 30):
+            scan_lines.append("\n  -- pdfinfo failures (corrupt or unreadable):")
+            for path, err in sorted(page_errors):
+                rel = Path(path).relative_to(LIBRARY)
+                scan_lines.append(f"     {rel}: {err}")
+
+        if hash_errors and (args.full or len(hash_errors) <= 30):
+            scan_lines.append("\n  -- hash read errors:")
+            for path, err in sorted(hash_errors):
+                rel = Path(path).relative_to(LIBRARY)
+                scan_lines.append(f"     {rel}: {err}")
+
+        out_lines.append(report(scan_lines, "PDF CONTENT SCAN"))
+
+    # ----- 7. Emit README assets (PNG histogram + sentinel block) -----
+    if args.emit_readme:
+        # Bin records by decade for the histogram. Pre-1750 entries are summarized
+        # in the overlay rather than shown on the axis.
+        decade_records: dict[int, int] = defaultdict(int)
+        pre_1750 = 0
+        for e in entries:
+            yr = get_year(e)
+            if yr is None:
+                continue
+            if yr < 1750:
+                pre_1750 += 1
+                continue
+            decade_records[yr // 10 * 10] += 1
+
+        pages = list(page_results.values()) if page_results else []
+        headline = {
+            "records": n,
+            "pdfs": len(lib_pdfs),
+            "total_pages": sum(pages),
+            "mean_pages": statistics.mean(pages) if pages else 0,
+            "median_pages": int(statistics.median(pages)) if pages else 0,
+        }
+
+        ASSETS.mkdir(exist_ok=True)
+        render_histogram_png(decade_records, pre_1750, headline, HISTOGRAM_PNG)
+        png_rel = HISTOGRAM_PNG.relative_to(REPO).as_posix()
+        update_readme_block(README, png_rel, headline)
+        print(f"\nwrote {HISTOGRAM_PNG.relative_to(REPO)}", file=sys.stderr)
+        print(f"updated stats block in {README.name}", file=sys.stderr)
 
     output = "\n".join(out_lines) + "\n"
     OUT.write_text(output)
