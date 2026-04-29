@@ -137,14 +137,19 @@ def render_histogram_png(
     headline: dict[str, int],
     out_path: Path,
 ) -> None:
-    """Render the decade histogram (1750+) with a stat overlay."""
+    """Render the decade histogram (1750+ plus a pre-1750 bin) with a stat overlay."""
     import matplotlib
     matplotlib.use("Agg")
     import matplotlib.pyplot as plt
 
     decades = sorted(decade_records.keys())
-    counts = [decade_records[d] for d in decades]
-    labels = [f"{d}s" for d in decades]
+    labels: list[str] = []
+    counts: list[int] = []
+    if pre_1750_records:
+        labels.append("<1750")
+        counts.append(pre_1750_records)
+    labels.extend(f"{d}s" for d in decades)
+    counts.extend(decade_records[d] for d in decades)
 
     fig, ax = plt.subplots(figsize=(11, 5))
     ax.bar(labels, counts, color="#3b6ea5", edgecolor="white", linewidth=0.5)
@@ -161,8 +166,6 @@ def render_histogram_png(
         f"{headline['total_pages']:,} total pages "
         f"(median {headline['median_pages']}/PDF)"
     )
-    if pre_1750_records:
-        overlay += f"\n+ {pre_1750_records} pre-1750 records (not shown)"
     ax.text(
         0.02, 0.97, overlay,
         transform=ax.transAxes, va="top", ha="left",
