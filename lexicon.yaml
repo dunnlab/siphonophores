@@ -1,0 +1,376 @@
+# Siphonophore anatomy lexicon used by taxa.py for NER-by-lookup.
+#
+# Each top-level key is a canonical English term. Values:
+#   synonyms:   English variants (plural, abbreviation, historical spelling)
+#   translations: non-English forms (German / French / Russian etc.)
+#   description: one-line definition; for documentation only.
+#
+# Matching is case-insensitive and done against exact tokens (whole words),
+# so adding overly broad terms here will produce false positives. When
+# unsure, leave a term out — the lexicon is easier to extend than to
+# retract.
+#
+# Initial set assembled from standard references (Totton 1965, Mackie et
+# al. 1987, Dunn & Pugh 2005, Pugh & Dunn 2009). Extend as the corpus
+# surfaces additional terms; PRs welcome.
+
+# --- Body regions ---
+
+pneumatophore:
+  synonyms: [pneumatophores, float, gas float]
+  translations:
+    de: [Luftblase, Schwimmblase]
+    fr: [pneumatophore, flotteur]
+    ru: [пневматофор]
+  description: Apical gas-filled float.
+
+nectosome:
+  synonyms: [nectosomes, nectosomal region, swimming region]
+  translations:
+    de: [Schwimmstock]
+    fr: [nectosome]
+    ru: [нектосома]
+  description: Anterior stem region bearing nectophores.
+
+siphosome:
+  synonyms: [siphosomes, siphosomal region, trailing region]
+  translations:
+    de: [Fressstock]
+    ru: [сифосома]
+  description: Posterior stem region bearing feeding and reproductive zooids.
+
+stem:
+  synonyms: [stems, stolon, stolons, colonial stem]
+  description: Linear axis of the colony on which zooids are budded.
+
+# --- Swimming zooids ---
+
+nectophore:
+  synonyms: [nectophores, swimming bell, swimming bells, medusoid bell, nectocalyx, nectocalyces]
+  translations:
+    de: [Schwimmglocke, Nektophore]
+    fr: [nectophore, cloche natatoire]
+    ru: [нектофор]
+  description: Medusoid zooid providing jet propulsion by expelling water from the nectosac through the ostium. Present in Physonectae and Calycophorae; absent in Cystonectae. "Nectocalyx" is an older synonym still encountered in 19th-century literature.
+
+nectosac:
+  synonyms: [nectosacs, subumbrellar cavity]
+  translations:
+    de: [Schwimmsack]
+    fr: [nectosac, sous-ombrelle]
+    ru: [плавательный мешок]
+  description: Internal cavity of a nectophore from which water is ejected; homologous to the subumbrella of medusae.
+
+velum:
+  synonyms: [velum, pseudovelum, nectophore velum]
+  translations:
+    de: [Velum]
+    fr: [voile, vélum]
+    ru: [велум]
+  description: Ring of tissue inward-projecting from the margin of the nectophore around the ostium; analogous to the velum of hydromedusae. Formed by extensions of the ex- and subumbrella beyond the nerve rings. Inner surface bears circular striated muscle fibres; outer surface bears radial smooth muscle fibres (Mackie, 1983). Regulates water expulsion during contraction.
+
+# --- Protective zooids ---
+
+bract:
+  synonyms: [bracts, hydrophyllium, hydrophyllia, bracteal]
+  translations:
+    de: [Deckstück, Brakteen]
+    fr: [bractée]
+    ru: [брактея]
+  description: Leaf-like protective zooid.
+
+bracteal_canal:
+  synonyms: [bracteal canals, bract canal, hydroecial canal, longitudinal bracteal canal]
+  translations:
+    de: [Brakteenkanal]
+    fr: [canal bractéal]
+    ru: [брактеальный канал]
+  description: Gastrovascular canal running through the mesoglea of a bract and connecting the bract to the siphosomal stem. In prayine bracts, multiple named canals are present (dorsal, ventral, left/right hydroecial, left/right longitudinal); in diphyomorph bracts one or two canals arise from the stem-attachment point. Canal arrangement is a primary diagnostic character in prayine taxonomy (Pugh & Harbison, 1987; Pugh, 1992).
+
+phyllocyst:
+  synonyms: [phyllocysts, bracteal somatocyst, bracteal diverticulum]
+  translations:
+    de: [Phyllocyste]
+    fr: [phyllocyste]
+    ru: [филлоциста]
+  description: Gastrovascular diverticulum within a bract. Typically contains oil droplets. Present in most siphonophore bracts (including physonect bracts via the pedicular canal); its shape, extent, and branching are taxonomically diagnostic.
+
+bracteal_lamella:
+  synonyms: [bracteal muscular lamella, bract lamella, bract attachment lamella]
+  translations:
+    de: [Brakteenlamelle]
+    fr: [lamelle bractéale]
+    ru: [брактеальная ламелла]
+  description: Muscular attachment sheet connecting a bract to the siphosomal stem; analogous to the muscular lamella of nectophores and gonophores. Attached to the proximal end of the bracteal canal.
+
+neck_shield:
+  synonyms: [neck shield, neckshield, distal bract portion]
+  translations:
+    de: [Halsschild]
+    fr: [bouclier]
+    ru: [шейный щит]
+  description: Broad distal portion of a diphyomorph eudoxid bract that encloses and protects the cormidial zooids; separated from the proximal head-piece. Bears the hydroecial bracteal canals; its extent and outline are diagnostic in Diphyidae.
+
+# --- Feeding zooids ---
+
+gastrozooid:
+  synonyms: [gastrozooids, siphon, siphons, feeding polyp, feeding polyps, siphuncle]
+  translations:
+    de: [Fresspolyp]
+    fr: [gastrozoïde]
+    ru: [гастрозоид, питающий полип]
+  description: Polyp specialized for feeding and digestion. Bears the single tentacle at its base (at the basigaster); cnidae are produced at the basigaster and migrate distally into the tentilla.
+
+tentacle:
+  synonyms: [tentacles]
+  translations:
+    de: [Tentakel]
+    fr: [tentacule]
+    ru: [щупальце]
+  description: Filament emerging from a gastrozooid; bears tentilla.
+
+tentilla:
+  synonyms: [tentillum, tentillae, side branches]
+  translations:
+    de: [Tentille]
+    fr: [tentille]
+    ru: [тентилла]
+  description: Side branch of a tentacle comprising three regions, pedicle (proximal stalk), cnidosac / cnidoband (medial nematocyst-bearing region), and terminal filament (distal). The cnidoband may be spirally coiled and enclosed within an involucrum (involucrate type) or naked (non-involucrate). Shape and nematocyst content of the cnidoband are primary diagnostic characters.
+
+cnidoband:
+  synonyms: [cnidobands]
+  translations:
+    de: [Nesselband, Cnidosack]
+    fr: [cnidosac, batterie de nématocystes]
+    ru: [книдобанда]
+  description: Concentrated battery of nematocysts forming the outer surface of the medial region of a tentillum. May be coiled in a spiral, arranged in zigzags, or straight; borne within the cnidosac alongside an elastic filament, muscles, nerves, and a gastrovascular canal.
+
+nematocyst:
+  synonyms: [nematocysts, cnidocyst, cnidocysts, cnida, cnidae, stinging cell, stinging cells]
+  translations:
+    de: [Nesselkapsel, Nesselzelle]
+    fr: [nématocyste, cnidocyte]
+    ru: [нематоциста]
+  description: Stinging organelle housed in a cnidocyte.
+
+terminal_filament:
+  synonyms: [terminal filaments]
+  translations:
+    de: [Terminalfilament]
+    fr: [filament terminal, filament pêcheur]
+    ru: [терминальная нить]
+  description: Distal filament of a tentillum extending beyond the cnidosac; typically bears rhopalonemes (acrophores or anacrophores) and desmonemes. May terminate in a terminal ampulla, a sinker disc, or a set of radial filaments depending on taxon.
+
+cnidosac:
+  synonyms: [cnidosacs, tentillum sac, cnidobattery]
+  translations:
+    de: [Cnidosack]
+    fr: [cnidosac]
+    ru: [книдосак]
+  description: Dilated middle portion of a tentillum (between pedicle and terminal filament) that contains the cnidoband, an elastic filament, muscles, nerves, and a gastrovascular canal. In Haeckel's original usage, "cnidosac" = the whole medial structure; in Mapstone (2009), the cnidoband is the concentrated outer nematocyst battery within the cnidosac.
+
+tentillum_pedicle:
+  synonyms: [pedicle, pedicel, tentillum pedicle, tentillum stalk, proximal stalk]
+  translations:
+    de: [Tentillumstiel, Stiel]
+    fr: [pédicelle, pédoncule]
+    ru: [педицель, ножка тентиллы]
+  description: Proximal stalk of a tentillum connecting it to the tentacle; contains the gastrovascular canal. Its distal end may be inflated into a vesicle-like structure in some taxa; length and shape are taxonomically useful.
+
+terminal_ampulla:
+  synonyms: [terminal ampulla, hydrostatic terminal ampulla, terminal vesicle, oil vesicle]
+  translations:
+    de: [Terminalampulla]
+    fr: [ampoule terminale]
+    ru: [терминальная ампула]
+  description: Swollen distal vesicle terminating the tentillum in some physonect taxa (e.g., Agalma, Lychnagalma); typically contains oil droplets and functions hydrostatically. May be surrounded by a corona of radial filaments. Not present in all siphonophore groups.
+
+elastic_band:
+  synonyms: [elastic filament, angle band, elastic cord]
+  translations:
+    de: [elastisches Band]
+    fr: [bande élastique]
+    ru: [эластичный тяж]
+  description: Modified mesogleal filament within the cnidosac that connects the base of the cnidoband to the pedicle; thought to store energy for cnidoband deployment upon prey contact. Also termed "angle band" in some descriptions.
+
+basigaster:
+  synonyms: [basigastric region, cnidogenic band]
+  translations:
+    de: [Basigaster]
+    fr: [basigastre]
+    ru: [базигастер]
+  description: Cuff-like region at the base of the gastrozooid where nematocysts are manufactured (cnidogenesis) and then migrate distally into the tentacle and tentilla (Mapstone, 2009). The site at which the tentacle inserts on the gastrozooid.
+
+# --- Defensive / sensory zooids ---
+
+palpon:
+  synonyms: [palpons, feeler zooid, feeler zooids]
+  translations:
+    de: [Tasterpolyp, Taster]
+    fr: [palpon]
+    ru: [пальпон]
+  description: Sensory / defensive polyp without a mouth.
+
+palpacle:
+  synonyms: [palpacles]
+  description: Filament emerging from a palpon, often lacking tentilla.
+
+# --- Reproductive zooids ---
+
+gonophore:
+  synonyms: [gonophores, medusoid gonophore, medusoid gonophores, reproductive zooid, reproductive zooids]
+  translations:
+    de: [Geschlechtsmedusoid, Gonophore]
+    fr: [gonophore]
+    ru: [гонофор]
+  description: Reproductive zooid; may be male or female; borne individually on the stem, on a gonostyle, or clustered on a gonodendron. Eudoxids (free-swimming calycophoran stages) are not synonymous with gonophores.
+
+gonodendron:
+  synonyms: [gonodendra, gonodendrons]
+  description: Branched cluster of gonophores with associated gastrozooid.
+
+gonopalpon:
+  synonyms: [gonopalpons, sexual palpon, reproductive palpon]
+  translations:
+    de: [Gonopalpon]
+    fr: [gonopalpon]
+    ru: [гонопальпон]
+  description: Palpon-like zooid associated with a gonodendron; typically bears nematocysts (especially stenoteles around the mouth area) and is associated with male or female gonophores. In some taxa bears its own palpacle.
+
+spadix:
+  synonyms: [spadices, reproductive axis]
+  translations:
+    de: [Spadix]
+    fr: [spadice]
+    ru: [спадикс]
+  description: Central axial structure of a gonophore on which germ cells are produced; in female gonophores bears the ovum; in male gonophores (androphores/styloid gonophores) bears spermatocytes.
+
+# --- Internal structures ---
+
+involucrum:
+  synonyms: [involucra, involucre]
+  translations:
+    fr: [involucre]
+    ru: [инволюкрум]
+  description: Investing sheath or cup that covers the contracted cnidoband of a tentillum. Develops from ectodermal outgrowth at the base of the cnidoband; may enclose the cnidoband partially or fully, and in some taxa also the terminal filament.
+
+ostium:
+  synonyms: [ostia]
+  translations:
+    de: [Ostium, Mundöffnung]
+    fr: [ostium, ouverture]
+    ru: [устье]
+  description: Opening of the nectosac through which water is ejected during muscular contraction. Bordered by the velum and, in some genera, by ostial teeth.
+
+somatocyst:
+  synonyms: [somatocysts]
+  translations:
+    de: [Somatocyste, Somatocyst]
+    fr: [somatocyste]
+    ru: [соматоциста]
+  description: Diverticulum of the pedicular canal that penetrates the mesoglea of a calycophoran nectophore; absent in physonect nectophores (Mapstone, 2009). Shape (spherical, ovoid, bilobed, fusiform, filiform, club-shaped, kidney-shaped), length relative to nectophore height, and position relative to the ostium are primary taxonomic characters.
+
+# --- Life-cycle stages ---
+
+larva:
+  synonyms: [larvae, planula, planulae, siphonula, calycoconula]
+  translations:
+    de: [Larve]
+    ru: [личинка]
+  description: Early post-embryonic stage.
+
+protozooid:
+  synonyms: [protozooids, primary gastrozooid]
+  description: First-formed feeding polyp at the posterior end of the pneumatophore.
+
+# --- Colony-level structures ---
+
+cormidium:
+  synonyms: [cormidia, cormidial unit, polymorphic cluster, corm unit]
+  translations:
+    de: [Kormidie, Cormidium]
+    fr: [cormidie]
+    ru: [кормидий]
+  description: Recurring polymorphic unit of the siphosome, comprising at minimum a gastrozooid and gonophore; in most physonects and calycophorans also a bract and palpons. Cormidia are budded from a pro-bud in physonects; in calycophorans older cormidia detach as free-swimming eudoxids.
+
+eudoxid:
+  synonyms: [eudoxids, free eudoxid, free-swimming cormidia, eudoxid stage]
+  translations:
+    de: [Eudoxid]
+    fr: [eudoxie]
+    ru: [эудоксид]
+  description: Free-swimming stage of calycophoran siphonophores consisting of a detached cormidial unit comprising a special nectophore (for propulsion), a bract, and one or more gonophores. Not synonymous with gonophore; represents the sexual phase of the calycophoran life cycle.
+
+pro_bud:
+  synonyms: [pro-bud, probud]
+  translations:
+    de: [Proknospe]
+    fr: [pro-bourgeon]
+    ru: [про-почка]
+  description: Precursor bud on the siphosomal horn of physonect siphonophores from which all cormidial zooids originate. Typically buds a footbud (giving rise to all associated zooids) and the gastrozooid itself; mechanism appears conserved across Codonophora (Dunn et al., 2005).
+
+internode:
+  synonyms: [internodes, free internode, siphosomal internode]
+  translations:
+    de: [Internodium]
+    fr: [entre-nœud, entrenœud]
+    ru: [интернодий]
+  description: Bare stretch of siphosomal stem between successive cormidia. Particularly prominent in Calycophorae (free internodes); length varies between families and is sometimes used diagnostically.
+
+# --- Pneumatophore sub-structures ---
+
+aurophore:
+  synonyms: [aurophores, air bell, air gland]
+  translations:
+    de: [Aurophore, Luftglocke]
+    fr: [aurophore]
+    ru: [аурофор]
+  description: Enlarged homologue of the pneumadenia (gas-secreting region) protruding at the junction of the pneumatophore and corm in the physonect family Rhodaliidae; derived from a modified nectophore. Contains extensive gas-producing secondary ectoderm and is surrounded by a thick chitinous layer (pneumatochone).
+
+pneumadenia:
+  synonyms: [gas gland, pneumadenia]
+  translations:
+    de: [Pneumadenie, Gasdrüse]
+    fr: [pneumadénie, glande gazeuse]
+    ru: [пневмадения]
+  description: Gas-secreting gland formed by secondary ectoderm lining the basal (pneumatochone) region of the pneumatosaccus; secretes mainly carbon monoxide to inflate the pneumatophore. In rhodaliids it is much enlarged and protrudes as the aurophore.
+
+pneumatosaccus:
+  synonyms: [pneumatocyst, gas cavity, gas sac, gas chamber]
+  translations:
+    de: [Pneumatosaccus, Pneumatocyste]
+    fr: [pneumatosaccus]
+    ru: [пневматосаккус]
+  description: Central, chitin-lined gas-filled cavity of the pneumatophore; surrounded by the pericystic cavity. Receives gas secreted by the pneumadenia. The pneumatochone is the basal cylindrical section of this structure.
+
+pneumatocodon:
+  synonyms: [outer wall of pneumatophore]
+  translations:
+    de: [Pneumatocodon]
+    fr: [pneumatocodon]
+    ru: [пневматокодон]
+  description: Outer mantle or wall of the pneumatophore enclosing the pericystic cavity and pneumatosaccus; ectodermal in origin. Contains the gas gland and chitinous lining basally.
+
+pneumatochone:
+  synonyms: [air funnel, pneumatochone, basal pneumatophore segment]
+  translations:
+    de: [Pneumatochone]
+    fr: [pneumatochone]
+    ru: [пневматохона]
+  description: Basal cylindrical region of the pneumatophore comprising the chitinous lining of the pneumatosaccus and the enclosed pneumadenia; especially well-developed in rhodaliids where it forms the core of the aurophore.
+
+pericystic_cavity:
+  synonyms: [pericystic canals, peripneumatophoral cavity]
+  translations:
+    de: [Perizystenhöhle]
+    fr: [cavité périkystique]
+    ru: [перикистная полость]
+  description: Cavity surrounding the pneumatosaccus; typically subdivided by endodermal septa and confluent with the gastrovascular cavity of the stem. Provides gas exchange and structural support; well-developed in physonects.
+
+apical_pore:
+  synonyms: [apical pore, stigma, pneumatopore]
+  translations:
+    de: [Stigma, Apikalpore]
+    fr: [pore apical, stigmate]
+    ru: [апикальная пора, стигма]
+  description: Opening at the apex of the pneumatophore, formed by the site of ectodermal invagination during larval development. Absent or closed in some physonects; present and functional in cystonects. Sometimes termed "stigma" in older literature.
