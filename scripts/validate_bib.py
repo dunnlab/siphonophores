@@ -15,9 +15,17 @@ Output: ``logs/validate_bib.log`` (also printed to stdout). Sections:
     STATS BY DECADE    decade-by-decade coverage table
     PDF CONTENT SCAN   (only with --scan-pdfs) duplicate hashes, page
                        stats, corrupt files
+    RESULT             final PASS/FAIL line
 
 Goal: a clean run is one where INVENTORY GAPS is empty and you've
 explicitly accepted whatever METADATA HEALTH issues remain.
+
+The last line of output is ``RESULT: PASS`` or ``RESULT: FAIL``, and the
+exit status matches (0 / 1). Only *blocking* checks — bib ↔ library
+mismatches, duplicate keys, missing core fields, malformed DOIs/URLs,
+unreadable PDFs — can fail the run. Counts that reflect ongoing curation
+state (entries with no PDF yet, missing DOIs, duplicate DOIs, duplicate
+PDF content) are reported as warnings and never fail it.
 """
 from __future__ import annotations
 
@@ -430,6 +438,9 @@ def main() -> None:
     out_lines.append(report(stats_lines, "STATS BY DECADE"))
 
     # ----- 6. PDF content scan (slow; opt-in) -----
+    page_errors: list[tuple[str, str]] = []
+    hash_errors: list[tuple[str, str]] = []
+    dup_hash_groups: dict[str, list[str]] = {}
     if args.scan_pdfs:
         pdfs = [p for p in LIBRARY.rglob("*.pdf")
                 if not (p.relative_to(LIBRARY).parts
@@ -437,9 +448,7 @@ def main() -> None:
 
         # Hash + page-count in parallel.
         hash_results: dict[str, str] = {}
-        hash_errors: list[tuple[str, str]] = []
         page_results: dict[str, int] = {}
-        page_errors: list[tuple[str, str]] = []
 
         with ProcessPoolExecutor() as ex:
             future_kind: dict = {}
@@ -533,9 +542,58 @@ def main() -> None:
         print(f"\nwrote {HISTOGRAM_PNG.relative_to(REPO)}", file=sys.stderr)
         print(f"updated stats block in {README.name}", file=sys.stderr)
 
+    # ----- 8. Verdict -----
+    # Blocking: things that mean the bib/library pair is actually broken.
+    blocking = [
+        ("bib `file` references that don't exist on disk", len(missing_files)),
+        ("PDFs not referenced by any bib entry", len(orphan_pdfs)),
+        ("PDFs referenced by more than one bib entry", len(multi_referenced)),
+        ("PDF basenames in multiple library/ subdirs", len(duplicate_basenames)),
+        ("duplicate citation keys", len(dup_keys)),
+        ("entries missing author", len(missing_author)),
+        ("entries missing year", len(missing_year)),
+        ("entries missing title", len(missing_title)),
+        ("malformed DOIs", len(bad_dois)),
+        ("malformed URLs", len(bad_urls)),
+        ("doi.org URL / `doi` field mismatches", len(doi_url_mismatch)),
+        ("corrupt or unreadable PDFs", len(page_errors)),
+        ("PDF hash read errors", len(hash_errors)),
+    ]
+    # Warnings: ongoing curation state, never fails the run.
+    warnings = [
+        ("bib entries with no `file` field", len(bib_no_file)),
+        ("duplicate DOIs", len(dup_dois)),
+        ("entries missing journal/source", len(missing_journal)),
+        ("entries from 2000+ with no DOI", len(modern_no_doi)),
+        ("entries with neither DOI nor URL", len(no_url_no_doi)),
+        ("duplicate-content PDF groups", len(dup_hash_groups)),
+    ]
+
+    failed = [(label, count) for label, count in blocking if count]
+    warned = [(label, count) for label, count in warnings if count]
+
+    result_lines: list[str] = []
+    if failed:
+        result_lines.append(f"{len(failed)} blocking check(s) failed:")
+        for label, count in failed:
+            result_lines.append(f"  {label}: {count}")
+    else:
+        result_lines.append("all blocking checks passed.")
+    if warned:
+        result_lines.append(f"\n{len(warned)} warning(s) (not blocking):")
+        for label, count in warned:
+            result_lines.append(f"  {label}: {count}")
+    if not args.scan_pdfs:
+        result_lines.append("\nnote: PDF content checks skipped (run with --scan-pdfs).")
+    result_lines.append("")
+    result_lines.append(f"RESULT: {'FAIL' if failed else 'PASS'}")
+
+    out_lines.append(report(result_lines, "RESULT"))
+
     output = "\n".join(out_lines) + "\n"
     OUT.write_text(output)
     sys.stdout.write(output)
+    sys.exit(1 if failed else 0)
 
 
 if __name__ == "__main__":
