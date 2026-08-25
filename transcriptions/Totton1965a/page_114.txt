@@ -1,0 +1,52 @@
+[PAGE 109]
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 9 FORSKALIIDAE	109
+
+[FIGURE]
+F.con.	Pr.lat.	C.br.	Pr.lat.
+F.d.	Pr.lat.	1 m.m.	F.d.
+Pr.dist.	0
+
+FIG. 61.   Forskalia cuneata Chun
+Bracts of 'Discovery' specimen, St. 1585, 1,400–700 m, × 15 (from Totton, 1954, fig. 31)
+C.br = bracteal canal; F.con = convex facet; F.d = dorsal facet; Pr.lat = lateral process.
+[/FIGURE]
+
+Bracts:   Said to be only four on each peduncle of gastrozooid. This is most doubtful. Described as three-sided prismatic, more or less asymmetrical, with a concave, smooth, lower or distal facet and a convex dentate upper or proximal one. The latter bears usually a strong dentate longitudinal crest, and the two lateral edges are also armed with a few teeth.
+
+Gastrozooids:   10–15 mm long.
+
+Forskalia cuneata Chun, 1888
+Text-figure 61
+Only once have specimens been recorded under this name. The two characteristics mentioned in Chun's original description (without figures) were (1) the presence in the sub-umbrella of the nectophore of from four to six red bands on each side; (2) the truncated outer ends of the bracts and the right-angled bend in the bracteal canal, (3) the particularly large gastrozooids. The largest specimen was only 7 cm in length.
+
+Chun described the larval tentilla as acorn-shaped, deep red in colour and with numerous short sensory hairs. The only previous description of the larval tentilla of Forskalia spp. was that of Claus (1863, p. 557, Pl. XLVIII, figs. 30–35 as physophorid larvae, unnamed). I have seen larvae obviously belonging to some species of Forskalia (? edwardsi) judging by the colour and the fact that they were not those of any other known physophorids present at Villefranche. I recognize in Claus's figures similar larvae of Forskalia spp.
+
+I have never seen nectophores of the type described by Chun. We look forward to another record of this sort from the Canaries region.
+
+The bracts shown in text-figure 61 might possibly be those of such a species as Chun's F. cuneata.
+
+SPECIES INQUIRENDA
+
+Forskalia misakiensis Kawamura, 1954
+
+Forskalia misakiensis Kawamura, 1954, p. 106, Pl. 1, figs. 2, 7-11
+
+Described from a single preserved specimen from Misaki. The figure of a nectophore (Pl. 1, fig. 7) shows a quadrangular contour in upper view. If confirmation of the existence of a species with nectophores of this type in all stages of growth is forthcoming any doubt will be resolved.
+
+[NOTE: printed folio 109 at the outer (right) edge of the running head; PDF index 114, offset −5 holds. Single column; no footnote, no table, no signature mark. The body text opens mid-treatment with the side-heading "Bracts:", continuing the Forskalia tholoides account begun on the previous page. About a fifteenth of the page is blank at the foot.
+
+PRINTED QUERY, NOT MINE: "some species of Forskalia (? edwardsi) judging by the colour" — the question mark inside the round parentheses is Totton's own, printed, and is not a transcriber mark. No printed square brackets occur on this page; every bracket here is round, including the enumerators "(1)", "(2)", "(3)" and "(without figures)".
+
+Layout: text-fig. 61 fills the upper third, three line drawings of bracts side by side, set full measure, with a short vertical scale bar standing between the second and third, and a three-line caption below in smaller type. Body text fills the rest. Deep blank bands of about two lines separate "Gastrozooids: 10–15 mm long." from the "Forskalia cuneata" heading, and the "The bracts shown in text-figure 61" paragraph from the "SPECIES INQUIRENDA" heading. Under both "Text-figure 61" and the "SPECIES INQUIRENDA" block the following matter runs on without a blank line.
+
+The items inside [FIGURE] before the caption are exactly the labels printed within the drawings and nothing else — the illustrations are deliberately not described. They are listed in three tab-separated rows because that is how they fall on the page, each row read left to right: top row "F.con.", "Pr.lat.", "C.br.", "Pr.lat."; middle row "F.d.", "Pr.lat.", "1 m.m.", "F.d."; bottom row "Pr.dist.", "0". Each is joined to its structure by a fine dashed or solid leader. Unlike the sans-serif labels of text-figs. 52-60, these are sloping (italic) sans-serif hand-lettering with a terminal full point on every abbreviation, reproduced from Totton 1954 — verified at 7x. Total lettering: "Pr.lat." three times, "F.d." twice, and one each of "F.con.", "C.br.", "Pr.dist.", "1 m.m.", "0" — 10 labels.
+
+Two points about the scale bar and key. (1) The scale bar is graduated and carries "1 m.m." beside its upper end and, beside its lower end, a small circle which is the zero of the rule; I transcribe it "0", though at 6x the glyph is a plain small round o of the same hand and a reader could argue for a letter o. (2) The abbreviation "Pr.dist." used in the left-hand drawing is not explained in the caption key at all, which lists only C.br, F.con, F.d and Pr.lat; and in the key the four abbreviations are printed without the terminal full point that each carries in the drawings. Both are transcribed as printed.
+
+Caption detail: "FIG." small capitals, old-style 61, full point, wide gap, italic "Forskalia cuneata", roman "Chun". Single curly quotes round 'Discovery', the ship name roman inside them. "St. 1585, 1,400–700 m" — a station number of four figures, then a depth range written large-to-small with a comma as thousands separator in "1,400" and none in "700", joined by an en-dash. "× 15" uses a saltire multiplication cross. The second line ends "fig. 31)" with no full point after the bracket. In the key the abbreviations are italic and the explanations roman.
+
+Type in the body: italic side-headings "Bracts:", "Gastrozooids:", each followed by a wide two-space gap. Species headings bold italic with roman authority; "Text-figure 61" roman with a capital T, unlike the lower-case "text-figure 61" in the last paragraph. "SPECIES INQUIRENDA" is a centred heading in bold italic capitals. The synonymy line under Forskalia misakiensis is in type smaller than the body, flush left and unindented, name italic. Italic elsewhere: "Forskalia" (three times), "edwardsi", "F. cuneata". "Claus's" and "Chun's" take 's.
+
+Numerals verified digit by digit: 109; FIG. 61, St. 1585, 1,400–700 m, × 15, 1954, fig. 31; 10–15 mm; 1888, Text-figure 61, (1), (2), (3), 7 cm; 1863, p. 557, Pl. XLVIII, figs. 30–35; text-figure 61; 1954; 1954, p. 106, Pl. 1, figs. 2, 7-11; Pl. 1, fig. 7. Both citations of Kawamura's plate on this page read "Pl. 1" in arabic figures — the numeral matches the 1 of "1954" at 8x-9x — whereas the same plate was cited "Pl. I" in roman on p. 108. The figure range "7-11" in the small-type synonymy line is set with a short hyphen, not the en-dash used in "30–35" and "10–15". Claus's plate is capital roman "Pl. XLVIII" here, as against lower-case "Pl. xlvii" in the synonymies on pp. 100, 102 — a different plate number as well.
+
+Stray marks, all scanning blemishes: specks high in the page above the drawings, one near the centre and one at the right, a speck in the left margin level with the "Forskalia cuneata" heading, a speck in the far left margin level with the third body paragraph, a speck in the right margin level with "Claus's figures", a speck in the left margin level with "SPECIES INQUIRENDA", and a small dot low on the page below the last line. None is printed matter.]

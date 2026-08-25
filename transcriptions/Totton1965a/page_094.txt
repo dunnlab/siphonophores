@@ -1,0 +1,53 @@
+[PAGE 89]
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 7 ATHORYBIIDAE	89
+
+[TABLE]
+Measurement of δ form of tentillum (in mm)
+	length	diameter
+Pedicel	.	.	.	.	.	.	.	.	.	6	0·03
+Whole saccus	.	.	.	.	.	.	.	.	1·5	0·25
+Lateral horns	.	.	.	.	.	.	.	.	0·5
+'pendant'	.	.	.	.	.	.	.	.	1·25
+[/TABLE]
+
+Gonodendra:   They originate as single gonopalpons from the pedicels of which secondary palpons up to nine or more in number are budded, together with a pair of gonostyles, ♂ and ♀, side by side. These gonostyles bear numerous gonophores (Pl. XVII, fig. 9), the actual 'adults' of this type of animal, the male ones with long pedicels. There is a pair of gonodendra to each gastrozooid, one on each flank of the animal. It is difficult to delimit the boundaries of the individual cormidia, and the exact relationships are not as yet understood. Each palpon bears, as usual, a palpacle or simple, reduced tentacle. The palpons themselves are long, vermiform, very active and heavily armed at their pink tips with nematocysts. I dealt with the Haeckelian myth of an ocellus in 1954.
+
+Kawamura (1954) described and figured a single preserved specimen of A. longifolia from Sagami Bay. The possession of soft flexible bracts is due I suspect to the state of preservation and not to a specific difference. I have listed longifolia as a synonym.
+
+Genus: MELOPHYSA Haeckel, 1888
+Monotypic genus for Rhizophysa melo Quoy & Gaimard, 1827.
+For the history of the name of this genus, see Totton, 1954 (p. 40).
+
+Melophysa melo (Quoy & Gaimard, 1827)
+Text-figures 49, 50
+
+Rhizophysa melo Quoy & Gaimard, 1827
+Rhodophysa melo Blainville, 1830
+Stephanomia melo Quoy & Gaimard (1833), 1834
+Athorybia melo Chun, 1897b
+Athorybia rosacea Bigelow, 1931
+Melophysa melo Totton, 1954
+
+Bigelow (1931) confused Athorybia rosacea with Melophysa melo, but the only good account is his, though under the wrong name. He gave two beautiful text-figures of the whole animal as well as others of the tentilla. Detailed figures of nectophores are given in text-figure 50.
+
+Specimens of this species can be distinguished quite easily from those of Athorybia rosacea by the presence of nectophores and bulky bracts which bear tuberculate ridges.
+
+Pneumatophore:   When mature, ovoid or pear-shaped, with septa containing giant cells, which are a part of the secondary ectoderm (see Chun, 1897b, Pl. IV, figs. 1, 7, 9); borne on a short nectosome which bears only a few (up to five) nectophores of a primitive kind. Bigelow suggested that only one at a time was functional (see Chun, 1897b, Pl. IV, fig. 3; and text-fig. 50). The post-larva has a more elongated, pear-shaped pneumatophore (see Totton, 1954, text-fig. 8).
+
+Bracts (text-fig. 49):   Thick and gelatinous borne in a corona on strong, contractile muscular lamellae. The nectostyle on which the larval bracts are borne cannot be distinguished in maturity, but is homologous with the whole of the bract-bearing side of the animal. The larval bracts are smooth surfaced, but like the later developed ones have a proximal keel of attachment. The mature bracts bear from eight to nine strong tuberculate radial ridges. In parts of the ridges, which may bear from six to twenty-seven tubercles, these have the form of conical papillae. In other parts they form more continuous crests. The bracteal lamellae are arranged in nine or more groups of three or four lamellae.
+
+7
+
+[NOTE: printed folio 89 at the outer (right) edge of the running head; PDF index 94, offset −5 holds. No printed square brackets occur on this page.
+
+The bare "7" on the last line, set flush left in small type below the final text line and separated from it by about a line's space, is a printer's signature mark, not a folio and not a footnote; the folio for this page is 89 in the head. Verified at 8× magnification: a single arabic 7 with no accompanying letter or asterisk.
+
+The table at the head of the page is transcribed inside [TABLE] with single tabs between columns. Its heading line "Measurement of δ form of tentillum (in mm)" is bold, and the delta is a Greek letter printed in the ordinary (non-bold) roman δ within the bold line — this is the same δ used in "fig. 8δ" on p. 88 opposite. The two column heads "length" and "diameter" are bold and are set over the two right-hand columns, with no head over the stub column. Each stub entry is followed by a row of widely spaced leader dots — nine dots on the "Pedicel" row and eight on each of the other three, counted individually; they are reproduced here as tab-separated periods to keep the column structure, and their exact count is the only thing they carry. "saccus" in "Whole saccus" is italic; the other stub entries are roman, and 'pendant' is in single curly quotes. The "Lateral horns" and "'pendant'" rows have a length value but no diameter value — the diameter column is simply empty there, not a dash or a zero. Values verified digit by digit: 6 and 0·03; 1·5 and 0·25; 0·5; 1·25. All decimal points are raised middle dots.
+
+The male and female signs in "a pair of gonostyles, ♂ and ♀, side by side" are printed as the standard Mars and Venus symbols, verified at 5×; they are transcribed as the corresponding Unicode characters.
+
+Type: the genus heading reads "Genus:" in roman with a thin space before the colon, then bold italic "MELOPHYSA" in capitals, then roman "Haeckel, 1888". The species heading is bold italic "Melophysa melo" with roman "(Quoy & Gaimard, 1827)", over a roman second line "Text-figures 49, 50". The six-line synonymy is set in small type, taxon names italic and authorities roman, flush left. Italic side-headings in the body: "Gonodendra:", "Pneumatophore:", "Bracts"; italic also "A. longifolia", "longifolia", "Athorybia rosacea", "Melophysa melo", "Rhizophysa melo", and "see" in each parenthetic reference.
+
+Numerals verified digit by digit: in the table 6, 0·03, 1·5, 0·25, 0·5, 1·25; in the body Pl. XVII, fig. 9, 1954, 1954; the genus heading 1888, 1827, 1954, p. 40; the species heading 1827, Text-figures 49, 50; the synonymy 1827, 1830, (1833), 1834, 1897b, 1931, 1954; then 1931, text-figure 50, 1897b, Pl. IV, figs. 1, 7, 9, 1897b, Pl. IV, fig. 3, text-fig. 50, 1954, text-fig. 8, text-fig. 49. Note the double date on the Stephanomia line, "Quoy & Gaimard (1833), 1834", with the earlier year in parentheses before the later one — printed exactly so, and verified at 3×. Chun's plates are cited in roman numerals (Pl. IV) whereas Totton's own plate on the preceding page is Pl. XVII.
+
+Stray marks, all scanning blemishes: a faint hair or fleck in the top margin above the running head at the right, a short dash-like fleck in the right margin level with "Bigelow suggested that", specks in the right margin level with "Melophysa melo Totton, 1954" and with "Bay. The possession of soft flexible bracts", and a speck in the left margin level with "some which bears only a few".]

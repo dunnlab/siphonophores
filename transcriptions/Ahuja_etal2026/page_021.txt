@@ -1,0 +1,55 @@
+[PAGE 21]
+
+PLOS One
+
+Methodology: Namrata Ahuja, Darrin T. Schultz, Dalila Destanović, Samuel H. Church, Natasha Picciani, Catriona Munro, Koto Kon-Nanjo, Tetsuo Kon, Maciej K. Mańko, Wendy Shi, Oleg Simakov, Casey W. Dunn.
+
+Resources: Casey W. Dunn.
+
+Supervision: Casey W. Dunn.
+
+Validation: Namrata Ahuja, Casey W. Dunn.
+
+Visualization: Namrata Ahuja, Dalila Destanović, Samuel H. Church, Maciej K. Mańko.
+
+Writing – original draft: Namrata Ahuja, Dalila Destanović, Samuel H. Church, Natasha Picciani, Koto Kon-Nanjo, Tetsuo Kon, Casey W. Dunn.
+
+Writing – review & editing: Namrata Ahuja, Casey W. Dunn.
+
+References
+
+1.	Dunn CW, Wagner GP. The evolution of colony-level development in the Siphonophora (Cnidaria:Hydrozoa). Dev Genes Evol. 2006;216(12):743–54. https://doi.org/10.1007/s00427-006-0101-8 PMID: 16983540
+2.	Mapstone GM. Global diversity and review of Siphonophorae (Cnidaria: Hydrozoa). PLoS One. 2014;9(2):e87737. https://doi.org/10.1371/journal.pone.0087737 PMID: 24516560
+3.	Mackie GO, Pugh PR, Purcell JE. Siphonophore biology. Adv Mar Biol. 1988.
+4.	Mackie GO. Siphonophores, bud colonies, and superorganisms. The lower Metazoa Berkeley, University of California. 1963; 329–337.
+5.	Beklemishev WN. Principles of comparative anatomy of invertebrates organology. 1969.
+6.	Haeckel E. Über Arbeitsheilung in Natur-und Menschenleben. 1869.
+7.	Hosia A, Martell L, Mańko MK, Haddock SHD, Haberlin D, Mapstone GM. Unexpected diversity and novel lineages in the cosmopolitan genus Nanomia (Cnidaria: Siphonophorae: Physonectae). Front Mar Sci. 2024;11:1421514.
+8.	Munro C, Zapata F, Howison M, Siebert S, Dunn CW. Evolution of Gene Expression across Species and Specialized Zooids in Siphonophora. Mol Biol Evol. 2022;39(2):msac027. https://doi.org/10.1093/molbev/msac027 PMID: 35134205
+9.	Siebert S, Goetz FE, Church SH, Bhattacharyya P, Zapata F, Haddock SHD, et al. Stem cells in Nanomia bijuga (Siphonophora), a colonial animal with localized growth zones. Evodevo. 2015;6:22. https://doi.org/10.1186/s13227-015-0018-2 PMID: 26090088
+10.	Church SH, Siebert S, Bhattacharyya P, Dunn CW. The histology of Nanomia bijuga (Hydrozoa: Siphonophora). J Exp Zool B Mol Dev Evol. 2015;324(5):435–49. https://doi.org/10.1002/jez.b.22629 PMID: 26036693
+11.	Patry WL, Bubel M, Hansen C, Knowles T. Diffusion tubes: a method for the mass culture of ctenophores and other pelagic marine invertebrates. PeerJ. 2020;8:e8938. https://doi.org/10.7717/peerj.8938 PMID: 32292660
+12.	Kon-Nanjo K, Kon T, Horkan HR, Febrimarsa, Steele RE, Cartwright P, et al. Chromosome-level genome assembly of Hydractinia symbiolongicarpus. G3 (Bethesda). 2023;13(8):jkad107. https://doi.org/10.1093/g3journal/jkad107 PMID: 37294738
+13.	Kon-Nanjo K, Kon T, Yu TC-TK, Rodriguez-Terrones D, Falcon F, Martínez DE, et al. The dynamic genomes of Hydra and the anciently active repeat complement of animal chromosomes. Genome Biol. 2025;26:186. https://doi.org/10.1186/s13059-025-03653-z
+14.	Chapman JA, Kirkness EF, Simakov O, Hampson SE, Mitros T, Weinmaier T, et al. The dynamic genome of Hydra. Nature. 2010;464(7288):592–6. https://doi.org/10.1038/nature08830 PMID: 20228792
+15.	Leclère L, Horin C, Chevalier S, Lapébie P, Dru P, Peron S, et al. The genome of the jellyfish Clytia hemisphaerica and the evolution of the cnidarian life-cycle. Nat Ecol Evol. 2019;3(5):801–10. https://doi.org/10.1038/s41559-019-0833-2 PMID: 30858591
+16.	Putnam NH, Srivastava M, Hellsten U, Dirks B, Chapman J, Salamov A, et al. Sea anemone genome reveals ancestral eumetazoan gene repertoire and genomic organization. Science. 2007;317(5834):86–94. https://doi.org/10.1126/science.1139158 PMID: 17615350
+17.	Law STS, Yu Y, Nong W, So WL, Li Y, Swale T, et al. The genome of the deep-sea anemone Actinernus sp. contains a mega-array of ANTP-class homeobox genes. Proc Biol Sci. 2023;290(2009):20231563. https://doi.org/10.1098/rspb.2023.1563 PMID: 37876192
+18.	Church SH, Abedon RB, Ahuja N, Anthony CJ, Ramirez DA, Rojas LM. Population genomics of a sailing siphonophore reveals genetic structure in the open ocean. Current Biology. 2025;35(15):3556–3569 https://doi.org/10.1016/j.cub.2025.05.066
+19.	Bentlage B, Collins AG. Tackling the phylogenetic conundrum of Hydroidolina (Cnidaria: Medusozoa: Hydrozoa) by assessing competing tree topologies with targeted high-throughput sequencing. PeerJ. 2021;9:e12104. https://doi.org/10.7717/peerj.12104 PMID: 34589302
+20.	Simakov O, Bredeson J, Berkoff K, Marletaz F, Mitros T, Schultz DT, et al. Deeply conserved synteny and the evolution of metazoan chromosomes. Sci Adv. 2022;8(5):eabi5884. https://doi.org/10.1126/sciadv.abi5884 PMID: 35108053
+21.	Ahuja N, Cao X, Schultz DT, Picciani N, Lord A, Shao S. Giants among Cnidaria: Large Nuclear Genomes and Rearranged Mitochondrial Genomes in Siphonophores. Genome Biol Evol. 2024;16. https://doi.org/10.1093/gbe/evae048
+
+PLOS One | https://doi.org/10.1371/journal.pone.0351247	July 2, 2026	21 / 25
+
+[NOTE: born-digital PLOS One typescript, single column.
+
+PAGE FURNITURE: the PLOS One masthead and pictorial device at the head, and the running foot "PLOS One | https://doi.org/10.1371/journal.pone.0351247   July 2, 2026" with the page-number line "21 / 25" at the right; the foot's three elements are separated by tabs above. Printed, and so transcribed. There is no Crossmark stamp on this page.
+
+The page opens mid-way through the CRediT author-contribution list carried over from p. 20; the heading "References" then begins the reference list, whose entries are numbered 1.–21. on this page and continue overleaf. Each numbered entry is kept on one line here, in printed order, and the reference numbers are separated from the entry text by a tab.
+
+Reference 2's URL is broken across two printed lines after "journal." with no hyphen ("https://doi.org/10.1371/journal.  pone.0087737"); joined here as printed. Hyphens at the ends of printed lines in refs 12, 15, 16 and 19 are soft line-break hyphens ("symbiolongicar-pus", "cnidar-ian", "reper-toire", "topol-ogies") and have been removed on joining.
+
+Ref 6 is printed "Arbeitsheilung" and "Natur-und" (no space after the hyphen); both retained as printed. Ref 18 has no period between "3556–3569" and the URL; as printed. Ref 21's citation ends "2024;16." with no page or article number.
+
+Bold is used for the CRediT role labels, the heading "References" and the reference numbers; italics for taxon names within entries. Bold and italics are not marked. DOIs and PMIDs are printed as blue underlined hyperlinks; colour is not marked.]

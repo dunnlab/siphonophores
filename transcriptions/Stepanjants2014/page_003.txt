@@ -1,0 +1,87 @@
+[PAGE 344]
+
+[RUNNING HEAD] 344                    СТЕПАНЬЯНЦ
+
+[FIGURE]
+Cladistic analysis of Medusozoa                    25
+
+[NOTE: cladogram reproduced from the English original; each internal branch carries a row of character numbers above the branch and a row of character-state values below it, with open and filled squares marking the characters. Transcribed below as: numbers row / states row — terminal name.]
+
+4 10 11 31 45 48 / 1 1 1 1 1 1 — Anthozoa
+
+1 2 5 8 17 39 49 / 1 1 1 1 1 1 1
+
+18 20 32 38 41 47 48 51 54 61 62 81 / 1 1 0 1 1 1 2 1 1 1 1 1
+
+21 63 64 71 72 / 1 1 0 1 1
+
+17 29 30 38 39 41 55 69 77 / 0 0 1 0 0 0 1 0 0
+
+23 / 2 — Stauromedusae
+
+39 / 2 — Conulatae
+
+7 10 43 46 52 53 56 66 71 86 87 / 1 1 1 1 2 1 1 1 2 1 1 — Cubozoa
+
+4 34 52 58 / 1 1 1 1
+
+23 39 50 67 78 / 0 2 1 1 1 — Coronatae
+
+14 40 62 64 65 / 1 1 0 2 1
+
+31 32 38 / 1 1 0 — Semaeostomeae
+
+22 59 74 / 1 0 1 — Rhizostomeae
+
+3 23 25 37 43 53 57 65 / 1 3 1 1 0 2 1 2
+
+73 / 1 — Limnomedusae
+
+7 20 32 36 68 78 / 1 2 0 0 0 1
+
+28 64 65 71 84 85 / 0 0 0 3 1 1 — Actinulida
+
+35 / 1
+
+68 73 / 1 1 — Trachymedusae
+
+7 8 33 58 75 80 82 / 0 0 1 1 1 1 1
+
+12 64 76 / 1 0 0 — Narcomedusae
+
+10 60 69 79 83 / 1 1 0 1 1 — Laingiomedusae
+
+10 31 39 60 69 / 1 1 2 1 0
+
+11 41 44 69 / 1 1 1 2 — Leptothecata
+
+7 9 68 / 1 1 0
+
+15 59 / 1 0 — Siphonophorae
+
+70 81 / 1 1 — Anthoathecata
+
+Рис. 1. Схема кладистического анализа групп Medusozoa по 87 морфологическим признакам и их состояниям в разных таксонах этого подтипа. Копировано с текстом на английском языке – после разрешения авторов (Marques, Collins, 2004).
+[/FIGURE]
+
+[FIGURE]
+[NOTE: six line drawings of eggs and cleavage stages; the four in the upper row are numbered 1, 2, 3, 4 and are grouped under the label I; the two at the right are numbered 1 and 2 and are grouped under the label II.]
+
+1	2	3	4
+
+I
+
+1
+
+2
+
+II
+
+Рис. 2. Схема строения яйца (I) (по: Hyman, 1940) и схема гаструляции по типу деляминации (II) (по: Иванова-Казас, Кричинская, 1988). I:1 – яйцо изолецитального или гомолецитального типа; 2, 3 – яйца телолецитального типа; 4 – яйцо центролецитального типа; II: 1 – морульная деляминация, 2 – клеточная деляминация.
+[/FIGURE]
+
+гаструляция по типу деляминации (табл. 1, 2). Для большинства Hydrozoa характерны яйца заметно меньшего размера и бедные желтком, изо- или гомолецитального типа, когда желток распределен равномерно по объему цитоплазмы
+
+(рис. 2: 1); или телолецитального типа, когда желток распределен неравномерно по отношению к центру яйца (рис. 2: 2, 3). Центролецитальный тип яиц, когда желток внутри яйца сосредоточен в его центре (рис. 2: 4), известен у сифонофор и
+
+ЗООЛОГИЧЕСКИЙ ЖУРНАЛ	том 93	№ 3	2014

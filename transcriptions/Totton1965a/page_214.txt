@@ -1,0 +1,53 @@
+[PAGE 209]
+
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 15 ABYLIDAE	209
+
+Eudoxid phase
+
+At present we cannot distinguish between the eudoxids of the A. trigona group of species. There are no really satisfactory illustrations of these common animals.
+
+Remarks:   I suspect that A. trigona and A. carina will eventually prove to be synonyms of one species. For my comments on the statement by Sears (1953, p. 32) that both Quoy & Gaimard and Haeckel were confusing two species (the same two in each case) in their accounts of A. trigona and A. carina, see Totton (1954, pp. 148–151).
+
+[FIGURE]
+A
+Apoph
+C.ped
+R.l.
+0
+Cmb
+R.r.
+10.m.m.
+W.hyd.r.
+W.hyd.l.
+Prot.ch.
+E
+N.s
+R.l
+Ost.
+To.v.l.
+W.hyd.l
+B
+D
+Cmb.
+W.hyd.r.
+W.hyd.l.
+C
+To.v.r.
+To.v.l.
+To.r
+To.l
+To.d
+
+FIG. 142
+A. Abyla trigona Q. & G. Polygastric phase. Posterior nectophore, lateral view, × 4·2, 'Discovery' St. 2067
+B. Abyla carina Haeckel. Posterior nectophore, Challenger Expedition
+C. Abyla tottoni Sears. Basal part of the posterior nectophore, × 5·2, 'Discovery' St. 1178
+D. Abyla trigona Q. & G. Comb of right hydroecial wing of posterior nectophore, part of the type material (Mus. d'Hist. Nat., Paris)
+E. Dorsal view of the base of the posterior nectophore of the same, × 5·5
+C.ped = pedicular canal; Ost = ostium; R.l = left ridge; R.r = right ridge; for other abbreviations see text-figure 141 (from Totton, 1954, fig. 75).
+[/FIGURE]
+
+[NOTE: no printed square brackets on this page. The five drawings of text-figure 142 are set
+A (left), E (upper centre), B (upper right), D (far right) and C (lower centre-right); the
+labels above are listed drawing by drawing in that visual order, not alphabetically. The
+scale bar beside A is lettered "0" at the top and "10.m.m." lower down.]

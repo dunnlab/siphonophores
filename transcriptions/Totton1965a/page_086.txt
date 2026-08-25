@@ -1,0 +1,30 @@
+[PAGE 81]
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 5 PYROSTEPHIDAE	81
+
+develops thick mesogloeal walls and becomes convoluted as it decreases in diameter towards the base of the terminal filament. It probably acts as an extensor on activation of the mechanism when the proximal end of the cnidoband breaks away from the pedicel and the whole cnidoband turns end for end and is flung on to the prey.
+
+In most other siphonophores with the common type of tentillar cnidosac, the diverticular canal also becomes the cavity of the saccus, and the paired 'elastic bands' are probably formed from the lateral walls of the axial canal. These bands are, significantly, attached distally at the base of the terminal filament, at a point where the diverticulum just described originates. For this reason I believe the 'paired elastic bands' to be homologous with the lateral mesogloeal walls of the proximal part of the axial canal. Their proximal ends are known to originate from the lateral mesogloeal walls of the pedicel. The 'paired elastic bands' of the common type of cnidosac are probably more efficient and elaborate extensors than the axial canal of Pyrostephos.
+
+[FIGURE]
+t
+c.p
+s
+f.t
+c.d
+cn.b
+n.l
+
+FIG. 44.   Pyrostephos vanhoeffeni Moser
+Schematic sketch of an early growth stage of a tentillum, × 50
+c.d = diverticular canal; c.p = pedicular canal; cn.b = cnidoband; f.t = terminal filament; n.l = lateral nematocysts; t = tentacle; s = saccus.
+[/FIGURE]
+
+Thus Pyrostephos gives a clue as to the structure ontogeny and evolution of the hitherto puzzling and rather complicated tentillar knobs or cnidosacs that are found both in Physonectae and in Calycophorae. In this respect Pyrostephos seems to have retained a primitive feature. But in the still more primitive tentilla in species of Nanomia and Forskalia the axial canal never develops a diverticulum: there the axial canal remains simple, though it becomes spirally coiled throughout its length, and develops paired elastic bands. It seems that development of paired elastic bands in most siphonophores evolved prior to the development of the diverticulum.
+
+At the base of the saccus there are from five to seven pairs of larger, lateral nematocysts. They do not enter the saccus-wall through the pedicel until the terminal filament, still in its straight uncoiled condition, is almost 0·5 mm in length. These large, ovoid, lateral nematocysts measure 0·04 mm × 0·28 mm. They contain a large central structure, probably the hampe with spines, so that they possibly are heterotrichous heteronemes, euryteles or even stenoteles.
+
+Bracts:   The largest measure 23 mm × 14 mm according to Moser. She described them as very thick, flat underneath, convex above, and proximally coming to a long point much broadened distally and irregularly toothed: the bracteal canal is fine, drawn out and ends some distance from the distal end. The basic pattern of the distal end seems to be three pointed. In early growth stages there is a shallow horizontal pocket on the upper side between the lateral pair of points.
+
+Palpons (Oleocysts) (Pl. XVI, fig. 10):   On a specimen taken on January 3, 1913, by 'Terra Nova' at Station 274 (71° 29'S, 166° 00'W) in 80 m, the oleocysts seem to be arranged at the dorsal edges of the ventral tract of appendages as if to buoy up the stem.
+
+[NOTE: printed folio 81 at the outer (right) edge of the running head; PDF index 86, offset −5 holds. Text-fig. 44 sits between two blocks of text and is transcribed in that position. The items listed inside [FIGURE] are exactly the hand-lettered text printed within the drawing and nothing else, in reading order: "t" at the upper left, "c.p" and "s" on leaders above the drawing, "f.t" at the right-hand end, and "c.d", "cn.b", "n.l" on leaders below. The drawing has no panel letters and no scale bar (the magnification × 50 is given in the caption instead). The illustration is not described. Numerals verified digit by digit at 2·8–3·2× magnification: 0·5 mm, 0·04 mm × 0·28 mm, 23 mm × 14 mm, January 3, 1913, Station 274, 80 m, and the co-ordinates (71° 29'S, 166° 00'W) — the last with a leading zero, printed "00'". Decimal points are raised middots and "×" is a printed multiplication sign. The degree signs are printed with a thin space before them. The single quotation marks round 'elastic bands' and 'paired elastic bands' and 'Terra Nova' are the author's own. In the last paragraph the printed line "the ventral tract" has a raised point between "the" and "ventral" where the two words nearly touch; it is a spacing artefact, not punctuation, and is transcribed as a plain space. There are two small stray ink marks in the right-hand margin, one level with "0·04 mm ×" and one level with "pair of points", and one in the left margin level with "are heterotrichous"; none carries text. In the caption the abbreviations are italic and the "=" signs are printed as a double-stroke equals glyph. No printed square brackets occur on this page.]

@@ -1,0 +1,116 @@
+[PAGE 254: unnumbered]
+
+[PLATE]
+PLATE X
+
+1.
+pn
+nc
+s
+t
+t
+s
+s
+s
+
+2.
+dc
+rc
+lc
+cc
+
+4.
+lo
+cc
+vc
+
+11.
+pn
+nc
+t
+t
+t
+
+13.
+dc
+[?ca]
+lc
+vc
+
+3.
+
+14.
+brc
+
+16.
+t
+s
+fg
+p
+mg
+pl
+p
+st br
+st br
+p
+pl
+
+15.
+brc
+
+12.
+ns
+rc
+dc
+cc
+
+8.
+
+7.
+brc
+
+17.
+st
+inv
+amp
+lh
+
+9.
+st
+inv
+cnb
+t.f
+
+10.
+s
+p
+p
+pl
+br
+s
+
+5.
+
+6.
+brc
+[/PLATE]
+
+[NOTE: this leaf is entirely occupied by PLATE X, a single reproduced drawing-block carrying all seventeen figures. Its caption, with the key to the abbreviations, is on the facing leaf, PDF page 253; no caption text is repeated here. The plate is printed PORTRAIT on a portrait leaf — unlike PLATE IX on PDF page 252 it needs no rotation, and every figure number and reference letter reads upright.]
+
+[NOTE: "PLATE X" is set in bold full capitals in the top right corner of the leaf, above and clear of the plate block, in the ordinary text orientation. It is the only text on the leaf that is not part of the reproduced drawing.]
+
+[NOTE: the figures are NOT laid out in numerical order. Read left to right and top to bottom, the arrangement is: a top band of 1. (a tall figure occupying the whole left edge of the plate), 2., 4., 11. (a second tall figure running the full height of the plate at centre-right) and 13.; then 3., 14. and 16.; then 15. and 12.; then 8., 7. and 17.; then 9. and 10.; and finally 5. and 6. along the bottom left. The [PLATE] block above lists the tokens figure by figure, each figure's number first and then its own reference letters in their reading order within that figure, with a blank line between figures; the figures are given in the layout order just described, not renumbered. Figures 3., 5. and 8. carry a number but no reference letters, and are listed with their number alone.]
+
+[NOTE: every reference letter is engraved in small italic and joined to the structure it names by a fine dotted or ruled leader. Token counts per figure: 1. eight (pn, nc, then s, t, t, s, s, s down the siphosome); 2. four; 3. none; 4. three; 5. none; 6. one; 7. one; 8. none; 9. four; 10. six; 11. five; 12. four; 13. four; 14. one; 15. one; 16. eleven; 17. four. Sixty-two reference letters in all across the seventeen figures.]
+
+[NOTE: two reference letters on this plate do not appear in the key printed on the facing caption leaf (PDF page 253), which lists lc but no lo, and cc but no ca. (a) Figure 4 carries "lo": at magnification the second glyph is an unmistakably closed round bowl with no ascender, quite unlike the open italic c used in "cc" on the same figure, so "lo" is what is engraved. (b) Figure 13's lower-left letter is transcribed "[?ca]": the first glyph is a clear open italic c, but the second is a closed bowl with a short right-hand stroke, matching the "a" of "amp" on figure 17 rather than the open c of "cc" on figures 2, 4 and 12. The alternative reading is "cc"; the leader line meets the letter at exactly that point and may be closing an open c. 300 dpi is the limit of the scan here and the two readings cannot be separated with confidence. SECOND OPINION WANTED on this one token.]
+
+[NOTE: the peduncular-lamellae letter is engraved on figure 16 as "st br", in two parts with a clear word space and NO full point, twice. The key on the facing caption leaf prints it "st.br" with an internal full point. Transcribed as engraved on the plate.]
+
+[NOTE: the terminal-filament letter on figure 9 is engraved "t.f" with an internal full point, agreeing with the key.]
+
+[NOTE: the figure number of figure 16 has a small comma- or apostrophe-shaped ink speck immediately to its upper left, so that it can read as "'16", and a second similar speck sits alone in the blank space below it. Neither is type; the printed numeral is "16". Comparable isolated specks occur in the blank areas across the whole leaf.]
+
+[NOTE: a short hook-shaped ink mark and a broken row of very faint grey wisps lie in the white margin just below the lower edge of the plate block, centred at about two-thirds of the leaf's width. They are too faint and too fragmentary to be read as type and are more probably scanner artefact or offset from a facing leaf; nothing legible is present. No printed folio, no running head and no printer's signature mark appears on this leaf.]
+
+[NOTE: no printed square brackets and no editorial query marks appear on this leaf. The only square brackets above are transcriber markers.]

@@ -1,0 +1,889 @@
+<<<PAGE pdf=1 file=page_001.txt>>>
+[PAGE 1: unnumbered]
+
+ВСЕСОЮЗНЫЙ АРКТИЧЕСКИЙ ИНСТИТУТ
+THE ARCTIC INSTITUTE OF THE USSR
+
+ТРУДЫ
+
+АРКТИЧЕСКОГО ИНСТИТУТА
+
+ТОМ IX
+
+TRANSACTIONS
+OF
+THE ARCTIC INSTITUTE
+
+VOL. IX
+
+[FIGURE] [publisher's device: an octagonal vignette showing a polar landscape with aurora, a hut with a mast, three figures and a dog sledge; no lettering] [/FIGURE]
+
+ЛЕНИНГРАД · 1934 · LENINGRAD
+
+<<<PAGE pdf=2 file=page_002.txt>>>
+[PAGE 2: unnumbered]
+[RUNNING HEAD] Т Р У Д Ы   А Р К Т И Ч Е С К О Г О   И Н С Т И Т У Т А
+ТОМ IX. ЛЕНИНГРАД, 1934, СТР. 3—58.
+T R A N S A C T I O N S   O F   T H E   A R C T I C   I N S T I T U T E
+VOL. IX. LENINGRAD, 1934, PP. 3—58
+
+[NOTE: first page of the article; no folio printed, the head-note gives the article's extent as pp. 3—58. Display capitals in the running head and title are letterspaced; spacing normalised here except in the two letterspaced head lines.]
+
+ЗООПЛАНКТОН КАРСКОГО МОРЯ ПО МАТЕРИАЛАМ
+ЭКСПЕДИЦИЙ АРКТИЧЕСКОГО ИНСТИТУТА
+НА „СЕДОВЕ“ 1930 ГОДА И „ЛОМОНОСОВЕ“ 1931 ГОДА
+
+Т. БЕРНШТЕЙП
+
+МАТЕРИАЛ И МЕТОДИКА СБОРА И ОБРАБОТКИ
+
+Экспедиция на ледокольном пароходе „Седов“ 1930 г. и экспедиция на э/с „Ломоносов“ 1931 г. производили океанографические работы в северной части Карского моря и в районе между Землей Франца-Иосифа и о-вом Визе, на южной границе, так называемой, бухты Полярного бассейна. Этими экспедициями был собран обширный планктонный материал, результатом обработки которого и является настоящая статья.
+
+В 1930 г. материал был собран во время экспедиции на л/п „Седов“ на 22 глубоководных станциях. Эти станции распределяются по четырем разрезам (рис. 1). Первая станция была сделана еще в Баренцовом море. Первые три станции в Карском море (ст. 2—4) были взяты на сравнительно глубоких местах, и самая северная станция этого разреза была самой глубокой (511 м). Разрезы второй (ст. 6—10) и третий (ст. 12—20) были проведены в восточной части Карского моря, значительно более мелкой. На этих разрезах глубины не превышали 200 м. Четвертый разрез (ст. 22—25) прошел с востока на запад, приблизительно по широте 76°35'N. Сбор планктона производился замыкающейся сетью Джеди из газа № 25, с входным отверстием в 20 см диаметром и средним кольцом в 50 см диаметром, и такой же сетью из газа № 3. Ловы производились в следующих горизонтах: 0—10 м, 10—25 м, 25—50 м, 50—100 м, и глубже брались горизонты в 100 м или несколько больше, в зависимости от глубины данного места. К сожалению, материал 1930 г. имеет один недостаток: сетка после каждого лова не промывалась и, вследствие этого, имел место занос форм из одной пробы в другую. Иногда это обнаруживалось нахождением в поверхностной пробе заведомо глубоководных форм. Из-за этого недочета приходилось рассматривать с особой осторожностью распространение организмов, встречающихся в небольшом количестве, и особенно их вертикальное распределение.
+
+<<<PAGE pdf=3 file=page_003.txt>>>
+[PAGE 4]
+
+— 4 —
+
+В экспедиции 1931 г. на „Ломоносове“ планктонный материал собирался П. И. Усачевым, заведывавшим биологической частью экспедиции, и мною. Планктон собирали следующими сетками: 1) сетка „цеппелин“ из газа № 25; диаметр колец 9 см; 2) замыкающаяся сетка Джеди из газа № 25; диаметр входного отверстия 34 см, сторона верхнего конуса 120 см, диаметр среднего кольца 50 см, сторона нижнего сетяного конуса 132 см; 3) средняя сеть Апштейна из газа № 25 (размеры обычные); 4) сетка Кори из газа № 3; длинная сторона входного отверстия 96 см.
+
+„Цеппелином“ было сделано восемь разрезов, по ходу судна, все в Баренцовом море. Этого материала я не обрабатывала.
+
+Глубоководные гидрологические разрезы мы начали к северу от мыса Желания. На гидрологических разрезах в Карском море вертикальные ловы производились сетью Джеди и сетью Апштейна. В верхнем слое воды, до глубины 10—15 м, планктон собирался кроме того при помощи сетки Кори.
+
+Интересно было сравнить планктонные сборы, сделанные сетью Джеди и сетью Апштейна. Вообще, как правило, сбор, сделанный сетью Апштейна, беднее, чем лов в том же месте и в том же слое, сделанный сетью Джеди. Особенно наглядно это было видно при сравнении проб со ст. 7. На этой станции мы обловили слой 420—0 м сеткой Джеди и здесь же 450—0 м сеткой Апштейна. Последний лов был значительно беднее первого количественно, и, кроме того, некоторые виды в нем совсем отсутствовали. Эту бедность можно отнести отчасти за счет разницы в диаметре входного отверстия, а также, вероятно, в немалой степени за счет вымывания улова из сетки. Последнее обстоятельство более существенно для быстро плавающих организмов — они легче выскальзывают из сети Апштейна. Сетка Джеди имеет длинный верхний конус (120 см), предохраняющий улов от вымывания, а у сетки Апштейна верхний конус очень невелик. Замыкающаяся сетка Нансена, при затягивании ее петлей, кроме того теряет некоторую долю улова потому, что при этом часть воды выбрасывается обратно. Таким образом, сетку Джеди нужно считать наиболее пригодной для работы в море.
+
+В начале работ 1931 г. пробы планктона брались в тех же слоях, как и в предыдущих экспедициях, т. е. границы слоев совпадали с гидрологическими горизонтами, на которых определялись температура и соленость. Но затем, по предложению П. И. Усачева, планктонные ловы производились таким образом, чтобы гидрологические данные приходились на середину облавливаемого слоя. Горизонты стали следующими: 0—17 м, 17—37 м, 37—62 м, 62—87 м, 87—125 м, 125—175 м, 175—250 м и т. д. Однако, такой способ лова не дает никаких преимуществ при обработке материала, так как безразлично, на какую именно точку обловленного слоя воды приходятся гидрологические данные, если число последних остается
+
+<<<PAGE pdf=4 file=page_004.txt>>>
+[PAGE 5]
+
+— 5 —
+
+[FIGURE]
+[NOTE: full-width map printed landscape, rotated 90° CCW relative to the text; lettering transcribed as if correctly oriented. Map lettering is very faint at 300 dpi.]
+
+КАРТА
+ПЛАНКТОННЫХ СТАНЦИЙ
+[legend, first line, dotted line with open circle] „Седов“ 1930 г.
+[legend, second line, solid line with open circle] „Ломоносов“ 1931 г.
+
+Земля Франца Иосифа
+О Шмидта
+О Комсомолец
+О Пионер
+О Октябрьской Революции
+О [?Домашний]
+О [?Воронина]
+О [?Исаченко]
+[?З] Уединения
+О Визе
+Новая Земля
+О° от Гринвича
+
+[NOTE: station numbers 1—25 are lettered along the two track lines; graticule labels 55°, 60°, 80°, 90°, 95°, 76°, 77°, 80° appear on the frame.]
+
+Рис. 1. Карта глубоководных станций на л/п „Седов“ в 1930 г. и на э/с „Ломоносов“ в 1931 г.
+Abb. 1. Karte der Tiefseestationen der Expedition 1930 auf dem Eisbrecher „Sedow“ und der Expedition 1931 auf dem Exped. Schiff „Lomonossow“.
+[/FIGURE]
+
+неизменным. Ведь сравнивать большею частью приходится не с отдельными цифрами, приуроченными к данной точке, а с общим гидрологическим режимом станции. В то же самое время целесообразнее пользоваться общепринятыми горизонтами для удобства сравнения материалов. Производить же слишком дробные ловы вертикальной сеткой не имеет смысла
+
+<<<PAGE pdf=5 file=page_005.txt>>>
+[PAGE 8]
+
+— 8 —
+
+[NOTE: the printed folio jumps from 5 to 8; pp. 6—7 are not present in this PDF.]
+
+Все пробы 1931 г. и пробы, взятые сеткой из газа № 25 в 1930 г., я обрабатывала только качественно, просматривая всю пробу целиком. Количество организмов я определяла только приблизительно, на глаз, как это и указано в таблицах.
+
+Точные координаты всех планктонных станций приведены в таблицах, приложенных в конце статьи.
+
+СПИСОК ФОРМ,
+НАБЛЮДАВШИХСЯ В ПЛАНКТОНЕ КАРСКОГО МОРЯ
+ПО МАТЕРИАЛАМ 1930 И 1931 ГОДОВ
+
+LISTE DER IM PLANKTON DES KARISCHEN MEERES BEOBACHTETEN FORMEN
+NACH DEN MATERIALIEN VON 1930 UND 1931
+
+[NOTE: species list set in two columns; left column given in full, then right column.]
+
+PROTOZOA
+FORAMINIFERA
+
+Globigerina bulloides d'Orb.
+
+RADIOLARIA
+ACANTHARIA
+
+Acanthometron pellucidum O.F.M.
+Acanthonia ligurina (Haeckel)
+
+NASSELARIA
+
+Plectacantha oikiskos Jörg.
+Phormacantha hystrix Jörg.
+Dictyophimus gracilipes Bailey
+Dictyophimus multispinus Bernstein sp. nov.
+Amphimellissa setosa (Cleve)
+
+SPUMELLARIA
+
+Echinomma leptodermum Jörg.
+Sticholonche zanglea R. Hertwig
+
+TINTINNOINEA¹
+
+Leprotintinnus pellucidus (Cleve) Jörg.
+Tintinnopsis beroidea Stein
+Tintinnopsis lata Meunier
+Tintinnopsis meunieri Kof. et Campb.
+Tintinnopsis nidida Bdt
+Coxliella pseudannulata Jörg.
+Coxliella ampla (Jörg.)
+Coxliella angustospiralis Bernstein
+Parafavella acuta (Jörg.)
+Parafavella cylindrica (Jörg.)
+Parafavella gigantea (Bdt)
+Parafavella media (Bdt)
+Parafavella obtusangula (Ost.)
+Parafavella robusta (Jörg.)
+Parafavella rotundata (Jörg.)
+Parafavella subrotundata (Jörg.)
+Ptychocylis obtusa Bdt
+Acanthostomella norvegica Jörg.
+Metacylis annulata (Meunier)
+Metacylis vitreoides (Meunier)
+Salpingella secata (Bdt)
+
+HYDROMEDUSAE²
+
+Sarsia princeps Haeckel
+Sarsia flammea Hartlaub
+
+[FOOTNOTE] ¹ Представители Tintinnoinea перечислены в таком порядке, какой принят у Kofoid и Campbell (1929).
+[FOOTNOTE] ² Названия медуз и порядок их перечисления по A. Mayer (1910), кроме Catablema vesicarium, которая определена по Hartlaub (1914).
+
+<<<PAGE pdf=6 file=page_006.txt>>>
+[PAGE 9]
+
+— 9 —
+
+[NOTE: species list continues in two columns; left column given in full, then right column.]
+
+Catablema vesicarium (Al. Agassitz)
+Rathkea octopunctata Haeckel
+Mitrocomella polydiademata (Romanes)
+Ptychogastria polaris Allmann
+Homoeonema platygonon Maas
+Aglantha digitale Haeckel
+Aeginopsis laurentii Brandt
+
+SIPHONOPHORA
+
+Diphyes arctica Chun
+
+ANTHOZOA
+
+Arachnactis bournei Fowl (larvae Cerianthus lloydii Gosse)
+
+CTENOPHORA
+
+Mertensia ovum Fabricius
+Beroe cucumis Fabricius
+
+VERMES
+
+Polychaeta larvae
+Sagitta bipunctata Quoi et Gaim.
+Krohnia hamata Moeb.
+
+COPEPODA
+
+Calanus finmarchicus (Gunn.)
+Calanus hyperboreus Kröyer
+Amallophora magna Scott
+Pseudocalanus elongatus Boeck
+Microcalanus pygmaeus Sars
+Spinocalanus abyssalis Giesbrecht
+Gaidius tenuispinus Sars
+Euchaeta norvegica Boeck
+Euchaeta glacialis Hansen
+Scolecithricella minor (Brady)
+Limnocalanus grimaldii (de Guerne)
+Metridia longa (Lubb.)
+Heterorhabdus norvegica Boeck
+Oithona similis Claus
+Oncaea borealis Sars
+Microsetella atlantica Rob. et Br.
+
+OSTRACODA
+MOLLUSCA
+
+Gastropoda juv.
+Lamellibranchiata juv.
+Limacina helicina Phipps
+Clione limacina Phipps
+
+ECHINODERMATA, LARVAE
+
+Ophiopluteus et Ophiurae juv.
+Echinopluteus
+
+APPENDICULARIA
+
+Fritillaria borealis Lohm.
+Fritillaria polaris Bernstein sp. nov.
+Oikopleura labradoriensis Lohm.
+Oikopleura vanhöffeni Lohm.
+Oikopleura parva Lohm.
+
+ПЛАНКТОН В РАЙОНЕ БУХТЫ ПОЛЯРНОГО БАССЕЙНА
+
+До экспедиции на л/п „Седов“ в 1930 г. планктон в этой части моря никем не собирался. В Карском море планктон собирали не севернее широты мыса Желания. Экспедиция принца Орлеанского сделала несколько станций к северу от Новой Земли, но из этих мест были обработаны только простейшие (Meunier, 1910). Сборы Nansen'a, сделанные на „Фраме“ в Полярном бассейне, были обработаны Sars'ом только в отношении ракообразных. Поэтому было интересно исследовать планктон, собранный у бухты Полярного бассейна, между Землей Франца-Иосифа
+
+<<<PAGE pdf=7 file=page_007.txt>>>
+[PAGE 27]
+
+— 27 —
+
+[NOTE: the printed folio jumps from 9 to 27; the intervening pages are not present in this PDF. Salinity is set as a superscript 0 over a subscript 00 (per-mille); rendered here as ⁰/₀₀.]
+
+В Карском море уже указывалась ранее Линко (1913) и Яшновым (1927). Последний автор находил эту медузу при предельной минимальной солености 26.80⁰/₀₀.
+
+Diphyes arctica Chun.
+
+Встречается часто. В 1930 г. было больше, чем в 1931 г. (см. таблицы). Для Карского моря указана Линко (1913) и Яшновым (1927).
+
+Arachnactis bournei Fowl.
+
+Встречалась несколько раз в пробах 1931 г.: на ст. 14 (303—0 м), ст. 16 (37—17 м и 220—0 м), ст. 17 (125—87 м, 62—17 м), ст. 18 (сетка Кори, 0—15 м), ст. 19 (290—0 м), ст. 22 (37—17, 17—0 м).
+
+Это пелагическая личинка актинии Cerianthus lloydii Gosse. Она определена мною по статье O. Carlgren'a в „Nordisches Plankton“. К сожалению, я не могу проверить определение по актиниям Карского моря; хотя имеется большой материал по актиниям Карского моря, но он остается необработанным за отсутствием специалистов.
+
+Линко (1913) находил Arachnactis в Карском море у западного берега Таймыра. Но он располагал плохо сохранившимися экземплярами и ближе их не определил.
+
+Mertensia ovum Fabricius
+
+Встречалась довольно часто (см. табл. 6).
+Высокоарктическая, кругополярная форма.
+В Карском море находили Линко (1913) и Яшнов (1927).
+
+Beroe cucumis Fabricius
+
+Встречалась несколько чаще предыдущего вида.
+Арктический вид.
+В Карском море указана Линко и Яшновым.
+
+Polychaeta larvae
+
+Личинки Polychaeta попадались в нижних и также в верхних слоях воды. Они бывали в различных стадиях развития, как самых начальных, так и молодых червей (о нахождении их см. в таблицах в конце статьи).
+
+Sagitta bipunctata Quoi et Gaim.
+
+Встречалась довольно часто. На некоторых станциях в поверхностных ловах было много совсем мелких, молодых Sagitta bipunctata, напр. на ст. 18, 20, 23 1930 г. (см. таблицы). Максимальное количество было на ст. 23 в пробе 25—0 м — 235 штук. Именно на этой же станции была минимальная соленость, при которой встречалась Sagitta, — у поверхности было всего 21⁰/₀₀.
+
+Обычна в Карском море.
+
+<<<PAGE pdf=8 file=page_008.txt>>>
+[PAGE 40]
+
+40 —
+
+Таблица 3
+
+[TABLE]
+[NOTE: column heads are set vertically (rotated 90°); they are given here as an ordinary header row. Stub column heads read "Первый разрез 1930 г." (upper left box), "№№ станций", "Местоположение", "Горизонты в метрах".]
+
+Первый разрез 1930 г.	№№ станций	2	2	2	2	2	3	3	3	4	4	4
+Первый разрез 1930 г.	Местоположение	78°26′ N, 64°43′ E	78°26′ N, 64°43′ E	78°26′ N, 64°43′ E	78°26′ N, 64°43′ E	78°26′ N, 64°43′ E	78°58′ N, 68° 25′ E	78°58′ N, 68° 25′ E	78°58′ N, 68° 25′ E	[?7]9°11′ N, 71° 39′ E	[?7]9°11′ N, 71° 39′ E	[?7]9°11′ N, 71° 39′ E
+Первый разрез 1930 г.	Горизонты в метрах	362—200	200 – 100	100—50	50—25	25 – 0	340—100	100—25	25—0	500—100	100—25	25 - 0
+Homoeonema platygonon . . . .	2*	7	—	—	—	1	—	—	1	—	—
+Aglantha digitule . . . . . .	1	1	–	—	—	—	—	—	—	—	—
+Aeginopsis laurentii . . . . . .	—	—	2	3	—	—	—	—	5	—	—
+Diphyes arctica . . . . . . . .	4	8	2	—	1	12	1	—	25	1	—
+Beroe cucumis . . . . . . . . .	--	—	—	—	—	—	—	—	—	1	—
+Sagitta bipunctata . . . . . . .	1	—	—	—	3	3	—	—	—	5	—
+Krohnia hamata . . . . . . . .	—	2	2	2	1	8	1	3	9	—	—
+Polychaeta larvae . . . . . . .	1	1	—	—	—	—	—	—	4	—	—
+Calanus finmarchicus . . . .	13	9	7	29	82	39	8	421	33	136	66
+Calanus hyperboreus . . . . . .	—	—	—	—	4	—	—	5	1	8	4
+Pseudoculanus elongatus . . . .	9	13	11	62	47	9	3	3	28	41	13
+Microcalanus pygmaeus . . . . .	17	2	3	2	—	24	3	—	105	1	—
+Amallophora magna . . . . . .	—	—	—	—	—	—	—	—	1	—	—
+Gaidius tenuispinus . . . . .	—	1	–	—	—	2	—	—	6	—	—
+Euchaeta norvegica . . . . .	—	—	—	—	—	—	—	—	--	1	—
+Euchaeta glacialis . . . . . . .	—	1	—	—	—	—	—	—	—	—	—
+Metridia longa . . . . . . .	38	5	3	5	2	58	16	1	161	24	—
+Heterorhabdus norvegicus . . . .	—	1	—	—	—	3	—	—	—	—	—
+Oithona similis . . . . . . . .	8	18	49	99	48	17	100	25	50	41	9
+Harpacticidae . . . . . . . .	1	—	2	—	—	4	—	—	3	—	—
+Ostrucoda . . . . . . . . . . .	12	2	—	—	—	17	3	—	23	—	—
+Amphipoda . . . . . . . . . .	—	4	1	1	—	4	3	1	4	1	—
+Gastropoda juv. . . . . . . . .	1	—	1	5	21	3	—	1	1	11	14
+Limacina helicina . . . . . . .	—	—	—	—	—	—	—	—	2	—	—
+Ophiopluteus . . . . . . . . .	—	—	3	8	—	—	—	—	—	1	—
+Fritillaria borealis . . . . . . .	—	—	2	20	2	2	25	—	23	8	—
+Oikopleura labradoriensis . . . .	1	—	1	11	—	—	3	7	4	2	—
+[/TABLE]
+
+[FOOTNOTE] * Цифры обозначают количество организмов в пробе.
+[FOOTNOTE] Die Zahlen zeigen die Menge der in der Probe enthaltenen Organismen an.
+
+<<<PAGE pdf=9 file=page_009.txt>>>
+[PAGE 41]
+
+— 41 —
+
+Таблица 4
+
+[TABLE]
+[NOTE: column heads set vertically (rotated 90°); given here as an ordinary header row. Stub head reads "Второй разрез 1930 г."]
+
+Второй разрез 1930 г.	№№ станций	6	6	6	8	8	8	8	9	9	9	10	10
+Второй разрез 1930 г.	Местоположение	79°26′ N, 78 03 E	79°26′ N, 78 03 E	79°26′ N, 78 03 E	78°55′ N, 78 30 E	78°55′ N, 78 30 E	78°55′ N, 78 30 E	78°55′ N, 78 30 E	78°20′ N, 79 10 E	78°20′ N, 79 10 E	78°20′ N, 79 10 E	77°53′ N, 79 45 E	77°53′ N, 79 45 E
+Второй разрез 1930 г.	Горизонты в метрах	40—25	25—0	40—0	140—100	100—50	50—25	25—0	170—100	100—25	25—0	100—25	25—0
+Aeginopsis laurentii . . . . .	—	1*	3	—	4	13	8	2	—	13	2	4
+Diphyes arctica . . . . . . .	—	—	—	8	6	—	—	1	2	—	8	2
+Sagitta bipunctata . . . . .	—	5	11	—	1	--	—	—	—	2	—	—
+Krohnia hamata . . . . . . .	—	—	—	—	—	3	3	2	—	74	—	40
+Polychaeta larvae . . . . . .	1	3	6	—	12	14	—	2	2	—	—	—
+Calanus finmarchicus . . .	61	562	553	14	110	246	386	52	53	541	58	249
+Calanus hyperboreus . . . . .	—	—	5	—	6	2	1	3	1	1	9	5
+Pseudocalanus elongatus . . . .	53	377	429	8	121	236	23	10	24	198	48	191
+Microcalanus pygmaeus . . . .	3	—	25	9	14	3	1	17	8	15	96	9
+Euchaeta glacialis . . . . . . .	—	—	—	—	1	—	—	—	—	2	2	—
+Metridia longa . . . . . . .	—	—	4	2	32	5	—	7	14	19	16	7
+Oithona similis . . . . . . . .	45	396	338	8	124	61	32	18	15	305	68	169
+Harpacticidae . . . . . . . .	—	8	3	—	2	3	—	—	—	—	---	1
+Ostracoda . . . . . .	—	—	1	—	—	1	—	3	—	—	—	—
+Amphipoda . . . . . . . . .	—	—	1	—	1	—	1	–	1	—	1	—
+Gastropoda juv. . . . . . . . .	4	35	18	1	11	15	—	2	1	15	6	18
+Limacina helicina . . . . . . .	—	—	—	—	—	—	—	1	—	2	—	—
+Echinopluteus . . . . . . . .	—	—	—	—	—	—	—	1	1	8	1	1
+Ophiopluteus . . . . . . . .	7	107	124	—	63	71	—	28	23	286	53	—
+Fritillaria borealis . . . . .	3	81	39	—	8	20	77	9	2	176	11	109
+Oikopleura labradoriensis . . .	2	35	40	—	16	25	4	1	—	9	4	34
+[/TABLE]
+
+[FOOTNOTE] * Цифры обозначают количество организмов в пробе.
+[FOOTNOTE] Die Zahlen zeigen die Menge der in der Probe enthaltenen Organismen an.
+
+<<<PAGE pdf=10 file=page_010.txt>>>
+[PAGE 42]
+
+— 42 —
+
+[NOTE: the outer (right) edge of this page is lost in a heavy black scan shadow. The table's "Таблица N" label and the longitude of station 13 are unreadable. A further narrow column of figures survives as traces inside the shadow and is wholly unreadable; it is given below as a trailing column of [illegible] cells. It may be station 13's shallowest horizon, or a sliver of the facing page (p. 43) caught in the scan — the table is a two-page spread and continues on p. 43.]
+
+[TABLE]
+[NOTE: column heads set vertically (rotated 90°); given here as an ordinary header row. Stub head reads "Третий разрез 1930 г."]
+
+Третий разрез 1930 г.	№№ станций	15	15	15	14	14	14	13	13	13
+Третий разрез 1930 г.	Местоположение	80°47′ N, 89°50′ E	80°47′ N, 89°50′ E	80°47′ N, 89°50′ E	80°26′ N, 88°57′ E	80°26′ N, 88°57′ E	80°26′ N, 88°57′ E	79°55′ N, 88[illegible]	79°55′ N, 88[illegible]	79°55′ N, 88[illegible]
+Третий разрез 1930 г.	Горизонты в метрах	48—25	25—10	10—0	165—100	100—25	25—0	193—100	100—25	[illegible]
+Sarsia flammea . . . . . . . . .	—	—	—	—	—	—	—	—	[illegible]
+Aglantha digitale . . . . . . . .	—	—	—	1*	—	—	—	—	[illegible]
+Aeginopsis laurentii . . . . . . .	—	—	—	6	5	7	4	3	[illegible]
+Diphyes arctica . . . . . . . . .	—	—	—	4	3	1	12	—	[illegible]
+Sagitta bipunctata . . . . . .	—	—	—	—	—	—	—	—	[illegible]
+Krohnia hamata . . . . . . . .	—	—	—	—	—	8	—	—	[illegible]
+Polychaeta larvae . . . . . . . .	—	—	—	—	2	—	1	—	[illegible]
+Calanus finmarchicus . . . . . .	19	20	29	101	442	178	89	229	[illegible]
+Calanus hyperboreus . . . . . .	—	1	—	—	2	—	4	—	[illegible]
+Pseudocalanus elongatus . . . . .	136	56	47	81	352	204	41	178	[illegible]
+Microcalanus pygmaeus . . . . .	—	—	—	39	23	2	142	11	[illegible]
+Euchaeta glacialis . . . . . . .	—	—	—	1	—	1	—	—	[illegible]
+Metridia longa . . . . . . . . .	1	—	—	17	27	—	56	20	[illegible]
+Oithona similis . . . . . . . . .	41	9	10	23	63	42	27	28	[illegible]
+Harpacticidae . . . . . . . . .	—	—	—	—	5	—	—	—	[illegible]
+Ostracoda . . . . . . . . . . .	—	—	1	1	—	—	2	—	[illegible]
+Amphipoda . . . . . . . . . . .	—	—	—	—	—	—	1	—	[illegible]
+Gastropoda juv. . . . . . . . . .	3	5	1	4	21	1	—	15	[illegible]
+Limacina helicina . . . . . . . .	—	—	—	—	—	—	—	—	[illegible]
+Echinopluteus . . . . . . . . .	—	—	—	—	—	—	—	8	[illegible]
+Ophiopluteus . . . . . . . . . .	3	—	1	1	14	—	25	—	[illegible]
+Fritillaria borealis . . . . . .	7	3	6	19	211	870	21	106	[illegible]
+Oikopleura labradoriensis . . . .	4	3	1	3	32	28	—	10	[illegible]
+[/TABLE]
+
+[FOOTNOTE] * Цифры обозначают количество организмов в пробе.
+[FOOTNOTE] Die Zahlen zeigen die Menge der in der Probe enthaltenen Organismen an.
+
+<<<PAGE pdf=11 file=page_011.txt>>>
+[PAGE 43]
+
+— 43 —
+
+Таблица 5
+
+[TABLE]
+[NOTE: right-hand half of a table spread whose row stubs (species names) are printed on p. 42; no stubs appear on this page, so the rows below carry no labels. Column heads for the horizons are set vertically (rotated 90°). The leftmost column is cut into by a black scan shadow at the gutter: its station number is lost, only "N," survives of its position line, and its horizon reads 25—0.]
+
+[illegible]	16	16	16	17	17	18	18	18	19	19	20
+[illegible] N,	79° N, 87°07′ E	79° N, 87°07′ E	79° N, 87°07′ E	78°33′ N, 86 20 E	78°33′ N, 86 20 E	78°02′ N, 86°30′ E	78°02′ N, 86°30′ E	78°02′ N, 86°30′ E	77°31′ N, 86 17 E	77°31′ N, 86 17 E	77°13′ N, 85 38 E
+25—0	[?180—100]	100—25	25—0	115—25	25—0	100—40	40—25	25—0	130—25	25—0	52—0
+—	—	—	—	—	—	—	—	—	—	—	1
+—	—	—	—	—	—	—	—	—	—	—	—
+18	—	—	20	16	29	8	4	9	7	13	31
+—	2	3	4	2	—	8	—	—	6	—	—
+2	—	—	5	1	11	—	—	122	4	66	75
+6	1	—	—	—	—	—	—	—	—	—	—
+4	1	—	2	4	2	5	—	—	3	7	4
+537	45	94	407	187	347	82	105	755	210	511	744
+1	—	—	—	1	—	—	1	—	1	—	2
+214	34	79	327	407	544	67	62	232	141	204	450
+5	48	34	7	102	1	360	3	2	208	11	122
+—	1	—	—	—	—	—	—	—	—	—	—
+10	9	28	14	22	—	63	3	4	27	5	9
+28	35	150	160	398	438	155	41	132	88	144	393
+3	—	—	1	—	1	—	—	—	—	3	2
+1	2	—	—	—	—	—	—	—	—	—	—
+—	—	—	—	—	—	2	—	—	—	—	—
+22	2	14	24	36	44	2	7	32	12	9	26
+—	—	—	—	1	—	—	—	—	—	—	—
+2	—	—	—	—	—	—	—	—	—	—	—
+8	—	4	4	12	2	113	47	50	41	49	119
+171	4	6	213	82	767	17	5	280	16	426	347
+22	—	22	22	54	21	51	11	103	44	78	191
+[/TABLE]
+
+<<<PAGE pdf=12 file=page_012.txt>>>
+[PAGE 44]
+
+— 44 —
+
+Таблица 6
+
+[TABLE]
+[NOTE: column heads set vertically (rotated 90°); given here as an ordinary header row. Stub head reads "Четвертый разрез 1930 г."]
+
+Четвертый разрез 1930 г.	№№ станций	20	21	23	23	24	24	24	25
+Четвертый разрез 1930 г.	Местоположение	77°13′ N, 85 38 E	76°38′ N, 81 48 E	76°30′ N, 76 53 E	76°30′ N, 76 53 E	76°36′ N, 74 48 E	76°36′ N, 74 48 E	76°36′ N, 74 48 E	76°36′ N, 72 07 E
+Четвертый разрез 1930 г.	Горизонты в метрах	52—0	55—0	100—25	25—0	155—105	105—25	25—0	10—0
+Sarsia flammea . . . . . . . . .	1*	--	—	1	—	—	--	—
+Catablema vesicarium . . . . .	—	—	—	—	—	—	—	1
+Aeginopsis laurentii . . . . . . .	31	5	3	34	—	3	–	—
+Diphyes arctica . . . . . . . .	—	—	6	—	3	2	1	—
+Sagitta bipunctata . . . . . .	75	72	9	235	—	—	2	32
+Krohnia hamata . . . . . . . .	—	--	1	—	—	—	—	—
+Polychaeta larvae . . . . .	4	—	10	14	1	2	—	—
+Calanus finmarchicus . . . .	744	267	24	114	13	35	180	341
+Calanus hyperboreus . . .	2	8	2	—	2	1	—	—
+Pseudocalanus elongatus . . .	450	233	181	1030	10	100	153	306
+Microcalanus pygmaeus . . . .	122	32	99	1	33	46	2	3
+Euchaeta glacialis . . . . .	—	—	—	1	—	1	1	—
+Metridia longa . . . . . . . . .	10	4	15	1	2	5	—	—
+Limnocalanus grimaldii . . . .	—	—	1	—	1	—	1	2
+Oithona similis . . . . . . .	393	126	88	162	18	63	9	20
+Harpacticidae . . . . .	2	—	—	12	9	4	—	—
+Ostracoda . . . . . . . . . .	—	—	—	—	2	—	—	—
+Amphipoda . . . . . . . . . . .	—	1	2	2	—	—	—	—
+Gastropoda juv. . . . . . . . . .	26	28	3	17	—	7	1	1
+Limacina helicina . . . . . . .	—	—	—	—	—	—	—	2
+Ophiopluteus . . . . . . . . .	119	3	27	13	1	3	—	—
+Fritillaria borealis . . . . . .	347	107	5	212	6	3	1	—
+Oikopleura labradoriensis . . .	191	19	10	65	—	3	—	1
+[/TABLE]
+
+[FOOTNOTE] * Цифры обозначают количество организмов в пробе.
+[FOOTNOTE] Die Zahlen zeigen die Menge der in der Probe enthaltenen Organismen an.
+
+<<<PAGE pdf=13 file=page_013.txt>>>
+[PAGE 45]
+
+— 45 —
+
+СПИСОК ЦИТИРОВАННОЙ ЛИТЕРАТУРЫ
+
+Бернштейн, Т. Планктические простейшие северозападной части Карского моря. — Труды Аркт. инст., III, вып. 1, Лг., 1931.
+Бернштейн, Т. Зоопланктон района Земли Франца-Иосифа. — Труды Аркт. инст., II, Лг., 1932.
+Визе, В. Ю. и А. Ф. Лактионов. Глубоководные гидрологические наблюдения. — Труды Аркт. инст., I, Лг., 1933.
+Линко, А. К. Наблюдения над медузами Белого моря. — Труды Петрогр. Общ. Естествоисп. XXIX, вып. 4, 1899.
+Линко, А. К. Исследование над составом и жизнью планктона Баренцова моря. — Эксп. для научно-промысл. исслед. у берегов Мурмана, СПб., 1907.
+Линко, А. К. Зоопланктон Сибирского Ледовитого океана. — Зап. И. Акад. наук, XXIX № 4, 1913.
+Линко, А. К. Журнал зоологических работ. — Труды Мурм. Научно-промысл. эксп. 1906 г., 1915, (278—293).
+Яшнов, В. А. Зоопланктон Карского моря. — Труды Плов. морск. научн. инст., II, вып. 2, 1927.
+Carlgren, Oskar. Die Actinien Larven. — Nordisches Plankton, XI, 5. Lief., Kiel — Leipzig, 1927.
+Guerne, J., de Description du Centropages grimaldii, Copépode nouveau du golfe Finlande. — Bull. Soc. Zool. France, vol. 11, 1886.
+Hartlaub, Cl. Craspedote Medusen. Teil 1, Lief. 3. Familie IV Tiaridae. — Nordisches Plankton, Lief. 17, Kiel — Leipzig, 1914.
+Jörgensen, E. Protist Plankton of Northern Norwegian Fiords (winter and spring 1899, 1900), Repr. from Bergens Museums Skrifter 1905, Bergen, 1905, 4⁰, pp. 49—151 with plates VI—XVIII.
+Kofoid, A. C., and. A. S. Campbell. A conspectus of the Marine and Fresh-Water Ciliata belonging to the suborder Tintinnoinea with description of new species principally from the Agassiz Expedition to the Eastern Tropical Pacific 1904—1905. — Univ. of California Public. in Zoology, vol. 34, 1920, pp. 1—403, 697 f..
+Kramp, P. L. A revision of the Medusae belonging to the family Mitrocomidae. — Videnskabelige Meddelelser fra Dansk Naturhistorisk Forening i Kobenhavn. Bind 92, 1931—1932, pp. 3 15—384.
+Linko, A. Zoologische Studien im Barents-Meere. Hydromedusen. — Zool. Anz., Bd. 28 1901, № 16.
+Lohmann, H. Die Appendicularien der Plankton-Expedition. — Ergebn. der Plankton-Expedition der Humboldt-Stiftung. Bd. 2, E. c., 1896.
+Lohmann, H. Die Appendicularien des Arktischen und Antarktischen Gebiets, ihre Beziehungen zueinander und zu den Arten des Gebiets der warmen Ströme. — Zool. Jahrb.-Suppl. 8, 1905, S. 353—382, 2 Tab.
+Lohmann, H. Die Appendicularien. — Nordisches Plankton, I, Lief. 3, 1927.
+Mayer, A. Medusae of the World. — Washington, Carnegie Institution, 1910.
+Meunier, A. Microplankton des Mers de Barents et de Kara. — Duc d'Orléans. Campagne Arctique de 1907. Bruxelles, 1910.
+Nansen, Fr. The Oceanography of the North Polar Bassin. — The Norw. North-Polar Exp., 1893—1896, vol. III, 1902.
+Nansen, Fr. Spitsbergen waters. Oceanographic observations during the cruise of the „Veslemöy“ to Spitsbergen in 1912. Christiania, 1915, p. 132.
+
+[NOTE: in the second Lohmann entry the end-of-line break in "Beziehungen" is set with a comma instead of a hyphen ("ihre Bezie, / hungen"); joined here. In the Kramp entry the first page number is broken by a space and reads "3 15—384" as printed. The first entry's initial Б is damaged and prints like Ђ.]
+
+<<<PAGE pdf=14 file=page_014.txt>>>
+[PAGE 46]
+
+— 46 —
+
+Rhumbler, L. Nordische Plankton-Foraminiferen. — Nordisches Plankton, XIV. Lief. 1, 1927.
+Sars, G. O. Pelagic Entomostraca of the Caspian Sea. — Annuaire Mus. Zool. St-Pétersb., II. 1897, p. 39.
+Sars, G. O. The Cladocera, Copepoda and Ostracoda of the Jana Expedition. — Annuaire Mus. Zool., St.-Pétersbourg, III, 1898, p. 335.
+Sars, G. O. Crustacea. — The Norw. North Polar Exp. 1893—1896, vol. 1, 1900.
+Sars, G. O. An account of the Crustacea of Norway. — Copepoda Calanoida IV, 1902—1918.
+Schröder, Olaw. Die nordischen Spumellarien. Teil II. Unterlegion Sphaerellaria. — Nordisches Plankton, XVII, Lief. 11, Kiel-Leipzig, 1909.
+
+[NOTE: German summary begins here]
+
+ZOOPLANKTON DES NÖRDLICHEN TEILES
+DES KARISCHEN MEERES
+
+VON TAMARA BERNSTEIN
+
+ZUSAMMENFASSUNG
+
+Die Expedition von 1930 auf dem Eisbrecher „Sedow“, und die Expedition 1931 auf dem Exped. Schiff „Lomonossow“, die in der nördlichen Hälfte des Karischen Meeres, sowie im Gebiete zwischen Franz Joseph-Land und der Insel Wiese, an der Südgrenze der sogenannten Bucht des Polarbeckens ozeanographische Arbeiten ausführten, hatten dort ein reichhaltiges Plankton-Material gesammelt. Die Ergebnisse der Bearbeitung dieses Materials sind in dem vorliegenden Aufsatze dargelegt.
+
+Im Iahre 1930 wurde das Material während der Expedition auf dem Eisbrecher „Sedow“ auf 22 Tiefwasserstationen gesammelt. Diese Stationen fallen auf 4 Schnitte (siehe Karte, Abb. 1). Die erste Station war schon in der Barents-See gemacht worden. Die ersten 3 Stationen im Karischen Meere (St. 2—4) wurden auf verhältnismässig tiefen Stellen gemacht, wobei die nördlichste Station dieses Schnittes die tiefste war (511 m). Der zweite (St. 6—10) und dritte Schnitt (St. 12—20) wurde in dem östlichen, bedeutend flacheren Teil des Karischen Meeres ausgeführt. Auf diesen Schnitten übersteigen die Tiefen nicht 200 m. Der vierte Schnitt (St. 22—25) ging von Osten nach Westen, ungefähr auf der Breite 76°35' N. Das Sammeln von Plankton wurde mit einem verschliessbaren „Jeddy“-Netz aus Gaze № 25 und einem zweiten aus Gaze № 3 vollzogen, deren Eingangsöffnungen einen Durchmesser von 20 cm, die Mittelringe einen Durchmesser von 50 cm hatten, Der Fang wurde auf folgenden Horizonten ausgeführt: 0—10 m, 10—25 m, 25—50 m, 50—100 m; tiefer wurden Horizonte von 100 m und etwas mehr, je nach der Tiefe der Stelle, genommen.
+
+In der Expedition 1931, auf dem „Lomonossow“, wurde das Plankton-Material von P. I. Ussatschev, unter dessen Leitung sich die biologische
+
+<<<PAGE pdf=15 file=page_015.txt>>>
+[PAGE 47]
+
+— 47 —
+
+Abteilung der Expedition befand, und vom Verfasser gesammelt. Das Plankton wurde mit folgenden Netzen gewonnen: 1) Netz „Zeppelin“ aus Gaze № 25; Durchmesser der Ringe — 9 cm 2) Schliessbares Netz „Jeddy“ aus Gaze № 25; Durchmesser der Eingangsöffnung 34 cm; Seite des oberen Kegels — 120 cm; Durchmesser des mittleren Ringes — 50 cm; Seite des unteren Kegels — 132 cm. 3) Mittleres Netz „Apstein“ aus Gaze № 25 (gewöhnliches Mass). 4) Netz „Kory“ aus Gaze № 3; die lange Seite der Eingangsöffnung — 96 cm.
+
+Mit „Zeppelin“ wurden 8 Schnitte gemacht (der Fahrt des Dampfers gemäss), alle in der Barents-See (dieses Material ist vom Verfasser nicht bearbeitet worden). Hydrologische Tiefwasserschnitte begannen wir nördlich vom Kap Shelanija. Bei den hydrologischen Schnitten wurde der senkrechte Fang mit dem „Jeddy“- und „Apstein“- Netze ausgeführt. Aus der oberen Wasser-schicht, bis zu einer Tiefe von 10—15 m, wurde Plankton auch noch mit Hilfe des Kory-Netzes gesammelt.
+
+Alle Proben von 1930, die mit dem „Jeddy“-Netz aus Gaze № 3 gesammelt waren, sind vom Verfasser nach der qualitativen Berechnungsmethode bearbeitet worden. Jedoch, wie bekannt, hat die Netzfangsmethode des Planktons neben vielen Vorzügen auch eine Reihe von Nachteilen, infolge deren der Netzfang zur Erreichung eines mehr oder minder genauen Zahlenverhältnisses der Plankton-Fauna als untauglich betrachtet werden muss.
+
+Je grösser die Zahl der Organismen in der Probe ist, umso genauer wird auch, wie bekannt, das Zahlenverhältnis bestimmt werden. In hohen Breitengraden jedoch ist der Planktonfang niemals besonders ausgiebig. Die meisten Vertreter der Plankton-Fauna in den Proben, die mir zur Verfügung standen, fanden sich in verhältnismässig geringer Anzahl von Exemplaren vor, und infolgedessen fällt die Ungenauigkeit bei der Ermittlung der Anzahl von Organismen in einem bestimmten Wasservolumen eines gegebenen Meeresteiles viel zu gross aus.
+
+In Tafeln 1—4 ist die unmittelbar berechnete Anzahl der Formen gegeben, die in den Proben der Schnitte 1930 enthalten waren.
+
+Diese Zahlen sind mit gewissem Vorbehalt anzunehmen und geringe Schwankungen derselben dürfen nicht in Betracht gezogen werden.
+
+Die Ergebnisse der Zählungsmethode lohnen sich nicht der Mühe. Deshalb habe ich alle Proben des Jahres 1931, sowie die mit dem Netz aus Gaze № 25 von 1930, nur qualitativ bearbeitet, indem ich die ganze Probe vollständig untersuchte. Die Anzahl der Organismen bestimmte ich nur annähernd (nach Augenmass), wie in den Tafeln gezeigt ist.
+
+Die genauen Koordinaten aller Planktonstationen sind in den Tafeln, am Ende dieses Artikels, angegeben.
+
+Ein vollständiges Verzeichnis der Zooplankton-Formen dieses Materials befindet sich im russischen Texte, Seite 8.
+
+<<<PAGE pdf=16 file=page_016.txt>>>
+[PAGE 48]
+
+— 48 —
+
+Die Fundorte aller gewonnenen Arten sind nach Stationen und Horizonten aus den, diesem Artikel beigefügten Tafeln zu ersehen.
+
+Vor der Expedition auf dem Eisbrecher „Sedow“ im Iahre 1930 war in der Region der Bucht des Polarbeckens kein Plankton gesammelt worden. Im Karischen Meere wurden Plankton-Sammlungen nicht nördlicher als auf dem Breitengrade des Kaps Shelanija gemacht.
+
+Die Expedition des Prinzen von Orléans hatte einige Stationen im Norden von Nowaja Semlja gemacht, doch aus diesen Gebieten waren nur die Protozoen der Bearbeitung unterzogen worden (Meunier). Nansen's Sammlungen, die auf der „Fram“ im Polarbecken gemacht waren, sind von Sars nur im Bezug auf die Krebstiere bearbeitet worden. Deswegen bot die Untersuchung des an der Bucht des Polarbeckens, zwischen Franz Joseph-Land und Insel Wiese gesammelten Planktons, ein grosses Interesse.
+
+In diesem Gebiet besteht eine, aus dem Polarbecken nach Süden gehende Strömung, und daher konnte man annehmen, dass man Vertreter der Fauna dieses Meeres antreffen würde, von welcher bisher noch so wenig Kenntnis vorhanden ist.
+
+Nansen's Untersuchungen auf der „Fram“ zufolge, schliesst das Polarbecken, wenigstens in der an Eurasien angrenzenden Hälfte, in bedeutendem Masse die Wasser des Golfstromes ein, die von der Ostseite Spitzbergens in das Polarbecken eindringen. Diese atlantischen Wassermassen, von grossem Salzgehalt, sinken infolge ihrer grösseren Schwere in die Tiefe hinab. Die obere Schicht ist sehr kalt und durch das Wasser der grossen sibirischen Flüsse entsalzt. Darunter befindet sich eine bedeutende Schicht, die aus der Mischung des kalten, entsalzten Wassers der oberen Schicht und dem warmen, sehr salzigen Wasser der tiefer liegenden Schichten gebildet ist. Infolgedessen muss das Plankton des Polarbeckens, ausser den rein arktischen Kaltwasser-Formen — als ziemlich wichtigen Bestandteil — auch Formen atlantischer Abstammung einschliessen.
+
+Da die vom Norden, zwischen Franz Joseph-Land und Insel Wiese durchgehende Strömung nicht kaltes Wasser von der Oberfläche, sondern Wasser aus tieferen Schichten mit sich bringt, augenscheinlich atlantisches, das sich schon eine gewisse Zeit im Polarbecken befunden hatte und im Laufe seiner Zirkulation in demselben erkaltet worden war, so muss demgemäss diese Strömung, neben den rein arktischen Formen, auch andere, Warmwasserformen mit sich bringen. Dies ist auch bei dem Studium des Planktons unserer Expeditionen festgestellt worden.
+
+Der Zusammenhang, der zwischen dem Plankton aus dem von unseren Expeditionen erforschten Gebiete und dem Plankton aus Spitzbergen und sogar von den Norwegischen Küsten besteht, lässt sich, augenscheinlich, durch die Zirkulation des Golfstromwassers im Polarbecken erklären.
+
+<<<PAGE pdf=17 file=page_017.txt>>>
+[PAGE 49]
+
+— 49 —
+
+Die Planktonorganismen, die im ganzen nördlichen Teile des Karischen Meeres angetroffen wurden, können in forgende Gruppen zerlegt werden:
+
+1) Lokale Arten, die gewöhnlich den Hauptteil des Planktons bilden und sich an diesen Orten fortpflanzen.
+
+2) Eingewanderte Arten aus Süd-Westen, von der Seite der Barents-See.
+
+3) Eingewanderte Arten aus dem Norden, von der Seite des Polarbeckens.
+
+Die Eingewanderten aus dem Polarbecken können zweierlei Herkunft sein: entweder sind sie rein arktische Formen, oder Begleiter der atlantischen Strömung, die zwischen Grönland und Spitzbergen in das Polarbecken eindringen.
+
+Zur Zahl der lokalen Hauptformen des Karischen Meeres gehören folgende Arten:
+
+[NOTE: species list set in two columns; left column given in full, then right column.]
+
+Acanthonia ligurina
+Amphimellissa setosa (nur in den tiefen Teilen des Meeres)
+Parafavella gigantea
+Parafavella robusta
+Parafavella cylindrica
+Parafavella rotundata
+Ptychocylis obtusa
+Tintinnopsis meunieri (in flacheren und Küsten-Teilen des Meeres)
+Aglantha digitale
+Aeginopsis laurentii
+Beroe cucumis
+Mertensia ovum
+Diphyes arctica
+Sagitta bipunctata
+Krohnia hamata
+Calanus finmarchicus
+Calanus hyperboreus
+Pseudocalanus elongatus
+Microcalanus pygmaeus
+Euchaeta glacialis
+Metridia longa
+Oithona similis
+Oncaea borealis
+Limacina helicina
+Clione limacina
+Ophiopluteus und Echinopluteus
+Fritillaria borealis
+Oikopleura labradoriensis
+Oikopleura vanhoeffeni
+
+Die Gruppe der lokalen Arten besteht hauptsächlich aus den arktischen, sowie auch aus den im Norden allgemein weit verbreiteten Formen, und ausserdem auch aus den Kosmopoliten. Alle oben genannten Formen werden meistens in grossen Anzahl von Exemplaren angetroffen. Eine Ausnahme bildet Euchaeta glacjalis, welche auch einzeln gefunden wird. Doch dieses letztere, sehr grosses und rasch mit starken Stössen schwimmendes Krebstier wird wohl nur selten im Netz einbehalten.
+
+All diese Formen werden fast immer im Plankton angetroffen und bilden seine Hauptmasse. Sie werden nicht nur im erwachsenen Zustande, sondern auch im Jugendzustande, in verschiedener Entwicklungstadien in grosser Anzahl vorgefunden.
+
+Тр. Аркт. инст., т. IX.	4
+
+<<<PAGE pdf=18 file=page_018.txt>>>
+[PAGE 50]
+
+— 50 —
+
+Zu den Eingewanderten von der Seite der Barents-See mögen folgende Arten gehören:
+
+[NOTE: species list set in two columns; left column given in full, then right column.]
+
+Globigerina bulloides
+Plectacantha oikiskos
+Dictyophimus gracilipes
+Salpingella secata
+Mitrocomella polydiademata
+
+Es ist jedoch eher möglich, dass diese Arten aus der Barents-See, sowie auch von der Seite des Polarbeckens in den nördlichen Teil des Karischen Meeres eindringen.
+
+Globigerina bulloides ist in dem nördlichen und westlichen Teile des erforschten Gebietes verbreitet. Ihr Eindringen in den östlichen Teil des Karischen Meeres ist durch die unbedeutenden Tiefen und den verminderten Salzgehalt dieses Gebietes verhindert.
+
+Es war von grossem Interesse die vertikale Verteilung der Gl. bulloides auf einigen nördlichen Stationen zu verfolgen. Leider fand auf St. 7 (1931) ein ununterbrochener Fang vom Boden bis zur Oberfläche statt. Doch auf der nächsten Station № 8 wurden Proben von allen Horizonten im einzelnen genommen. Auf dieser Station, am Boden, in einer Tiefe von 480 m, war die Temperatur — 1.01°. In den mittleren Schichten, ungefähr bei 200 m Tiefe, macht sich der Einfluss des wärmeren, aus dem Polarbecken kommenden atlantischen Wassers bemerkbar (— 0.37°). Auf den benachbarten Stationen 7, 9 und 10 war dieser Einfluss viel stärker ausgedrückt, dort war die Temperatur positiv: + 1.56° auf St. 7, in 200 m Tiefe; + 1.20° auf St. 9, in 150 m Tiefe; + 1.40° auf St. 10, in 150 m Tiefe. Über dieser Schicht fliesst eine, ebenfalls aus dem Norden kommende Strömung sehr kalten Wassers (— 1.37°). Es zeigte sich dass Gl. bulloides in allen Horizonten vorgefunden wird; sie vermeidet nur die Schichten kalten Wassers. Oberhalb dieser Schichten wird sie wieder angetroffen, doch nimmt sie nicht die alleroberste Schicht ein, was aber augenscheinlich durch den verminderten Salzgehalt — 31.85⁰/₀₀ — bedingt ist.
+
+Auch auf Station 11 vermeidet diese Rhizopodenform eben diese Kaltwasserschichten (— 1.44° in einer Tiefe von 50 m), wird aber wieder höher und tiefer als dieselbe angetroffen (Tafel 5).
+
+Gl. bulloides verträgt offenbar keine Verminderung des Salzgehalts — der niedrigste Salzgehalt, bei welcher, Gl. bulloides vorgefunden wurde, ist 32.45⁰/₀₀ an der Oberfläche auf St. 11. Sie verträgt, im Gegenteil, bedeutende Temperaturschwankungen, lebt auch bei negativen Temperaturen, wird nur in den kältesten Schichten nicht angetroffen. Wenn man die hohen Temperaturen in Betracht zieht, bei welchen sie im Atlantischen Ozean lebt, so kann diese ozeanische Form zu den eurythermischen und stenohalinen gerechnet werden.
+
+<<<PAGE pdf=19 file=page_019.txt>>>
+[PAGE 51]
+
+— 51 —
+
+Auf Grund der Verteilung dieser Form in der Barents-See kam Linko¹ zu der Schlussfolgerung, dass dieselbe vom Westen kommt und mit dem atlantischen Wasser nach Norden und Osten vordringend, sich längs der Strömung verbreitet.
+
+Mitrocomella polydiademata wurde nur in den Sammlungen 1931 auf St. 1 und 18 vorgefunden (Netz Kory, 15—0 m). Bisher wurde diese Meduse nur bedeutend südlicher vorgefunden und zwar: an den Nord-West-Küsten Europas bis zu 70° N und an den Ost-Küsten von Nord-Amerika (Kramp, 1932). Kramp betrachtet diese Form als nordborealisch neretisch. Im südwestlichen Teile der Barents-See fand Linko eine Meduse, die er als Phialis cruciata Haeckel annahm. Jedoch nach der neuen, genaueren Systematik der Familie Mitrocomidae (Kramp, 1932), ist diese Art mit unserer Mitrocomella polydiademata (Romanes) identisch. Vertreter der Familie Mitrocomidae, fast alle Bewohner der warmen Meere, leben im Küstenwasser, meistens in den oberen Schichten. All dieses bezeugt eher von einem Eindringen dieser Meduse in das Karische Meer, durch die Barents-See.
+
+Die Gruppe der Eingewanderten von der Seite des Polarbeckens wird, augenscheinlich, durch die folgenden Arten gebildet:
+
+[NOTE: species list set in two columns; left column given in full, then right column.]
+
+Dictyophimus multispinus
+Phormacantha hystrix
+Echinomma leptodermum
+Sticholonche zanglea
+Homoeonema platygonon
+Spinocalanus abyssalis
+Gaïdius tenuispinus
+Amallophora magna
+Fritillaria polaris
+Oikopleura parva
+
+Keine der in diesem Verzeichnis aufgeführten Formen wird in der Barents-See und in dem übrigen Teile des Karischen Meeres angetroffen, ausser Gaïdius tenuispinus, welcher wie in der Barents-See, so auch im Karischen Meere angetroffen wird, und Sticholonche zanglea, die ich im Karischen Meere (1931),² in der Region des nördlichen Teiles von Nowaja Semlja und Meunier auf etlichen Stationen im Karischen Meer vorfand.
+
+Linko (1907) führt im Verzeichnis der Formen, die er in der Barents-See gefunden hatte, auch Sticholonche zanglea an (Seite 35), jedoch im systematischen Teile, in dem er jede Art einer ausführlichen Beschreibung unterzieht, ist diese Form nicht erwähnt. Deswegen ist es ungewiss, in welchem Teile der Barents-See Sticholonche zanglea vorgefunden worden war.
+
+Diese Arten werden stets in geringer Anzahl von Exemplaren vorgefunden und die Stationsorte, auf denen sie angetroffen wurden, sowie das hydrologische Regime dieser Stationen (hierzu kommen noch unsere bisherigen
+
+[FOOTNOTE] ¹ Linko. A. K. Untersuchungen über das Plankton des Barents-Meeres. — Wissenschaftlich-praktische Murman-Expedition, St.-Petersburg, 1907, 245 S. (russisch).
+[FOOTNOTE] ² T. Bernstein. Pelagic Protists of the north-west part of the Kara Sea. — Transact. of the Arctic Inst., vol. III, part I. Leningrad, 1931, 23 pp. (Russisch mit einem englischen Résumé).
+
+4*
+
+<<<PAGE pdf=20 file=page_020.txt>>>
+[PAGE 52]
+
+— 52 —
+
+Kenntnisse ihrer geographischen Verbreitung) können als Beweis dafür gelten, dass sie von der Seite des Polarbeckens erscheinen. Einigen Zweifel ruft trotzdem das Auftreten von Sticholonche zanglea in diesen Distrikten hervor. Zufolge der Data, die wir zur Zeit besitzen, ist ihre Verbreitung im Karischen Meere ziemlich weitgehend. Diese charakteristische Form lebt im Mittelländischen Meer und im Atlantischen Ozean. In dem nördlichen Teil des Karischen Meeres konnte sie wie von der Seite der Barents-See, so auch von der Seite des Polarbeckens eintreten und zwar mit einer der sich verzweigenden warmen Atlantischen Strömungen. Obgleich nun die Temperatur der Endströmungen des Golfstromes in diesen Breitengraden bereits eine sehr niedrige ist, so erhält sich dieser Organismus dennoch in lebendigem Zustande. Ich halte das Erscheinen von Sticholonche zanglea durch das Polarbecken aus denselben Gründen für wahrscheinlich, als auch im Bezug auf die Radiolarien (siehe unten).
+
+Phormacantha hystrix Jörg. und Echinomma leptodermum Jörg. sind im Karischen Meere zum ersten Mal vorgefunden worden. Jörgensen, der diese Radiolarien beschrieben hat, fand dieselben an den südwestlichen Ufern von Norwegen. Später sind sie im Plankton der nördlichen Meere von niemand mehr angetroffen worden. Nur Meunier (1910) hatte eine ähnliche Form auf einer der Stationen im Karischen Meere vorgefunden — Phormacantha? sp.
+
+Der Verfasser fand Phormacantha hystrix auf St. 4 (1930) in einer 200—100 m Schicht. Das war die nördlichste der in dieser Region gemachten Stationen. Dort herrschte in 150 m Tiefe eine Temperatur von + 1.18°. Die verhältnismässig hohe Temperatur dieser Schicht erklärt sich durch die Strömung warmen atlantischen Wassers, die hier aus dem Polarbecken durchfliesst.
+
+Auch Echinomma leptodermum wurde auf St. 4 (1930) in Schichten von 300—200 m, 200—100 m, 100—50 m, vorgefunden und auf St. 12 (1931) in einer Schicht von 420—250 m.
+
+Es ist durchaus nicht zu verwundern, dass die Radiolarien und andere Organismen in diesen Teil des Karischen Meeres nur von der Seite des Polarbeckens eindringen und selbst in der Barents-See nicht angetroffen werden. Die Barents-See besitzt verhältnismässig geringe Tiefen und einen unebenen Boden, da sie sich gänzlich auf dem Kontinentalplateau befindet, weshalb die Meeresströmungen in derselben abgeschwächt und verlangsamt werden. Infolgedessen kann die Strömung von der Seite des tiefen Polarbeckens, obgleich sie bedeutend nördlicher fliesst, mehr Organismen atlantischer Herkunft mit sich bringen, als die durch die ganze Barents-See durchgehende Strömung, die abgeschwächt und stark abgekühlt ist. Ausserdem bewohnen die Radiolarien tiefere Wasserschichten und können daher eher mit derjenigen Strömung kommen, die sich weiter in die Tiefe erstreckt. In einigen Stellen der
+
+<<<PAGE pdf=21 file=page_021.txt>>>
+[PAGE 53]
+
+— 53 —
+
+Barents-See aber fliesst die warme Strömung in geringen Tiefen, welche von den Radiolarien nicht mehr bewohnt werden.
+
+Die Meduse Homoeonema platygonon Maas wurde bisher weder in der Barents-See, noch im Karischen Meere vorgefunden, und so besteht eine grosse Lücke zwischen ihrem Fundort, an den norwegischen Küsten und in den noch wärmeren Meeren, und dem nördlichen Teil des Karischen Meeres. Von dieser Form lässt sich nicht endgültig sagen, ob ihre Verbreitung in dieser Region mit der Strömung aus dem Polarbecken im Zusammenhang steht. Ihr Vorfinden dort ist nicht so charakteristisch und ist nicht mit den Stationen verbunden, auf denen diese Strömung, infolge hydrologischer Untersuchungen, entdeckt wurde. Zudem haben wir keine Data, die Verteilung der Medusen in der Barents-See in den letzten Jahren betreffend. Es ist möglich, dass das Eindringen aus dem Westen in die Barents-See vieler Formen, die früher dort nicht angetroffen wurden, mit dem bemerkbar wärmeren Klima der letzten Jahre im Zusammenhang steht. Diese Frage könnte das reichhaltige Material des Ozeanographischen Instituts entscheiden, das alljährlich in der Barents-See Arbeiten ausführt, aber leider noch nicht die Ergebnisse der Untersuchungen des Planktons veröffentlicht hat. Zudem erleichtert die Verteilung der Medusen in den oberen Wasserschichten ihr Vordringen von dieser Seite nach dem Norden (im Gegensatz zu den Radiolarien), obgleich Maas, betreffs der Meduse Homoeonema platigonon darauf hinweist, dass dieselbe auch grosse Tiefen bewohnt, und zwar die subtropischen Tiefen des Atlantischen Ozeans. Daher ist es möglich, dass diese Meduse, zusammen mit der Strömung des atlantischen Wassers, aus bedeutender Tiefe in das Polarbecken hineinkommt.
+
+Amallophora magna Scott und Spinocalanus abyssalis Giesbrecht sind, nach Sars, zweifellos arktische Arten und Vertreter der Fauna des Polarbeckens. In den norwegischen Fjorden müssen sie als Reliktenformen betrachtet werden. In der Barents-See und im Karischen Meere waren sie früher nicht angetroffen worden.
+
+Zu dieser Gruppe der Eingewanderten von der Seite des Polarbeckens könnte man auch Euchaeta glacialis Hansen rechnen. Obgleich dieses Krebstier ohne Zweifel ein hocharktisches, ist es doch im Norden viel weiter verbreitet, als Amallophora magna Scott und Spinocalanus abyssalis Giesbrecht, auch steht es dort nicht mit der genannten Strömung in enger Verbindung.
+
+Oikopleura parva Lohm. habe ich nur ein einziges Mal angetroffen und zwar auf St. 4 (1930), in einer 200—100 m Schicht. (Über das hydrologische Regime dieser Station siehe weiter unten in der Beschreibung des Dictyophimus multispinus). Nach Lohmann (1905), hat Oikopleura parva ihre Heimat im Warmwassergebiet, dringt aber durch die Ausläufer der warmen Ströme weiter, als die anderen Warmwasserappendicularien nach Nor-
+
+<<<PAGE pdf=22 file=page_022.txt>>>
+[PAGE 54]
+
+— 54 —
+
+den vor. Sie bewohnt das ganze Warmwassergebiet des Atlantischen Ozeans, das Mittelländische Meer, den Irminger See (im Sommer) und den Norden von Spitzbergen (in dieses letztere Gebiet ist sie vom Golfstrom hineingebracht). Zwar wurde Oikopleura parva in unserem Material nur einmal vorgefunden, wenn man aber die äusserst charakteristische Verbreitung dieser Appendicularie in Betracht zieht, so wird es klar, dass sie in den nördlichen Teil des Karischen Meeres nur mit dem Golfstrom durch das Polarbecken eindringen kann.
+
+Fritillaria polaris und Dictyophimus multispinus sind neue Arten. Bisher waren derartige Formen in den arktischen Meeren nicht angetroffen worden, selbst nicht in der gründlich erforschten Barents See. Deshalb habe ich auch die Schlussfolgerung gezogen, dass diese beiden Formen eigentlich Bewohner des Polarbeckens sind, von wo aus sie in das Karische Meer eintreten.
+
+Auf den Stationen, auf welchen die hydrologischen Data von einem gewissen Zufluss von wärmerem, offenbar atlantischem Wasser zeugen, übt dieser Umstand sofort seine Wirkung auf den qualitativen Bestand des Planktons aus. Das Plankton wird qualitativ bereichert — zu den lokalen Hauptarten kommen Arten hinzu, die mit dem gegebenen Zweige warmer Strömung zugetragen werden. Obgleich nun die meisten dieser letzteren Arten nur durch wenige Exemplare vertreten sind und quantitativ nur einen geringen Teil des Planktons bilden, bieten sie dennoch, als Strömungs-Zeiger, ein grosses Interesse.
+
+Als anschaulichen Beweis eines solchen gemischten Bestandes des Planktons gebe ich eine Liste der Plankton-Bevölkerung auf St. 4, 1930. (Siehe russ. Text, Seite 14).
+
+Einen ganz anderen Charakter zeigt das Plankton, welches längs der Ufer von Sewernaja Semlja (Schnitt der St. 15—20, 1930) gesammelt wurde. Dort waren die Tiefen verhältnismässig gering (sie überschritten nicht 200 m, meistens weniger) und die Plankton-Bevölkerung erschien einförmig, aus einer kleinen Anzahl von arktischen Arten bestehend, sowie auch aus den Arten, die in den nördlichen Meeren allgemein weit verbreitet sind (Tafel. 1—4, 6). Viele derselben wurden zu dieser Jahreszeit im Stadium der Fortpflanzung angetroffen. So fand sich eine grosse Menge der Krebstiere im Jugendzustande zwischen den Vertretern folgender Arten: Calanus finmarchicus, Pseudocalanus elongatus, Oithona similis und eine etwas geringere Anzahl im Jugendzustande bei Microlanus pygmaeus und Metridia longa- Oft wurden ganz junge Exemplare von Aeginopsis laurentii angetroffen und in grosser Zahl jugendliche Entwicklungsstadien von Fritillaria borealis und Oikopleura labradoriensis. Auch zwischen Sagitta bipunctata befanden sich viele kleine junge Exemplare.
+
+Einen gleichen Charakter zeigt auch das Plankton des Schnittes von der Einsamkeit-Insel bis zum Kap Shelanija (St. 20—25): dieselben Formen,
+
+[NOTE: after "Metridia longa" the sentence-final stop is printed as a hyphen at the end of the line; transcribed as printed. "Microlanus pygmaeus" is printed thus (for Microcalanus).]
+
+<<<PAGE pdf=23 file=page_023.txt>>>
+[PAGE 55]
+
+— 55 —
+
+und ebenso viele derselben im Stadium der Fortpflanzung. Ausserdem wurde bei diesem Schnitt auf drei Stationen (St. 23, 24, 25) Limnocalanus grimaldii de-Guerne vorgefunden. Dieses letztere Krebstier wird im Karischen Meere immer an Orten von stark vermindertem Salzgehalt angetroffen.
+
+Unten gibt der Verfasser die Beschreibung von zwei neuen Arten, die in diesem Gebiete vorgefunden wurden.
+
+Dictyophimus multispinus sp. nov. Im nördlichen Teile des Karischen Meeres wurde eine Radiolarie gefunden, die sich der Dictyophimus gracilipes Bailey annähert, sich jedoch durch etliche Merkmale des Skelettbaues von derselben unterscheidet. Der Hauptunterschied dieser Radiolarie von Dictyophimus gracilipes, und ihr am meisten charakteristisches Merkmal besteht in der grossen Anzahl der Skelettstacheln, warum ich sie auch Dictyophimus multispinus benannt habe.
+
+Das Skelett der Dictyophimus gracilipes hat vier Hauptstacheln: eine apikale (A), zwei laterale, linke und rechte (Lᵣ und L₁), eine dorsale (D) und eine Nebenstachel — ventrale (v). Zu diesen Stacheln kommen bei dem Dictyophimus multispinus noch folgende Stacheln hinzu (siehe die halbschematische Abbildung des Dictyophimus multispinus, Abb. 4): 2 extra apikale Stacheln, rechte und linke, (aᵣ und a₁) und zwei extra dorsale, rechte und linke (dᵣ und d₁). Demgemäss hat das Skelett dieser Radiolarie insgesamt elf Stacheln, im Gegensatz zu den fünf Stacheln des Dictyophimus gracilipes Bailey.
+
+Alle Skelettstacheln der hier angeführten Radiolarie sind dünn und lang. Die Hauptstacheln sind länger als die Nebenstacheln. Alle Hauptstacheln, sowie auch die Ventralstachel gehen vom Zentrum des Skelettes aus. Sie beginnen fast alle aus einem Punkte und sind eng miteinander verbunden. Diese Stacheln führen durch die Cephalis-Wandung, oder den Thorax, nach aussen. Die Nebenstacheln sind durch ihren Grundteil eher mit der Oberfläche des Skelettes als mit dem Zentrum desselben verbunden. Augenscheinlich bilden sich diese Stacheln bei der Entwicklung der Radiolarien später als die Hauptstacheln. Je früher die Stachel anfängt sich zu entwickeln, umso näher ist ihr Grundteil zum Zentrum des Skelettes. An der Oberfläche der Cephalis treten zwei besondere apicale Stacheln (aᵣ und a₁) hervor. Sie beginnen ganz nahe vom Zentrum des Skelettes und sind durch einige Querstäbchen (Abb. 5 und 6) fest mit der Oberfläche der Cephalis verbunden. Sie sind etwas kürzer als die Apical-Stachel (A). Die Neben-Lateralstacheln (lᵣ und l₁) fangen fast unmittelbar in der Verbindung zwischen Cephalis und Thorax an. Etliche Querstäbchen verbinden diese Stacheln wie Wurzeln mit dem Skelett (Abb. 4). Sie sind etwas kürzer als die Haupt-Lateralstacheln (Lᵣ und L₁). Auf einer der Neben-Lateralstacheln (l₁) befinden sich dünne flache Seitenauswüchse, wie auf den Hauptstacheln des Skelettes. Zwischen den Neben-Lateralstacheln (lᵣ und l₁) und der Dorsalstachel (D) befindet sich noch ein Paar Nebenstacheln — Neben-Dorsalstacheln (dᵣ und d₁). Diese
+
+[NOTE: subscript r and 1 on the spine symbols are set as printed subscripts; rendered here with Unicode subscript characters.]
+
+<<<PAGE pdf=24 file=page_024.txt>>>
+[PAGE 56]
+
+— 56 —
+
+Stacheln erscheinen bei der Entwicklung der Radiolarie offenbar noch später als die Neben-Lateralstacheln. Bei dem auf Abb. 6 gezeigten Exemplare werden sie aus den letzten Thorax-Querstäbchen gebildet. Sie sind bedeutend kürzer, als die übrigen Stacheln. Das ganze Skelett des Dictyophimus multispinus ist im Vergleich mit dem Skelett des Dictyophimus gracilipes dünner und feiner. Die Cephalis hat mindere Dimensionen. Ich gebe hier das Ausmass der einzelnen Skeletteile der Dictyophimus multispinus: Cephalis-Höhe — 25 μ, Cephalis-Breite — 31—34 μ, Höhe des ganzen Skelettes (Cephalothorax) — 57 μ, Länge von Lᵣ vom Thoraxrande — 66 μ, Länge vom Lᵣ vom Zentrum — 100 μ, Länge von aᵣ — 32 μ, Länge von dᵣ — 36 μ.
+
+Diese Radiolarie wurde in ziemlich grosser Zahl auf St. 4 (1930) in einer aus 200—100 m. Tiefe genommenen Probe gefunden.
+
+Station 4 (1930) war auf 79°11′ N und 71°39′ E gelegen. Auf dieser Station wurde die grösste Tiefe der Schnitte 1930 angetroffen und zwar 511 m. Salzgehalt in den tiefen Schichten 34.96⁰/₀₀ in einer Tiefe von 500 m bis zu 34.49⁰/₀₀ in 50 m Tiefe. Am Boden herrschte eine negative Temperatur — 0.93°, in 300 m Tiefe + 0.27° und ein Maximum von + 1.18° in 500 m Tiefe. Höher gab es schon negative Temperaturen und der Salzgehalt verminderte sich allmählig. Nach dem hydrologischen Schnitt zu urteilen, gelangte das warme Wasser von der Nordseite auf diese Station.
+
+Zu dieser Art gehört wahrscheinlich auch die Radiolarie, die ich in den Materialien von 1929 auf St. 17 vorfand, während des Schnittes in der Barents-See vom Südende des Franz Joseph-Landes nach Osten.¹ Diese Radiolarie war dem Dictyophimus gracilipes Bailey ähnlich, besass aber eine grössere Anzahl von langen und feinen Stacheln. Ich hatte damals nur ein Exemplar und es gelang mir nicht den Skelettbau dieser Radiolarie aufzuklären.
+
+Fritillaria polaris sp. nov.
+
+Auf einigen Stationen im Karischen Meere wurde eine Appendicularia von kleiner Dimension vorgefunden, die zu keiner der vorher beschriebenen Arten gezählt werden kann.
+
+Sie war auf folgenden Stationen gefunden worden: in den Sammlungen von 1930 auf St. 4 (200—100 m), in den Sammlungen von 1931 auf St. 8 (400—350 m, 350—250 m) und auf St. 12 (250—175 m, 175—125 m). Sie wurde fast immer einzeln gefunden.
+
+Diese Art steht der Fritillaria gracilis Lohmann am nächsten, unterscheidet sich jedoch von derselben durch eine Reihe von morphologischen Merkmalen.²
+
+[FOOTNOTE] ¹ T. Bernstein. Zooplankton of the Franz Ioseph-Land Region. — Transact. of the Arct. Inst. vol. II. Leningrad, 1932, pp. 3—35. (Russisch mit einem englischen Résumé).
+
+[FOOTNOTE] ² Es stand mir nur eine geringe Anzahl von Exemplaren dieser Art zur Verfügung daher ist die Beschreibung derselben nicht ausführlich.
+
+[NOTE: subscript r on the spine symbols (Lᵣ, aᵣ, dᵣ) is set as a printed subscript; rendered here with Unicode subscript characters. The salinity per-mille is printed as a superscript 0 over /00; rendered here as ⁰/₀₀.]
+
+<<<PAGE pdf=25 file=page_025.txt>>>
+[PAGE 57]
+
+— 57 —
+
+Der nach vorne und hinten leicht gestreckte Körper ist hinten abgerundet. Die Ränder der Kapuze treten an beiden Seiten des Vorderteiles des Skelettes hervor (Abb. 13 und 14). Neben der Mundöffnung, auf der Oberfläche des Körpers befindet sich ein kleiner Auswuchs — die Lippe.
+
+Die kleinen, breit-ovalen Kiemenöffnungen (a) liegen unmittelbar hinter dem Endostyl (e).
+
+Die Gonaden befinden sich am hintersten Teil des Körpers hinter den Gedärmen. Der Eierstock (o) ist kugelförmig, unpaarig. Vorne schliesst sich an denselben eine unpaarige Hode von ringartiger Form an (t). Hinten, in der Vertiefung der Hode liegt der Eierstock. Die vordere Vertiefung der Hode ist vom Magen eingenommen. Bei einem jüngeren Exemplare nahm der Eierstock fast die ganze Mitte des Ringes ein; bei seinem weiteren Wachstum hat derselbe im Zentrum des Ringes nicht mehr Platz und wird nach dem hinteren Ende des Körpers verschoben. Der Schlund (p) nimmt die vordere Hälfte des Körpers ein, die kurze Speiseröhre (oe) verbindet denselben mit dem Magen (v), der, von unregelmässiger Form, vor der Hode liegt.
+
+Der Schwanz hat eine sehr schwache Muskulatur, die kaum merklich über die Ränder der Chorde hervorragt und noch vor dem Ende des Schwanzes aufhört. Die flachen amöbenartigen Chordalzellen (ch) liegen medial. Die Schwimmflosse ist breit, am vorderen Ende von beiden Seiten abgerundet; das hintere Ende ist gestreckt und schmal. Zu beiden Seiten der Chorde liegen einzelne Zellen der Schwanzflosse, sie liegen vereinzelt oder paarweise von je 7 bis 8 auf jeder Seite. Einzelne Zellen von ebensolcher Grösse liegen längs der Schwanzmuskulatur, im hinteren Teile sind runde Zellen, im vorderen gestreckte.
+
+Die Körperlange beträgt 700 μ: die Länge des Schwanzes — 2300 μ.
+
+Von der ihr am nächsten stehenden Art, der Fritillaria gracilis, unterscheidet sich Fritillaria polaris durch die Form ihrer Chordalzellen, durch die Zahl, Form und Lage der Gonaden (Fritillaria gracilis hat 2 Eierstöcke und eine wurstförmige Hode) und durch die Grösse ihres Körpers (die grössten Exemplare von Fr. gracilis überstiegen nicht 500 μ). Ausserdem ist der verschmälerte und zugespitzte Teil der Schwanzflosse bei Fritillaria polaris viel kürzer als bei Fritillaria gracilis.
+
+Bisher war in den nördlichen Meeren nur eine Art dieser Gattung angetroffen worden, nämlich Fritillaria borealis Lohmann. Die übrigen Arten dieser Gattung bewohnen alle die warmen Meere. Da Fritillaria polaris in der Barents-See nicht vorgefunden wurde, und im Karischen Meere nur auf den nördlichsten Stationen, an der Grenze der sogenannten Bucht des Polarbeckens, so kann angenommen werden, dass diese Stationen die Südgrenze der Verbreitung dieser Art einfassen und dass dieselbe überhaupt das Polarbecken bewohnt. Einen indirekten Beweis dafür liefert auch der
+
+[NOTE: "Körperlange" is printed thus, without the umlaut, for "Körperlänge".]
+
+<<<PAGE pdf=26 file=page_026.txt>>>
+[PAGE 58]
+
+— 58 —
+
+Umstand, dass auf diesen Stationen viele Vertreter der Fauna des Polarbeckens gefunden wurden. Es ist möglich, dass diese Art nocheinmal im Grönländischen Meere gefunden werden wird, und sollte dieselbe wirklich eine arktische sein und zur Fauna des Polarbeckens gehören, so wird sie im westlichen Teile des Grönländischen Meeres, im Gebiet der Polarströmung gefunden werden.
+
+[NOTE: a short horizontal rule (tailpiece) is printed centred below the text; the rest of the page is blank.]
+
+<<<PAGE pdf=27 file=page_027.txt>>>
+[PAGE 27: unnumbered]
+
+[NOTE: full-page fold-out plate, printed landscape and reproduced sideways in the scan; transcribed here as if correctly oriented. The sheet was scanned in two overlapping strips and there is a visible vertical seam a little to the right of station 11, where a few characters are covered by the overlap. A dark gutter shadow runs down the left edge and partly obscures the initial letters of the species names in the upper two thirds of the column.]
+
+[TABLE]
+1931 г.	№№ станций	1	2	3	7	8	11	12	13	14	15	16	17	18	19	22
+	Местоположение	76°55′ N, 70°03′ E	77°15′ N, 70 05 E	77°32′ N, 70 05 E	78°54′ N, 70 14 E	78°56′ N, 72°10′ E	78°22′ N, 73°40′ E	78°08′ N, 73°47′ E	77°53′ N, 73 45 E	77°39′ N, 74°00′ E	77°26′ N, 74 04 E	76°10′ N, 74°10′ E	77°25′ N, 76°00′ E	77°42′ N, 76° E	77°54′ N, 76° E	77°33′ N, 71°40′ E
+	Дата	0ʰ—4ʰ 2 IX	8ʰ—9ʰ 2 IX	15ʰ—16ʰ 2 IX	11ʰ—12ʰ 4 IX	23ʰ—1ʰ30ᵐ 4—5 IX	13ʰ—14ʰ15ᵐ 6 IX	20ʰ—22ʰ10ᵐ 6 IX	3ʰ 7 IX	11ʰ 7 IX	15ʰ30ᵐ 7 IX	22ʰ—24ʰ 7 IX	6ʰ30ᵐ—8ʰ15ᵐ 8 IX	12ʰ45ᵐ 8 IX	19ʰ 8 IX	3ʰ45ᵐ 10 IX
+	Горизонты в метрах	500—200 | 200—100 | 100—50 | 50—25 | 25—0 | Сетка Корн 15—0	475—0	320—0 | 15—0	450—0	480—350 | 350—250 | 250—150 | 150—87 | 87—62 | 62—37 | 37—17 | 17—0	375—245 | 250—175 | 175—125 | 125—62 | 62—37 | 37—17 | 17—0	420—250 | 250—175 | 175—125 | 125—87 | 87—62 | 62—37 | 37—17 | 17—0 | Сетка Корн 10—0	Сетка Корн 25—0	303—0 | 303—250 | 250—175 | 175—125 | 125—87 | 87—62 | 62—17 | 17—0	Сетка Корн 15—0 | 75—0	220—125 | 125—87 | 87—62 | 62—37 | 37—17 | 17—0 | 220—0	211—125 | 125—87 | 87—62 | 62—17 | 17—0 | Сетка Корн 15—0	Сетка Корн 15—0	290—0	270—0 | 275—175 | 175—125 | 125—62 | 62—37 | 37 – 17 | 17—0
+
+Sarsia princeps
+Sarsia flammea
+Catablema vesicarium
+Rathkea octopunctata
+Mitrocomella polydiademata
+Homoeonema platygonon
+Aglantha digitale
+Aeginopsis laurentii
+Diphyes arctica
+Arachnactis bournei
+Beroe cucumis
+Mertensia ovum
+Sagitta bipunctata
+Krohnia hamata
+Polychaeta larvae
+Calanus finmarchicus
+Calanus hyperboreus
+Pseudocalanus elongatus
+Microcalanus pygmaeus
+Spinocalanus abyssalis
+Gaïdius tenuispinus
+Euchaeta norvegica
+Euchae'a glacialis
+Scolecithricella minor
+Metridia longa
+Heterorhabdus norvegicus
+Oithona similis
+Oncaea borealis
+Microsetella atlantica
+Gastropoda juv.
+Lamellibranchiata juv.
+Limacina helicina
+Clione limacina
+Ophiopluteus
+Echinopluteus
+Fritillaria borealis
+Fritellaria polaris
+Oikopleura labradoriensis
+Oikopleura vanhoeffeni
+[/TABLE]
+
+Условные обозначения: — единично, = мало, ≡ порядочно, ≣ много, ≣ очень много, S массовое количество, + орга[illegible]м присутствовал, но количество его не определялось.
+
+[NOTE: the body of the table is a 39-row × 67-column matrix of abundance symbols. The symbols are not letters but stacks of 1 to 5 short horizontal rules (per the legend: 1 rule = единично, 2 = мало, 3 = порядочно, 4 = много, 5 = очень много), plus S and +. Most cells are blank. At the 300 dpi of this render the rules are roughly one pixel apart and the four- and five-rule symbols cannot be told apart cell by cell, so the matrix is NOT transcribed cell by cell here rather than filled with guesses. This page needs a second pass at higher resolution for the matrix; all lettered content of the page (corner cell, four header rows, the 39 row labels, and the legend) is transcribed above.]
+
+[NOTE: "Fritellaria polaris" is printed thus in the row labels, beside "Fritillaria borealis" in the row above. In "Euchae'a glacialis" the t of "Euchaeta" is printed as an apostrophe-like mark — transcribed as printed. In the legend the seam of the two scan strips falls inside "организм"; only "орга" and the final "м" survive. "Сетка Корн" is the reading of the recurring narrow columns; the final letter is a [?н].]

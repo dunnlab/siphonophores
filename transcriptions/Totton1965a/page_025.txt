@@ -1,0 +1,46 @@
+[PAGE 20]
+[RUNNING HEAD] 20	A SYNOPSIS OF THE SIPHONOPHORA
+
+GROSS MORPHOLOGY
+
+As already stated on page 2, a fully grown siphonophore is essentially an over-grown oozooid polyp that remains juvenile and asexual, but which carries round with it large numbers of other unseparated, asexual, juvenile polyps (gastrozooids, palpons and bracts) as well as sexual adults (medusoid gonophores) and asexual adults (medusoid nectophores), all budded from the original and often much elongated oozooid, or from other juveniles. Examination of the younger growth stages reveals three general patterns of organization, at first sight very complex, but in essence closely resembling each other in the very youngest stages: I in the Cystonectae, II in the Physonectae and III in the Calycophorae.
+
+[FIGURE]
+PZ
+ORAL ZONE
+V
+IV
+T.o
+GZ VI or VII
+GZ III
+T II
+GZ II
+AMP
+T I₁
+GZ I₁
+I₂
+0	1 mm
+
+FIG. 1.   Cystonect larva: Physalia physalis
+PZ = protozooid; T.o = tentacle of protozooid; GZ I₁–VII = secondary gastrozooids; T I₁ T II = tentacles of secondary gastrozooids; AMP = ampulla (basigaster); I₂ = second group of cormidium. (from Totton, 1960, fig. 24C).
+[/FIGURE]
+
+[FIGURE]
+[?0·4mm]
+Gz.5
+Gz.4
+Gz.3
+P.n.
+N.B.
+Gz²
+Tl.
+Gz¹
+0
+
+FIG. 2.   Physonect larva: Nanomia bijuga
+Pn = pneumatophore; Gz¹ = protozooid; Tl = tentacle of protozooid; Gz²⁻⁵ = secondary gastrozooids; N.B. = nectosomal budding zone (from Totton, 1954, fig. 3B).
+[/FIGURE]
+
+[NOTE: the scale-bar label at the top left of FIG. 2 reads as the glyphs '0 4 m m' with no decimal point visible at 300 dpi; the labels for the third, fourth and fifth gastrozooids are printed 'Gz.5', 'Gz.4', 'Gz.3' (a leader dash follows each), whereas the caption uses the superscript form Gz²⁻⁵.]
+
+A study of these patterns shows that in I, the Cystonectae (text-fig. 1), there is a floating larval polyp, the oozooid, with its protozooid (primary gastrozooid), a single, highly contractile tentacle and an aboral air-float (pneumatophore) on one side of which buds of secondary larval polyps (gastrozooids) appear. These buds may eventually give rise by further budding to groups of more larval polyps and adult medusoids to form very complex cormidia, as in Physalia. In II, the Physonectae (text-fig. 2), a condition can be seen which is very similar to that found in simple cystonects, except that the siphosome, the budding zone of the larval polyps, arises on one side of the float, and that a second budding zone, the nectosome, appears on the opposite side and gives rise only to adult asexual nectophores (medusoids). As in I, the larval polyp buds give rise to cormidia, and in addition some of the buds develop into protective or buoyant bracts. In III, the Calycophorae (text-fig. 3), the aboral part of the larva is atrophied and there is no float, but in other respects it can be compared with II. The larval polyp gives rise to two budding zones (as in II), siphosome and nectosome (text-fig. 4), but in addition a larval nectophore, which may or may not be lost later on, develops precociously as a

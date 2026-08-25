@@ -1,0 +1,51 @@
+[PAGE 60]
+[RUNNING HEAD] 60	A SYNOPSIS OF THE SIPHONOPHORA
+
+[FIGURE]
+p.w
+A
+r
+r
+r
+5mm
+c.l.r
+r
+r
+r
+B
+p.w
+v
+p
+r
+r
+r
+C
+v
+c.o
+
+FIG. 24.   Halistemma striata sp.n, from Bermuda, Beebe Coll. Three views of a nectophore to show ridges, × 4.9
+A, view from above; B, lateral view; C, ostial view
+r = lateral ridges; c.o = ostial chromatophores; p = pedicular canal; p.w = wedge process; v = velum; c.l.r = lateral radial canal.
+[/FIGURE]
+
+one is scarcely visible in a lateral view without staining. In text-figure 24B it is represented as incomplete.
+
+There are prominent lateral wedge-processes (p.w.) at the stem end with marked articulation cavities and bosses.
+
+The lateral radial canals run as shown in text-figure 24B. They rise above the horizontal after branching from the pedicular canal and then sweep down the outer and stem-side edge of the nectosac. There is a short, horizontal basal section, after which they sweep up just on the stem-side of the second ridge, to run ostiad half-way to the third ridge. Here they turn inwards over the shoulder of the lateral horn of the nectosac. They then sweep down the outer edge of the nectosac to the base, from which they run in obliquely to the circular canal at the ostium.
+
+Known distribution:   Bermuda (W. Beebe Coll.).
+"Discovery" St. 81, 32° 45′S, 8° 47′W, 1 nectophore.
+"Discovery" St. 704, 3° 37·7′N, 29° 14′W, 7 nectophores.
+
+INDETERMINATE SPECIES
+
+? Halistemma amphytridis (Lesueur & Petit), 1807
+
+Stephanomia amphytridis Lesueur & Petit, 1807
+? Stephanomia amphitridis Huxley, 1859
+? Stephanomia amphitridis Bigelow, 1911b
+
+One hundred and fifty-six years ago the name Stephanomia amphytridis was first used by Lesueur & Petit (1807) for the figured siphosome of a large unicornuate agalmid which at present cannot be
+
+[NOTE: the folio 60 is at the outer (left) edge of the running head. Text-fig. 24 occupies the upper 40% of the page as three hand-drawn panels: A at the left, B upper right, C lower right. The lettering listed inside [FIGURE] above is all the text printed within the drawings, grouped panel by panel in reading order — A: "p.w", the panel letter "A", three separate "r" labels down the left side and the horizontal scale bar lettered "5mm"; B: "c.l.r", three "r" labels, the panel letter "B", "p.w", "v", "p"; C: three "r" labels, the panel letter "C", "v", "c.o". All of it is hand-lettered in an upright sans-serif in which upper and lower case are not always distinguishable; the forms have been given as the caption spells them, but the "v" of panel C and the "c.o" of panel C are drawn at capital height and could equally be read "V" and "C.O". The two "Discovery" lines under Known distribution are indented and set on separate lines as printed, with straight double quotation marks; the minute marks after 45, 47, 37·7 and 14 are printed primes. "sp.n" in the figure caption is printed without a final stop, and "× 4.9" with a full point rather than the mid-dot used elsewhere in the monograph. In the synonymy the spellings "amphytridis" (Lesueur & Petit) and "amphitridis" (Huxley, Bigelow) differ as printed. The page ends mid-sentence with "cannot be".]

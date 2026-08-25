@@ -1,0 +1,29 @@
+[PAGE 45]
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 3 APOLEMIIDAE	45
+
+Seven families of physonects are recognized: Apolemiidae, Agalmidae, Pyrostephidae, Physophoridae, Athorybiidae, Rhodaliidae and Forskaliidae. The only new family since Bigelow's (1911b) 'Albatross' paper was published is the Pyrostephidae of Moser (1925).
+
+Family 3: APOLEMIIDAE Huxley, 1859
+
+Diagnosis:   A family with a single monotypic genus Apolemia. Physonects with a unique kind of tentacle (probably larval) in small tufts below each muscular attachment of the nectophores. Each gastrozooid bears a filiform tentacle.
+
+APOLEMIA Eschscholtz, 1829
+
+Monotypic genus for A. uvaria (Lesueur, ?1811).
+
+Apolemia uvaria (Lesueur, ? 1811)
+Plate VIII, text-figures 13–17
+
+Agalma punctata Vogt, 1854
+?Dicymba diphyopsis Haeckel, 1888b
+For fuller synonymy see Bigelow, 1911b
+
+HISTORICAL
+
+This is one of the most interesting, most difficult to study and least understood of the Physonects.
+
+Our first knowledge of it is due to Lesueur who took it with Péron when they were exploring the invertebrate marine fauna at Nice in 1809. Lesueur made a wonderful drawing of it which he partly engraved. After the death of Péron he published it in a rare work about 1811. This work bears a similar title to the better known two volumes of text edited by Péron, and, after his death, by Freycinct and the atlas of plates by Lesueur and Petit, published from 1807 to 1816. When Péron died he left his manuscripts to Lesueur, amongst them an almost completed Histoire compléte des Meduses (see p. 447 of vol. 2 of the Voyage). The work of (?)1811 published by Lesueur was probably based on this, but was meant to be only a beginning. He said (p. 4) 'l'histoire de chaque genre (des Radiaires molasses composés) et les descriptions des espèces . . . devant êtres consignées dans un assez long Mémoire, j'ai cru devoir me borner à publier pour le moment quelques exemplaires de la planche (Stéphanomies à grains de Raisin, (Uviformis) ) qui doit l'accompagner, avec cette courte description'.
+
+This figure (Pl. VIII) has been referred to, often erroneously, and was copied in part by Blainville (1834, Pl. III). Kölliker (1853, p. 18) implied that an account of it had been published in the Journal de Physique for 1813. But I have found this suggestion to be erroneous. Volume 77 of that Journal for the latter half of 1813 carried a paper by Lesueur (p. 119) on some of the animals they took at Nice, but no description is made of any siphonophore, and there are no accompanying figures. Volume 76 of the same journal for the earlier half of 1813 carries no paper by Lesueur. Haeckel (1888b, p. 204) said 'Apolemia was first observed in the North Atlantic by Lesueur who in 1813 executed a large and excellent picture of it drawn and engraved by himself from life. He called it Stephanomia uviformis (not uvaria)'. Haeckel went on to say 'Eschscholtz observed the same animal in the Atlantic, and recognizing it in the unpublished (sic) plate of Lesueur founded upon it a new genus, Apolemia uvaria (1829, p. 143)'. Before mentioning how Haeckel then went on to cause confusion about the species it is necessary to state that Lesueur did publish the figure in a work, the only two copies of which I know (1) formed part of the Banksian Library, now in the British Museum Library; (2) is in the Library of the Musée d'Histoire naturelle in Paris. Haeckel caused confusion by stating (p. 205) that
+
+[NOTE: printed query marks not in square brackets are the author's own: "(Lesueur, ?1811)" under the genus, "(Lesueur, ? 1811)" in the species heading, "?Dicymba diphyopsis" in the synonymy, and "(?)1811" in the text. "Histoire compléte des Meduses" is so printed, with an acute accent on the second e of "compléte". "Freycinct" and "Radiaires molasses composés" are as printed. The heading "HISTORICAL" is set in small capitals with a full-size initial H.]

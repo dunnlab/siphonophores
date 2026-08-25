@@ -1,0 +1,65 @@
+[PAGE 17]
+
+[RUNNING HEAD] M.K. Mańko, et al.	Progress in Oceanography 189 (2020) 102414
+
+[NOTE: this page opens mid-entry. The first content line below is the tail of the entry begun at the foot of page 16, "Schuchert, P., 2007. The European athecate hydroids and their medusae (Hydrozoa,", which breaks across the page turn after the comma following "Hydrozoa,". Only the continuation is transcribed here; the head of the entry is in page_016.txt and is deliberately not repeated.]
+
+Cnidaria): Filifera part 2. Rev. Suisse Zool. 114, 195–396. https://doi.org/10.5962/bhl.part.80395.
+Schuchert, P., 2019. World Hydrozoa Database. Accessed through: World Register of Marine Species at: www.marinespecies.org on 2019-04-15.
+Smoot, C.A., Hopcroft, R.R., 2017. Cross-shelf gradients of epipelagic zooplankton communities of the Beaufort Sea and the influence of localized hydrographic features. J. Plankton Res. 39, 65–78. https://doi.org/10.1093/plankt/fbw080.
+Søreide, J.E., Leu, E., Berge, J., Graeve, M., Falk-Petersen, S., 2010. Timing in blooms, algal food quality and Calanus glacialis reproduction and growth in a changing Arctic. Glob. Change Biol. 16, 3154–3163. https://doi.org/10.1111/j.1365-2486.2010.02175.x.
+Stepanjants, S.D., 1967. Siphonophora in the seas of the USSR and the northern part of the Pacific. Leningrad: Nauka. (in Russian).
+Stepanjants, S.D., Cortese, G., Kruglikova, S.B., Bjørklund, K.R., 2006. A review of bipolarity concepts: History and examples from Radiolaria and Medusozoa (Cnidaria). Mar. Biol. Res. 2, 200–241. https://doi.org/10.1080/17451000600781767.
+Stine, R.A., 1995. Graphical interpretation of variance inflation factors. The American Statistician 4, 53–56.
+Svendsen, H., Beszczynska-Moller, A., Hagen, J.O., Lefauconnier, B., Tverberg, V., Gerland, S., Ørbøk, J.B., Bischof, K., Papucci, C., Zajaczkowski, M., Azzolini, R., Bruland, O., Wiencke, C., Winther, J.-G., Dallmann, W., 2002. The physical environment of Kongsfjorden-Krossfjorden, an Arctic fjord system in Svalbard. Polar Res. 21, 133–166.
+Swerpel, S., 1985. The Hornsund fiord: water masses. Polish Polar Res. 6, 475–496.
+Takahashi, D., Ikeda, T., 2006. Abundance, vertical distribution and life cycle patterns of the hydromedusa Aglantha digitale in the Oyashio region, western subarctic Pacific. Plankton Benthos Res. 1, 91–96. https://doi.org/10.3800/pbr.1.91.
+Tamm, S.L., Tamm, S., 1993. Diversity of macrociliary size, tooth patterns, and distribution in Beroe (Ctenophora). Zoomorphology 113, 79–89. https://doi.org/10.1007/bf00403086.
+Totton, A.K., 1965. A synopsis of the Siphonophora. Trustees of the British Museum (Natural History), London.
+Trudnowska, E., Gluchowska, M., Beszczyńska-Möller, A., Błachowiak-Samołyk, K., Kwaśniewski, S., 2016. Plankton patchiness in the Polar Front region of the West Spitsbergen Shelf. Mar. Ecol. Prog. Ser. 560, 1–18. https://doi.org/10.3354/meps11925.
+Tsuruta, A., 1963. Distribution of plankton and its characteristics in the oceanic fishing grounds with special reference to their relation to fishery. J. Shimonoseki College of Fisheries 12, 13–214.
+Tverberg, V., Nøst, O.A., Lydersen, C., Kovacs, K., 2014. Winter sea ice melting in the Atlantic Water subduction area, Svalbard Norway. J. Geophys. Res.—Oceans 119, 5945–5967.
+Vecchione, M., Falkenhaug, T., Sutton, T., Cook, A., Gislason, A., Hansen, H.Ø., Heino, M., Miller, P.I., Piatkowski, U., Porteiro, F., Søiland, H., Bergstad, O.A., 2015. The effect of the North Atlantic Subpolar Front as a boundary in pelagic biogeography decreases with increasing depth and organism size. Prog. Oceanogr. 138, 105–115. https://doi.org/10.1016/j.pocean.2015.08.006.
+Walczowski, W., Piechura, J., 2007. Pathways of the Greenland Sea warming. Geophys. Res. Lett. 34, L10608. https://doi.org/10.1029/2007gl029974.
+Walczowski, W., Piechura, J., Goszczko, I., Wieczorek, P., 2012. Changes of the Atlantic Water properties: an important factor of the European Arctic marine climate. ICES J. Mar. Sci. 69, 864–869.
+Wassmann, P., Duarte, C.M., Agusti, S., Sejr, M.K., 2011. Footprints of climate change in the Arctic marine ecosystem. Glob. Change Biol. 17, 1235–1249.
+Werner, B., 1961. Morphologie und Lebensgeschichte, sowie Temperaturabhängigkeit der Verbreitung und des jahreszeitlichen Auftretens von Bougainvillia superciliaris (L. Agassiz) (Athecatae-Anthomedusae). Helgoländer Meeresun. 7, 206–237 (in German).
+Weydmann, A., Carstensen, J., Goszczko, I., Dmoch, K., Olszewska, A., Kwaśniewski, S., 2014. Shift towards the dominance of boreal species in the Arctic: Inter-annual and spatial zooplankton variability in the West Spitsbergen Current. Mar. Ecol. Prog. Ser. 501, 41–52. https://doi.org/10.3354/meps10694.
+Weydmann, A., Walczowski, W., Carstensen, J., Kwaśniewski, S., 2018. Warming of Subarctic waters accelerates development of a key marine zooplankton Calanus finmarchicus. Glob. Change Biol. 24, 172–183. https://doi.org/10.1111/gcb.13864.
+Wickham, H., Averick, M., Bryan, J., Chang, W., D'Agostino, L., McGowan, F., Romain, F., Grolemund, G., Hayes, A., Henry, L., Hester, J., Kuhn, M., Pedersen, T.L., Miller, E., Bache, S.M., et al., 2019. Welcome to the tidyverse. Journal of Open Source Software 4, 1686. https://doi.org/10.21105/joss.01686.
+Wickström, S., Jonassen, M.O., Vihma, T., Uotila, P., 2019. Trends in cyclones in the high-latitude North Atlantic during 1979–2016. Quart. J. Roy. Meteorol. Soc. https://doi.org/10.1002/qj.3707.
+Williams, R., Conway, D.V.P., 1981. Vertical distribution and seasonal abundance of Aglantha digitale (O.F. Müller) (Coelenterata: Trachymedusae) and other planktonic coelenterates in the northeast Atlantic Ocean. J. Plankton Res. 3, 633–643. https://doi.org/10.1093/plankt/3.4.633.
+Wissmann, M., Toutenburg, H., Shalabh, S., 2007. Role of categorical variables in multicollinearity in the linear regression model. J. Appl. Statist. Sci. 19, 1–34.
+Youngbluth, M., Sornes, T., Hosia, A., Stemmann, L., 2008. Vertical distribution and relative abundance of gelatinous zooplankton, in situ observations near the Mid-Atlantic Ridge. Deep-Sea Res. Part II 55, 119–125. https://doi.org/10.1016/j.dsr2.2007.10.002.
+Zelickman, E.A., 1972. Distribution and ecology of the pelagic hydromedusae, siphonophores and ctenophores of the Barents Sea, based on perennial plankton collections. Mar. Biol. 17, 256–264. https://doi.org/10.1007/BF00366301.
+
+17
+
+[NOTE: 28 reference lines are transcribed above — one continuation line completing the Schuchert 2007 entry begun on page 16, followed by 27 complete entries that begin on this page (Schuchert 2019 through Zelickman 1972). Sixteen lines fall in the left column and twelve in the right. The Vecchione et al. 2015 entry spans the column break — it begins at the foot of the left column ("Vecchione, M., Falkenhaug, T., Sutton, T., Cook, A., Gislason, A., Hansen, H.Ø., Heino,") and resumes at the head of the right column ("M., Miller, P.I., ..."); it is joined into a single line here.]
+
+[NOTE: this is the last page of the article. The reference list simply stops with the Zelickman, E.A., 1972 entry. Nothing follows it — no supplementary-data note, no copyright or licence line, no colophon, no advertisement, no "Uncited references" block. The only other mark on the page is the centred folio "17" at the foot, transcribed above.]
+
+[NOTE: the reference list ends roughly half-way down the page. The left column's last line sits at about 50% of the page height and the right column's at about 49%. The entire lower half of the page — both columns, from below those last lines down to the folio — is blank white paper with no printed matter of any kind. It is blank, not untranscribed.]
+
+[NOTE: no printed square brackets occur anywhere on this page. Every square bracket in this file is a transcriber marker.]
+
+[NOTE: inconsistencies in the printed list, preserved above exactly as set and catalogued here rather than corrected —
+ (1) The same author is spelled two ways on this one page: "Beszczynska-Moller, A." with no diacritics in the Svendsen et al. 2002 entry, but "Beszczyńska-Möller, A." with both in the Trudnowska et al. 2016 entry.
+ (2) Several other names lack the diacritics they normally carry: "Gluchowska, M." (Trudnowska et al. 2016; normally Głuchowska), "Agusti, S." (Wassmann et al. 2011; normally Agustí), "Sornes, T." (Youngbluth et al. 2008; normally Sørnes). Each was checked on a magnified crop; the letters are plain in the print.
+ (3) Stine, R.A., 1995 gives the volume as "The American Statistician 4, 53–56." — a bare "4". Verified on a magnified crop.
+ (4) Tsuruta, A., 1963 gives the page range as "12, 13–214." Verified on a magnified crop.
+ (5) DOI suffix capitalisation varies: lowercase in "https://doi.org/10.1007/bf00403086" (Tamm & Tamm 1993) and "https://doi.org/10.1029/2007gl029974" (Walczowski & Piechura 2007), but uppercase in "https://doi.org/10.1007/BF00366301" (Zelickman 1972).
+ (6) Journal names are abbreviated inconsistently: "Journal of Open Source Software", "The American Statistician" and "J. Shimonoseki College of Fisheries" are set out in full or near-full, while most others are abbreviated; "Helgoländer Meeresun." is an unusual truncation.
+ (7) Wickström et al. 2019 carries a DOI but no volume or page numbers, only "Quart. J. Roy. Meteorol. Soc." followed directly by the URL.
+ (8) The Wickham et al. 2019 author list is truncated with "et al.," in the middle of the entry, after fifteen named authors — the only entry on the page to do so.
+ (9) "Swerpel, S., 1985. The Hornsund fiord: water masses." uses the spelling "fiord", while Svendsen et al. 2002 in the same column uses "fjord".
+ (10) Tverberg et al. 2014 sets the journal as "J. Geophys. Res.—Oceans", with an em dash (measurably longer than the en dashes used in the page ranges).
+ (11) Winther's initials are set with a hyphen, "Winther, J.-G.", within the Svendsen et al. 2002 author list.]
+
+[NOTE: the apostrophe in "D'Agostino, L." (Wickham et al. 2019) is set as a straight vertical apostrophe, not a curly right single quotation mark. Checked at high magnification; transcribed above as U+0027.]
+
+[NOTE: as on the preceding reference pages, many entries are printed in blue rather than black — these are the live hyperlinks in the born-digital PDF. On this page the blue entries are Stine 1995, Svendsen et al. 2002, Swerpel 1985, Tsuruta 1963, Tverberg et al. 2014, Walczowski et al. 2012, Wassmann et al. 2011, Werner 1961 and Wissmann et al. 2007, plus the DOI URLs within otherwise black entries. Colour carries no textual content and is not marked up above.]
+
+[NOTE: several DOI URLs are broken across printed lines with no hyphen (e.g. "https://doi.org/10.5962/" / "bhl.part.80395"; "https://doi.org/10." / "1007/bf00403086"; "https://doi." / "org/10.1002/qj.3707"). These are line-wrap breaks only and have been closed up into continuous URLs; no interior space is present in any DOI on this page.]
+
+[NOTE: hyphens at line ends have been resolved as follows — "bi-polarity" → "bipolarity", "com-munities" → "communities", "dis-tribution" → "distribution", "en-vironment" → "environment", "fin-marchicus" → "finmarchicus", "mul-ticollinearity" → "multicollinearity", "re-lative" → "relative", "siphono-phores" → "siphonophores". The hyphens in "high-latitude" (Wickström et al. 2019) and "Mid-Atlantic" (Youngbluth et al. 2008) fall at line ends but are genuine compound hyphens and have been kept.]

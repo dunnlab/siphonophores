@@ -1,0 +1,75 @@
+[PAGE 218]
+
+218	[RUNNING HEAD] A SYNOPSIS OF THE SIPHONOPHORA
+
+[FIGURE]
+H
+Cmb.
+5.mm.
+H
+To.l.
+To.r
+To.v.l.
+A
+To.v.r.
+R.d
+C.rad.d.
+N.s
+R.l.
+C.rad.lat
+C.rad.v.
+Cmb.
+H
+W.hyd.l.
+W.hyd.r.
+B
+Str.m
+R.d
+C.circ.
+C
+Apoph
+C.ped
+Cmb.
+W.hyd.
+H
+W.hyd.l.
+Str.m
+
+FIG. 150.   Abylopsis tetragona (Otto). Polygastric phase. Posterior nectophore
+A, latero-ventral view, × 5; B, a section across the same, just above the locking tooth of the right wing, × 8·8; C, apical view, × 8·8. Abbreviations as in figures 141, 142, 147 (from Totton, 1954, fig. 83)
+[/FIGURE]
+
+Eudoxid phase (Pl. XL, fig. 3)
+
+(Totton, 1932, text-fig. 17C).
+
+Nomenclature:   It is called an 'Agalaisma' (an old synonym of Abylopsis).
+
+Bract:   The lateral facets are deep, so that the basal cross ridge (see Totton, 1932, text-fig. 17C ab) lies far below the level of the large lateral branches of the phyllocyst. The basal-sagittal ridge is very short.
+
+Gonophore:   Comparatively narrow and elongate with shallow ridges and long teeth. For further details see Sears, 1953, page 83.
+
+Abylopsis eschscholtzi (Huxley, 1859)
+Plate XL, figures 2, 4, 6
+
+Aglaismoides eschscholtzii Huxley, 1859
+
+Less commonly taken than A. tetragona.
+
+Polygastric phase (Pl. XL, fig. 2)
+
+A specimen of the polygastric phase is relatively shorter than one of A. tetragona.
+
+Anterior nectophore (Pl. XL, fig. 4):   The apex of the nectosac does not extend as far as the apex of the main part of the somatocyst and the bases of the lateral radial canals do not form an upward loop. The ridges are more marked and serrated than are those of tetragona.
+
+Posterior nectophore (Pl. XL, fig. 6):   Considerably less than twice as long as broad. Only four, regular radial canals. The apophysis relatively a little larger than in tetragona. Each hydroecial wing or ventrolateral ridge has in the hydroecial region a secondary flap. Their inner edges meet and fuse along the proximal half of their length to roof over a hydroecial tube. There may be from four to eight teeth on the ventrobasal curve of the left-hand (Sears' right) flap, and three or four in the same region of the smaller right-hand one, in the same region indicated by a dotted line by Sears (1953, fig. 25E). This smaller flap is the homologue of the comb in tetragona (see Sears, 1953, fig. 25C, E). The basal rim of the hydroecial cavity is much more simple than in tetragona. It is a simple, serrated semi-circular rim with two ventro-lateral teeth.
+
+[NOTE: no printed square brackets on this page. The three drawings of text-figure 150 are
+lettered A (left), B (centre) and C (right); the labels above are listed drawing by drawing.
+The vertical scale bar in A is lettered "5.mm." at its top. In C the label at the right-hand
+side is printed "W.hyd." with an indistinct terminal letter that cannot be read with confidence
+(the corresponding label in B is "W.hyd.r."); it is given as "W.hyd." above. The species epithet
+is printed "eschscholtzi" in the species heading and "eschscholtzii" with a double i in the
+synonymy line below it; both are as printed. The bract's synonym in the "Nomenclature"
+paragraph is printed 'Agalaisma', while the synonymy line above gives the genus as
+"Aglaismoides"; both are as printed.]

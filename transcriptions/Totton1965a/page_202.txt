@@ -1,0 +1,49 @@
+[PAGE 197]
+
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 13 CLAUSOPHYIDAE	197
+
+Eudoxid phase
+
+Not at present distinguishable.
+
+Genus: CRYSTALLOPHYES Moser, 1925
+
+Chrystallophyes Moser (lapsus calamae), 1925, p. 356
+
+A monotypic genus for C. amygdalina Moser, 1925.
+
+Crystallophyes amygdalina Moser, 1925
+Text-figures 133, 134
+
+Described originally from three nectophores found off the Antarctic continent. Reported again by Leloup (1934) (two specimens from S. Georgia) and Totton (1954, seventy-two anterior and twenty-three associated posterior nectophores). It is evidently a mid-water form.
+
+[FIGURE]
+A
+Som.
+H
+C.pa
+C.ped
+C.rad.v.
+3mm
+2
+1
+0
+C.rad.lat
+Pl.M.
+C
+Vel.
+Pl.M.
+B
+Som.
+C.pa
+C.ped
+
+FIG. 133.   Crystallophyes amygdalina Moser. Polygastric phase
+A, lateral view of the anterior nectophore, 'Discovery' St. 663, 1,000–750 m; B, C, ventral views of posterior nectophores; B, 'Discovery' St. 129, 500–250 m; C, 'Discovery' St. 663, 750–500 m, × 14
+
+C.pa = pallial canal; C.ped = pedicular canal; C.rad.lat, C.rad.v = lateral and ventral radial canals; H = hydroecium; Pl.M = mouth-plate; Som = somatocyst; Vel = velum (from Totton, 1954, fig. 69).
+[/FIGURE]
+
+Polygastric phase
+
+Anterior nectophore (text-fig. 133A):   The five longitudinal ridges do not divide into two in the basal region as they do in Chuniphyes. The hydroecium extends up almost to the apex. In the ostial

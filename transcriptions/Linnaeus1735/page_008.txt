@@ -1,0 +1,591 @@
+[PAGE 8: unnumbered]
+[NOTE: left half of a broadsheet table (Regnum Vegetabile) that continues onto page 9; the display title itself is split across the break — this half reads "CAROLI LINNÆI"]
+[NOTE: table continues onto page 9]
+[NOTE: the class columns each carry order names (MONOGYNIA, DIGYNIA, ...) printed sideways, rotated 90°, in a narrow ruled strip at the left edge of the column; they are given below in the first tab-column]
+
+CAROLI LINNÆI
+
+[TABLE]
+A.
+MONANDRIA.
+Stamen Unicum.
+MONOGYNIA.	Hippuris. Limnopeuce. V.
+	Canna. Cannacorus T.
+DIGYNIA.	Coriſpermum I.
+	    Stellaria D.
+
+[NOTE: boxed insert set inside column A, between the Monandria and Diandria blocks — the author-abbreviation key]
+AUCTORES Syſtematici allegati.
+A.	Acta Pariſienſ. Tourn.
+B.	BOERHAAVE.
+Bx.	Buxbaum.
+C.	CÆSALPINUS.
+D.	DILLENIUS.
+G.	Gronovius, qui multas mecum communicavit plantas peregrinas, e quibus nova genera adpoſui.
+H.	Heicherus.
+Hs.	Heiſterus.
+I.	Juſſieu.
+K.	Knautius fil.
+M.	Michelius.
+Mg.	MAGNOL.
+Mr.	Martyn.
+Pl.	Plumier.
+Pn.	Pontedera.
+Rj.	RAJUS.
+Rp.	Ruppius.
+Rv.	RIVINUS.
+S.	Scheuchzer.
+T.	TOURNEFORTIUS.
+V.	Vaillantius.
+VI.	100. Vide Hexandriam Hexagyniam, Ubi VI. 100. Aliſm: Damaſon. poſui, id eſt: Damaſonium Tournefortii, eſt ejuſdem generis cum Aliſma in Hexand. Polygynia.
+*	Indicat plantarum flores, a me hactenus non examinatos, ſed à fida Auctorum deſcriptione vel Figura heic inſertos.
+†	Nova genera a me conſtituta.
+
+B.
+DIANDRIA.
+Stamina Duo.
+MONOGYNIA.	α FLOS REGULARIS.
+	Olea.
+	Liguſtrum.
+	Jaſminum.
+	Syringa. Lilac T.
+	Veronica.
+	    Saliunca. Bx.
+	    Beccabunga. Rv.
+	    Veronicella. Hs.
+	    Veronicaſtrum. Hs.
+	Circæa.
+	β. FL. IRR. ANGIOSP.
+	Utricularia. Lentibularia R.
+	Pinguicula.
+	Morina T. *
+	Lathræa *. Clandeſtina T.
+	Ecbolium Rv. Adhatoda T.
+	Bignonia T. Gelſemin. Rv.
+	γ. FL. IRR. GYMNOSP.
+	Roſmarinus.
+	Lycopus. T.
+	Salvia T.
+	    Horminum T.
+	    Sclarea T.
+
+C.
+TRIANDRIA.
+Stamina Tria.
+MONOGYNIA.	α. CALICE VIX ULLO.
+	Valeriana T.
+	    Phu Rp.
+	    Valerianella T.
+	Boerhaavia V.
+	β. CALICE PERIANTHIO.
+	Tamarindus *.
+	Banniſteria *. † Soneri-ila.
+	Cneorum. Chamælea T.
+	γ. CALICE SPATHA.
+	Crocus.
+	Gladiolus.
+	Antholyza †.
+	Iris T.
+	    Xiphium T.
+	    Siſyrinchium T.
+	    Hermodactylus T.
+	Rumpſia. †
+	Commelina Pl.
+	δ. CALICE GLUMA.
+	Cyperus.
+	Scirpus.
+	Eriophorum. Linagroſtis T.
+DIGYNIA.	α. GLUMOSI SPICATI.
+	Hordeum.
+	Triticum.
+	Secale.
+	Phalaris.
+	Alopecurus.
+	Phleum †. Gr. typhoides.
+	Lolium †.
+	Nardus †. Gr. Sparteum.
+	β. GLUMOSI PANICULATI.
+	Panicum.
+	Milium.
+	Briza †.
+	Agroſtis †.
+	Bromus †.
+	Feſtuca †.
+	Avena.
+	γ. PERIANTHIO INSTR.
+	Polyſporon †.
+	    Morocarpus Rp.
+TRIGYNIA.	Montia M. Cameraria D.
+	Tillæa M. *.
+
+D.
+TETRANDR.
+Stamina Quatuor.
+MONOGYNIA.	α. CALICE COMMUNI.
+	Protea. Lepidocarpod. B.
+	    Conocarpodendron B.
+	    Hypophyllocarpod. B.
+	Dipſacus.
+	Scabioſa.
+	    Sueciſa Kn.
+	Knautia. Lychni-ſcabioſ. B.
+	β. STELLATÆ Rj.
+	Gallium.
+	Aparine.
+	Aſperula.
+	    Rubeola.
+	Houſtonia †. G.
+	Sherardia D. Dillenia Hs.
+	Spermacoce D. *
+	Crucianella.
+	Rubia.
+	γ. VARII.
+	Plantago.
+	    Coronopus. T.
+	    Pſyllium T.
+	Sarcocolla †.
+	Catisbea † G.
+	Centunculus D. *.
+	Lippia *.
+	Camara Pl. Morobatind. V.
+	Vitex.
+	Poterium. Sanguiſorba Rp.
+	Epimedium.
+	Avicennia †. Oepata HM.
+	Tithoua †. Phytolac. ſp. T.
+	Cornus.
+	    Meſomora Rudb.
+	    Oſſea Rv. Virg. ſang. D.
+	Evonymus.
+	Ptelea. Frut. Virg. trif. D *
+	Ixora † Schetti HM.
+	δ INCOMPLETI.
+	Alchemilla.
+	Elæagnus.
+	Mimoſa.
+	§ VI. 1 Conv. Unifolium D.
+DIGYNIA.	Hypecoon.
+	Bocconia Pl. *.
+	Cuſcuta.
+	    Baſella HM. B.
+TETRAGYNIA.	Ilex. Aquifolium T.
+	Caſſina †.
+	Potamogeton.
+	§. V. 5. Lin. Radiola D.
+
+E.
+PENTANDRIA.
+Stamina Quinque.
+MONOGYNIA.	α. FL. IMPERFECTI.
+	Herniaria.
+	Paronychia *.
+	Blitum.
+	Vitis.
+	Perſicaria VI. 2.
+	Glaux.
+	Rhamnus T. Cervi ſpina XXII 4.
+	    Frangula T.
+	    Alaternus T.
+	    Paliurus T.
+	β. PETAL. I. SEMINA 4.
+	Anchuſa. Bugloſſum T.
+	Cynogloſſum.
+	    Lappula Rp.
+	Lithoſpermum.
+	    Pſeudo-Anchuſa H.
+	Myoſotis D. Scorpiurus Kn.
+	Heliotropium.
+	Pulmonaria.
+	Symphytum T. Conſolida Rv.
+	Lycopſis. Echioides D.
+	Aſperugo.
+	Borrago.
+	Cerinthe.
+	γ. PETAL. I. SEMIN. 2.
+	Phyllis. Bupleuroides B.
+	δ. PETAL. I. SEMIN. I.
+	Mirabilis Rv. Jalapa T.
+	Plumbago T. Dentillaria R.
+	ε. PETAL. I. CAPS. I-LOCULAR.
+	Hydrophyllum.
+	Swertia †. Gentianæ ſp. aliis.
+	Hottonia B. Myriophyllum Rp.
+	Samolus.
+	Menyanthes.
+	    Nymphoides T.
+	Lyſimachia.
+	    Nummularia B.
+	Anagallis.
+	Cyclamen.
+	Soldanella.
+	Ruellia Pl.
+	Primula. Prim. veris T.
+	    Auricula urſi T.
+	Androſace.
+	Armeria. Lychnidea D.
+	ζ. PET. I. CAPS. 2-LOCUL.
+	Verbaſcum T.
+	    Blattaria T.
+	Hyoſcyamus.
+	Apollinaris. Priapeja Kn.
+	Nicotiana.
+	Datura. Stramonium T.
+	Myrſine †.
+	η. PET. I. CAPS. 3-LOCUL.
+	Convolvulus.
+	    Convolvuloides Hs.
+	Ipomœa. Quamoclit T.
+	Campanula.
+	Phyteuma. Rapunculus T.
+	Polemonium.
+	Trachelium.
+	Polypremum. †
+	θ. PETAL. I. CAPS. 4-LOCUL
+	Diervilla A.
+	ι. PETAL. I. CAPS. 5-LOCUL.
+	Dioſma. † an Aniſi ſtellati ſp. ?
+	Azalea. †. Chamærhododend. T.
+	κ. PETAL. I. BACCIFERÆ.
+	Atropæa. Belladonna T.
+	Mandragora.
+	Solanum.
+	    Melongena T.
+	    Lycoperſicum T.
+	Capſicum.
+	Phyſalis. Alkekengi T.
+	Strychnos †. Vomica. *.
+	Genipa. *.
+	Tinus.
+	Phillyrea.
+	Patagonica D. *.
+	Sideroxylon *.
+	Coffea. Coffe Hs.
+	Fuchſia *.
+	Tournefortia. Pittonia Pl. *.
+	Lycium. Jaſminoides A.
+	Caprifolium T.
+	    Periclymenum T.
+	    Chamaceraſus T.
+	    Xyloſteum T.
+	λ. PETALA 5 ÆQUALIA.
+	Cuminum. Cuminoides T.
+	Telephium T.
+	Brunia †. Leviſanus Pet.
+	Gronovia. Houſt. apud. Mr.
+	μ. PET. 5 INÆQUALIA.
+	Viola.
+	Impatiens Rv. D.
+	    Balſamina Rv. T.
+DIGYNIA.	α. VARIÆ.
+	Chenopodium.
+	Beta.
+	Ulmus.
+	Salſola. C. Kali T.
+	Panax *. Araliaſtrum V.
+	Gentiana T.
+	    Centaurium minus T.
+	Heuchera †. Cortuſa Hr.
+	§. XII. 2. Agrimonoides T.
+	§. XX. 2. Ribes.
+	§. V. 3. Staph. Zanthoxyl. Ctb.
+	β. FR. BIFOLLICULARIS.
+	Plumeria T.
+	Vinca Rp. Pervinca T.
+	Nerium.
+	Tabernemontana Pl. *
+	Cameraria Pl. *
+	Apocynum. .
+	γ. UMBELLA SIMPLEX.
+	Eryngium.
+	Hydrocotyle.
+	Sanicula.
+	Aſtrantia.
+	δ. UMB. COMPOSITA, INVOLUCRO NULLO.
+	Carum Rv. Carvi T.
+	Fœniculum T.
+	    Anethum T.
+	Apium.
+	    Aniſum Rv.
+	Ægopodium Kn. Podagrar. Rv.
+	Pimpinella.
+	Paſtinaca.
+	Heracleum. Sphondylium T.
+	Smyrnium.
+	Imperatoria Rv.
+	ε. UMBELLA COMPOSITA, INVOLUCRO PARTICULARI.
+	Cicuta †. Cicutaria Rv.
+	Phellandrium.
+	Oenanthe.
+	Æthuſa. Cynapium Rv.
+	Chærophyllum.
+	    Myrrhis Rv.
+	Myrrhis. Odorata Rv.
+	Scandix.
+	    Cereſolium Rv.
+	Thapſia.
+	Coriandrum.
+	Bupleurum T.
+	    Perfoliata Rv:
+	ζ. UMBELLA COMPOSITA INV. PART. ET UNIVERS.
+	Laſerpitium.
+	Angelica.
+	Sium.
+	    Siſarum T.
+	Conium. Cicuta Rv.
+	Thyſſelinum.
+	Daucus.
+	    Staphylinus Rv.
+	Caucalis.
+	Peucedanum.
+	Athamanta. Meum T.
+	Leviſticum Rv.
+	    Cicutaria T.
+	Ammi.
+	Crithmum.
+	Cachrys.
+TRIGYNIA.	Tamarix. Tamariſcus T.
+	Viburnum.
+	Sambucus T.
+	    Ebulus Pn.
+	    Opulus T.
+	Cotinus.
+	Staphylæa V:I. Staphylodendr. T
+	§. V. 2. Chenopodium.
+TETRAGYNIA.	Parnaſſia.
+PENTAGYNIA.	Linum IV. 4.
+	Droſera. Ros Solis T.
+	Aralia T. V.
+	Statice T.
+	    Limonium T.
+	Craſſula D.
+	Cotyledon.
+POLYGYNIA.	Myoſurus Kn. D.
+
+F.
+HEXANDRIA.
+Stamina Sex.
+MONOGYNIA.	α. FL. INCOMPL. VI-PETAL.
+	Lirium.
+	    Martagon Rp.
+	Petilium. Corona Imper. T.
+	Fritillaria.
+	Tulipa.
+	Erythronium. Dens canis T.
+	Glorioſa. Methonica A.
+	Ornithogalum.
+	Scilla.
+	Aſparagus.
+	Leontice. Leontopetalum T.
+	β. FL. INCOMPL. I-PETAL.
+	Convallaria IV. I Lil. Conv. T.
+	    Polygonatum T.
+	Hyacinthus.
+	    Muſcari T.
+	Polyanthes. Tuberoſa Hs.
+	Suſiana. Lil. Suſianum.
+	Aſphodelus.
+	Hemerocallis. Lilio-aſphod. T.
+	    Liliaſtrum T.
+	Aloë T.
+	    Yucca D.
+	γ. FL. COMPLETUS.
+	Ananas T.
+	Bromelia Pl.
+	Tillandſia. Caraguata Pl.
+	Tradeſcantia Rp. Ephemer. T.
+	Burmannia. †
+	Lithocardium. * Sebeſtena D.
+	Berberis.
+	δ. FL. SPATACEUS.
+	Pancratium D.
+	Narciſſus.
+	Amaryllis. Lilio-Narciſſ. T.
+	Leucojum. Narciſſo-Leuc. T.
+	Galanthus †.
+	Praſum. Scordopraſum M.
+	Porrum.
+	Cepa.
+	Allium.
+	Pontedetia †. G. Pet. Gaz I 12.
+	ε. FL. INVOLUCRATUS.
+	Hæmanthus.
+	ζ. FL. GLUMOSUS.
+	Juncus.
+	η. FL. APETALUS.
+	Peplis. Portula D.
+DIGYNIA.	Atraphaxis *. Atripl. or. acul. D.
+	Oryza *.
+	§. V. I. Perſicaria.
+	§. VI. 3. Rumex. Acetoſa.
+TRIGYNIA.	Scheuchzeria †. Juncoidi aſ. S.
+	Triglochin. Rv. Juncago T.
+	Rumex. Lapathum T.
+	    Acetoſa T. VI. 2. ♓ VI.
+	Anthericum. Phalangium T.
+	Colchicum.
+	Medeola † G. Ipecacuanha ?
+	Meniſpermum.
+	§. VIII. 4. Paris.
+HEXAGYNIA.	§. VI. 100. Aliſ. Damaſon. T.
+POLYGYNIA.	Aliſma. VI. 6. Plantaginoid. Kn.
+
+G.
+HEPTANDRIA.
+Stamina Septem.
+MONOGYNIA.	Trientalis Rp.
+	Caſtanea. Hippocaſtanum.
+
+H.
+OCTANDRIA.
+Stamina Octo.
+MONOGYNIA.	Rivina Pl. *.
+	Daphne. Thymelæa T.
+	Erica.
+	Vaccinium. Vitis idæa T.
+	    Oxycoccus T.
+	Ruta.
+	Monotropa. Hypopitys D.
+	Oenothera. Onagra T.
+	Epilobium D. Chamænerion T.
+	Crateva. * Tapia Pl.
+	Trophæum. Cardamindum T.
+	Pavia B.
+	Melianthus.
+	Acer.
+	Cliffortia. †. G.
+	Cæſalpina Pl. *
+DIGYNIA.	Chryſoſplenium T.
+	Galenia.
+TRIGYNIA.	Biſtorta.
+	Polygonum.
+	Helxine. Fagopyrum T.
+	Seriana Pl.
+	    Ururu Pl.
+	Cardioſpermum. Corindum T.
+TETRAGYNIA.	Paris VI. 3.
+	Adoxa. Moſchatellina T.
+	Sagina. Alſinella D.
+	Potamopithys B.
+	§. X. 5. Sedum.
+
+I.
+ENNEANDRIA.
+Stamina Novem.
+MONOGYNIA.	Camphora †.
+	Cinnamomum. Lauri ſpecies.
+TRIGYNIA.	Rheum. Rhabarbarum T.
+HEXAGYNIA.	Butomus.
+
+K.
+DECANDRIA.
+Stamina Decem.
+MONOGYNIA.	α. ANTHERÆ BICORNES.
+	Arbutus.
+	    Uva Urſi T.
+	Andromeda. Ledum Rj.
+	    Ledum M.
+	    Chamædaphne Bx.
+	    polifolia Bx.
+	Pyrola.
+	β. STAMINA IRREGULARIA.
+	Dictamnus. Fraxinella T.
+	Caſſia T.
+	    Senna T.
+	Poinciana T.
+	Cercis. Siliquaſtrum T.
+	Hæmatoxylon †. Camperia Sl.
+	Acinodendron. Plk. † Malab. off.
+	γ. STAMINA REGULARIA.
+	Malpighia Pl.
+	Averrhoa. † Bilimbi HM.
+	Zygophyllum. Fabago T.
+	Fagonia T.
+	Tribulus T.
+	Portulaca.
+	Clethra †. G. Alnifolia Plk.
+	Anacardium. Acajv T.
+	δ. CALIX NULLUS.
+	Ledum Rp.
+DIGYNIA.	Mitella T.
+	Saxifragia T.
+	    Geum T.
+	Dianthus. Caryophyllus T.
+	    Armeria H.
+	Saponaria †.
+	Scleranthus. Knauel D.
+TRIGYNIA.	Garidellia T.
+	Drypis M.
+	Silene. X: 5. Muſcipula Rp.
+	Cucubalus. ♓: 10. X: 5.
+	    Behen.
+	Alſine.
+	Arenaria Rp. Spergula D.
+	    Lychnoides V.
+PENTAGYNIA.	Lychnis.
+	Agroſtema. Nigellaſtrum.
+	Ceraſtium D. Myoſotis T.
+	Spergula †.
+	Benzoa †. G. Benzoë: an ?
+	Sedum T. VIII. 4. Y. d.
+	    Anacampſeros T.
+	§. X. 3. Silen: Viſcaria Rp.
+	§. X. 3. Cucub. Lychnis.
+DECAGYNIA.	Phytolacca T.
+
+L.
+DODECANDR.
+Stamina Duodecim.
+MONOGYNIA.	Aſarum.
+	Lythrum. Salicaria T.
+DIGYNIA.	Agrimonia V. 2.
+	    Agrimonoides T. V. 2.
+TRIGYNIA.	§. XXX: I. Euph. Tithymalus T.
+	    Euph. Elutheria Pet. * G.
+DODECAGYNIA.	Sempervivum Rp.
+
+M.
+ICOSANDRIA.
+Stamina Calici adnata.
+MONOGYNIA.	α. FRUCTU DRUPA.
+	Zizyphus T.
+	Eugenia M. *
+	Amygdalus.
+	    Perſica T.
+	Prunus.
+	    Armeniaca T.
+	Ceraſus.
+	Padus.
+	Guajacum Pl. *
+	β. FR. BACCA vel POMO
+	Myrtus.
+	Punica.
+	Styrax.
+	Citrus.	S. 100.
+	    Aurantium T.
+	    Limon.
+	γ. FR. CAPSULA:
+	Philadelphus. Syringa T.
+DIGYNIA.	Ribes. Groſſularia T. V. 2.
+	Cratægus T.
+	    Oxyacantha Rp.
+TRIGYNIA.	Sorbus.
+	    Aucuparia Rp.
+	    Cotoneaſter.
+PENTAGYNIA.	Meſpilus.
+	Pyrus.
+	    Malus.
+	    Cydonia.
+	Spiræa.
+POLYGYNIA.	Muntingia Pl. *
+	Roſa.
+	Rubus.
+	    Chamæmorus Rj.
+	Fragaria.
+	    Camaroides Pn.
+	Potentilla. Pentaphylloides T.
+	    Quinquefolium T.
+	Tormentilla. XVI. 8.
+	Dryadæa †.
+	Comarum †.
+	Geum. Caryophyllata T.
+[/TABLE]

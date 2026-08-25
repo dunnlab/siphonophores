@@ -1,0 +1,41 @@
+[PAGE 14]
+
+PLOS One
+
+libraries were prepared according to the SMRT Link Sample Setup instructions, using the Polymerase Binding Sequel® II Binding Kit 3.1, and loaded onto the Sequel II for sequencing.
+
+Delivered reads were put through our lab’s treeinform workflow as described in Church et al. [18] and at https://github.com/dunnlab/isoseq.
+
+Genome sequencing and initial assembly
+
+Genome HiFi sequencing, Dovetail Omni-C proximity ligation, initial assembly, and annotation were completed by Cantata Bio on specimen YPM-IZ-111756 (sampling number D1399-SS10-NA-1).
+
+Two combined DNA preps for the Nanomia septata sample were made, both of which used a CTAB protocol followed by the Qiagen mini kit. For the first prep, 180 mgs of sample incubated in 10 mls of CTAB, which yielded 8860ng of DNA. For the second prep, 500 mgs of sample incubated in 20 mls of CTAB, which yielded 8440 ng of DNA. DNA samples were quantified using Qubit 2.0 Fluorometer (Life Technologies, Carlsbad, CA, USA). The PacBio SMRTbell library (~20kb) for PacBio Sequel was constructed using SMRTbell Express Template Prep Kit 2.0 (PacBio, Menlo Park, CA, USA) using the manufacturer’s recommended protocol. The library was bound to polymerase using the Sequel II Binding Kit 2.0 (PacBio) and loaded onto PacBio Sequel II. Sequencing was performed on PacBio Sequel II 8M SMRT cells (2 were used). This produced 4,568,345 HiFi reads totalling 54.2GB in length.
+
+PacBio CCS reads were assembled with Hifiasm1 v0.15.4-r347 using default parameters. Blast results of the Hifiasm output assembly against the nt database were used as input for blobtools2 v1.1.1 [45] and scaffolds identified as possible contamination were removed from the assembly. Finally, purge_dups3 v1.2.5 was used to remove haplotigs and contig overlaps [46].
+
+Structural annotation
+
+Chromatin was fixed in place with formaldehyde in the nucleus. Fixed chromatin was digested with DNase I and then extracted, chromatin ends were repaired and ligated to a biotinylated bridge adapter followed by proximity ligation of adapter containing ends. After proximity ligation, crosslinks were reversed and the DNA purified. Purified DNA was treated to remove biotin that was not internal to ligated fragments. Sequencing libraries were generated using NEBNext Ultra enzymes and Illumina-compatible adapters. Biotin-containing fragments were isolated using streptavidin beads before PCR enrichment of each library. The Omni-C library was sequenced on an Illumina HiSeqX platform to produce ~30x sequence coverage.
+
+The de novo HiFi assembly and Dovetail OmniC library reads were used as input data for HiRise, a software pipeline designed specifically for using proximity ligation data to scaffold genome assemblies [47,48]. Dovetail OmniC library sequences were aligned to the draft input assembly using bwa (https://github.com/lh3/bwa). The separations of Dovetail OmniC read pairs mapped within draft scaffolds were analyzed by HiRise to produce a likelihood model for genomic distance between read pairs, and the model was used to identify and break putative misjoins, to score prospective joins, and make joins above a threshold [49].
+
+Assembly refinement and Quality assessment
+
+Juicebox (JBAT) [50] was used to manually curate and fix mis-assemblies and re-orient some contigs. We followed a similar pipeline used to manually curate the Octopus vulgaris genome [51], including using Chromap [52] to map the Omni-C data with a quality cutoff of Q0 and creating  .hic files using 3d-dna [53] and artisanal (https://bitbucket.org/bredeson/artisanal) for use in Juicebox. In total, we went through 8 rounds of manual refinement of the genome. Scripts are deposited in our GitHub repository.
+
+To review the quality of our assembly, we ran BUSCO metazoa_odb10 [54, 55] on our assembly and NCBI FCS.
+
+PLOS One | https://doi.org/10.1371/journal.pone.0351247	July 2, 2026	14 / 25
+
+[NOTE: Single-column page of continuous prose under three bold headings, "Genome sequencing and initial assembly", "Structural annotation" and "Assembly refinement and Quality assessment". The first paragraph continues from page 13 ("...The SMRTbell" / "libraries were prepared"). The page ends with a complete sentence.
+
+PAGE FURNITURE: the PLOS One masthead and pictorial device at the head, and the running foot "PLOS One | https://doi.org/10.1371/journal.pone.0351247   July 2, 2026" with the page-number line "14 / 25" at the right; the foot's three elements are separated by tabs above. Printed, and so transcribed. There is no Crossmark stamp on this page.
+
+Words broken across a printed line by a soft hyphen have been joined and the hyphen removed, per the protocol: "Dovetail" (printed "Dove-" / "tail"), "similar" (printed "sim-" / "ilar"). Two URLs are broken across printed lines and joined here: "https://github." / "com/dunnlab/isoseq" and "https://bitbucket.org/bredeson/artis-" / "anal" - in the second the typesetter's hyphen is dropped, giving "artisanal". Real hyphens kept: "Omni-C", "YPM-IZ-111756", "D1399-SS10-NA-1", "v0.15.4-r347", "Illumina-compatible", "Biotin-containing", "mis-assemblies", "re-orient", "3d-dna".
+
+"Sequel®" is printed with a superscript registered-trademark sign. "produce ~30x" is printed with thin spaces both before and after the tilde, rendered here with a single ordinary space before it and none after; contrast "(~20kb)", printed tight. In "creating  .hic files" there is a conspicuously wide gap before ".hic", about two spaces, transcribed here as two spaces. The apostrophes in "lab’s" and "manufacturer’s" are printed as curly right single quotation marks (U+2019).
+
+The source's own unit-spacing inconsistencies are left as printed: "8860ng" against "8440 ng", "54.2GB" and "~20kb" closed up against "180 mgs", "10 mls", "500 mgs", "20 mls" spaced. "[47,48]" is printed without a space after the comma while "[54, 55]" has one; both as printed.
+
+Reference-number citations ("[18]", "[45]", "[46]", "[47,48]", "[49]", "[50]", "[51]", "[52]", "[53]", "[54, 55]") and the three URLs are printed in a blue hyperlink colour, the URLs underlined; colour is not marked. "Nanomia septata", "Octopus vulgaris" and "de novo" are printed in italic and the headings bold; italics and bold are not marked. Diacritics: none on this page beyond the ® sign.]

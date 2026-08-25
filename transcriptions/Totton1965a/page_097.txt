@@ -1,0 +1,54 @@
+[PAGE 92]
+[RUNNING HEAD] 92	A SYNOPSIS OF THE SIPHONOPHORA
+
+characters are of generic and specific importance. The following descriptions are necessarily very imperfect and tentative.
+
+Genus: RHODALIA Haeckel, 1888
+
+Monotypic genus for Rhodalia miranda Haeckel, 1888.
+
+The corm is in the form of a spongy mass and does not contain a large central cavity. The aurophore is smooth walled. A shallow hypocystic cavity of great breadth in the nectosome (Bigelow, 1911b, p. 309). Siphosome traversed by a network of innumerable small canals. General ground-substance cartilaginous in consistency as in Angelopsis.
+
+Rhodalia miranda Haeckel, 1888
+
+This specific name was based on four 'Challenger' specimens, three of which are still in the collection of the British Museum (Natural History), the sole remnants of this historic collection of siphonophores. The characters of the species are given above under Rhodalia.
+
+The original specimens measured from 30–50 mm in diameter. The largest specimen bore a corona of from 50–80 (or more) nectophores in three alternating annular series, though the muscular lamellae form a single ring. Each cormidium of the siphosome consists of a conical mesogloeal bulb bearing a single gastrozooid with a long tentacle and a clustered gonodendron bearing gonophores of both sexes and a single palpon.
+
+Auralia profunda, a nomen nudum for a rhodaliid with nectophores arranged in a single circle, may have referred to a young specimen of R. miranda, in which case Auralia could be a synonym of Rhodalia.
+
+Genus: STEPHALIA Haeckel, 1888
+
+Monotypic genus for S. corona Haeckel, 1888b.
+
+? Stephonalia Haeckel, 1888b
+? Steleophysema Moser, 1925
+? Sagamalia Kawamura, 1954
+
+The corm is bulbous and solid. The aurophore is smooth walled. Trefoil-headed, nail-like bracts are present on the cormidia.
+
+Stephalia corona Haeckel, 1888
+Plate XVIII, figures 1–4; text-figure 51
+
+? Stephonalia bathyphysa Haeckel, 1888b
+? Steleophysema aurophora Moser, 1924b
+? Steleophysema auronecta Moser, 1925
+? Sagamalia hinomaru Kawamura, 1954
+
+A most interesting specimen of a rhodaliid siphonophore in the D'Arcy Thompson collection, was presented in 1956 to the British Museum (Natural History) by Queen's College, Dundee, University of St. Andrews. It was taken nearly fifty years ago by F.C. 'Goldseeker' during North Sea Investigations by the Scottish Fishery Board in a frynet on August 17, 1907, at a position 59° 35'N, 7° 00'W, just to the south of the Wyville Thomson Ridge at the entrance to the Faroe Channel. The depth given is 1,140 m, but the net was not a closing one. Apart from the 'Challenger' specimens of Rhodalia miranda the Museum has never possessed a rhodaliid specimen.
+
+The particular interest of this specimen is that it still bears some beautifully preserved bracts of very distinctive shape (Pl. XVIII, fig. 4). In only two specimens of a rhodaliid hitherto has the pre-
+
+[NOTE: printed folio 92 at the outer (left) edge of the running head; PDF index 97, offset −5 holds. No figures, tables or footnotes; no signature mark. The page ends mid-word at "has the pre-" (hyphen printed at the line end, catchword continuing on p. 93), and the whole page is single-column.
+
+No printed square brackets occur on this page. There is, however, a related printed feature that a later reader must not confuse with transcriber markup: seven synonymy lines begin with a bare printed question mark followed by a space — "? Stephonalia Haeckel, 1888b" and the rest. These query marks are Totton's own, printed in roman at the head of each line and standing outside the italic that begins with the genus name, exactly as the bare "[?]" queries elsewhere in the volume are his. They are not transcriber uncertainty markers, and no [?reading] marker was used anywhere on this page. The two blocks of query-marked synonyms are indented slightly less than the body paragraphs and are set in the same small type as the synonymies on pp. 87 and 89.
+
+Printed inconsistencies preserved as printed. The genus heading reads "Genus: STEPHALIA Haeckel, 1888" without a letter suffix, while the line immediately below gives the type species as "S. corona Haeckel, 1888b" with the suffix, and the species heading further down reads "Stephalia corona Haeckel, 1888" again without it — three citations of the same authority, two unsuffixed and one suffixed, verified at 4×–5×. Likewise "Stephonalia" appears here with an "o" in the second syllable in both the generic and the specific synonym lines, beside "Stephalia" in the headings; this matches the spelling in the list of possibly congeneric genera on p. 91 opposite and is transcribed as printed.
+
+Type: both genus headings are roman "Genus:" with a thin space before the colon, then bold italic capitals ("RHODALIA", "STEPHALIA"), then roman authority. Species headings are bold italic upper- and lower-case with roman authority; the second line of the Stephalia corona heading, "Plate XVIII, figures 1–4; text-figure 51", is roman with an en-dash in the range. Italic in the body: "Rhodalia miranda", "Angelopsis", "Rhodalia", "Auralia profunda", "nomen nudum", "R. miranda", "Auralia", "Rhodalia", "S. corona", every genus and species name in the seven query lines, and "Rhodalia miranda" in the D'Arcy Thompson paragraph. Single curly quotes enclose 'Challenger' (twice) and 'Goldseeker'; the apostrophes in "D'Arcy" and "Queen's" are the same curly form.
+
+Numerals verified digit by digit: 1888, 1888, 1911b, p. 309, 1888, 30–50 mm, 50–80, 1888, 1888b, 1888b, 1925, 1954, 1888, XVIII, 1–4, 51, 1888b, 1924b, 1925, 1954, 1956, August 17, 1907, 59° 35'N, 7° 00'W, 1,140 m, XVIII, fig. 4. The two zeros of "00'W" are old-style figures shaped like small o's and were checked at 8× to be a pair of zeros and not the letter o; the latitude minutes read 35 and the longitude has no leading zero on the 7. The degree signs follow a thin space, the minute marks are single primes set close up to the hemisphere letters, and the thousands separator in "1,140 m" is a comma. Note the two letter suffixes in Moser's dates, "1924b" and "1925", which differ from each other, and Haeckel's "1888b" on the query lines against plain "1888" in the headings. Ranges "30–50" and "50–80" use en-dashes.
+
+"F.C. 'Goldseeker'" is printed with the two initials closed up and no space between them, verified at 3×. "Wyville Thomson Ridge" is spelt with one "s" in Thomson here, against "Wyville" with a y.
+
+Stray marks, all scanning blemishes: a small tick in the right margin level with "substance cartilaginous", another level with "are present on the cormidia", a fleck in the left margin level with "Genus: STEPHALIA", a short dash-like fleck in the right margin level with "? Sagamalia hinomaru", a speck in the right margin level with the Stephalia corona heading, and faint specks in the top margin above the running head. None is printed matter.]

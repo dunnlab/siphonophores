@@ -1,0 +1,105 @@
+[PAGE 3386]
+
+[NOTE: born-digital journal page. Fig. 4 occupies the top third across the full
+measure; below it a two-column band (text left, Fig. 5 right); then full-measure
+text to the foot. Transcribed in that order, left column before right within the
+band. Punctuation convention as described on page 3.]
+
+[RUNNING HEAD] 3386	生 态 学 报	35 卷
+
+[FIGURE]
+[NOTE: four map panels in a 2 x 2 block, contour-shaded for surface salinity with
+filled circles of graded size for abundance; a vertical colour bar at the left of
+each panel and a symbol key at the upper right. Panels transcribed in reading
+order: upper left, upper right, lower left, lower right. In this figure the
+longitude scale is printed above each panel, not below.]
+
+[NOTE: panel 1, upper left]
+108°	109°	110°	111°E
+22°N	21°	20°
+33.5	33	32.5	32	31.5	[NOTE: colour-bar labels, top to bottom]
+春季
+50—100	25—50	10—25	5—10	0—5	[NOTE: symbol key, largest circle first]
+涠洲岛	琼州海峡	海南岛
+
+[NOTE: panel 2, upper right]
+108°	109°	110°	111°E
+22°N	21°	20°
+34	33	32	31	30	29	28	27
+夏季
+100—125	50—100	25—50	10—25	5—10	0—5
+涠洲岛	琼州海峡	海南岛
+
+[NOTE: panel 3, lower left]
+22°N	21°	20°
+33	32.5	32	31.5	31	30.5
+秋季
+25—50	10—25	5—10	0—5
+涠洲岛	琼州海峡	海南岛
+[NOTE: an isobar in the lower left of this panel is labelled 33, printed sideways.]
+
+[NOTE: panel 4, lower right]
+22°N	21°	20°
+34	33.5	33	32.5	32	31.5
+冬季
+50—100	25—50	10—25	5—10	0—5
+涠洲岛	琼州海峡	海南岛
+
+审图号: GS(2014)1797号	[NOTE: set once, below the lower right panel]
+
+图 4	北部湾北部水母类丰度的四季平面分布（个/m3）（示表层盐度）
+Fig. 4	Seasonal horizontal distributions of abundance of jellyfish in northern Beibu Gulf（surface salinity）
+[/FIGURE]
+
+个/m3，铁山港海域没有或零星出现（<1.0 个/m3）（图 8）。
+
+此外球型侧腕水母夏季数量最多（114.7 个/m3），密集区位于涠洲岛以北附近海域（丰度最大值为 37.9 个/m3）和铁山港海域（丰度最大值为 20.8 个/m3），调查海域西南部没有或零星出现（<1.0 个/m3）。春季（22.0 个/m3）、秋季（33.4 个/m3）和冬季（48.1 个/m3）数量则相对较少。
+
+2.4	群集结构
+
+选取重要环境因子（深度（D，m）、表层水温（Ts，℃）、中层水温（Tm，℃）、底层水温（Tb，℃）、表层盐度（Ss）、中层盐度（Sm）、底层盐度（Sb）、表层叶绿素 a 浓度（Chas，mg/m3）、中层叶绿素 a 浓度（Cham，mg/m3）和底层叶绿素 a 浓度（Chab，mg/m3） 共 10 个因子）分析它们对水母类的群集结构的影响。四季各群集的主要种和特有种如表 1 所示。
+
+[NOTE: in this paragraph D, T, S and Cha are italic roman letters and the s, m, b
+after T, S and Cha are subscripts; the subscripts are not marked in the
+transcription above. The opening bracket after 选取重要环境因子 is never closed until
+after 共 10 个因子, so the nesting of brackets is as printed.]
+
+春季: 群集 Ⅰ 包括广西沿岸的 B05、B21 和 B40 测站，群集 Ⅱ 分布在远岸海域（图 9）。Anosim 分析结果表明，群集间的差异极显著（R = 0.628，P = 0.001）。
+
+按对相似性贡献大小（以下同），SIMPER 分析表明，群集 Ⅰ 的主要种依次为两手筐水母、刺胞真囊水母（Euphysora knides）和太阳水母（Voragonema pedunculata），其中刺胞真囊水母和太阳水母基本只分布在群集 Ⅰ，位于DCCA排序图（图10）低温低盐区域，说明该群集受沿岸流影响；群集 Ⅰ 的主要种为双生水母等5种
+
+[NOTE: the last clause reads 群集 Ⅰ, a single-stroke Roman numeral one, where the
+sense requires Ⅱ; it is transcribed as printed. Magnified fourteenfold the
+character is unambiguously a single I. The Roman numerals throughout are
+transcribed as the Latin capital letter Ⅰ / Ⅱ shapes seen on the page; whether the
+file uses U+2160 or the Latin letter cannot be told from the image. Note also that
+"DCCA排序图" and "图10" and "等5种" are set without the spaces that surround Latin
+and numerals elsewhere on the page — as transcribed.]
+
+[FIGURE]
+[NOTE: horizontal band chart, one row per species, four seasonal columns; the
+thickness of each black band encodes abundance. Species names at the left in
+italic:]
+
+Lensia subtiloides
+Diphyes chamissonis
+Pleurobrachia globosa
+Liriope tetraphylla
+Cunina peregrina
+Aglaura hemistoma
+Nanomia bijuga
+Euphysora verrucosa
+Solmundella bitentaculata
+
+春季	夏季	秋季	冬季
+
+10%	[NOTE: scale bar below the axis, a black bar with a white box lettered 10%
+and an arrow above and below it]
+
+图 5	北部湾北部水母类主要优势种数量的四季变化
+Fig. 5	Seasonal changes of abundance of dominant species of jellyfish in northern Beibu Gulf
+[/FIGURE]
+
+http: / / www.ecologica.cn
+
+?1994-2018 China Academic Journal Electronic Publishing House. All rights reserved.    http://www.cnki.net

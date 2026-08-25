@@ -1,0 +1,43 @@
+[PAGE 39]
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY I PHYSALIIDAE	39
+
+[TABLE]
+		Page
+Sub-order III	Calycophorae cont.
+	Family 15.  Abylidae cont.
+	Sub-family i.  Abylinae	216
+	A. tottoni Sears	214
+	A. peruana Sears	215
+	Sub-family ii. Abylopsinae
+	Abylopsis tetragona (Otto)	216
+	A. eschscholtzi (Huxley)	218
+	Bassia bassensis (Quoy & Gaimard)	219
+	Enneagonum hyalinum (Quoy & Gaimard)	221
+[/TABLE]
+
+SYSTEMATIC SECTION
+
+Sub-order I: Cystonectae Haeckel, 1887
+
+Pneumatophoridae Chun, 1882
+
+Siphonophores with a budding zone (siphosomal) on only one side of the base of the aboral float. There are no bracts. The tentacles are generally simple, and the cnidoblasts are not concentrated in batteries on the side branches, when these are developed.
+
+There are only five cystonect species currently recognized, so that to review all that has been written on their division into sub-orders, families, sub-families and genera appears to be unimportant. Recent treatment of siphonophores by systematists like Lens & van Riemsdijk, Bigelow, Moser and Leloup have none of them included diagnoses of families and genera.
+
+Two families are recognized to-day: the Physaliidae with a horizontal float, and the Rhizophysidae with an apical, vertical float. Haeckel's family Epibulidae is problematic (see p. 44).
+
+The monotypic genus Physalia is obviously distinguishable by its large float or pneumatophore from the remaining four species, which have been divided into two genera of two species each, Rhizophysa and Bathyphysa. The criterion for distinguishing between these two is that in Bathyphysa spp. the young gastrozooids have lateral wings or ptera – they disappear in later growth stages – while in Rhizophysa spp. there are no ptera.
+
+Family 1: PHYSALIIDAE
+
+Physalia physalis (L) 1758
+Plate I, figure 1
+
+The genus Physalia is monotypic and has been given a lengthy morphological treatment in Volume XXX of the Discovery Reports (Totton, 1960).
+
+The oozooid develops as usual in Siphonophores into an asexual nurse-carrier, up to about one foot in length, with an anterior mouth at one end and the apical pore of the pneumatocyst at the other.
+
+The larva at first swims below the surface, where it has been taken in tow-nets, but when about a millimetre in length it surfaces with the single tentacle of the protozooid (gastrozooid) either to one side or the other of its now horizontal body (hence the enantiomorphism). Thus two mirror-images are found, right-handed or left-handed Physalia. From this time onwards the gas-gland comes to lie asymmetrically on the lower side of the pneumatocyst, and outpocketings from the upper side begin to develop into finger-like processes that erect the crest.
+
+[NOTE: the contents list at the head of the page is continued from p. 38; leader dots are omitted and a single tab substituted. "Sub-family i.  Abylinae" carries the page number 216 while the two species entries beneath it are 214 and 215; so printed. "Sub-family ii. Abylopsinae" has no page number against it. In this typeface the old-style arabic figure 1 and the small roman numeral I are the same glyph (a short serifed stem), so "Sub-order I:" and "Family 1:" are typographically indistinguishable on the page; they are transcribed here as roman I and arabic 1 respectively, on the evidence of "Sub-order II:" on p. 44 (PDF p. 49) and "Family 2:" on p. 40 (PDF p. 45).]

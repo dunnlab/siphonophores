@@ -1,0 +1,1134 @@
+<<<PAGE pdf=1 file=page_001.txt>>>
+[PAGE 1: unnumbered]
+
+[NOTE: French original, scanned; first page of the article, no printed folio (the imprint line at the foot gives the article's pagination, pp. 325-341). Clean impression, fully legible. The journal name in the imprint is set in small capitals. Apostrophes are the typographic curved form throughout. The œ ligature is preserved.]
+
+ÉTUDE HISTOLOGIQUE
+DU DÉVELOPPEMENT DE NANOMIA BIJUGA (CHIAJE, 1841),
+SIPHONOPHORE PHYSONECTE, AGALMIDAE.
+
+par
+
+Danièle Carré
+
+C.N.R.S., Station zoologique, 06 - Villefranche-sur-Mer.
+
+Résumé
+
+L’étude histologique des premiers stades du développement du Siphonophore Nanomia bijuga montre que la segmentation aboutit à une sterroblastula qui se transforme en gastrula par délamination primaire. La gastrula évolue en une planula dont les cellules ectodermiques du pôle antérieur s’invaginent pour former l’ectoderme interne du pneumatophore. La différenciation de ce dernier est décrite.
+
+L’auteur étudie aussi les diverses catégories de cellules glandulaires du gastrozoïde primaire et le développement des gonophores chez de jeunes colonies.
+
+Enfin quelques expériences sont relatées montrant les possibilités de régulation chez les larves.
+
+Introduction
+
+Metchnikoff a donné une excellente description morphologique du développement du Siphonophore Physonecte Nanomia bijuga (Chiaje, 1841), depuis la planula jusqu’au stade siphonula.
+
+Nous avons tenté de compléter ce travail au moyen de diverses techniques histologiques, en nous attachant plus particulièrement à la segmentation de l’œuf, au processus de la gastrulation et à la différenciation du pneumatophore.
+
+Matériel et élevage.
+
+Les colonies de Nanomia bijuga ont été récoltées au printemps, entre 0 et 10 m de profondeur, à l’aide de sacs en plastique. Elles ont été maintenues en chambre fraîche (14°), dans de l’eau de mer fréquemment renouvelée et nourries avec des Artémies jusqu’à maturité des gonophores mâles et femelles.
+
+Les œufs, puis les larves, ont été recueillis dans des cristallisoirs et placés en chambre fraîche sur le plateau d’une berceuse.
+
+CAHIERS DE BIOLOGIE MARINE
+Tome X - 1969 - pp. 325-341
+
+<<<PAGE pdf=2 file=page_002.txt>>>
+[PAGE 326]
+
+[NOTE: French original, scanned. The bold sans-serif section headings are reproduced as plain text. A lone "2" is typeset at the foot of the page below the footnote — the sequential leaf number of this bilingual compilation, not the journal folio; it is transcribed on its own line at the end. In "autres Agalmidae" on the last line of the Metchnikoff quotation the "m" is broken in this impression and reads as "ın"; transcribed as the intended "Agalmidae".]
+
+[RUNNING HEAD] 326	DANIÈLE CARRÉ
+
+Techniques utilisées.
+
+Nous avons obtenu de précieux renseignements par l’observation du matériel vivant au microscope et par la coloration « in toto » des premiers stades de la segmentation et des planulas (Bouin aqueux - alcool à 70° - glychémalun de Mayer - alcool chlorhydrique à 0,5 p. 100).
+
+Après fixation, puis inclusion dans la paraffine, les différents stades larvaires ont été débités en coupes sériées de 5 µ d’épaisseur et colorés.
+
+Colorations histologiques : trichromique de Prenant ; fuchsine paraldéhyde de Gabe ; glychémalun de Mayer et picro-indigo-carmin ; Feulgen.
+
+Colorations histochimiques : Hotchkiss - Mac Manus (PAS) ; bleu alcian non oxydé à PH 3 ; mucicarmin ; réaction d’Unna Brachet.
+
+L'œuf.
+
+Les organes reproducteurs des Siphonophores Physonectes sont généralement des médusoïdes pourvus d’une ombrelle, d’un velum, de quatre canaux radiaires et d’un manubrium imperforé, au sein duquel se développent les produits génitaux. Ce type de gonophore est celui de la plupart des Agalmidae existant à Villefranche-sur-Mer (Cordagalma cordiformis, Agalma elegans, par exemple). Par contre, les organes reproducteurs mâles et femelles de Nanomia bijuga sont, aux divers stades de leur développement, beaucoup plus simples et caractérisés par l’absence d’ombrelle. Cette observation est en accord avec la description des gonophores d’Halistemma pictum (= Nanomia bijuga selon la synonymie admise par Totton en 1965) donnée par Metchnikoff (1870). Cet auteur précise : « Il m’est impossible d’indiquer une formation qui soit équivalente des organes génitaux classiques des Physonectes mais, néanmoins, il est évident que les gonophores d’Halistemma pictum correspondent aux bourgeons génitaux femelles des méduses sexuées des autres Agalmidae ».
+
+Nous avons tenté de suivre, au moyen de coupes histologiques, la différenciation des organes génitaux femelles chez de jeunes colonies.
+
+Les organes reproducteurs mâles et femelles sont groupés en deux bouquets distincts et juxtaposés à la base de chaque dactylozoïde (Pl. I, 1). Dans les cormidies mûres, le blastostyle femelle porte des gonophores à divers stades de développement et c’est seulement chez les jeunes cormidies en cours de différenciation que nous avons pu observer les premières étapes de la différenciation de la grappe des gonophores femelles. Le blastostyle est d’abord un bourgeon didermique très court, inséré près de la base du dactylozoïde. Il présente, dans sa partie distale aveugle, une vingtaine d’oocytes de petite taille, au cytoplasme homogène, logés entre l’ectoderme et l’endoderme (1). Ces oocytes se développent à des vitesses très variables
+
+[FOOTNOTE] (1) Il nous est encore impossible de préciser l’origine des cellules sexuelles, mais nous espérons pouvoir aborder ce problème dans un travail ultérieur.
+
+2
+
+<<<PAGE pdf=3 file=page_003.txt>>>
+[PAGE 327]
+
+[NOTE: French original, scanned; legible throughout. Most of the page is occupied by Figure 1, four line-drawing panels A-D with lettered leaders and scale bars; the lettering inside the figure is transcribed panel by panel. A lone "3" is typeset at the foot right — the sequential leaf number of this bilingual compilation. The same figure is reproduced again in the English translation later in this PDF.]
+
+[RUNNING HEAD] NANOMIA BIJUGA	327
+
+et font peu à peu saillie à l’extérieur (Pl. I, 3 et Fig. 1, A, B, C). Ils déforment la région distale du blastostyle dont l’ectoderme s’amenuise tandis que l’endoderme s’insinue entre les cellules reproductrices.
+
+[FIGURE]
+[panel A, upper left; leaders:] Ect. / O. / End.
+A
+20 µ.
+
+[panel C, upper right; leaders:] V.G. / O. / End. / C.End
+C
+50 µ.
+
+[panel B, lower left; leader:] End.
+B
+20 µ.
+
+[panel D, lower right; leaders:] Ect. / O. / Vit. / C.End.
+D
+30 µ.
+
+FIG. 1
+Différenciation des gonophores femelles de Nanomia bijuga.
+
+A, B : coupes transversales de la région apicale de jeunes blastostyles, présentant des oocytes pressés les uns contre les autres (1), puis séparés par des cellules endodermiques (2). C : coupe longitudinale d’un blastostyle femelle dont les oocytes commencent à faire saillie à l’extérieur. D : coupe d’un oocyte quelques heures avant la ponte.
+
+(Voir p. 341 la liste des abréviations utilisées.)
+[/FIGURE]
+
+3
+
+<<<PAGE pdf=4 file=page_004.txt>>>
+[PAGE 328]
+
+[NOTE: French original, scanned; legible throughout. The opening "A maturité" is set with an unaccented capital A, as printed. Section heading set in bold sans-serif letter-spaced capitals. A lone "4" is typeset at the foot left — the sequential leaf number of this bilingual compilation.]
+
+[RUNNING HEAD] 328	DANIÈLE CARRÉ
+
+A maturité, les œufs sont entièrement dégagés du blastostyle auquel ils ne restent reliés que par de très courts pédoncules didermiques (Pl. I, 4, 5 et Fig. 1, D). On observe alors, sous la fine couche d’ectoderme qui enveloppe chaque œuf, des canaux endodermiques, au trajet sinueux, formant deux larges boucles réunies au niveau du pédoncule de l’œuf.
+
+Les divers stades de la différenciation des gonophores femelles de Nanomia bijuga ne montrent jamais la formation d’un nodule médusaire et nous pensons que ces organes, apparemment dépourvus d’ectoderme interne, sont proches des gonophores styloïdes de certains Hydraires. Leurs canaux, qui représentent l’unique formation endodermique, semblent être une particularité originale.
+
+Au moment de la ponte, l’œuf mesure 180 µ de diamètre. Le cytoplasme a perdu sa structure homogène : à la périphérie on observe une zone finement granuleuse, tandis que la région située autour de la vésicule germinative est maintenant envahie par de grandes vacuoles renfermant de grosses gouttes de vitellus. Nous avons effectué diverses colorations histochimiques sur des œufs mûrs, sans parvenir à caractériser les réserves de façon nette. Cela semble lié à la faible densité de ces réserves.
+
+En élevage, tous les gonophores femelles mûrs, portés par un même individu, se détachent simultanément en fin de journée ; une dizaine de minutes plus tard, leurs enveloppes se déchirent et les œufs sont libérés dans l’eau de mer. Toutefois, chez les colonies en excellent état, les œufs sont lâchés directement dans l’eau et ce fait représente, sans doute, le processus de ponte normal.
+
+SEGMENTATION ET GASTRULATION.
+
+La fécondation se produit dans l’eau de mer, après l’émission des globules polaires.
+
+Metchnikoff ne donne aucun détail sur les premiers stades de développement de l’œuf de Nanomia bijuga, mentionnant simplement que tout se déroule comme pour les autres Siphonophores.
+
+La segmentation débute une dizaine de minutes après la fécondation. Le premier plan de clivage est méridien et divise l’œuf en deux blastomères égaux. Le second, perpendiculaire au premier, est quelquefois méridien, le plus souvent équatorial. Le troisième plan de clivage est toujours perpendiculaire aux précédents et donne naissance à deux quartettes de blastomères identiques et sensiblement superposés (Pl. I, 2).
+
+Le stade à 16 blastomères est formé par deux assises superposées de huit cellules. Tous les blastomères sont externes ; ils s’affrontent de façon plus ou moins régulière dans la partie centrale de la larve sans laisser entre eux de cavité (Fig. 2). Chaque blastomère a une structure hétérogène. Il présente une calotte superficielle très colorable, finement granuleuse, contenant le noyau et une région interne formée par les réserves vitellines incluses dans des vacuoles.
+
+4
+
+<<<PAGE pdf=5 file=page_005.txt>>>
+[PAGE 329]
+
+[NOTE: French original, scanned; legible throughout. Figure 2 sits between the second and third paragraphs; the text resumes below it with the sentence broken across the figure. A lone "5" is typeset at the foot right — the sequential leaf number of this bilingual compilation. The same figure is reproduced again in the English translation later in this PDF.]
+
+[RUNNING HEAD] NANOMIA BIJUGA	329
+
+Le passage au stade à 32 blastomères se fait par une série de divisions plus ou moins synchrones mais s’effectuant toutes suivant des plans radiaires (Pl. I, 6). La larve obtenue est une sphère pleine dont toutes les cellules sont identiques par leur position et par leur constitution. Chaque blastomère présente la structure hétérogène définie pour les cellules du stade à 16 blastomères. Un tel stade nous semble être une sterroblastula (suivant les définitions données par Dawydoff en 1928).
+
+Au-delà du stade 32, nous avons observé, sur des coupes histologiques, quelques divisions suivant des plans tangentiels ou parfois obliques par rapport à la surface de la larve (Pl. I, 7). Ces divisions,
+
+[FIGURE]
+[leaders, upper right to lower right:] Z.Cort. / Vit.
+30 µ
+
+FIG. 2
+Coupe d’un embryon au stade à 16 blastomères.
+[/FIGURE]
+
+plus abondantes à l’un des pôles, isolent des cellules périphériques plates, de petite taille, au cytoplasme granuleux et des cellules internes très grandes, vacuolisées, dont le noyau est excentrique. Nous pensons pouvoir qualifier ce processus, de gastrulation par délamination primaire (toujours suivant les définitions données par Dawydoff).
+
+Les traités de Zoologie et d’Embryologie abordant le développement des Siphonophores, indiquent l’existence d’une morula vraie et d’une gastrulation par délamination secondaire. Toutefois, il convient de noter que ces conclusions ne se retrouvent pas toujours de façon aussi formelle dans les travaux originaux. Fewkes (1885), dans son travail détaillé sur le développement d’Agalma elegans, mentionne qu’il ne peut pas préciser l’origine des cellules ectodermiques ciliées de la « morula ». Woltereck (1905) écrit : « Lorsque l’œuf contient
+
+5
+
+<<<PAGE pdf=6 file=page_006.txt>>>
+[PAGE 330]
+
+[NOTE: French original, scanned; legible throughout. A lone "6" is typeset at the foot left — the sequential leaf number of this bilingual compilation.]
+
+[RUNNING HEAD] 330	DANIÈLE CARRÉ
+
+environ quarante blastomères, la formation de l’endoderme commence et se produit par une délamination typique ; à la périphérie se forment des fuseaux disposés radiairement et, par une série de divisions inégales, la lamelle ectoplasmique de chaque blastomère est séparée de la masse endoplasmique ». Ces observations sont semblables aux nôtres. Lockmann (1914), dans l’étude du développement de Sulculeolaria quadrivalvis, dit : « L’œuf fécondé se divise par segmentation totale, selon les lois habituelles imprécises jusqu’au stade dit morula ».
+
+Malgré le peu d’opacité des larves de Siphonophores, il est souvent difficile de distinguer les membranes des blastomères des plans d’affrontement des vésicules vitellines. Cela est peut-être à l’origine d’incertitudes ou d’erreurs d’observation et nous pensons qu’une étude histologique des premiers stades de développement d’autres espèces est souhaitable, afin d’établir avec certitude les modalités de la gastrulation.
+
+LA GASTRULA (Pl. I, 7, 8).
+
+Le stade gastrula est marqué par un changement dans la forme de la larve qui devient légèrement allongée.
+
+Les cellules externes se divisent activement. Elles diminuent progressivement de taille et s’organisent en un épithélium cilié régulier, l’ectoderme.
+
+Les cellules internes forment l’endoderme. Chez la gastrula, tous les noyaux endodermiques sont situés à la périphérie, contre l’ectoderme. Par la suite, lors du passage au stade planula, certains restent en place et d’autres se retrouvent dans la partie centrale de la larve (Pl. I, 8). Les premiers sont entourés de cytoplasme granuleux. Ils sont surtout localisés au pôle antérieur et sur la face ventrale où ils se divisent, formant peu à peu dans ces régions un revêtement régulier d’endoderme définitif doublant l’ectoderme. Les noyaux endodermiques qui pénètrent à l’intérieur de la larve se divisent aussi mais nous n’avons pas pu suivre un partage concomitant du vitellus qui, au-delà du stade morula, ne semble plus concerné par les mitoses. Ces noyaux ne paraissent jamais dégénérescents et nous pensons qu’ils participent tous, à un stade plus ou moins précoce, à la formation de l’endoderme définitif.
+
+Ces observations nous conduisent à discuter les notions d’endoderme primaire et secondaire. Dawydoff (1928) définit l’endoderme primaire comme une masse cellulaire riche en granulations vitellines, destinée à disparaître pour être remplacée par l’endoderme définitif dont les ébauches sont incluses parmi les éléments du provisoire. Woltereck (1905), après avoir décrit la formation de l’endoderme primaire par délamination, écrit que ce processus est suivi immédiatement par la formation de l’endoderme secondaire qui apparaît entre l’ectoderme et l’endoderme primaire. Il affirme que cet endoderme définitif tire son origine de la partie basale des cellules ectodermiques, laissant sous-entendre, de ce fait, le caractère provisoire de
+
+6
+
+<<<PAGE pdf=7 file=page_007.txt>>>
+[PAGE 331]
+
+[NOTE: French original, scanned; legible throughout. Figure 3 occupies the lower two-thirds of the page, four panels A-D; lettering transcribed panel by panel. A lone "7" is typeset at the foot right — the sequential leaf number of this bilingual compilation. The same figure is reproduced again in the English translation later in this PDF.]
+
+[RUNNING HEAD] NANOMIA BIJUGA	331
+
+l’endoderme primaire. Ces dénominations d’endoderme primaire et secondaire qui impliquent une idée de succession sont peut-être à abandonner. Nous pensons que l’endoderme définitif n’est autre que l’endoderme primaire dont les noyaux se multiplient et s’agencent de façon régulière à la périphérie de la larve, tandis que la masse du vitellus régresse au fur et à mesure de l’utilisation des réserves.
+
+LA PLANULA (Pl. II, 1, 2, 3).
+
+Au stade planula, atteint environ un jour et demi après la ponte, la larve mesure 325 µ. Elle nage grâce aux battements des cils régulièrement répartis sur toute la surface de l’ectoderme. Les cellules ectodermiques sont petites, plates. Des cellules endodermiques forment une assise presque continue sur la face ventrale et au pôle antérieur. L’intérieur de la larve, occupé par le vitellus réparti dans des vacuoles,
+
+[FIGURE]
+[panel A, upper left; leaders:] Ect. / End. / Vit.
+A
+
+[panel B, upper right; leader:] Ect.
+B
+30 µ.
+
+[panel C, lower left; leader:] Ect.
+C
+
+[panel D, lower right; leaders:] C.Pr. / Ect. / Ect.A. / End.
+D
+
+FIG. 3
+Différenciation du pneumatophore de Nanomia bijuga.
+
+A, B, C : invagination de l’ectoderme du pôle antérieur de la planula (coupe longitudinale). D : formation de l’ectoderme aérifère (coupe longitudinale).
+[/FIGURE]
+
+7
+
+<<<PAGE pdf=8 file=page_008.txt>>>
+[PAGE 332]
+
+[NOTE: French original, scanned; legible throughout. "A ce stade" is set with an unaccented capital A twice on this page, as printed. Sub-heading "1° Le pneumatophore." is set in bold sans-serif. A lone "8" is typeset at the foot left — the sequential leaf number of this bilingual compilation.]
+
+[RUNNING HEAD] 332	DANIÈLE CARRÉ
+
+présente quelques gros noyaux endodermiques. A ce stade, on note l’apparition d’une coloration orangée au pôle postérieur, tandis qu’au pôle antérieur cinq à six cellules ectodermiques deviennent très hautes. Par une série de divisions suivant des plans perpendiculaires à la surface de la larve, elles s’organisent en une petite coupe de plus en plus refermée qui s’invagine peu à peu en repoussant l’endoderme. Cette formation est la première ébauche du pneumatophore (Pl. III, 1, 2, 3 ; Fig. 3, A, B).
+
+Chez la larve âgée de deux jours et demi, l’invagination de l’ectoderme apical est terminée. Le pneumatophore est alors constitué par un massif interne de cellules ectodermiques régulièrement agencées autour d’une cavité primaire quasi virtuelle (Fig. 3, C). Cette ébauche est doublée par l’endoderme, tandis que l’ectoderme s’est refermé au-dessus de la zone d’invagination. C’est à ce stade que commence, dans la région moyenne de la face ventrale, le bourgeonnement du premier filament pêcheur larvaire.
+
+Au cours des vingt-quatre heures suivantes, l’ébauche du pneumatophore, toujours incluse dans la planula, s’allonge. Dans la partie basale du nodule d’ectoderme interne, quelques cellules se divisent. Elles sont à l’origine d’un petit massif qui s’insinue dans la cavité primaire du pneumatophore et qui représente l’ectoderme aérifère (Pl. III, 4 ; Fig. 3, D). Au sein de ce tissu, chez la larve âgée de cinq jours, on observe la formation d’une cavité allongée contenant du gaz et qui est la cavité définitive du pneumatophore (Pl. I, 4 ; Pl. III, 5).
+
+A ce stade, la larve mesure 550 µ de longueur. Elle présente un étranglement annulaire au niveau de la zone de bourgeonnement du premier filament pêcheur larvaire et prend le nom de siphonula.
+
+LA SIPHONULA (Pl. II, 4, 5, 6).
+
+L’évolution de la jeune siphonula en une colonie, pourvue d’un pneumatophore fonctionnel, de cloches natatoires, de bractées et d’organes digestifs, se réalise en quelques jours. Nous décrivons la formation ou l’achèvement de ces différentes structures.
+
+1° Le pneumatophore.
+
+Le pneumatophore qui, chez la planula, n’était qu’une petite ébauche incluse dans le corps embryonnaire, forme, chez la siphonula, toute la partie antérieure de la larve (Pl. II, 4, 5). Il est caractérisé par la présence de la cavité définitive remplie de gaz qui devient de plus en plus vaste et apicale. Autour de cette cavité, l’assise périphérique du nodule d’ectoderme interne forme un revêtement monostratifié et secrète une mince couche de chitine (Fig. 4). Cette assise est interrompue dans la région où a pris naissance l’ectoderme aérifère qui constitue, à ce stade, un petit massif de grosses cellules, au cytoplasme granuleux et très colorable, localisé à la base du pneu-
+
+8
+
+<<<PAGE pdf=9 file=page_009.txt>>>
+[PAGE 9: unnumbered]
+
+[NOTE: French original, scanned. Full-page halftone plate, Planche I, with its caption printed at the foot of the same page. The plate carries no printed folio and no compilation leaf number. Eight numbered panels; panel 2 is itself a row of seven sub-images of cleavage stages with no lettering of their own. The organ labels in panel 1 use the astronomical/biological sex signs; they are transcribed as ♀ and ♂. The author's name is set in small capitals at the lower left of the plate. The same plate is reproduced again in the English translation later in this PDF.]
+
+[PLATE]
+[panel 1, upper left; leaders:] G.♀ / C.End / G.♂.
+1
+
+[panel 2, upper right, a row of seven sub-images (three above, four below), no lettering:]
+2
+
+[panel 3, middle left; leader:] Bl.
+3
+
+[panel 4, middle centre; leaders:] Ect. / End.
+4
+
+[panel 5, middle right; leaders:] C.End. / V.G.
+5
+
+[panel 6, lower left; leaders:] F.A. / Z.Cort.
+6
+
+[panel 7, lower centre; leader:] F.A.
+7
+
+[panel 8, lower right; leader:] End.
+8
+
+DANIÈLE CARRÉ
+
+PLANCHE I
+
+1 : grappes de gonophores mâles et femelles à la base d’un dactylozoïde. 2 : segmentation de l’œuf. 3 : coupe longitudinale d’un jeune blastostyle femelle. 4 : coupe longitudinale d’un blastostyle femelle bien différencié. 5 : coupe dans un oocyte au début de la formation des vésicules vitellines. 6 : passage du stade 16 au stade à 32 blastomères par des divisions synchrones dont les fuseaux sont parallèles à la surface de la larve. 7 : gastrulation - coupe montrant un fuseau achromatique perpendiculaire à la surface de la larve. 8 : coupe dans une très jeune planula montrant des noyaux endodermiques situés contre l’ectoderme et un autre situé au sein du vitellus.
+[/PLATE]
+
+<<<PAGE pdf=10 file=page_010.txt>>>
+[PAGE 10: unnumbered]
+
+[NOTE: French original, scanned. Full-page halftone plate, Planche II, six numbered panels. No printed folio and no compilation leaf number. The plate carries no caption of its own — only the author's name in small capitals at the lower left and the plate title at foot centre. [NOTE: caption for Planche II appears on page 11.] The same plate is reproduced again in the English translation later in this PDF.]
+
+[PLATE]
+[panel 1, upper left; no lettering]
+1
+
+[panel 2, upper right; leaders:] Eb.Pn. / Eb.F.
+2
+
+[panel 3, middle left; leader:] Eb.Pn.
+3
+
+[panel 4, middle right; leaders:] Pn. / F. / G.P.
+4
+
+[panel 5, lower left; leaders:] Br. / T.
+5
+
+[panel 6, lower right; leaders:] N. / Eb.N. / St. / Eb.Cor. / G.P.
+6
+
+DANIÈLE CARRÉ
+
+PLANCHE II
+[/PLATE]
+
+<<<PAGE pdf=11 file=page_011.txt>>>
+[PAGE 333]
+
+[NOTE: French original, scanned; legible throughout. Figure 4 fills most of the page. Below its caption a horizontal rule separates the caption for Planche II, which is printed here although the plate itself is on page 10. A lone "9" is typeset at the foot right — the sequential leaf number of this bilingual compilation. The same figure is reproduced again in the English translation later in this PDF.]
+
+[RUNNING HEAD] NANOMIA BIJUGA	333
+
+matophore. Au sein de ce tissu aérifère, chez la larve âgée d’une semaine, apparaissent de petites cavités qui ne contiennent pas de gaz mais des granulations présentant une grande affinité tinctoriale et
+
+[FIGURE]
+[leaders on the left, top to bottom:] C.Pn. / Ect. / Ect.A. / C.Ect.A.
+[leaders on the right, top to bottom:] Ect. / Pig. / End. / End. / Ch. / S. / Eb.F.
+30 µ.
+
+FIG. 4
+Différenciation du pneumatophore de Nanomia bijuga.
+
+Pneumatophore d’une siphonula âgée d’une semaine montrant la formation de la cavité définitive et l’apparition d’une cavité dans la région basale du massif d’ectoderme aérifère (coupe longitudinale).
+[/FIGURE]
+
+PLANCHE II
+Développement de Nanomia bijuga.
+
+1 : planula âgée d’un jour et demi. 2 : planula âgée de 2 jours. 3 : planula âgée de 2 jours et demi. 4 : siphonula âgée d’une semaine. 5 : siphonula âgée d’une vingtaine de jours. 6 : jeune colonie.
+
+9
+
+<<<PAGE pdf=12 file=page_012.txt>>>
+[PAGE 334]
+
+[NOTE: French original, scanned; legible throughout. Figure 5 occupies the middle of the page. Below the last text paragraph a horizontal rule separates the caption for Planche III, which is printed here although the plate itself is on a later page. A lone "10" is typeset at the foot left — the sequential leaf number of this bilingual compilation. The same figure is reproduced again in the English translation later in this PDF.]
+
+[RUNNING HEAD] 334	DANIÈLE CARRÉ
+
+ressemblant à des sécrétions (Pl. III, 6). Ces cavités se développent peu à peu, confluent et forment à la base du flotteur des très jeunes colonies, une vaste poche séparée de l’endoderme par une assise de cellules d’ectoderme aérifère (Fig. 4, 5, 6). Chun (1897) décrit des formations semblables chez Physophora hydrostatica ; il les interprète non comme des cavités, mais comme de grandes cellules ramifiées.
+
+[FIGURE]
+[leaders on the left, top to bottom:] Ect.A. / S. / C.Ect.A. / Ect.A. / St.
+[leaders on the right, top to bottom:] Ect. / M. / M. / Ect. / Ch. / End.
+60 µ
+
+FIG. 5
+Différenciation du pneumatophore de Nanomia bijuga.
+
+Partie basale du pneumatophore d’une siphonula âgée de 10 jours. On note un épaississement du feuillet endodermique doublant l’ectoderme interne et l’accroissement de la cavité apparue dans l’ectoderme aérifère (coupe longitudinale).
+[/FIGURE]
+
+Chez Nanomia bijuga, nous n’avons jamais observé de structures nous permettant de retenir cette interprétation. En même temps qu’apparaissent ces cavités, les cellules du feuillet endodermique doublant les formations d’ectoderme interne, deviennent très hautes (Fig. 5).
+
+PLANCHE III
+Différenciation du pneumatophore.
+
+1, 2, 3 : invagination de l’ectoderme du pôle antérieur de la planula. 4 : formation de l’ectoderme aérifère. 5 : pneumatophore d’une siphonula âgée de cinq jours. 6 : région basale du pneumatophore d’une siphonula âgée d’une vingtaine de jours (coupe axiale). 7 : région basale du pneumatophore d’une jeune colonie (coupe axiale). 8 : région basale du pneumatophore d’une jeune colonie (coupe sagittale). 9 : région basale d’un pneumatophore adulte (coupe parasagittale).
+
+10
+
+<<<PAGE pdf=13 file=page_013.txt>>>
+[PAGE 13: unnumbered]
+
+[NOTE: French original, scanned. Full-page halftone plate, Planche III, nine numbered panels. No printed folio and no compilation leaf number. The plate carries no caption of its own. [NOTE: caption for Planche III appears on page 12.] The author's name at the lower left is very faint and broken in this impression; the accents cannot be resolved. In panel 6 the label at the right is cut off by the edge of the halftone block. The panel number of the ninth panel is lost in a dense black area at its lower right corner. The same plate is reproduced again in the English translation later in this PDF.]
+
+[PLATE]
+[panel 1, upper left; leader:] Ect.
+1
+
+[panel 2, upper centre; leader:] End.
+2
+
+[panel 3, upper right; no lettering]
+3
+
+[panel 4, middle left; leaders:] Ect.A.
+4
+
+[panel 5, middle centre; leader:] C.Pn.
+5
+
+[panel 6, middle right; leaders:] C.Pn. / Ect.A. / S / [?End.]
+6
+
+[panel 7, lower left; leaders:] End. / Ect.
+7
+
+[panel 8, lower centre; leaders:] Ect.A. / End.
+8
+
+[panel 9, lower right; no lettering]
+[?9]
+
+DANIÈLE CARRÉ
+
+PLANCHE III
+[/PLATE]
+
+<<<PAGE pdf=14 file=page_014.txt>>>
+[PAGE 14: unnumbered]
+
+[NOTE: French original, scanned. Single-photograph plate, Planche IV, printed in the upper half of the page with its caption immediately below; the lower half of the page is blank. No printed folio and no compilation leaf number. The author's name in small capitals is broken in this impression and reads "DANIÈLE CARRÉ" with the accents only partly formed. The same plate is reproduced again in the English translation later in this PDF.]
+
+[PLATE]
+10 µ.
+[leaders, upper left and upper centre:] C.Sph.G. / C.Sp. / C.Sph.H.
+[labels along the foot of the photograph, left to right:] M.	F.M.	Ect.
+
+DANIÈLE CARRÉ	PLANCHE IV
+
+Zone de transition entre les régions hypostomiale et gastrique du gastrozoïde (coupe longitudinale).
+[/PLATE]
+
+<<<PAGE pdf=15 file=page_015.txt>>>
+[PAGE 335]
+
+[NOTE: French original, scanned; legible throughout. Figure 6 occupies the middle of the page, with text above and below it. A lone "11" is typeset at the foot right — the sequential leaf number of this bilingual compilation. The same figure is reproduced again in the English translation later in this PDF.]
+
+[RUNNING HEAD] NANOMIA BIJUGA	335
+
+Puis, ce feuillet se plisse suivant huit génératrices et forme huit cloisons longitudinales qui s’étendent de l’apex du pneumatophore jusqu’à sa base et relient le feuillet endodermique enveloppant l’ectoderme interne au feuillet d’endoderme accolé contre l’ectoderme externe du pneumatophore (Pl. III, 7 ; Fig. 7, A). Elles délimitent
+
+[FIGURE]
+[leaders on the left, top to bottom:] Ect. / M. / End. / M. / End. / St. / R.End.
+100 µ.
+[leaders on the right, top to bottom:] Ect.A. / End. / Ect. / Ch. / S. / C.Ect.A / Ect.A.
+
+FIG. 6
+Différenciation du pneumatophore de Nanomia bijuga.
+
+Partie basale du pneumatophore d’une siphonula âgée. On note les cloisons endodermiques au sein desquelles commencent à s’insinuer les cavités de l’ectoderme aérifère (coupe parasagittale).
+[/FIGURE]
+
+ainsi huit cavités longitudinales, en communication avec la cavité gastro-vasculaire de la colonie (Fig. 6 ; Fig. 7, B).
+
+Chez la colonie adulte, les cavités apparues dans le tissu aérifère émettent, en face de chaque cloison endodermique, un prolongement qui s’insinue entre les deux feuillets de la cloison (Pl. III, 7, 8 ; Fig. 6 ; Fig. 7, A). Puis, ces prolongements deviennent sphériques
+
+11
+
+<<<PAGE pdf=16 file=page_016.txt>>>
+[PAGE 336]
+
+[NOTE: French original, scanned; legible throughout. Below the last text paragraph a horizontal rule separates the caption for Figure 7, which is printed here although the figure itself is on the following page. [NOTE: caption for Fig. 7 appears here; the figure is on page 17.] A lone "12" is typeset at the foot left — the sequential leaf number of this bilingual compilation.]
+
+[RUNNING HEAD] 336	DANIÈLE CARRÉ
+
+tandis qu’à leur niveau les travées endodermiques se soudent (Pl. III, 9 ; Fig. 7, B).
+
+Au terme de son développement, le pneumatophore de Nanomia bijuga présente ainsi trois types de cavités : la grande cavité apicale contenant du gaz et qui communique directement avec l’extérieur par un pore de néoformation ; les cavités closes du tissu aérifère qui contiennent des grains de sécrétion et qui se prolongent dans les cloisons endodermiques ; les cavités endodermiques qui sont en relation avec la cavité gastro-vasculaire de la colonie.
+
+Les différenciations morphologiques du pneumatophore qui ont été décrites, sont accompagnées de différenciations cytologiques. Les cellules de l’ectoderme externe, banales chez le jeune pneumatophore, présentent, dans leur région superficielle, chez le pneumatophore adulte, une dizaine de grains de sécrétion relativement gros. Bien que leur morphologie soit très différente, elles évoquent des cellules sphéruleuses gastriques. Par ailleurs, nous avons souvent observé, dans ces cellules ectodermiques, de petits corps en forme de virgule dont nous ne pouvons donner aucune interprétation. Les cellules endodermiques présentent aussi une particularité originale : leur cytoplasme, envahi par des granules peu colorables, possède très souvent deux noyaux. Cette particularité ne paraît pas liée à une caryocinèse incomplète, ni à une fusion entre éléments voisins, mais semble résulter d’une division directe des noyaux après division des nucléoles. En effet, on n’observe jamais de figures de division dans l’endoderme du pneumatophore adulte mais, par contre, il est fréquent de noter la présence de deux nucléoles dans les noyaux des cellules uninucléées. Chun (1897) a signalé l’existence de cellules plurinucléées dans divers organes de Siphonophores et les interprète comme le résultat de divisions nucléaires directes, non suivies de cloisonnement. Pérez (1929) décrit des cellules à noyaux multiples dans le spadice des gonophores de la Physalie ; il relie cette particularité morphologique à une activité physiologique intense. Il semble que la même interprétation puisse être avancée pour les cellules des cloisons endodermiques du pneumatophore de Nanomia bijuga. Seules, ces cellules sont en relation directe avec la cavité gastro-vasculaire de la colonie et c’est par leur intermédiaire que sont transmis les métabolites aux cellules de l’ectoderme aérifère.
+
+2° Le gastrozoïde primaire et ses filaments pêcheurs.
+
+Au stade siphonula, le vitellus est presque totalement digéré et, à sa place, se développe une vaste cavité gastro-vasculaire autour de laquelle les régions moyenne et postérieure du corps embryonnaire se différencient en un gastrozoïde primaire.
+
+FIG. 7
+Partie basale du pneumatophore d’une colonie de Nanomia bijuga.
+
+A : coupe axiale passant par deux cloisons endodermiques et par deux protubérances de l’ectoderme aérifère. B : coupe parasagittale montrant la structure des cloisons endodermiques et la position des prolongements de l’ectoderme aérifère au sein de ces cloisons.
+
+12
+
+<<<PAGE pdf=17 file=page_017.txt>>>
+[PAGE 17: unnumbered]
+
+[NOTE: French original, scanned; legible throughout. Full-page line figure, Figure 7, two panels A and B, with only the label "FIG. 7" at the foot. No printed folio and no compilation leaf number. [NOTE: caption for Fig. 7 appears on page 16.] Some labels are printed without a final full stop ("M", "End" in panel A, "M" in panel B); these are transcribed as printed. The same figure is reproduced again in the English translation later in this PDF.]
+
+[FIGURE]
+[panel A, upper; leaders at the upper left:] Ch. / Ect. / M.
+[leader at the upper centre:] Ect.
+[leaders at the upper right:] Ect. / M / End.
+[leader at mid right of the section:] S.
+125 µ.
+A
+St.
+
+[panel B, lower; leaders at the left:] Ect. / M. / End.
+[leaders at the right, top to bottom:] Ect. / Ch. / Ect.A. / Ect.A. / S. / End. / M
+[leaders at the foot, left to right:] St. / R.End. / Eb.N.
+125 µ.
+B
+
+FIG. 7
+[/FIGURE]
+
+<<<PAGE pdf=18 file=page_018.txt>>>
+[PAGE 338]
+
+[NOTE: French original, scanned; legible throughout. The preceding full-page figure carried no folio, so printed folio 337 does not appear in this PDF. A lone "14" is typeset at the foot left — the sequential leaf number of this bilingual compilation.]
+
+[RUNNING HEAD] 338	DANIÈLE CARRÉ
+
+Au pôle postérieur de la larve, dans la région où se percera la bouche du gastrozoïde, les cellules endodermiques deviennent hautes, ciliées ; dans leur partie basale, apparaissent des fibres musculaires circulaires qui s’appuient contre la mésoglée (Pl. IV). Les premières cellules glandulaires différenciées sont des cellules spumeuses hypostomiales, suivant la terminologie définie par Semal - Van Gansen (1954). Ces cellules ont la forme d’une massue et présentent un gros noyau dans leur région basale étroite (Pl. IV). Le cytoplasme du pôle apical contient de grandes vacuoles qui sont pressées les unes contre les autres et limitées par une trame finement granuleuse. Le contenu de ces vacuoles est clair et homogène. Il est coloré en bleu turquoise par le bleu alcian non oxydé à pH 3 et présente, après coloration au mucicarmin et après le P.A.S., des réactions positives qui indiqueraient la présence de mucopolysaccharides dans les sécrétions de ces cellules. Lors de la capture d’une proie, tout le contenu des vacuoles s’écoule dans la cavité gastrovasculaire et forme une nappe de mucus. La cellule est alors réduite à sa partie basale renfermant le noyau mais il suffit de quelques heures pour qu’elle reprenne son aspect normal.
+
+Après les cellules spumeuses, des cellules sphéruleuses se différencient dans la région hypostomiale. Elles sont beaucoup plus étroites que les précédentes (Pl. IV). Leur noyau, petit, médian, pourvu d’un gros nucléole, partage la cellule en deux régions. Dans la région basale, le cytoplasme est clair, très finement granuleux, peu colorable. Par contre, au pôle apical, le cytoplasme est envahi par de petites vacuoles très nombreuses, serrées les unes contre les autres, renfermant des grains de sécrétion. Ces cellules sphéruleuses orales ne sont jamais vidées de leur contenu. Elles synthétisent leurs secrétats au fur et à mesure de leur utilisation et sont donc de type mérocrine.
+
+La région moyenne du gastrozoïde est caractérisée par la présence de cellules sphéruleuses gastriques. Ces cellules, de taille relativement grande, sont en forme de cône ou de massue, suivant la position qu’elles occupent et les pressions qu’elles supportent (Pl. IV). Elles possèdent une région basilaire assez réduite, au cytoplasme dense entourant le noyau. Puis la cellule s’élargit et présente de très gros grains de sécrétion sphériques. Ces cellules gastriques se vident complètement de leur contenu au cours de la digestion et se colorent de façon variable suivant le stade d’élaboration de leurs sécrétats.
+
+Il convient de noter que la localisation dans les régions hypostomiale ou moyenne de chacun de ces types de cellules glandulaires n’est pas rigoureuse. Il existe une large zone de transition où ces trois catégories de cellules coexistent (Pl. IV).
+
+Dans la portion basale du gastrozoïde, l’endoderme est dépourvu d’éléments glandulaires. Il est formé de grandes cellules ciliées assez plates. Certaines font légèrement saillie dans la cavité gastrique et présentent une grande vacuole pouvant renfermer des nématocystes déchargés et des déchets.
+
+L’ectoderme du gastrozoïde forme un mince feuillet cilié sans différenciations apparentes.
+
+A la base du gastrozoïde primaire se sont développés deux filaments pêcheurs larvaires qui s’étendent dans des directions opposées
+
+14
+
+<<<PAGE pdf=19 file=page_019.txt>>>
+[PAGE 339]
+
+[NOTE: French original, scanned; legible throughout. A lone "15" is typeset at the foot right — the sequential leaf number of this bilingual compilation.]
+
+[RUNNING HEAD] NANOMIA BIJUGA	339
+
+(Pl. II, 4, 5). Sur chacun de ces filaments bourgeonnent cinq à six tentilles peu différenciées, typiques des larves de Physonectes et différentes des tentilles adultes définitives.
+
+3° Bourgeonnement des nectophores et des cormidies.
+
+La zone d’étranglement qui, chez la jeune siphonula, sépare le pneumatophore du gastrozoïde primaire, s’allonge dans la suite du développement et forme un tube creux, le stolon (Pl. II, 5, 6). Sur ce petit axe, bourgeonne, au-dessus du gastrozoïde primaire, une bractée qui recouvre la première cormidie (Pl. II, 5). Puis, dans la région proximale du stolon, apparaissent des ébauches de cloches natatoires dont le développement a pu être suivi sur des larves et de jeunes colonies recueillies dans des échantillons de plancton. Il se forme d’abord une petite excroissance ecto-endodermique au sommet de laquelle s’isole, aux dépens de l’ectoderme, un petit nodule médusaire typique (Fig. 7, B) qui évolue en un nectophore fonctionnel (Pl. II, 6).
+
+En même temps que se développent les premières cloches natatoires, on observe, sur la partie distale du stolon, le bourgeonnement de nouvelles cormidies repoussant le gastrozoïde primaire. On a alors une jeune colonie (Pl. II, 6).
+
+EXPÉRIMENTATION.
+
+Nous avons obtenu de nombreuses larves de Nanomia bijuga, ce qui nous a permis de tenter quelques expériences classiques depuis les travaux de Teissier (1931).
+
+Nous avons isolé mécaniquement, à l’aide de fils de verre, les blastomères de larves aux stades 2, 4, 8 et 16. Dans tous les cas, nous avons obtenu de petites planulas parfaitement constituées. Dans l’une des expériences faite sur un stade à huit blastomères, nous avons obtenu huit planulas dont sept ont formé l’ébauche du pneumatophore et du premier filament pêcheur larvaire avant de dégénérer, probablement par manque de substances nutritives.
+
+D’autre part, nous avons partagé en deux des gastrulas et de jeunes planulas. Dans tous les cas, il y a eu régulation.
+
+Enfin, nous avons sectionné en deux fragments antérieur et postérieur des larves présentant une ébauche de pneumatophore : les régions antérieures ont évolué en de petites siphonulas sans gastrozoïde qui ont dégénéré, les régions postérieures ont ébauché la différenciation d’un gastrozoïde primaire mais n’ont jamais différencié de pneumatophore. Il apparaît donc que les possibilités de régulation sont totales jusque chez la jeune planula et disparaissent au moment de la formation des premières ébauches.
+
+Nous avons tenté d’effectuer des marques colorées sur des stades à deux blastomères en posant, soit au pôle animal, soit au pôle végétatif, une parcelle de gélose imprégnée de rouge neutre. Dans la majorité des cas, au bout de vingt-quatre heures, le colorant avait
+
+15
+
+<<<PAGE pdf=20 file=page_020.txt>>>
+[PAGE 340]
+
+[NOTE: French original, scanned; legible throughout. In numbered conclusion 5 the word "caractérisée" is misprinted, broken across the line as "carac-/risée"; transcribed as printed, "caracrisée". The English "Summary" at the foot of the page is the author's own abstract in the original journal, not part of the later unattributed translation; its spellings ("dévelopmental", "differenciation") are as printed. A lone "16" is typeset at the foot left — the sequential leaf number of this bilingual compilation.]
+
+[RUNNING HEAD] 340	DANIÈLE CARRÉ
+
+diffusé dans toute la larve. Chez quelques planulas, nous avons observé une coloration plus intense au niveau de l’endoderme du pôle antérieur, mais ce résultat est trop partiel pour nous permettre d’établir l’existence d’une polarité chez les œufs de Siphonophores.
+
+En marge de ces expériences, les observations que nous avons relatées sur la segmentation et le mode de gastrulation établissent que le matériel ectodermique est situé à la périphérie de l’œuf tandis que le matériel endodermique est localisé dans la région profonde.
+
+CONCLUSIONS.
+
+L’étude histologique du développement de Nanomia bijuga, nous amène aux conclusions suivantes :
+
+1 - la segmentation de l’œuf, totale et égale, aboutit à une sterroblastula ;
+
+2 - la gastrulation s’effectue par délamination primaire ;
+
+3 - la gastrula se transforme en planula par la formation d’une assise continue d’endoderme au pôle antérieur et sur la face ventrale de la larve ;
+
+4 - l’ectoderme du pôle antérieur s’invagine et isole un petit nodule d’ectoderme interne, ébauche du pneumatophore. La larve prend alors le nom de siphonula ;
+
+5 - la transformation de la siphonula en jeune colonie est caracrisée par l’achèvement du pneumatophore qui différencie le tissu aérifère et se creuse de plusieurs cavités ; la différenciation du gastrozoïde primaire qui acquiert les trois types de cellules glandulaires endodermiques définies par Semal - Van Gansen ; le bourgeonnement, entre le pneumatophore et le gastrozoïde primaire, des premiers nectophores et des cormidies.
+
+Ce travail m’a permis de retrouver, dans la formation du pneumatophore, les mêmes étapes que celles décrites chez Forskalia edwardsi (Carré D., 1967). Par ailleurs, j’ai été amenée à discuter les notions de morula vraie, de délamination secondaire et d’endoderme primaire, mais je ne puis tirer de cette étude, portant sur une seule espèce, aucune conclusion générale sur les premiers stades du développement des Siphonophores.
+
+Summary
+
+The histological study of the first dévelopmental stages of the Siphonophora Nanomia bijuga shows that the segmentation leads to a sterroblastula which changes into a gastrula, by primary delamination. The gastrula evolves into a planula, the ectodermic cells of the anterior pole of which invaginate, to form the internal ectoderm of the pneumatophore. The differenciation of this pneumatophore is described.
+
+The author studies also the different kinds of glandular cells of the primary gastrozoid and the development of gonophores in young colonies.
+
+Finally, some experiments are described, showing the possibility of regulation in the larvae.
+
+16
+
+<<<PAGE pdf=21 file=page_021.txt>>>
+[PAGE 341]
+
+[NOTE: French original, scanned; legible throughout. Last page of the French article. The German "Zusammenfassung" contains several misprints ("Entwicktungs", "vervandelt", "zelen", "vorteren"), transcribed as printed. Author surnames in the bibliography are set in small capitals with the forenames' initials also in small capitals. In the abbreviation list the sex signs are used; they are transcribed as ♀ and ♂. A lone "17" is typeset at the foot right — the sequential leaf number of this bilingual compilation. The English translation begins on the next page (page 22 of this PDF).]
+
+[RUNNING HEAD] NANOMIA BIJUGA	341
+
+Zusammenfassung
+
+Das histologische Studium der ersten Entwicktungs Stadien von Siphonophora Nanomia bijuga zeigt dass die Segmentierung eine Sterroblastula gibt welche sich durch primäre Delamination in eine Gastrula vervandelt. Diese letztere entwickelt sich zu einer Planula deren ektodermalen zelen des vorteren Poles sich einstülpen, um das innere Ektoderm des Pneumatophorus zu bilden. Die Differenzierung des Letzteren wird beschrieben.
+
+Der Autor studiert auch die verschiedenen Kategorien der Drüsenzellen des primären Gastrozoïds und die Entwicklung der Gonophoren in jungen Kolonien.
+
+INDEX BIBLIOGRAPHIQUE
+
+BOUILLON, J., 1966. — Cellules glandulaires des Hydroïdes et Hydroméduses. Leur structure et la nature de leur sécrétion. Cah. Biol. Mar., 7, pp. 157-205.
+CARRÉ, C., 1968. — Description d’un Siphonophore Agalmidae, Cordagalma cordiformis Totton, 1932. Beaufortia, 16, 212, pp. 79-86, 3 pl.
+CARRÉ, D., 1967. — Etude du développement de Lensia conoïdea (Siphonophore Calycophore) et de Forskalia edwardsi (Siphonophore Physonecte). Cah. Biol. Mar., 8, pp. 233-251, 2 pl., 4 fig.
+CHUN, C., 1897. — Die Siphonophoren der Plankton. Expedition Ergebn. Plankton Exp. 2 K.b., pp. 1-126, 8 pl.
+CHUN, C., 1897. — Ueber den Bau und die morphologische Auffassung der Siphonophoren. Verh. deutsch. Zool. Ges. 7, pp. 48-111, 29 fig.
+DAWYDOFF, C., 1928. — Traité d’Embryologie comparée des Invertébrés, XIV, 930 p., 509 fig., Paris.
+FEWKES, W., 1885. — On the development of Agalma. Studies from the Newport Marine Laboratory. Bull. Mus. Comp. Zool. Harvard, 11, pp. 232-275.
+LOCKMANN, L., 1914. — Zur Entwicklungsgeschichte der Siphonophoren. Zeit. Wiss. Zool., 108, pp. 258-289, 1 pl.
+METSCHNIKOFF, E., 1870. — Contribution à la connaissance des Siphonophores et des Méduses. Mem. Soc. Amis Sci. nat. Moscou, 8, pp. 295-370, 6 pl. (en russe).
+METSCHNIKOFF, E., 1874. — Studien über die Entwicklung der Medusen und Siphonophoren. Zeit. Wiss. Zool., 24, pp. 15-83, 10 pl.
+PÉREZ, C., 1929. — Division directe des noyaux dans le spadice des gonophores chez la Physalie. Arch. Anat. micr., 25, pp. 548-554, 6 fig.
+SEMAL - VAN GANSEN, P., 1954. — Etude d’une espèce Hydra attenuata Pallas. L’histologie de l’endoderme de l’Hydre d’eau douce. Ann. Soc. Roy. Zool. Belgique, 85, pp. 187-278.
+TEISSIER, G., 1931. — Etude expérimentale du développement de quelques Hydraires. Ann. Soc. nat. Zool. (10), 14, pp. 5-59.
+TOTTON, A.K., 1965. — A synopsis of the Siphonophora. London, British Museum (Natural History), VIII, 230 p., 153 fig., 40 pl.
+WOLTERECK, R., 1905. — Beiträge zur Ontogenie und Ableitung des Siphonophorenstocks mit einem Abhang zur Entwicklungsphysiologie der Agalmiden. III. Zeit. Wiss. Zool., 82, pp. 611-637, 21 fig.
+
+Liste des abréviations utilisées dans les légendes des planches et des figures.
+
+Bl. : blastostyle ; Br. : bractée ; C.End. : canal endodermique ; C.Ect.A. : cavité de l’ectoderme aérifère ; C.Pn. : cavité définitive du pneumatophore ; C.Pr. : cavité primaire du pneumatophore ; C.Sp. : cellule glandulaire spumeuse hypostomiale ; C.Sph.H. : cellule glandulaire sphéruleuse hypostomiale ; C.Sph.G. : cellule glandulaire sphéruleuse gastrique ; Ch. : chitine ; Eb.Cor. : ébauches de cormidies ; Eb.F. : ébauche du premier filament pêcheur larvaire ; Eb.N. : ébauche d’un nectophore ; Eb.Pn. : ébauche du pneumatophore ; Ect. : ectoderme ; Ect.A. : ectoderme aérifère ; End. : endoderme ; F. : filament pêcheur ; F.A. : fuseau achromatique ; F.M. : fibres musculaires ; G.♀ : gonophore femelle ; G.♂ : gonophore mâle ; G.P. : gastrozoïde primaire ; M. : mésoglée ; N. : nectophore ; O. : oocyte ; Pig. : pigment ; Pn. : pneumatophore ; R.End. : repli endodermique ; S. : sécrétions ; St. : stolon ; T. : tentille ; Vit. : vitellus ; V.G. : vésicule germinative ; Z.Cort. : zone corticale.
+
+17
+
+<<<PAGE pdf=22 file=page_022.txt>>>
+[PAGE 22: unnumbered]
+
+[NOTE: English translation begins here. Born-digital, clean typography, no printed folio, no running head. The translation is unattributed. Bracketed question marks — "[?]" — are printed in this page by the translator to flag terms he or she could not resolve; they are part of the text and are transcribed literally, and should not be confused with the transcriber's own uncertainty markers. Mistranslations and misspellings ("Gube's fuchsin paraldehyde" for Gabe's; "glychémalun" in one place and "glychémaun" in another; "The have been maintained") are transcribed exactly as printed. Curly quotation marks are used throughout.]
+
+HISTOLOGICAL STUDY ON THE DEVELOPMENT OF
+NANOMIA BIJUGA (CHIAJE, 1841),
+SIPHONOPHORA, PHYSONECTAE, AGALMIDAE
+
+Danièle Carré
+
+Cahiers de Biologie Marine 10, 325-341; 1969
+
+Summary
+
+The histological study of the first developmental stages of the siphonophore Nanomia bijuga shows that the segmentation leads to a sterroblastula which changes into a gastrula, by primary delamination. The gastrula evolves into a planula, the ectodermal cells of the anterior pole of which invaginate to form the internal ectoderm of the pneumatophore. The differentiation of the pneumatophore is described.
+
+The author studies also the different kinds of glandular cells of the primary gastrozooid and the development of the gonophores in young colonies.
+
+Finally, some experiments are described showing the possibility of regulation in the larvae.
+
+Introduction
+
+Metschnikoff has given an excellent morphological description of the development of the physonect siphonophore Nanomia bijuga (Chiaje, 1841), from the planula as far as the siphonula stage.
+
+We have attempted to complete this work by means of various histological techniques, in that we have concentrated more particularly on the segmentation of the egg, the process of gastrulation and the differentiation of the pneumatophore.
+
+Material and culture
+
+Colonies of Nanomia bijuga have been collected in spring, between 0 and 10m depth, with the aid of plastic bags. The have been maintained in a cooled chamber (14°C), in frequently replenished seawater and fed with Artemia up to the maturation of the male and female gonophores.
+
+The eggs, then the larvae, have been collected into some Petri dishes and placed in a cool chamber on a rocking table.
+
+Techniques used
+
+We have obtained some precise information by observations of living material under the microscope and by staining in toto some first stages of segmentation and some planulae (Bouin water-70% alcohol - “glychémalun de Mayer”[?] - chlorohydric alcohol at 0.5%).
+
+After fixation, then inclusion in paraffin, the different larval stages have been cut into a series of sections of 5µm thickness and stained.
+
+Histological staining: Prenant’s trichromic [?]; Gube’s fuchsin paraldehyde; “glychémaun de Mayer” [?] and picro-indigo-carmine; Feulgen.
+
+Histochemical staining: Hotchkiss-MacManus (PAS); alcian blue non-oxidised at pH3 [?]; mucicarmine; Unna Brachet reaction [?].
+
+<<<PAGE pdf=23 file=page_023.txt>>>
+[PAGE 2]
+
+[NOTE: English translation, born-digital and fully legible. The folio "2" is centred at the head of the page; this is the translation's own pagination, restarting at 1 on the previous page. The footnote is keyed with a superscript numeral 1. Renderings as printed include "Halistemma picta" in one place and "Halistemma pictum" in another, "twentyish oocytes", and "to precision the origin" in the footnote.]
+
+[RUNNING HEAD] 2
+
+The egg
+
+The reproductive organs of physonect siphonophores are generally some medusoids provided with an umbrella, a velum, four radial canals and a mouthless manubrium, in the midst of which are developed the genital products. This type of gonophore is that for the majority of Agalmidae living in the vicinity of Villefranche-sur-Mer (Cordagalma cordiformis, Agalma elegans, for example). In contrast, the male and female reproductive organs of Nanomia bijuga are, at various stages in their development, considerably simpler and characterised by the absence of an umbrella. This observation is in accord with the description of the gonophores of Halistemma picta (=Nanomia bijuga according to the synonymy given by Totton in 1965) given by Metschnikoff (1870). That author states “It is impossible for me to indicate a formation that is equivalent to the classical generative organs of Physonects but, nevertheless, it is evident that the gonophores of Halistemma pictum correspond to the female genital buds of sexual medusoids of other Agalmids”.
+
+We have attempted to follow, by means of histological sections, the differentiation of the female genital organs in some young colonies.
+
+The male and female reproductive organs are grouped in two distinct clusters and juxtaposed at the base of each dactylozooid (Pl. I, 1). In the mature cormidia, the female blastostyle bears some gonophores at various stages of development and it is only in the young cormidia, in the course of differentiation, that one is able to observe the first stages of the differentiation of the clusters of female gonophores. The blastostyle is, besides, a very short didermic bud, inserted close to the base of the dactylozooid. It shows, in its blind distal part, twentyish oocytes of small size, with homogenous cytoplasm, lodged between the ectoderm and the endoderm1. These oocytes develop at very variable rates and gradually project from the exterior (Pl. I, 3 and Fig. 1, A,B,C). They deform the distal region of the blastostyle whose ectoderm thins while the endoderm insinuates between the reproductive cells. At maturity the eggs are entirely disengaged from the blastostyle to which they remain connected only by some very short didermic peduncles (Pl. I, 4,5 and Fig. 1,D). One sees then, under the fine layer of ectoderm which envelops each egg, some endodermal canals with sinuous courses, forming two large loops reunited at the peduncle of the egg.
+
+The various stages of the differentiation of the female gonophores of Nanomia bijuga never show the formation of a medusoid nodule, and we think that these organs, apparently deprived of internal ectoderm, are related to some styloid gonophores of certain Hydrozoans. Their canals, which represent the unique endodermic formation, seem to be an original peculiarity.
+
+At the moment of release, the eggs measure 180µm in diameter. The cytoplasm has lost its homogeneous structure: at the periphery one observes a fine granulose zone, while the region situated around the germinative vesicle is now invaded by large vacuoles filled with large droplets of vitellus. We have undertaken various histochemical staining on the ripe eggs, without succeeding to characterise the reserves in a definite way. This seems tied to the low density of these reserves.
+
+In culture, all the ripe female gonophores, borne by the same individual, are released simultaneously at the end of the day; a dozen or so minutes later, their envelopes are torn off and the eggs are liberated into the seawater. However, in the colonies in an excellent state, the eggs are released directly into the water and this represents, without doubt, the normal process of release.
+
+[FOOTNOTE] 1 It is almost impossible for us to precision the origin of the sexual cells, but we hope to be able to take up this problem in a future work.
+
+<<<PAGE pdf=24 file=page_024.txt>>>
+[PAGE 3]
+
+[NOTE: English translation, born-digital and fully legible, but Figure 1 is a scan of the same raster as the figure on page 3 of the French original earlier in this PDF — the same illustration appears twice in the document, once in each half. The lettering inside the figure is therefore the French original's lettering, transcribed here as it physically appears. The caption below it is the translator's new English caption, set in the born-digital type. The caption's line breaks are centred; they are preserved only where semantically real.]
+
+[RUNNING HEAD] 3
+
+[FIGURE]
+[panel A, upper left; leaders:] Ect. / O. / End.
+A
+20 µ.
+
+[panel C, upper right; leaders:] V.G. / O. / End. / C.End
+C
+50 µ.
+
+[panel B, lower left; leader:] End.
+B
+20 µ.
+
+[panel D, lower right; leaders:] Ect. / O. / Vit. / C.End.
+D
+30 µ.
+
+Fig. 1. Differentiation of the female gonophores of Nanomia bijuga.
+A, B: transverse sections of the apical region of the young blastostyle, showing some oocytes pressed one against another (1), then separated by some endodermal cells (2). C: longitudinal section of a female blastostyle, in which the oocytes are beginning to make projections on the exterior. D: Section of an oocyte some hours later.
+[/FIGURE]
+
+SEGMENTATION AND GASTRULATION
+
+Fertilisation is carried out in seawater, after the release of the polar globules.
+
+Metschnikoff gave no details on the first stages of development of the egg of Nanomia bijuga, simply mentioning that all is the same as that for other siphonophores.
+
+Segmentation begins a dozen minutes after fertilisation. The first plane of cleavage is meridional and divides the egg into two equal blastomeres. The second, perpendicular to the first, is sometimes meridional, but most often equatorial. The
+
+<<<PAGE pdf=25 file=page_025.txt>>>
+[PAGE 4]
+
+[NOTE: English translation, born-digital and fully legible. Figure 2 is a scan of the same raster as the figure on page 5 of the French original earlier in this PDF — the same illustration appears twice in the document, once in each half; its internal lettering is the French original's. Printed as-is: "heterogeneous structure, It shows" (comma followed by a capital), and "some very large vascular internal cells" (for the French "vacuolisées").]
+
+[RUNNING HEAD] 4
+
+third plane of cleavage is always perpendicular to the previous and gives rise to four quartets of identical, and practically superimposed, blastomeres (Pl. I, 2).
+
+[FIGURE]
+[leaders, upper right and mid right:] Z.Cort. / Vit.
+30 µ
+
+Fig. 2. Section of an embryo at the 16 blastomere stage.
+[/FIGURE]
+
+The 16 blastomere stage is formed by two superimposed layers of eight cells. All the blastomeres are external: they face in a more or less regular way into the central part of the larva without leaving a cavity between them (Fig. 2). Each blastomere has a heterogeneous structure, It shows a highly stainable superficial cap, finely granulose, containing the nucleus and an internal region formed by the vitelline reserves included in some vacuoles.
+
+The passage to the 32 blastomere stage is made by a series of more or less synchronous divisions but effectually all following the radial plane (Pl. I, 6). The larva obtained is a full sphere of which all the cells are identical in their position and their constitution. Each blastomere shows the heterogeneous structure described for the cells of the 16 blastomere stage. One such stage seems to us to be a sterroblastula (following the definitions given by Dawydoff in 1928).
+
+After the 32 stage, we have observed, in some histological sections, some divisions following the tangential plane or sometime oblique in relation to the surface of the larva (Pl. I, 7). These divisions, more often at one of the poles, isolate some peripheral plate cells, of small size, with granulose cytoplasm and some very large vascular internal cells, in which the nucleus is eccentric. We think we can identify this process as gastrulation by primary delamination (always following the definitions given by Dawydoff).
+
+The treatises on Zoology and Embryology that deal with the development of siphonophores indicate the existence of a true morula and of gastrulation by secondary delamination. However, it is convenient to note that these conclusions have not always been confirmed in a way as formal as in the original works. Fewkes (1885), in his detailed study of the development of Agalma elegans, mentioned that he could not elucidate the origin of the ciliated ectodermic cells of the “morula”.
+
+<<<PAGE pdf=26 file=page_026.txt>>>
+[PAGE 5]
+
+[NOTE: English translation, born-digital and fully legible. Printed as-is: "the membranes of the blastomeres of some planes of junction" (for the French "des plans d'affrontement"), "the outlines are include amongst", "none other that the primary endoderm", and the section head "THE PLANULA (Pl. II, 2,3)" where the French original reads "Pl. II, 1, 2, 3". The last line breaks mid-sentence and continues on the next page.]
+
+[RUNNING HEAD] 5
+
+Woltereck (1905) wrote “when the egg contains about forty blastomeres, the formation of the endoderm begins and is produced by a typical delamination; at the periphery are formed some radially disposed spindles and, by a series of unequal divisions, the ectoplasmic lamella of each blastomere is separated from the endoplasmic mass”. These observations are similar to ours. Lockmann (1914), in his study of the development of Sulculeolaria quadrivalvis, says, “the fertilised egg divided by total segmentation, according to the imprecise accustomed laws as far as the stage called morula”.
+
+In spite of the poor opacity of the larvae of siphonophores, it is often difficult to distinguish the membranes of the blastomeres of some planes of junction of vitelline vesicles. This is perhaps the origin of the uncertainties or errors of observation and we believe that histological studies of the first stages of development of other species are desirable finally to establish with certainty the modalities of gastrulation.
+
+THE GASTRULA (Pl. I, 7,8)
+
+The gastrula stage is marked by a change in the shape of the larva which becomes slightly elongated.
+
+The external cells divide actively. They progressively diminish in size and are organised into a regular ciliated epithelium, the ectoderm.
+
+The internal cells form the endoderm. In each gastrula, all the endodermal nuclei are situated at the periphery, against the ectoderm. Later on, during the passage to the planula stage, certain ones remain in place while others are found in the central part of the larva (Pl. I, 8). The former are surrounded by granulose cytoplasm. They are especially localised at the anterior pole and on the ventral face, where they divide, gradually forming in these regions a coating of definitive endoderm duplicating the ectoderm. The endodermic nuclei which penetrate to the interior of the larva divide also, but we have not been able to follow a partition concomitant with the vitellus which, beyond the morula stage, seems no longer concerned with mitoses. These nuclei never appear degenerative, and we think that they all participate, at a more or less precocious stage, to the formation of the definitive endoderm.
+
+These observations direct us to discuss the ideas of primary and secondary endoderm. Dawydoff (1928) defined the primary endoderm as a cellular mass rich in vitelline granulations, destined to disappear and to be replaced by the definitive endoderm of which the outlines are include amongst the provisional elements. Woltereck (1905), after having described the formation of the primary endoderm by delamination, wrote that this process is immediately followed by the formation of the secondary endoderm which appears between the ectoderm and the primary endoderm. He affirmed that this definitive endoderm took its origin from the basal part of the ectodermal cells, hence, the provisional character of the primary endoderm. These definitions of primary and secondary endoderm which imply a succession are perhaps to be abandoned. We think that the definitive endoderm is none other that the primary endoderm of which the nuclei have multiplied and arranged in a regular fashion at the periphery of the larva, while the vitelline mass regresses in proportion to the utilisation of the reserves.
+
+THE PLANULA (Pl. II, 2,3)
+
+At the planula stage, reached about 1.5 days after release, the larva measured 325µm. It swims gracefully using batteries of cilia regularly arranged over the entire surface of the ectoderm. The ectodermal cells are thin and flattened. Some
+
+<<<PAGE pdf=27 file=page_027.txt>>>
+[PAGE 6]
+
+[NOTE: English translation, born-digital and fully legible. Figure 3 is a scan of a plate from the French original: its internal lettering (Ect., End., Vit., C.Pr., Ect.A., and the scale "30µ.") is the French original's abbreviated lettering, while the caption beneath it is the translator's new English caption set in born-digital type. Printed as-is: "always enclose in the planula" (for an expected "always enclosed"), "organised" with an s, and the inconsistent capitalisation of "Fig. 3A, B" in the first paragraph against "fig. 3D" in the last.]
+
+endodermal cells form an almost continuous layer on the ventral face and at the anterior pole. The interior of the larva, occupied by the vitellus distributed in vacuoles, shows some large endodermal nuclei. At this stage, one notes the appearance of an orange coloration at the posterior pole, while at the anterior pole 5 or 6 ectodermal cells become very high. By a series of divisions following the perpendicular plane to the surface of the larva, they are organised into a small section more and more reclosed which gradually invaginates by pushing back the endoderm. This structure is the beginnings of the pneumatophore (Pl. III, 1, 2, 3; Fig. 3A, B).
+
+[FIGURE]
+Ect.
+End.
+Vit.
+A
+30µ.
+Ect.
+B
+Ect.
+C
+C.Pr.
+Ect.
+Ect.A.
+End.
+D
+
+Fig. 3. Differentiation of the pneumatophore of Nanomia bijuga.
+A, B, C: invagination of the ectoderm at the anterior pole of the planula (longitudinal section). D: formation of aeriform ectoderm (longitudinal section).
+[/FIGURE]
+
+In the larva aged 2.5 days, the invagination of the apical ectoderm is terminated. The pneumatophore is then made up of an internal mass of regular ectodermal cells arranged around a quasi virtual primary cavity (Fig. 3C). This outline is doubled by the endoderm, while the ectoderm is closed again above the zone of invagination. It is at this stage that begins, in the middle region of the ventral face, the budding of the primary larval tentacle.
+
+During the next 24 hours, the outline of the pneumatophore, always enclose in the planula, elongates. In the basal region of the internal ectodermal nodule, some cells divide. They are to be the origin of a small mass that insinuates itself into the primary cavity of the pneumatophore and which represents the aeriform ectoderm (Pl. III, 4; fig. 3D). In the midst of this tissue, in the larva aged 5 days, one sees the
+
+<<<PAGE pdf=28 file=page_028.txt>>>
+[PAGE 7]
+
+[NOTE: English translation, born-digital and fully legible. No figures on this page. Printed as-is: the section head "THE SIPHONULA" set in bold small capitals with its reference in roman; "Fig 7A" without a full stop after "Fig" in one place against "Fig. 7A" elsewhere on the same page; "fig. 7B" lowercase in one place against "Fig. 7B" in another; "commonplace in the young adult pneumatophore" and "a dozen particles of relatively large secretion", both awkward renderings of the French, transcribed as printed. The micron sign in "550µm" is printed as a Greek mu.]
+
+formation of an elongated cavity containing some gas and which is the definitive cavity of the pneumatophore (Pl. I, 4; Pl. III, 5).
+
+At this stage, the larva measures 550µm in length. It shows an annular constriction at the level of the zone of budding of the first larval tentacle and takes the name siphonula.
+
+THE SIPHONULA (Pl. II, 4, 5, 6)
+
+The evolution of the young siphonula into a colony, bearing a functional pneumatophore, some swimming bells, some bracts and digestive organs, is realised over several days. We describe the formation or the achievement of these different structures.
+
+1. The pneumatophore.
+
+The pneumatophore which, in the planula, is only a small bud included in the embryonic body, forms, as in the siphonula, all the anterior part of the larva (Pl. II, 4, 5). It is characterised by the presence of a definitive cavity filled with gas which becomes more and more voluminous and apical. Around this cavity, the peripheral layer of the internal ectodermal nodule forms a monostratified layer and secretes a thin layer of chitin (Fig. 4). This layer is interrupted in the region which has given rise to the aeriform ectoderm which constitutes, at this stage, a small mass of large cells, with granulose cytoplasm and highly stainable, localised at the base of the pneumatophore. In the midst of this aeriform tissue, in a week old larva, appear some small cavities which do not contain gas but some granulations showing a great staining affinity and appearing as some secretions (Pl. III, 6). These cavities develop gradually, merge and form at the base of the float of very young colonies, a large pocket separated from the endoderm by a layer of aeriform ectodermal cells (Fig. 4, 5, 6). Chun (1897) described similar structures in Physophora hydrostatica; he interpreted them not as some cavities but as large ramified cells. In Nanomia bijuga we have never observed such structures allowing us to retain this interpretation. At the same time that these cavities appear, the cells of the endodermal layer duplicate the internal ectodermal formations, becoming very high (Fig. 5). Then, this layer folds along eight generative lines and forms eight longitudinal septa that stretch out from the apex of the pneumatophore as far as its base and connect the endodermal layer enveloping the internal ectoderm to that against the external ectoderm of the pneumatophore (Pl. III; Fig 7A). It delimits thus eight longitudinal cavities, in communication with the gastrovascular cavity of the colony (Fig. 6; Fig. 7B).
+
+In the adult colonies, the cavities appearing in the aeriform ectoderm emit, on the face of each endodermal septum, a prolongation which insinuates between the two layers of the lamella (Pl. III, 7, 8; Fig. 6; Fig. 7A). Then, these prolongations become spherical while at their level the endodermic spans are united. (Pl. III, 9; fig. 7B).
+
+At the end of development, the pneumatophore of Nanomia bijuga shows thus three types of cavity: the large apical cavity containing gas and which connects directly with the outside via a pore of neoformation; the close cavities of aeriform tissue which contain some particles of secretion and which extend into the endodermal septa; the endodermic cavities which are in connection with the gastrovascular cavity of the colony.
+
+The morphological differentiations of the pneumatophore that we have described are accompanied by some cytological differentiations. The external ectodermal cells, commonplace in the young adult pneumatophore, show, in their superficial region, a dozen particles of relatively large secretion. Although their morphology is very different, they resemble some spherical gastric cells. In addition,
+
+<<<PAGE pdf=29 file=page_029.txt>>>
+[PAGE 8]
+
+[NOTE: Full-page halftone plate — a scan of Plate I of the French original — with the translator's new English caption set beneath it in born-digital type. The lettering inside the plate is therefore the French original's abbreviations (G.♀, C.End, Bl., Ect., End., C.End., V.G., F.A., Z.Cort.) while the caption below is English: the two do not match in language. The plate scan is cropped at its foot, so a line of lettering under panel 6 survives only as the tops of a few letters and is unreadable. The label on the lower gonophore of panel 1 is a "G." followed by a circle whose upper right runs into a dark inked structure; it is most probably the male sign ♂ (matching "male and female gonophores" in the caption, and matching the abbreviation list on page 18 of this translation, which lists a female-gonophore and a male-gonophore "G" abbreviation) but the arrow cannot be separated from the drawing, so it is flagged. Panel numbers 1-8 are engraved in bold at the lower right of each panel except 1 and 2, which carry theirs at lower right of the first and last panel of their row.]
+
+[PLATE]
+G.♀
+C.End
+[?G.♂]
+1
+2
+Bl.
+3
+Ect.
+End.
+4
+C.End.
+V.G.
+5
+F.A.
+Z.Cort.
+6
+F.A.
+7
+End.
+8
+[illegible]
+
+Plate I.
+1: Bunches of male and female gonophores at the base of a dactylozooid. 2: segmentation of the egg. 3: longitudinal section of a young female blastostyle. 4: longitudinal section of a well differentiated female blastostyle. 5: Section of an oocyte at the beginning of the formation of the vitelline vesicle. 6: passage from stage 16 to stage 32 blastomeres by synchronous divisions of which the axes are parallel to the surface of the larva. 7: gastrulation – section showing an achromatic axis perpendicular to the surface of the larva. 8: section of a very young planula showing the endodermic nuclei situated between the ectoderm and another site in the midst of the vitellus.
+[/PLATE]
+
+<<<PAGE pdf=30 file=page_030.txt>>>
+[PAGE 9]
+
+[NOTE: Full-page halftone plate — a scan of Plate II of the French original — with the translator's new English caption beneath it in born-digital type. The lettering inside the plate is the French original's abbreviations (Eb.Pn., Eb.F., Pn., F., G.P., Br., T., N., Eb.N., St., Eb.Cor.) while the caption is English, so the two do not match in language. "Plate II" is printed without a full stop here, unlike "Plate I." on the preceding page. The panel numbers 1-6 are engraved in bold at the lower right of each panel.]
+
+[PLATE]
+1
+Eb.Pn.
+Eb.F.
+2
+Eb.Pn.
+3
+Pn.
+F.
+G.P.
+4
+Br.
+T.
+5
+N.
+Eb.N.
+St.
+Eb.Cor.
+G.P.
+6
+
+Plate II
+Development of Nanomia bijuga.
+1: 1.5 day old planula. 2: 2 day old planula. 3: 2.5 day old planula. 4: one week old siphonula. 5: 20 day old siphonula. 6: young colony.
+[/PLATE]
+
+<<<PAGE pdf=31 file=page_031.txt>>>
+[PAGE 10]
+
+[NOTE: English translation, born-digital. Figure 4 is a scan of a line-drawing plate from the French original, so its internal lettering (Ect., Pig., End., C.Pn., Ch., Ect.A., S., C. Ect. A., Eb.F. and the scale "30µ.") is the French original's abbreviated lettering while the caption beneath is the translator's English. The caption's last line is printed "(longitudinal section." with the closing parenthesis missing. Printed as-is in the text: "possessed three often two nuclei" and "not followed by partitioning". The lettering is listed inside [FIGURE] in top-to-bottom order.]
+
+[FIGURE]
+Ect.
+Pig.
+End.
+C.Pn.
+End.
+Ect.
+Ch.
+Ect.A.
+S.
+C. Ect. A.
+Eb.F.
+30µ.
+
+Fig. 4. Differentiation of the pneumatophore of Nanomia bijuga.
+Pneumatophore of a week old siphonula showing the formation of the definitive cavity and the appearance of a cavity in the basal region of the mass of aeriform ectoderm (longitudinal section.
+[/FIGURE]
+
+we have often observed, in these ectodermal cells, some small, comma-shaped bodies of which we are unable to give any interpretation. The endodermic cells also show an original peculiarity: their cytoplasm, encroached upon by some poorly stainable granules, possessed three often two nuclei. This peculiarity does not appear linked to an incomplete nuclear division, or to a fusion between adjacent elements, but seems to result from a direct division of the nuclei after division of the nucleoles. In effect, one never observes some form of division in the endoderm of the adult pneumatophore but, in contrast, it is frequent to note the presence of two nucleoles in the nuclei of some uninucleate cells. Chun (1897) had signalled the existence of polynucleate cells in various organs of siphonophores and interpreted them as the result of direct nuclear divisions, not followed by partitioning. Pérez (1930) described some cells with multiple nuclei in the spadix of the gonophores of Physalia: he connected these morphological peculiarities with an intense physiological activity. He thought that the same interpretation could be advanced for the cells of the endodermal
+
+<<<PAGE pdf=32 file=page_032.txt>>>
+[PAGE 11]
+
+[NOTE: English translation, born-digital. Figure 5 is a scan of a line-drawing plate from the French original, so its internal lettering (Ect., M., Ect.A., Ch., S., C.Ect.A., End., St. and the scale bar) is the French original's while the caption beneath is the translator's English. The two digits of the scale bar's value are filled solid with ink in the scan; they read 60 but are flagged. Printed as-is in the caption: "siphonula.. On notes" — a doubled full stop, and "On notes" for the French "On note". In the text "non-oxidised" falls at a line break with the hyphen printed; it is kept because the compound is genuinely hyphenated. The lettering is listed inside [FIGURE] in top-to-bottom order, right-hand labels then left-hand ones where they coincide.]
+
+septa of the pneumatophore of Nanomia bijuga. Singly, these cells are in direct relation with the gastrovascular cavity of the colony and it is by their intermediation that metabolites are transmitted to the cells of the aeriform ectoderm.
+
+[FIGURE]
+Ect.
+M.
+M.
+Ect.A.
+Ect.
+Ch.
+S.
+End.
+C.Ect.A.
+Ect.A.
+St.
+[?60µ]
+
+Fig. 5. Differentiation of the pneumatophore of Nanomia bijuga.
+Basal part of a 10 day old siphonula.. On notes the thickening of the endodermal layer duplicating the internal ectoderm and growth of the cavity appearing in the aeriform ectoderm (longitudinal section).
+[/FIGURE]
+
+2. The primary gastrozooid and its tentacle.
+
+At the siphonula stage, the vitellus is almost totally digested and, in its place, is developed a vast gastrovascular cavity around which the middle and posterior regions of the embryonic body differentiate a primary gastrozooid.
+
+At the posterior pole of the larva, in the region where it is pierced by the mouth of the gastrozooid, the ciliated endodermal cells become tall; in their basal parts, appear some circular muscle fibres which support it against the mesogloea (Pl. IV). The first granular cells differentiated are some hypostomous spumous cells, following the terminology of Semal-Van Gansen (1954). These cells are knob-shaped and have a large nucleus in their narrow basal region (Pl. IV). The cytoplasm of the apical pole contains some large vacuoles which are pressed one against another and are delimited by a fine, granulose network. It is stained turquoise blue by non-oxidised alcian blue at pH 3 and shows, after staining with mucicarmine and then P.A.S., some positive reactions which indicate the presence of mucopolysaccharides in the secretions of these cells. At the time of capture of some prey, all the contents of the vacuoles drain out into the gastrovascular cavity and form a layer of mucus. The
+
+<<<PAGE pdf=33 file=page_033.txt>>>
+[PAGE 12]
+
+[NOTE: Full-page halftone plate — a scan of Plate III of the French original — with the translator's new English caption beneath it in born-digital type, so the plate's internal lettering is French-original abbreviation while the caption is English. Panel numbers 1-8 are engraved in bold at the lower right of their panels; the ninth panel (bottom right) carries no visible number, its lower right corner having been cropped in the scan. In panel 6 the label at the right edge is cut off by the edge of the panel: only "En" and the start of a third letter survive, read here as "End.". The label in panel 6 read "S" shows no full stop. In panel 8 a second leader line runs to the right of "Ect.A." with no label of its own.]
+
+[PLATE]
+Ect.
+1
+End.
+2
+3
+Ect.A.
+4
+C.Pn.
+5
+Ect.A.
+C.Pn.
+S
+[?End.]
+6
+End.
+Ect.
+7
+Ect.A.
+End.
+8
+
+Plate III. Differentiation of the pneumatophore.
+1,2,3: invagination of the anterior pole of the planula. 4: formation of the aeriform ectoderm. 5: pneumatophore of a 5 day old siphonula. 6: basal region of the pneumatophore of a 20 day old siphonula (axial section). 7: basal region of the pneumatophore of a young colony (axial section). 8: basal region of the pneumatophore of a young colony (sagittal section). 9: basal region of the adult pneumatophore (parasagittal section).
+[/PLATE]
+
+<<<PAGE pdf=34 file=page_034.txt>>>
+[PAGE 13]
+
+[NOTE: English translation, born-digital. Plate IV is a scan of a halftone plate from the French original, so its internal lettering (C.Sph.G., C.Sp., C.Sph.H., M., F.M., Ect. and the scale "10µ.") is the French original's while the caption beneath is the translator's English. Printed as-is in the text: "some spherical cells are differentiation in the hypostomial region" (for "se différencient"), "synthesise their secretions proportional to and according to their utilisation", and "are tinged in a variable way". The lettering is listed inside [PLATE] in reading order, top band then the row of labels along the foot.]
+
+[PLATE]
+10µ.
+C.Sph.G.
+C.Sp.
+C.Sph.H.
+M.
+F.M.
+Ect.
+
+Plate IV.
+Zone of transition between the hypostomial and gastric regions of a gastrozooid (longitudinal section).
+[/PLATE]
+
+cell is then reduced to its basal part containing the nucleus but it is sufficient in some hours for it to regain its normal aspect.
+
+After the spumous cells, some spherical cells are differentiation in the hypostomial region. They are much narrower than their predecessors (Pl. IV). Their small, median nucleus is provided with a large nucleolus, partitioning the cell into two regions. In the basal region, the cytoplasm is clear, very finely granulated, weakly staining. In contrast, at the apical pole, the cytoplasm is invaded by small, very numerous vesicles, arranged one against another, containing some particles of secretion. These oral, spherical cells are never emptied of their contents. They synthesise their secretions proportional to and according to their utilisation and are thus of the merocrine type.
+
+The middle region of the gastrozooid is characterised by the presence of spherical gastric cells. These cells, of relatively large size, have the shape of a cone or a knob according to the position that they occupy and the pressures that support them (Pl. IV). They have a quite reduced basal region, with dense cytoplasm surrounding the nucleus. Then the cells enlarge and show three very large particles of spherical secretions. These gastric cells are drained completely of their contents during the course of digestion and are tinged in a variable way according to the stage of elaboration of their secretions.
+
+<<<PAGE pdf=35 file=page_035.txt>>>
+[PAGE 14]
+
+[NOTE: English translation, born-digital. Figure 6 is a scan of a line-drawing plate from the French original, so its internal lettering (Ect., M., End., Ect.A., Ch., S., C.Ect.A., St., R.End. and the scale "100 µ.") is the French original's while the caption beneath is the translator's English. The scale-bar digits are ink-heavy in the scan but read 100. Printed as-is in the text: "(P. IV)" for an expected "(Pl. IV)", and "the locality in the hypostomial or middle regions ... is not rigorous". The numbered head "3. Budding of the nectophores and cormidia." is set in ordinary roman type and indented like a paragraph, unlike the bold flush-left heads "1. The pneumatophore." and "2. The primary gastrozooid and its tentacle." on earlier pages. The lettering is listed inside [FIGURE] in top-to-bottom order.]
+
+[FIGURE]
+Ect.
+M.
+100 µ.
+Ect.A.
+End.
+End.
+Ect.
+Ch.
+S.
+C.Ect.A.
+Ect.A.
+M.
+End.
+St.
+R.End.
+
+Fig. 6. Differentiation of the pneumatophore of Nanomia bijuga.
+Basal part of the pneumatophore of an older siphonula. One notes the endodermal septa amongst which some are beginning to insinuate into the cavities of the aeriform ectoderm (parasagittal section).
+[/FIGURE]
+
+It is convenient to note that the locality in the hypostomial or middle regions of each of these types of glandular cells is not rigorous. There exists a large zone of transition where these three categories of cells coexist (P. IV).
+
+In the basal portion of the gastrozooid, the endoderm is deprived of glandular elements. It is formed by large, quite flattened ciliated cells. Some have slight projections into the gastric cavity and have a large vacuole that can contain some discharged nematocysts and some waste.
+
+The ectoderm of the gastrozooid is made up of a thin ciliated layer without apparent differentiation.
+
+At the base of the primary gastrozooid are developed two larval tentacles which extend in opposite directions (Pl. II, 4, 5). On each of these filaments are budded 5 to 6 slightly differentiated tentilla, typical of physonect larvae and differing from the adult definitive tentilla.
+
+3. Budding of the nectophores and cormidia.
+
+The zone of constriction that, in the young siphonula, separated the pneumatophore from the primary gastrozooid elongates later in development and forms a hollow tube, the stolon (Pl. II, 5, 6). On this small axis, buds, above the primary gastrozooid, a bract which covers the primary cormidium (Pl. II, 5). Then, in
+
+<<<PAGE pdf=36 file=page_036.txt>>>
+[PAGE 15]
+
+[NOTE: English translation, born-digital. The whole page is Figure 7 — a scan of a two-part line-drawing plate from the French original — plus the translator's English caption; there is no running text. The internal lettering is the French original's (Ect., M, M., End., Ch., Ect.A., S., St., R.End., Eb.N. and the scale bars "125 µ." in panel A and "125µ." in panel B). The three "M" labels on the right-hand side of both panels are printed without a full stop, while the "M." labels on the left-hand side carry one; both forms are transcribed as they appear. Lettering is listed inside [FIGURE] panel by panel, roughly top to bottom.]
+
+[FIGURE]
+Ect.
+M
+Ch.
+End.
+Ect.
+Ect.
+M.
+S.
+125 µ.
+A
+St.
+
+Ect.
+Ect.
+Ch.
+M.
+End.
+Ect.A.
+Ect.A.
+S.
+End.
+M
+Eb.N.
+St.
+R.End.
+B
+125µ.
+
+Fig. 7. Basal part of the pneumatophore of a colony of Nanomia bijuga.
+A: axial section passing through two endodermic septa and two protuberances of the aeriform ectoderm. B: parasagittal section showing the structure of the endodermic septa and the positions of the prolongations of the aeriform ectoderm amongst these septa.
+[/FIGURE]
+
+<<<PAGE pdf=37 file=page_037.txt>>>
+[PAGE 16]
+
+[NOTE: English translation, born-digital and fully legible. No figures. The heads "EXPERIMENTATION" and "CONCLUSIONS" are centred in ordinary roman capitals, not bold. The numbered conclusions are set as a hanging-indent list; their line breaks are not preserved but the list items are. Printed as-is: "some buds of swimming bells of which the development has been followed", "the observations that we have reported ... establishes that" (singular verb with a plural subject), and "The larva then goes under the name siphonula". The list ends mid-sequence at item 4 and continues on the next page.]
+
+the proximal region of the stolon, appear some buds of swimming bells of which the development has been followed on some larvae and some young colonies collected in plankton samples. It forms at first a small ecto-endodermic evagination at the summit of which is isolated, at the expense of the ectoderm, a small, typically medusoid nodule (Fig. 7B), which develops into a functional nectophore (Pl. II, 6).
+
+At the same time of the development of the first swimming bells, one sees, on the distal part of the stolon, the budding of new cormidia pushing back the primary gastrozooid. One has then a young colony (Pl. II, 6).
+
+EXPERIMENTATION
+
+We have obtained numerous larvae of Nanomia bijuga, which have allowed us to attempt some classical experiments after the works of Teissier (1931).
+
+We have mechanically isolated, with the help of glass threads, some blastomeres of larvae at stages 2, 4, 8, and 16. In all cases, we have obtained a perfectly formed planula. In one of these experiments carried out on an eight blastomere stage, we obtained eight planulae of which seven had formed the outline of the pneumatophore and of the first larval tentacle before degenerating, probably due to lack of nutritive substances.
+
+On the other hand, we have divided in two some gastrulas and some young planulae. In all cases, there had been regulation.
+
+Finally, we have sectioned into anterior and posterior fragments of larvae showing the beginnings of the pneumatophore: the anterior regions have developed into a small siphonula without gastrozooid, which had degenerated; the posterior regions have outlined the differentiation of a primary gastrozooid but never differentiated a pneumatophore. It appears then that the possibilities of regulation are total up to the young planula and disappear at the moment of formation of the first buds.
+
+We have attempted to put in place some colour markers on the 2 blastomere stages, either at the animal pole, or at the vegetative pole, as a parcel of agar impregnated with neutral red. In the majority of cases, after 24 hours, the colour has diffused into the whole larva. In some planulae, we have observed a more intense coloration at the level of the endoderm of the anterior pole, but this result is too partial to allow us to establish the existence of a polarity in the eggs of siphonophores.
+
+On the margin of these experiments, the observations that we have reported on the segmentation and the mode of gastrulation establishes that the ectodermal material is situated at the periphery of the egg while the endodermic material is located in the deeper region.
+
+CONCLUSIONS
+
+The histological studies of the development of Nanomia bijuga have led us to the following conclusions:
+
+1.	The segmentation of the egg, total and equal, results in a sterroblastula;
+2.	Gastrulation is effected by primary delamination.
+3.	The gastrula is transformed into a planula by the formation of a continuous layer of endoderm at the anterior pole and on the ventral face of the larva;
+4.	The ectoderm at the anterior pole invaginates and isolates a small internal nodule of ectoderm, developing into the pneumatophore. The larva then goes under the name siphonula;
+
+<<<PAGE pdf=38 file=page_038.txt>>>
+[PAGE 17]
+
+[NOTE: English translation, born-digital and fully legible. The numbered list continues from the previous page with item 5, which ends "some cormidia" with no terminal punctuation. In the bibliography, journal titles are italic and volume numbers bold; reference-list line breaks are not preserved but each entry is kept on its own line. Apostrophes are inconsistent as printed: straight in "d'un siphonophore" and "d'Embryologie", curly in "d'un espèce", "L'histologie", "l'endoderme", "l'Hydre" and "d'eau". The author's name is printed "Semal–Van Gansen" with an unspaced en dash in conclusion 5 and "Semal – Van Gansen" with a spaced en dash in the bibliography (and "Semal-Van Gansen" with a hyphen on page 11 of the translation). In the final Woltereck entry the journal name and volume are printed as two question marks, an italic one and a bold one — the translator's own placeholders for information he or she could not supply, not the transcriber's uncertainty markers. Other printed features kept as-is: "Cellules glandulaire des Hydroides" (singular adjective), "leur secretion" unaccented, "Etude" and "Uber"/"Über" as printed, "d'un espèce" (masculine article with a feminine noun), "Division direct des noyaux", "Mem. Soc. Amis Sci. nat. Moscou", "(In Russian)" with no closing full stop, and the italic colon in "Zool. 108: 258-289". The bibliography entry is dated Pérez 1929 while the text on page 10 of the translation cites "Pérez (1930)".]
+
+5.	The transformation of the siphonula into a young colony is characterised by the completion of the pneumatophore which differentiates the aeriform tissue and the hollowing of several cavities; the differentiation of the primary gastrozooid which acquires three types of glandular endodermic cells defined by Semal–Van Gansen; the budding, between the pneumatophore and the primary gastrozooid, of some first nectophores and some cormidia
+
+This study has allowed me to find, in the formation of the pneumatophore, the same stages that have been described for Forskalia (Carré, D. 1967). In addition, I have been led to dispute the ideas of a true morula, of secondary delamination and of a primary endoderm, but I cannot bring to this study, based on a single species, any general conclusions on the first stages of development of siphonophores.
+
+BIBLIOGRAPHY
+
+Bouillon, J. 1966. Cellules glandulaire des Hydroides et Hydroméduses. Leur structure et la nature de leur secretion. Cahiers de Biologie Marine 7, 157-205.
+Carré, C. 1968. Description d'un siphonophore Agalmidae, Cordagalma cordiformis Totton, 1932. Beaufortia 16, 79-86.
+Carré, D. 1967. Etude du développement larvaire de deux Siphonophores: Lensia conoidea (Calycophorae) et Forskalia edwardsi (Physonecte). Cahiers de Biologie Marine 8, 233-251.
+Chun, C. 1897. Die Siphonophoren der Plankton-Expedition. Ergebnisse der Plankton-Expedition der Humboldt-Stiftung (Ergebn. Plankton Exp.), 2.K.b., 1-126.
+Chun, C. 1897. Über den Bau und die morphologische Auffassung der Siphonophoren. Verhandlungen der Deutschen Zoologischen Gesellschaft 7, 48-111.
+Dawydoff, C. 1928. Traité d'Embryologie comparée des Invertébrés. Masson & Co., Paris. 930 pp.
+Fewkes, W. 1885. Studies from the Newport Marine Laboratory. XV. On the development of Agalma. Bull. Mus. Comp. Zool. Harv. 11, 232-275.
+Lockmann, L. 1914. Zur Entwickelungsgeschichte der Siphonophoren. Zeit. wiss. Zool. 108: 258-289, 1 pl.
+Metschnikoff, E. 1870. Contributions to the knowledge of siphonophores and medusae. Mem. Soc. Amis Sci. nat. Moscou 8, 295-370 (In Russian)
+Metschnikoff, E. 1874. Studien über die Entwickelung der Medusen und Siphonophoren. Zeitschrift für Wissenschaftliche Zoologie 24, 15-83.
+Pérez, C. 1929. Division direct des noyaux dans le spadice des gonophores chez la Physalie. Arch. Anat. micr. 25, 548-554, 6 fig.
+Semal – Van Gansen, P. 1954. Etude d'un espèce Hydra attenuata Pallas. L'histologie de l'endoderme de l'Hydre d'eau douce. Ann. Soc. Roy. Zool. Belgique 85, 187-278.
+Teissier, G. 1931. Etude expérimentale du développement de quelques Hydraires. Ann. Soc. nat. Zool. (10) 14, 5-59.
+Totton, A.K. 1965. A Synopsis of the Siphonophora. London: British Museum (Natural History).
+Woltereck, R. 1905. Beiträge zur Ontogenie und Ableitung des Siphonophorenstocks. III. Planktologische Mitteilung aus der Zoologischen Station in Villefranche s. m. ? ?, 611-637.
+
+<<<PAGE pdf=39 file=page_039.txt>>>
+[PAGE 18]
+
+[NOTE: Last page of the document. English translation, born-digital and fully legible; the rest of the page below the abbreviation list is blank. The abbreviations themselves are set in bold, their expansions in roman. Two printed defects: the female and male sex signs have failed to render, so the entries appear as "G .: female gonophore" and "G .: male gonophore" with a space where ♀ and ♂ should be; and "Eb.F" lacks the final full stop that every other abbreviation carries. "C.end." is printed with a lower-case "end" here although the plates letter it "C.End". The abbreviation "C.Sph.G." used on Plate IV is not in this list.]
+
+List of abbreviations used in the legends to the plates and figures.
+
+Bl.: Blastostyle; Br.: bract; C.end.: endodermic canal; C.Ect.A.: cavity of the aeriform ectoderm; C.Pn.: definitive cavity of the pneumatophore; C.Pr.: primary cavity of the pneumatophore; C.Sp.: hypostomal spumous glandular cell; C.Sph.H.: hypostomal spherical glandular cell; Ch.: chitin; Eb.Cor.: buds of cormidia; Eb.F: bud of the first larval tentacle; Eb.N.: bud of a nectophore; Eb.Pn.: bud of the pneumatophore; Ect.: ectoderm; Ect.A.: aeriform ectoderm; End.: endoderm; F.: tentacle; F.A.: achromatic layer; F.M.: muscle fibres; G .: female gonophore; G .: male gonophore; G.P.: primary gastrozooid; M.: mesogloea; N.: nectophore; O.: oocyte; Pig.: pigment; Pn.: pneumatophore; R.End.: endodermic fold; S.: secretion; St.: stolon; T.: tentillum; Vit.: vitellus; V.G.: germinative vesicle; Z.Cort.: cortical zone.

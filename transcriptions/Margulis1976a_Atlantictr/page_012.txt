@@ -1,0 +1,24 @@
+[PAGE 5]
+
+[NOTE: English typescript, born-digital, folio 5 centred at the head of the page. The figure at the head of the page is a raster scan taken straight from the Russian original (this document's p. 6) and its caption has NOT been translated — it is the Cyrillic Рис. 3 caption, reproduced below as printed. A wide blank band separates the Conclusion from the References. Reference-list entries are given one per line, with the run-over lines joined.]
+
+[FIGURE]
+Рис. 3. Границы ареалов периферических видов (А) и распространение экваториальных видов (Б):
+1 — Abyla trigona,  2 — Lensia hardy,  3 — Amphicaryon acaule,  4 — не встречен ни один вид,
+——— граница 50% видов.
+[/FIGURE]
+
+[NOTE: the figure is a pair of Atlantic maps side by side in a heavy frame, lettered in italic at the lower left of each panel: А (left), Б (right). Graticule lettering, all numerals: 60° and 0° above and below each panel; latitude labels 40° 20° 0° 20° 40° down the outer and inner edges. A key box in the lower right of panel Б holds four boxed symbol swatches numbered in italic 1 and 2 (left column), 3 and 4 (right column); the swatches carry no words.]
+
+in its northern and southern areas colonies of D. arctica react differently to temperature: in the north (in the Polar Basin) they choose the warmest water with a temperature above 0°C, while in the south (in Antarctica) they choose waters with a temperature below 0°C. This is either a result of the physiological differences in the populations of D. arctica on the northern and southern boundaries of the habitat, or is evidence of the fact that this is not a single species.
+
+Conclusion
+
+The sharpest hydrological boundaries of siphonophore habitats in the Atlantic coincide with the distributional boundaries of individual species. In other words, the distribution of siphonophores is associated with the division of water cover into water masses. Within the water masses the distribution of species depends on what factor of the outer environment is the more important for that particular species. One may say that the distribution of some species of siphonophore is restricted by temperature while that of others by the trophic characteristics of the water.
+
+References
+
+Beklemishev, K.V. 1969. The ecology and biogeography of the pelagic realm. Nauka 291 pp.
+Bigelow, H.B. 1911. The Siphonophorae. Memoirs of the Museum of Comparative Zoology, at Harvard College 38, 173-402.
+Burkov, V.A. 1972. General water circulation in the Pacific. Nauka, 194 pp.
+Kramp, P.L. 1942. The Godthaab Expedition 1928. Siphonophora. Meddelelser om Grønland 80 No. 8, 24 pp.

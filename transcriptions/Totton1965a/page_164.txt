@@ -1,0 +1,73 @@
+[PAGE 159]
+
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 12 DIPHYIDAE	159
+
+be recorded. Subsequent work has shown that my judgment was sound in delimiting species, and specimens can be identified from the figures in spite of the hurried descriptions. There are twenty-one described species. Some species have no crested ridges, some have three, some five, some seven, some are multicrestate, and in one there is a ridged reticulation of the surface. The multicrestate species probably do not form a distinct sub-group because one of them, lelouveteau, like the reticulate one reticulata appear to be related to meteori and subtilis neither of which are ridged.
+
+Key to species of Lensia
+Anterior nectophores
+
+[TABLE]
+1.	Three non-crested ridges only (no ventro-lateral ridges between lateral and ventral facets)	3
+	At least five ridges	2
+2.	At least five longitudinal ridges, with reticulations	reticulata (p. 172)
+	At least five ridges, without reticulations	4
+3.	Three non-crested ridges; basal facet horse-shoe shaped; apex twisted	campanella (p. 165)
+	Three non-crested ridges; basal facet horse-shoe shaped; apex not twisted	cossack (p. 166)
+4.	Five crested longitudinal ridges only	7
+	Five crested longitudinal ridges and two ventro-lateral crests: seven in all	5
+5.	Seven crests, complete, apex to base	havock (p. 175)
+	Seven crests some incomplete, apex to base	6
+6.	Seven crests, some incomplete, ventro-lateral pair meeting mouth-plate	hunter (p. 164)
+	Seven crests, some incomplete, ventro-lateral pair not meeting mouth-plate	multicristata (p. 164)
+7.	Five non-crested ridges	8
+	Five crested ridges	9
+8.	Five non-crested ridges; somatocyst globular, on long pedicel	subtilis (p. 168)
+	Five non-crested ridges; somatocyst on very short pedicel	meteori (p. 170)
+9.	Five ridges, each with a single crest	10
+	Five ridges, each with more than a single crest	17
+10.	Five single-crested ridges; somatocyst elongated and lying above ostial level	11
+	Five single-crested ridges; somatocyst at or below ostial level	15
+11.	Five single-crested ridges; somatocyst above ostial level; base of lateral crests bending dorsad	achilles (p. 171)
+	Five single crested ridges; somatocyst above ostial level; base of lateral crests continuing basad	12
+12.	Base of somatocyst above ostial level	13
+	Base of somatocyst below ostial level	14
+13.	Mouth-plates one half as long as somatocyst	leloupi (p. 161)
+	Mouth-plates one-third as long as somatocyst	subtiloides (p. 159)
+14.	Length of somatocyst equal to one half the length of the nectophore	conoidea (p. 162)
+	Somatocyst short and oblique. Lateral ridges reaching ostium	hotspur (p. 167)
+	Somatocyst short and oblique. Lateral ridges not reaching ostium	tottoni (p. 168)
+15.	Five single-crested ridges; spheroidal somatocyst, and peak-shaped basal extension of dorsal wall	challengeri (p. 166)
+	No peak-shaped basal extension of dorsal wall	16
+16.	Hydroecium not extending below somatocyst	fowleri (p. 174)
+	Hydroecium extends below somatocyst	hardy (p. 173)
+17.	Five two-crested ridges and a horizontal basal (velar) ridge	grimaldi (p. 178)
+	Five ridges each with more than two crests, and a velar ridge	18
+18.	Five multicristate ridges and a velar ridge	19
+	Five multicristate ridges but no velar ridge	20
+19.	Five multicristate (3) ridges and a velar ridge	exeter (p. 176)
+	Five multicristate (3–7) ridges and a velar ridge	lelouveteau (p. 172)
+20.	Five multicristate ridges; no velar ridge; crests extending to ostium	hostile (p. 177)
+	Five multicristate ridges; no velar ridge; crests not extending to ostium	ajax (p. 179)
+[/TABLE]
+
+Lensia subtiloides (Lens & van Riemsdijk, 1908)
+Text-figures 95, 96, 97B
+
+Diphyes (Diphyopsis) subtiloides Lens & van Riemsdijk, 1908
+
+The Great Barrier Reef Expedition 1928–29 found this to be a very abundant species at from 8–
+
+[NOTE: the key occupies the middle two-thirds of the page. Each line runs from the statement across a row of widely spaced leader points to a right-hand column holding either a bold-italic species epithet with its page reference in roman parentheses, or a bare couplet number. The leader points are not reproduced; a single tab stands for each column break, as the protocol directs. The couplet numbers stand in a narrow left column, only against the first line of each couplet. Every line break in the key is preserved.]
+
+[NOTE: couplet 14 has three lines rather than two — "Length of somatocyst equal to one half the length of the nectophore … conoidea (p. 162)", "Somatocyst short and oblique. Lateral ridges reaching ostium … hotspur (p. 167)", and "Somatocyst short and oblique. Lateral ridges not reaching ostium … tottoni (p. 168)". This is as printed; there is no couplet number against the second or third of the three.]
+
+[NOTE: numerals in the key verified digit by digit against the page at 4·5x. Couplet leads: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20. Onward references: 3, 2, 4, 7, 5, 6, 8, 9, 10, 17, 11, 15, 12, 13, 14, 16, 18, 19, 20. Page references: reticulata 172, campanella 165, cossack 166, havock 175, hunter 164, multicristata 164, subtilis 168, meteori 170, achilles 171, leloupi 161, subtiloides 159, conoidea 162, hotspur 167, tottoni 168, challengeri 166, fowleri 174, hardy 173, grimaldi 178, exeter 176, lelouveteau 172, hostile 177, ajax 179. "hunter" and "multicristata" both refer to p. 164, and "subtilis" and "tottoni" both to p. 168; both repetitions are as printed. The bracketed figures in couplet 19 are (3) and (3–7), the latter with an en rule.]
+
+[NOTE: other numerals verified digit by digit: FAMILY 12 DIPHYIDAE, 159; Lens & van Riemsdijk, 1908; Text-figures 95, 96, 97B; Diphyes (Diphyopsis) subtiloides Lens & van Riemsdijk, 1908; Expedition 1928–29; "at from 8–", the last characters on the page, an old-style 8 followed by an en rule where the sentence runs over to page 160.]
+
+[NOTE: "multicrestate" in the opening paragraph is spelled with an e, against "multicristate" in couplets 18, 19 and 20; both as printed. "Five single crested ridges" in the second line of couplet 11 has no hyphen, against "Five single-crested ridges" in the first line and in couplet 10; as printed. "hardy" carries no terminal -i, as on page 158. "judgment" is spelled without the e.]
+
+[NOTE: the parenthesised figures in the key, "(no ventro-lateral ridges between lateral and ventral facets)", "(velar)", "(3)" and "(3–7)", are round brackets. No printed square brackets occur on this page.]
+
+[NOTE: two small stray ink marks stand in the margins clear of the text — a short slanting stroke in the upper left corner above the running head, and another in the outer lower right margin below the last line, as on pages 156–158. Neither is a legible character and neither is transcribable text.]

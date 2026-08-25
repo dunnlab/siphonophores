@@ -1,0 +1,56 @@
+[PAGE 116]
+
+116	[RUNNING HEAD] A SYNOPSIS OF THE SIPHONOPHORA
+
+four main bracteal canals, the branches of the phyllocyst. The gonophores are well developed medusoids, and there are no asexual nectophores in the eudoxid phase.
+
+Rosacea plicata sensu Bigelow, 1911
+
+Text-figures 65–67
+
+Rosacea plicata Quoy & Gaimard, 1827; sensu Bigelow, 1911b; Bigelow & Sears, 1937
+
+Polygastric phase
+
+(Text-fig. 65.) Three categories of nectophores are known: (1) caducous, larval, up to 12 mm in length; (2) definitive nectophore number 1, up to 21 mm in length; (3) definitive nectophore number 2, up to 32 mm in length; they differ in shape from one another. This is probably true of R. cymbiformis too, but the succession has not been described in that species.
+
+In the larval nectophore there is a short, circumscribed, slit-like orifice to the hydroecium as in Hippopodiidae. A constant character that distinguishes the larval nectophores of the two species of
+
+[FIGURE]
+A
+N.def1
+Gz1
+N.larv
+C.ped
+C.pa
+H
+Ns
+
+B
+N.def1
+O.c
+C.pa
+C.ped
+2.mm.
+1
+0
+Ns
+H
+Gz1
+Gz2
+N.larv
+
+C
+C.pa
+H
+C.ped
+Ns
+0
+5.mm.
+
+FIG. 65. Rosacea plicata Q. & G. Polygastric phase
+A, lateral view of a larva, 'Discovery' St. 1617, 395–155 m, × 7; B, the same to show the hydroecium in optical section; C, a second definitive nectophore from the same station, × 4.2
+C.pa = pallial canal; C.ped = pedicular canal; H = hydroecium; Gz1, Gz2 = gastrozooids; N.def1 = first definitive nectophore; N.larv = larval nectophore; Ns = nectosac (from Totton, 1954, fig. 43).
+[/FIGURE]
+
+[NOTE: the labels inside [FIGURE] are hand-lettered on the three drawings (A upper left, B lower left, C right) and are listed in reading order within each drawing. The numerals in "N.def1", "Gz1", "Gz2" are printed as superscripts, both on the drawings and in the caption. "2.mm.", "1", "0" are the graduations of the vertical bar scale beside drawing B; "0" and "5.mm." are the ends of the horizontal bar scale below drawing C. No other text is printed on the illustrations.]

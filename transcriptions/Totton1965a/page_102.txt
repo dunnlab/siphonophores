@@ -1,0 +1,51 @@
+[PAGE 97]
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 9 FORSKALIIDAE	97
+
+budded from the nectosome. His Forskaliopsis, founded on this characteristic, may therefore be considered as a synonym of Forskalia.
+
+Haeckel admitted that Bathyphysa was perhaps, as it obviously is, the representative of a separate family (see Rhizophysidae, p. 40). Strobalia cupola (nomen nudum) Haeckel said was observed living by him in 1881 in the Indian Ocean, and would be – but never was – described in his 'Morphology of the Siphonophorae'. He added that a fragment of a similar species 'Strobalia conifera' (nomen nudum) was collected by 'Challenger' in the South Pacific (Station 288). 'Strobalia' then is not a valid genus.
+
+We are left with species of Forskalia, Köll, two of them easily identifiable.
+
+Genus: FORSKALIA Kölliker, 1853
+Type species: Forskalia edwardsi Kölliker, 1853.
+Characteristic of Forskalia spp. is the cone-shaped or sometimes cylindrical nectosome of numerous, multiserial nectophores, all of which arise from one meridian of the coiled stem. In a contracted state the stem forms a close spiral, but it opens out very considerably on extension. The gastrozooids are borne on long peduncles that are covered with numerous bracts. These animals are well known to the Mediterranean fishermen. The oldest palpons readily eject a plum or orange coloured drop of liquid from their tips.
+
+Associated in the older literature with descriptions and figures of obvious specimens of Forskalia spp. are seven valid specific names, four of them sunk in synonymy, two names for indeterminate species, one nomen nudum, one name of a mistakenly identified species (Physophora hydrostatica Forskål). Bedot substituted one new name for a prior name. In historical order these specific names are:
+
+(1) Stephanomia ophiura Chiaje, 1831
+an indeterminate species
+(2) Physophora mirabilis Chiaje, 1841
+an indeterminate species
+(3) Stephanomia contorta Milne Edwards, 1841
+(the first species described in any detail) = Forskalia leuckarti Bedot, 1893
+(4) Stephanomia prolifera Milne Edwards, 1841
+identifiable by its gonodendra as F. edwardsi Kölliker, 1853
+(5) Stephanomia excisa Leuckart, 1853
+nomen nudum. Provisional name for F. leuckarti Bedot, 1893
+(6) Forskalia edwardsi Kölliker, 1853
+the type species of Forskalia
+(7) Forskalia formosa Kefferstein & Ehlers, 1860, 1861
+Syn: F. leuckarti Bedot, 1893
+(8) Forskalia atlantica Fewkes, 1882
+Syn: F. edwardsi Köll. (fide Bedot, 1893b; Schneider, 1898)
+(9) Forskalia tholoides Haeckel, 1888
+(10) Forskalia cuneata Chun, 1888
+
+I have not included Forskalia hydrostatica (Chiaje, 1830–31), because I think it was a case of mistaken identification on the part of Chiaje, and that the name was not put forward as that of a new species.
+
+It can be seen that our basic information on members of this group of siphonophores was mostly published a century or more ago by Milne Edwards (1841), Kölliker (1853), Leuckart (1853, 1854), Vogt (1854) and Kefferstein & Ehlers (1861). Claus (1863) also contributed.
+
+[NOTE: printed folio 97 at the outer (right) edge of the running head; PDF index 102, offset −5 holds. Single column throughout; no figures, tables, footnotes or signature mark. The page opens mid-sentence with "budded from the nectosome", continuing from the previous page.
+
+No printed square brackets occur on this page; every bracket here is round, including the numerals "(1)" to "(10)" of the list.
+
+Layout of the numbered list: each numeral is set in parentheses, right-aligned on the closing bracket so that "(10)" hangs one character further left than "(1)" to "(9)". The gloss beneath an entry is indented a further step and is a separate printed line, so line breaks are kept here.
+
+Printed usages preserved as printed. (1) "We are left with species of Forskalia, Köll, two of them" abbreviates Kölliker as "Köll" with no full point, whereas item (8) has "Köll." with a point. (2) Bedot 1893 is cited without a letter suffix in list items (3), (5) and (7) but as "1893b" in item (8). (3) The dashes in "would be – but never was – described" are en-dashes with spaces; the range in "1830–31" is a closed en-dash. (4) "Forskål" carries the ring-a.
+
+Type: "Genus:" roman, then bold italic capitals "FORSKALIA", then roman "Kölliker, 1853". "Type species:" roman with an italic binomen following. Italic throughout the list: every genus and species name, "F." abbreviations, "nomen nudum" in item (5), "fide" in item (8), and "see" and "nomen nudum" in the second paragraph. "Syn:" is roman. Author surnames (Haeckel, Kölliker, Leuckart, Milne Edwards, Bedot, Chiaje, Fewkes, Chun, Vogt, Kefferstein, Ehlers, Claus, Schneider, Forskål) are all ordinary upper-and-lower case roman, not small capitals. The running head is in spaced small capitals.
+
+Numerals verified digit by digit: 97; p. 40; 1881; Station 288; 1853, 1853; 1831; 1841; 1841, 1893; 1841, 1853; 1853, 1893; 1853; 1860, 1861; 1893; 1882; 1893b, 1898; 1888; 1888; 1830–31; 1841, 1853, 1853, 1854, 1854, 1861, 1863. Item (7) reads "1860, 1861" — two years, comma-separated, not a range.
+
+Stray marks, all scanning blemishes: a short slanting ink-like stroke crossing the "ff" of "Kefferstein" in list item (7), which at 3x is a thin curved hair lying over the type and not a printed diacritic or an inserted letter — the word reads Kefferstein; a small caret-like fleck in the right margin level with "liquid from their tips"; a speck in the right margin level with "Mediterranean fishermen"; specks in the right margin level with items (3) and (5); a speck in the left margin level with item (3); and scattered specks between lines in the second and third paragraphs. None is printed matter.]

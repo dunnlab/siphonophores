@@ -1,0 +1,41 @@
+[PAGE 161]
+
+[NOTE: scanned page: three lines of Russian text at the head, then the last of the
+screen plots, Fig. 9, then four paragraphs of Russian which end the Russian half
+of the paper. The lower third of the page is blank.]
+
+Последняя серия (рис. 7-9) показывает корреляцию распределения суммы половых фрагментов, узких и широких нектофоров в поле диаграммы "глубина-месяц".
+
+[FIGURE]
+[NOTE: Fig. 9 — framed screen plot of the same construction as Figs. 7 and 8:
+title bar, twenty-one depth labels down the left, twelve Roman-numeral month
+labels along the foot, and a black scale bar below. The filled cells lie in the
+top four depth rows; a hand-drawn loop encloses the region from about month V to
+month XI and from the surface to about 1000 m.]
+
+WIDE NECTOFORES DISTRIBUTION ON MONTH-DEPTH DIAGRAM
+
+0	100	200	300	400	500	600	700	800	900	1000	1100	1200	1300	1400	1500	1600	1700	1800	1900	2000
+
+I	II	III	IV	V	VI	VII	VIII	IX	X	XI	XII
+
+9	14	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]
+
+[NOTE: only the first two of the scale bar's nine numerals can be read. As in
+Figs. 7 and 8, the Roman five is drawn with a rounded foot and would read as U on
+its own.]
+
+Рис. 9. Распределение количества "широких" нектофоров D.arctica в поле диаграммы месяц-глубина
+Distribution of D.arctica "wide" nectophores on diagram month-depth.
+[/FIGURE]
+
+[NOTE: the Russian caption line of Fig. 9 ends without a full stop, unlike those
+of Figs. 7 and 8.]
+
+Отметив на диаграмме максимум суммы половых фрагментов, перенесем эту область на диаграмму с суммой узких нектофоров. Даже неискушенному глазу видно, что корреляции нет. Проделаем аналогичную процедуру для диаграммы с широкими нектофорами. Отчетливо видно, что корреляция есть, причем в большей степени для месяца, чем для глубины.
+
+Несмотря на явно недостаточное количество наблюдений по Японскому морю и малую плотность данных во времени и пространстве программа визуализации позволила дать качественное представление о закономерностях распределения объектов базы данных и связях отдельных частей между собой.
+
+Следует проверить полученные результаты на материале из других акваторий Мирового океана. Однако уже сейчас можно сказать, что методы компьютерной визуализации позволяют зоологу производить первичный анализ базы данных и поиск общих закономерностей, не привлекая математический аппарат.
+
+161

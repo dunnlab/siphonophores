@@ -1,0 +1,40 @@
+[PAGE 05]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+northeastern Pacific should be considered a separate species, Nanomia septata sp. n., and provide a description of the species. Observed characteristics of the examined N. cara and N. bijuga material are also given for comparison, but this should not be considered a formal re-description of these species. Improved characters for the identification of the three species are provided (Table 1). Our species delimitation analyses further support two additional Nanomia lineages recorded from Chinese and Japanese waters, respectively (Figures 2, 3). Unfortunately, we have not been able to examine the detailed morphology of any specimens belonging to these clades. The sequences forming the Chinese clade are mined from GenBank, while the three nectophores collected at Shimoda, Japan, were fixed in ethanol with poor photographic documentation, and used for sequencing in their entirety. These latter nectophores were Nanomia-like in habitus (ridges and radial canals), ~2 mm in height, and with a conspicuous red pigment spot on either side of the ostium. However, we are
+
+currently unable to provide a more detailed description of these nectophores or the rest of the colonies.
+
+3.1 Phylogenetic analyses and molecular species delimitation
+
+Both ASAP and bPTP identified 5 putative species (N. cara, N. bijuga, N. septata sp. n., an undescribed Nanomia clade from Japanese waters, hereafter Nanomia sp.1 Japan, and another undescribed Nanomia clade from Chinese waters, hereafter Nanomia sp.2 China) in the COI dataset (Figure 3), corresponding to the clades identified in the Bayesian analysis with posterior probability > 0.95 and in the ML analysis with bootstrap supports of 99–100% (Figure 3; Supplementary Figure S1). In the 16S dataset (Supplementary Figure S2), bPTP recovered the same 5 putative species, while ASAP failed to separate between N. bijuga and Nanomia sp.1 Japan, thus suggesting 4
+
+[TABLE]
+TABLE 1	Summary of diagnostic features separating Nanomia spp.
+	N. septata sp. n.	N. bijuga	N. cara
+Pneumatophore	Red apex, conspicuous longitudinal septa lines in fixed specimens. Length up to 5 mm.	Red apex, no conspicuous longitudinal septa lines. Length up to at least 2 mm.	Red apex, no conspicuous longitudinal septa lines. Length up to at least 2 mm.
+Nectophore shape	Shape cuboid/flattened parallel to stem along proximal-distal axis.	Flattened parallel to stem along proximal-distal axis.	Small nectophores cuboid/flattened parallel to stem along proximal-distal axis. Larger nectophores flattened along the upper-lower axis.
+Auriculate ridge	No	Yes	No
+Junction of lateral and upper lateral ridges	Junction more distal, with a short incomplete continuation of upper lateral ridge.	Junction more proximal, with a long incomplete continuation of upper lateral ridge.	Junction more distal, with a very short incomplete continuation of upper lateral ridge.
+Palpons	Some with internal proximal lipid droplet	Without lipid droplet	With external proximal lipid droplet
+[/TABLE]
+
+[FIGURE]
+lat
+50
+0
+-50
+N. septata sp. n.
+Nanomia sp.1 Japan
+Nanomia bijuga
+Nanomia sp.2 China
+Nanomia cara
+-100	0	100	200
+long
+FIGURE 2
+Map of Nanomia observations listed in Supplementary Table S1.
+[/FIGURE]
+
+Frontiers in Marine Science	05	frontiersin.org
+
+[NOTE: The page has two text columns at the head, then Table 1 and Figure 2 each spanning the full width; the left column is transcribed in full, then the right, then the table, then the figure, which is the physical top-to-bottom order of the full-width blocks. Presentation ligatures (fi, fl) are transcribed as the ordinary two-letter sequences throughout. The table caption line "TABLE 1  Summary of diagnostic features separating Nanomia spp." is printed above the table rule and is kept inside the [TABLE] block; column cells are separated by single tabs and the first (stub) cell of the header row is empty in print. Within the [FIGURE] block only text physically printed inside the figure panel is given: the y-axis title "lat" and its printed tick labels 50, 0, -50 (which appear down the left side), the five legend labels in their printed top-to-bottom order, and the x-axis tick labels and title at the foot. Nothing about the map graphic itself is described. The caption "FIGURE 2 / Map of Nanomia observations listed in Supplementary Table S1." is printed at the foot of the figure box on two lines. Running head and running foot elements are separated by tabs.]

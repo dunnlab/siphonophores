@@ -1,0 +1,54 @@
+[PAGE 36]
+[RUNNING HEAD] 36	A SYNOPSIS OF THE SIPHONOPHORA
+
+CLASSIFICATION
+
+Classification of the Siphonophora is based not on the sexual, adult medusoids but on the asexual, larval nurse-carriers. In the Hydroida, a dual classification has been made in the past.
+
+My views upon the probable course of evolution of siphonophores into three sub-orders, Cystonectae, Physonectae and Calycophorae, have been expressed on pages 32–33. These sub-orders with their general characteristics will be treated in this sequence, one which appears to show generally increasing complexity, although it must be borne in mind that there may be secondary simplification inside a group, following such events as the appearance of a neotenic form, as for example in the physonect, Athorybia.
+
+ORDER SIPHONOPHORA
+
+[TABLE]
+	Page
+Sub-order I	Cystonectae	39
+	Family 1.  Physaliidae	39
+	Physalia physalis (L)	39
+	Family 2.  Rhizophysidae	40
+	Rhizophysa filiformis (Forskål)	41
+	R. eysenhardti Gegenbaur	42
+	Bathyphysa conifera (Studer)	43
+	B. japonica Kawamura	44
+	B. sibogae Lens & van Riemsdijk	43
+	Cystonectae: spp. inquirendae	43
+
+Sub-order II	Physonectae	44
+	Family 3.  Apolemiidae	45
+	Apolemia uvaria Lesueur	45
+	Family 4.  Agalmidae	51
+	Agalma okeni Eschscholtz	53
+	A. haeckeli Bigelow	53
+	A. clausi Bedot	53
+	A. elegans (Sars)	54
+	Halistemma rubrum (Vogt)	56
+	H. cupulifera Lens & van Riemsdijk	58
+	H. striata sp.n.	59
+	? H. amphitrÿdis (Lesueur & Petit)	60
+	Cordagalma cordiformis Totton	61
+	Marrus antarcticus Totton	62
+	M. orthocanna (Kramp)	65
+	M. orthocannoides Totton	63
+	*Moseria convoluta (Moser)	66
+	Nanomia bijuga (Chiaje)	68
+	N. cara A. Agassiz	72
+	Lychnagalma utricularia (Claus)	73
+	L. vesicularia Haeckel	73
+	Erenna richardi Bedot	74
+	Family 5.  Pyrostephidae	76
+	Pyrostephos vanhoeffeni Moser	76
+	Bargmannia elongata Totton	82
+[/TABLE]
+
+[FOOTNOTE] * This new genus Moseria is defined on page 66.
+
+[NOTE: the contents list is set with leader dots between each name and its page number; the leaders are omitted here and a single tab used instead. Indentation levels in the original are: sub-order flush left, "Family n." indented, species names indented further. The species epithet in "? H. amphitrÿdis" is printed with a diaeresis over the y. A short pencil or ink tick appears in the right-hand margin beside the "? H. amphitrÿdis ... 60" line.]

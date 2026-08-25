@@ -1,0 +1,38 @@
+[PAGE 11: unnumbered]
+
+[NOTE: full-page engraved plate, "Taf. V.", belonging to Eschscholtz's article "Thiere, auf der Reise um die Welt gesammelt, meist Quallen" (Isis 1825, cols. 733ff.). Portrait orientation, no rotation. The binding gutter runs down the left edge and a dark strip of the scanner bed shows along the left and bottom edges.]
+
+[NOTE: NO caption, legend or explanatory text of any kind appears on this plate page. The only lettering on the leaf is (i) the plate number "Taf. V." engraved top right, (ii) the "Fig. N" numbers above each figure, (iii) a scattering of single italic reference letters (a, b, c … and A, B) placed on individual figures, and (iv) the engraver's imprint line "Isis 1825. Heft VI." at the foot, centre. The figure explanations are printed in the letterpress text, not here.]
+
+[NOTE: RESOLUTION WARNING — the PDF holds this plate as a single 550 × 709 pixel greyscale JPEG (72 ppi), so a "Fig. N" label is only about four pixels tall in the only image that exists. Rendering at 300 dpi merely interpolates it. Every figure number below is therefore given as a flagged best reading, not a confident one; individual numerals could be wrong and adjacent ones could be transposed. The one piece of internal support for the set as a whole is that the twenty readings form a complete run 1–20 with no repeats and no gaps. The single reference letters on the figures are below the threshold of legibility altogether and are recorded only as present.]
+
+[PLATE]
+
+Taf. V.
+
+[NOTE: figure numbers in reading order, left to right and top to bottom. The parenthetical fractions are the label's position on the leaf as (x, y) fractions of page width and height, so that a second reader can go straight to each one.]
+
+Fig. [?5] (0.06, 0.05)
+Fig. [?1] (0.17, 0.05)
+Fig. [?2] (0.32, 0.05)
+Fig. [?3] (0.53, 0.05)
+Fig. [?4] (0.69, 0.05)
+[?a] Fig. [?20] [?b] (0.85, 0.05) [NOTE: this label has a small italic reference letter to its left, over the segmented tube, and a second one to the right, over the ellipsoidal body; both letters are illegible. This is the figure the letterpress cites as "Fig. 20. a.)" and "Arthronema fusca, Fig. 20." at col. 747.]
+Fig. [?6] (0.63, 0.18) [NOTE: several illegible reference letters are engraved on this figure.]
+Fig. [?11] (0.09, 0.21)
+Fig. [?8] (0.26, 0.24)
+Fig. [?12] (0.48, 0.27) [NOTE: the large central ctenophore-like figure.]
+Fig. [?10] (0.79, 0.28)
+Fig. [?17] (0.21, 0.38)
+Fig. [?15] (0.06, 0.41)
+Fig. [?13] (0.80, 0.51) [NOTE: two or three illegible reference letters are engraved on this figure.]
+Fig. [?9] (0.32, 0.58)
+Fig. [?14] (0.06, 0.60)
+Fig. [?16] (0.59, 0.64)
+Fig. [?19] (0.48, 0.78)
+Fig. [?7] (0.10, 0.83) [NOTE: several illegible reference letters are engraved on this figure.]
+[?A] Fig. [?18] [?B] (0.81, 0.83) [NOTE: two circular figures side by side, each with a single italic capital above it — the left reads as A and the right as B, both uncertain.]
+
+Isis 1825. Heft VI.
+
+[/PLATE]

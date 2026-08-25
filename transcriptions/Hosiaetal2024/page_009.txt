@@ -1,0 +1,41 @@
+[PAGE 09]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+Mer specimen measured. Siphosome straight and bearing a number of cormidia with gastrozooids spaced ~5-10 mm apart when pictured in living animals (Figure 6). In younger stem portions cormidia included a single gastrozooid and a palpon, with a number of bracts, whereas the oldest cormidia observed contained four palpons, each with gonodendra of both sexes.
+
+Gastrozooid and tentacle (Figure 6): Gastrozooids mostly elongate in Peabody Atlantic specimen, and all bearing mature tentacles; becoming progressively longer and thinner in more posterior cormidia of Villefranche-sur-Mer colonies (maximum length 1.25 mm) and bearing either larval or definitive tentacles only. In all Villefranche-sur-Mer colonies basigasters pigmented red, though pigmentation faded away in older specimens.
+
+Larval tentilla small (roughly 100 μm), borne on long pedicels and spread far apart. Definitive tentilla larger, borne on longer pedicels and spread further apart. In live specimens from Villefranche-sur-Mer cnidobands pigmented red, mature tentilla comprised three-coiled cnidoband, partial involucrum extending up to the second coil, and long, single terminal filament.
+
+Palpon: All of similar size and typically shorter than gastrozooids in Peabody Atlantic specimen; in Villefranche-sur-Mer specimens, red pigment spots proximally, with thin and elongate palpacle; no lipid droplets discerned in any palpons (Figure 6).
+
+Bracts: Two bract types present (Figure 5), differing in size and shape, probably also in their placement on the stem, but this could not be confirmed.
+
+Type A. Roughly rhomboidal, prismatic and rather small, up to 2.00 mm in length in Villefranche-sur-Mer material. The upper surface divided by a transverse ridge slightly overhanging distal portion, divided into two facets by a median ridge. Bracteal canal narrow, running along the lower surface, from the proximal, bent-upwards process up to the mid-length of bract.
+
+Type B. More elongate and flat, up to 3.00 mm in length in Villefranche-sur-Mer material. The upper surface with three clearly demarcated ridges, of which the median nearly twice the length of the lateral ones. All ridges were elevated, and contained large cells, potentially nematocysts, and ended in distinct cusps giving the bract a tridentate appearance. In some bracts the distal cusps were elongated. In younger bracts weak ridges connected lateral ridges with the median ridge, but they could not be discerned in older bracts. The bracteal canal proximally bent upwards onto the bract’s upper surface, running along the lower surface of bract up to 2/3 of its length.
+
+Gonodendra: Monoecious, with both female and male gonodendra found within each mature cormidium (Figure 6). Gonophores of both sexes with clear orange pigmentation in living specimens; pigmentation lost in fixed animals.
+
+[FIGURE]
+A
+st	br
+fg
+gz	pa	mg
+tn
+B	C	D
+br
+mg
+br
+tn
+in
+fg	pl	pa
+FIGURE 6
+Nanomia bijuga (A) portion of siphosome, (B) gastrozooid, (C) tentilla and (D) palpon. Live specimen from Villefranche-sur-Mer. br, bract; fg, female gonophore; gz, gastrozooid; in, involucrum; mg, male gonophore; pa, palpon; pl, palpacle; st, stem; tn, tentacle. Scale bars 1 mm.
+[/FIGURE]
+
+Frontiers in Marine Science	09	frontiersin.org
+
+[NOTE: Two text columns at the head of the page (left column transcribed in full, then the right), then Figure 6 in a boxed panel filling the lower half. The first paragraph continues text broken off mid-word at the foot of page 08 ("Villefranche-sur-" / "Mer specimen measured").
+
+Inside the [FIGURE] block only text physically printed in the panel is given; the photographs are not described. Figure 6 is four photographs, lettered A (a wide panel across the top) and B, C, D (three panels below, left to right), each letter printed in white at the panel's top left corner. The white leader labels are transcribed panel by panel in the order A, B, C, D and within each panel in approximate top-to-bottom order; where labels sit level they are separated by a tab. In panel A the labels are st, br, fg, gz, pa, mg, tn; in B, br and tn; in C, in; in D, br, mg, fg, pl, pa. Each panel carries a plain white scale bar with no printed value (the caption supplies "Scale bars 1 mm"). Presentation ligatures (fi, fl) are transcribed as the ordinary two-letter sequences; "μm" is the printed micro sign; the apostrophe in “bract’s” is printed as a right single quotation mark and is given as that character. Running head and running foot elements are separated by tabs.]

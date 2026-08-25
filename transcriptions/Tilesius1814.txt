@@ -1,0 +1,252 @@
+<<<PAGE pdf=1 file=page_001.txt>>>
+[PAGE 1: unnumbered]
+
+[NOTE: journal volume title page, not the article]
+[NOTE: heavy foxing over the whole leaf; a few small red ink specks above the vignette.]
+
+[HANDWRITTEN] [illegible] (a faint pencil/ink inscription across the head of the page, above KONGL.)
+
+KONGL.
+
+VETENSKAPS
+
+ACADEMIENS
+
+HANDLINGAR,
+
+FÖR ÅR 1814.
+
+[NOTE: the diacritic over the O of FÖR is engraved as a small ring, as is the ring of Å in ÅR; both are read here as the letters they represent.]
+
+[FIGURE]
+[NOTE: engraved vignette — a bearded man kneeling to plant or dig at a lakeside, with trees at left, palms at right, a domed temple and rising sun behind, a watering can beside him; a scroll banner across the foreground.]
+[?FÖR] EFTERKOMMANDE
+[/FIGURE]
+
+STOCKHOLM,
+TRYCKTE HOS JOH. PEHR LINDH, 1814.
+
+<<<PAGE pdf=2 file=page_002.txt>>>
+[PAGE 178]
+
+[NOTE: Swedish. In this fount the diacritics of ä and ö are cut as small rings or half-rings and are not distinguishable in the scan from the ring of å; they are transcribed here as the letters they represent, resolved from the Swedish orthography.]
+[NOTE: the page opens the article; a decorative double rule runs across the head of the page below the folio.]
+
+GRANSKNING
+
+Af Djurslägtet Physsophora och af dess hittills kände Arter, samt Beskrifning på en ny Art af samma Slägte;
+
+af
+
+W. T. TILESIUS,
+
+M. D. Academicus vid Kejs. R. Vet. Acad. i S:t Petersburg, &c. f. d. Naturalist på Ryska Upptäcktsresan under Capt. Krusenstern.
+
+den 15 Jun. 1814.
+
+Physsophora är, efter ordets bemärkelse *), ett djur, som medelst en med luft fylld blåsa lyftas till vattnets yta; trefvare (tentacula) framhänga fästade vid blåsans ända, och äro af henne liksom upburne. De tre första arterne af detta slägte hafva blifvit upptäckte af den för Hafskräkens Historia så berömde FORSKÅL **) endast i Medelhafvet, och det är denne ifrige forskare som ensam och först utstakat följande kännemärken på slägtet och arterne, hvilka likväl varit något skadade eller mindre väl behållne: „Physsophora, säger han,
+
+[FOOTNOTE] *) a Φῦσαω inflo vel Φύσα vesica, bulla, & Φορὲω fero, scil. quod per vesicam fertur.
+
+[FOOTNOTE] **) Icones & Descript. animalium, quæ in itinere Orientali observavit FORSKÅL. Hafniæ 1775 4:o maj.
+
+<<<PAGE pdf=3 file=page_003.txt>>>
+[PAGE 179]
+
+[NOTE: Swedish, opening with the tail of a quoted Latin passage from Forskål. The ä/ö diacritics are cut as small rings and are not distinguishable in the scan from the ring of å; they are transcribed as the letters they represent.]
+[NOTE: the quoted Latin carries a printed low double quote „ at the head of every line, so its original line breaks and end-of-line hyphens are retained below rather than joined; the running Swedish prose that follows is joined as usual.]
+
+„est animalculum Marinum, corpore libero gelati-
+„noso e vesicula aërea pendente, membris gelati-
+„nosis sessilibus ad latera tentaculis subtus pluri-
+„mis. Situs animalis hydrostaticus sublatus pul-
+„mone extra corpus ad formam machinæ quam dia-
+„bolum Cartesianum vocant„.
+
+Att ingen författare, efter FORSKÅLS tid, har utom PERON sednast (1804) anmärkt sådane djur, och att MODEER, då han i K. V. Academiens Handlingar *) omrörer dem, förblandat två särskilda slägter, neml. Physaliæ med Physsophoræ, har jag nyligen bevisat i min Afhandling om Physaliæ och Physalomæ, hvilken finnes införd i tredje Delen af Krusensternska Resan. Men den vidtbekante Zoologen PERON, CUVIERS Lärjunge, som åtföljde den af BAUDIN utförde expeditionen till Söderhafs-öarne såsom Naturalist, fick tillfälle att anmärka flere väl behållne arter af Physsophoræ och afmålade dem efter naturen, och hvilka på visst sätt öfverenskomma med de Forskålske arterne: Hydrostatica och filiformis. Jemte desse får jag ock nu tillägga en ny art, upptäckt och lefvande afteknad af O. SWARTZ under hans resor i Westindien, och hvarå luftblåsans särskilta förhållande och byggnad är ganska märkvärdig — och hvarigenom ett ljusare begrep sprides om detta Djurslägte, hos hvilket luftens inandande sker, än medelst treklufne öpne blåsor, än genom på hvarandra, fjällvis, liggande blad, och än genom ett enkelt andhål på sjelfva luftblåsan.
+
+Physsophoræ, Physaliæ och det Djur som tillhör Snäckan Helix Janthina **), äro utan tvifvel
+
+[FOOTNOTE] *) År 1789 sid. 277.
+
+[FOOTNOTE] **) Det gifvas flere Hafskräk, hvilka i visst afseende kunna kallas hydrostatiske, men som i stället för blåsor, äga
+
+[NOTE: the second footnote breaks off at "äga" and continues on the following page.]
+[NOTE: a small ink blot sits on the final letter of "pulmone" in the quoted Latin; the reading is unambiguous from the line break "pul-".]
+
+<<<PAGE pdf=4 file=page_004.txt>>>
+[PAGE 180]
+
+[NOTE: Swedish. The ä/ö diacritics are cut as small rings and are not distinguishable in the scan from the ring of å; they are transcribed as the letters they represent.]
+[NOTE: the first paragraph continues a sentence begun on the preceding page ("... äro utan tvifvel"); the first footnote block continues the **) footnote begun there.]
+
+Hydrostatiska Djur, eller sådana som medelst tillhjelp af blåsor, fyllde med luft och flytande på hafsytan, förmå att hålla kroppen eller dess öfrige tyngre geleaktige delar uppe. Men Physsophoræ synas i anseende till deras sjelfkrafda respirationssätt, och särdeles genom fyllandet och uttömningen af sine lyftande blåsor utmärka sig; och liknande i formen fria greniga örtstånd eller klängväxter med deras rötter och blad, öfvergå de från Molluskernes familj till Zoophyterne, samt skilja sig från Physaliæ såsom flytande på vattenytan med biträde af den pneumatiska magen. I öfrigt äro så väl Physaliæ som Physsophoræ animalia polyostomata, eller sådane som med flere mynningar på Zoophyternes sätt upphämta födan, och genom samma åter utspy afskrädet efter rofvet *).
+
+Dessa djurens respirations-sätt, den förnämsta af alla functioner i djur-œconomien, är ganska anmärkningsvärdt och det i dubbelt hänseende, först neml. emedan dess yttre, hopade organer kunna undertiden på flere vis samla och utdrifva luften och tillika tjena till uppstigande, sänkning, rörelser från stället och till födans ernående; för det andra, att medelst samma förrättningar, såsom det sker hos Medusæ, Beroë, Salpæ och microscopiske kräftarter, Monoculi, Limuli och andre phosphorescerande hafskräk, en afsöndring af phosphoriska delar ur desse djurens vätskor härledes, och deraf det almänt bekanta phenomenet: Hafsvattnets lysande i mörkret.
+
+[FOOTNOTE] skaliga eller bruskaktiga (testacea l. cartilaginea receptacula aërifera) Luftgömmen, såsom Velella Porpita, flere arter af Sepiæ conchicolæ, Nautili och Argonautæ, samt några af PERONS Pteropoda, t. ex. Cleodora, Carinaria &c.
+
+[FOOTNOTE] *) Det är de trådlika physsophoræ som först antaga Vextformen i likhet med Zoophyter, och göra öfvergången.
+
+<<<PAGE pdf=5 file=page_005.txt>>>
+[PAGE 181]
+
+[NOTE: Swedish with Latin diagnoses and a Greek etymological footnote. The ä/ö diacritics are cut as small rings and are not distinguishable in the scan from the ring of å; they are transcribed as the letters they represent.]
+
+Physsophoræ slägtets arter hos FORSKÅL äro följande:
+
+1. hydrostatica (Tab. XXXIII. E. e. 1. c. 2.) (funnen af PERON i Östra Oceanen och kallad Physsophora Muzonema *).
+
+2. rosacea (Tab. XLIII. B. b.) må hända ett stycke af Stephanomia Amphitritis Peronii, eller ock egen art.
+
+3. filiformis (Tab. XXXIII. F.) liknar något Rhizophysa planostoma Peronii.
+
+Med bifogade anmärkningar (in parenthesi) får jag nu anföra FORSKÅLS beskrifning på hvar och en som den af honom blifvit gifven.
+
+1. Physsophora hydrostatica, ovalis, (potius corymboso - campanulata) vesiculis lateralibus trilobis plurimis extrorsum apertis, intestino medio (in ventriculum purpureum terminato) et tentaculis quatuor (pluribus; ventriculus enim umbella quasi tentaculorum campanulatus est) majoribus rubris (flavis potius apice rufescentibus, cirrhis flavicantibus ciliatis & promuscidibus cæruleis).
+
+Descr. Crassities pollicis longitud 1. sesquipollicaris ovalis compressa? supra vesicula terminalis, ovato-oblonga pennæ columbinæ crassitie erecta exserta, aëre semper plena. Ad utrumque latus vesicæ unius ordinis hyalinæ trilobæ una supra alteram: in uno latere tres, in altero quinque obliquæ sed puto irregulari forma. Lobus extimus truncatus, ore orbicu-
+
+[FOOTNOTE] *) a μυξάω l. μύξω musso l. sugo μύχθίζω suspiro. Physsophora spirans motum spirantem vesicularum trilobarum trementium indicat.
+
+<<<PAGE pdf=6 file=page_006.txt>>>
+[PAGE 182]
+
+[NOTE: Latin (Forskål's description), then Swedish, closing with a French quotation from Péron. The ä/ö diacritics are cut as small rings and are not distinguishable in the scan from the ring of å; they are transcribed as the letters they represent.]
+
+lari, limbo retractili & expansili. Intestinum medium, penna columbina angustius, extenditur a vesicula terminali ad ventriculum globosum rubrum (ubi crassius & campanulatum evadit). Ventriculus in ima parte (sub tentaculorum campanula) globosus cavus ruber ore orbiculari? (quod dubitandum) tentaculis seu papillis albidis contortuplicatis, dum non extenduntur. Tentacula majora subtus ad latera ventriculi (ex flavo-) rubra (alia cærulea) versus medium incrassata, capitulo (i. e. papilla) terminali albo.
+
+Vidi aliam tentaculis majoribus subæqualibus. Motus mirus: vesicæ aëreæ apicem semper in superficie tenet aquæ. Vesicis trilobis tremit (respirationis earum functio tremulans) limbum oris (orificii) retrahendo & propellendo (systole & diastole). Tentacula ventriculi extendit & torquet; cornua (cærulea, i. e. promuscides) quaquaversum tendit.
+
+PERON som fick detta djur fullkomligt helt, och försedt med sine flerfaldige cirrher och tentacler, lät äfven sin Vän, Målaren LESUEUR aftekna det efter Naturen *); men beklagligt vis, hann icke PERON meddela hvad han egenteligen om föremålet under resan anteknat, emedan döden alt för tidigt beröfvade Vetenskapen denne förträffelige forskare och det innan Resans Andra del blef till utgifvande fulländad. I den förra anföres följande, ehuru för Zoologiens idkare otillräckligt: *Physsophores animaux gelatineux mollasses, revetûs des plus belles couleurs. & dont le corps se soutient a la surface des flots par le moyen d'une ve-
+
+[FOOTNOTE] *) Se Voysge des decouvertes aux terres australes I. p. 43. planche 29. fol. 4.
+
+[NOTE: "Voysge" is so printed, for "Voyage".]
+
+<<<PAGE pdf=7 file=page_007.txt>>>
+[PAGE 183]
+
+[NOTE: opens with the continuation of a French quotation from Péron (in italic), which closes with a low double quote „; the rest is Swedish. The ä/ö diacritics are cut as small rings and are not distinguishable in the scan from the ring of å; they are transcribed as the letters they represent.]
+
+sicule de la forme d'une tres petite olive a parois epaisses. L'animal veut il plonger dans l'Ocean, aussi-tôt une soupappe s'abaisse, l'air dont la vesicule est remplie s'echappe, la pesanteur specifique de l'animal s'augmente, il s'enfonce. Veut il remonter a la surface, une nouvelle bulle d'air semble se developper ou plutôt se former instantanement, le petit reservoir se remplit de nouveau, la soupappe se ferme, la physsophore redevenu plus legere, s'éleve sur les eaux.„ Ehuru PERON här icke nämner ett ord vidare om sin P. Muzonema, har han, genom tekningen endast, förklarat dess œconomie. PERONS Muzonema eller spirans är samma species som FORSKÅLS hydrostatica; men bägge individerne åtskiljas deri, att den ena är fullkomligt hel och den andre stympad. PERONS namn är också bättre än FORSKÅLS; ty alla physsophoræ äro hydrostatiske. Af den förstnämdes figur har jag icke blott insedt bristen hos den af FORSKÅL först upgifne arten, och att FORSKÅLS beskrifning passar på den PERON låtit aftekna; utan ock att FORSKÅLS analytiske figurer (2—3) uplysa den första figuren hos PERON. På FORSKÅLS andra figur föreställes tydeligen de yttre respirations-organerne, nemligen de 3 delte (3 lobæ) blåsorne, samt deras inre structur, och fig. 3 visar magen och dess undre röda del, (som på fig. 1. ses blott från sidan under de klockformigt ricktade tentaklerne) äfven som några tentakler m. m. samt tekn till klängtrådarne. Desse sednare, så väl enkle som cilierade, äro af PERON först anmärkte och likaså de blå med en vårta ändade snablar, hvilka sitta innom eller emellan tentaklerne, och FORSKÅL benämt än magens horn, och än dess tentakler. PERONS figur utvisar deras rätta åtskillnad; och således har man af bägge desse Naturforskares observationer fått god uplysning om detta djur.
+
+K. V. A. Handl. 1814. St. II.	14.
+
+[NOTE: the last line is the signature line at the foot of the page — journal title abbreviation at left, gathering signature "14." at right.]
+
+<<<PAGE pdf=8 file=page_008.txt>>>
+[PAGE 184]
+
+[NOTE: Swedish text in roman type (no long-s in this fount), with a Latin diagnosis and description at the head and a French quotation from Péron in italic at the foot. The ä/ö diacritics are cut as small rings and are not distinguishable in the scan from the ring of å; they are transcribed as the letters they represent.]
+
+2. Physsophora rosacea F. orbicularis imbricata foliolis oblongis horizontalibus vesicæ affixis.
+
+Descr. Non absimilis flori pleno deorsum inclinato. Tota hyalina diametro pollicari. Folia semipollicaria oblonga obtusa, plana, decurva, numerosa, plurium serierum densa, mobilia, ad vesicam aëream sessilia. Vesica aërea in medio, ovata, obtusa, rufescens. Tentacula nonnulla subtus filiformia fuscescentia, varie dilatabilia; interdum foliis longiora. In Spir. Vini vesica sola cum tentaculis perdurat, cætera collabuntur.
+
+[NOTE: a stray low comma-like mark stands immediately before "hyalina" in "Tota hyalina"; it appears to be broken type rather than punctuation.]
+
+FORSKÅL har af denna gifvit figur både framtill och på sidan; men den synes mig stympad, och kanske är den blott en del af PERONS Stephanomia Amphitritis, som består af flere hvarf sådane fjällvis liggande blad, midt emellan hvilka Luftblåse-tarmen är fästad med flere tentakler och röda ventrikler, samt långa cilierade klängtrådar. Hos denna finner jag alla Physsophorernes organer, och anser den som en verklig art af samma slägte. PERONS egen benämning är för öfrigt symbolisk, härledd af ordet ϛεφάνωμα corona Amphitritis, Hafs-Gudinnans hufvudprydnad. Auctor tillägger följande som vittnar om Djurets natur. „Espece de Zoophyte, qui semblable a une belle guirlande de Crystal, couleur d'Azur, se promene a la surface des flots, souleve successivement ses folioles diaphanes & qui ressemblent a des fevilles de Lierre. Ses beaux tentacules couleur de Rose, sont eténdus au loin, cherchant partout leur proie, dont l'animal doit se nourrir. A peine elle est trouvée, que deja ce tentacules l'ont enveloppé d'un reseau fatal. L'animal alors se reserre sur lui meme en for-
+
+[NOTE: the Greek word is set with the στ-ligature stigma as its first letter, i.e. printed ϛεφάνωμα for στεφάνωμα; the acute over the alpha is clear. The page breaks mid-word in the French quotation ("en for-"), continuing on the next page.]
+
+<<<PAGE pdf=9 file=page_009.txt>>>
+[PAGE 185]
+
+[NOTE: page opens with the continuation of the French quotation from Péron (italic), broken from "en for-" at the foot of the previous page; the rest is a Latin diagnosis and description.]
+
+mant une espece de Cercle autour de la pâture, qu'il vient de conquérir. Des milliers de suçoirs semblables a des longues sangsuges s'elancent dans le meme instant du dessous des folioles dont je viens de parler, & qui dans l'etat de repos servent a les recouvrir & les proteger. Quelques moments á peine se sont ecoulés, & deja la proje la plus volumineuse a disparu. Outre ce là, on observe une admirable proprièté phosphorique, commune à la pluspart des animaux de cette classe, mais qui dans celui, dont je parle, se manifeste plus vive & plus eclatante encore, ce qui le fait paróitre au milieu des tenebres, comme une belle gvirlande des flammes & de phosphore."
+
+[NOTE: "sangsuges", "proje", "gvirlande" and "paróitre" are transcribed as printed; the accent over the o of "paróitre" is a small acute-shaped mark, not a circumflex.]
+
+3. Physsophora filiformis. F. membris lateralibus oblongis filiformibus dependentibus.
+
+Descr. Longitudo varia usque ad spithamalem. Crassities fili. Tota hyalina gelatinosa dependens; superne capitulo ovato, obtuso, magnitudine seminis Oryzæ, in quo bullula aërea oblonga, apice rufescens. Membra lateralia, sæpius secunda, i. e. uni lateri tantum affixa, sessilia, pendentia, suprema glandiformia; inferiora sensim majora. Vario gaudent motu; sæpe rufescunt: sæpe ad latus seta longa dependens exit (an ciliata? ut in icone expressa est?). Apex infimus mihi nondum observatus (specimen læsum fuit). Servata in Spiritu Vini totum filum in capitulum contrahit & sibi valde dissimilis evadit, quare melius est, ut in aqua prius moriatur; dein collocentur singulæ proprio vitro ne implicentur. Vivæ, vesica aërea plena, tamen subsidere possunt; dum corpus arctando se reddunt specifice graviores. Tenerrimæ sunt substantiæ; quapropter raro habentur illæsæ?
+
+<<<PAGE pdf=10 file=page_010.txt>>>
+[PAGE 186]
+
+[NOTE: Swedish text with Latin diagnosis and description; a Latin footnote at the foot contains two Greek words. The ä/ö diacritics are cut as small rings and are not distinguishable in the scan from the ring of å; they are transcribed as the letters they represent.]
+
+Oaktadt denna art varit sedd af FORSKÅL ofullkomlig och skadad, så är den förmodeligen egen och särskild för sin seta longa peculiaris ciliata & membra secunda sensim majora; men namnet bör ombytas, ty det är icke ett species, utan en hel familj af sådane Physsophoræ filiformes. Både PERON äger en sådan under namn af Rhizophysa *) planostoma, och O. SVARTZ har upgifvit en tredje art, utmärkt skild från alla andra, hvars tekning Auctorn behagat mig meddela och med hvilken jag får till slut pryda denna afhandling.
+
+4. Physsophora radicans.
+
+Rhizophysa planostoma Peronii.
+
+P. filiformis, ramosissima, rosea, membris lateralibus alternis oblongis subcylindricis tenuioribus-hyalinis subæqualibus, cirrhis longioribus roseis contortuplicatis alternantibus.
+
+[NOTE: a small brown stain stands between "subcylindricis" and "tenuioribus"; the hyphen of "tenuioribus-hyalinis" is printed at the start of the following line rather than at the end of the preceding one.]
+
+Descr. Longitudo spithamalis & supra. Crassities fili. Vesica diaphana in vertice puncto rubro notata aëre repleta ovata magnitudine seminis Oryzæ. Stirps filiformis ex vesica propendens rosea radicans, membris l. vesiculis subcylindraceis hyalinis æqualibus longioribus pendulis & cirrhis roseis in spiram contortis alternantibus longissimis ramosissima.
+
+Om dess rörelser m. m. är intet bekant, emedan inga beskrifningar eller särskilda uplysningar
+
+[FOOTNOTE] *) Rhizophysa ex vocibus Græcis ρίζα radix vel ῥιζόω radicibus munio, radico & φύσα follis vesica composita esse videtur & vesicam indicat radicibus instructam. Men PERON har orätt, att af en sann Physsophora hafva skapadt ett nytt och [?alldeles] öfverflödigt genus.
+
+[NOTE: in the footnote the first Greek word carries no visible breathing over the rho (printed ρίζα), while the second clearly does (ῥιζόω); the acute of each word sits over the following letter in the fount. In "alldeles" the second l is short and could be read as an i.]
+
+<<<PAGE pdf=11 file=page_011.txt>>>
+[PAGE 187]
+
+[NOTE: Swedish prose followed by a Latin diagnosis and description. The ä/ö diacritics are cut as small rings and are not distinguishable in the scan from the ring of å; they are transcribed as the letters they represent.]
+
+äro ännu att tillgå om de af PERON uptäckte djur, ieke eller är något af honom nämt rörande Rhizophysa i den af hans Verk utkomna delen. Emedlertid är mycken gemenskap emellan FORSKÅLS P. filiformis och denna radicans af PERON; dock är den förra, ofullkomlig som den är beskrifven, väl åtskild genom sina åt ena sidan vettande, och småningom större blåsor. Ändteligen återstår den tredje arten af de trådlika Physsophorer, den märkvårdigaste af alla sina likar, hvilkas samfälta œconomie genom de observationer upfinnaren på sin anståldt, blifvit på ypperligt sätt förklarad.
+
+[NOTE: "ieke" in line 2 is printed with a clear crossbarred e, not a c — evidently a misprint for "icke".]
+
+5. Physsophora didyma Swartzii.
+
+P. filiformis breviuscula, vesica pneumatica subtrigono-didyma, altero vesicæ ventriculo aperto, altero per papillam filiferam clauso, membris lateralibus filo annexis vel vesiculis oblongo-ovatis subæqualibus cirrhisque alternis.
+
+Descr. Vesica subtrigono-hyalina didyma, 5—6 lineas longa, postice l. apice angustior sed obtusa, antice l. basi plana subcordata, ibidemque ad dimidium pervia, aquam recipiens & rejiciens. Pone aperturam in ipsa parte basis plana e papilla, filamentum exit vesica duplo longius, cui adhærent, filo brevissimo adnexæ, vesiculæ diaphanæ lineam vix superantes ac vesicæ forma consimiles, cirrhis solitariis rubicundis alternantes. Vesiculæ ultimæ corpusculum intense rubrum vivacissimum includunt. Motus totius animalis peragitur vesiculis ultimis seu anticis jactando progredientibus (polyporum quorundam instar), cæteris omnibus pari motu sequentibus, unde vesica, scilicet
+
+<<<PAGE pdf=12 file=page_012.txt>>>
+[PAGE 188]
+
+[NOTE: Latin continues from the previous page, then Swedish, then a lettered list, then a long Latin footnote in small type closed by a typographic rule. The ä/ö diacritics are cut as small rings and are not distinguishable in the scan from the ring of å; they are transcribed as the letters they represent.]
+
+pneumatica, ordine ultima vel suprema, quæ ad superficiem aquæ tendit & totam vesicularum seriem filo annexam, ponderosiorem retinere videtur, interdum a vesicularum progredientium catena quasi retrahitur & inde saltare vel ad aquæ superficiem prosilire solet. Hæc ipsa (vesica pneumatica) tactu quoque vivide sese contrahit & adhuc aqua repleta duriuscula sentitur, exhausta vero collabitur *).
+
+Den lilla röda punkten som finnes innom de smärre blåsorne, ehuru små de äro, har så liflig färg, att den synes på långt håll.
+
+Om så händer, att någon af de små blåsorne skiljas från de öfrige, som hänga vid tråden, simmar den samma ensamt med lika framskjutande rörelser.
+
+Detta Hafskråk fångades af SWARTZ i Vestra Oceanen, under 37 graders Nordlig bredd vid en påstående stiltje och lungt haf, och blef medan det ännu lefde afteknadt oeh beskrifvit. För mera tydlighet, är hela djuret litet mer än dubbelt större på Tab. VIII. A. afbildadt, än det är i naturen, — och utmärker
+
+a) Luftblåsans eller magens mynning öppen för vattnet,
+
+b) Papillen, från hvilken tråden utgår på den tillslutna, och med luft fylda undre delen af blåsan.
+
+[NOTE: "oeh" in the fourth paragraph is printed with a clear crossbarred e, not a c — a misprint for "och", the same fault as "ieke" on the preceding page.]
+
+[FOOTNOTE] *) Didymam esse vesicam pneumaticam l. ex binis parallelis secundum longitudinem decurrentibus ventriculis constructam, non solum ex utroque eorum orificio altero (a) aperto, altero (b) per papillam filiferam clauso cognoscitur, sed etiam per sulcum inter utrumque ventriculum longitudinem versus decurrentem, & forsan, a septo interno ortum confirmatur. Si hæc ita sint, aëris secretio ex aqua marina in cavo alterius ventriculi pervia, fieri videtur, & transitus ejusdem per septi valvulas resilientes ad alterius cavum ubique clausum promoveri verisimile est.
+
+[NOTE: a short thick typographic rule is centred below the footnote.]
+
+<<<PAGE pdf=13 file=page_013.txt>>>
+[PAGE 13: unnumbered]
+
+[NOTE: engraved plate, hand-coloured, divided by a ruled horizontal line into an upper division lettered A. and a lower division lettered B. The upper division belongs to Tilesius's paper (it is the "Tab. VIII. A." cited on p. 188 for Physsophora didyma Swartzii). The lower division, B., with Figs. 1-6, illustrates a different article in the same volume and does not belong to this paper.]
+
+[PLATE]
+Tab.VIII. A.
+
+[upper division, above the rule: a single uncaptioned figure of a filiform siphonophore, chain of vesicles to the left, large pneumatophore at the right; lettered a (upper, on the aperture at the front of the large vesicle) and b (lower, with a lead line to the papilla). No figure number, no species name and no engraver's credit in this division.]
+
+B.
+
+[lower division, below the rule; figure labels in reading order:]
+Fig. 2.
+Fig. 1.
+Fig. 3.
+Fig. 4.
+Fig. 5.
+Fig. 6.
+
+[NOTE: the labels are placed irregularly — Fig. 2 at upper left, Fig. 1 to its right, Fig. 3 below and between them, Fig. 4 at right of centre, Fig. 5 at lower left and Fig. 6 at lower right. Fig. 1 is a small group of dark specks; Fig. 2 a dark ciliated body; Fig. 3 a branching filament; Fig. 4 two stippled filaments; Fig. 5 three globules on filaments; Fig. 6 a stippled mass.]
+
+K. V. A. H. 1814.
+[/PLATE]
+
+[NOTE: no engraver's or draughtsman's credit line appears anywhere on the sheet; the only imprint is "K. V. A. H. 1814." at lower right. The plate paper is trimmed unevenly and the sheet edges are dark in the scan.]

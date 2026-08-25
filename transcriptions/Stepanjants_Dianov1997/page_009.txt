@@ -1,0 +1,32 @@
+[PAGE 162]
+
+[NOTE: English half begins here]
+
+[NOTE: scanned page, single column, no figures. The English half of the paper
+restarts with its own byline, affiliation and title. Quotation marks are set as
+upright pairs and are transcribed as ". A stray comma-like ink mark stands in the
+left margin level with the byline.]
+
+S.D. Stepanjants, M.B. Dianov
+
+Zoological Institute, RAS, St.-Petersburg, Russia
+
+THE COMPUTER APPROACH TO THE STUDY OF THE MORPHOLOGICAL AND BIOLOGICAL PECULIARITIES OF SIPHONOPHORA DIMOPHYES ARCTICA (CHUN, 1897)
+
+[NOTE: in the title DIMOPHYES ARCTICA is set in bold italic capitals, the rest in
+bold roman capitals; it is broken over three lines on the page.]
+
+Dimophyes arctica (Chun, 1897) is one of the most common siphonophores, which was described from the Arctic Basin and therefore considered for a long time as a typical coldwater species. Later it was found in all regions of the world's oceans from the Arctic to Antarctic, including the tropical zone, and presently it can be with due validity refereed to panoceanic species (Stepanjants, Lobanov, 1989; Pages, Gili, 1992).
+
+The colony fragments of D.arctica were found from the surface of the sea to depths of several thousands meters, at a temperature from -1° C, to 22° C and salinity 33.5-35 ‰. (Stepanjants, Lobanov, 1989).
+
+The morphological peculiarity of D.arctica colonies is well known. This diphyid siphonophora (the colony has 2 nectophores: the anterior and posterior ones) is characterized by 2 forms of the anterior nectophores – "wide" and "narrow" ones (fig.1:1,2). This peculiarity is absent in other diphyid species. There is so far no explanation of this feature of D.arctica. In traditional qualitative sorting of material from different regions and depths it assumed that "wide" and "narrow" nectophores are always present simultaneously in about equal number. Besides two types of the anterior nectophores, there are the posterior nectophores, bracts, gonophores (♂ and ♀), or the whole cormidias (fig.1:3-6) present in samples.
+
+There are more than 500 samples with D.arctica in collection of Zoological Institute (ZIN). The analysis of this collection resulted in preparation of the data base. Only samples adequate for receiving station-by-station comprehensive information with respect to environmental elements at each observation point, amount of discovered fragments as well as coordinates, depths, catching tools, sampling time and season, have been represented in the data base (Stepanjants, Lobanov, 1989). Since the ZIN collection of D.arctica includes basically material from the Russian Eurasian Arctic seas, Far-east seas and the North Pacific region (partly from the Caribbean Sea), the literature data were also used in case they included the entire of the above-listed information.
+
+[NOTE: in "(fig.1:1,2)" and "(fig.1:3-6)" the numerals after the colon are set in
+italic. The salinity unit after 33.5-35 is a per-mille sign drawn as a percent
+sign with a second small o after it. "Pages" is printed without the accent that
+the name Pagès carries elsewhere.]
+
+162

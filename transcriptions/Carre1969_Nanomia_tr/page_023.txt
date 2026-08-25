@@ -1,0 +1,21 @@
+[PAGE 2]
+
+[NOTE: English translation, born-digital and fully legible. The folio "2" is centred at the head of the page; this is the translation's own pagination, restarting at 1 on the previous page. The footnote is keyed with a superscript numeral 1. Renderings as printed include "Halistemma picta" in one place and "Halistemma pictum" in another, "twentyish oocytes", and "to precision the origin" in the footnote.]
+
+[RUNNING HEAD] 2
+
+The egg
+
+The reproductive organs of physonect siphonophores are generally some medusoids provided with an umbrella, a velum, four radial canals and a mouthless manubrium, in the midst of which are developed the genital products. This type of gonophore is that for the majority of Agalmidae living in the vicinity of Villefranche-sur-Mer (Cordagalma cordiformis, Agalma elegans, for example). In contrast, the male and female reproductive organs of Nanomia bijuga are, at various stages in their development, considerably simpler and characterised by the absence of an umbrella. This observation is in accord with the description of the gonophores of Halistemma picta (=Nanomia bijuga according to the synonymy given by Totton in 1965) given by Metschnikoff (1870). That author states “It is impossible for me to indicate a formation that is equivalent to the classical generative organs of Physonects but, nevertheless, it is evident that the gonophores of Halistemma pictum correspond to the female genital buds of sexual medusoids of other Agalmids”.
+
+We have attempted to follow, by means of histological sections, the differentiation of the female genital organs in some young colonies.
+
+The male and female reproductive organs are grouped in two distinct clusters and juxtaposed at the base of each dactylozooid (Pl. I, 1). In the mature cormidia, the female blastostyle bears some gonophores at various stages of development and it is only in the young cormidia, in the course of differentiation, that one is able to observe the first stages of the differentiation of the clusters of female gonophores. The blastostyle is, besides, a very short didermic bud, inserted close to the base of the dactylozooid. It shows, in its blind distal part, twentyish oocytes of small size, with homogenous cytoplasm, lodged between the ectoderm and the endoderm1. These oocytes develop at very variable rates and gradually project from the exterior (Pl. I, 3 and Fig. 1, A,B,C). They deform the distal region of the blastostyle whose ectoderm thins while the endoderm insinuates between the reproductive cells. At maturity the eggs are entirely disengaged from the blastostyle to which they remain connected only by some very short didermic peduncles (Pl. I, 4,5 and Fig. 1,D). One sees then, under the fine layer of ectoderm which envelops each egg, some endodermal canals with sinuous courses, forming two large loops reunited at the peduncle of the egg.
+
+The various stages of the differentiation of the female gonophores of Nanomia bijuga never show the formation of a medusoid nodule, and we think that these organs, apparently deprived of internal ectoderm, are related to some styloid gonophores of certain Hydrozoans. Their canals, which represent the unique endodermic formation, seem to be an original peculiarity.
+
+At the moment of release, the eggs measure 180µm in diameter. The cytoplasm has lost its homogeneous structure: at the periphery one observes a fine granulose zone, while the region situated around the germinative vesicle is now invaded by large vacuoles filled with large droplets of vitellus. We have undertaken various histochemical staining on the ripe eggs, without succeeding to characterise the reserves in a definite way. This seems tied to the low density of these reserves.
+
+In culture, all the ripe female gonophores, borne by the same individual, are released simultaneously at the end of the day; a dozen or so minutes later, their envelopes are torn off and the eggs are liberated into the seawater. However, in the colonies in an excellent state, the eggs are released directly into the water and this represents, without doubt, the normal process of release.
+
+[FOOTNOTE] 1 It is almost impossible for us to precision the origin of the sexual cells, but we hope to be able to take up this problem in a future work.

@@ -1,0 +1,58 @@
+[PAGE 20]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+NZ8/00130 (MKM), as well as by Science Foundation Ireland and Marine Harvest Ireland Ltd. (12/RC/2302) (DH) and the Irish Environmental Protection Agency (EPA) (2015-NC-MS-3) (DH). SHDH was supported by the David and Lucile Packard Foundation. The funders were not involved in the study design, collection, analysis, interpretation of data, the writing of this article or the decision to submit it for publication.
+
+Acknowledgments
+
+We wish to thank Dhugal Lindsay, Catriona Munro and Rade Garić for sequences from Japan and the Mediterranean, and morphological specimens from the Adriatic, respectively. Lynne Christianson extracted and sequenced many of the MBARI specimens used in the study. Amy Dozier contributed the original tracing of the nectophore drawings. The help and assistance of the crews of all the vessels involved in the sampling effort are appreciated. David Shale kindly allowed us to use his photos of Nanomia cara. The Trustees of the Natural History Museum, London, Canadian Science Publishing, and the Zoological Society of Japan permitted the reproduction of drawings for Figure 1.
+
+Conflict of interest
+
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+Publisher’s note
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+
+Supplementary material
+
+The Supplementary Material for this article can be found online at: https://www.frontiersin.org/articles/10.3389/fmars.2024.1421514/full#supplementary-material
+
+References
+
+Agassiz, A. (1865). “North American Acalephae,” in Illustrated Catalogue of the Museum of Comparative Zoölogy at Harvard College, vol. 2. (Cambridge (University Press: Welch, Bigelow & Co.), Massachusetts), 1–234. doi: 10.5962/bhl.title.1837
+Agassiz, A., and Mayer, A. G. (1902). “Medusæ,” in Report of the scientific research expedition to the tropical Pacific. U.S. Fish Comm. St. Albatross 1899-1900. III. doi: 10.5962/bhl.title.41325
+Alvariño, A. (1971). Siphonophores of the Pacific with a review of the world distribution. Bull. Scripps Institution Oceanography (Cambridge, Massachusetts), 16.
+Båmstedt, U., Fosså, J. H., Martinussen, M. B., and Fosshagen, A. (1998). Mass occurrence of the physonect siphonophore Apolemia uvaria (Lesueur) in Norwegian waters. Sarsia 83, 79–85. doi: 10.1080/00364827.1998.10413673
+Baxter, E. J., McAllen, R., Allcock, A. L., and Doyle, T. K. (2012). Abundance, distribution and community composition of small gelatinous zooplankton in southern Irish coastal waters. Biol. Environment: Proc. R. Irish Acad. 112, 1–13. doi: 10.1353/bae.2012.0029
+Berntson, E. A., France, S. C., and Mullineaux, L. S. (1999). Phylogenetic relationships within the class Anthozoa (phylum Cnidaria) based on nuclear 18S rDNA sequences. Mol. Phylogenet. Evol. 13, 417–433. doi: 10.1006/mpev.1999.0649
+Bouillon, J., Medel, M. D., Pagès, F., Gili, J. M., Boero, F., and Gravili, C. (2004). fauna of the mediterranean hydrozoa. Scientia Marina 68, 5–449. doi: 10.3989/scimar.2004.68s25
+Browne, E. T., Thompson, I. C., Gamble, F., Herdman, W., Cunningham, J., Beaumont, W., et al. (1898). The fauna and flora of Valencia Harbour on the West Coast of Ireland. Proc. R. Irish Acad. 1889-1901) 5, 667–854. Available online at: https://www.jstor.org/stable/20490564.
+Cartwright, P., Collins, A. G., Dunn, C. W., Evans, N. M., Marques, A. C., Miglietta, M. P., et al. (2008). Phylogenetics of hydroidolina (Hydrozoa: cnidaria). J. Mar. Biol. Assoc. United Kingdom 88, 1663–1672. doi: 10.1017/S0025315408002257
+Choy, C. A., Haddock, S. H. D., and Robison, B. H. (2017). Deep pelagic food web structure as revealed by in situ feeding observations. Proc. R. Soc. B: Biol. Sci. 284, 20172116. doi: 10.1098/rspb.2017.2116
+Church, S. H., Siebert, S., Bhattacharyya, P., and Dunn, C. W. (2015). The histology of Nanomia bijuga (Hydrozoa: Siphonophora). J. Exp. Zoology Part B: Mol. Dev. Evol. 324, 435–449. doi: 10.1002/jez.b.v324.5
+Cunningham, C. W., and Buss, L. W. (1993). Molecular evidence for multiple episodes of paedomorphosis in the family Hydractiniidae. Biochem. Systematics Ecol. 21, 57–69. doi: 10.1016/0305-1978(93)90009-G
+Darriba, D., Taboada, G. L., Doallo, R., and Posada, D. (2012). jModelTest 2: more models, new heuristics and parallel computing. Nat. Methods 9, 772–772. doi: 10.1038/nmeth.2109
+Delle Chiaje, S. (1841-1844). Descrizione e notomia degli animali invertebrati della Sicilia citeriore: osservati vivi negli anni 1822-1830 / da S. Delle Chiaje (Batelli, Naples).
+Dunn, C. W., Pugh, P. R., and Haddock, S. H. D. (2005). Molecular phylogenetics of the siphonophora (Cnidaria), with implications for the evolution of functional specialization. Systematic Biol. 54, 916–935. doi: 10.1080/10635150500354837
+Dunn, C. W., and Wagner, G. P. (2006). The evolution of colony-level development in the Siphonophora (Cnidaria:Hydrozoa). Dev. Genes Evol. 216, 743–754. doi: 10.1007/s00427-006-0101-8
+Edgar, R. C. (2004). MUSCLE: multiple sequence alignment with high accuracy and high throughput. Nucleic Acids Res. 32, 1792–1797. doi: 10.1093/nar/gkh340
+Edwards, M., John, A. W. G., Hunt, H. G., and Lindley, J. A. (1999). Exceptional influx of oceanic species into the North Sea late 1997. J. Mar. Biol. Assoc. UK 79, 737–739. doi: 10.1017/S0025315498000885
+Fewkes, J. W. (1888). On certain medusae from New England. Bull. Museum Comp. Zoology at Harvard Coll. 13, 209–240.
+Folmer, O., Black, M., Hoeh, W., Lutz, R., and Vrijenhoek, R. (1994). DNA primers for amplification of mitochondrial cytochrome c oxidase subunit I from diverse metazoan invertebrates. Mol. Mar. Biol. Biotechnol. 3, 294–299.
+Fosså, J. H., Flood, P. R., Olsen, A. B., and Jensen, F. (2003). Små og usynlige, men plagsomme maneter av arten Muggiaea atlantica. Fisken og havet særnummer 2, 99–103.
+Freeman, G. (1987). Localization of bioluminescence in the siphonophore Nanomia cara. Mar. Biol. 93, 535–541. doi: 10.1007/BF00392791
+Grossmann, M. M., Collins, A. G., and Lindsay, D. J. (2014). Description of the eudoxid stages of Lensia havock and Lensia leloupi (Cnidaria: Siphonophora: Calycophorae), with a review of all known Lensia eudoxid bracts. Systematics Biodiversity 12, 163–180. doi: 10.1080/14772000.2014.902867
+Grossmann, M. M., Lindsay, D. J., and Collins, A. G. (2013). The end of an enigmatic taxon: Eudoxia macra is the eudoxid stage of Lensia cossack (Siphonophora, Cnidaria). Systematics Biodiversity 11, 381–387. doi: 10.1080/14772000.2013.825658
+Haberlin, D., Mapstone, G., McAllen, R., McEvoy, A. J., and Doyle, T. K. (2016). Diversity and occurrence of siphonophores in Irish coastal waters. Biol. Environment: Proc. R. Irish Acad. 116B, 119–129. doi: 10.1353/bae.2016.0016
+Haberlin, D., Raine, R., McAllen, R., and Doyle, T. K. (2019). Distinct gelatinous zooplankton communities across a dynamic shelf sea. Limnology Oceanography 64, 1802–1818. doi: 10.1002/lno.11152
+Hernández-Triana, L. M., Prosser, S. W., Rodríguez-Perez, M. A., Chaverri, L. G., Hebert, P. D., and Gregory, T. R. (2014). Recovery of DNA barcodes from blackfly
+
+Frontiers in Marine Science	20	frontiersin.org
+
+[NOTE: Layout of this page, transcribed in this order: a two-column block of body matter at the head (left column carrying the tail of the Funding statement and the Acknowledgments, right column carrying Conflict of interest, Publisher's note and Supplementary material), then the "References" heading, then the reference list, itself set in two columns in smaller type — the whole left reference column is given first, then the whole right column. The first paragraph continues the grant number broken across the page boundary at the foot of page 19 ("2019/32/T/" / "NZ8/00130").
+
+Reference-list entries are one per line in printed order, with no blank line between them, as the protocol asks; within an entry the printed line breaks are joined. Word-division hyphens have been removed where a word was broken across a printed line, but hyphens internal to DOIs, grant numbers and hyphenated names are kept. The last entry is incomplete, breaking at "from blackfly" and continuing on page 21.
+
+Presentation ligatures (fi, fl, ff) are transcribed as the ordinary letter sequences; the "æ" of "Medusæ" is a real orthographic ligature and is kept. En dashes are printed in page ranges ("1–234", "79–85"), while hyphens are printed in date and volume spans such as "1899-1900", "1841-1844", "1822-1830" and "1889-1901"; both are given as printed. Diacritics as printed: "Garić", "Zoölogy", "Alvariño", "Båmstedt", "Fosså", "Pagès", "Små", "særnummer", "Hernández-Triana", "Rodríguez-Perez". "Publisher’s note" carries a printed right single quotation mark. The Supplementary material URL is broken across two printed lines after "1421514/" with no hyphen and is joined here. In the Browne et al. (1898) entry an unmatched closing parenthesis is printed after "1889-1901", as printed. The section headings "Acknowledgments", "Conflict of interest", "Publisher's note", "Supplementary material" and "References" are printed larger and in the journal's blue. Running head and running foot elements are separated by tabs.]

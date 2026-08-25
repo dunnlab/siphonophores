@@ -1,0 +1,73 @@
+[PAGE 15]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+[FIGURE]
+u-lr
+v-lr
+u-lr
+tb
+urc
+amc
+u-
+lr
+lr
+lrc
+dmc
+op
+orc
+loc
+l-lr
+l-lr
+u-lr
+tb
+u-lr
+v-lr
+lrc
+urc
+loc
+lr
+op
+v
+orc
+l-lr
+u-lr
+u-lr
+tb
+amc
+urc
+v-lr
+aw
+lrc
+l-lr
+dmc
+loc
+l-lr
+FIGURE 11
+Composite illustration of mature Nanomia septata sp. n. nectophore and bracts. Lateral, distal and proximal views. amc, ascending mantle canal; aw, axial wing; dmc, descending mantle canal; loc, lower radial canal; lr, lateral ridge; l-lr, lower later ridge; lrc, lateral radial canal; op, ostial process; orc, ostial ring canal; tb, thrust block; u-lr, upper lateral ridge; urc, upper radial canal; v, velum; v-lr, vertical lateral ridge. 1 mm scale bar for bracts.
+[/FIGURE]
+
+upper lateral nectophore surface and then downwards and inwards on distal surface terminating near distal mid-line at about half nectophore height (Figure 11); vertical-lateral ridges passing from high point of upper-lateral ridges diagonally down lateral nectophore surfaces to insert on lower-lateral ridge; lateral ridges extending from upper-lateral ridges on distal surface and passing down to insert on lateral borders of ostium at level of ostial process; lower-lateral ridges extending from tips of axial wings, along lower lateral surfaces of nectophore to insert at ostium below lateral ridges.
+
+Nectosac extensive in all nectophores (Figures 10, 11); radial canals originating from junction with internal pedicular canal on proximal surface; upper radial canal straight, passing through V-shaped cleft onto distal surface, downwards in mid-line and inserting onto ostial ring canal; lower radial canal following similar straight course along lower surface of nectosac to ostial ring canal (Figure 11); lateral radial canals following sinuous looped courses from junction with internal pedicular canal, first forming upward loop on proximal nectosac surface, then lower loop on proximal to lower-lateral surface, and finally taller loop on latero-distal nectosac surface before descending and inserting onto ostial ring canal in lateral position (Figure 11).
+
+Short internal pedicular canal giving rise to both ascending and descending mantle canals. Ascending mantle canal extending upwards from junction to middle of thrust block in proximal view, and descending mantle canal extending downwards to point where lower mid-line of nectosac turns through 90° (Figure 11).
+
+Thrust block terminating just below upper surface of nectosac in proximal view of mature nectophores (Figure 11), halfway up proximal surface in young nectophores (not illustrated).
+
+Siphosome: Siphosomal stem with the cormidial arrangement typical of the genus, with gastrozooids followed by several palpons, each flanked by both a female and a male gonodendron on alternate sides (Figure 12).
+
+Gastrozooid and tentacle: Gastrozooids with distinctly orange proximal one third, elongate, reaching up to roughly 7.0 mm in length (Figure 12). With prominent hepatic stripes. Tentilla with long pedicels (Figure 12), with 8 cnidoband coils when mature and single terminal filament. Involucrum incomplete, covering 2-5 coils of cnidoband (Figure 12). In live specimens cnidoband distinctly orange. No larval tentilla identified in present material.
+
+Palpon: Elongate, up to 7.0 mm long, nearly 1.2 mm wide, narrowing down distally (Figure 12). All palpons with proximally attached palpacle. Some palpons with an internal proximal droplet, possibly containing lipids.
+
+Bracts: Two types of bracts present (Figure 11). As in other Nanomia species, one more prismatic, roughly rectangular, and other tricuspidate and elongate. Both types with two cell patches.
+
+Type A. Prismatic, 5.5 mm long and 5.0 mm wide. The upper surface divided in two by a transverse ridge running from distal cusps up to one third of bract length. The transverse ridge forming minute overhangs above the distal surface. The distal surface divided into two facets by a median ridge connecting with the transverse ridge. Each of the two distal facets with a distinct cell
+
+Frontiers in Marine Science	15	frontiersin.org
+
+[NOTE: Figure 11 fills the upper half of the page in a boxed panel; below it the page is two columns, transcribed left column then right column. The first paragraph continues the sentence broken off at the foot of page 14, and the right column ends mid-sentence at "with a distinct cell".
+
+Inside the [FIGURE] block only text physically printed in the panel is given; the illustrations are not described. Figure 11 is five line drawings: three nectophore views across the top and two bracts below. The labels are transcribed drawing by drawing, left to right (lateral view, then the middle view, then the right-hand view), and within each drawing in approximate top-to-bottom order. In the left drawing one "u-lr" is printed on two lines as "u-" over "lr" and is given here on two lines to record that. Several abbreviations recur within and between drawings, so the same string appears more than once. The two bract drawings carry no lettering; between them is a plain scale bar with no printed value (the caption supplies "1 mm scale bar for bracts"). In the caption "l-lr, lower later ridge" is printed without the "al" of "lateral", as in the captions of Figures 5 and 9.
+
+Presentation ligatures (fi, fl) are transcribed as the ordinary two-letter sequences. The degree sign in "90°" is as printed. Running head and running foot elements are separated by tabs.]

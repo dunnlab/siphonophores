@@ -1,0 +1,71 @@
+[PAGE 132]
+
+132	[RUNNING HEAD] A SYNOPSIS OF THE SIPHONOPHORA
+
+[FIGURE]
+A
+c3
+ch
+c4
+
+B
+c3
+ch
+c4
+
+E
+c3
+ch
+
+C
+c3
+c4
+ch
+
+F
+c3
+c1
+c4
+ch
+
+K
+ch
+
+D
+c3
+c4
+ch
+
+G
+c3
+c4
+ch
+
+L
+ch
+
+H
+c3
+ch
+c4
+
+FIG. 74. Bracts of Prayidae
+Some bracts of eudoxids to show how the branches of the bracteal canals may be homologized with one another:
+A, Nectopyramis thetis Bigelow (after Totton, 1954, fig. 36B), × 5.5.
+B, N. diomedeae Bigelow, full grown bract (after, Bigelow, 1911b, Pl. 1, fig. 5), × 3.
+C, N. diomedeae Bigelow, juvenile bract (after Bigelow, 1911b, fig. A, p. 193), × 40.
+D, N. spinosa Sears, × 11.
+E, N. natans (Bigelow) (after Bigelow, 1911b, Pl. 20, fig. 6), × 3.
+F, Rosacea cymbiformis (Chiaje) (after Bigelow, 1911b, Pl. 2, fig. 4), × 15.
+G, Praya reticulata (Bigelow) (after Bigelow, 1911b, Pl. 3, fig. 6), × 3.
+H, P. dubia (Q. & G.), × 3.
+K, Amphicaryon acaule Chun (after Bigelow, 1911b, Pl. 4, fig. 5), × 50.
+L, Maresearsia praeclara Totton (after Totton, 1954, fig. 48A), × 9.
+c.h = hydroecial canal; c1 = spur canal; c3 = dorsal canal; c4 = ventral canal.
+[/FIGURE]
+
+[NOTE: this page carries no body text — only text-figure 74, made up of twelve lettered drawings, and its caption.]
+
+[NOTE: the labels inside [FIGURE] are lettered on the drawings and are listed drawing by drawing in the drawings' own reading order down the page (A, B, E, C, F, K, D, G, L, H), the drawing's letter first and then its canal labels in reading order. The numerals of "c3", "c4", "c1" are printed as superscripts, both on the drawings and in the caption. The hydroecial canal is lettered "ch" on the drawings — with a visible space between the two letters on several of them ("c h") and closed up on others — while the caption gives it as "c.h". No other text is printed on the illustration.]
+
+[NOTE: the drawings are not lettered "I" or "J"; the series runs A–H then K, L. No printed square brackets occur on this page.]

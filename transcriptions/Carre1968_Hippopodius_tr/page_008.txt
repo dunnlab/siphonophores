@@ -1,0 +1,35 @@
+[PAGE 3]
+
+[NOTE: English translation, born-digital. The folio "3" is centred at the head of the page. The plate is a scan of Plate I of the French original earlier in this PDF — the same halftone appears twice in the document, once in each half — so its engraved lettering (the panel numbers 1-9, the "P1" and "P2" protuberance labels, and the two "2,5 mm." scale bars) is the French original's. The caption beneath is the translator's new English one, set centred with a line per numbered item, and it omits the French legend's closing note explaining P₁ and P₂. The last item, 9, ends without a full stop.]
+
+3
+
+[PLATE]
+P1
+1
+2
+2,5 mm.
+3
+P1
+4
+5
+6
+P2
+P2
+P1
+7
+8
+2,5 mm.
+9
+
+Plate I.
+1.	Calyconula stage: right lateral view;
+2.	Stage with a definitive nectophore, left ventro-lateral view;
+3.	Stage with a definitive nectophore, apical view;
+4.	Stage with two definitive nectophores, lateral view;
+5.	Stage with two definitive nectophores, apical view;
+6.	Young colony after the release of the larval nectophore, apical view;
+7.	Young colony with three definitive nectophores, lateral view;
+8.	Young colony with six definitive nectophores, apical view;
+9.	Colony of Hippopodius hippopus, lateral view
+[/PLATE]

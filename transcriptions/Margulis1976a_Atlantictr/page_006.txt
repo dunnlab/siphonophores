@@ -1,0 +1,28 @@
+[PAGE 75]
+
+[NOTE: Russian original; text in Cyrillic. Last page of the Russian article — running text, a figure, the conclusion and the reference list. The page opens mid-sentence, continuing from p. 74. In the reference list the surnames are letterspaced in the original (Б е к л е м и ш е в); the letterspacing is not reproduced here. Latin codepoints are used inside the binomials and in "0°C"; the Roman numerals XI, XII and I are also given in Latin codepoints. Figure panel letters (А, Б) are italic Cyrillic. The printed folio 75 stands at the foot of the page.]
+
+относятся к температуре: на севере (в Полярном бассейне) выбирают наиболее прогретую воду с температурой выше 0°C, а на юге (в Антарктике) — воду с температурой ниже 0°C. Это либо результат физиологической разнокачественности популяции D. arctica у северной и южной границ ареала, либо свидетельство того, что это не один вид.
+
+[FIGURE]
+Рис. 3. Границы ареалов периферических видов (А) и распространение экваториальных видов (Б):
+1 — Abyla trigona, 2 — Lensia hardy, 3 — Amphicaryon acaule, 4 — не встречен ни один вид, ——— граница 50% видов.
+[/FIGURE]
+
+[NOTE: Рис. 3 is a pair of Atlantic maps side by side in a heavy frame, lettered in italic at the lower left of each: А (left), Б (right). Graticule lettering, all numerals: 60° and 0° above and below each of the two panels; latitude labels 40° 20° 0° 20° 40° down the outer and inner edges. A key box in the lower right of panel Б holds four boxed symbol swatches numbered in italic 1 and 2 (left column), 3 and 4 (right column); the swatches carry no words. Note that the species names 1—3 of the caption are printed at the foot of the plate, on the same page as the maps.]
+
+Заключение
+
+Наиболее резкие гидрологические границы ареалов сифонофор в океане совпадают с границами распространения отдельных видов. Другими словами, распространение сифонофор связано с делением водной толщи на водные массы. В пределах водных масс распространение видов зависит от того, какой фактор внешней среды более важен для данного вида. Можно предположить, что распространение одних видов сифонофор ограничено температурой, других — трофической характеристикой вод.
+
+СПИСОК ИСПОЛЬЗОВАННОЙ ЛИТЕРАТУРЫ
+
+Беклемишев К. В. Экология и биогеография пелагиали. М., «Наука», 1969, 291 с.
+Бурков В. А. Общая циркуляция вод Тихого океана. М., «Наука», 1972, 194 с.
+Маргулис Р. Я. О распространении некоторых видов сифонофор подотряда Physophorae в Атлантическом океане. Вестник МГУ, 1969, № 2, с. 17—25.
+Маргулис Р. Я. Некоторые данные о распространении в Атлантическом океане сифонофор рода Lensia (подотряд Calycophorae) — «Океанология», 1971, том. XI, вып. I, с. 99—104.
+Маргулис Р. Я. Факторы, определяющие крупномасштабное распределение сифонофор подотрядов Physophorae и Calycophorae в Атлантическом океане. — «Океанология», том XII, вып. 3, с. 499—505.
+Маргулис Р. Я. Сифонофоры семейства Diphyidae. Некоторые данные о распространении в Атлантическом океане. — В кн.: Комплексные исследования океана, 1972 б, том 3, с. 212—228.
+Парин Н. В. Ихтиофауна океанской пелагиали. М., «Наука», 1968, 186 с.
+
+75

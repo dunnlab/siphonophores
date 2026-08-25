@@ -1,0 +1,53 @@
+[PAGE 4]
+
+PLOS One
+
+Results
+
+Genome description
+
+Genome structure and annotation. We present a highly contiguous, complete chromosome-scale diploid assembly of a single Nanomia septata colony collected near Monterey, California (Fig 1B). Each of the two haplotypes has 8 chromosomes (1794 and 1796 Mbp, respectively) and a BUSCO score of ~92% (Table 1 and Fig 1). A karyotype confirmed there are 2n = 16 chromosomes (Fig 1C). We designate each chromosome with a number 1–8. Haplotype 1 has 96.7% of the bases in 8 chromosomes, and haplotype 2 has 96.9% of bases in 8 chromosomes. The haplotypes are very similar to each other, with haplotype 2 having a slightly higher completeness and assembly quality (Table 1). Haplotype 2 also had fewer gaps than the alternate, and contained more contigs within the chromosome-scale scaffolds, resulting in fewer orphan scaffolds. Thus, we chose to use haplotype 2 for subsequent analyses, including annotation (Table 2). We created multiple genome annotations, including one using the Nanomia septata Iso-seq data. We found that the annotation made with the Iso-seq called 198k genes, most of which we found to not be real genes. Thus, we chose to use the more conservative genome annotation that we present here, with the caveat that we may be missing some genes. In this annotation the total length of introns in the final assembly is 71.3Mb and total length of exons is 37.4Mb (Table 2).
+
+We manually curated the Homeobox and Wnt gene annotation, given their importance in cnidarian development (body and axis patterning) [23–26] and potential relevance to the unique colony-level growth of siphonophores. The original annotation had 38 of these genes and we found an additional 22 more using the Iso-sequencing of Nanomia septata. In total, Nanomia septata has 60 homeobox genes, split across 8 classes of genes (S1 Table). In comparison, other hydrozoans have on the order of 60−80 homeobox genes (S1 Table). More specifically, Nanomia septata has 17 Antp genes, including 4 Hox-like (HOXL) and 13 NK-like (NKL) members. Among HoxL genes, we identified one Hox gene (Cnox-1, located on chromosome 4), an unclassified Hox-like gene, and the two paraHox genes Gsx (Cnox-2) and Cdx (Cnox-4). We found 13 Nk-like genes, including Nk-1, Nk-2 (three copies), and Nk-6 genes (S1 Fig). In addition, the genome has nine Wnt genes identified as Wnt 1, 2, 3, 5 (two copies), 6, 7, 8 and A (S2 Fig). These have all been added so that in total, the annotation of haplotype 2 has 26,323 protein-coding genes (the first version had 26,301 genes).
+
+[TABLE]
+Table 1. Nanomia septata genome assembly statistics.
+
+Description	Haplotype 1 (alternate)	Haplotype 2 (primary)
+Length	1794626896	1796533731
+Contigs	5979.0	4964
+Contig N50	888919	918025
+Scaffolds	607	468
+Scaffold N50	220372998.0	223932061.0
+BUSCO complete	91.8	92.2
+BUSCO single copy	85.4	85.4
+BUSCO duplicated	6.4	6.8
+BUSCO fragmented	2.8	2.8
+
+https://doi.org/10.1371/journal.pone.0351247.t001
+[/TABLE]
+
+[TABLE]
+Table 2. Nanomia septata annotation of haplotype 2 (primary).
+
+Number of genes	26,323
+Total gene length	110.4 MB
+Total length of introns	71.3 MB
+Total length of exons	37.4 MB
+
+https://doi.org/10.1371/journal.pone.0351247.t002
+[/TABLE]
+
+PLOS One | https://doi.org/10.1371/journal.pone.0351247	July 2, 2026	4 / 25
+
+[NOTE: Single-column page. Two headings ("Results", "Genome description") and a run-in bold sub-heading ("Genome structure and annotation.") open the page; two body paragraphs follow, then Table 1 and Table 2 in that order at the foot.
+
+The tables are transcribed as printed, with single tabs between cells and no regularising of the source's own inconsistencies: in Table 1 "Contigs" gives "5979.0" for haplotype 1 but the integer "4964" for haplotype 2, and "Scaffold N50" carries a trailing ".0" in both columns while "Contig N50" carries none. In Table 2 the first row ("Number of genes" / "26,323") is printed bold, like a header, although it is a data row; bold is not marked. Table 2's units are printed "MB" whereas the body text uses "Mb" ("71.3Mb", "37.4Mb", with no space before the unit); both are as printed.
+
+PAGE FURNITURE: the PLOS One masthead and pictorial device at the head, and the running foot "PLOS One | https://doi.org/10.1371/journal.pone.0351247   July 2, 2026" with the page-number line "4 / 25" at the right; the foot's three elements are separated by tabs above. Printed, and so transcribed. There is no Crossmark stamp on this page.
+
+Words broken across a printed line by a soft hyphen have been joined and the hyphen removed, per the protocol: "hydrozoans" (printed "hydro-" / "zoans"). Real hyphens kept: "chromosome-scale", "colony-level", "Iso-seq", "Iso-sequencing", "Hox-like", "NK-like", "Nk-like", "Cnox-1", "Cnox-2", "Cnox-4", "Nk-1", "Nk-2", "Nk-6", "protein-coding".
+
+Dashes: "1–8" and "[23–26]" are printed with en dashes; "60−80" is printed with a longer dash sitting higher on the line than those en dashes, i.e. a minus sign, and is transcribed with U+2212 accordingly. "2n = 16" and "~92%" are printed with thin spaces around the equals sign and none after the tilde; thin spaces are rendered as ordinary spaces.
+
+Cross-references ("Fig 1B", "Table 1", "Fig 1", "Table 2", "S1 Table", "S1 Fig", "S2 Fig") and the reference-number citation "[23–26]" are printed in a blue hyperlink colour, and the two table DOI lines are printed as blue underlined hyperlinks; colour is not marked. Genus and species names and gene names are printed in italic (note that "Cdx" is printed roman while the neighbouring "Gsx" is italic, and that the full stop after "Nanomia septata." before "In total" is printed italic); italics and bold are not marked. Diacritics: none on this page.]

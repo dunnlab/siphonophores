@@ -1,0 +1,62 @@
+[PAGE 14]
+
+[NOTE: no printed square brackets occur on this page; every "[" in this file is my
+marker.]
+
+[RUNNING HEAD] M.K. Mańko, et al.
+[RUNNING HEAD] Progress in Oceanography 189 (2020) 102414
+
+The abrupt changes in the diversity of GZ between adjacent water masses have been shown in literature on numerous occasions (e.g., Graham et al., 2001; Hosia et al., 2008; Haberlin et al., 2019). They were usually attributed to various physical barriers (Graham et al. 2001), like shelf-breaks (Pagès and Schnack-Schiel, 1996; Guerrero et al., 2018) or fronts, a strong thermohaline gradients arising at the interface of distinct water bodies (Haberlin et al., 2019; Pagès et al., 2001).
+
+Recent findings show the strengthening and warming of the inflow of Atlantic water to the Arctic (Beszczynska-Möller et al., 2012; Polyakov et al., 2017), occurring even at the greater depths (Merchel and Walczowski, 2018). We demonstrated that the Atlantic water community of GZ was dominated by a boreal species, A. digitale (Table 4), whose demography was also tightly coupled with the distribution of warmer Atlantic water (Table 5, Fig. 7). This could indicate, that the Atlantification of the Arctic water would manifest in the dominance of this species further north, a trend that was already documented for some copepods occurring in the West Spitsbergen Current (Weydmann et al., 2014, 2018). For another highly abundant GZ species, D. arctica, warming of the Arctic water could translate to greater numbers of eudoxids produced, as this process seems to accelerate with increasing temperature (Carré and Carré, 1991), but also with the increasing food availability (Purcell, 1982; Dallot et al., 1988). Although this species was found to thrive in a broad range of temperatures (approximately 1.1–13.3 °C; Totton 1965), it was shown not to reproduce if the temperature exceeds 10 °C (Stepanjants, 1967). Therefore, it is also equally probable, that the Atlantification of the Arctic could limit the distribution range of this species only to the ArW.
+
+An interesting point in the discussion on the potential influence of the increasing Atlantification of the Arctic is the future of the shelf waters. When the Sørkapp Current (SC) flows northward along the western coast of Spitsbergen, it gains the heat from the adjacent West Spitsbergen Current (WSC), which enhances melting of the drifting sea ice in the SC (Saloranta and Haugan, 2004; Tverberg et al., 2014) and accelerates the formation of the SSW. We showed, that the SSW harboured the most abundant GZ community (Table 4), comprising species of Arctic origin (Table 5), numerically dominated by M. ovum. Increase in the SSW extent may thus lead to the development of an even more abundant assemblage of species adapted to thrive in these slightly less saline waters, like the mentioned ctenophore. It must be noted however, that the AtW is known to propagate onto the shelf and further into some of the Svalbard's fjords (e.g., Cottier et al., 2005). As recently shown by Nilsen et al. (2016), winter cyclones in the Fram Strait, through accelerating and widening of the West Spitsbergen Current, may force more AtW to spread along the shelf and within the fjords. Given the increasing density of winter cyclones in the region (Wickström et al., 2019), the striking differences in abundance of the shelf and open ocean GZ community might blur to some extent, with the shelf assemblage of GZ acquiring more of the Atlantic character.
+
+Although our interpretation of the influence of the Atlantification on the GZ community is well supported by the published data (e.g., Wassmann et al., 2011; Weydmann et al., 2014), presented here is only a snapshot of a diversity of GZ and its environmental and biotic drivers. The direct observations of the shifts in the GZ community diversity and distribution will require long-term dataset, that is currently still missing. Some caution in the interpretation of our results must also remain due to the potential timing bias. Although our sampling campaign was undertaken within a relatively narrow time window (two weeks), this still might have been long enough to capture phenological differences among the GZ at the two transects, leading to differences in their abundances (Søreide et al., 2010). We thus emphasize that although our data on the GZ spatial and vertical abundance conform to the expected summer distribution of zooplankton, and reveal a strong dependence on the Atlantic waters, further reasoning on the potential effects of the progression of Atlantification on the GZ community requires a long-term dataset.
+
+5. Conclusions
+
+This study constitutes the first diversity baseline for the vertical distribution of the gelatinous zooplankton in the Fram Strait (Arctic Ocean), which is the main pathway for Atlantic waters into the Arctic. The distributions of GZ abundance, diversity and demography were shaped by an intricate network of factors, of which sampling depth and bathymetric zone were the most important. These GZ community descriptors were also found to reflect particularly well the distribution pattern of water masses. Our data, although temporarily limited, allow for the prognosis that with the observable warming and strengthening of the Atlantic water inflow to the Arctic, referred to as Atlantification (Polyakov et al., 2017), the local GZ community of the Fram Strait will undergo significant remodelling. We showed that the GZ community found along the southern transect was more abundant and that the GZ associated with Atlantic waters was dominated by A. digitale, abundance of which constituted c. 66% of the abundance of all GZ. We also demonstrated that the GZ abundance peaked at the intermediate depths (200–600 m), that corresponded with the extent of the West Spitsbergen Current. Its northward flow was strongest above the continental slope, thus rendering this particular community prone to reaching farthest north. Furthermore, we also describe the GZ community found in other water masses, and supported with a literature data, we offer a plausible prognosis of their future, that further supports the notion of the significant impact of Atlantification on the GZ community.
+
+Declaration of Competing Interest
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+Acknowledgements
+
+We wish to express our sincere gratitude to all those who have participated in the demanding plankton sampling in the Fram Strait on board of R/V Oceania (Institute of Oceanology PAS). Special thanks are due to Emilia Trudnowska for the time and the jointed work during the cruise and in the lab. MKM thanks Sławomir Kwaśniewski and Jacob Carstensen for a helpful discussion on the water masses. Finally, we thank the anonymous reviewers for their helpful suggestions that allowed us to improve the manuscript.
+
+This study was supported by the Polish Ministry of Science and Higher Education project KongHau_ZOOM (No. W37/Svalbard/2012). Work of MKM was financed by the Polish Ministry of Science and Higher Education Diamond Grant DI2014 020344 and the University of Gdańsk program Research Projects for PhD students and early career scientists no. 538-6250-B104-18. The work of AWZ was supported by a grant no. 2017/27/B/NZ8/01056 from the National Science Centre, Poland, while MG participation was funded by a grant no. 2017/25/B/NZ8/01100 from the National Science Centre (Tax4Fun) and she was also supported by the Ministry of Science and Higher Education Outstanding Young Scientist Scholarship.
+
+Appendix A. Supplementary material
+
+Supplementary data to this article can be found online at https://doi.org/10.1016/j.pocean.2020.102414.
+
+References
+
+Andersen, O.G.N., 1981. Redescription of Marrus orthocanna (Kramp, 1942) (Cnidaria, Siphonophora). Steenstrupia 7, 293–307.
+Angel, M.V., Baker, A.C., 1982. Vertical distribution of the standing crop of plankton and micronekton at three stations in the Northeast Atlantic. Biol. Oceanogr. 2, 1–30. https://doi.org/10.1080/01965581.1982.10749451.
+
+14
+
+[NOTE: source oddities transcribed as printed, not corrected: "(Graham et al. 2001)" omits
+the comma before the year, while the same citation earlier in the sentence prints "Graham
+et al., 2001"; "Totton 1965" likewise omits the comma; "or fronts, a strong thermohaline
+gradients" and "This could indicate, that the Atlantification", "Therefore, it is also
+equally probable, that the Atlantification", "We showed, that the SSW harboured", "will
+require long-term dataset, that is currently still missing", "supported with a literature
+data", "a plausible prognosis of their future, that further supports", and "It must be
+noted however, that" are printed thus; "the increasing food availability" and "temporarily
+limited" (for "temporally") are as printed. Italics are not marked in this transcription:
+"A. digitale", "D. arctica", "M. ovum", "Marrus orthocanna" and the vessel name "Oceania"
+are set in italic on the page; in "D. arctica," (left column) and "A. digitale," (right
+column) the following comma falls inside the italic run. Colour is not marked: the
+author-date citations, cross-references ("Table 4", "Table 5", "Fig. 7"), the Appendix A
+DOI link, the whole Andersen 1981 reference entry, and the DOI URL of the Angel & Baker
+1982 entry are set in blue as hyperlinks. The degree sign in "1.1–13.3 °C" and "10 °C" is
+printed as a small raised ring. The apostrophe in "the Svalbard's fjords" is a right
+single quotation mark. The en dashes in "1.1–13.3", "200–600 m", "293–307" and "1–30" are
+printed as en rules; the hyphens in "shelf-breaks", "long-term", "Beszczynska-Möller" and
+in the grant number "538-6250-B104-18" are hyphens. The underscore in "KongHau_ZOOM" is
+printed as a low line. The two reference entries are set in a smaller face than the body
+text, each with a hanging indent.]

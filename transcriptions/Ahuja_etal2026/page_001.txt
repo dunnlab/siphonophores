@@ -1,0 +1,48 @@
+[PAGE 1]
+
+PLOS One
+
+Check for
+updates
+
+OPEN ACCESS
+
+Citation: Ahuja N, Schultz DT, Destanović D, Church SH, Picciani N, Munro C, et al. (2026) Siphonophore genome structure and the evolution of functional specialization. PLoS One 21(7): e0351247. https://doi.org/10.1371/journal.pone.0351247
+
+Editor: Phuping Sucharitakul, Tsinghua University, CHINA
+
+Received: January 7, 2026
+
+Accepted: May 25, 2026
+
+Published: July 2, 2026
+
+Copyright: © 2026 Ahuja et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+Data availability statement: The dataset(s) (scripts and code) supporting the conclusions of this article is(are) available in our github repository called Nanomia genome, https://github.com/dunnlab/nanomia_genome and at Zenodo https://doi.org/10.5281/zenodo.19629162. Raw reads for Nanomia septata
+
+RESEARCH ARTICLE
+
+Siphonophore genome structure and the evolution of functional specialization
+
+Namrata Ahuja 1*, Darrin T. Schultz 2, Dalila Destanović 1, Samuel H. Church 1, Natasha Picciani 1, Catriona Munro 3, Koto Kon-Nanjo 2, Tetsuo Kon 2, Maciej K. Mańko 4, Wendy Shi 1, Oleg Simakov 2, Casey W. Dunn 1
+
+1 Department of Ecology and Evolutionary Biology, Yale University, New Haven, United States of America, 2 Department of Neurosciences and Developmental Biology, University of Vienna, Vienna, Austria, 3 CNRS, Laboratoire de Biologie du Développement de Villefranche-sur-mer (LBDV), Sorbonne Université, Villefranche-sur-Mer, France, 4 Department of Marine Biology and Biotechnology, Laboratory of Plankton Biology, University of Gdańsk, Gdynia, Poland
+
+* namrata.ahuja@yale.edu
+
+Abstract
+
+Siphonophores (Cnidaria: Hydrozoa) are pelagic colonial marine invertebrates with many highly specialized bodies (zooids) within a single colony. Their unique biology and ecological importance have made them of particular interest, and motivate questions on their genomic structure, organization and content. To investigate siphonophores’ genome biology and develop resources for future studies, we sequenced the genome of a single Nanomia septata to chromosome scale. The haploid genome is 1.7 GB across 8 chromosomes. Relative to closely related hydrozoan genomes, this is an expansion in length but a reduction, from 15, in chromosome number, indicating multiple chromosomal fusion events. We found no genomic features clearly associated with siphonophores’ exceptional colony-level complexity. Gene families that play critical roles in cnidarian development have not expanded, and gene proximity was not generally correlated to their expression across zooids, except in male gonophores. To contextualize these observations, we sequenced 20 additional Nanomia specimens across the globe and mapped them to our chromosome-scale reference. Population genomic analyses support three previously recognized species of Nanomia, and at least one additional undescribed species. Present day overlapping geographic distribution of some Nanomia species raises the possibility of reproductive isolation in sympatry. Phylogenetic analyses of genome size indicate Nanomia septata and Nanomia cara have similarly large genomes around 1.7 GB, while Nanomia bijuga and an undescribed species show a secondary reduction to 0.7 GB. These results highlight how genomic factors have shaped colony organization and genome diversity within Nanomia.
+
+PLOS One | https://doi.org/10.1371/journal.pone.0351247	July 2, 2026	1 / 25
+
+[NOTE: First page of the article. The page has the PLOS One logo at the top left, then a narrow left-hand sidebar of journal metadata and a wide right-hand main column. Transcribed in this order — masthead, then the whole sidebar top to bottom, then the whole main column, then the running foot — so the two columns are not interleaved. The sidebar and the main column overlap vertically: the "Check for updates" badge and "OPEN ACCESS" line begin level with the Abstract heading, and the sidebar's Data availability statement is cut off mid-sentence at "Raw reads for Nanomia septata", continuing on page 2.
+
+PAGE FURNITURE: "PLOS One" at the head is the printed masthead, set beside the PLOS pictorial device. "Check for updates" is printed on two lines inside a small grey rectangular badge with a coloured circular Crossmark icon above it; that is the Crossmark stamp. The foot of the page carries the printed line "PLOS One | https://doi.org/10.1371/journal.pone.0351247   July 2, 2026" at the left and the page-number line "1 / 25" at the right; its three elements are separated by tabs above. All of this is page furniture, but it is printed and so is transcribed.
+
+Words broken across a printed line by a soft hyphen have been joined and the hyphen removed, per the protocol: "questions", "siphonophores’", "associated", "gonophores", "Nanomia", "geographic", "septata" in the abstract, and "https://github.com/dunnlab/nanomia_genome", "https://doi.org/10.5281/zenodo.19629162" and "https://doi.org/10.1371/journal.pone.0351247" in the sidebar, where the URLs break across lines (the Zenodo one breaking after "zeno-" with a printed hyphen).
+
+Superscript affiliation markers (1-4) after author names, and the leading bold superscript-style numerals in the affiliation block, are transcribed as ordinary digits on the line, since the markup has no superscript marker; "1*" after Ahuja is superscript 1 followed by superscript asterisk. Small green circular ORCID badges bearing the letters "iD" are printed immediately after the names Namrata Ahuja, Maciej K. Mańko and Casey W. Dunn, between the name and its superscript number; they are icons and are not transcribed as text. A padlock icon precedes "OPEN ACCESS".
+
+Diacritics as printed: "Destanović", "Mańko", "Gdańsk", "Développement", "Université". Apostrophes in "siphonophores’" are printed right single quotation marks. Note that the article title in the citation and the journal name in the footer are printed "PLoS One" in the citation but "PLOS One" in the masthead and footer, as given. Genus and species names are printed in italic; italics are not marked.]

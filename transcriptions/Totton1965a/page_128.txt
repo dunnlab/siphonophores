@@ -1,0 +1,60 @@
+[PAGE 123]
+
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 10 PRAYIDAE	123
+
+[TABLE]
+TABLE V
+Terminology of bracteal canals (see text-fig. 74, p. 132)
+Chun (1891)	Bigelow (1911a)	Bigelow (1911b)	Totton (1954)	Present Usage
+C.br.1, 4	...	...	Lateral	Lateral
+				Spur	Spur	c1
+C.br.2	C.4	C.br.3
+			C.B (Bassia)	C.4; ventral	Ventral	c4
+C.br.3	C.3	C.br.1;	C.3; dorsal	Dorsal	c3
+			apical trunk
+C.br.5, 6	C.1; C.2	C.br.2;	Longitudinal;	Hydroecial ch
+			hydroecial	hydroecial
+[/TABLE]
+
+There are two surface grooves present on the bract: (1) a shallow transverse groove on the narrow dorsal margin. The dorsal bracteal canal comes to the surface in this groove; (2) a deeper lateral (right) and vertical groove near the free end of the hydroecium. In life this larger groove probably makes a passage for a tentacle.
+
+Distribution: First taken – and studied alive – by Quoy & Gaimard near Adelaide, South Australia. Not recorded again until 1911, when Bigelow described a catch by 'Albatross' in the East Tropical Pacific. Moser (1925) described a specimen taken off Valparaiso in 1885, and lastly in 1931 Bigelow again recorded specimens taken in the East Tropical Pacific by 'Arcturus'. To these records must now be added catches by 'Discovery' and 'Discovery II' in the Atlantic and Pacific as follows:
+
+[TABLE]
+TABLE VI
+Praya dubia (Quoy & Gaimard)
+Date	Station	Net	Depth in m.	No. of nectophores
+28 x 1925	13° 25′N, 18° 22′W	N 450	0 – 900	2
+17 viii 1927	286	TYF	125 (– 0)	2
+28 viii 1927	297	TYF V	200 – 300 (– 0)	5
+23 iv 1931	672	TYF B	200 – 0	2 (1 still attached)
+11 v 1931	695	TYF B	370 – 0	2
+12 v 1931	696	TYF V	250 – 0	2, and base of stem
+12 v 1931	697	TYF B	460 – 0	1, and base of stem
+11 iv 1931	2635*	TYF B	280 – 0	2, and bracts
+17 x 1964	32° 36′N, 117° 31′W to	IKMT	330 – (180)	6, and bases of
+	32° 30·6N, 117° 30·7′W			two stems, etc.
+[/TABLE]
+
+Praya reticulata (Bigelow, 1911)
+
+Plate XXIII, figures 1–4
+
+Nectodroma reticulata Bigelow, 1911b, 1913, 1931
+? N. reticulata Bigelow & Leslie, 1930
+
+Polygastric phase (Pl. XXIII, figs. 1, 2, 4)
+
+Nectophores: Sub-cylindrical, transversely truncate at the upper end, obliquely truncate below, reaching 55 mm in length and 20 mm in greatest diameter. The hydroecial canal which is deep and extends the entire length of the ventral surface may be entirely covered over by lateral flaps, or the flaps may be widely separate.
+
+At about 1 cm or less from the upper end of the pallial canal (somatocyst) there is a median branch, which may have short lateral branches, extending dorsad at right angles to the pallial canal. The ascending and descending branches of the pallial canal (somatocyst) gives off short, lateral transverse branchlets, often bifurcated at the tip. They may be fewer in number (Bigelow, 1913) than shown in Bigelow's (1911b) figures here reproduced.
+
+The nectosac is proportionately smaller than in P. dubia. The sub-umbral canals are numerous and anastomose. At the apex of the nectosac there are about eight radial canals. They branch dicho-
+
+[FOOTNOTE] * At this station was taken also a specimen of the only other species P. reticulata.
+
+[NOTE: in Table V the superscript characters of the "Present Usage" column are printed as superscripts: c1, c4, c3, ch. Column boundaries in both tables are approximated with single tabs; where a cell is empty the tabs are carried through, and continuation lines of a cell are given on their own line.]
+
+[NOTE: in the last row of Table VI the coordinates read "32° 30·6N" (no prime mark printed after the minutes) and "117° 30·7′W" (prime mark printed); the decimal points in "30·6" and "30·7" are raised, mid-height points.]
+
+[NOTE: the "?" preceding "N. reticulata" in the synonymy is printed, and is the author's own query. No printed square brackets occur on this page.]

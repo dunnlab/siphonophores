@@ -1,0 +1,39 @@
+[PAGE 139]
+
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 11 HIPPOPODIIDAE	139
+
+of the neighbouring bell protrudes varies in shape with the age and position of the colony. The division into genera is not very sound: there is a single species of Hippopodius and four commonly called Vogtia. The stem-groups do not separate as eudoxids.
+
+[HANDWRITTEN] on
+
+Hippopodiids are probably closely related to prayids. The definitive, heteromorph nectophores of hippopodiids resemble the larval type, common to both these families, in that there is no downward prolongation of the pallial canal beyond its junction with the pedicular canal of the nectosac. Hippopodiids have no bracts on the stem-groups. Sufficient buoyancy must be provided by the exceptionally thick, gelatinous mesogloea of the nectophores.
+
+Chun (1897a) gave a good account of the relations between nectosome and siphosome. Owing to the fact that the upper part (nectosome) of the stem is deflexed and turned around the lower part (siphosome) in wide spiral turns, there would be little room for bracts in the comparatively narrow cylinder so formed when the siphosome is retracted into it (see Haeckel, 1888b, Pl. 29, fig. 7).
+
+In hippopodiids, as probably in all Calycophorae, the larval budding zones (for nectosome and siphosome) remain close together, and growth proceeds in opposite directions, outwards from this point. By contrast in physonects growth proceeds in the same direction for each zone, so that in the Physonectae the two zones become separated by the length of the nectosome, the nectosomal zone being carried upwards relative to the other growth zone.
+
+The history of the treatment and nomenclature of the family was given by Haeckel (1888b).
+
+Genus: HIPPOPODIUS Quoy & Gaimard, 1827
+
+Monotypic genus for Hippopodius hippopus (Forskål, 1776).
+
+I see no adequate reason for thinking that Hippopodius hippopus should be regarded as generically distinct from Vogtia spp., but for the sake of maintaining stability in nomenclature I refrain from using one generic name for the five species, in spite of the fact that Schneider (1898) and Moser generally did so.
+
+Hippopodius hippopus (Forskål, 1776)
+Plate XXVIII, figures 1–2; Plate XXIX, figures 1–3
+
+Gleba hippopus Forskål, 1776
+H. neapolitanus Kölliker, 1853
+Polyphyes ungulata Haeckel, 1888b
+H. luteus Leloup, 1933
+
+There have been many descriptions of the general morphology of specimens of this species and of their development. The sequence of developmental stages can be followed in the following sequence of figures: Metschnikoff (1874, Pl. XI, figs. 5–8); Chun (1888b, Pl. 2, figs. 1–3); Moser (1924a, Pl. 3, fig. 2); Chun (1913, figs. 5, 6; 1897a, figs. 6b, 6c; and 1913, figs. 7, 8). The relationship between the two budding zones in the fully developed animal was best illustrated by Chun (1897a, fig. 11) and Richter (1907, Pl. 28, fig. 27).
+
+Nectophores:   The larval nectophore is shed and its place taken by a series of secondary heteromorph ones, none of which are normally shed. The definitive nectophore (text-fig. 81, 1a–c) is horse-shoe shaped, up to about 19 mm in width, with four rounded dorsal knobs, varying in size and forming an arc above the ostium (see Bigelow & Sears, 1937, text-figs. 15–19). In life, the nectosac is not flat as has been suggested, but utilizes a considerable volume of water in forming a propulsive jet (see Totton, 1954, p. 99).
+
+[NOTE: the [HANDWRITTEN] "on" is an ink manuscript correction in the head margin of the page, written above the printed word "of" in the first line's "with the age and position of the colony", with a diagonal ink stroke drawn through that printed "of". The printed reading is retained in the transcription above and the correction recorded separately; verified at 9x.]
+
+[NOTE: numerals verified digit by digit: 1897a; Haeckel, 1888b, Pl. 29, fig. 7; Haeckel (1888b); Quoy & Gaimard, 1827; Forskål, 1776 (twice); Schneider (1898); Plate XXVIII, figures 1–2; Plate XXIX, figures 1–3; Kölliker, 1853; Haeckel, 1888b; Leloup, 1933; Metschnikoff (1874, Pl. XI, figs. 5–8); Chun (1888b, Pl. 2, figs. 1–3); Moser (1924a, Pl. 3, fig. 2); Chun (1913, figs. 5, 6; 1897a, figs. 6b, 6c; and 1913, figs. 7, 8); Chun (1897a, fig. 11); Richter (1907, Pl. 28, fig. 27); text-fig. 81, 1a–c; 19 mm; Bigelow & Sears, 1937, text-figs. 15–19; Totton, 1954, p. 99. The ranges use en dashes throughout.]
+
+[NOTE: "HIPPOPODIUS" in the genus heading is printed in bold italic capitals, as is "Hippopodius hippopus" in the species heading. The four synonymy lines are set smaller than the body, with the taxon names italic and the authorities roman; "H." abbreviates Hippopodius in two of them. Forskål's name carries a ring over the a and Kölliker's a diaeresis. No printed square brackets occur on this page.]

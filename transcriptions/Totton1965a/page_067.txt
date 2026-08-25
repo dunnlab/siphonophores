@@ -1,0 +1,47 @@
+[PAGE 62]
+[RUNNING HEAD] 62	A SYNOPSIS OF THE SIPHONOPHORA
+
+Genus: MARRUS Totton, 1954
+
+Type species Marrus antarcticus Totton, 1954.
+
+A group of three unicornuate Agalmidae known only from fragments, whose nectophores have straight (unlooped) lateral radial canals.
+
+Marrus antarcticus Totton, 1954
+Text-figures 26, 27
+
+A species associated with the antarctic zone and with water that has recently left the zone, or is in close proximity. A deep-water or mid-water species which is dioecious – an unusual condition for agalmids.
+
+Pneumatophore:   Carrot-shaped, 4–4·5 mm length, 1 mm diameter.
+
+Nectophores (text-fig. 26):   17 mm × 15 mm × 9 mm. Lateral facets not cut off by a vertical lateral ridge. Ridges V K′ and V K″ (terminology of Claus, 1879) present though not easily seen without staining. Nectosac without musculature on its broad ad-axial face. Lateral radial canals straight, without sigmoid loops, pigmented deep, rich, orange-scarlet.
+
+[FIGURE]
+A
+B
+0
+1.m.m.
+C
+C.rad. d.
+C.rad.v.
+C.rad.lat
+C.ped
+C.pa
+D
+C.radd.
+Vel.
+C.circ.
+C.rad.lat
+Ost.
+C.rad.lat
+N.s
+C.pa
+C.ped
+C.rad.v.
+
+FIG. 26.   Marrus antarcticus Totton. Nectophores
+A, under side; B, upper side; C, lateral view; D, adaxial view, × 4.6
+C.circ, C.rad.d, C.rad.lat, C.rad.v = circular, dorsal, lateral and ventral radial canals; C.pa = pallial canal; C.ped = pedicular canal; Ns = nectosac; Vel = velum; Ost = ostium (from Totton, 1954, fig. 20).
+[/FIGURE]
+
+[NOTE: the folio 62 is at the outer (left) edge of the running head. "MARRUS" in the genus heading is bold italic capitals; "Marrus antarcticus" in the species heading bold italic. "V K′" and "V K″" carry a printed prime and double prime respectively. Text-fig. 26 occupies the lower half of the page as four hand-drawn panels: A upper left, B upper right, C lower left, D lower right. The lettering listed inside [FIGURE] above is all the text printed within the drawings, grouped panel by panel in reading order — A: the panel letter only; B: the panel letter and a horizontal scale bar lettered "0" at its left end and "1.m.m." at its right; C: the panel letter, "C.rad. d." above and, along the foot, "C.rad.v.", "C.rad.lat", "C.ped", "C.pa"; D: the panel letter, "C.radd.", "Vel.", "C.circ.", "C.rad.lat" (at the upper left of the drawing), "Ost.", a second "C.rad.lat" (at the right), "N.s", and along the foot "C.pa", "C.ped", "C.rad.v.". All are hand-lettered in a sloping style; the "1" of "1.m.m." is a bare stroke and the "0" a small circle. Note that the dorsal-radial-canal label is lettered "C.rad. d." with a space in panel C but "C.radd." with no separating stop in panel D, while the caption spells it "C.rad.d"; and the nectosac label is lettered "N.s" in the drawing but "Ns" in the caption. All are as printed. The "=" signs in the caption are printed as a double-stroke equals glyph, and "× 4.6" uses a full point where the mid-dot is used elsewhere.]

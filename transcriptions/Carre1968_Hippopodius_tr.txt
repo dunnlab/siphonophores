@@ -1,0 +1,287 @@
+<<<PAGE pdf=1 file=page_001.txt>>>
+[PAGE 1: unnumbered]
+
+[NOTE: French original, scanned; legible throughout. First page of the article; no printed folio, the journal pagination appearing only in the imprint line at the foot ("pp. 417-420"). The title, byline and section heads are set in a sans-serif face, the body in a serif face; the "Résumé" is set smaller and more tightly leaded than the body text. Curly apostrophes are used throughout the body ("d'œufs", "jusqu'à", "l'espèce") but the title has a straight one ("D'HIPPOPODIUS"). The imprint line "CAHIERS DE BIOLOGIE MARINE" is in small capitals. A short handwritten cursive insertion, with a caret-like stroke, sits between the last two lines of the final paragraph above the word "appartenant"; it is not legible.]
+
+SUR LE DÉVELOPPEMENT POST-LARVAIRE D'HIPPOPODIUS HIPPOPUS (FORSKAL).
+
+par
+
+Danièle Carré
+
+C.N.R.S., Station zoologique - Villefranche-sur-Mer.
+
+Résumé
+
+Divers stades du développement post-larvaire d'Hippopodius hippopus sont décrits d'après des spécimens récoltés dans le plancton. La morphologie générale de ces stades correspond à celle décrite jusque-là pour les larves d'Hippopodius mais des caractères importants n'avaient pas été précisés, ce qui a conduit à des erreurs de détermination et à des confusions. La cloche larvaire ne possède que deux canaux radiaires et la première cloche définitive a seulement deux protubérances, ce qui la différencie des cloches définitives suivantes pourvues de quatre protubérances.
+
+Introduction
+
+Metschnikoff (1874) a obtenu des fécondations d'œufs d'Hippopodius hippopus (= Gleba hippopus) et suivi les premiers stades du développement jusqu'à la calyconula. Après lui, quelques observations fragmentaires ont été faites sur des stades post-larvaires attribués à Hippopodius hippopus par Chun (1888, 1913) et Moser (1924) qui, comme Metschnikoff, dessinent la cloche larvaire avec quatre canaux radiaires.
+
+En 1954, Totton décrit une larve d'Hippopodidae dont la cloche primaire ne possède que deux canaux radiaires et dont la première cloche définitive présente deux protubérances comme les cloches définitives de Vogtia glabra. Ce dernier caractère le conduit à attribuer cette larve à l'espèce Vogtia glabra.
+
+Nous avons recueilli, dans des pêches planctoniques effectuées entre 50 m et la surface, dans la rade de Villefranche-sur-Mer, de nombreux stades de développement que nous devons attribuer à l'espèce Hippopodius hippopus. A notre connaissance, ces spécimens ne correspondent à aucune description donnée pour cette espèce. Par contre, la post-larve figurée par Totton et identifiée comme appartenant à l'espèce Vogtia glabra est identique à l'un des stades que nous avons observé et que nous décrivons.
+
+[HANDWRITTEN] [illegible]
+
+CAHIERS DE BIOLOGIE MARINE
+Tome IX - 1968 - pp. 417-420
+
+<<<PAGE pdf=2 file=page_002.txt>>>
+[PAGE 418]
+
+[NOTE: French original, scanned; legible throughout. Running head "DANIÈLE CARRÉ" in italic capitals with the folio 418 at the outer edge. Section heads are set in sans-serif; in that face the figure 1 and the capital I are the same plain vertical stroke, so "(Pl. I, 1 et Fig. 1)" is read from context. French spacing (a thin space before the colon and semicolon, and inside the guillemets « ») is preserved as ordinary spaces. In the figure caption the abbreviations are printed with a space, "Eb. C." and "Eb. N.", while the labels inside the drawing have none, "Eb.C." and "Eb.N.". A lone "2" is typeset at the foot left — the sequential leaf number of this bilingual compilation. A few isolated specks of scanner dirt lie in the left and right margins.]
+
+[RUNNING HEAD] DANIÈLE CARRÉ
+
+La larve calyconula (Pl. I, 1 et Fig. 1).
+
+La cloche larvaire, de 6 mm de haut, est presque sphérique. La sous-ombrelle, relativement petite, possède deux canaux radiaires : un canal dorsal et un canal ventral qui réunissent directement le canal marginal au canal pédiculaire. Ce dernier relie la sous-ombrelle à l'hydroécie, creusée ventralement, aplatie dans le plan sagittal et qui s'avance jusqu'au niveau de l'apex sous-ombrellaire.
+
+L'ébauche du stolon est insérée au fond de l'hydroécie le long de l'oléocyste qui lui est perpendiculaire. Sur la partie supérieure du pédicule du jeune stolon, s'observent une à deux ébauches de cloches
+
+[FIGURE]
+S.
+Eb.N.
+Eb.C.
+C.P.
+G.P.
+H.
+C.D.
+C.V.
+
+FIG. 1
+Calyconula d'Hippopodius hippopus.
+C.D. : canal dorsal ; C.P. : canal pédiculaire ; C.V. : canal ventral ; Eb. C. : ébauche cormidienne ; Eb. N. : ébauche du premier nectophore définitif ; G.P. : gastrozoïde primaire ; H. : hydroécie ; S. : somatocyste.
+[/FIGURE]
+
+tandis que, sur la face inférieure, un peu en arrière du gastrozoïde primaire et de son filament pêcheur, bourgeonnent les ébauches de deux à trois cormidies.
+
+La post-larve (Pl. I, 2 à 5).
+
+Le stolon s'allonge en différenciant des cormidies tandis que les ébauches des nectophores grandissent. La première donne une jeune cloche « hétéromorphe » (appelée encore première cloche adulte ou première cloche définitive) à quatre canaux radiaires, aplatie, en forme de fer à cheval avec deux protubérances au-dessus du nectosac. Simultanément, la région apicale de la cloche larvaire grandit, son hydroécie
+
+2
+
+<<<PAGE pdf=3 file=page_003.txt>>>
+[PAGE 3: unnumbered]
+
+[NOTE: French original, scanned. A full-page halftone plate of nine photographs with its legend beneath; the plate leaf carries no printed folio. The line above the legend has "DANIÈLE CARRÉ" in small capitals at the left and "PLANCHE I" in small capitals centred. Inside the plate the protuberance labels are engraved "P1" and "P2" with a small full-size numeral, while the legend sets them as subscripts, "P₁" and "P₂"; both are given as printed. Two scale bars are engraved, one under panel 2 and one under panel 8, both reading "2,5 mm." — the decimal comma of the second is very faint. In the legend the colon after the italic "pus" is itself italic. French spacing before the colons and semicolons is preserved as ordinary spaces. Panel numbers 1-9 are engraved at the lower left of each panel.]
+
+[PLATE]
+P1
+1
+2
+2,5 mm.
+3
+P1
+4
+5
+6
+P2
+P2
+P1
+7
+8
+2,5 mm.
+9
+
+DANIÈLE CARRÉ	PLANCHE I
+
+1. stade calyconula : vue latérale droite ; 2. stade à un nectophore définitif : vue ventro-latérale gauche ; 3. stade à un nectophore définitif : vue apicale ; 4. stade à deux nectophores définitifs : vue latérale ; 5. stade à deux nectophores définitifs : vue apicale ; 6. jeune colonie après la chute du nectophore larvaire : vue apicale ; 7. jeune colonie à trois nectophores définitifs : vue latérale ; 8. jeune colonie à six nectophores définitifs : vue apicale ; 9. colonie d'Hippopodius hippopus : vue latérale.
+
+P₁ : protubérances du premier nectophore définitif ; P₂ : protubérances du second nectophore définitif.
+[/PLATE]
+
+<<<PAGE pdf=4 file=page_004.txt>>>
+[PAGE 419]
+
+[NOTE: French original, scanned; legible throughout. Running head "HIPPOPODIUS HIPPOPUS" in italic capitals, folio 419 at the outer edge. Section heads in sans-serif. Four short handwritten cursive annotations in ink have been added between the lines of the text, all in the right half of the type block: one above "puisque", one above "proviennent", one below "du matériel", and one between "différences" and "peuvent". None of them is legible, and they are recorded below at the points where they occur. French spacing before the colon is preserved as an ordinary space. Printed as-is: "A ce stade" with an unaccented capital A. At the foot right is the sequential leaf number of this bilingual compilation; the glyph is broken in the scan and reads as a 3 only from the sequence (page 418 carries a "2").]
+
+[RUNNING HEAD] HIPPOPODIUS HIPPOPUS
+
+s'évase considérablement et s'allonge dans le sens antéro-postérieur pour loger la première cloche définitive.
+
+L'ébauche de la seconde cloche définitive se développe à l'opposé de la première qu'elle repousse peu à peu hors de l'hydroécie, devenue très large et aplatie. Sa morphologie est celle d'une cloche d'Hippopodius hippopus adulte avec quatre protubérances au-dessus du nectosac (dont deux internes qui peuvent être peu développées) et quatre canaux radiaires.
+
+La jeune colonie (Pl. I, 6 à 9).
+
+Quelques jours après le bourgeonnement de la seconde cloche apparaît la troisième cloche définitive, à la base du pédoncule de la précédente. Elle présente aussi quatre protubérances et tous les caractères systématiques des nectophores d'Hippopodius hippopus adulte. A ce stade, la cloche larvaire tombe et dégénère.
+
+Le bourgeonnement de nouvelles cloches se poursuit et, à partir du stade à huit nectophores, les premières cloches natatoires définitives commencent à se détacher tandis que de nouveaux bourgeons continuent à se développer.
+
+Discussion
+
+L'observation de divers stades larvaires et post-larvaires, formant une série continue jusqu'à la colonie âgée d'Hippopodius hippopus, nous a permis de les attribuer avec certitude à cette espèce.
+
+La cloche larvaire présente deux canaux radiaires et la première cloche définitive possède deux protubérances au-dessus du nectosac. Ces observations infirment celles des auteurs précédents concernant la même espèce (selon la synonymie admise actuellement) puisque Metschnikoff, Chun et Moser attribuent à la cloche larvaire d'Hippopodius quatre canaux radiaires. Il est possible que ces auteurs aient observé et décrit des larves de Vogtia glabra, espèce rare vivant en eaux profondes (Chun signale que ses spécimens proviennent de pêches profondes). Il est également possible que les canaux n'aient pas toujours été bien vus, surtout si les auteurs ont travaillé sur du matériel fixé ou en mauvais état, et que quatre canaux aient été dessinés par analogie avec ce que l'on observe en général chez les nectophores de Siphonophores.
+
+[HANDWRITTEN] [illegible]
+[HANDWRITTEN] [illegible]
+[HANDWRITTEN] [illegible]
+
+D'autre part, il semble que la post-larve figurée par Totton et attribuée à Vogtia glabra corresponde au stade du développement d'Hippopodius hippopus représenté par la figure 2, planche I.
+
+La faculté de renouvellement des nectophores et les différences morphologiques qui s'ensuivent chez certains Siphonophores peuvent rendre leur étude systématique difficile sans le maintien des animaux en élevage.
+
+[HANDWRITTEN] [illegible]
+
+Hippopodius hippopus est une espèce très fréquente dans les eaux de surface de la rade de Villefranche-sur-Mer. Il était utile de connaître ces stades larvaires et post-larvaires qui ne pouvaient être déterminés avec certitude jusque-là. Nous espérons que l'étude détaillée du développement larvaire pourra être entreprise ultérieurement.
+
+[?3]
+
+<<<PAGE pdf=5 file=page_005.txt>>>
+[PAGE 420]
+
+[NOTE: French original, scanned; legible throughout. Last page of the French article. Running head "DANIÈLE CARRÉ" in italic capitals with the folio 420 at the outer edge. The German "Zusammenfassung" and English "Summary" are the author's own, in the original journal, and both contain misprints which are transcribed exactly as printed: in the German, "beschrieben doch wurden waren wichtige Karaktere nicht präzisiert", "Känale" for "Kanäle", "forgenden" for "folgenden", and "auswückse" (lower-case, for "Auswüchse"); in the English, "plancton", "the general morphology of the latter are in agreement", "for Hippopodius larval", "two radial canal", "which differentiates itself", and "granted with fours knobs". In the bibliography, author surnames are in small capitals with the forename initials also in small capitals, entries are separated from their titles by an em dash, journal titles and the abbreviation "pp." are italic. Printed as-is: "Stadien" for Metschnikoff's "Studien"; "Ueber den wechsel" with a lower-case w; "Ber Sachs. Ges. (Akad.) Wiss."; "Die larvalen verhältnisse" with a lower-case v. In the Moser entry the final r of "neuer" is broken in the scan and is flagged. A lone "4" is typeset at the foot left — the sequential leaf number of this bilingual compilation, and a short printer's rule sits below it at the very foot of the leaf. A few isolated specks of scanner dirt lie in the lower half of the page.]
+
+[RUNNING HEAD] DANIÈLE CARRÉ
+
+Zusammenfassung
+
+Verschiedene Stadien der postlarvalen Entwicklung von Hippopodius hippopus werden beschrieben nach Individuen, die im Plankton gefunden wurden. Die allgemeine Morphologie dieser Stadien entspricht der jenigen, die bisher für die Larven von Hippopodius beschrieben doch wurden waren wichtige Karaktere nicht präzisiert : die larvale Glocke besitzt bloss 2 radiäre Känale und die erste definitive Glocke besitzt nur 2 Höcker, was sie von den forgenden definitiven Glocken differenziert, die 4 auswückse haben.
+
+Summary
+
+Various post larval stages of Hippopodius hippopus are described from specimens collected in the plancton. The general morphology of the latter are in agreement with that already described for Hippopodius larval but some important features had not been specified which has led to errors of determination and mistakes. The larval nectophore has only two radial canal and the first definitive nectophore has only two knobs which differentiates itself from the following definitive nectophores granted with fours knobs.
+
+INDEX BIBLIOGRAPHIQUE
+
+CHUN, C., 1888 a. — Bericht über eine nach den Canarischen Inseln im Winter 1887-1888 ausgeführte Reise. S.B. Preuss. Akad. Wiss. for 1888, pp. 1141-1173.
+CHUN, C., 1888 b. — Die pelagische Tierwelt in grösseren Meerestiefen und ihre Beziehungen zu der Oberflächen fauna. Bibl. Zool. Stuttgart, 1, pp. 12-17, 1 pl.
+CHUN, C., 1897. — Über den Bau und die morphologische Auffassung der Siphonophoren. Verh. Dtsch. Zool. Ges., VII, pp. 48-111, 29 text-fig.
+CHUN, C., 1913. — Ueber den wechsel der Glocken bei Siphonophoren. Ber Sachs. Ges. (Akad.) Wiss., 65, pp. 27-41, 8 fig.
+METSCHNIKOFF, E., 1874. — Stadien über die Entwicklung der Medusen und Siphonophoren. Zeit. Wiss. Zool., 24, pp. 15-83, 10 pl.
+MOSER, F., 1924. — Die larvalen verhältnisse der Siphonophoren in [?neuer] Beleuchtung. Zoologica. Stuttgart, 28, 1 (73), pp. 1-52, 5 pl., 35 fig.
+TOTTON, A.K., 1954. — Siphonophora of the Indian Ocean together with systematic and biological notes on related species from other oceans. Disc. Rep., 27, pp. 1-161, 12 pl., 83 fig.
+
+4
+
+<<<PAGE pdf=6 file=page_006.txt>>>
+[PAGE 6: unnumbered]
+
+[NOTE: English translation begins here. Born-digital, clean typography, fully justified, no printed folio and no running head. The translation is unattributed. The bracketed "[sic]" after "Hippopopidae" is the translator's own editorial mark, printed in the text, and not a transcriber's insertion. Curly quotation marks are used around "heteromorph". The heads "Abstract", "Introduction", "Calyconula larva" and "The post-larva" are bold; the parenthetical plate references beside the last two are roman. Printed as-is: "The general morphology of the latter are in general agreement", "which differentiates it from the following definitive nectophores", and "are budded the outlines of the second and third cormidia" where the French original reads "deux à trois cormidies".]
+
+ON THE POST-LARVAL DEVELOPMENT OF HIPPOPODIUS HIPPOPUS (FORSKAL)
+
+Danièle Carré
+
+Cahiers de Biologie Marine 9, 417-420; 1968
+
+Abstract
+
+Various post-larval stages of Hippopodius hippopus are described from specimens collected from the plankton. The general morphology of the latter are in general agreement with that described already for larvae of Hippopodius hippopus, but some important features have not been specified, which has led to errors of determination and mistakes. The larval bell has only two radial canals, and the first definitive nectophore has only two knobs, which differentiates it from the following definitive nectophores, which are provided with four knobs.
+
+Introduction
+
+Metschnikoff (1874) managed to fertilise some eggs of Hippopodius hippopus (=Gleba hippopus) and followed the first stages of development as far as the calyconula. Subsequently, some fragmentary observations have been made on post-larval stages attributed to Hippopodius hippopus by Chun (1888, 1913) and Moser (1924) who, like Metschnikoff, figured the larval bell with four radial canals.
+
+In 1954, Totton described a larval Hippopopidae [sic] in which the primary bell possessed only two radial canals, and of which the first definitive bell showed two knobs, like the definitive bell of Vogtia glabra.
+
+We have collected, in plankton nets fished between 50 m and the surface in the Bay of Villefranche-sur-Mer, numerous stages of development that we can attribute to the species Hippopodius hippopus. To our knowledge, these specimens correspond to none of the descriptions previously given for this species. In contrast, the post-larva figured by Totton and identified as belonging to Vogtia glabra is identical to one of the stages that we have observed and which we will describe.
+
+Calyconula larva (Pl. I, 1 & Fig. 1)
+
+The larval bell, 6 mm in height, is almost spherical. The relatively small subumbrella has two radial canals: a dorsal canal and a ventral canal that directly unite the marginal canal to the pedicular canal. The latter joins the subumbrella to the ventrally hollowed hydroecium, which is flattened in the sagittal plane and that stretches down as far as the level of the apex of the subumbrella.
+
+The outline of the stolon is inserted at the bottom of the hydroecium alongside the oleocyst, which itself is perpendicular. On the upper part of the peduncle of the young stolon, one sees one or two buds of nectophores, while on the lower face, a little to the rear of the primary gastrozooid and its tentacle, are budded the outlines of the second and third cormidia.
+
+The post-larva (Pl. I, 2-5)
+
+The stolon elongates and differentiates some cormidia, while the buds of the nectophores enlarge. The first becomes a young “heteromorph” nectophore (also called the first adult nectophore or the first definitive nectophore) with four radial canals, flattened, horseshoe-shaped, with two knobs above the nectosac. Simultaneously, the apical part of the larval nectophore enlarges, its hydroecium widening considerably, and it lengthens in the antero-posterior sense to accommodate the first definitive nectophore.
+
+<<<PAGE pdf=7 file=page_007.txt>>>
+[PAGE 2]
+
+[NOTE: English translation, born-digital and fully legible. The folio "2" is centred at the head of the page; this is the translation's own pagination, restarting at 1 on the previous page. Figure 1 is a scan of the same line drawing as Figure 1 of the French original earlier in this PDF, so its internal lettering is the French original's; the caption beneath it is the translator's new English caption set in born-digital type, and it drops the French thin space before the colons. Printed as-is: "is developed so as oppose the first", "according to the actual admitted synonymy", "Chun signalled that his specimen came from deep nets", and "four canals have been designated by analogy". The translation of the section "The young colony" is shorter than the French, which has a second paragraph here.]
+
+2
+
+The bud of the second definitive nectophore is developed so as oppose the first, which is pushed back little by little beyond the hydroecium, and becomes very large and flattened. Its morphology is that of a nectophore of an adult Hippopodius hippopus, with four knobs above the nectosac (of which the two inner ones are less well developed) and four radial canals.
+
+[FIGURE]
+S.
+Eb.N.
+Eb.C.
+C.P.
+G.P.
+H.
+C.D.
+C.V.
+
+Fig. 1. Calyconula of Hippopodius hippopus.
+C.D.: dorsal canal; C.P.: pedicular canal; C.V.: ventral canal; Eb.C.: cormidial bud; Eb.N.: bud of first definitive nectophore; G.P.: primary gastrozooid; H.: hydroecium; S.: somatocyst.
+[/FIGURE]
+
+The young colony (Pl. I, 6-9)
+
+Some days after the budding of the second nectophore, the third definitive nectophore appears at the base of the peduncle of the previous one. It also has four knobs and all the systematic characters of nectophores of an adult Hippopodius hippopus. At this stage the larval nectophore falls off and degenerates.
+
+Discussion
+
+Observations on various larval and post-larval stages, forming a continuous series as far as an old colony of Hippopodius hippopus, allow us to attribute them with certainty to this species.
+
+The larval nectophore has two radial canals and the first definitive nectophore has two knobs above the nectosac. These observations nullify those of preceding authors with regard to the same species (according to the actual admitted synonymy) because Metschnikoff, Chun and Moser attributed four radial canals to the larval nectophore of Hippopodius hippopus. It is possible that those authors had been observing and describing some larvae of Vogtia glabra, a rare species living in deep water (Chun signalled that his specimen came from deep nets). It is equally possible that the canals have not always been well observed, especially if the authors have worked on preserved material or in a poor state, and that four canals have been designated by analogy with what one observes in general amongst siphonophore nectophores.
+
+<<<PAGE pdf=8 file=page_008.txt>>>
+[PAGE 3]
+
+[NOTE: English translation, born-digital. The folio "3" is centred at the head of the page. The plate is a scan of Plate I of the French original earlier in this PDF — the same halftone appears twice in the document, once in each half — so its engraved lettering (the panel numbers 1-9, the "P1" and "P2" protuberance labels, and the two "2,5 mm." scale bars) is the French original's. The caption beneath is the translator's new English one, set centred with a line per numbered item, and it omits the French legend's closing note explaining P₁ and P₂. The last item, 9, ends without a full stop.]
+
+3
+
+[PLATE]
+P1
+1
+2
+2,5 mm.
+3
+P1
+4
+5
+6
+P2
+P2
+P1
+7
+8
+2,5 mm.
+9
+
+Plate I.
+1.	Calyconula stage: right lateral view;
+2.	Stage with a definitive nectophore, left ventro-lateral view;
+3.	Stage with a definitive nectophore, apical view;
+4.	Stage with two definitive nectophores, lateral view;
+5.	Stage with two definitive nectophores, apical view;
+6.	Young colony after the release of the larval nectophore, apical view;
+7.	Young colony with three definitive nectophores, lateral view;
+8.	Young colony with six definitive nectophores, apical view;
+9.	Colony of Hippopodius hippopus, lateral view
+[/PLATE]
+
+<<<PAGE pdf=9 file=page_009.txt>>>
+[PAGE 4]
+
+[NOTE: Last page of the document. English translation, born-digital and fully legible; the folio "4" is centred at the head of the page and the lower half of the page is blank. The first two lines are the closing note of the Plate I legend, explaining P1 and P2; the plate itself is on the preceding page, and the note is left where it is printed rather than moved. Here the labels are set as "P1" and "P2" with full-size numerals, whereas the French original's legend uses subscripts. The reference list is set with a hanging indent, journal titles italic and volume numbers bold; each entry is kept on its own line. Printed as-is: "Bericht über eine nach Canarischen Inseln" (the French original has "nach den Canarischen Inseln"), "Wiss. For 1888" with a capital F, "Ueber den wechsel" with a lower-case w, "Die larvalen verhältnisse" with a lower-case v, "Medusan" for "Medusen", and "12 pl. 83 fig." with no comma between them.]
+
+4
+
+P1: protuberances of primary definitive nectophore; P2: protuberances of second definitive nectophore.
+
+On the other hand, it seems that the post-larva figured by Totton and attributed to Vogtia glabra corresponds to the stage of development of Hippopodius hippopus represented in Pl. I, fig. 2.
+
+The faculty for replacement of the nectophores and the morphological differences that follow amongst certain siphonophores can render their systematic study difficult without maintaining the animals in culture.
+
+Hippopodius hippopus is a species very frequently found in the surface waters of the Bay of Villefranche-sur-Mer. It has been utilised to gain knowledge of its larval and post-larval stages, which previously have not been established with absolute certainty. We hope that detailed studies of larval development will be able to be undertaken subsequently.
+
+References
+
+Chun, C. 1888a. Bericht über eine nach Canarischen Inseln im Winter 1887-88 ausgeführte Reise. S.B. Preuss. Akad. Wiss. For 1888, 1141-1173.
+Chun, C. 1888b. Die pelagische Tierwelt in grösseren Meerestiefen und ihre Beziehungen zu der Oberflächen fauna. Bibl. Zool. Stuttgart 1, 12-17, 1 pl.
+Chun, C. 1897. Über den Bau und die morphologische Auffassung der Siphonophoren. Verh. Dtsch. Zool. Ges. VII, 48-111, 29 text-figs.
+Chun, C. 1913. Ueber den wechsel der Glocken bei Siphonophoren. Ber. Sachs. Ges. (Akad.) Wiss. 65, 27-41, 8 fig.
+Metschnikoff, E. 1874. Studien über die Entwicklung der Medusan und Siphonophoren. Zeit. Wiss. Zool. 24, 15-83, 10 pl.
+Moser, F. 1924. Die larvalen verhältnisse der Siphonophoren in neuer Beleuchtung. Zoologica, Stuttgart 28, 1 (73), 1-52, 5 pl., 35 fig.
+Totton, A.K. 1954. Siphonophora of the Indian Ocean together with systematic and biological notes on related species from other oceans. Disc. Rep. 27, 1-161, 12 pl. 83 fig.

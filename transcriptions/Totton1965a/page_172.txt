@@ -1,0 +1,74 @@
+[PAGE 167]
+
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 12 DIPHYIDAE	167
+
+Lensia hotspur Totton, 1941
+Text-figure 102C–E
+
+L. hotspur Totton, 1954 (Non L. hotspur Totton, 1941 figure 13 (= L. challengeri) )
+
+Polygastric phase
+
+Anterior nectophore (text-fig. 102C, D, E):   Up to 4·5 mm long, five-ridged, with or without a shallow hydroecium that lies below the level of the ostium. The somatocyst is oblique, ovate and very shortly stalked. In Red Sea specimens the base of the somatocyst sometimes projects down slightly below the baso-lateral margin, but there are intermediates. In 1954, when more material became available I excluded the specimen shown earlier (1941, fig. 13) from Carnegie Cruise VII, station 36 (see L. challengeri, p. 176).
+
+Posterior nectophore:   There is a rounded notch in the distal edge of the mouth-plate. The upper (articular) end of the left ventral wing is not square but angular.
+
+L. hotspur occurs side by side with L. subtiloides in the Red Sea. L. hotspur can be distinguished at once by the fact that there is practically no pedicel to its relatively shorter somatocyst.
+
+Eudoxid phase – not identified.
+
+I feel some doubt about the validity of this species, but the authors have not sent me specimens to check.
+
+[NOTE: the sentence beginning "I feel some doubt..." and its run-on word "check" are struck
+through by a hand-drawn horizontal line across both printed lines (a reader's annotation,
+not printed rule); the word "check" is also underlined and a short stray stroke precedes it
+in the left margin. The printed text under the line is fully legible and is given above.]
+
+[FIGURE]
+A
+
+0	3mm
+
+B
+
+1 mm.
+
+0
+
+C
+
+0	1 mm.
+
+C1
+
+2.mm.
+
+0
+
+D
+
+0	1m.m.
+
+E
+
+M.b.l.
+
+Som	C.pa	C.ped
+
+FIG. 102.   Lensia challengeri Totton. Polygastric phase, Challenger St. 104 (1950)
+A, lateral view of the anterior nectophore, × 12; B, dorsal view of mouth-plate, × 40
+
+Lensia hotspur Totton. Polygastric phase, Gulf of Aqaba
+C, anterior nectophore, antero-lateral view of the base, × 40; C′, dorsal view of the mouth-plate; D, lateral view, × 12; E, lateral view of the base, × 25
+C.pa × pallial canal; C.ped = pedicular canal; M.b.1 = baso-lateral margin; Som = somatocyst (from Totton, 1954, fig. 54).
+[/FIGURE]
+
+[NOTE: figure lettering is hand-drawn. In the scale bars the digit "1" is a bare stroke,
+so the labels read "3mm", "1 mm.", "1 mm.", "2.mm." and "1m.m." as given. The panel
+labelled "C1" on the drawing (a C followed by a small full-height stroke) is called "C′"
+in the printed caption; both forms are given as they appear. In the caption line of
+abbreviations the first separator is printed as a multiplication sign, "C.pa × pallial
+canal", where the others are "="; this is as printed. "M.b.1" in the caption uses an
+old-style numeral one, while the corresponding label on the drawing reads "M.b.l."
+A short vertical stray mark stands in the right-hand margin beside the lower part of
+the figure.]

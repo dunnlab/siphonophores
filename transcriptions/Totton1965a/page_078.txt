@@ -1,0 +1,42 @@
+[PAGE 73]
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 4 AGALMIDAE	73
+
+Genus: LYCHNAGALMA Haeckel, 1888
+Type species L. vesicularia Haeckel, 1888b.
+? L. utricularia (Claus, 1879)
+
+Agalmidae with multicornuate tentilla consisting of involucrate cnidoband, terminal ampulla and a corona of eight radial horns or filaments.
+
+Lychnagalma utricularia (Claus, 1879)
+Plate XVI, figures 1–7
+
+Agalmopsis utricularia Claus, 1879
+
+This very remarkable little agalmid was found several times at Messina by Claus, who described and figured it in some detail in a way that inspires full confidence, although his description and figures of the nectophores are difficult to follow, but detailed and painstaking. No one else has reported finding specimens.
+
+Nectophores:   Claus's ridge V K2 does not join V K1 (Pl. XVI, figs. 3, 4, 6) as it does in Nanomia bijuga. These two ridges are shown clearly in Haeckel's (1888b) figures of his new species L. vesicularia, but only doubtful reliance should be placed on them as he may have been unduly influenced by a fancied resemblance of his Ceylonese specimen to Claus's.
+
+Gastrozooids and tentacles:   The peduncles are exceptionally long, and the type of tentillum unique. The red cnidoband forms seven or eight spiral turns, the four or five proximal ones lying transversely, all enclosed in an egg-shaped involucrum. The proximal part consists of small cnidocysts, which are flanked by larger ensiform ones. The end of each tentillum forms a large egg-shaped vesicle 0·79 mm × 0·52 mm in size. From its base arise no less than eight fine terminal filaments which are carried upright (Pl. XVI, fig. 2).
+
+Gonophores: The male gonophores 0·7–0·8 mm long have a distinct umbrella. With the female ones they are borne at the bases of the eight or nine palpons that occur between successive gastrozooids.
+
+Bracts:   Broad in proportion to length, which seems to be 1·5 mm. There are two or three distal points.
+
+Lychnagalma vesicularia Haeckel, 1888
+
+? L. utricularia (Claus, 1879)
+
+A doubtful species. It is not clear from Haeckel's description whether vesicularia differs from utricularia. It is to be doubted whether much reliance can be placed on Haeckel's beautifully idealized figures, or the record for geographical distribution.
+
+Genus: ERENNA Bedot, 1904
+Monotypic genus for Erenna richardi Bedot, 1904.
+
+Nothing has been published about Erenna for thirty-seven years. The material on which its type species was based consisted of six remarkable, detached tentacles, taken between Portugal and the Azores, attached to the rope of a fish-trap. With the preserved specimens were included some large, detached gastrozooids. The animals themselves had been torn away.
+
+A fragmentary siphonophore bearing what appear to be growth stages of such tentacles was taken in the East Indies by 'Siboga' at the beginning of the present century, and described and figured by Lens & van Riemsdijk (1908).
+
+Three specimens of this type of siphonophore, exhibiting the basal parts of such tentacles have been
+
+6
+
+[NOTE: printed folio 73 at the outer (right) edge of the running head; PDF index 78, offset −5 holds. The bare "6" on the last line is a printer's signature mark at the foot of the page in folio position, not a page number; it is kept as printed. No printed square brackets occur on this page: the two query marks that open the lines "? L. utricularia (Claus, 1879)" are bare printed question marks with no enclosing brackets — verified at 9× magnification — so they are the author's own doubt-marks and are transcribed as plain "?". They are not transcriber markers, and they are not the bracketed "[?]" form used elsewhere in this book. "LYCHNAGALMA" and "ERENNA" in the genus headings are bold italic capitals; "Lychnagalma utricularia" and "Lychnagalma vesicularia" in the species headings are bold italic. In the Nectophores paragraph Claus's ridge names are printed "V K²" and "V K¹" with superscript figures and a space between the V and the K; superscripts cannot be represented in plain text and the figures are written on the line here as "V K2" and "V K1". Decimal points in the measurements are raised middots (0·79, 0·52, 0·7–0·8, 1·5). "Gonophores:" is followed by a single space, unlike the wider printed gap after the other side-headings, which is preserved here as three spaces. The page ends mid-sentence after "have been".]

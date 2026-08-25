@@ -1,0 +1,57 @@
+[PAGE 75]
+[RUNNING HEAD] A. K. Totton : on three species of Lensia (Siphonophora)	75
+
+Anterior nectophore: (fig. 3 A, B, C). Resembling those of L. achilles and L. baryi, but with a squat, heart-shaped somatocyst situated above the ostial level. The longitudinal ridges bear well marked crests, unlike those of L. baryi. Length ≃10·5 mm.
+
+Posterior nectophores unknown.
+
+Eudoxid phase unknown.
+
+TABLE I.—Distribution of catches of Lensia achilles Totton and Lensia cordata sp. n.
+
+Lensia achilles Totton
+
+[TABLE]
+[MARGIN] (A)
+Discovery Stations	Net	Depth	Material
+89	TYFB	1000 (–0) m.	2 anterior nectophores
+100	TYFB	475–0 m.	4 „	„
+100C	TYF	2500–2000 m.	1 „	„
+100C	TYF	2500 (–0) m.	1 „	„
+100B¹	TYF	900–1000 m.	4 „	„
+256	TYF	850–1100 (–0) m.	1 „ (" Red diphyid ")
+258	TYF	320–450 m.	1 „
+282	TYF	300–0 m.	1 ex., 10 ant. nect.
+697	TYF	460–0 m.	3 ant.
+1567	TYF	1350–0 m.	1 ant.
+1583	TYFB	530–0 m.	3 „
+1586	TYFB	550–0 m.	4 „
+1587	TYFB	450–0 m.	7 „
+1639	TYFB	2400–1150 m.	1 „
+1772	N7OV	750–500 m.	1 „
+2015	N7OV	500–250 m.	1 „
+2024	N7OV	250–100 m.	1 „
+„	N7OV	500–250 m.	1 „
+„	1OOB	650–400 m.	14 „
+„	N7OV	1500–1000 m.	1 „
+2025	N7OV	1000–750 m.	1 „
+[MARGIN] (B)
+Irish Fishery Board 40 m. N.W. of Eagle Id.		1337 m.	9 anterior nectophores
+[/TABLE]
+
+Lensia cordata sp. n.
+
+[TABLE]
+Discovery Stations	Net	Depth	Material
+89	TYF	1000 (–0) m.	6 anterior nectophores
+1585 ²	TYFB	1400–700 m.	32 „	„
+1586	TYFB	650–900 m.	8 „	„
+1587	TYFB	450–0 m.	1 „	„
+1587	TYFB	1250–800 m.	49 „	„
+1589	TYFB	600–0 m.	1 (juv.) „	„
+[/TABLE]
+
+[FOOTNOTE] ¹ Records from Discovery Stations 85, 100B and 100C were published in 1941. L. achilles has been taken also in the Faroe Channel.
+[FOOTNOTE] ² Stations 1585–9 were made off the E. African coast.
+
+[NOTE: Table I is set as two ruled boxes. In the first box the marginal label "(A)" stands outside the rules beside the column headings, and "(B)" beside the last, deeper row (Irish Fishery Board); the (B) row's Net cell is empty. The second box, for Lensia cordata, carries no marginal letter. In the Net column the net designations are printed with wide capital letter O's, not zeros — "N7OV" and "1OOB" — clearly distinct from the narrow zeros used in the Depth column; they are transcribed as printed. Repeat marks in the Material column are the printed ditto sign „.]

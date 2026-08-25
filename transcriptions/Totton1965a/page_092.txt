@@ -1,0 +1,51 @@
+[PAGE 87]
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 7 ATHORYBIIDAE	87
+
+Athorybia rosacea (Forskål, 1775)
+Plate XVII, figures 1–16, text-figure 48
+
+Physsophora rosacea Forskål, 1775
+Rhizophysa rosacea Lamarck, 1816
+Rhizophysa heliantha Quoy & Gaimard, 1827
+Rhodophysa helianthus Blainville, 1830
+Rhodophysa rosacea Blainville, 1830
+Athophysa rosea Brandt, 1835; Bigelow, 1911b, 1931; Leloup, 1941
+Angela cytherea Lesson, 1843; (Anga nom. nov. Stechow, 1921, Angela preocc. Orthoptera)
+Athorybia rosacea Kölliker, 1853; Huxley, 1859; Totton, 1954
+Athorybia heliantha Gegenbaur, 1859
+Athorybia formosa Fewkes, 1882; Schneider, 1898
+Pleophysa agassizii Fewkes, 1888b
+Diplorybia formosa Fewkes, 1888b
+Athorybia californica Fewkes, 1888c
+Anthophysa darwinii Haeckel, 1888b
+Anthophysa formosa Chun, 1897b; Bedot, 1904; Lens & van Riemsdijk, 1908
+Athorybia longifolia Kawamura, 1954
+non Rhizophysa melo Quoy & Gaimard, 1827
+non Rhodophysa melo Blainville, 1830
+non Melophysa melo Haeckel, 1888b
+non Athorybia melo Chun, 1897b
+non Athorybia rosacea Bigelow, 1931 (= Melophysa melo)
+
+Figured in colour by Quoy & Gaimard as Rhizophysa heliantha, by Kölliker as Athorybia rosacea, and as Anthophysa darwinii by Haeckel who gave three figures in monochrome on his plate XII. Bigelow (1911b) gave a beautiful detailed figure in monochrome and a description under the name Anthophysa rosea. Further notes on anatomy were given by Bedot (1904), Leloup (1941) and Totton (1954).
+
+The organization of the animal is comparable with that of a young Nanomia or Agalma that has come to rest on its side. No nectophores are budded.
+
+It is no easy matter to analyse the organization of the few available specimens of this species. My interpretation of the general organization differs from that of Leloup (1941 as Anthophysa rosea) in that Leloup describes two budding zones, the anterior (supérieure) of which 'en forme de mammelon' he homologizes with the nectosome of other physonects; I regard it as the nectostyle or budding zone of the siphosome. In Agalmidae it first appears on the opposite side to that on which the nectophores are budded (see Totton, 1956, fig. 1b). I maintain that there is only one budding zone in Athorybia, namely the nectostyle, from which the bracts (homologous with the larval bracts of the larvae of agalmids) and the cormidia are budded (as in agalmids).
+
+It must be remembered that the name Athorybia rosacea has been applied to some descriptions and figures of specimens which are really Melophysa melo. If bracts are present it is very easy to distinguish between the two. Those of Athorybia are comparatively thin and smooth, those of Melophysa melo very thick with tuberculate ridges. Melophysa alone has nectophores and a shortly stalked pneumatophore.
+
+The clue to the correct orientation and interpretation of the organization of both forms has been provided in a beautiful figure of Melophysa melo (as Athorybia rosacea) by Bigelow (1931, fig. 218). The morphological upper and lower poles of the long axis are marked in this figure, as in all physonects, by the pneumatophore and the protozooid (probably the smaller of the two gastrozooids shown).
+
+The protozooid has always been found to be smaller and simpler than the secondary gastrozooids in all physonects so far examined on this point. I have discussed the basic organization further in notes on the family Athorybiidae on the opposite page.
+
+Pneumatophore: Large, forming the bulk of the specimen. The thick secondary ectoderm was
+
+[NOTE: printed folio 87 at the outer (right) edge of the running head; PDF index 92, offset −5 holds. This is a recto, so the running head reads title-then-folio, the reverse of p. 86 opposite. No figures, tables or footnotes; the page ends mid-sentence at "The thick secondary ectoderm was" with about a fifth of the page left blank below. No printed square brackets occur on this page — every parenthesis here is a round bracket.
+
+Two printed inconsistencies preserved as printed, not corrected. (1) The synonymy line dated 1835 reads "Athophysa rosea" — A-t-h-o-p-h-y-s-a, with no "n" — verified at 6× magnification, whereas the body text three paragraphs later reads "Anthophysa rosea" with the "n", verified at 7×, and the family-synonym on p. 86 opposite reads "Anthophysidae". (2) "Diplorybia formosa Fewkes, 1888b" is printed with an "r" (D-i-p-l-o-r-y-b-i-a), verified at 7×, in a list where the neighbouring names are "-physa" and "Athorybia".
+
+Layout and type: the species heading is bold italic for the binomen with the authority in roman parentheses; the second heading line "Plate XVII, figures 1–16, text-figure 48" is roman, and the rule between 1 and 16 is an en-dash. The 22-line synonymy list is set in small type with the taxon names in italic and the authorities in roman; each entry begins flush left with no indent, and the five "non" entries have "non" itself in italic. In the last of them the "=" is printed as a double-stroke equals glyph, matching the practice in the figure captions elsewhere in the volume. Italic within body text: Rhizophysa heliantha, Athorybia rosacea, Anthophysa darwinii, Anthophysa rosea, Nanomia, Agalma, Athorybia, Melophysa melo, Melophysa, Athorybiidae, the side-heading "Pneumatophore:", and "see" inside "(see Totton, 1956, fig. 1b)". "Anga" and "Angela" are italic inside the parenthesis on the Lesson line. Quotation marks are single and curly around 'en forme de mammelon'. "supérieure" carries an acute accent; "Forskål" the ring over the a; "Kölliker" a diaeresis.
+
+Numerals verified digit by digit against 3×-7× crops: 1775 (heading), XVII, 1–16, 48; then the synonymy — 1775, 1816, 1827, 1830, 1830, 1835, 1911b, 1931, 1941, 1843, 1921, 1853, 1859, 1954, 1859, 1882, 1898, 1888b, 1888b, 1888c, 1888b, 1897b, 1904, 1908, 1954, 1827, 1830, 1888b, 1897b, 1931; and in the body — 1911b, 1904, 1941, 1954, 1941, 1956, fig. 1b, 1931, fig. 218. Note the letter suffixes: Bigelow 1911b, Fewkes 1888b twice then 1888c, Haeckel 1888b, Chun 1897b twice.
+
+Stray marks, all scanning blemishes and not printed matter: a small speck between "Melophysa" and "melo" in "a beautiful figure of Melophysa melo (as Athorybia rosacea)" which at 7× is a dust speck sitting above the baseline and not an accent or apostrophe; a faint tick in the left margin level with "very thick with tuberculate ridges"; single specks in the right margin level with "Rhizophysa rosacea Lamarck, 1816", with "are budded (see Totton, 1956", and near the foot of the page. The paragraph beginning "The clue to the correct orientation" is set with visibly tighter word-spacing than its neighbours, a compositor's tightening of a three-line paragraph, not a change of type size.]

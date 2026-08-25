@@ -1,0 +1,61 @@
+[PAGE 52]
+[RUNNING HEAD] 52	A SYNOPSIS OF THE SIPHONOPHORA
+
+TABLE IV (cont.)
+
+[TABLE]
+Modern names of species	Bedot's names
+Agalma clausi (Bedot, 1888)	Stephanopsis clausi Bedot
+Halistemma rubrum (Vogt, 1852)	Halistemma rubrum Huxley
+? Halistemma amphitridis Huxley, 1859	Cupulita amphitrites Bedot
+	Cupulita picta Haeckel
+Nanomia bijuga (Chiaje, 1841)	Cupulita canariensis Haeckel
+	Anthemodes ordinata Haeckel
+Nanomia cara Agassiz, 1865	Cupulita cara Haeckel
+Lychnagalma utricularia (Claus, 1879)	Lychnagalma utricularia Haeckel
+[/TABLE]
+
+Three of these species have been so rarely taken that I have never seen specimens, viz. A. haeckli, A. clausi and Lychnagalma utricularia.
+
+To the eight sound (? Stephanomia amphytridis* excluded) species accepted by Bedot in 1896 must now be added:
+
+[TABLE]
+Halistemma cupulifera Lens & van Riemsdijk, 1908	Marrus orthocannoides Totton, 1954
+Halistemma striata sp.n.	Marrus orthocanna (Kramp, 1942)
+Cordagalma cordiformis Totton, 1932	Moseria gen.n. convoluta (Moser, 1925)
+Marrus antarcticus Totton, 1954	Lychnagalma vesicularia Haeckel, 1888
+[/TABLE]
+
+KEY TO GENERA OF AGALMIDAE
+
+[TABLE]
+1.	Tentilla unicornuate	3
+	Tentilla with more than one terminal appendage	2
+2.	Tentilla multicornuate	Lychnagalma (p. 73)
+	Tentilla tricornuate	Agalma (p. 52)
+3.	Cnidoband very large, not spirally coiled	Erenna (p. 73)
+	Cnidoband small, spirally coiled	4
+4.	Cnidoband without basal involucrum	Marrus (p. 61)
+	Cnidoband with basal involucrum	5
+5.	Nectophores very flat. Antarctic species	Moseria (p. 67)
+	Nectophores thick, not Antarctic species	6
+6.	Mature specimens small, Gonodendra in pairs at bases of a series of palpons, sexes alternating from side to side	Nanomia (p. 68)
+	Mature specimens large, one ♀ gonodendron in each cormidium	Halistemma (p. 55)
+7.	Minute heart-shaped nectophores with unlooped lateral, radial canals	Cordagalma (p. 61)
+[/TABLE]
+
+Genus: AGALMA Eschscholtz, 1825
+
+Type species A. okeni Eschscholtz, 1825.
+
+Agalmopsis Sars, 1846; Kölliker, 1853
+Crystallomia Dana, 1858; Kawamura, 1910/1911
+Crystallodes Haeckel, 1869
+Stephanopsis Bedot, 1896 (preocc. Cambridge, 1869)
+Stephia Stechow, 1921
+
+Agalmids with tricornuate tentilla, consisting of involucrate coiled cnidoband, terminal ampulla and paired lateral horns (Pls. IX, X).
+
+[FOOTNOTE] *This indeterminate species is discussed on page 60.
+
+[NOTE: the folio 52 is at the outer (left) edge of the running head. In the first TABLE IV (cont.) block a large printed brace "{" in the right-hand column spans "Cupulita picta Haeckel", "Cupulita canariensis Haeckel" and "Anthemodes ordinata Haeckel", grouping them against "Nanomia bijuga (Chiaje, 1841)" in the left column; the brace is not reproduced above. The two lists after "must now be added:" are set as two side-by-side columns, transcribed above as a two-column table (left column entry then right column entry on each line); they are two independent lists, not paired rows. In the key, leader dots run from each lead to its right-hand entry; they are omitted and a single tab substituted. The genus names in the key right-hand column are set in bold italic. "A. haeckli" in the paragraph after the table is printed thus, without the second "e" found in "Agalma haeckeli" on p. 51; "Stephanomia amphytridis" is likewise printed with "y" where the table has "? Halistemma amphitridis". Both are as printed. "♀" is the printed female symbol in key lead 6.]

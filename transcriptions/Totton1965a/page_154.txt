@@ -1,0 +1,46 @@
+[PAGE 149]
+
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 12 DIPHYIDAE	149
+
+Sulculeolaria turgida (Gegenbaur, 1853)
+Plate XXXI, figures 8–9
+
+Diphyes turgida Gegenbaur, 1853b, page 344, Taf. XVI, figures 12–21
+D. turgida Gegenbaur, 1854, page 442, Taf. XXIII, figures 1–8
+Galetta australis Bigelow & Sears, 1937, page 35
+Sulculeolaria turgida Totton, 1954, page 107, text-figure 52
+
+There was formerly doubt (see Bigelow & Sears, 1937) about this species, whose identity has been confused with that of other species, particularly 'Galeolaria australis', including many forms from the Atlantic and Indian Oceans. Many specimens have been identified in recent years, following the capture of well preserved material from the Adriatic by Dr. T. Gamulin.
+
+The most distinctive feature is the rounded and undivided basal lamella of the posterior nectophore (see Totton, 1954, text-fig. 52). The tiny somatocyst of the anterior nectophore can easily be overlooked (see Sears, 1950). It was not figured by Gegenbaur.
+
+Polygastric phase (Pl. XXXI, fig. 8)
+
+Anterior nectophore (text-fig. 87):   With a very small somatocyst. Commissural canals are present. At the moment a description, that would distinguish it from the nectophore thought to belong (by association) to S. angusta, cannot be given unless it is the constant presence of commissural canals.
+
+Posterior nectophore (Pl. XXXI, fig. 9; text-fig. 88):   About 9 mm long, 2 mm wide, 3 mm deep, deeper, dorso-ventrally than wide with a 2 mm-long, thin, rounded, undivided mouth-plate. No lateral wings.
+
+Eudoxid phase
+
+Gonophores:   Figured by Gegenbaur. Both sexes found on the same stem. Figures of developmental stages – egg to larva – were given by Gegenbaur (1853b, Taf. XVI, figs. 12–21) as Diphyes sieboldi, corrected to D. turgida on page 344.
+
+Sulculeolaria angusta Totton, 1954
+Text-figure 89
+
+The posterior nectophore is distinctive, but so far the anterior one cannot be distinguished from that of S. turgida, unless it proves never to develop commisural canals.
+
+Polygastric phase
+
+Anterior nectophore (text-fig. 89c):   About 8 mm in length and 4 mm in depth. Somatocyst minute, but varying in size up to about 0·04 mm in length. The halves of the long mouth-plate have roundly pointed distal edges. No commissural canals.
+
+Posterior nectophore (text-fig. 89a, b):   Long and narrow 13·5 mm × 3·5 mm. Mouth-plate 3·25 mm long, thickened proximally with a small prominence in the lower edge of the thickening, thin and emarginate distally. In general shape the mouth-plate resembles that of S. chuni but is thicker proximally. No dorso-lateral ridge.
+
+Eudoxid phase – not identified.
+
+[NOTE: numerals verified digit by digit: Gegenbaur, 1853; Plate XXXI, figures 8–9; Gegenbaur, 1853b, page 344, Taf. XVI, figures 12–21; Gegenbaur, 1854, page 442, Taf. XXIII, figures 1–8; Bigelow & Sears, 1937, page 35; Totton, 1954, page 107, text-figure 52; Bigelow & Sears, 1937; Totton, 1954, text-fig. 52; Sears, 1950; Pl. XXXI, fig. 8; text-fig. 87; Pl. XXXI, fig. 9; text-fig. 88; 9 mm, 2 mm, 3 mm, 2 mm-long; Gegenbaur (1853b, Taf. XVI, figs. 12–21); page 344; Totton, 1954; Text-figure 89; text-fig. 89c; 8 mm, 4 mm, 0·04 mm; text-fig. 89a, b; 13·5 mm × 3·5 mm; 3·25 mm.]
+
+[NOTE: the decimal points of "0·04", "13·5", "3·5" and "3·25" are raised middle dots; the multiplication sign in "13·5 mm × 3·5 mm" is a saltire cross. In "0·04 mm" the zeros are old-style and sit at x-height, so the group resembles "o·o4" in this face; they are zeros. All verified at 5x.]
+
+[NOTE: "commisural" in the paragraph under the Sulculeolaria angusta heading is printed with one s, against "commissural" elsewhere on the page; kept as printed. "deeper, dorso-ventrally than wide" carries the author's own comma.]
+
+[NOTE: the two species headings are bold italic; the four synonymy lines under the first are set smaller with the taxon names italic. "'Galeolaria australis'" is printed in italic within roman single quotation marks. The dashes in "– egg to larva –" and "Eudoxid phase – not identified." are en rules. No printed square brackets occur on this page.]

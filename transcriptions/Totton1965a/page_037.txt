@@ -1,0 +1,30 @@
+[PAGE 32]
+[RUNNING HEAD] 32	A SYNOPSIS OF THE SIPHONOPHORA
+
+My own view of the course that hydrozoan evolution has probably taken may be briefly summarized as follows:
+
+Stage 1.   Continuous metamorphosis: planula ——> polyp ——> medusa.
+Stage 2.   Very simple fixed larval polyp giving rise by budding to a well developed medusa.
+Stage 3.   Advanced (complex) fixed polyp-phase with a well developed medusa-phase.
+Stage 4.   Larva of polyp as in 3 retained by the medusoid-stage instead of being shed as either an ovum or a planula, and becoming an actinula with reduction of the medusa-phase.
+Stage 5.   Larva of this new type of polyp-phase adapted for permanent planktonic life (Siphonophora), medusa-phase reduced to gonophores.
+Stage 6.   Larva of 3 becoming, contemporaneously with 4 still more advanced with further reduction of the medusa-phase.
+
+This summary may be represented in the form of a diagram, the numbers referring to the above stages:
+
+[FIGURE]
+4	Corymorphines, Chondrophora,* etc.
+1 ——> 2 ——> 3 ——> 6 ——> General hydroid stock with differential rates of evolution of polyp and medusa phases.
+5 ——————————> Siphonophora.
+[/FIGURE]
+
+[NOTE: the diagram above is unnumbered and has no printed caption. The arrows are drawn rules, here written "——>". Its printed layout is a branching scheme: "1 ——> 2 ——> 3", and from 3 three arrows diverge — upward to "4" (with "Corymorphines, Chondrophora,* etc." to its right), rightward to "6 ——> General hydroid stock with differential rates of evolution of polyp and medusa phases.", and downward to "5 ——————————> Siphonophora." Only the text printed on the page is transcribed.]
+
+During the course of evolution it would appear that in the Siphonophora neoteny has played an important part, if we can apply this term to the attainment of sexual maturity by an animal while it is still in a larval stage.
+
+With regard to the phylogenetic trends within the Order itself, in my opinion the Cystonectae and Physonectae are more closely allied to one another than to the more highly organized Calycophorae. Although they are divided into two sub-orders, cystonects and physonects appear to form a natural group A, while the calycophores by reason of their greater specialization fall into a second group B. The main differences between these two groups are as follows:
+
+1.   In A there is a gas-filled float; in B none – it has probably been lost.
+2.   In A the gonophores are budded from the bases of reduced gastrozooids (palpons); in B there are no reduced gastrozooids (except in Stephanophyes), unless they are represented by the bracts from which the gonophores are budded, bract and gonophore together forming a twin bud from the peduncle of the gastrozooids. In A, especially in the cystonect Physalia, there is repeated secondary budding from the foot-stalks of the gastrozooids, palpons and gonophores. In B the process is shortened up, though Moser (1925, Taf. VII, fig. 5) has shown that in Diphyes dispar there may be a series of at least five gonophores, each budding from the foot-stalk of its predecessor. Chun (1892, p. 66, fig. 1) has figured the same origin for bract and gonophore in Muggiaea kochi. In the Hippopodiidae the process is shortened up still further and the bract is eliminated, leaving a group of half-a-dozen gonophores budding from the peduncle of the gastrozooid, as shown by Bigelow (1911b, Pl. 15, fig. 8).
+
+[FOOTNOTE] * The Reviewer in Nature (190, 1961) of my 1960 paper on Physalia expressed surprise that I had not mentioned in my discussion of siphonophore phylogeny Picard's views on the phylogeny of the Chondrophora. This was an irrelevant issue to introduce into a review of a siphonophore paper because Chondrophora are not Siphonophora. Nor is this the place to state why, in any case, I cannot accept Picard's view. The Reviewer is mistaken in thinking that I hold that siphonophores have evolved from capitate hydroids.

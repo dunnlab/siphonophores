@@ -1,0 +1,70 @@
+[PAGE 13]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+[FIGURE]
+u-lr
+tb
+v-lr
+u-lr
+urc
+orc	lr	amc
+v	loc
+pi	lrc
+op	dmc
+l-lr
+l-lr
+aw
+u-lr
+l-lr
+v-
+lr
+amc
+lrc
+urc
+loc
+u-lr
+lr
+op	orc
+aw
+tb
+amc
+l-lr
+lrc
+dmc
+loc
+urc
+orc
+op
+FIGURE 9
+Composite illustration of mature Nanomia cara nectophore and bracts. Lateral, distal and proximal views. Amc, ascending mantle canal; aw, axial wing; dmc, descending mantle canal; loc, lower radial canal; lr, lateral ridge; l-lr, lower later ridge; lrc, lateral radial canal; op, ostial process; orc, ostial ring canal; tb, thrust block; u-lr, upper lateral ridge; urc, upper radial canal; v, velum; v-lr, vertical lateral ridge. 1 mm scale bar for bracts.
+[/FIGURE]
+
+nearly parallel ridges run from those cusps up to the half of the bract’s length. Entire median ridge and roughly one third of lateral ridges lined with prominent cells. Lateral ridges appear to connect with median ridge in younger bracts, connection was indistinguishable in older zooids. Proximally additional lateral cusp on a single side of the bract. Single cell patch on the bract’s upper surface. Bracteal canal not originating on the proximal process, running along the lower surface of bract for nearly 80% of bract’s length. Bracts found in enantiomorphic pairs, with the proximal cusps displaced either on left or right side; sometimes one of the distal lateral cusps longer than the other one.
+
+Distribution
+
+Material from current study confirms the distribution of N. cara in the NE Atlantic around the British Isles, in the North Sea, along the Norwegian coast and in the Atlantic water masses of the Arctic. GenBank sequences from the Gulf of Maine, NW Atlantic, were also verified as belonging to N. cara, corresponding with the type localities in Massachusetts Bay, Nahant, and Newport, R. I (Agassiz, 1865). This agrees with the distribution proposed by Totton (1954).
+
+Remarks
+
+The examined material shows an ontogenetic change in the shape of the nectophores (Figure 8), which is likely partly responsible for the confusion surrounding the identity of NE Atlantic Nanomia. The general shape and habitus of smaller nectophores is more reminiscent of that of N. bijuga, with the nectophores assuming the horizontally flattened form associated with N. cara (cf. Totton, 1954 and reproductions thereof) as they mature and grow. As the nectophores grow, the axial wings become
+
+more prominent, with the nectosac extending into them. The upper lateral ridges get displaced laterally, and the nectophores become somewhat flaccid, with the ridges less conspicuous. The colonies originally described by Agassiz (1865) were small and likely immature, with a maximum of eight nectophores. The original description of the small nectophores tends towards the intermediate type typical of young N. cara nectophores, rather than mature N. cara nectophores as illustrated by Totton (1954). The syntype (not examined for this study) from Nahant is catalogued at Harvard University’s Museum of Comparative Zoology’ Invertebrate Collections under the catalogue number CNID-1745, with condition set as “poor”.
+
+As with N. bijuga, there appears to be potential morphological variation between populations, with large specimens up to 1 m in length having been reported from the Gulf of Maine (Rogers et al., 1978). In this study, the specimen from the Gulf of Maine was observed to have more cnidoband coils than the specimens examined from other regions, suggestive of a larger size, even though the specimen was apparently still sexually immature.
+
+3.2.3 Nanomia septata sp. n.
+
+Illustrations of N. septata sp. n.
+
+As Nanomia bijuga: Mapstone, 2009 (Figure 20), Mapstone and Arai, 1992 (Figures 3, 4), Church et al., 2015 (Figures 1–6), Norekian and Meech, 2020 (Figure 1, 2), Siebert et al., 2011 (Figure 1), Siebert et al., 2015; Sutherland et al., 2019.
+
+As Nanomia cara: Mackie, 1963 (Figure 24-1), Mackie, 1964 (Figures 1–7), Mackie, 1986 (Figure 10), Freeman, 1987 (Figures 3–6).
+
+Frontiers in Marine Science	13	frontiersin.org
+
+[NOTE: Figure 9 fills the upper half of the page in a boxed panel; below it the page is two columns, transcribed left column then right column. The first paragraph continues the sentence broken off at the foot of page 12 ("Three" / "nearly parallel ridges").
+
+Inside the [FIGURE] block only text physically printed in the panel is given; the illustrations are not described. Figure 9 is five line drawings: three nectophore views across the top and two bracts below. The labels are transcribed drawing by drawing, left to right (lateral view, then the middle view, then the right-hand view), and within each drawing in approximate top-to-bottom order; where two labels sit level they are separated by a tab. In the middle drawing "v-lr" is printed on two lines as "v-" over "lr" and is given here on two lines to record that. Several abbreviations recur within and between drawings, so the same string appears more than once. The two bract drawings carry no lettering; between them is a plain scale bar with no printed value (the caption supplies "1 mm scale bar for bracts"). In the caption "Amc, ascending mantle canal" is printed with a capital A although the parallel entries are lower case, and "l-lr, lower later ridge" is printed without the "al" of "lateral".
+
+Presentation ligatures (fi, fl) are transcribed as the ordinary two-letter sequences. Apostrophes are printed as right single quotation marks and are given as that character; "Museum of Comparative Zoology’ Invertebrate Collections" carries a stray right single quotation mark after "Zoology" as printed. The quotation marks around “poor” are printed as curly double quotation marks. "Newport, R. I" is printed without a final point. En dashes are printed in the figure-number ranges "1–6", "1–7" and "3–6". Running head and running foot elements are separated by tabs.]

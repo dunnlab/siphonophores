@@ -1,0 +1,36 @@
+[PAGE 43]
+
+— 43 —
+
+Таблица 5
+
+[TABLE]
+[NOTE: right-hand half of a table spread whose row stubs (species names) are printed on p. 42; no stubs appear on this page, so the rows below carry no labels. Column heads for the horizons are set vertically (rotated 90°). The leftmost column is cut into by a black scan shadow at the gutter: its station number is lost, only "N," survives of its position line, and its horizon reads 25—0.]
+
+[illegible]	16	16	16	17	17	18	18	18	19	19	20
+[illegible] N,	79° N, 87°07′ E	79° N, 87°07′ E	79° N, 87°07′ E	78°33′ N, 86 20 E	78°33′ N, 86 20 E	78°02′ N, 86°30′ E	78°02′ N, 86°30′ E	78°02′ N, 86°30′ E	77°31′ N, 86 17 E	77°31′ N, 86 17 E	77°13′ N, 85 38 E
+25—0	[?180—100]	100—25	25—0	115—25	25—0	100—40	40—25	25—0	130—25	25—0	52—0
+—	—	—	—	—	—	—	—	—	—	—	1
+—	—	—	—	—	—	—	—	—	—	—	—
+18	—	—	20	16	29	8	4	9	7	13	31
+—	2	3	4	2	—	8	—	—	6	—	—
+2	—	—	5	1	11	—	—	122	4	66	75
+6	1	—	—	—	—	—	—	—	—	—	—
+4	1	—	2	4	2	5	—	—	3	7	4
+537	45	94	407	187	347	82	105	755	210	511	744
+1	—	—	—	1	—	—	1	—	1	—	2
+214	34	79	327	407	544	67	62	232	141	204	450
+5	48	34	7	102	1	360	3	2	208	11	122
+—	1	—	—	—	—	—	—	—	—	—	—
+10	9	28	14	22	—	63	3	4	27	5	9
+28	35	150	160	398	438	155	41	132	88	144	393
+3	—	—	1	—	1	—	—	—	—	3	2
+1	2	—	—	—	—	—	—	—	—	—	—
+—	—	—	—	—	—	2	—	—	—	—	—
+22	2	14	24	36	44	2	7	32	12	9	26
+—	—	—	—	1	—	—	—	—	—	—	—
+2	—	—	—	—	—	—	—	—	—	—	—
+8	—	4	4	12	2	113	47	50	41	49	119
+171	4	6	213	82	767	17	5	280	16	426	347
+22	—	22	22	54	21	51	11	103	44	78	191
+[/TABLE]

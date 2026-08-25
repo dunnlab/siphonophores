@@ -1,0 +1,63 @@
+[PAGE 261: unnumbered]
+
+[RUNNING HEAD] A SYNOPSIS OF THE SIPHONOPHORA
+
+PLATE XIV
+
+Nanomia cara A. Agassiz
+From Sars, 1846, plate 5, figures 1-8
+
+FIG. 1.	Whole animal
+
+a = pneumatophore; b = nectophore; c = stem of nectosome; d = buds of nectophore; e = bract; f = gastrozooid; g = palpon; h = gonophore ♂; i = contracted tentacle.
+
+FIG. 2.	Part of siphosome
+
+a = gastrozooid; b = contracted tentacle; c = stem; d = bract; e = palpon; f = gonophore ♂; g (no guide line) = unripe gonophore ♂; h = gonodendron ♀.
+
+FIG. 3.	Siphosome enlarged, bracts removed. a-h see figure 2
+
+FIG. 4.	Gonophores
+
+a = peduncle of gonodendra ♀; b = gonophores ♀.
+
+FIGS. 5, 6.	Tentilla, enlarged
+
+a = pedicel of tentillum; b = involucrum; c = cnidoband; d = end filament.
+
+FIGS. 7, 8.	Agalma elegans: tentilla. It was the inclusion of this different species which caused the confusion described in the text
+
+a-c as in figures 5, 6; d = ampulla; e = terminal filament.
+
+Nanomia bijuga (Chiaje)
+
+FIG. 9.	Photograph of a living specimen 4 cm in length from Villefranche
+
+Erenna richardi Bedot
+
+FIG. 10.	Nectophore, × 1.8
+FIG. 11.	Bracts, × 2
+
+[NOTE: caption leaf for PLATE XIV; the facing leaf (PDF page 262) is the plate itself. Unfoliated — no printed folio, no signature mark. The caption block runs from a little above the middle of the leaf to about two-thirds of the way down; the whole upper quarter and the whole lower third are blank apart from scan speckle.]
+
+[NOTE: this is by far the fullest caption leaf in the plate section so far, and its layout is unusual and worth recording exactly. Each FIG. heading is CENTRED on its own line and carries only the subject, with no magnification and no closing full point; the key to that figure's own letters then follows as a separate paragraph set FULL MEASURE and flush left, in the ordinary text size. The keys are therefore per-figure, not one key for the whole plate as on PLATES IX-XII, and the same letters a, b, c, d … are re-used with different meanings from figure to figure. The tabs above stand for the printed spaces after "FIG. n." in the centred headings.]
+
+[NOTE: the caption covers THREE species. "PLATE XIV" stands alone on its own centred line in spaced full capitals; then "Nanomia cara A. Agassiz" (species italic, authority roman) with its source line "From Sars, 1846, plate 5, figures 1-8", covering figures 1-8; then "Nanomia bijuga (Chiaje)" with figure 9 and no source line; then "Erenna richardi Bedot" with figures 10 and 11 and no source line.]
+
+[NOTE: the printed male and female symbols are type and appear five times: "gonophore ♂" in FIG. 1's key; "gonophore ♂" and "unripe gonophore ♂" and "gonodendron ♀" in FIG. 2's key; and "gonodendra ♀" and "gonophores ♀" in FIG. 4's key. Transcribed with the Unicode signs ♂ and ♀. The FIG. 2 key uses the male sign twice and the female sign once; the FIG. 4 key uses the female sign twice.]
+
+[NOTE: the FIGS. 7, 8 heading is exceptional. It opens with an italic species name and an italic colon, "Agalma elegans:", and then runs on in roman for two full printed lines of ordinary prose — "tentilla. It was the inclusion of this different species which caused the confusion described in the text" — the second line indented to align with the first, and no closing full point. It is the only caption entry on the leaf that comments on the taxonomy rather than describing a figure. The two printed lines are joined into one above; no line-break hyphen is involved.]
+
+[NOTE: two entries cross-refer to other figures instead of giving their own key: FIG. 3's heading ends "a-h see figure 2", with a-h in italic, and the FIGS. 7, 8 key opens "a-c as in figures 5, 6". Both ranges are printed with en dashes and both are transcribed with a hyphen-minus above.]
+
+[NOTE: the italic letters in every key are followed by a printed "=" sign. Many of these equals signs print faintly or with the two strokes unequal in this scan — notably in "a = pneumatophore", "e = bract", "a = peduncle", "e = terminal filament" — but all are equals signs, not the printer's error found on PDF page 259 where an equals sign stands where a multiplication sign belongs. The two magnifications on this leaf, in FIGS. 10 and 11, are printed with proper multiplication signs.]
+
+[NOTE: the two FIG. entries at the foot, "FIG. 10.  Nectophore, × 1.8" and "FIG. 11.  Bracts, × 2", are the only entries on the leaf set as a conventional two-line indented list, and neither carries a closing full point. "1.8" is printed with a full point as a decimal.]
+
+[NOTE: FIG. 2's key contains a parenthetical instruction to the reader: "g (no guide line) = unripe gonophore ♂", telling the reader that the letter g on the plate has no leader drawn to it. The parentheses are round brackets, not square.]
+
+[NOTE: "FIG."/"FIGS." throughout is printed with a full-size F and small-capital following letters and is transcribed in full capitals. All numerals are printed in old-style (text) figures, so that 1 has no upper serif, 4 has an open bowl and 5, 8 and 9 have descenders; transcribed as ordinary digits. "1-8" is printed with an en dash. "1846", "4 cm", "1.8" and "2" are as printed.]
+
+[NOTE: no printed square brackets occur on this leaf, and no editorial query mark of any kind appears here. The parentheses in "(Chiaje)" and "(no guide line)" are round brackets, not square. Every square bracket above is a transcriber marker.]
+
+[NOTE: faint grey scan speckle covers the blank areas of the leaf throughout.]

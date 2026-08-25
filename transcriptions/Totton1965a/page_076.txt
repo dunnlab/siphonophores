@@ -1,0 +1,45 @@
+[PAGE 71]
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 4 AGALMIDAE	71
+
+spicuous cylindrical teeth at the distal end (Pl. X, figs. 5, 6); (2) leaf-like, shorter and wider, the three terminal processes not so distinct (Pl. X, figs. 7, 8). Some are spear shaped. Bracts attached in four longitudinal rows at sides of stem.
+
+Colour:   There are small, scattered, port-wine coloured blotches or flecks in the endoderm of both nectosome and siphosome.
+
+Presence in the deep-scattering layer
+
+There is, according to E. G. Barham (1963), a striking relation between the depths of recorded deep-scattering layers of the ocean waters and concentration of siphonophores. The abstract of his interesting paper reads: 'Bathyscaphe divers in the San Diego Trough have revealed a close spatial relation between siphonophores and the deep-scattering layer as recorded by precision depth-recording echo-sounders. Measurements of gas-bubbles* within the floatation structures of Nanomia bijuga captured in a closing-net in an ascended scattering layer indicated that these are very close to the resonant size for 12/kcy/sec. sound. Because such organisms are capable of making prolonged vertical migrations, and are widespread geographically, they are very probably the major causes of stratified zones of scattering throughout the oceans of the world.'
+
+Specific identifications need confirmation.
+
+[FOOTNOTE] * Dr. Barham (personal communication) and colleagues found concentrations of CO up to 90% on analysis of the gas.
+
+[FIGURE]
+♂
+♂
+♀
+BR
+♂
+♀
+BR
+♂
+BR
+p5
+p4
+p3
+p6
+♂
+BR
+♂
+BR
+♂
+♀
+♀
+aboral
+BR
+
+FIG. 36.   Nanomia bijuga (Chiaje)
+Part of an internode of the stem showing alternating ♂ and ♀ gonodendra arising from the bases of a series of palpons, × 39. From Oak Bay Boat House, Victoria, B.C., March 16, 1959; W. G. Fields & A. R. Fontaine Coll.
+BR = bract; p3 – p6 = palpons of primary series (scars of detachment).
+[/FIGURE]
+
+[NOTE: printed folio 71 at the outer (right) edge of the running head; PDF index 76, offset −5 holds. Text-fig. 36 is a single wide drawing occupying the lower half of the page below the footnote rule, with its caption beneath. The tokens listed inside [FIGURE] are exactly the hand-lettered text printed within the drawing and nothing else — the illustration itself is not described. Because the drawing is wide and the labels are scattered across it rather than arranged in lines, they are listed in approximate reading order (top to bottom, left to right within a band); the full inventory is: the male sign ♂ seven times, the female sign ♀ four times, "BR" six times, the four palpon labels "p6", "p5", "p4", "p3", and "aboral" beside a horizontal arrow at the lower right. The sex signs are transcribed as the Unicode characters ♂ and ♀, matching the printed glyphs, both in the drawing and in the type-set caption where they also appear. The palpon labels are lettered with a lowercase p and a raised numeral — verified at 14× magnification that the letter has a descender and so is "p", not "P"; superscripts cannot be represented in plain text and the figures are written on the line here, as also for the caption's italic "p3 – p6", which is printed with superscript 3 and 6 and with spaces round the rule. The footnote is keyed by an asterisk after "gas-bubbles" in the quoted abstract and is set in smaller type at the foot, above the figure; it is placed at the foot of the text block here, not inline. In the footnote the percent sign is a large old-style glyph preceded by a thin space ("90 %"); it is transcribed closed up as "90%". The quotation of Barham's abstract is enclosed in single quotation marks, opening before "Bathyscaphe" and closing after "world." "(2)" early in the first paragraph is the author's own parenthesised numeral continuing the enumeration begun on the preceding page, not a marker. No printed square brackets occur on this page.]

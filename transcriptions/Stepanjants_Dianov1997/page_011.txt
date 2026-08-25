@@ -1,0 +1,21 @@
+[PAGE 164]
+
+[NOTE: English half of the bilingual paper; the figures cited here (Fig. 1-9) are printed in the Russian half and do not appear on this page.]
+
+reproduction process of the D. arctica colonies.
+
+In other words, the "narrow" nectophores with well developed muscles, dense mesogloea and pointed apical part of umbrella are characteristic this species (Fig.1,1). During the reproductive period, however, colonies producing the reproductive zooids, the biochemical composition of tissues is changed. As a result, nectophores, which are produced in this period becomes the loosed muscles of the nectosac and mesogloea, the umbrella top is rounded, as a result nectophores as if are "expanded" (Fig.1,2).
+
+Obviously the previously employed methods and calculations are extremely complicated, requiring the standardization of the numerical indexes, and the interpretation of the results is sufficiently complicate. The updated methods of the computer visualization permitted to test the previous conclusions by the simplest analysis of the initial data.
+
+Unfortunately, it is impossible to adequately reproduce the colour solution of the visualization program by printing. We selected 16 colours from 262144 possible hues recognized by the human eye to display on the screen. The reader can usually assimilate only 2-3 hues of grey at the illustrations reproduced by offset method. On Fig.4 the distribution of the number of reproductive fragments on T-S diagram field is shown. As expected, the greatest amount of fragments was observed from a definitely specified water mass. It may be related with the material which was collected from the same water mass. The diagram in Fig.5 evidences, that such apprehensions proved justified: here the distribution of the reproductive fragments over the latitude and longitude (on the geographical map) is shown. It should be noted that this conclusion did not require any kind of calculations.
+
+The program-generated histograms are ordinary, but allow to see the regularity pattern without any calculations. As a vivid example Fig.6 shows the distribution of the sum of the reproductive fragments on depth with clearly defined maximum.
+
+The last series (Figs 7-9) shows the correlation of the distribution of the sum of the reproductive fragments, "narrow" and "wide" nectophores on the depth-month diagram field.
+
+Having noticed the sum maximum of reproductive fragments on the diagram and transposed this area into the diagram with the sum of "narrow" nectophores, one can be easily convinced that no correlation exists. The same operation for the "wide" nectofores shows a clearly defined correlation, a better one with respect to month than depth.
+
+Despite the lack of observations concerning the Sea of Japan and its
+
+164

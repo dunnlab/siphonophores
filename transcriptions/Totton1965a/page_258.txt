@@ -1,0 +1,33 @@
+[PAGE 258: unnumbered]
+
+[PLATE]
+PLATE XII
+
+[?d]
+[?a]
+[?b]
+[illegible]
+[?i]
+[?c]
+[?d]
+[?k]
+l
+[/PLATE]
+
+[NOTE: this leaf is entirely occupied by PLATE XII, a single un-numbered figure filling the whole plate block. Its caption and the key to the lettering are on the facing leaf, PDF page 257; no caption text is repeated here. The plate is printed portrait on a portrait leaf and needs no rotation.]
+
+[NOTE: "PLATE XII" is set in bold full capitals in the top right corner of the leaf, above and clear of the plate block, in the ordinary text orientation. It is the only text on the leaf printed in ordinary black type, and the only text on the leaf that can be read with certainty.]
+
+[NOTE: THERE ARE NO FIGURE NUMBERS ON THIS PLATE. Unlike PLATES IX-XI it carries one undivided illustration, agreeing with the caption leaf, which lists no FIG. entries. The only lettering within the plate block is the run of single reference letters given above.]
+
+[NOTE ON LEGIBILITY — THE CENTRAL DIFFICULTY OF THIS PAGE. The plate is a half-tone reproduction of a lithograph printed white-line on a dark grey ground, and the reference letters are engraved in small italic in WHITE, reversed out of that ground, each with a broken white leader running to the structure it names. On the scan they are about ten pixels tall, at low contrast, sitting on a coarse half-tone screen of the same tonal value. The embedded scan is 2550 x 3222 at 300 ppi and that is the native resolution of the source file, so no further detail is recoverable by re-rendering; local contrast stretching and screen-smoothing were used to get the readings above and they are the limit of what the image supports. Every letter above except the last is therefore flagged. The bracketed readings are transcriber uncertainty markers, NOT printed brackets.]
+
+[NOTE: nine letter positions were located, by sweeping the whole plate block in overlapping contrast-enhanced tiles. Given as fractions of the leaf's width and height, and in the top-to-bottom order used in the [PLATE] block above, they are: (0.84, 0.12) right margin, upper, read [?d] — a bowl at the lower left with an ascender rising to the right, the clearest of the eight uncertain letters; (0.14, 0.14) left margin, read [?a] — a round bowl with a small closed counter, which could equally be e or o; (0.14, 0.17) left margin, read [?b] — a tall ascender leaning left over a bowl at the lower right; (0.13, 0.20) left margin, [illegible] — a small round blob with a hint of a counter and nothing more; (0.50, 0.68) centre, read [?i] — a short stroke with a separate dot above it, fairly secure as i; (0.16, 0.70) left, read [?c] — an open C-form, open to the right, so c rather than e; (0.17, 0.72) left, read [?d] — bowl plus ascender, the same form as the first letter; (0.53, 0.72) centre, read [?k] — an ascender with an arm and a diagonal leg to the right, h being the alternative; (0.69, 0.93) lower centre-right, read l — a single italic stroke with a hooked head and a tail, the one letter on the plate legible without qualification.]
+
+[NOTE: the key on the facing caption leaf lists ten abbreviations, a, b.c, d, e, f, g, h, i, k, l, which between them use eleven letters (b and c being defined together). Only nine marks were found on the plate, and no mark was found that could be read as e, f or g. Either those letters fall in parts of the plate where the reversed white type is lost in the bright white of the drawing, or they are absent. This absence is reported as a gap in the transcription, not as a fact about the printed plate. SECOND OPINION WANTED on this whole page: a reader with a better scan of PLATE XII should be able to recover all eleven letters and correct the eight flagged readings.]
+
+[NOTE: no letter above is offered as a description of what the plate depicts, and none is inferred from the caption's key. Two of the nine readings — the first and the seventh — came out as the same letter d, which the key defines only once; both are recorded as read rather than reconciled.]
+
+[NOTE: there is no printed folio, no running head and no printer's signature mark on this leaf. The plate block runs from about a ninth to about nine-tenths of the leaf's width and from about a ninth to about nineteen-twentieths of its height, leaving a white margin all round. Isolated grey specks occur in that white margin.]
+
+[NOTE: no printed square brackets and no editorial query marks appear on this leaf. Every square bracket above is a transcriber marker.]

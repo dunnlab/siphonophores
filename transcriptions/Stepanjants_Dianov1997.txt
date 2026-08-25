@@ -1,0 +1,444 @@
+<<<PAGE pdf=1 file=page_001.txt>>>
+[PAGE 154]
+[RUNNING HEAD] 0206-0477. БАЗЫ ДАННЫХ И КОМПЬЮТЕРНАЯ ГРАФИКА В ЗООЛОГИЧЕСКИХ ИССЛЕДОВАНИЯХ
+[RUNNING HEAD] СПб., 1997 (ТРУДЫ ЗООЛОГИЧЕСКОГО ИНСТИТУТА РАН, Т. 269)
+
+RUSSIAN ACADEMY OF SCIENCES
+PROCEEDINGS OF THE ZOOLOGICAL INSTITUTE
+St. PETERSBURG, 1997, VOL. 269
+
+УДК: 59.08:681
+
+С.Д. Степаньянц, М.Б. Дианов
+
+Зоологический институт РАН, Санкт-Петербург, Россия
+
+КОМПЬЮТЕРНЫЙ ПОДХОД К ИЗУЧЕНИЮ
+МОРФОЛОГИЧЕСКИХ И БИОЛОГИЧЕСКИХ
+ОСОБЕННОСТЕЙ СИФОНОФОРЫ DIMOPHYES
+ARCTICA (CHUN,1897)
+
+Dimophyes arctica (Chun,1897) – один из наиболее массовых видов сифонофор, описанный из Арктического бассейна и в силу этого долгое время рассматриваемый как типичный представитель холодноводной фауны. Позже этот вид был обнаружен практически во всех районах Мирового океана от Арктики до Антарктики, включая тропическую зону, и потому вполне справедливо отнесен специалистами к числу панокеанических видов (Степаньянц, Лобанов, 1989; Pages, Gili, 1992).
+
+Фрагменты колоний D.arctica встречены от поверхностных слоев воды до глубин в несколько тысяч метров, при температурах от -1° С до 22° С и при соленостях 33.5-35 °/оо (Степаньянц, Лобанов,1989).
+[NOTE: the per-mille sign in the salinity range is set as a superscript o, a solidus and two subscript o's (°/oo); transcribed with those characters.]
+
+Специалистам хорошо известна морфологическая особенность колоний D.arctica. Эта дифиидная сифонофора (колония имеет два плавательных колокола-нектофора: передний и задний) характеризуется двумя формами переднего нектофора – "широкой" и "узкой" (рис.1:1,2), чего нет больше ни у одного другого дифиидного вида. До сих пор не дано объяснения этой особенности D.arctica. При традиционной качественной обработке материала всегда складывалось представление, что среди фрагментов этого вида, попадающихся в пробах из разных регионов и с различных горизонтов, "широкие" и "узкие" нектофоры встречаются одновременно и примерно в одинаковом ко-
+
+154
+
+<<<PAGE pdf=2 file=page_002.txt>>>
+[PAGE 155]
+
+личестве. Кроме двух типов переднего нектофора, заднего нектофора, в пробах встречаются также кроющие пластинки и гонофоры (♀ и ♂), либо целые кормидии (рис.1:3-6).
+
+[FIGURE]
+[NOTE: framed figure with six line drawings, numbered 1-6; the male and female symbols ♂ and ♀ are drawn on figures 5 and 6. Caption is a Russian/English pair.]
+[NOTE: the separators between caption items are printed as two stacked dots (colons); the lower dot is degraded in this scan and they may be semicolons in the original.]
+Рис. 1. Фрагменты колонии Dimophyes arctica: 1- верхний "узкий" нектофор: 2- верхний "широкий" нектофор: 3,4- нижний нектофор: 5- кормидий ♂: 6- кормидий ♀.
+Fragments of colonies of Dimophyes arctica: 1- anterior nectophore "narrow": 2- anterior nectofore "wide": 3,4- posterior nectophore: 5- cormidium ♂ : 6- cormidium ♀.
+[/FIGURE]
+
+В коллекции Зоологического института РАН (ЗИН) имеется более 500 проб по Dimophyes arctica. На основании обработки этих проб была сделана база данных, включающая только те обнаружения, постанционные данные которых позволяли получить исчерпывающие сведения по факторам среды в каждой точке, количеству обнаруженных фрагментов, а также координатам, глубинам, орудиям лова, времени и сезону сбора и т.д. (Степаньянц, Лобанов, 1989). Поскольку коллекция по D.arctica ЗИН состоит преимущественно из материала, собранного в отечественных евразийских, дальневосточных морях и в Северной Пацифике (отчасти в Карибском регионе), были привлечены и литературные данные.
+
+На основе этой базы данных с помощью оригинальной программы WORLDMAP (авторы А.Л.Лобанов и М.Б.Дианов) была сделана компьютерная карта находок D.arctica (рис.2). Данная программа позволяет интерактивно показать для каждого места обнаружения вида
+
+155
+
+<<<PAGE pdf=3 file=page_003.txt>>>
+[PAGE 156]
+
+[NOTE: scanned page, single column of Russian text at the head, then two framed
+figures that fill the rest of the page — Fig. 2 a computer-drawn world map and
+Fig. 3 a whole table reproduced as a bitmap image. Both figure images carry
+dot-matrix lettering that is heavily degraded in this scan; readings inside them
+are flagged where the glyph is genuinely ambiguous.]
+
+[NOTE: for a convention check I opened the already-completed gold page
+page_002.txt of this same document (not one of my pages, and not software output);
+it contains the Russian form of the map author's name. That is the only other
+rendering of any part of this document I have seen.]
+
+географические координаты и сведения по количеству фрагментов колоний D.arctica, обнаруженных в данной точке. Следует иметь в виду, что по мере пополнения базы данных новыми обнаружениями на карте будут появляться новые точки и, соответственно, новые сведения о находках фрагментов или колоний в каждой новой точке.
+
+[FIGURE]
+[NOTE: Fig. 2 — a framed world map in outline, with the localities shown as solid
+black blocks along the coasts of the North Pacific, the North Atlantic, the Arctic
+and the southern oceans. Lettering inside the frame is a coarse bitmap face,
+transcribed here in reading order: the title across the head, then the credit line
+along the foot.]
+
+LOCALITIES OF [?DIMOPHYES] ARCTICA
+
+World Map v.1.0	by A.L.Lobanov & [?M].B.Dianov	Copyright (C) 1992
+
+[NOTE: in the credit line the first initial of Dianov is a single degraded glyph;
+it is two uprights with a mark between them, read here as M but possibly N.]
+
+Рис. 2. Карта распространения Dimophyes arctica.
+Distribution map of  Dimophyes arctica.
+[/FIGURE]
+
+[FIGURE]
+[NOTE: Fig. 3 is not a drawing but a whole table reproduced as a bitmap image, in
+the same dot-matrix face as the map. It is a single framed block containing a
+three-line English title, an upper table of three data rows, a blank band, and a
+lower table of three data rows. Columns are separated below with single tabs; an
+empty cell is written as a single tab gap and the em-rule printed in one cell is
+given as "---". Digits in this face are small and thickened by the scan: 0 is
+drawn as an oval with a mark in the middle and 8 as a form with two counters, and
+where the two cannot be told apart the digit is flagged.]
+
+[TABLE]
+THE ASSOCIATION EVALUATION OF THE GENERATIVE FRAGMENTS
+AND NECTOPHORES ("WIDE" AND "NARROW") WITH THE ENVIRONMENT FACTORS
+AND TO ON ANOTHER.
+
+THE FACTORS	GENERATIVE FRAGMENTS	"NARROW" NECTOPHORES	"WIDE" NECTOFORES
+ANALYSIS OF VARIANCE	INFLUENCE FORCE %		INFLUENCE FORCE %		INFLUENCE FORCE %
+	every factor	combination	every factor	combination	every factor	combination
+MONTH+DEPTH	26.9+4.3	76.4	4.4+1[?8].3	19.2	25.8+15.2	64.2
+MONTH+ t°C	26.9+3.1	62.1	4.4+ 8.9	21.2	25.8+10.3	36.1
+MONTH+ S %	26.9+1.2	53.6	4.4+11.0	21.9	25.8+ 9.7	35.6
+
+ANALYSIS OF THE CONTINGENCY TABLES	INFLUENCE CRITERION %	INFLUENCE CRITERION %	INFLUENCE CRITERION %
+GENERATIVE FRAGMENTS	---	0.267	0.306
+MONTH	0.396	0.267	0.440
+DEPTH	0.311	0.385	0.424
+[/TABLE]
+
+[NOTE: the third column head is spelt NECTOPHORES and the fourth NECTOFORES, as
+printed. The third line of the table's title reads "AND TO ON ANOTHER." on the
+page. In the row label "MONTH+ S %" the mark after S is the same glyph as the one
+after "INFLUENCE FORCE", although in a salinity row a per-mille sign would be
+expected; both are transcribed as %. In the upper table the "INFLUENCE FORCE %"
+head spans the two sub-columns "every factor" and "combination" of each of the
+three groups, and "ANALYSIS OF VARIANCE" spans the two header rows below it. In
+the lower table the "ANALYSIS OF THE CONTINGENCY TABLES" cell likewise heads the
+row-label column. A blank band, ruled top and bottom, separates the two tables.]
+
+Рис. 3. Оценка зависимости генеративных фрагментов и нектофоров ("широких" и "узких") D.arctica от факторов среды и друг от друга.
+[NOTE: Fig. 3 has no English caption line under it on this page, unlike Fig. 1 and
+Fig. 2; its English wording is carried by the table's own title inside the image.]
+[/FIGURE]
+
+156
+
+<<<PAGE pdf=4 file=page_004.txt>>>
+[PAGE 157]
+
+[NOTE: scanned page, a single column of Russian text with no figures. The type is
+inked heavily in places but legible throughout. Double quotation marks are set as
+straight upright pairs, transcribed as ".]
+
+Ранее анализу подверглись только данные по Японскому морю (108 обнаружений), которые с помощью ряда статистических методов (15 оригинальных программ), таких как парный и множественный регрессионный и корреляционный анализы, факторный и дискриминантный анализы, дисперсионный анализ и анализ таблиц сопряженности, были обработаны для уточнения особенностей обитания и размножения этого вида, а также для попытки выявления причин существования двух вышеназванных форм передних нектофоров (Степаньянц, Лобанов, 1989). Анализу подвергались стандартизованные численности различных фрагментов колоний и их суммы в 1 м3. Широко использовались преобразованные значения факторов и численностей в шкалы баллов.
+
+[NOTE: in "колоний" above, the breve of the final й is printed detached and stands
+to the right of the letter, so that the word reads "колонии'" on the page; and the
+3 of "1 м3" is a superscript.]
+
+Анализировалось влияние таких факторов среды, как температура и соленость, а также глубина обнаружения, месяц и время суток. Рассматривалось влияние этих факторов на численность всех встреченных фрагментов колоний, отдельно на численность всех нектофоров, "широких" нектофоров и "узких" нектофоров, а также на численность половых фрагментов.
+
+Дисперсионный анализ влияния полного набора названных факторов и пары факторов на все и отдельные фрагменты показал, что наибольшее влияние оказывает сезон, а в сочетании с ним – глубина, температура и соленость.
+
+Время суток не оказывает влияния на численность D.arctica, что, по-видимому, свидетельствует об отсутствии суточной миграции у этого вида.
+
+Как видно из рис. 3, зависимость от факторов среды проявляется у половых фрагментов четче, чем у плавательных колоколов. Это означает, что размножение колоний D.arctica происходит в более лимитированных условиях среды. Если говорить о зависимости численности нектофоров от факторов среды, то сезон и температура влияют заметно больше на "широкие" нектофоры, чем на "узкие". Последние характеризуются большей эврибионтностью.
+
+Как показал анализ таблиц сопряженности (рис. 3), критерии зависимости численности половых фрагментов от факторов среды более сходны с таковыми "широких" нектофоров. Это позволяет связать появление "широких" нектофоров с периодом полового размножения колоний.
+
+Иными словами, для вида типичны узкие передние нектофоры с хорошо развитой мускулатурой нектосака, плотной мезоглеей и заостренной вершиной колокола (рис.1,1). В период полового размно-
+
+[NOTE: in "(рис.1,1)" the second numeral is set in italic; the paragraph breaks
+off at the foot of the page.]
+
+157
+
+<<<PAGE pdf=5 file=page_005.txt>>>
+[PAGE 158]
+
+[NOTE: scanned page, Russian text with one framed figure (Fig. 4) filling the
+middle of the page. The figure is a screen dump of the visualisation program, in
+the same coarse bitmap face as Figs. 2 and 3, and its scale-bar numerals are set
+white-on-black and are largely destroyed in this scan.]
+
+жения, однако, у колоний, продуцирующих половые особи, меняется биохимия тканей нектофоров: становятся дряблыми мезоглея и мускулатура нектосака, вершина колокола округляется, сам колокол в результате как бы "расширяется" (рис.1,2).
+
+[NOTE: "нектосака" is printed with a stray acute-like mark over the о; and in
+"(рис.1,2)" the second numeral is set in italic.]
+
+Как ясно из сказанного выше, примененные ранее методы и вычисления весьма трудоемки, так как требуют стандартизации численных показателей, а интерпретации полученных значений достаточно сложны. Современные методы компьютерной визуализации позволяют проверить сделанные ранее выводы простейшим анализом исходных данных.
+
+К сожалению, адекватно воспроизвести цветовые решения программы визуализации типографским способом невозможно. При выводе на экран компьютера 16 цветов производился выбор из 262144 возможных оттенков, большинство которых может распознать глаз человека. При воспроизведении иллюстраций методом офсетной печати читателем воспринимаются только 2-3 оттенка серого.
+
+[FIGURE]
+[NOTE: Fig. 4 — a framed screen plot. A title bar across the head, a plotting
+field with about twenty solid square markers clustered in the upper part, an
+inverted vertical temperature axis on the left, a salinity axis along the foot,
+and below that a black scale bar carrying nine numerals in white. Lettering
+transcribed in reading order: title, y-axis labels top to bottom, x-axis labels
+left to right, then the scale bar.]
+
+ALL OF GENERATIVE FRAGMENTS DISTRIBUTION ON T-S DIAGRAM
+
+T°	1.0°	2.0°	3.0°	4.0°	5.0°	6.0°
+
+33.80%	33.90%	34.00%	34.10%	S%
+
+12	18	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]
+
+[NOTE: only the first two numerals of the scale bar can be read; the remaining
+seven are white on black and have filled in. They are evenly spaced and appear to
+continue an ascending sequence, but no digit in them is legible.]
+
+Рис. 4. Распределение генеративных фрагментов D.arctica в поле T-S диаграммы.
+Distribution of D.arctica generative fragments on T-S diagram.
+[/FIGURE]
+
+На рис. 4 показано распределение количества половых фрагментов в поле T-S диаграммы. Как и следовало ожидать, наибольшее количество фрагментов наблюдалось во вполне определенной водной массе, однако это может быть связано с тем, что сборы и проводились в пределах одной и той же водной массы территориально. Диа-
+
+158
+
+<<<PAGE pdf=6 file=page_006.txt>>>
+[PAGE 159]
+
+[NOTE: scanned page: four lines of Russian text at the head, then two framed
+screen plots, Fig. 5 and Fig. 6, which between them fill the rest of the page.
+Both are in the coarse bitmap face of the visualisation program; their numerals
+are thickened by the scan and the white-on-black scale bar under Fig. 5 is almost
+entirely destroyed.]
+
+грамма на рис. 5 показывает, что опасения оправданы – на ней показано распределение количества половых фрагментов по широте и долготе (на географической карте). Необходимо заметить, что такой вывод не потребовал каких-либо вычислений.
+
+[FIGURE]
+[NOTE: Fig. 5 — a framed screen plot of the Japan Sea. Title bar at the head, a
+latitude axis down the left, a longitude axis along the foot, a black scale bar
+below that, and four solid square markers in the field (one at about 47.5°N /
+138°E, the others in a row at about 42.5°N between 130° and 132°E). Lettering in
+reading order: title, y-axis labels top to bottom, x-axis labels left to right,
+then the scale bar.]
+
+ALL OF GENERATIVE FRAGMENTS DISTRIBUTION ON JAPAN SEA MAP
+
+48.00°	46.00°	44.00°	42.00°	40.00°	38.00°
+
+130.00°	132.00°	134.00°	136.00°	138.00°	140.00°
+
+12	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]
+
+[NOTE: the scale bar carries nine numerals set white on black; only the first,
+12, can be read, and even that is uncertain in its second digit. The label 38.00°
+sits at the left-hand end of the foot, level with the longitude labels, and is the
+lowest latitude tick.]
+
+Рис. 5. Распределение количества генеративных фрагментов D.arctica в Японском море.
+Distribution of D.arctica generative fragments on Japan Sea map.
+[/FIGURE]
+
+[FIGURE]
+[NOTE: Fig. 6 — a framed screen plot, a horizontal bar chart with the depth scale
+down the left and no numbered scale along the foot. Twenty-one depth labels, each
+against a bar or a blank; the longest bars stand at 400 and at 800. Lettering in
+reading order: title, then the depth labels top to bottom.]
+
+ALL OF GENERATIVE FRAGMENTS DISTRIBUTION ON DEPTH
+
+0	100	200	300	400	500	600	700	800	900	1000	1100	1200	1300	1400	1500	1600	1700	1800	1900	2000
+
+[NOTE: the depth numerals are inked over in this scan and the trailing zeros are
+merged; the sequence is read from the leading digits and the even spacing.]
+
+Рис. 6 . Распределение количества генеративных фрагментов D.arctica по глубине.
+Distribution of D.arctica generative fragments on depth.
+[/FIGURE]
+
+159
+
+<<<PAGE pdf=7 file=page_007.txt>>>
+[PAGE 160]
+
+[NOTE: scanned page: four lines of Russian text at the head, then two framed
+screen plots, Fig. 7 and Fig. 8, filling the rest of the page. Both are gridded
+month-against-depth fields with filled cells and a hand-drawn closed outline
+looped round the occupied region; both carry a black scale bar under the month
+axis whose white numerals are almost entirely destroyed in this scan.]
+
+Генерируемые программой гистограммы т[?р]ивиальны, однако позволяют увидеть закономерность без расчетов. Наглядный пример – рис. 6, показывающий распределение суммы половых фрагментов по глубине с явно выраженным максимумом.
+
+[NOTE: in "тривиальны" the first two letters are run together into a blot by
+over-inking; only the т is certain.]
+
+[FIGURE]
+[NOTE: Fig. 7 — framed screen plot. Title bar at the head, twenty-one depth labels
+down the left, twelve Roman-numeral month labels along the foot, then a black
+scale bar. Lettering in reading order: title, depth labels top to bottom, month
+labels left to right, scale bar.]
+
+ALL OF GENERATIVE FRAGMENTS ON MONTH-DEPTH DIAGRAM
+
+0	100	200	300	400	500	600	700	800	900	1000	1100	1200	1300	1400	1500	1600	1700	1800	1900	2000
+
+I	II	III	IV	V	VI	VII	VIII	IX	X	XI	XII
+
+[illegible]	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]
+
+[NOTE: in this bitmap face the Roman five is drawn with a rounded foot and on its
+own would read as a U; it is transcribed V on the strength of the I–XII sequence.
+The scale bar carries nine numerals white on black, none of them legible.]
+
+Рис. 7. Распределение генеративных фрагментов D.arctica в поле диаграммы месяц-глубина.
+Distribution of D.arctica generative fragments on diagram month-depth
+[/FIGURE]
+
+[FIGURE]
+[NOTE: Fig. 8 — framed screen plot of the same construction as Fig. 7, with the
+filled cells concentrated in the leftmost month column and around 100–300 and
+700–900 m.]
+
+NARROW NECTOFORES DISTRIBUTION ON MONTH-DEPTH DIAGRAM
+
+0	100	200	300	400	500	600	700	800	900	1000	1100	1200	1300	1400	1500	1600	1700	1800	1900	2000
+
+I	II	III	IV	V	VI	VII	VIII	IX	X	XI	XII
+
+[illegible]	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]
+
+[NOTE: the title spells NECTOFORES, as the table in Fig. 3 does in its fourth
+column head; the English caption below spells "nectophores". The scale bar's nine
+numerals are illegible.]
+
+Рис. 8. Распределение количества "узких" нектофоров D.arctica в поле диаграммы месяц-глубина.
+Distribution of D.arctica "narrow" nectophores on diagram month-depth.
+[/FIGURE]
+
+160
+
+<<<PAGE pdf=8 file=page_008.txt>>>
+[PAGE 161]
+
+[NOTE: scanned page: three lines of Russian text at the head, then the last of the
+screen plots, Fig. 9, then four paragraphs of Russian which end the Russian half
+of the paper. The lower third of the page is blank.]
+
+Последняя серия (рис. 7-9) показывает корреляцию распределения суммы половых фрагментов, узких и широких нектофоров в поле диаграммы "глубина-месяц".
+
+[FIGURE]
+[NOTE: Fig. 9 — framed screen plot of the same construction as Figs. 7 and 8:
+title bar, twenty-one depth labels down the left, twelve Roman-numeral month
+labels along the foot, and a black scale bar below. The filled cells lie in the
+top four depth rows; a hand-drawn loop encloses the region from about month V to
+month XI and from the surface to about 1000 m.]
+
+WIDE NECTOFORES DISTRIBUTION ON MONTH-DEPTH DIAGRAM
+
+0	100	200	300	400	500	600	700	800	900	1000	1100	1200	1300	1400	1500	1600	1700	1800	1900	2000
+
+I	II	III	IV	V	VI	VII	VIII	IX	X	XI	XII
+
+9	14	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]
+
+[NOTE: only the first two of the scale bar's nine numerals can be read. As in
+Figs. 7 and 8, the Roman five is drawn with a rounded foot and would read as U on
+its own.]
+
+Рис. 9. Распределение количества "широких" нектофоров D.arctica в поле диаграммы месяц-глубина
+Distribution of D.arctica "wide" nectophores on diagram month-depth.
+[/FIGURE]
+
+[NOTE: the Russian caption line of Fig. 9 ends without a full stop, unlike those
+of Figs. 7 and 8.]
+
+Отметив на диаграмме максимум суммы половых фрагментов, перенесем эту область на диаграмму с суммой узких нектофоров. Даже неискушенному глазу видно, что корреляции нет. Проделаем аналогичную процедуру для диаграммы с широкими нектофорами. Отчетливо видно, что корреляция есть, причем в большей степени для месяца, чем для глубины.
+
+Несмотря на явно недостаточное количество наблюдений по Японскому морю и малую плотность данных во времени и пространстве программа визуализации позволила дать качественное представление о закономерностях распределения объектов базы данных и связях отдельных частей между собой.
+
+Следует проверить полученные результаты на материале из других акваторий Мирового океана. Однако уже сейчас можно сказать, что методы компьютерной визуализации позволяют зоологу производить первичный анализ базы данных и поиск общих закономерностей, не привлекая математический аппарат.
+
+161
+
+<<<PAGE pdf=9 file=page_009.txt>>>
+[PAGE 162]
+
+[NOTE: English half begins here]
+
+[NOTE: scanned page, single column, no figures. The English half of the paper
+restarts with its own byline, affiliation and title. Quotation marks are set as
+upright pairs and are transcribed as ". A stray comma-like ink mark stands in the
+left margin level with the byline.]
+
+S.D. Stepanjants, M.B. Dianov
+
+Zoological Institute, RAS, St.-Petersburg, Russia
+
+THE COMPUTER APPROACH TO THE STUDY OF THE MORPHOLOGICAL AND BIOLOGICAL PECULIARITIES OF SIPHONOPHORA DIMOPHYES ARCTICA (CHUN, 1897)
+
+[NOTE: in the title DIMOPHYES ARCTICA is set in bold italic capitals, the rest in
+bold roman capitals; it is broken over three lines on the page.]
+
+Dimophyes arctica (Chun, 1897) is one of the most common siphonophores, which was described from the Arctic Basin and therefore considered for a long time as a typical coldwater species. Later it was found in all regions of the world's oceans from the Arctic to Antarctic, including the tropical zone, and presently it can be with due validity refereed to panoceanic species (Stepanjants, Lobanov, 1989; Pages, Gili, 1992).
+
+The colony fragments of D.arctica were found from the surface of the sea to depths of several thousands meters, at a temperature from -1° C, to 22° C and salinity 33.5-35 ‰. (Stepanjants, Lobanov, 1989).
+
+The morphological peculiarity of D.arctica colonies is well known. This diphyid siphonophora (the colony has 2 nectophores: the anterior and posterior ones) is characterized by 2 forms of the anterior nectophores – "wide" and "narrow" ones (fig.1:1,2). This peculiarity is absent in other diphyid species. There is so far no explanation of this feature of D.arctica. In traditional qualitative sorting of material from different regions and depths it assumed that "wide" and "narrow" nectophores are always present simultaneously in about equal number. Besides two types of the anterior nectophores, there are the posterior nectophores, bracts, gonophores (♂ and ♀), or the whole cormidias (fig.1:3-6) present in samples.
+
+There are more than 500 samples with D.arctica in collection of Zoological Institute (ZIN). The analysis of this collection resulted in preparation of the data base. Only samples adequate for receiving station-by-station comprehensive information with respect to environmental elements at each observation point, amount of discovered fragments as well as coordinates, depths, catching tools, sampling time and season, have been represented in the data base (Stepanjants, Lobanov, 1989). Since the ZIN collection of D.arctica includes basically material from the Russian Eurasian Arctic seas, Far-east seas and the North Pacific region (partly from the Caribbean Sea), the literature data were also used in case they included the entire of the above-listed information.
+
+[NOTE: in "(fig.1:1,2)" and "(fig.1:3-6)" the numerals after the colon are set in
+italic. The salinity unit after 33.5-35 is a per-mille sign drawn as a percent
+sign with a second small o after it. "Pages" is printed without the accent that
+the name Pagès carries elsewhere.]
+
+162
+
+<<<PAGE pdf=10 file=page_010.txt>>>
+[PAGE 163]
+
+[NOTE: English half of the bilingual paper; the figures cited here (Fig. 1-9) are printed in the Russian half and do not appear on this page. Scan is degraded and some commas print as bare dots.]
+
+From this data base the computer map of D.arctica finding was prepared using of the original WORLDMAP software (authors A. Lobanov and M. Dianov) (fig.2). This software permits to receive interactive indications of geographic coordinates and data on number of colony fragments of D. arctica for each particular observation point. It should be noted, that as new information becomes available in the data base, new points and accordingly new information about fragments and colonies in every new point will appear on the map.
+
+Previously data on the Sea of Japan were analyzed (108 samples). Using some statistical methods (15 original programs), such as the paired and multiple regression and correlation analysis, factor analysis and discriminant analysis, analysis of variance and contingency tables, these data were accepted for the improvement of the peculiarities of inhabitation and reproduction of this species and for understanding reasons of occurrence of the two morphological forms of anterior nectophores (Stepanjants and Lobanov, 1989). The standardized numerical values of different fragments and their sums in 1 cubic m. were analyzed. The transformation of the continuously changing factor values and the analyzed numbers into the number scales has been developed.
+
+The effect of such environmental factors as temperature and salinity, depth of finding, month, and time of the day was analyzed. The influence of these parameters on numerical content of all the colony fragments, all the nectophores, "wide" and "narrow" nectophores separately, as well as the number of generative fragments were examined.
+
+The variance analysis of the effect of the whole set of the above factors and pairs of factors on all the fragments and separate fragments shows that it is the season, as well as the combination of season, depth, temperature and salinity, that are the most influential parameters.
+
+The time of day does not influence the number of D.arctica fragments, which evidently testifies the absence of daily migration of this species.
+
+As is evident from Fig.3, the environmental dependence is more distinct for generative fragments than for nectophores. It means that reproduction of D.arctica colonies is occurring in a more limiting environmental conditions. Among nectophores, "wide" nectophores are more clearly dependent on the season and temperature than "narrow" ones. The latter are more eurybiotic.
+
+As is shown by the analysis of the contingency tables, the numerical criteria of dependency of the reproductive fragments on environmental factors are similar to those of the "wide" nectophores. It permits to associate the occurrence of "wide" nectophores with the beginning of the
+
+163
+
+<<<PAGE pdf=11 file=page_011.txt>>>
+[PAGE 164]
+
+[NOTE: English half of the bilingual paper; the figures cited here (Fig. 1-9) are printed in the Russian half and do not appear on this page.]
+
+reproduction process of the D. arctica colonies.
+
+In other words, the "narrow" nectophores with well developed muscles, dense mesogloea and pointed apical part of umbrella are characteristic this species (Fig.1,1). During the reproductive period, however, colonies producing the reproductive zooids, the biochemical composition of tissues is changed. As a result, nectophores, which are produced in this period becomes the loosed muscles of the nectosac and mesogloea, the umbrella top is rounded, as a result nectophores as if are "expanded" (Fig.1,2).
+
+Obviously the previously employed methods and calculations are extremely complicated, requiring the standardization of the numerical indexes, and the interpretation of the results is sufficiently complicate. The updated methods of the computer visualization permitted to test the previous conclusions by the simplest analysis of the initial data.
+
+Unfortunately, it is impossible to adequately reproduce the colour solution of the visualization program by printing. We selected 16 colours from 262144 possible hues recognized by the human eye to display on the screen. The reader can usually assimilate only 2-3 hues of grey at the illustrations reproduced by offset method. On Fig.4 the distribution of the number of reproductive fragments on T-S diagram field is shown. As expected, the greatest amount of fragments was observed from a definitely specified water mass. It may be related with the material which was collected from the same water mass. The diagram in Fig.5 evidences, that such apprehensions proved justified: here the distribution of the reproductive fragments over the latitude and longitude (on the geographical map) is shown. It should be noted that this conclusion did not require any kind of calculations.
+
+The program-generated histograms are ordinary, but allow to see the regularity pattern without any calculations. As a vivid example Fig.6 shows the distribution of the sum of the reproductive fragments on depth with clearly defined maximum.
+
+The last series (Figs 7-9) shows the correlation of the distribution of the sum of the reproductive fragments, "narrow" and "wide" nectophores on the depth-month diagram field.
+
+Having noticed the sum maximum of reproductive fragments on the diagram and transposed this area into the diagram with the sum of "narrow" nectophores, one can be easily convinced that no correlation exists. The same operation for the "wide" nectofores shows a clearly defined correlation, a better one with respect to month than depth.
+
+Despite the lack of observations concerning the Sea of Japan and its
+
+164
+
+<<<PAGE pdf=12 file=page_012.txt>>>
+[PAGE 12: unnumbered]
+
+[NOTE: last page of the English half; no printed folio. Text occupies only the top of the page, the rest is blank apart from a few scanning specks.]
+
+inadequate spatial and temporal density, the visualization program made it possible to give a qualitative view on distribution patterns of the target of the data base and of the interrelation between its separate parts.
+
+The obtained results need to be compared with those obtained from other regions of the world's oceans. However, it is already possible to say that the computer visualization methods permit zoologists to make the initial analysis of the data base and search the general regularities without attracting the mathematical aids .

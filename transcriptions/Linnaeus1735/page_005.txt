@@ -1,0 +1,259 @@
+[PAGE 5: unnumbered]
+
+[NOTE: broadsheet table, right half; it continues the sheet begun on page 4. The display title is split across the page break — page 4 carries "CAROLI LINNÆI", this page carries "REGNUM LAPIDEUM."]
+[NOTE: two tables stand side by side on this half-sheet. The left one is the right-hand continuation of the "II. MINERÆ" table begun on page 4 (its heading is completed at the head of this page, and it carries only the specific-difference, synonym and Swedish columns; the Ordines, genus-name and generic-character columns are on page 4). The right one is a complete table, "III. FOSSILIA".]
+[NOTE: table continues from page 4.]
+[NOTE: in the left (MINERÆ) table each specific difference is prefixed by the chemical/planetary sign of its genus. Signs identified with confidence are given as Unicode (☉ ☽ ☿ ♀ ♂ ♃ ♄); the four salt signs at the head of the table and the zinc and bismuth signs are not identified and are described instead.]
+[NOTE: the "Ordines" entries of the FOSSILIA table are set rotated 90° (read bottom-to-top up the left edge of each block); they are transcribed here as ordinary words.]
+[NOTE: mirror-image show-through from the verso is visible over the whole sheet; it has been ignored.]
+[NOTE: neither table on this page carries column headings at head or foot.]
+
+REGNUM LAPIDEUM.
+
+[TABLE]
+	qvi Metallurgis Svecis dicuntur	Malmarter
+	peregrinis imprægnatâ.
+[NOTE: this is the completion of the "II. MINERÆ ſunt Lapides COMPOSITI / conſtant Petrâ particulis" heading begun on page 4.]
+
+[?symbol: circle with vertical bar] humoſum.	Terra nitroſa.	Salpetterjord.
+[?symbol: circle with vertical bar] qvartzoſum album.	Cryſtallus montana.	Bömiſk ſten.
+[?symbol: circle with vertical bar] qvartzoſum luteum.	Topazius.	Topaz.
+[?symbol: circle with vertical bar] qvartzoſum rubrum.	Rubinus.	Rubin.
+[?symbol: circle with vertical bar] qvartzoſum purpureum.	Amethiſtus.	Ametiſt.
+[?symbol: circle with vertical bar] qvartzoſum cœruleum.	Sapphirus.	Saphir.
+[?symbol: circle with vertical bar] qvartzoſum viride.	Smaragdus.	Smaragd.
+[?symbol: circle with vertical bar] qvartzoſum viridi-cœruleum.	Beryllus.	Beryll.
+[?symbol: circle with vertical bar] ſiliceum? (vel unde?)	Adamas.	Demant.
+[?symbol: circle with vertical bar] ſpatoſum acutum utrinque.	Spatum cryſtallinum.	Spat-chryſtall.
+[?symbol: circle with vertical bar] ſpatoſum truncatum utrinque.	Cryſtallus plumbifer.	Bly-chryſtall.
+[?symbol: circle with vertical bar] ſpatoſum, fragmentorum angulis oppoſitis.	Selenites.	Spegelſten.
+[?symbol: circle with vertical bar] marmoreum fœtidum.	Suillus Lapis.	Orſten.
+
+[?symbol: circle with horizontal bar] aqvæ marinæ.	Sal marinum.	Spanſkt Salt.
+[?symbol: circle with horizontal bar] aqvæ fontanæ.	Sal fontanum.	Lyneburgs Salt.
+[?symbol: circle with horizontal bar] ſolidum foſſile.	Sal gemmæ.	Berg-Salt.
+
+[?symbol: plain circle] nudum.	Alumen plumoſum.	Gedigen Alun.
+[?symbol: plain circle] ſchiſti.	Fiſſilis aluminaris.	Alun-Skifwer.
+
+[?symbol: circle with cross inside] ferri viride.	Vitriolum martis.	Kopparot.
+[?symbol: circle with cross inside] cupri cœruleum.	Vitriolum cyprinum.	Blåſten.
+
+E ſolidum.	Succinum var. col.	Bernſten.
+E tenax.	Ambra griſea.	Amber.
+[NOTE: the initial of these two rows is worn; it is read as E (for Electrum, the genus on page 4), but F cannot be excluded.]
+
+B fluidum album, ignem attrahens.	Naphtha.	Berg-Balſam.
+B liqvidum fuſcum nudum.	Petroleum.	Berg-olia.
+B liqvido-tenax nudum.	Maltha.	Berg-tiära.
+B ſolido-tenax nudum.	Aſphaltus.	Berg-bek.
+B ſolidum nudum.	Gagas.	Jord-bek.
+B ſolidum in ſchiſto.	Carbo foſſilis.	Sten-kohl.
+
+P nudus.	Sulphur nativum.	Gediget Swafvel.
+P micaceus.	Auripigmentum.	Operiment.
+P ferri flavus, figurâ varia.	Pyrites ♂ᵗⁱˢ var. fig.	Jernkies.
+P cupri fulvus.	Pyrites ♀ᵗⁱˢ	Kopparkies.
+P cupri vitreſcens.	Minera ♀ dura.	♀ Hårdmalm.
+P cupri qvartzoſus.	Minera ♀ qvartzoſa.	- - Hårdſlag.
+P cupri-cotaceus.	Minera ♀ arenacea.	- - Sandmalm.
+P cupri ſaturatiſſimus, petram tegens.	Minera ♀ mollis.	- Blötmalm.
+P cupri particulis impalpabilibus.	Minera ♀ chalybeata.	- - Stålſlag.
+P cupri fulvo-fuſcus.	Minera ♀ hepatica.	- - Lefverſlag.
+P cupri in apyro.	Minera ♀ tenax.	- Segmalm.
+P cupri in ollari aceroſo rigido.	Minera ♀ aceroſa.	- - Sådſlag.
+
+A argentei coloris.	Pyrites arſenicalis.	Watnkies.
+A vitro rubro.	Cobaltum.	Cobolt.
+A vitro cœruleo.	Saffera.	Saffle cobolt.
+A ollaris aceroſi rigidi.	Cobaltum rubrum.	Coboltblomma.
+
+☿ petra varia veſtitum.	Minera mercurii.	Qvilſilfvermalm.
+☿ rubro-tinctorium.	Cinnabaris nativa.	Berg-Cinnober.
+
+♁ ſtriato-fibroſum.	Minera Antimonii.	Spiſſglasmalm.
+♁ lamellato-ſqvamoſum.	Refuſius.	Klang.
+♁ micæ ſqvamoſæ & membranaceæ mixtæ.
+
+[?symbol: small circle with a circumflex above] fertile petroſum violaceum.	Minera Zinci.	Spiautermalm.
+[?symbol: small circle with a circumflex above] fertile petroſo-vitriolaceum?	Lapis atramentarius.
+[?symbol: small circle with a circumflex above] ſterile terreum.	Calaminaris.	Galmeja.
+[?symbol: small circle with a circumflex above] ſterile micaceum? an hujus loci?	Molybdæna.	Blyerts.
+
+[?symbol: open loop resembling a small script v with a curled tail] arſenici, colore fugaci.	Cobaltum Viſmuti.	Wiſſmutmalm.
+
+♃ petrâ veſtitum.	Minera ſtanni vulg.	Svitter.
+♃ polyedron irregulare nigrum.	Min. ♃. polyedra.	Zingraupen.
+♃ polyedron regulare purpuraſcens.	Granatus (ſœpius).	Granat.
+
+♄ particulis teſſulatis contiguis.	Galena teſſulata.	Terningmalm.
+♄ particulis teſſulatis ſparſis granulatis.	Miner. ♄ⁱ granulata.	Grofgrynig m.
+♄ particulis pulverulentis ſparſis nitidis.	Miner. ♄. punctata.	Grangniſtrig glans.
+♄ particulis pulverulentis ſparſis fugacibus.	Miner. ♄. colore fugaci.	Skyggmalm.
+♄ nitri ſpatoſi utrinq; truncati, viride.	Miner. ♄. cryſtallina.	Bly chryſtall.
+
+♂ ſulphure non adulteratum.	Min. martis optima.	Ren jernmalm.
+♂ - arſenico imprægnatum.		Kallbräkt malm.
+♂ - pyrite imprægnatum.		Rödbräkt malm.
+♂ petræ vitreſcentis, pauperrimum.		Torſten.
+♂ petræ vitreſcentis, dives.		Blandſten.
+♂ nudum octaëdron.	Ferrum purum (verè)	Gediget jern.
+♂ teſſulatum, fere nudum.	Ferrum ſub-purum.	Rent jern.
+♂ fracturis nitidum.	Min. ♂ᵗⁱˢ ſpecularis.	Spegel malm.
+♂ ferrum & mundi polos reſpiciens.	Magnes.	Magnet.
+♂ ollaris è centro radiati Zincei, extus puculati.	Magneſia.	Brunſten.
+♂ amianti anguloſi rigidi.	Hæmatites.	Blodſten.
+♂ amianti rigidi, extus puculati.	Nucleus hæmatitidis.	Glaskopf.
+
+♀ nudum teſſulatum.	Cuprum nativum.	Gedigen Koppar.
+♀ nudum informe præcipitatum.	Cuprum præcipitatum.	Præcipiterad ♀.
+♀ cœruleum.	Cuprum Lazureum.	Koppar-Lazur.
+♀ violaceum.	Cuprum vitrei coloris.	Kopper-glas.
+
+☽ nudum.	formâ varia.	Argentum nativum.	Gediget Silfver.
+☽ malleabile incanum.	Miner. ☽ vitri color.	Glasmalm.
+☽ ſubdiaphanum rubeſcens, ad candelam liqueſc.	Miner. ☽ cornu col.	Hornmalm.
+☽ rubeſcens.	Miner. ☽ rubra.	Rödgylden.
+☽ fragile albidum.	Miner. ☽ alba.	Liusgylden.
+
+☉ nudum.	Aurum nativum.	Gediget Guld.
+☉ marmoris nitidi cœrulei, maculis albicantibus.	Min. ☉ Lazurea.	Guld-Lazur.
+☉ in mercuriali alio paraſiticum.	Min. ☉ mixta.	Guld-malm.
+[/TABLE]
+
+[TABLE]
+III. FOSSILIA	ſunt Lapides AGGREGATI, qvi à Svecis dicuntur	Gruſarter.
+	conſtant particulis petroſis vel mineralicis mixtis.
+
+[Ordines] 1. TERRÆ particulis pulverulentis conſtant.
+
+Glarea.	conſtat	Particulis ſcabris, fragile diſtinctis.	G tenuiſſima, flatu aeris volitans.	Glarea mobilis.	Qvellen-
+				G farinacea apyra.	Arena ſterilis.	Mo.
+				G argillacea apyra mixta.	Terra adamica.
+[NOTE: the Swedish column here reads "Qvellen-" on the first row and "Mo." on the second; it may be the single hyphenated word "Qvellen-Mo." broken across two rows.]
+
+Argilla.		Particulis lubricis, tenaciter cohærentibus.	A apyra.	Argilla gallica.	Eldfaſt Lehr.
+				A calcarea nivea.	Argilla nivea.	Bleke.
+				A vitreſcens, vitro ſubdiaphano.	Porcellana.	Porſellin-Lehr.
+				A vitreſcens teſſulata.	Argilla figulina.	Kruko-Lehr.
+				A vitreſcens rudis.	Argilla vulgaris.	Blå-Lehr.
+				A vitreſcens impalpabilis.	Bolus.	Terra Sigillata.
+
+Humus.		Vegetabili vel animali deſtructo.	H animalis, conchæ lævis oblongæ.	Humus conchacea.	Helſing-mylla.
+				H vegetabilis communis.	Humus atra.	Swart-mylla.
+				H vegetabilis paluſtris pura.	Lutum.	Dy.
+				H vegetabilis paludoſa, radicibus mixta.	Turfa.	Torf.
+
+Arena.		Lapidis cujuſcunque pulvere.	A qvartzoſa.	Arena riparia.	Strandſand.
+				A petroſa, vix palpabilis æqvalis.	Arena boraria.	Skurſand.
+				A mixta & inæqvalis.	Sabulum.	Grus.
+				A micacea ſquamoſa.	Arena aurea l. argent.	Glitterſand.
+				A ferrea atra.	Ar. atra fluviatilis.	Jernſand.
+				A aurea rubra.	Ar. aurifera.	Guldſand.
+
+Ochra.		Mercuriali quodam, a vitriolo ſuo ſoluto.	O ferri lutea.	Ochra flava.	Kiöllerfärg.
+				O ferri lutea argentifera.	Ochra argentea.	Gilbe.
+				O cupri cœrulea.	Chryſoc. ſ. cœrul. mont.	Bergblått.
+				O cupri viridis.	Viride montanum.	Berggrönt.
+
+Marga.		Terra aliqva (argillacea ſœpius) indurata.	M rubra ſolidiuſcula.	Rubrica.	Rödkrita.
+				M alba ſolido-friabilis.	Creta alba.	Krita.
+				M luteo-alba ſolido-friabilis.	Terra tripolitana.	Trippel.
+				M cinerea ſolida.	Lithomarga.	Siöſkum.
+				M nivea friabiliſſima.	Agaricus mineralis.	Lac lunæ offic.
+
+[Ordines] 2. CONCRETA particulis terreſtribus coalita ſunt.
+
+Pumex.	generatur	In elemento Igneo.	P Vegetabilium ater.	Fuligo.	Soot.
+				P Pyritæ cinereus.	Pumex.	Pimpſten.
+				P Terræ cinereus.
+				P Cupri ruber.
+				P Argillæ cinereus.
+
+Stalactites.		In elemento Aëreo.	S argillæ calcareæ.	Incruſtatio.	Droppſten.
+				S calcis nitroſæ.	Nitrum calcareum.
+				S qvartzi.
+
+Tophus.		In elemento Aqveo.	T glareæ farinaceæ.	Luſus argillaceus.	Näckbröd.
+				T arenæ mixtæ, ferro imprægnatæ.	Min. ♂ aren. flava.	Sandmalm.
+				T humi paluſtris ochraceo-ferreæ.	Min. ♂ paludoſa.	[?Orke.] Myrmalm.
+				T humi lacuſtris ochraceo-ferreæ.	Min. ♂ lacuſtris.	Siömalm.
+
+Saxum.		In elemento Terreo.	S micaceum puculatum granuloſum.	Molaris Lapis.	Murkſten.
+				S micaceum longitudinaliter fiſſile.		[?Stälſten.]
+				S qvartzoſo-micaceum impalpabile, granis ſpataceis.	Porphyrius Dalk.	Fyrſten.
+				S ſpatoſum rubrum.	Sax. Alandicum.	Alandſten.
+				S qvartzoſum album, mica nigra maculatum.	Sax. Angermannic.	Angermanſten.
+				S micaceo-corneum, granulis nigris puculatum.	Sax. alpino-Lapponic.	Lapſk Fiellſten.
+				S cotaceum compactum albicans.	Sax. alpino-Dalekarl.	Dalſk Fiellſten.
+
+Ætites.		Intra naturale Lapideum.	Æ embryone lapilluloſo libero.	Ætites.	örnſten.
+				Æ embryone lapilluloſo adnato.	Pſeudo ætites.
+				Æ embryone terreſtri libero.	Geodes.	Skallerſten.
+
+Tartarus.		Intra natur. Vegetabile.	T vini.	Tartarus.	Winſten.
+				T cereviſiæ.	Fermentum.	Giäſt.
+
+Calculus.		Intra naturale Animale.	C ſalivæ dentium.	Tartarus dentium.	Tandgrus.
+				C gaſtrici animalium pecorum.	Ægagropila.	Tyre.
+				C Bilis cyſtidis.	Calc. felleus.	Gallſten.
+				C urinæ humanæ.	Calc. nephriticus.	Menniſkioſten.
+				C urinæ Simiarum, Caprorum &c.	Bezoarticus Lap.	Bezoar. off.
+				C inſecti Aſtaci.	Oculi cancrorum.	Kräfte-ſten.
+				C vermis conchæ.	Margarita.	Pärla.
+
+[Ordines] 3. PETRIFICATA ſimulacrum Vegetabilis vel Animalis impreſſum oſtendunt.
+
+Graptolithus.		Petrificatum picturâ aſſimilans.	G lineis mappam geographicam referens.	Lapis geographicus.
+				G prœlia, urbes, rudera vel ſimilia referens.	Lapis ruderatus.
+				G nemora, arbores, plantasve referens.	Dendrites.
+				G plantam Fucum referens.	Phycites.
+				G ſtellas & puncta radiata referens.	Pſeudo-aſtroïtes.
+				G circulos intra circulos referens.	Concha anomia.
+				G puncta informia referens.	Stigmites.	Punctularia.
+
+Phytolithus.		Petrificatum Vegetabilis	Ph ligni.	Lithoxylon.	Petrificert träd.
+				Ph folii.	Phytobiblion.
+				Ph ſeminis.	Piſolithus.
+				Ph rami.	Pſeudo-corallium.
+
+Helmintholithus.	Petrificatum Vermis.	H Lumbrici.	Entrochus.
+				H Meduſæ.	Aſteria columnaris.
+				H Echini.	Echinites.	Davids ſlongſten.
+				H Echini ſpinæ.	Belemnites.	Lap. Lyncis offic.
+				H Echini articuli ſpiniferi.	Judaicus Lapis.
+				H Patellæ?	Nummus Brattinburgenſis Stobæi.
+				H Patellæ aut conchæ hinc planæ, inde gibbæ.	Hyſterolithus.	Käringtand.
+				H Conchæ ſubrotundæ.	Conchites.
+				H Conchæ hinc planæ, inde gibbæ.	Pectinites.
+				H Conchæ lamellatæ.	Oſtracites.
+				H Conchæ oblongæ.	Muſculites.
+				H Cochleæ ſpira laterali.	Cochlites.
+				H Cochleæ ſpira centrali.	Nerites.
+				H Nautili recti.	Orthocerotes.	Gotlandſpik.
+				H Nautili rotundati.	Nautilites.
+				H Nautili compreſſi.	Cornu ammonis.
+
+Entomolithus.	Petrificatum Inſecti.	E cancri.	Aſtacus petrific.
+
+Ichthyolithus.	Petrificatum Piſcis.	I incertæ vel certæ, totalis vel part. ſpeciei.	Ichthyolithus.
+				I dentis carchariæ.	Gloſſopetra.
+				I ovorum.	Oolithus.	Romſten.
+				I oſſis palatini.	Bufonites.
+
+Amphibiolithus.	Petrificatum Amphibii.	A Angvis.	Serpens petrif.
+				A Lacertæ.
+				A Ranæ.
+				A Teſtudinis.
+
+Ornitholithus.	Petrificatum Avis.	O totalis, certi vel incerti generis.	Avis petrifacta.
+				O partialis.
+
+Zoolithus.	Petrific. Qvadrupedis	Z totalis certi vel incerti animalis.	Qvadrupes petrif.
+				Z oſſium.	Oſſa foſſilia.	Mammotovacoſt.
+[/TABLE]
+
+[STAMP] MISSOURI BOTANICAL GARDEN
+[NOTE: red circular library stamp, printed over the blank part of the Phytolithus/Helmintholithus block in the FOSSILIA table, about two thirds of the way down the page.]
+
+[NOTE: the table ends here; page 6 is a separate sheet, "OBSERVATIONES IN REGNUM LAPIDEUM", not a continuation of this table.]

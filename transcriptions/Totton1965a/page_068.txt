@@ -1,0 +1,40 @@
+[PAGE 63]
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 4 AGALMIDAE	63
+
+Stem:   Deep, rich orange-scarlet in colour.
+
+Gastrozooids and tentacles:   Gastrozooids long and narrow, up to 30 mm in length, of which one-fifth to one-half is formed by the cylindrical basigaster. Tentilla unicornuate, without involucrum. Cnidoband in three coils, 0·9 mm to 2·5 mm in length. Pedicel of tentillum 0·8 mm in length, terminal filament 1–5 mm in length. Nematocysts of cnidoband in a dozen rows, about 5,000 in number, finger-shaped (?) anisorhizas, 40μ long, 7μ diameter. On either side are 125 large 'accessory' nematocysts, (?) mastigophores, measuring 50μ long, 20μ diameter. The terminal filament contains numerous smaller, ovoid, (?) isorhizas, measuring 18μ × 5μ, as well as larger ovoid nematocysts measuring 18μ × 13μ.
+
+Palpons:   Up to 30 mm length, slender, possibly lacking palpacles, borne on gonodendra.
+
+[FIGURE]
+A
+D
+P.
+O.v.
+E
+N.uc.
+Spx.
+B
+P.
+0
+1.m.m.
+C
+0
+2 mm.
+
+FIG. 27.   Marrus antarcticus Totton. Bracts and gonophore
+A, lateral view of an adult bract; B, upper view of same; C, D, lateral views of young bracts; E, gonophore. A, B, C, D, × 12, E, × 13
+Nuc = nucleus; Ov = ovum; P = palpon; Spx = spadix (from Totton, 1954, fig. 21).
+[/FIGURE]
+
+Gonophores (text-figure 27E):   (Female), much reduced, with four radial canals but no ostium, and monovon. Eggs up to 1·25 mm diameter, surrounded by irregularly branched spadix on one side only. A specimen from 'Discovery' Station 2010 is all male.
+
+Bracts (text-fig. 27A–D):   Flattened cone-shaped, truncated distally, bracteal canal terminating on papilla on this distal facet.
+
+Marrus orthocannoides Totton, 1954
+Text-figures 28, 29
+
+A cold water form, whose nectophores differ in one important respect from those of the other two species in having no muscle-free adaxial wall to the nectosac. Known only from fragments.
+
+[NOTE: "μ" is the printed Greek mu, set immediately after each numeral without a space. In "formed by the cylindrical basigaster" the "e" of "the" has a broken crossbar in this copy and can read as "c"; the word is "the". Text-fig. 27 occupies the middle half of the page: the two large drawings A (upper) and B (lower) fill the left two-thirds, while D (top), E (middle) and C (bottom) are ranged down the right-hand side. The lettering listed inside [FIGURE] above is all the text printed within the drawings, given in approximate top-to-bottom reading order; the scale bar lettered "0" and "1.m.m." belongs to drawing E, and the lower bar lettered "0" and "2 mm." to drawings A and B. Two separate labels read "P." in drawing E, one above and one to the right. All the in-drawing lettering is hand-lettered in a sloping style; the "1" of "1.m.m." is a bare stroke and each "0" a small circle. Note that the drawing letters the labels "O.v.", "N.uc." and "Spx." with internal stops where the caption spells them "Ov", "Nuc" and "Spx"; as printed. The "=" signs in the caption are printed as a double-stroke equals glyph. "Marrus orthocannoides" is printed with a double "n".]

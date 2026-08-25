@@ -1,0 +1,60 @@
+[PAGE 171]
+
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 12 DIPHYIDAE	171
+
+[FIGURE]
+A	B	C
+
+Som.	Som.	D
+
+0.5.mm.	C.circ.	0.5.mm.	Som.
+
+H
+
+0	0	Gz
+
+C.ped
+
+Som.
+
+1 mm.
+
+0
+
+C.pa
+
+E	Pl.M.	F	Som.
+
+H
+
+Gz	G
+
+FIG. 107.   Lensia meteori Leloup. Polygastric phase
+A, B, D, somatocysts of anterior nectophores from the Adriatic; C, ventral view of a somatocyst from Port Sudan; E, F, anterior nectophores from S.W. Ireland; G, from 'Discovery' St. 1587. A, × 47; B, × 38; C, D, × 20; E, F, G, × 20
+C.cir = circular canal; C.ped = pedicular canal; Gz = gastrozooid; C.pa = pallial canal; H = hydroecium; Som = somatocyst (from Totton, 1954, fig. 60).
+[/FIGURE]
+
+Lensia achilles Totton, 1941
+Text-figure 106 (see p. 170)
+
+A five-ridged, deep-water form, coloured deep or bright orange in life.
+
+Polygastric phase
+
+Anterior nectophore (text-fig. 106):   Five complete ridges, the basal ends the of laterals bending dorsad. Vault of hydroecium level with the ostium, with a deep notch on the baso-ventral margin. Somatocysts spindle-shaped. The nectophore shown by Bigelow (1913, fig. 2) almost certainly belongs to this species, but his descriptions of the two nectophores may refer to more than one species.
+
+Posterior nectophore:   The nectophore shown by Bigelow (1913, Pl. 6, figs. 3, 4) may belong to this species.
+
+Eudoxid phase – undescribed.
+
+[NOTE: the whole upper half of the page is text-figure 107, whose seven panels A–G are drawn
+across the measure with hand-lettered labels. The labels above are listed panel by panel in
+reading order, top row (A, B, C, D) then bottom row (E, F, G), with tab separators where
+labels stand side by side; the drawings themselves are not described. The two scale bars in
+the top row are lettered "0.5.mm." with a full stop between the numeral and the unit, as
+given. The circular-canal label on the drawing reads "C.circ." while the caption lists it as
+"C.cir", and the mouth-plate label on the drawing reads "Pl.M." though it is not listed in
+this caption at all; both are given as they appear.]
+
+[NOTE: in the Lensia achilles description the phrase "the basal ends the of laterals" is
+printed with "the" and "of" transposed. This is as printed and has not been corrected.]

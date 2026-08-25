@@ -1,0 +1,23 @@
+[PAGE 5]
+
+[NOTE: English translation, born-digital and fully legible. Printed as-is: "the membranes of the blastomeres of some planes of junction" (for the French "des plans d'affrontement"), "the outlines are include amongst", "none other that the primary endoderm", and the section head "THE PLANULA (Pl. II, 2,3)" where the French original reads "Pl. II, 1, 2, 3". The last line breaks mid-sentence and continues on the next page.]
+
+[RUNNING HEAD] 5
+
+Woltereck (1905) wrote “when the egg contains about forty blastomeres, the formation of the endoderm begins and is produced by a typical delamination; at the periphery are formed some radially disposed spindles and, by a series of unequal divisions, the ectoplasmic lamella of each blastomere is separated from the endoplasmic mass”. These observations are similar to ours. Lockmann (1914), in his study of the development of Sulculeolaria quadrivalvis, says, “the fertilised egg divided by total segmentation, according to the imprecise accustomed laws as far as the stage called morula”.
+
+In spite of the poor opacity of the larvae of siphonophores, it is often difficult to distinguish the membranes of the blastomeres of some planes of junction of vitelline vesicles. This is perhaps the origin of the uncertainties or errors of observation and we believe that histological studies of the first stages of development of other species are desirable finally to establish with certainty the modalities of gastrulation.
+
+THE GASTRULA (Pl. I, 7,8)
+
+The gastrula stage is marked by a change in the shape of the larva which becomes slightly elongated.
+
+The external cells divide actively. They progressively diminish in size and are organised into a regular ciliated epithelium, the ectoderm.
+
+The internal cells form the endoderm. In each gastrula, all the endodermal nuclei are situated at the periphery, against the ectoderm. Later on, during the passage to the planula stage, certain ones remain in place while others are found in the central part of the larva (Pl. I, 8). The former are surrounded by granulose cytoplasm. They are especially localised at the anterior pole and on the ventral face, where they divide, gradually forming in these regions a coating of definitive endoderm duplicating the ectoderm. The endodermic nuclei which penetrate to the interior of the larva divide also, but we have not been able to follow a partition concomitant with the vitellus which, beyond the morula stage, seems no longer concerned with mitoses. These nuclei never appear degenerative, and we think that they all participate, at a more or less precocious stage, to the formation of the definitive endoderm.
+
+These observations direct us to discuss the ideas of primary and secondary endoderm. Dawydoff (1928) defined the primary endoderm as a cellular mass rich in vitelline granulations, destined to disappear and to be replaced by the definitive endoderm of which the outlines are include amongst the provisional elements. Woltereck (1905), after having described the formation of the primary endoderm by delamination, wrote that this process is immediately followed by the formation of the secondary endoderm which appears between the ectoderm and the primary endoderm. He affirmed that this definitive endoderm took its origin from the basal part of the ectodermal cells, hence, the provisional character of the primary endoderm. These definitions of primary and secondary endoderm which imply a succession are perhaps to be abandoned. We think that the definitive endoderm is none other that the primary endoderm of which the nuclei have multiplied and arranged in a regular fashion at the periphery of the larva, while the vitelline mass regresses in proportion to the utilisation of the reserves.
+
+THE PLANULA (Pl. II, 2,3)
+
+At the planula stage, reached about 1.5 days after release, the larva measured 325µm. It swims gracefully using batteries of cilia regularly arranged over the entire surface of the ectoderm. The ectodermal cells are thin and flattened. Some

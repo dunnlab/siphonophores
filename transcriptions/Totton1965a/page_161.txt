@@ -1,0 +1,38 @@
+[PAGE 156]
+
+156	[RUNNING HEAD] A SYNOPSIS OF THE SIPHONOPHORA
+
+a secondary upstanding part as in most 'diphyid' bracts. The relationship of the articulating surfaces of bract and swimming bell in the apical region resembles that found in early developmental stages of the eudoxids of D. dispar and D. chamissonis. This surface is vertical. The cavity of the bract is very shallow. The ends of the phyllocyst grow out horizontally into horns.
+
+The tiny mature gonophore has a cylindrical peduncle set on at an angle towards its right ventral side. It has no ridges, but vestiges of a dorsal tooth can be seen and a small elliptical mouth-plate. The manubrium which carries six or seven eggs in the female nearly fills the sub-umbrella.
+
+The asymmetrical nectocalyx of the swimming bell has an enlargement in the middle of the left-hand side. For further details see Moser (1925, p. 214); Totton (1932, p. 350).
+
+Diphyes chamissonis Huxley, 1859
+Text-figures 93, 94
+
+Diphyopsis weberi Lens & van Riemsdijk, 1908
+
+A species not often taken in the open oceans, but very abundant in certain places offshore such as inside the great Barrier Reef. The then known distribution was given by Totton (1932, p. 351) who was the last reviewer.
+
+Polygastric phase
+
+Anterior nectophore (text-fig. 93):   Up to 12 mm in length. Five longitudinal ridges, all reaching the apex. Apex not sharply pointed. At this point the ventral facet is twisted over a little to the right. The three ostial teeth of about the same size.
+
+Hydroecium deep, reaching up to the mid length of the nectosac and extending well below the level of the ostium. Somatocyst short, fusiform.
+
+[FIGURE]
+1 MM
+
+FIG. 93.   Diphyes chamissonis Huxley Polygastric phase, Great Barrier Reef. Lateral view of the solitary (anterior) nectophore, to show the asymmetrical twist of the ventral facet, fig. 23). × 10.5 (from Totton, 1932)
+[/FIGURE]
+
+[NOTE: the lower half of the page is a single text-figure, text-fig. 93, a drawing set centrally with its three-line caption beneath. The only lettering on the drawing is the vertical scale bar to the upper right, lettered "1 MM" at the top, the numeral a plain vertical stroke set very close to the small-capital "MM". Verified at 5x.]
+
+[NOTE: the caption's "the ventral facet, fig. 23). × 10.5" carries a closing parenthesis after "fig. 23" with no opening one, and the caption ends with "(from Totton, 1932)" and no full point. Both are as printed.]
+
+[NOTE: numerals verified digit by digit: 156; Moser (1925, p. 214); Totton (1932, p. 350); Huxley, 1859; Text-figures 93, 94; Lens & van Riemsdijk, 1908; Totton (1932, p. 351); text-fig. 93; 12 mm; FIG. 93; fig. 23; × 10.5; Totton, 1932. The decimal point of the caption's "10.5" is a full stop on the baseline, matching the other captions in this range; the zeros of "10.5", "350", "351", "1908" and "214" are old-style figures at x-height. The multiplication sign is a saltire cross.]
+
+[NOTE: a short slanting stray ink stroke stands alone in the outer lower margin, well below and to the right of the caption. It is not a legible character and is not transcribable text — probably offset ink or a scanning artefact.]
+
+[NOTE: "'diphyid'" is printed in roman within single quotation marks. "see" is italic. The species heading is bold italic with the authority in roman; the single synonymy line is set in smaller type with the taxon name italic. "FIG. 93." is small capitals with a full point after the number, and the species name in the caption is italic with "Huxley" roman. No printed square brackets occur on this page.]

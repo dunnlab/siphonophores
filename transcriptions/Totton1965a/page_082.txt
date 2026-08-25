@@ -1,0 +1,44 @@
+[PAGE 77]
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 5 PYROSTEPHIDAE	77
+
+[FIGURE]
+c.r.d
+c.r.l
+l.d.s
+r.a.l
+r.f
+r.o.l
+A
+5mm
+r.f
+r.a.l
+l.d.f
+r.o.l
+B
+r.o.l
+r.f
+r.a.l
+C
+l.d.l.m
+
+FIG. 40.   Pyrostephos vanhoeffeni Moser
+Nectophore from 'Discovery' St. 1525 to show ridges and loops of the lateral radial canal. A, from above; B, ostial view;
+C, lateral view
+c.r.d = dorsal radial canal; c.r.l = lateral radial canal; l.d.f = final downward lateral loop; l.d.l.m = main downward lateral loop; l.d.s = small downward lateral loop; r.a.l = apico-lateral ridge; r.o.l = oro-lateral ridge; r.f = frontal ridge.
+[/FIGURE]
+
+[FIGURE]
+c.r.d
+c.p
+a.f
+c.r.l
+c.r.l
+f
+c.r.v
+
+FIG. 41.   Pyrostephos vanhoeffeni Moser
+Nectophore, adaxial view, 'Discovery' St. 331, × 11
+a.f = muscle-free area of nectosac wall; c.r.d, c.r.l, c.r.v = dorsal, lateral and ventral radial canals; c.p = pallial canal; f = fold in lateral wall of nectosac. The flag-line stops some 5 mm short of the fold.
+[/FIGURE]
+
+[NOTE: printed folio 77 at the outer (right) edge of the running head; PDF index 82, offset −5 holds. This page carries no body text at all — only the two text-figures and their captions. The items listed inside each [FIGURE] block are exactly the hand-lettered text printed within the drawings and nothing else; the illustrations are not described. Text-fig. 40 (upper third of the page) has three drawings: A occupying the left half, B at the upper right and C below B at the right. Its labels are listed above panel by panel — first the labels round A ("c.r.d", "c.r.l", "l.d.s" along the top, "r.a.l", "r.f", "r.o.l" lower down, the panel letter "A" at the lower left, and the horizontal scale bar lettered "5mm" above the bar, set between A and C), then those round B ("r.f", "r.a.l", "l.d.f", "r.o.l" and the panel letter "B"), then those round C ("r.o.l", "r.f", "r.a.l", the panel letter "C", and "l.d.l.m" below the drawing). Text-fig. 41 (lower two-thirds) is a single large drawing with seven leader labels: "c.r.d", "c.p", "a.f", "c.r.l" across the top, "c.r.l" again at the left, "f" at the right and "c.r.v" at the lower right; it has no panel letter and no scale bar. In both captions the abbreviations in the keys are set in italic and the "=" signs are printed as a double-stroke equals glyph. Station numbers verified digit by digit: St. 1525 and St. 331. The caption of fig. 40 sets "C, lateral view" on a line of its own, centred, because the preceding line is full; that line break is kept. No printed square brackets occur on this page.]

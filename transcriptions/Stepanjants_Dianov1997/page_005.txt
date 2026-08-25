@@ -1,0 +1,43 @@
+[PAGE 158]
+
+[NOTE: scanned page, Russian text with one framed figure (Fig. 4) filling the
+middle of the page. The figure is a screen dump of the visualisation program, in
+the same coarse bitmap face as Figs. 2 and 3, and its scale-bar numerals are set
+white-on-black and are largely destroyed in this scan.]
+
+жения, однако, у колоний, продуцирующих половые особи, меняется биохимия тканей нектофоров: становятся дряблыми мезоглея и мускулатура нектосака, вершина колокола округляется, сам колокол в результате как бы "расширяется" (рис.1,2).
+
+[NOTE: "нектосака" is printed with a stray acute-like mark over the о; and in
+"(рис.1,2)" the second numeral is set in italic.]
+
+Как ясно из сказанного выше, примененные ранее методы и вычисления весьма трудоемки, так как требуют стандартизации численных показателей, а интерпретации полученных значений достаточно сложны. Современные методы компьютерной визуализации позволяют проверить сделанные ранее выводы простейшим анализом исходных данных.
+
+К сожалению, адекватно воспроизвести цветовые решения программы визуализации типографским способом невозможно. При выводе на экран компьютера 16 цветов производился выбор из 262144 возможных оттенков, большинство которых может распознать глаз человека. При воспроизведении иллюстраций методом офсетной печати читателем воспринимаются только 2-3 оттенка серого.
+
+[FIGURE]
+[NOTE: Fig. 4 — a framed screen plot. A title bar across the head, a plotting
+field with about twenty solid square markers clustered in the upper part, an
+inverted vertical temperature axis on the left, a salinity axis along the foot,
+and below that a black scale bar carrying nine numerals in white. Lettering
+transcribed in reading order: title, y-axis labels top to bottom, x-axis labels
+left to right, then the scale bar.]
+
+ALL OF GENERATIVE FRAGMENTS DISTRIBUTION ON T-S DIAGRAM
+
+T°	1.0°	2.0°	3.0°	4.0°	5.0°	6.0°
+
+33.80%	33.90%	34.00%	34.10%	S%
+
+12	18	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]
+
+[NOTE: only the first two numerals of the scale bar can be read; the remaining
+seven are white on black and have filled in. They are evenly spaced and appear to
+continue an ascending sequence, but no digit in them is legible.]
+
+Рис. 4. Распределение генеративных фрагментов D.arctica в поле T-S диаграммы.
+Distribution of D.arctica generative fragments on T-S diagram.
+[/FIGURE]
+
+На рис. 4 показано распределение количества половых фрагментов в поле T-S диаграммы. Как и следовало ожидать, наибольшее количество фрагментов наблюдалось во вполне определенной водной массе, однако это может быть связано с тем, что сборы и проводились в пределах одной и той же водной массы территориально. Диа-
+
+158

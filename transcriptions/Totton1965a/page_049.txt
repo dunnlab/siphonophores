@@ -1,0 +1,33 @@
+[PAGE 44]
+[RUNNING HEAD] 44	A SYNOPSIS OF THE SIPHONOPHORA
+
+Bathyphysa japonica Kawamura, 1943
+B. japonica, Kawamura, 1954, Plate VI, figure 3; Plate VII, figures 8, 9
+
+Kawamura described 'stem branches' as in B. conifera (q.v.). I tentatively offer the same explanation as I gave for that species.
+
+? EPIBULIDAE Haeckel, 1888
+? EPIBULIINAE Bigelow, 1911
+EPIBULIA Eschscholtz, 1829; non EPIBULIA Vogt, 1854 (= SULCULEOLARIA)
+
+Rhizophysa chamissonis, Eysenhardt, 1821, one of the two species – the other was R. filiformis – for which Eschscholtz created the genus Epibulia, was chosen by Haeckel (1888b) as the type species. No specimens of this animal are known to be preserved. If there are such animals alive in the sea no doubt some will eventually be captured. Meanwhile all we have for basic consideration are the two crude figures, and a very poor latin description by Chamisso published by Eysenhardt (1821). On account of the presence of a ring of what look like palpons underneath the float it seems best to regard the animals, if they exist, as forming a quite separate family Epibulidae Haeckel.
+
+Thus, Epibulia chamissonis (Eysenhardt, 1821) is a problematic animal-name. It might conceivably apply to a Bathyphysa species, the alleged palpons being really young gastrozooids. Eschscholtz cannot have had a very clear concept of 'Epibulia' since he seemed inclined to include in it a physophore Cupulita boodwich Q. & G., 'on account of its red tentacles'. The use of the same name Epibulia by Haeckel (1888b) for his E. ritteriana had not really any sound reasoning behind it. His figure and description will be dealt with under that name.
+
+Epibulia chamissonis (Eysenhardt) 1821
+
+Rhizophysa chamissonis Eysenhardt, 1821
+
+A species inquirenda.   There is supposed to be a ring of palpons below the float. But it seems to be improbable that there is in existence an animal that would correspond with the poor description and figures, rather than with one that has been properly described under another name.
+
+Epibulia ritteriana Haeckel, 1888
+
+?Athorybia rosacea (Forskål) 1775
+
+I am not satisfied of the existence of a siphonophore such as was figured by Haeckel. If it was indeed a cystonect it could hardly have a ring of palpons under the float. The description is incomplete and unconvincing. It seems possible that Haeckel had worked up notes and sketches of an incompletely examined specimen of Athorybia rosacea.
+
+Sub-order II: Physonectae Haeckel, 1888
+
+Siphonophores whose larvae develop a budding zone on either side of the base of the apical float or pneumatophore. (Forskalia is an exception in that the budding-zone and siphosome appear to be on one and the same side.) From one zone, the nectosome (absent in Athorybia) bud the nectophores which propel the whole animal. From the other, the siphosome, the stem develops as either a long stem or a relatively short globular structure. It carries the gastrozooids, palpons, bracts and gonophores (text-fig. 7).
+
+[NOTE: the query marks before "EPIBULIDAE", "EPIBULIINAE" and "?Athorybia rosacea" are the author's own printed marks of doubt, not transcriber annotation; the first two are set off by a space, the third printed hard against the genus name.]

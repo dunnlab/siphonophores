@@ -1,0 +1,21 @@
+[PAGE 25]
+
+PLOS One
+
+103.	Chang CC, Chow CC, Tellier LC, Vattikuti S, Purcell SM, Lee JJ. Second-generation PLINK: rising to the challenge of larger and richer datasets. Gigascience. 2015;4:7. https://doi.org/10.1186/s13742-015-0047-8 PMID: 25722852
+104.	Li H, Durbin R. Fast and accurate short read alignment with Burrows-Wheeler transform. Bioinformatics. 2009;25(14):1754–60. https://doi.org/10.1093/bioinformatics/btp324 PMID: 19451168
+105.	Li H. A statistical framework for SNP calling, mutation discovery, association mapping and population genetical parameter estimation from sequencing data. Bioinformatics. 2011;27(21):2987–93. https://doi.org/10.1093/bioinformatics/btr509 PMID: 21903627
+106.	Korneliussen TS, Albrechtsen A, Nielsen R. ANGSD: Analysis of Next Generation Sequencing Data. BMC Bioinformatics. 2014;15(1):356. https://doi.org/10.1186/s12859-014-0356-4 PMID: 25420514
+107.	Skotte L, Korneliussen TS, Albrechtsen A. Estimating individual admixture proportions from next generation sequencing data. Genetics. 2013;195(3):693–702. https://doi.org/10.1534/genetics.113.154138 PMID: 24026093
+
+PLOS One | https://doi.org/10.1371/journal.pone.0351247	July 2, 2026	25 / 25
+
+[NOTE: born-digital PLOS One typescript, the last page of the article. It carries only the tail of the reference list, entries 103.–107., which end the list at 107; below them the page is blank down to the running foot — roughly three-quarters of the page is empty white space. Each numbered entry is kept on one line, in printed order, with a tab between the number and the entry text.
+
+PAGE FURNITURE: the PLOS One masthead and pictorial device at the head, and the running foot "PLOS One | https://doi.org/10.1371/journal.pone.0351247   July 2, 2026" with the page-number line "25 / 25" at the right; the foot's three elements are separated by tabs above. Printed, and so transcribed. There is no Crossmark stamp on this page.
+
+There is no Creative Commons licence line, and no funding, competing-interests or data-availability statement, anywhere on this page or on pp. 21–24; the reference list runs continuously from p. 21 to the end of p. 25.
+
+URLs broken across printed lines with no hyphen (refs 104 "https://doi.  org/10.1093/bioinformatics/btp324" and 106 "https://  doi.org/10.1186/s12859-014-0356-4") are joined as printed. No end-of-line word hyphens occur on this page. Ref 105 is printed "population genetical parameter estimation"; retained as printed.
+
+Bold is used for the reference numbers. DOIs and PMIDs are printed as blue underlined hyperlinks; colour is not marked.]

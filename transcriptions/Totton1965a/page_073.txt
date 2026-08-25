@@ -1,0 +1,60 @@
+[PAGE 68]
+[RUNNING HEAD] 68	A SYNOPSIS OF THE SIPHONOPHORA
+
+measure up to 1·34 mm × 1·09 mm, and have shorter pedicels measuring up to 0·6 mm in length. It has not been ascertained whether the female gonophores are borne on gonodendra.
+
+Genus: NANOMIA A. Agassiz, 1865
+Type species Nanomia cara A. Agassiz (1865).
+Agalmopsis Sars, 1846
+Anthemodes Haeckel, 1869
+
+The genus contains two species of small, brightly pigmented Agalmidae with unicornuate tentilla provided at the base with an involucre. The arrangement of the gonodendra is characteristic, male and female alternating on either side in pairs at the bases of palpons.
+
+The name Nanomia cara first appeared in print on page 181 of the Proceedings of the Boston Society of Natural History IX, for May 1863 (see p. 193 for date) in a résumé of the proceedings. This use of the name, without proper description or drawings, is insufficient to identify the species and constitutes a nomen nudum. Nanomia cara should date from 1865.
+
+Nanomia bijuga (Chiaje, 1841)
+Plate X, figures 1–10; Plate XIV,
+figure 9; text-figures 32–6
+
+Physsophora bijuga Delle Chiaje, 1841
+Anthemodes canariensis Haeckel, 1869; Chun, 1888a
+Halistemma picta Metschnikoff, 1870; Chun, 1888a
+Stephanomia (Anthemodes) canariensis Metschnikoff, 1874
+Stephanomia pictum Metschnikoff, 1874
+Halistemma tergestinum Claus, 1878
+Agalmopsis fragile Fewkes, 1882
+Anthemodes picta Haeckel, 1888b
+Halistemma fragile Haeckel, 1888b
+Cupulita picta Haeckel, 1888b; Bedot, 1896
+Cupulita tergestina Haeckel, 1888b
+Cupulita fragilis Haeckel, 1888b
+Cupulita canariensis Haeckel, 1888b; Bedot, 1896
+Anthemodes ordinata Haeckel, 1888b; Bedot, 1896
+Cupulita (Halistemma) pieta Chun, 1891
+Cupulita bijuga Schneider, 1898
+Anthemodes moseri Agassiz & Mayer, 1902
+Stephanomia bijuga Bigelow 1911b
+Nanomia bijuga Totton, 1954
+
+[FIGURE]
+1
+2
+3
+4
+5
+6
+4mm
+7
+A
+8
+B
+
+FIG. 32.   Nanomia bijuga (Chiaje)
+A, the nectosome to show the inter-locking of the nectophores; B, the stem of the nectosome to show arrangement of the muscular lamellae. The order of the nectophores starting from the apical one on the right is indicated by a numeral placed opposite to the origin of the pedicular canals. Camera lucida sketches of living animals at Villefranche.
+[/FIGURE]
+
+The principal published figures of the whole animal are those of Metschnikoff (1870); Claus (1878); Chun (1891); Agassiz & Mayer (1902); Bigelow (1911b) and Kawamura (1911b).
+
+Common in the Mediterranean; and in the Gulf of California (personal communication: Dr. Ahlström).
+
+[NOTE: printed folio 68 at the outer (left) edge of the running head; PDF index 73, offset −5 holds. Layout: the page is set in two columns down to about four-fifths of its depth, then reverts to full measure. Text-fig. 32 occupies the whole right column from the head of the page down to its caption, so it is transcribed after the complete left column and before the two full-measure paragraphs at the foot, which are the last matter on the page in reading order. The text printed inside the drawing, in reading order, is the numerals 1, 2, 3, 4, 5, 6, 7, 8 running down beside drawing B (1 at the top right, 8 at the foot), the vertical scale bar lettered "4mm" (reading bottom-to-top) between the two drawings, the panel letter "A" at the lower left of the left drawing and "B" at the lower right of the right drawing. Nothing is recorded here about what the drawing shows. A printed misprint is transcribed as printed and not corrected: in the synonymy "Cupulita (Halistemma) pieta Chun, 1891" is printed "pieta" for "picta" — verified at 12× magnification, the third letter is an unmistakable "e" with its crossbar, not a "c". "Stephanomia bijuga Bigelow 1911b" has no comma before the date, unlike every other entry in the list; transcribed as printed. Decimal points are printed as raised middots (1·34, 1·09, 0·6). "Genus: NANOMIA" is set with a space before the colon in the original, and NANOMIA is bold italic capitals. No printed square brackets occur on this page.]

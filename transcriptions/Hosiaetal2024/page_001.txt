@@ -1,0 +1,54 @@
+[PAGE 01]
+
+frontiers | Frontiers in Marine Science
+
+TYPE Original Research
+PUBLISHED 15 October 2024
+DOI 10.3389/fmars.2024.1421514
+
+Check for updates
+
+OPEN ACCESS
+
+EDITED BY
+Delphine Thibault,
+Aix-Marseille Université, France
+
+REVIEWED BY
+Zafrir Kuplik,
+Tel-Aviv University, Israel
+Dhugal John Lindsay,
+Japan Agency for Marine-Earth Science and Technology (JAMSTEC), Japan
+
+*CORRESPONDENCE
+Aino Hosia
+aino.hosia@uib.no
+
+RECEIVED 22 April 2024
+ACCEPTED 02 September 2024
+PUBLISHED 15 October 2024
+
+CITATION
+Hosia A, Martell L, Mańko MK, Haddock SHD, Haberlin D and Mapstone GM (2024) Unexpected diversity and novel lineages in the cosmopolitan genus Nanomia (Cnidaria: Siphonophorae: Physonectae). Front. Mar. Sci. 11:1421514. doi: 10.3389/fmars.2024.1421514
+
+COPYRIGHT
+© 2024 Hosia, Martell, Mańko, Haddock, Haberlin and Mapstone. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
+
+Unexpected diversity and novel lineages in the cosmopolitan genus Nanomia (Cnidaria: Siphonophorae: Physonectae)
+
+Aino Hosia1*, Luis Martell1, Maciej K. Mańko2, Steven H. D. Haddock3, Damien Haberlin4 and Gillian M. Mapstone5
+
+1Department of Natural History, University Museum of Bergen, University of Bergen, Bergen, Norway, 2Laboratory of Plankton Biology, Department of Marine Biology and Biotechnology, University of Gdańsk, Gdynia, Poland, 3MBARI, Monterey Bay Aquarium Research Institute, Moss Landing, CA, United States, 4MaREI – Science Foundation Ireland Research Centre for Energy, Climate and Marine, Environmental Research Institute, University College Cork, Cork, Ireland, 5Department of Life Sciences, The Natural History Museum, London, United Kingdom
+
+Integrated use of molecular and morphological methods reveals unexpected diversity in the cosmopolitan siphonophore genus Nanomia. Species delimitation analyses based on COI and 16S sequences suggest up to three distinct lineages in addition to the previously accepted Nanomia bijuga (Delle Chiaje, 1844) and N. cara A. Agassiz, 1865. Here, we describe the North Pacific Nanomia septata sp. n., previously confused with both N. cara and N. bijuga, and provide improved morphological characters for the identification of these three Nanomia species. Phylogenetic analyses suggest two additional, hitherto undescribed clades from Japanese and Chinese waters, respectively, but the lack of morphological material prevents describing these putative species. The geographic distribution of molecularly and/or morphologically verified observations confirm a warm circumglobal distribution for N. bijuga and a boreal North Atlantic distribution for N. cara. Interestingly, four distinct lineages occur in the North Pacific, sometimes in close proximity. These contrasting patterns of distribution raise questions about pelagic speciation processes.
+
+Nanomia septata sp. n.: urn:lsid:zoobank.org:act:DAF15EA3-AFEA-4AE8-984F-BDFBCFE7E514
+urn:lsid:zoobank.org:pub:478049FC-F672-4D34-ABAE-CF4345EC64D7
+
+KEYWORDS
+
+siphonophores, speciation, holoplankton, DNA barcoding, COI, 16S
+
+Frontiers in Marine Science	01	frontiersin.org
+
+[NOTE: journal cover page. Layout: a header band across the top carrying the frontiers logo and journal name at the left and the TYPE / PUBLISHED / DOI block at the right; below it a narrow left-hand sidebar of journal metadata (Check for updates badge, OPEN ACCESS, editor, reviewers, correspondence, dates, citation, copyright) and a wide right-hand column carrying the title, authors, affiliations, abstract, ZooBank LSIDs and keywords; a footer rule at the foot with the running foot. Transcribed in that order — header, then the whole sidebar, then the whole right column, then the footer — so the two columns are not interleaved. The footer's three elements are separated by tabs above. The "Check for updates" text sits inside a small button-like badge with a circular icon; a small envelope icon precedes the e-mail address; neither icon carries text. Superscript affiliation markers (1-5) and the corresponding leading superscripts in the affiliation block are transcribed as ordinary digits on the line, since the markup has no superscript marker; "1*" after Hosia is superscript 1 followed by superscript asterisk. Genus and species names are printed in italic, as is "Front. Mar. Sci."; italics are not marked. The dash in "MaREI – Science Foundation" is an en dash. NOTE ON LIGATURES, which applies to this file and to every other page of this article: the body font sets "fi" and "fl" as single presentation-ligature glyphs (as in "confirm", "identification", "Pacific", "significant", "flattened"). Because the ligature is a font artifact and not orthography, these have been transcribed throughout as the ordinary two-letter sequences f+i and f+l.]

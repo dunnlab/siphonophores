@@ -1,0 +1,73 @@
+[PAGE 8]
+
+[NOTE: printed square brackets occur on this page and are the source's own, not
+transcriber markers: the Fig. 5 axis labels "Depth [m]" and "Abundance [ind.·10
+m^-3]", and "[ind. ·10 m^−3]" in the Fig. 5 caption. Everywhere else on this page "["
+is my marker. Superscripts are rendered with "^".]
+
+[RUNNING HEAD] M.K. Mańko, et al.
+[RUNNING HEAD] Progress in Oceanography 189 (2020) 102414
+
+[FIGURE]
+[NOTE: figure occupies the head of the page across both columns, in a grid of panels.
+The following is the printed lettering only, in reading order: the column strip
+labels, the depth axis and its tick labels, the shelf panel's own axes, the x tick
+labels, the x axis label, then the legend.]
+EXTERIOR	OFFSHORE	SLOPE	SHELF
+Depth [m]
+0-25
+25-50
+50-200
+200-600
+600-1000
+0-25
+25-50
+50-200
+200-600
+600-1000
+0-25
+25-50
+50-100
+100-bottom
+0	5	10	15
+Stage:
+Aglantha digitale
+juvenile
+intermediate
+mature
+Dimophyes arctica
+eudoxid
+polygastric
+0	5	10	15
+0	5	10	15
+0	5	10	15
+0	5	10	15
+Abundance [ind.·10 m^-3]
+
+Fig. 5. Abundance [ind. ·10 m^−3] of the different life cycle stages of Aglantha digitale (upper row) and Dimophyes arctica (lower row) in all zones along, summed for both transects.
+[/FIGURE]
+
+northern transect samples, while both mature and juvenile jellyfish were observed in the samples from southern transect N (Fig. 5). The general size distribution trend was that the deeper the sample was collected, the larger the specimens were that were found (Fig. 5, Table 2), except for in the water layer from 200 to 600 m, where the largest specimens were observed.
+
+Most D. arctica observations came from deep water (> 200 m); however, small quantities of eudoxids were also identified from samples collected from the 50–200 m stratum in the offshore zone and from the 0–25 m stratum above the slope along transect EB and from the 0–25 m stratum in the exterior zone along transect N; very few were collected from the deep waters above the shelf along transect N (omitted in Fig. 5). The polygastric colonies of D. arctica occurred mostly in water of > 200 m deep, although in the surface samples (0–25 m) from the slope stations along transect EB, these colonies were equally as abundant as the eudoxids; however, the overall number of D. arctica in these samples was exceptionally low. All life cycle stages of this calycophoran appeared to be absent from the 25–50 m depth layer and in some zones also from 50 to 200 m (in all zones along transect N; Fig. 5). The enumeration of the two morphological components of eudoxids (bracts and gonophores), which were often found separately in the sample, revealed that in the case of D. arctica, the ratio of bracts:gonophores was 45:55 (Fig. 5). In case of Diphyid eudoxid indet., the proportion was 1:1, while the eudoxid stage of M. bargmannae remains undescribed and that of C. amygdalina was not found in the present study.
+
+3.4. Drivers of gelatinous zooplankton vertical distribution
+
+Based on the CCA model (p = 0.001), which was supported with variation partitioning (Fig. 6; Table 3), all tested explanatory variables explained 26.5% of the variation in gelatinous zooplankton abundance, with the geographic factors (zones, depths) accounting for most of the explanatory strength of the variables (Table 3). The factorial variable transect was excluded from the analysis, as its addition decreased the adjusted explained variation, and its effects were insignificant (p = 0.84). Relatively high explanatory power was attributable to the interplay between the groups of factors: 20.3% to the geographic and hydrographic (temperature, salinity) interactions, 14.2% to the hydrographic and biotic (zooplankton abundance and biomass) interactions and to the combined effect of all factors (22.7%; Table 3). Interestingly, when analysed separately, the hydrographic factors explained only 1.1% of the variation (Fig. 6).
+
+The CCA model supported the previous analyses (Table 2), indicating the existence of strong and statistically significant relationships between specific species and the analysed environmental variables. P. hydrostatica was associated with higher temperatures, which was similar to the association of the abundance of the juveniles of A. digitale. The distribution of the Beroe ctenophores was unexpectedly strongly correlated with the total abundance of zooplankton (Fig. 6), whereas the distribution of other species, such as the remaining Trachymedusae, was mostly explained by the increasing depth, potentially implying their avoidance of warmer surface waters (Fig. 6).
+
+3.5. Water mass type related community of gelatinous zooplankton
+
+Out of six water masses detected in the present study (Table 1) only five were incorporated in the subsequent analyses, as PSW was found only at two sites, at one of which there was no GZ, while at the other only few (143 ind.·1000 m^−3) juvenile A. digitale were present. Each of the analysed water masses, harboured a significantly different GZ community (ANOSIM, R = 0.23, p = 0.001). A series of PERMANOVAs have revealed that the GZ diversity, the abundance of all GZ, but also demography of A. digitale differed significantly between the water masses (Table 2). The most species rich GZ community was associated with the Arctic waters, followed by slightly less diverse community found in the intermediate water and the polar surface water (Table 4). In contrast, the GZ community found in the Atlantic waters comprised almost solely of A. digitale, that overall constituted c. 66% of all GZ
+
+[NOTE: source oddities transcribed as printed, not corrected: the Fig. 5 caption
+reads "in all zones along, summed for both transects", with the object of "along"
+missing; it prints a space in "[ind. ·10 m^−3]" where the axis label and body text
+print "ind.·1000" and "ind.·10" closed up; the Fig. 5 x-axis label prints the exponent
+of "m^-3" with a hyphen where the caption uses a true minus sign; and the body text
+reads "Each of the analysed water masses, harboured a significantly different GZ
+community" with a comma before the verb. Italics are not marked in this
+transcription: the species names, "Beroe", and the section headings 3.4 and 3.5 are
+set in italic on the page. The lower (Dimophyes arctica) row of Fig. 5 has no SHELF
+panel, which the body text notes as "omitted in Fig. 5".]

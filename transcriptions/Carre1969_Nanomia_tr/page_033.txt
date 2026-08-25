@@ -1,0 +1,29 @@
+[PAGE 12]
+
+[NOTE: Full-page halftone plate — a scan of Plate III of the French original — with the translator's new English caption beneath it in born-digital type, so the plate's internal lettering is French-original abbreviation while the caption is English. Panel numbers 1-8 are engraved in bold at the lower right of their panels; the ninth panel (bottom right) carries no visible number, its lower right corner having been cropped in the scan. In panel 6 the label at the right edge is cut off by the edge of the panel: only "En" and the start of a third letter survive, read here as "End.". The label in panel 6 read "S" shows no full stop. In panel 8 a second leader line runs to the right of "Ect.A." with no label of its own.]
+
+[PLATE]
+Ect.
+1
+End.
+2
+3
+Ect.A.
+4
+C.Pn.
+5
+Ect.A.
+C.Pn.
+S
+[?End.]
+6
+End.
+Ect.
+7
+Ect.A.
+End.
+8
+
+Plate III. Differentiation of the pneumatophore.
+1,2,3: invagination of the anterior pole of the planula. 4: formation of the aeriform ectoderm. 5: pneumatophore of a 5 day old siphonula. 6: basal region of the pneumatophore of a 20 day old siphonula (axial section). 7: basal region of the pneumatophore of a young colony (axial section). 8: basal region of the pneumatophore of a young colony (sagittal section). 9: basal region of the adult pneumatophore (parasagittal section).
+[/PLATE]

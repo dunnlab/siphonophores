@@ -1,0 +1,53 @@
+[PAGE 7: unnumbered]
+
+[NOTE: this page is not a scan of the plate itself but a colour photograph of the
+opened bound volume — the plate lies on the recto, the binding, fore-edge and the
+grey photographic backdrop are visible around it, and a digitiser's caption strip
+in modern sans-serif type runs across the foot of the image. The photograph is a
+low-resolution raster (826 x 1200 px for the whole spread), so although the
+plate's coloured engraving is clear enough to describe, almost none of its
+engraved lettering can be read: the running heads and the legend are recoverable
+word by word, but the individual figure numerals on the plate are three or four
+pixels across and are wholly illegible.]
+
+[NOTE: this is plate 1 of the series; the atlas pages are not bound in numerical
+order in this PDF, plates 2 to 5 having preceded it.]
+
+[RUNNING HEAD] Voyage de l'Astrolabe. – ZOOLOGIE.
+
+[RUNNING HEAD] ZOOPHYTES. – Pl. 1.
+
+[PLATE]
+ZOOPHYTES. – Pl. 1.
+
+[NOTE: the plate carries figure numerals beside each of its twenty-four figures —
+small pale numbers set above or beside the drawings — but not one of them can be
+resolved in this photograph. They are therefore not transcribed. The legend below
+implies the sheet runs from 1 to 24.]
+
+[?Quoy ad vivum] [NOTE: draughtsman's credit in engraved script at lower left,
+about three word-shapes; individual letters not resolvable]
+
+[?Fournier sc.] [NOTE: engraver's credit in engraved script at lower right; not
+resolvable letter by letter]
+
+1	9	Physsophore blanche	}	N.
+10	18	Physsophore intermédiaire.	}	N.
+
+19	21	Physsophore australe.	}	N.
+22	24	Physsophore discoïde.	}	N.
+
+[NOTE: the legend is in two columns of two lines each, each column closed by a
+single tall brace with one italic "N." serving both its lines. "Physsophore
+blanche" has no full stop.]
+
+[?J. Tastu édit.] [NOTE: minute type at the lower left corner of the sheet]
+
+[NOTE: a further line of minute type stands at the lower right corner of the
+sheet, below the legend; it is illegible.]
+[/PLATE]
+
+[NOTE: digitiser's caption strip printed across the foot of the page image, in
+modern sans-serif type on a grey ground, not part of the original sheet:]
+
+Harvard University - Ernst Mayr Library of the Museum of Comparative Zoology / Dumont d'Urville, Jules-Sebastien-Cesar. Voyage de la corvette l'Astrolabe :execute par ordre du roi, pendant les annees 1826-1827-1828-1829. Paris : J. Tastu, 1830-1835.

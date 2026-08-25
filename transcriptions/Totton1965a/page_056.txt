@@ -1,0 +1,33 @@
+[PAGE 51]
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 4 AGALMIDAE	51
+
+No thread was visible beyond the long hampe. These measurements do not correspond with those of Claus's (1863) figure 8d, Plate XLVI. The capsule and the hampe are much longer than those of Claus's specimen, who gave the length and diameter of his 'länglich elliptische Kapsel' as about 0·023 mm × 0·011 mm. But his figure shows that the length of the capsule is nearly three times its diameter. My preparations of nematocysts made at Villefranche in 1964 could not be used in this synopsis.
+
+[FIGURE]
+e.o
+g
+y
+e.m
+0·1mm
+
+FIG. 17.   Apolemia uvaria Lesueur. Distal end of female gonophore to show the laterally displaced manubrium lying wholly within the two-layered inner ectoderm. Radial canals are suppressed (semi-diagrammatic, based on a camera lucida sketch) e.o = outer ectoderm; g = inner ectoderm (Glockenkern); e.m = endoderm of manubrium; y = yolk.
+[/FIGURE]
+
+Family 4: AGALMIDAE Brandt, 1835
+
+This is a family of long stemmed physonects whose generally long series of nectophores are arranged in two rows on either side of the nectosome. The terminal part of the oozooid in the three well-known genera, Agalma, Halistemma and Nanomia, can be seen at the distal end of the stem, still surrounded by its larval palpons and bearing a larval type tentacle (text-fig. 7).
+
+Only five of the sixteen species recognized in this Synopsis, which are grouped into eight genera, are well known as complete animals. Tabulated in the order in which they are treated in this Synopsis, Bedot (1896), in his academic review of the literature of the Agalmidae, recognized the following:
+
+TABLE IV
+
+[TABLE]
+Modern names of species	Bedot's names
+Agalma elegans (Sars, 1846)	Agalmopsis sarsi Kölliker
+Agalma haeckeli Bigelow, 1911	Agalma eschscholtzii Haeckel (non Lesson)
+	Agalma okeni Eschscholtz
+Agalma okeni Eschscholtz, 1825	Crystallomia polygonata Dana
+	Agalma breve Huxley
+[/TABLE]
+
+[NOTE: the running head has the folio 51 at the outer (right) edge; the "4" in "FAMILY 4 AGALMIDAE" is set in bold. In the Table IV right-hand column a large printed brace "{" spans the three entries "Agalma okeni Eschscholtz", "Crystallomia polygonata Dana" and "Agalma breve Huxley", grouping them against "Agalma okeni Eschscholtz, 1825" in the left column; the brace is not reproduced above. In FIG. 17 the labels e.o, g, y and e.m and the scale bar lettering "0·1mm" are all the text printed within the illustration, given in reading order. The "=" signs in the caption are printed as a double-hyphen-like equals glyph.]

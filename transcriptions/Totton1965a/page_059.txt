@@ -1,0 +1,41 @@
+[PAGE 54]
+[RUNNING HEAD] 54	A SYNOPSIS OF THE SIPHONOPHORA
+
+Agalma elegans (Sars, 1846) Fewkes, 1880
+Plate X, figures 11–17; Plate XI, figures 1, 2; text-figures 7, 18–20
+
+Agalmopsis elegans Sars, 1846 (partim)
+Agalmopsis sarsi Kölliker 1853; Leuckart, 1853
+Agalma punctata: Leuckart, 1853 (non Kölliker, 1853; Vogt, 1854)
+Agalma clavata Leuckart, 1853; 1854 (partim)
+Agalma elegans Fewkes, 1880a; 1881
+Agalma sarsii Fewkes, 1880a
+
+Agalmopsis elegans Sars, was a compound species with two components, the second of which – form B – consisted of a trifid tentillum. The bulk of the description and all the rest of the figures referred to the other component, now known as Nanomia cara. Kölliker (1853) found specimens at Messina with trifid tentilla and called them Agalmopsis sarsii. Haeckel (1888b) restricted the name elegans to this species with the trifid tentilla, though he thought it different from Agalmopsis sarsii Kölliker.
+
+Kawamura (1911b) gave a good figure of the whole animal (Pl. X, fig. 11) as well as figures of details. A figure of the whole animal and details were given by Totton (1954) reproduced here in text-figure 7.
+
+Nectophores (text-figs. 7, 18):   The nectosac, seen from above or below, is triangular in shape not Y-shaped as in okeni.
+
+Bracts (Pl. X, figs. 14, 15):   Foliaceous, 10 mm × 6 mm, in two latero-ventral rows, very thin at the distal margin which is tridentate. The upper convex surface bears three ridges on the distal half. The bracteal canal terminates, save occasionally for a fine vestigial extension, some distance short of the tip.
+
+Tentacles (Pl. X, fig. 17):   The cnidoband of the tricornuate tentillum is completely enclosed when mature in the involucrum. The lateral horns are up to 3 mm in length. The protozooid has tentilla with kidney-shaped cnidosacs.
+
+[FIGURE]
+A
+To.
+R.ap.-lat.
+R.vert.lat.
+R.inf.lat.
+0
+5.mm.
+B
+
+FIG. 18.   Agalma elegans (Sars). Lateral, A, and upper, B, views of a nectophore from Villefranche,
+× 8
+R.ap.lat = apico-lateral ridge; R.inf.lat = infra-lateral ridge; R.vert.lat = latero-vertical ridge; To = tooth (from Totton, 1954, fig. 24).
+[/FIGURE]
+
+Gonophores:   A female gonodendron at the proximal end of each cormidium. There is a gap along the stem between the insertion of this and the male gonophores, which with the palpons are scattered over more than half the length of each cormidial segment (text-fig. 7). Fewkes (1883) gave a good figure of the female gonophore and described the early development of the so-called 'Athorybia larva', of A. elegans (text-fig. 19). For the detailed description of the metamorphosis of this larva (text-figs. 19B and 20) see Totton (1956).
+
+[NOTE: the folio 54 is at the outer (left) edge of the running head. In the synonymy "Agalmopsis sarsi Kölliker 1853" is printed without a comma after "Kölliker", and "Agalma punctata:" carries a colon; both as printed. FIG. 18 consists of two drawings side by side; the lettering listed inside [FIGURE] above is all the text printed within the illustration, in reading order — the labels are set in a sloping sans-like hand lettering. The scale bar under drawing A is lettered "0" at its left end and "5.mm." at its right; the "0" is an old-style zero, printed like a lower-case o. The "× 8" magnification stands on its own centred line in the caption. The "=" signs in the caption are printed as the same double-stroke equals glyph used elsewhere in this monograph.]

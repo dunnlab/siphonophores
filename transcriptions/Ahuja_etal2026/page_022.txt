@@ -1,0 +1,43 @@
+[PAGE 22]
+
+PLOS One
+
+22.	Bargmann HE, Totton AK. A synopsis of the Siphonophora. Totton AK, editor. British Museum (Natural History). Department of Zoology. 1965.
+23.	Holstein TW. The role of cnidarian developmental biology in unraveling axis formation and Wnt signaling. Dev Biol. 2022;487:74–98. https://doi.org/10.1016/j.ydbio.2022.04.005 PMID: 35461834
+24.	Sinigaglia C, Busengdal H, Leclère L, Technau U, Rentzsch F. The bilaterian head patterning gene six3/6 controls aboral domain development in a cnidarian. PLoS Biol. 2013;11(2):e1001488. https://doi.org/10.1371/journal.pbio.1001488 PMID: 23483856
+25.	Technau U, Genikhovich G. Evolution: Directives from Sea Anemone Hox Genes. Curr Biol. 2018;28(22):R1303–5. https://doi.org/10.1016/j.cub.2018.09.040 PMID: 30458149
+26.	He S, Del Viso F, Chen C-Y, Ikmi A, Kroesen AE, Gibson MC. An axial Hox code controls tissue segmentation and body patterning in Nematostella vectensis. Science. 2018;361:1377–80.
+27.	Chevalier S, Martin A, Leclère L, Amiel A, Houliston E. Polarised expression of FoxB and FoxQ2 genes during development of the hydrozoan Clytia hemisphaerica. Dev Genes Evol. 2006;216(11):709–20. https://doi.org/10.1007/s00427-006-0103-6 PMID: 17021866
+28.	Schultz DT, Blümel A, Destanović D, Sarigol F, Simakov O. Topological mixing and irreversibility in animal chromosome evolution. bioRxiv. 2024. https://doi.org/10.1101/2024.07.29.605683
+29.	Lewin TD, Liao IJ-Y, Luo Y-J. Annelid Comparative Genomics and the Evolution of Massive Lineage-Specific Genome Rearrangement in Bilaterians. Mol Biol Evol. 2024;41(9):msae172. https://doi.org/10.1093/molbev/msae172 PMID: 39141777
+30.	Schultz DT, Heath-Heckman EAC, Winchell CJ, Kuo D-H, Yu YS, Oberauer F. Acceleration of genome rearrangement in clitellate annelids. bioRxiv. 2024. https://doi.org/10.1101/2024.05.12.593736
+31.	Vargas-Chávez C, Benítez-Álvarez L, Martínez-Redondo GI, Álvarez-González L, Salces-Ortiz J, Eleftheriadi K, et al. An episodic burst of massive genomic rearrangements and the origin of non-marine annelids. Nat Ecol Evol. 2025;9:1263–1279. https://doi.org/10.1038/s41559-025-02728-1
+32.	Plessy C, Mansfield MJ, Bliznina A, Masunaga A, West C, Tan Y. Extreme genome scrambling in marine planktonic cryptic species. Genome Res. 2024;34:426–40.
+33.	Lynch M. The Origins of Genome Architecture. Sinauer. 2007.
+34.	Kelly LJ, Renny-Byfield S, Pellicer J, Macas J, Novák P, Neumann P, et al. Analysis of the giant genomes of Fritillaria (Liliaceae) indicates that a lack of DNA removal characterizes extreme expansions in genome size. New Phytol. 2015;208(2):596–607. https://doi.org/10.1111/nph.13471 PMID: 26061193
+35.	Meyer A, Schloissnig S, Franchini P, Du K, Woltering JM, Irisarri I, et al. Giant lungfish genome elucidates the conquest of land by vertebrates. Nature. 2021;590(7845):284–9. https://doi.org/10.1038/s41586-021-03198-8 PMID: 33461212
+36.	Schartl M, Woltering JM, Irisarri I, Du K, Kneitz S, Pippel M, et al. The genomes of all lungfish inform on genome expansion and tetrapod evolution. Nature. 2024;634(8032):96–103. https://doi.org/10.1038/s41586-024-07830-1 PMID: 39143221
+37.	Tertyshnyk Y, Rogers TF, Schultz DT, Takenawa S, Parasar B, Sarigol F. Genome expansions and regulatory contact entanglement help preserve ancestral metazoan synteny. bioRxiv. 2026. https://doi.org/10.64898/2026.04.14.717158
+38.	Chénais B, Caruso A, Hiard S, Casse N. The impact of transposable elements on eukaryotic genomes: from genome size increase to genetic adaptation to stressful environments. Gene. 2012;509(1):7–15. https://doi.org/10.1016/j.gene.2012.07.042 PMID: 22921893
+39.	Boutanaev AM, Kalmykova AI, Shevelyov YY, Nurminsky DI. Large clusters of co-expressed genes in the Drosophila genome. Nature. 2002;420(6916):666–9. https://doi.org/10.1038/nature01216 PMID: 12478293
+40.	Miller MA, Cutter AD, Yamamoto I, Ward S, Greenstein D. Clustered organization of reproductive genes in the C. elegans genome. Curr Biol. 2004;14(14):1284–90. https://doi.org/10.1016/j.cub.2004.07.025 PMID: 15268860
+41.	Roy PJ, Stuart JM, Lund J, Kim SK. Chromosomal clustering of muscle-expressed genes in Caenorhabditis elegans. Nature. 2002;418(6901):975–9. https://doi.org/10.1038/nature01012 PMID: 12214599
+42.	Wang PJ, McCarrey JR, Yang F, Page DC. An abundance of X-linked genes expressed in spermatogonia. Nat Genet. 2001;27(4):422–6. https://doi.org/10.1038/86927 PMID: 11279525
+43.	Johnson SB, Winnikoff JR, Schultz DT, Christianson LM, Patry WL, Mills CE, et al. Speciation of pelagic zooplankton: Invisible boundaries can drive isolation of oceanic ctenophores. Front Genet. 2022;13:970314. https://doi.org/10.3389/fgene.2022.970314 PMID: 36276958
+44.	Guo L, Accorsi A, He S, Guerrero-Hernández C, Sivagnanam S, McKinney S, et al. An adaptable chromosome preparation methodology for use in invertebrate research organisms. BMC Biol. 2018;16(1):25. https://doi.org/10.1186/s12915-018-0497-4 PMID: 29482548
+45.	Laetsch DR, Blaxter ML. BlobTools: Interrogation of genome assemblies. F1000Research. 2017;6:1287.
+46.	Guan D, McCarthy SA, Wood J, Howe K, Wang Y, Durbin R. Identifying and removing haplotypic duplication in primary genome assemblies. Bioinformatics. 2020;36(9):2896–8. https://doi.org/10.1093/bioinformatics/btaa025 PMID: 31971576
+47.	Putnam NH, O’Connell BL, Stites JC, Rice BJ, Blanchette M, Calef R, et al. Chromosome-scale shotgun assembly using an in vitro method for long-range linkage. Genome Research. 2016;26(3):342–50. https://doi.org/10.1101/gr.193474.115
+48.	Cheng H, Concepcion GT, Feng X, Zhang H, Li H. Haplotype-resolved de novo assembly using phased assembly graphs with hifiasm. Nat Methods. 2021;18(2):170–5. https://doi.org/10.1038/s41592-020-01056-5 PMID: 33526886
+
+PLOS One | https://doi.org/10.1371/journal.pone.0351247	July 2, 2026	22 / 25
+
+[NOTE: born-digital PLOS One typescript. The whole page is reference list, entries 22.–48., continuing from p. 21 and continued overleaf. Each numbered entry is kept on one line, in printed order, with a tab between the number and the entry text.
+
+PAGE FURNITURE: the PLOS One masthead and pictorial device at the head, and the running foot "PLOS One | https://doi.org/10.1371/journal.pone.0351247   July 2, 2026" with the page-number line "22 / 25" at the right; the foot's three elements are separated by tabs above. Printed, and so transcribed. There is no Crossmark stamp on this page.
+
+URLs broken across printed lines with no hyphen (refs 23 "https://doi.  org/10.1016/j.ydbio.2022.04.005", 25 "…10.1016/j.  cub.2018.09.040", 42 "https://  doi.org/10.1038/86927") are joined as printed. End-of-line soft hyphens removed on joining in refs 29 ("Bilateri-ans"), 46 ("Bioin-formatics") and 48 ("Meth-ods").
+
+Diacritics as printed: Leclère, Blümel, Destanović, Chávez, Benítez-Álvarez, Martínez-Redondo, Álvarez-González, Novák, Chénais, Guerrero-Hernández. Ref 47 uses a typographic right single quote in O’Connell.
+
+Bold is used for the reference numbers; italics for taxon names, journal-style italics within titles and "in vitro" / "de novo". Bold and italics are not marked. DOIs and PMIDs are printed as blue underlined hyperlinks; colour is not marked.]

@@ -1,0 +1,25 @@
+[PAGE 17]
+
+[NOTE: English translation, born-digital and fully legible. The numbered list continues from the previous page with item 5, which ends "some cormidia" with no terminal punctuation. In the bibliography, journal titles are italic and volume numbers bold; reference-list line breaks are not preserved but each entry is kept on its own line. Apostrophes are inconsistent as printed: straight in "d'un siphonophore" and "d'Embryologie", curly in "d'un espèce", "L'histologie", "l'endoderme", "l'Hydre" and "d'eau". The author's name is printed "Semal–Van Gansen" with an unspaced en dash in conclusion 5 and "Semal – Van Gansen" with a spaced en dash in the bibliography (and "Semal-Van Gansen" with a hyphen on page 11 of the translation). In the final Woltereck entry the journal name and volume are printed as two question marks, an italic one and a bold one — the translator's own placeholders for information he or she could not supply, not the transcriber's uncertainty markers. Other printed features kept as-is: "Cellules glandulaire des Hydroides" (singular adjective), "leur secretion" unaccented, "Etude" and "Uber"/"Über" as printed, "d'un espèce" (masculine article with a feminine noun), "Division direct des noyaux", "Mem. Soc. Amis Sci. nat. Moscou", "(In Russian)" with no closing full stop, and the italic colon in "Zool. 108: 258-289". The bibliography entry is dated Pérez 1929 while the text on page 10 of the translation cites "Pérez (1930)".]
+
+5.	The transformation of the siphonula into a young colony is characterised by the completion of the pneumatophore which differentiates the aeriform tissue and the hollowing of several cavities; the differentiation of the primary gastrozooid which acquires three types of glandular endodermic cells defined by Semal–Van Gansen; the budding, between the pneumatophore and the primary gastrozooid, of some first nectophores and some cormidia
+
+This study has allowed me to find, in the formation of the pneumatophore, the same stages that have been described for Forskalia (Carré, D. 1967). In addition, I have been led to dispute the ideas of a true morula, of secondary delamination and of a primary endoderm, but I cannot bring to this study, based on a single species, any general conclusions on the first stages of development of siphonophores.
+
+BIBLIOGRAPHY
+
+Bouillon, J. 1966. Cellules glandulaire des Hydroides et Hydroméduses. Leur structure et la nature de leur secretion. Cahiers de Biologie Marine 7, 157-205.
+Carré, C. 1968. Description d'un siphonophore Agalmidae, Cordagalma cordiformis Totton, 1932. Beaufortia 16, 79-86.
+Carré, D. 1967. Etude du développement larvaire de deux Siphonophores: Lensia conoidea (Calycophorae) et Forskalia edwardsi (Physonecte). Cahiers de Biologie Marine 8, 233-251.
+Chun, C. 1897. Die Siphonophoren der Plankton-Expedition. Ergebnisse der Plankton-Expedition der Humboldt-Stiftung (Ergebn. Plankton Exp.), 2.K.b., 1-126.
+Chun, C. 1897. Über den Bau und die morphologische Auffassung der Siphonophoren. Verhandlungen der Deutschen Zoologischen Gesellschaft 7, 48-111.
+Dawydoff, C. 1928. Traité d'Embryologie comparée des Invertébrés. Masson & Co., Paris. 930 pp.
+Fewkes, W. 1885. Studies from the Newport Marine Laboratory. XV. On the development of Agalma. Bull. Mus. Comp. Zool. Harv. 11, 232-275.
+Lockmann, L. 1914. Zur Entwickelungsgeschichte der Siphonophoren. Zeit. wiss. Zool. 108: 258-289, 1 pl.
+Metschnikoff, E. 1870. Contributions to the knowledge of siphonophores and medusae. Mem. Soc. Amis Sci. nat. Moscou 8, 295-370 (In Russian)
+Metschnikoff, E. 1874. Studien über die Entwickelung der Medusen und Siphonophoren. Zeitschrift für Wissenschaftliche Zoologie 24, 15-83.
+Pérez, C. 1929. Division direct des noyaux dans le spadice des gonophores chez la Physalie. Arch. Anat. micr. 25, 548-554, 6 fig.
+Semal – Van Gansen, P. 1954. Etude d'un espèce Hydra attenuata Pallas. L'histologie de l'endoderme de l'Hydre d'eau douce. Ann. Soc. Roy. Zool. Belgique 85, 187-278.
+Teissier, G. 1931. Etude expérimentale du développement de quelques Hydraires. Ann. Soc. nat. Zool. (10) 14, 5-59.
+Totton, A.K. 1965. A Synopsis of the Siphonophora. London: British Museum (Natural History).
+Woltereck, R. 1905. Beiträge zur Ontogenie und Ableitung des Siphonophorenstocks. III. Planktologische Mitteilung aus der Zoologischen Station in Villefranche s. m. ? ?, 611-637.

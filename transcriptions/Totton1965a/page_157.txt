@@ -1,0 +1,57 @@
+[PAGE 152]
+
+152	[RUNNING HEAD] A SYNOPSIS OF THE SIPHONOPHORA
+
+Sulculeolaria monoica (Chun, 1888)
+Plate XXXI, figures 5–7, 10, 12
+
+Epibulia monoica Chun, 1888b
+Galeolaria monoica Bigelow, 1911b, page 239, plate 6, figure 49
+
+Easily distinguishable by the presence of three small dorsal teeth above the ostium in both nectophores in addition to a small pair of laterals. The somatocyst is minute.
+
+Polygastric phase
+
+Anterior nectophore (Pl. XXXI, figs. 5–6):   Up to 10 mm in length × 4·5 mm deep. Three fine dorsal and a pair of smaller triangular lateral teeth of varying size round the ostium. Somatocyst minute. Commissural canals present. Basal lamella or mouth-plate divided and bearing a pair of small teeth near the sagittal margin in the proximal part.
+
+Posterior nectophore (Pl. XXXI, figs. 7, 10, 12):   First described by Bigelow. Up to 10·1 mm long × 0·35 mm wide. Ostial margin similar to that of anterior nectophore, with three dorsal and a pair of lateral teeth. Mouth-plate or basal lamella broadly truncate, with very slight emargination and two proximal teeth.
+
+Eudoxid phase – not identified.
+
+Sulculeolaria bigelowi (Sears, 1950)
+
+Galetta bigelowi Sears, 1950
+
+The only three known specimens consist of damaged anterior nectophores measuring from 3–4 mm in length. They were taken in the Marshall Islands.
+
+Polygastric phase
+
+Anterior nectophore:   Apical and conical in both lateral and dorso-ventral views.
+
+Somatocyst minute. Base very wide, and ventro-basal facet half as long as the nectophore, less mouth-plate, which is exceptionally wide. The ventral radial canal divides just before it joins the circular canal. No commissural canals present.
+
+Posterior nectophore:   Unknown.
+
+Eudoxid phase – not identified.
+
+Sub-family ii: DIPHYINAE
+
+In the polygastric phase of these Calyconects there are generally two nectophores, the posterior one sometimes reduced or suppressed altogether, of pentagonal cross-section, one placed behind the other. The anterior one is pyramidal; the posterior one either has a truncate forward end which articulates with the base of the anterior, or a prolongation which fits into the hydroecium.
+
+Genus: DIPHYES Cuvier, 1817
+
+Diphyopsis Haeckel, 1888b
+
+Type species: Diphyes dispar Chamisso & Eysenhardt, 1821, for Salpa (bipartita) lancelota bipartita Bory de St. Vincent, 1804, plate VI, figures 3A–C. Cuvier used no specific name.
+
+There are four species of Diphyes (sensu restrict[illegible] Totton, 1932); dispar, bojani, chamissonis and
+
+[NOTE: a round solid ink blot about one character wide stands immediately after "restrict" in the last line of the page, obscuring the character or characters between it and "Totton". "restricto" would fit the space and the Latin, but the blot is opaque and I will not guess; it is transcribed "[illegible]". A faint pale sliver inside the blot is the only trace of the underlying letter. Verified at 14x.]
+
+[NOTE: numerals verified digit by digit: (Chun, 1888); Plate XXXI, figures 5–7, 10, 12; Chun, 1888b; Bigelow, 1911b, page 239, plate 6, figure 49; Pl. XXXI, figs. 5–6; 10 mm × 4·5 mm; Pl. XXXI, figs. 7, 10, 12; 10·1 mm × 0·35 mm; (Sears, 1950); Sears, 1950; 3–4 mm; Cuvier, 1817; Haeckel, 1888b; Chamisso & Eysenhardt, 1821; Bory de St. Vincent, 1804, plate VI, figures 3A–C; Totton, 1932.]
+
+[NOTE: the decimal points of "4·5", "10·1" and "0·35" are raised middle dots; the zeros in "10 mm", "10·1" and "0·35" are old-style figures sitting at x-height, so "0·35" resembles "o·35" and "10" resembles "1o"; they are zeros, verified at 14–16x. The multiplication signs are saltire crosses. The ranges "5–7", "5–6", "3–4" and "3A–C" use en rules.]
+
+[NOTE: the two species headings and "DIPHYES" are bold italic; the synonymy lines under each are set smaller with the taxon names italic. "DIPHYINAE" is bold roman capitals. In "Sub-family ii: DIPHYINAE", "Genus: DIPHYES" and "Type species: Diphyes" the colon is preceded by a thin space in the printing; the thin space is not reproduced here. "Sub-family ii" uses lower-case roman numerals. "Calyconects" is capitalised as printed. The dashes in the two "Eudoxid phase – not identified." lines are en rules.]
+
+[NOTE: no printed square brackets occur on this page.]

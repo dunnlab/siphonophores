@@ -1,0 +1,44 @@
+[PAGE 110]
+[RUNNING HEAD] 110	A SYNOPSIS OF THE SIPHONOPHORA
+
+The bracts figured in Kawamura's plate 1, figures 8, 9 are not of the same generic pattern as those of known species. All peduncular bracts, as these appear to be, are roughly triangular in cross section. These ones only resemble Kawamura's figures of bracts of F. tholoides. But they again are not of the generic pattern, which was clearly shown by Haeckel.
+
+A fuller and more detailed description is needed.
+
+Sub-order III:   Calycophorae Leuckart, 1854
+
+The Calycophorae have nectophores, and bracts – except in the Hippopodiidae – but no apical gas-filled float. It is now thought that they may have been evolved from forms which possessed a float (see Garstang, 1946). The stem-groups of the polygastric phase break away successively to form free-swimming eudoxids (the second phase), each consisting of one gastrozooid, a succession of gonophores (the third phase, see pp. 25 – 28) – one of which may be asexual and specialized for propulsion – but no palpons, except in Stephanophyes, where vestigeal ones are found.
+
+Six families are recognized by me: Prayidae, Hippopodiidae, Diphyidae, Clausophyidae, Sphaeronectidae and Abylidae.
+
+Family 10: PRAYIDAE Kölliker, 1853
+
+Amphicaryoninae Chun, 1888a
+Prayinae Chun, 1897b
+Nectopyramidinae Bigelow, 1911b
+
+Prayids are large slow-moving calycophores with a relatively great amount of mesogloea for the floatation of a large and heavy stem. When the mesogloea is massive the typically small somatocyst, in the form of a fine canal, may branch complexly.
+
+The unusually large, ovoid, larval nectophore of the typical sub-family Prayinae is soon shed and is replaced by a short succession of larger heteromorph ones, usually a pair lying almost opposite one another, but in Stephanophyes several form a ring.
+
+They are not noticeably staggered or superimposed one in front of the other as they are in the Diphyidae. The nectophores often support long stems of large eudoxids, whose bracts contain a canal-system which branches in a characteristic way (text-fig. 74). The eudoxids have large active gonophores or asexual nectophores, by the pulsation of which the stem can be rapidly extended and the tentacles spread like a drift net. It is hard to give a definition* that will apply to and differentiate such a varied group of species. It includes at one extreme neotenous, single-nectophored species like Nectopyramis diomediae and at the other Stephanophyes superba, with its ring of nectophores and in addition palpons. That prayids do form a natural group is now, however, agreed by systematists.
+
+There are three sub-families: Amphicaryoninae, Prayinae and Nectopyramidinae. Moser (1925) distributed the members of these three sub-families amongst three of her four families of Calycophorae, thus making nonsense of her classification.
+
+The nomenclature of the family is remarkably confused. Nine genera and fourteen species of prayids may be recognized provisionally. Only six species are at all common, namely Amphicaryon
+
+[FOOTNOTE] * Chun's diagnosis (1897b) was as follows: nectophores rounded, opposed and nearly alike. He added that they seldom lacked reserve nectophores, which might either replace the first two or remain near them. This is no longer sufficient to include the Nectopyramidinae.
+
+[NOTE: printed folio 110 at the outer (left) edge of the running head; PDF index 115, offset −5 holds. Single column; no figures or tables on this page, and no signature mark. The page opens with a new paragraph continuing the Forskalia misakiensis account from the previous page and breaks off mid-sentence at "namely Amphicaryon". A major division of the work begins here: [NOTE: new section begins here: "Sub-order III: Calycophorae Leuckart, 1854"], and within it "Family 10: PRAYIDAE Kölliker, 1853".
+
+No printed square brackets occur on this page; every bracket here is round.
+
+Layout: after the two opening paragraphs comes a blank band of about four lines, then the centred sub-order heading in type noticeably larger than the body — the largest type on the page — then a blank line and two paragraphs; then another blank band of about three lines, the centred family heading, the three sub-family synonymy lines flush left in smaller type, and six paragraphs of body text. The footnote stands at the foot, separated from the last text line by a blank band of about two lines, with no printed rule above it, set in type smaller than the body and indented on its first line; it runs to three lines. About a fifteenth of the page is blank below it. Its reference is the asterisk printed immediately after "definition" in the fifth paragraph, with no space.
+
+Type: the sub-order heading reads roman "Sub-order III:" then a wide gap, then bold italic "Calycophorae", then roman "Leuckart, 1854"; the family heading reads roman "Family 10:" then bold roman capitals "PRAYIDAE" then roman "Kölliker, 1853". The three synonymy lines are flush left and unindented, the sub-family name italic and the authority roman. Italic in the body: "F. tholoides", "see" (three times, twice in the Calycophorae paragraph and once in the footnote's context — the third is "see pp."), "Stephanophyes" (twice), "Nectopyramis diomediae", "Stephanophyes superba". Family and sub-family names in running text — Hippopodiidae, Prayidae, Diphyidae, Clausophyidae, Sphaeronectidae, Abylidae, Amphicaryoninae, Prayinae, Nectopyramidinae, Calycophorae — are roman, not italic, both in the body and in the footnote. Author surnames are ordinary upper-and-lower case roman.
+
+Punctuation as printed. (1) The parenthetic dashes in the Calycophorae paragraph are spaced en-dashes: "and bracts – except in the Hippopodiidae – but no apical"; "pp. 25 – 28) – one of which"; "propulsion – but no palpons". (2) The internal page reference is printed with spaces on both sides of the rule, "pp. 25 – 28", unlike every other numeric range on these pages, which are closed up; verified at 3.5x. (3) "vestigeal" is spelt so, not "vestigial". (4) "Kawamura's" and "Chun's" take 's. (5) "gas-filled" is broken across a line at its own hyphen and is joined here without duplication.
+
+Numerals verified digit by digit: 110; plate 1, figures 8, 9; III, 1854; 1946, pp. 25 – 28; 10, 1853; 1888a; 1897b; 1911b; text-fig. 74; 1925; 1897b in the footnote. "plate 1" is arabic, matching "Pl. 1" on p. 109. The sub-order number is the roman numeral III.
+
+Stray marks, all scanning blemishes: specks high in the page above the running head, one left of centre and one at the right, a speck in the right margin level with the sub-order heading, a speck in the right margin level with "Amphicaryoninae Chun, 1888a", a speck in the far right margin level with "Nectopyramis diomediae", a speck in the left margin level with the last body paragraph, and a small dot in the blank band below the footnote. None is printed matter.]

@@ -1,0 +1,32 @@
+[PAGE 34]
+[RUNNING HEAD] 34	A SYNOPSIS OF THE SIPHONOPHORA
+
+A.   Oozooid consists primarily of:
+1.   Protozooid – primary, terminal gastrozooid. This is the term usually applied to the gastrozooid at the oral end of the juvenile siphonophore, and in the mature cystonect and physonect.
+2.   Pneumatophore or Float – when present, it forms the invaginated, aboral organ, with an outer wall, the pneumatocodon and an inner wall, the pneumatosaccus, pneumatocyst or air-sac, which contains the gas-gland. The apex of the pneumatophore is either closed, or guarded by a sphincter muscle. A baso-lateral pore may be present, e.g. Physophora, Rhodaliidae.
+3.   Stem – the budding zone of the proximal part of the protozooid from which arise the polyps and medusoids. It can be in two parts, generally on opposite sides of the float – the nectosome (which may be very short, e.g. Diphyidae) from which are budded the nectophores; and the siphosome, from which are budded the gastrozooids, palpons, bracts and gonophores.
+
+As development proceeds, the following polypoid and medusoid persons are budded from the oozooid, or from secondary polyps:
+
+B.   Secondary polyps – larval forms.
+1.   Gastrozooids (Siphons) – feeding polyps with only a single tentacle arising from the base of the gastrozooid. The tentacle is long, contractile with (except in Apolemia) lateral branches, or tentilla, each forming a sub-terminal battery of nematocysts. The base of the gastrozooid is enlarged into a nematocyst producing area, the basigaster.
+2.   Palpons (feelers, tasters) – reduced gastrozooids with a simple tentacle, a palpacle.
+3.   Gonozooids, Gonopalpons – gastrozooids or reduced gastrozooids associated with a gonodendron, but with no tentacle. Rather an imprecise category.
+4.   Bracts – perhaps modified palpons with enlarged mesogloea, for protection and buoyancy.
+5.   Gonodendron – a complex, derived by budding from an original palpon, of other palpons, gonophores and sometimes (e.g. Cystonectae) asexual nectophores.
+C.   Medusoids – the real adults.
+6.   Gonophores – small male or female medusae, functional or reduced, without tentacles; codonid-like, or styloid.
+7.   Nectophores (nectocalyces) – swimming-bells, asexual medusoids; sometimes reduced to
+8.   'Jelly-polyps' – vestigial nectophores, found only in Physalia.
+
+There remain some terms relating to the Siphonophora which it may be useful to define more fully.
+
+1.   Pneumatophore or Float and associated parts.
+i.   Pneumatocodon (Luftschirm) – the outer three-layered wall of the invaginated float.
+ii.   Pericystic cavity – the space between the pneumatocodon and the pneumatocyst, often traversed by septa.
+iii.   Pneumatocyst, Pneumatosaccus (Luftflasche, Luftsac) – the three-layered, invaginated gas-containing part of the float, lined above by chitin, and below by secondary ectoderm that grows up from the gas-gland and lies over the chitinous lining.
+iv.   Pneumadenia – the three-layered gas-gland of the invaginated pneumatocyst – a specialized part of the wall of the pneumatosaccus.
+v.   Pneumatochone (air-funnel, Lufttrichte) – the basal cylindrical part of the chitinous lining of the pneumatosaccus, with the enclosed part of the pneumadenia.
+vi.   Hypocystic villi – outgrowths containing giant ectodermal cells, said to have a diameter of up to 2 mm, arising from the pneumadenia and often penetrating the septa that cross the pericystic cavity.
+
+[NOTE: the numbered list under B runs 1–5 and then continues 6–8 under heading C, as printed. Item 7 ends "sometimes reduced to" with no terminal punctuation, running on into item 8 on the next line; so printed.]

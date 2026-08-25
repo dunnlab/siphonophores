@@ -1,0 +1,38 @@
+[PAGE 83]
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 6 PHYSOPHORIDAE	83
+
+net haul at 1,600 m on September 10, 1959. Unfortunately, there was on board no one interested in specially preserving siphonophores. There were many nectophores associated in the catch with fragments of an orange coloured stem and some large detached gastrozooids measuring up to 3 cm length × 0·7 cm but no bracts were found, though the muscular siphosome, which is some 3 mm in diameter, carries a continuous series of the muscular bases of their lamellar attachments. A small two-chambered pneumatophore measures 6 mm × 1 mm. The state of preservation is very bad and the ectoderm of the gastrozooids is wanting. Projecting into the lumen is a series of large irregular ridges and villi of mesogloea.
+
+Well preserved nectophores in good shape are not generally found in plankton hauls. For the purposes of this synopsis I will not attempt a description but refer to my drawings which are reproduced here (text-fig. 45). Paradoxically, this is one of the least known but most easily recognized physonects.
+
+Family 6: PHYSOPHORIDAE Eschscholtz, 1829 (pro parte)
+
+PHYSOPHORIADAE Huxley, 1859
+
+DISCOLABIDAE Haeckel, 1888
+
+Genus: PHYSOPHORA Forskål, 1775
+Monotypic genus for P. hydrostatica Forskål, 1775.
+
+Physophora Forskål, 1775
+Physsophora Forskål, 1775
+Discolabe Eschscholtz, 1829
+
+I recognize only one species of the only genus, Physophora, of this family of physonects. Characteristic of the family and genus is the fact that the spiral budding zone of the siphosome, instead of elongating, expands laterally into a spiral sac, on the outer rim of the under side of which are found the cormidial groups. The single palpons of each group are proportionately very large and form a ring of active 'feelers', capable of co-ordinated action, and stinging badly.
+
+Physophora hydrostatica Forskål, 1775
+Plate XV, figures 1–10
+
+Physophora myzonema Péron & Lesueur, 1807
+Physophora philippi Kölliker, 1853
+Physophora borealis Sars, 1877
+Discolabe quadrigata Haeckel, 1888b
+Physophora hydrostatica Kawamura, 1911; Bigelow & Sears, 1937; Garstang, 1946; Totton, 1954
+
+A distinctive short stemmed, almost cosmopolitan physonect that can be immediately identified from separated nectophores, palpons and tentacles, as well as from the denuded stem and pneumatophore. Its known temperature range extends from 3 °C to 21·1 °C. It was well figured – but the colours are incorrect – by Péron & Lesueur.
+
+I am in no way satisfied by the evidence published by Haeckel (1888b) for the existence of a rather different species Discolabe quadrigata, alleged to have a quadriserial nectosome.
+
+At first sight Physophora appears to be organized rather differently from long-stemmed physonects, but if the proximal end of the siphosome of one of the latter be examined, it will be seen that the budding zone either makes, by overgrowth, a similar sort of spiral, or makes several sinuous bends on the surface of the stem. In Physophora the proximal part of the protosiphon never elongates to form a stem, but instead becomes hypertrophied in the horizontal plane – to form a sac-like siphosome.
+
+[NOTE: printed folio 83 at the outer (right) edge of the running head; PDF index 88, offset −5 holds. No figures on this page. Two printed oddities are transcribed exactly and not corrected. (i) The second family-synonym heading is printed "PHYSOPHORIADAE Huxley, 1859" — PHYSOPHORI-A-DAE, with an extra A, where the family heading two lines above is "PHYSOPHORIDAE" and the running head likewise "PHYSOPHORIDAE"; verified at 4× magnification. (ii) In the genus synonymy the second line is "Physsophora Forskål, 1775" with a double s, against "Physophora Forskål, 1775" on the line above; both spellings are as printed. The family and family-synonym names are set in bold roman capitals; "PHYSOPHORA" in the genus heading and "Physophora hydrostatica" in the species heading are bold italic; "(pro parte)" is italic inside roman parentheses. Diacritics are printed and kept: the ring in "Forskål" (four occurrences), the umlaut in "Kölliker", the acute in "Péron". Numerals verified digit by digit: 1,600 m, September 10, 1959, 3 cm, 0·7 cm, 3 mm, 6 mm × 1 mm, and the dates 1829, 1859, 1888, 1775, 1807, 1853, 1877, 1888b, 1911, 1937, 1946, 1954. The temperature range is printed "from 3 °C to 21·1 °C" with a space before each degree sign and a raised middot as the decimal point. The dashes round "but the colours are incorrect" and before "to form a sac-like siphosome" are printed as spaced en rules. There are two small stray ink marks in the margins, one at the right level with "length × 0·7 cm" and one at the left level with "from separated nectophores"; neither carries text. No printed square brackets occur on this page.]

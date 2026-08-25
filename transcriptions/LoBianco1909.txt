@@ -1,0 +1,151 @@
+<<<PAGE pdf=1 file=page_001.txt>>>
+[PAGE 1: unnumbered]
+
+[NOTE: printed wrapper / cover of the journal issue, not the article. The whole page is set inside a single-rule border with a floral ornament in each corner. The top edge of the cover is torn away, but no printing is lost. All display lines are centred.]
+
+MITTHEILUNGEN
+
+AUS DER
+
+ZOOLOGISCHEN STATION ZU NEAPEL
+
+ZUGLEICH EIN
+
+REPERTORIUM FÜR MITTELMEERKUNDE.
+
+19. BAND.
+
+4. HEFT.
+
+BERLIN.
+VERLAG VON R. FRIEDLÄNDER & SOHN.
+1909.
+
+Ausgegeben den 31. Dezember 1909.
+
+[STAMP] SMITHSONIAN INSTITUTION / MAY 14 1910 / NATIONAL MUSEUM
+
+[NOTE: a short plain rule stands between "REPERTORIUM FÜR MITTELMEERKUNDE." and "19. BAND.", and a longer rule with a small central ornament between "4. HEFT." and "BERLIN.". The date line at the foot is in italic. The oval Smithsonian accession stamp is struck over the lower right corner ornament; its wording runs round the oval, "Smithsonian Institution" above and "National Museum" below, with the date in the middle.]
+
+<<<PAGE pdf=2 file=page_002.txt>>>
+[PAGE 2: unnumbered]
+
+[NOTE: first page of the article; it carries no folio at the head. At the foot are the printer's direction line and the sheet signature "35". Letter-spaced (gesperrt) words are rejoined here: "T e l e o s t e i" is transcribed "Teleostei", and the small-capital "Lo Bianco" of footnote 1 is given as printed.]
+
+Notizie biologiche
+riguardanti specialmente il periodo di maturità sessuale
+degli animali del golfo di Napoli
+
+del
+
+Dr. Salvatore Lo Bianco.
+
+Prefazione.
+
+Nel presente lavoro si trovano insieme riunite tutte le notizie biologiche riguardanti specialmente il periodo di maturità sessuale e lo sviluppo larvale degli animali del golfo di Napoli, che si sono potute raccogliere nella Stazione Zoologica.
+
+Già nel 1888¹) pubblicai una prima serie di queste notizie, ed una seconda feci seguire nel 1898²). Ora pubblico riordinate insieme le precedenti notizie, come pure quelle raccolte sul medesimo argomento nell'ultimo decennio 1898—1908.
+
+Come nei miei precedenti lavori, alle notizie sui singoli animali, fo seguire tutte quelle altre che hanno attinenza con la loro diffusione, che riguardano gl'istrumenti da pesca usati per la loro cattura, quelle sulla natura del fondo ove essi vivono, e tutte le altre che in qualunque modo possono contribuire a far maggiormente conoscere la loro biologia.
+
+Da circa tre anni essendomi occupato con lo studio dello sviluppo postlarvale e giovanile dei Teleostei, che in gran parte non è ancora conosciuto, nel capitolo che riguarda questi pesci ho aggiunto la sommaria descrizione degli stadii che ho potuto identificare e principalmente la diffusione ed il colore del pigmento sul loro corpo, come quello che più concorre a farli distinguere.
+
+[FOOTNOTE] 1) S. Lo Bianco, Notizie biologiche riguardanti specialmente il periodo di maturità sessuale degli animali del golfo di Napoli. In: Mitth. Z. Stat. Neapel 8. Bd. 1888 pag. 385—440.
+
+[FOOTNOTE] 2) — Idem ibid. 13. Bd. 1899 p. 448—573.
+
+Mittheilungen a. d. Zool. Station zu Neapel. Bd. 19, 4.	35
+
+[NOTE: a short rule stands below the author's name and again above the footnotes. A faint pencil mark, apparently a cataloguer's tick, sits in the left margin immediately before "Dr." in the byline. In footnote 1 "Lo Bianco" is set in small capitals.]
+
+<<<PAGE pdf=3 file=page_003.txt>>>
+[PAGE 545]
+
+[RUNNING HEAD] Notizie biologiche riguardanti specialmente il periodo di maturità ecc.	545
+
+[NOTE: letter-spaced (gesperrt) words are rejoined here: "f o r a m i n i f e r o" in the first line is transcribed "foraminifero". Species names heading each entry are in bold, cited authors of names in small capitals (C. Chun, Schmidt-Lein), Latin names inside the text in italic. Guillemets are printed reversed, »…«, as in German practice; they are reproduced as printed. The page opens mid-sentence, continuing from p. 544.]
+
+distrutta da un foraminifero, che in gran numero si arrampica sulle ramificazioni della colonia, invadendone quasi tutta la superficie. Ne ho contato sino a 32 esemplari sopra un rametto lungo 1 cm; sono sempre di diversa grandezza e anche molto piccoli. Le colonie che sono invase da molti foraminiferi, non hanno più nè polipi nè cenosarco che probabilmente sono stati mangiati da detti animali. Un fatto simile ho osservato anche nell' Obelia plicata Hincks, che vive nei medesimi luoghi.
+
+Syncoryne pulchella Allm. — Distacco di meduse IV—VI. — Vive in colonie sulla Suberites domuncula Olivi e su altre spugne.
+
+Tima flavilabris Esch. (»Funge e tartanella«). — Uova mature X (C. Chun). — In V—VI con la tartanella si pescano alla secca della Gajola esemplari di 1 a 5 cm di diametro. Generalmente vive sui fondi detritici ad una profondità di 30—70 metri e non si è mai trovata pelagica. Molto frequente in estate e in autunno.
+
+Tubularia mesembryanthemum Allm. (»Sciurille do puorte«). — Gonofori maturi e actinule durante tutto l'anno. Questo idroide forma cespugli piuttosto grandi e vive sulle pareti immerse delle banchine e sotto lo scafo delle navi ancorate nell Porto militare ed in quello mercantile e sempre a poc'acqua.
+
+Queste colonie periodicamente cadono in stato di vita latente perdendo tutti gl'idranti e riducendosi a soli peduncoli. Dopo un certo tempo rigenerano di nuovo gl'idranti e le colonie ritornano floride come prima. Durante il IV del 1906, in seguito alla pioggia di cenere vulcanica, tutte le colonie di questa Tubularia che vivevano nei due porti, le quali fino allora erano state in floride condizioni, man mano perdettero tutti gl'idranti, che rifecero solo alla fine del mese seguente. Questo fatto dimostra chiaramente che la vita latente serve a questi idroidi per proteggersi contro le condizioni precarie improvedute e contro quelle, che per le loro condizioni fisico-chimiche speciali presentano sovente i porti (temperature eccessive, sostanze nocive, putrefazione etc.).
+
+Siphonophora.
+
+Agalma Sarsii Leuck. — Organi genitali maturi e emissione di uova XI—III. — Non è comune in tutti gli anni e si mostra d'inverno e di primavera alla superficie delle correnti.
+
+Athorybia rosacea Esch. — Organi genitali maturi XI (Schmidt-Lein). — Molto rara; in cinque anni non è stata mai pescata.
+
+Forskalia contorta M. Edw. — Gonofori maturi V, VI e XI. — Larve e giovani colonie X e III. — Molto frequente tutto l'anno, specialmente d'inverno.
+
+Mittheilungen a. d. Zool. Station zu Neapel. Bd. 19, 4.	37
+
+[NOTE: "nell Porto militare" is printed thus, without the apostrophe. "improvedute" is printed thus. The foot of the page carries the printer's direction line and the sheet signature "37".]
+
+<<<PAGE pdf=4 file=page_004.txt>>>
+[PAGE 546]
+
+[RUNNING HEAD] 546	Salvatore Lo Bianco
+
+[NOTE: letter-spaced (gesperrt) words are rejoined here: "C a l y c o p h o r i d a e" in the last paragraph is transcribed "Calycophoridae". The sex signs are printed as the astronomical symbols for Venus and Mars and are given as ♀ and ♂. Guillemets are printed reversed, »…«, as in German practice.]
+
+Forskalia Edwardsii Leuck. — ♀ con gonofori maturi I—III. — Più rara della specie precedente.
+
+Galeolaria aurantiaca Vogt. — Gonofori ♀ e ♂ amturi II—X. — Appare specialmente nei mesi d'inverno e di primavera e mai in gran numero.
+
+Halistemma rubrum Vogt. — Matura X—I e III. — Piuttosto comune d'inverno e di primavera.
+
+Halistemma tergestinum Cls. — Numerose giovani colonie lunghe da 10—30 mm nel phaoplankton VII—IX. L'adulto spesso si pesca dall' autunno a tutta la primavera.
+
+Hippopodius neapolitanus Koell. (»Ciamfa«). — Colonie giovani VIII a X, le quali si pescano nel knephoplankton e nello skotoplankton.
+
+Monophyes gracilis Cls. con Diplophysa inermis Cls. — Uova mature XI (C. Chun). — Comune nel plankton.
+
+Physophora hydrostatica Forsk. (»Cinche sorde«). — Emissione di uova I—II, colonie giovani IV—VIII. — Appare nei mesi d' inverno e di primavera, ma non frequentemente.
+
+Physophora tetrasticha Phil. (»Cinche sorde«). — Emissione di uova osservata in un individuo molto grande I; questa specie è assai rara e si pesca d'inverno e di primavera nelle correnti littorali.
+
+Porpita mediterranea Esch. — Distacco di meduse V—VI e X, giovani individui di 3—7 mm di diametro VI—VII. Questa specie, che ordinariamente vive in alto mare, specialmente d'estate vien spinta nel golfo in numerosi esemplari dai forti venti di Sud.
+
+Praya diphyes Vogt. — Con prodotti sessuali maturi I—V; apparisce nel golfo nei mesi d'inverno e di primavera e talvolta anche abbondantemente.
+
+Rhizophysa filiformis Forsk. — Con prodotti sessuali maturi I—V, un giovanissimo esemplare in III. Apparisce molto irregolarmente nei mesi invernali e primaverili e sempre in pochi individui.
+
+Velella spirans Esch. (»Solachianielle« o »Velelle«). — Gemmule e chrysomitre abbondanti durante tutto l'anno; conaria e rataria anche durante tutto l'anno, con la differenza che la prima è stata trovata esclusivamente nel knephoplankton ed in pochi individui, mentre la seconda si è raccolta solo alla superficie e sovente in grande quantità.
+
+La Velella è un' animale tipico di alto mare e vien spinto alla costa dalle burrasche continuate provenienti dal S.
+
+Durante tutto l'anno si pescano abbondantemente nel knephoplankton stadii giovani di varii Calycophoridae, i quali durante l'inverno e la primavera sono infestati dalla Spyrochaeta Grobbenii Poche, che in grande quantità vive nelle rispettive oleocisti.
+
+[NOTE: "amturi" in the Galeolaria entry is printed thus, a transposition for "maturi". "phaoplankton" is printed thus. A short centred rule separates the last paragraph from the species list. There is no printer's direction line or signature at the foot of this page.]
+
+<<<PAGE pdf=5 file=page_005.txt>>>
+[PAGE 547]
+
+[NOTE: page has no text layer at all; transcribed entirely from the 300 dpi page image.]
+[NOTE: the original uses letter-spaced (gesperrt) type for emphasis; those words have been rejoined into ordinary words here — on this page they are "periodo più favorevole" (first line) and "scyphistoma" (last line).]
+
+[RUNNING HEAD] Notizie biologiche riguardanti specialmente il periodo di maturità ecc.  547
+
+Il periodo più favorevole per lo studio dei sifonofori nel Golfo di Napoli è l'inverno e la primavera, in cui per la più gran parte vengono spinti alla costa dall' azione dei venti del S.
+
+Acalephae (Cappielle e mare).
+
+Aurelia aurita L. — Emissione di planule osservata finora in un solo esemplare IV; questa specie nordica si vede molto raramente nel Golfo e solo in uno o due esemplari alla volta, per lo più durante l'inverno e la primavera.
+
+Charybdaea marsupialis Pér. Les. (»Cappelline arena«). — Emissione di uova fecondate IX—XI. Le uova si sviluppano bene sino allo stadio di planula, che si fissa e che dà luogo ad un piccolo polipo con due tentacoli. — Questa medusa si mostra verso VIII sulle spiagge sabbiose a poca profondità; ne ho pescate nel Porto di Nisida, sulla spiaggia di Arienzo (golfo di Gaeta) e specialmente su quella dei Bagnoli, dove costantemente ogni anno se ne vedono in gran numero. Di rado (XI) se ne pescano individui più grandi sui fondi detritici ed anche natanti nelle correnti littorali (I—II). Sulla spiaggia dei Bagnoli si trovano sino a XII, ma dopo le prime tempeste invernali spariscono completamente. Nelle vasche dell' Acquario, alimentate con carne di pesce, vivono fin circa un mese.
+
+Cotylorhiza tuberculata Ag. (»Cassiopee«). — Emissione di planule IX—XI, di rado XII—I; varii stadii di ephyra (rari) fino circa 4 mm di diametro nel phaoplankton VI—VIII. Le planule si sviluppano bene nelle vasche del laboratorio fino allo stadio di scyphistoma; alcune emesse il giorno 1 di XI 1885 erano ancora scyphistoma al 26 I 1886. Questa medusa appare nel golfo solo fra VII e VIII e sempre in esemplari giovani; essa crescendo gradatamente resta nelle nostre acque fino a XI, raramente fino I, sicchè in questi ultimi mesi se ne trovano solo di grosse dimensioni. Infine sparisce del tutto e non si è dato mai il caso di pescarne prima del VII dell' anno seguente. In certi anni appariscono in numero considerevole e talvolta vengono accompagnate da piccoli Trachurus trachurus Cart. o da piccoli Stromateus fiatola L. Nelle vasche dell' Acquario ho sovente osservato che i piccoli Stromateus si cibano con grande piacere del corpo della Cotylorhiza, mentre ciò non fanno mai i piccoli Trachurus.
+
+Nausithoë punctata Koell. — Meduse mature XI—III, strobile ed ephyre VI. — Si è potuto costatare che la Spongicola fistularis F. E. S., creduta finora un idroide, è lo scyphistoma di questa medusa1). Nel
+
+[FOOTNOTE] 1) S. Lo Bianco & P. Mayer, Spongicola und Nausithoë. in: Z. Anzeiger 13. Jahrg. 1890 pag. 687.
+
+37*
+
+[NOTE: last page of this PDF excerpt; the text breaks off mid-sentence at "Nel" and continues on a page not included.]

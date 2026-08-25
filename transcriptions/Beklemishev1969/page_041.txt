@@ -1,0 +1,22 @@
+[PAGE 486]
+[NOTE: previous reader's pencil annotation. Three short handwritten notes are written in the outer left margin, sloping steeply upward, beside the paragraph beginning '2. Creation of colonial organs'; the third is very faint. Pencil underlining marks 'the corbula of Aglaophenia (Fig.' and runs on under 'examples of coenosarcal' in the following line.]
+[NOTE: the numeral 1 after 'sense' in the first line is a superscript footnote reference, keyed to the numbered footnote at the foot of the page.]
+[RUNNING HEAD] 486 COMPARATIVE ANATOMY OF INVERTEBRATES
+
+[MARGIN]
+[HANDWRITTEN] pneumatophore
+[HANDWRITTEN] ? bracts
+[HANDWRITTEN] [?Polyzooic] [?organ]
+[/MARGIN]
+
+sense 1) in the bodies of the members of a colony with division into physiologically dominant and subordinate parts (head-stalk in polyps, polypide-cystid in Bryozoa, thorax-abdomen in the ascidians Clavellinidae, trunk-stem in Kamptozoa and Pterobranchia, and trunk-cercomere in cestode larvae).
+
+The original role of the coenosarc was provision of an organic connection and exchange of matter between zooids. As its role increased new individuals budded from the coenosarc and a common colonial growth zone was formed. Finally, differentiation of organs and apparatuses common to the colony took place from the coenosarc: the coenosarcal attachment-organs of many coelenterates, the skeletal formations of many Anthozoa, the creeping sole of Cristatella, the hypostegal brood pouch of Lichenopora. Unusual complexity and diversity are found in the circulatory apparatus of Octocorallia formed by the endodermal canals (solenia) of the coenosarc. The musculature and neural plexus of the solenia also form the locomotor and neural apparatuses of Pennatularia. It is not quite clear whether we can include the 'kidney' and 'liver' of Velella among coenosarcal organs; the structure of Disconantae colonies gives more grounds for suggesting that these organs are formed from the gastrovascular apparatus of the gastrozooid. The tracheae of Velella, without any doubt, do not belong to the coenosarc, since they are formed from the pneumatophore, which in Disconantae is an organ of the gastrozooid.
+
+2. Creation of colonial organs. The needs of the large body of a colony cannot usually be satisfied by the functions of the organs of ordinary zooids, and it creates larger colonial organs either by specialisation and strengthening of the functions of separate zooids (polymorphism), by creation of organs involving a number of zooids, or by creation of coenosarcal organs. Typical examples of unilateral strengthening of the functions of separate zooids are presented by the siphonozooids of Octocorallia (Fig. 48), the dactylozooids and gastrozooids of Athecata (Fig. 37, B), the female gonozooids of Stenolaemata, etc. A typical example of a polyzoic organ is the corbula of Aglaophenia (Fig. 37, C). We have already mentioned examples of coenosarcal organs.
+
+3. Creation of colonial apparatuses, and physiological integration of the colony. The most important characteristic of true colonies of Metazoa is possession of a common colonial circulatory apparatus. A certain degree of uniformity of the internal environment is one of the chief signs of the existence of coloniality. We may say that without exchange of matter between living zooids there is no colony. That is why a cluster of Balanus or of mussels is not a colony.
+
+In typical colonies of hydroids or Bryozoa the internal environment is trophic, excretory, and incretory. The degree of efficiency of the linking action of the internal environment, however, depends on the level of
+
+[FOOTNOTE] 1 C. M. Child (1911) established the presence of a physiological gradient in the bodies of many animals, i.e. arrangement of the parts of the body in a definite topographical succession with a gradual fall in the intensity of metabolism.

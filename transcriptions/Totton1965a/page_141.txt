@@ -1,0 +1,77 @@
+[PAGE 136]
+
+136	[RUNNING HEAD] A SYNOPSIS OF THE SIPHONOPHORA
+
+[FIGURE]
+R.long.
+Ns
+C.rad.lat
+C.pa
+A
+R.lat
+H
+
+O.c
+R.long.
+C.rad.d.
+C.rad.lat
+B
+Ns
+C.rad.v.
+R. lat.
+C.pa(som).
+Gz2
+T.
+Gz1
+0	5 mm.
+
+FIG. 78.   Nectopyramis natans (Bigelow). Polygastric phase
+A, fore-shortened view from the ostial end to show longitudinal ridges; B, dorso-lateral view, × 7
+H = hydroecium; R.lat = lateral ridge; R.long = longitudinal ridge; T = tentacle; for other abbreviations see text-figure 76. (from Totton, 1954, fig. 38).
+[/FIGURE]
+
+[FIGURE]
+A
+C.pa
+R.d
+C.rad.d.
+R.buc.
+R.buc.
+Ns.obs
+
+B
+R.d
+C.pa
+C.rad.d.
+Ns.obs
+C.rad.v.
+R.buc.
+H
+R.buc.
+0	1.mm.
+
+C
+R.d.
+Gz
+H
+C.rad.d.
+C.pa
+Ns
+R.buc.
+C.rad.lat
+R.buc.
+
+FIG. 79.   Nectopyramis spinosa Sears. Polygastric phase
+A, dorsal view; B, lateral view of the nectophore of the first type, with obsolescent nectophore, Scotia St. 363; C, lateral view of a nectophore of the second type with a functional nectosac, 'Discovery' St. 1639, × 9.5
+C.pa = pallial canal; C.rad.d = dorsal radial canal; C.rad.lat = lateral radial canal; C.rad.v = ventral radial canal; Gz = gastrozooid; H = hydroecium; Ns = nectosac; R.buc = buccal ridge; R.d = dorsal ridge (from Totton, 1954, fig. 40).
+[/FIGURE]
+
+[NOTE: this page carries no body text — only text-figures 78 and 79 with their captions. Text-fig. 78 occupies the upper half and consists of two drawings, A above left and B, much larger, below and to the right. Text-fig. 79 occupies the lower half and consists of three drawings side by side, A, B and C from left to right. Inside each [FIGURE] the lettering of each drawing is listed in its own reading order down the drawing, then the printed caption last; blank lines separate the drawings' label lists.]
+
+[NOTE: scale bars are lettered "0" at the left end and "5 mm." at the right on drawing B of text-fig. 78, and "0" and "1.mm." on drawing B of text-fig. 79; each pair is given on one line separated by a tab. "1.mm." is printed with a full point after the figure, as "2.mm." is on the previous page.]
+
+[NOTE: superscripts: the "2" of "Gz2" and the "1" of "Gz1" on drawing B of text-fig. 78 are printed as superscript numerals.]
+
+[NOTE: the drawn lettering is transcribed exactly as printed and is not internally consistent. Verified at 4–12x: text-fig. 78 letters the lateral radial canal "C.rad.lat" without a final stop on both drawings, but the dorsal and ventral ones "C.rad.d." and "C.rad.v." with stops; the somatocyst label on drawing B is "C.pa(som)." — the full point falling after the closing parenthesis; the lateral ridge is "R.lat" on drawing A and "R. lat." on drawing B, with a space after the R. In text-fig. 79 drawing A carries two separate "R.buc." labels at its foot, the right-hand one printed slightly above the left with "Ns.obs" between them, and drawings B and C likewise carry two "R.buc." labels each; drawing B letters the dorsal ridge "R.d" and drawing C "R.d.". Neither figure's caption key includes "Ns.obs".]
+
+[NOTE: numerals verified digit by digit: FIG. 78, × 7, text-figure 76, Totton, 1954, fig. 38; FIG. 79, Scotia St. 363, 'Discovery' St. 1639, × 9.5, Totton, 1954, fig. 40. The magnification "× 9.5" uses a low, on-baseline decimal point. No printed square brackets occur on this page.]

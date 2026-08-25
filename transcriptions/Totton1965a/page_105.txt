@@ -1,0 +1,59 @@
+[PAGE 100]
+[RUNNING HEAD] 100	A SYNOPSIS OF THE SIPHONOPHORA
+
+Forskalia edwardsi Kölliker, 1853
+Plate XX, figures 1, 2
+
+Stephanomia prolifera Milne Edwards, 1841
+Stephanomia contorta Leuckart, 1853
+Forskalia edwardsii Kölliker, 1853
+Apolemia contorta Vogt, 1854
+Forskalia ophiura Leuckart, 1854 ? ?
+Forskalia ophiura Sars, 1857
+Forskalia edwardsii Kefferstein & Ehlers, 1861
+Forskalia sp.1 Claus, 1863 (p. 545, Pl. xlvii, fig. 16)
+Forskalia edwardsi Bedot, 1893b
+Forskalia contorta Leloup, 1935
+Forskalia edwardsii Totton, 1954
+
+An abundant Mediterranean species whose appearance at the surface at places like Villefranche seems to depend on up-welling water. The stem, which may reach a length of seven or eight feet, may be coiled up closely during progression.
+
+Nectophores (text-figs. 52, 53):   The nectosome consists of a conical or more cylindrical structure of numerous nectophores, all budded from one meridian of the stem. The proximal portion of the nectophore (exumbrella) is elongate, flattened from above, tapering and without the marked incision
+
+[FIGURE]
+A
+x
+
+5 mm
+
+B
+x
+
+FIG. 53.   Forskalia edwardsi Kölliker
+A full grown nectophore of a Villefranche specimen. A, upper side; B, under side
+x = lemon-yellow spot.
+[/FIGURE]
+
+at the point of attachment of the muscular lamella found in F. leuckarti. There is a lateral basal projection and incision on the right side, and a projection on either side of the nectosac. A small sulphur-yellow pigment spot at the junction of the upper radial and circular canals is characteristic of the species, but there is no rete in the pedicular canal.
+
+Gastrozooids:   Very mobile, 16 mm in length, on long peduncles 37 mm in length, bearing numerous pairs of bracts.
+
+Bracts (see Totton, 1954, p. 71, text-figs. 29, 30):   Laterally compressed. Stem bracts leaf-like, pyramidal in outline, in pairs on each cormidium of the stem. Peduncular bracts of three types, in enantiomorphic pairs. At the base of the peduncle is a pair of bolster-shaped bracts, triangular in
+
+[NOTE: printed folio 100 at the outer (left) edge of the running head; PDF index 105, offset −5 holds. Single column. No footnotes, no table, no signature mark. The page breaks off mid-sentence at "triangular in", continuing on the next page.
+
+No printed square brackets occur on this page; every bracket here is round. But note that this page carries the author's own printed query marks in the synonymy: the entry "Forskalia ophiura Leuckart, 1854" is followed by two italic question marks, spaced apart, "? ?", the second set slightly higher than the first. They were verified at 8x-9x and are printed matter — Totton's own doubt about that name — not transcriber uncertainty, and they are not enclosed in brackets. No other entry in the list is queried.
+
+Layout: text-fig. 53 occupies the middle two-fifths of the page, two drawings side by side (A left, B right) with a graduated vertical scale bar standing between them, and the caption centred below in type smaller than the body. The figure interrupts the "Nectophores" paragraph, which breaks at "without the marked incision" above the drawings and resumes with "at the point of attachment" below the caption; the [FIGURE] block is placed at that break, in printed reading order.
+
+The items inside [FIGURE] before the caption are exactly the labels printed within the drawings and nothing else — the illustration itself is deliberately not described. Left drawing: the panel letter "A" at its lower left and "x" at its foot below a short leader. Scale bar between the drawings: "5 mm", printed rotated 90° so that it reads down the bar, with a clear space between the figure and the unit (verified at 9x) and with about a dozen ruled graduations along the bar, none of which is numbered. Right drawing: the panel letter "B" at its lower left and "x" at its foot. Panel letters and leader labels are upright sans-serif, the letters capital and the labels lower case. Total lettering: 2 panel letters, 2 "x", 1 "5 mm".
+
+Caption detail: "FIG." small capitals, old-style 53, full point, wide gap, italic "Forskalia edwardsi", roman "Kölliker". The second line ends "B, under side" with no full point printed. The third line begins with an italic "x" followed by a spaced equals sign and is set flush further left than the second line, not centred with it.
+
+The synonymy list is set in type smaller than the body, flush left and unindented, one entry per line, so its line breaks are kept. Spellings as printed, and they are not uniform: "edwardsi" (in the species heading, in the Bedot entry) beside "edwardsii" (Kölliker 1853, Kefferstein & Ehlers 1861, Totton 1954). "Forskalia sp.1" is printed with no space between "sp." and the numeral 1. Claus's plate is cited in lower-case roman numerals, "Pl. xlvii", unlike the capital roman numerals used for Totton's own plates ("Plate XX").
+
+Type: the species heading is bold italic with roman authority; "Plate XX, figures 1, 2" is roman. Italic side-headings each followed by a wide two-space gap: "Nectophores", "Gastrozooids:", "Bracts". Italic elsewhere: every genus and species name in the synonymy, "F. leuckarti", "rete", "see", and the two terms "Stem bracts" and "Peduncular bracts" in the last paragraph. "text-figs." is lower-case roman. Author surnames are ordinary upper-and-lower case roman.
+
+Numerals verified digit by digit: 100; 1853; Plate XX, figures 1, 2; 1841; 1853; 1853; 1854; 1854; 1857; 1861; sp.1, 1863, p. 545, Pl. xlvii, fig. 16; 1893b; 1935; 1954; text-figs. 52, 53; FIG. 53; 5 mm; 16 mm, 37 mm; 1954, p. 71, text-figs. 29, 30.
+
+Stray marks, all scanning blemishes: specks in the right margin level with the synonymy entries for Sars and for Claus, a group of three or four small flecks in the right margin level with the top of the drawings, a short dash and a tick in the far right margin level with the upper and middle parts of the figure, a speck in the left margin level with the middle of the left drawing, a speck just above the top of the scale bar, and a speck below the last line of body text. None is printed matter.]

@@ -1,0 +1,81 @@
+[PAGE 3385]
+
+[NOTE: born-digital journal page, single full-measure text column with Fig. 3 (four
+map panels) set across the page in the upper half. Punctuation convention as
+described on page 3: full-width Chinese marks are used, and decimal points are
+transcribed as ordinary periods without the gap the journal prints after them.]
+
+[RUNNING HEAD] 10 期	陈颖涵　等: 北部湾北部水母类群集结构与数量分布	3385
+
+壮丽水母（Aglaura hemistoma）和两手筐水母（Solmundella bitentaculata）等。
+
+水母类种数平面分布格局如图 3 所示，总体表现为 20 m 以浅的雷州半岛-广西近岸海域种数较少，20 m 以深的远岸海域种数较多，其中夏季水母类各站位种数分布较均匀，基本都在 10 种以上。
+
+[FIGURE]
+[NOTE: four map panels in a 2 x 2 block, each a contour-shaded map of the northern
+Beibu Gulf with filled circles of graded size for species number, a vertical colour
+bar at the left of each panel and a symbol key at the upper right. Panels are
+transcribed in reading order: upper left, upper right, lower left, lower right.]
+
+[NOTE: panel 1, upper left]
+22°N	21°	20°	108°	109°	110°	111°E
+23.5	23.0	22.5	22.0	21.5	21.0	20.5	20.0	19.5	[NOTE: colour-bar labels, top to bottom]
+春季
+10—15	5—10	1—5	[NOTE: symbol key, largest circle first]
+雷州半岛	海南岛	[NOTE: 雷州半岛 set vertically, one character per line]
+
+[NOTE: panel 2, upper right]
+22°N	21°	20°	108°	109°	110°	111°E
+31.5	31.0	30.5	30.0
+夏季
+15—20	10—15	5—10
+雷州半岛	海南岛
+
+[NOTE: panel 3, lower left]
+22°N	21°	20°	108°	109°	110°	111°E
+27.5	27.0	26.5	26.0	25.5	25.0	24.5
+秋季
+15—20	10—15	5—10	1—5
+雷州半岛	海南岛
+
+[NOTE: panel 4, lower right]
+22°N	21°	20°	108°	109°	110°	111°E
+22.5	21.5	20.5	19.5	18.5	17.5
+冬季
+20—25	15—20	10—15	5—10	1—5
+雷州半岛	海南岛
+
+审图号: GS(2014)1797号	[NOTE: set once, below the lower right panel]
+
+图 3	北部湾北部水母类种数四季平面分布（示表层温度）
+Fig. 3	Seasonal horizontal distributions of species of jellyfish in northern Beibu Gulf（surface temperature）
+[/FIGURE]
+
+2.2	丰度的平面分布
+
+水母类周年平均丰度为 61.9 个/m3，其中夏季（24.2 个/m3）> 春季（14.3 个/m3）> 冬季（13.7 个/m3）> 秋季（11.0 个/m3），丰度的季节变化为单峰型。
+
+水母类丰度平面分布的时空变化如图 4 所示，调查海域西北部丰度较高，涠洲岛以北海域丰度较低，基本 <10.0 个/m3。四季丰度的高值区分布有所不同，夏季和冬季位于调查海域西北部，春季和秋季位于调查海域西部偏中部区域。
+
+2.3	主要优势种的季节变化
+
+以优势度 ≥0.02 为依据，水母类四季优势种有拟细浅室水母、双生水母、球型侧腕水母、四叶小舌水母等 7 种水母，其中管水母类的拟细浅室水母和双生水母为主要优势种。优势种季节性消长现象明显，拟细浅室水母夏季丰度最大，秋季减少，冬季为全年最低；双生水母春季丰度最大，夏季和秋季减少，冬季增加；四叶小舌水母在秋季大量出现，其他季节丰度都比较低（图 5）。
+
+拟细浅室水母: 春季和夏季数量多，高值区位于调查海域的西北部，其中夏季丰度最大值达 78.7 个/m3；丰度低值区位于铁山港海域（<1.0 个/m3）（图 6）。
+
+双生水母: 春季和冬季数量多，其中春季高值区位于调查海域西偏北部（丰度最大值为 36.9 个/m3），琼州海峡西向入海口出现小范围密集区（丰度最大值为 36.7 个/m3）；冬季密集区位于调查海域西北部（丰度最大值为 27.1 个/m3），铁山港海域零星出现（<1.0 个/m3）（图 7）。
+
+四叶小舌水母: 秋季数量多，在调查海域的分布范围广，密集区位于调查海域的西部，丰度最大值为 24.8
+
+[NOTE: the text breaks off mid-sentence at the foot of the page and continues on
+the next page. "个/m3" throughout has the 3 as a superscript. The colon after each
+species name (拟细浅室水母:, 双生水母:, 四叶小舌水母:, and 聚类分析: etc. on page 3)
+is set as a narrow colon followed by a space; it is transcribed as a plain ASCII
+colon because its width cannot be judged from the image.]
+
+http: / / www.ecologica.cn
+
+?1994-2018 China Academic Journal Electronic Publishing House. All rights reserved.    http://www.cnki.net
+
+[NOTE: grey CNKI footer stamp added by the digitiser; the leading character really
+is a question mark on the page.]

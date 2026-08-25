@@ -1,0 +1,29 @@
+[PAGE 133]
+
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 10 PRAYIDAE	133
+
+[FIGURE]
+A
+
+B
+
+FIG. 75.   Nectopyramis diomedeae Bigelow
+A, Polygastric phase, × 2.9 and B, eudoxid phase, × 2
+(from Totton & Fraser, 1955).
+[/FIGURE]
+
+Polygastric phase
+
+Nectophore (text-fig. 75A):   Rhomboid-ovate in outline, somewhat lens shaped, rather flatter on the dorsal side than the ventral, thin and pointed apically, up to 4·5 cm in length. The rather small nectosac with straight radial canals lies below with its ostium opening somewhat to the dorsal side. A little above the level of the nectosac or overlapping it is the deep, pocket-shaped hydroecial cavity. It opens by a curved slit-like ostium on the right edge, which here forms a narrow facet. The ostium is flanked by two ridges ending below in angular prominences. Below the lower lip of the ostium is a small flattened basodextral facet, bounded by two ridges, each with a basal angular process. The facet comes to a point below and is triangular in section. Into its mesogloea projects the basal end of the inferior branch of the pallial canal. The outline of the hydroecial cavity in optical section is flared at the ostium. Above it the dextral edge of the nectophore forms a fin-like ridge in some specimens. This runs right round the apical end and other side to terminate in an angular baso-sinistral prominence at the side of the nectosac. On the dorsal side in particular in some nectophores an apico-basal, rounded ridge can be seen, which bifurcates round the base of the nectosac. A lack of really well preserved specimens prevents a more complete description.
+
+The complex somatocyst-canal-system, which is not always quite so complex as in the specimens figured by Bigelow (1911b) and Totton (1954) consists principally of a curved median pallial canal that runs round the apex of the hydroecial cavity at the point where the nectophore is attached to the stem, and then descends past the pedicel and radial canals of the nectosac to enter the baso-ventral prominence. The upper branch of this pallial canal is represented by the canal labelled by Bigelow (1911b) and Totton (1954) C.pa3. This canal, after giving off a downward branch on each side of the hydroecium ascends towards the apico-ventral angle of the nectophore. A second branched canal, C.pa2, ascends from the apex of the hydroecium to the apex of the nectophore. A third, C.pa1, runs out to the left edge of the nectophore.
+
+During its phylogeny the nectophore of this species has become twisted and asymmetrical. Just what has happened it is not at all easy to deduce. But it looks as if figure 1 of plate 1 of Bigelow (1911b), and figure 2 of plate V of Totton (1954) show the dorsal side. The ostium of the hydroecial cavity seems to have become twisted round 90% to the right, and the original course of canal C.pa3 readjusted. Assuming that this is what has happened one can now attempt to homologize the canal systems of N. thetis and N. diomedeae. Reference to figure 2 of Bigelow (1911a) shows the dorsal surface of N. thetis (polygastric phase). We see the longitudinal pallial canal extending from above
+
+[NOTE: the numerals of "C.pa3", "C.pa2", "C.pa1" and the second "C.pa3" are all printed as superscripts.]
+
+[NOTE: "90%" in the last paragraph is printed with a per-cent sign where a degree sign is evidently meant ("twisted round 90% to the right"); verified at 9x and transcribed as printed.]
+
+[NOTE: caption detail: "FIG." small capitals, old-style 75, full point, wide gap, italic "Nectopyramis diomedeae", roman "Bigelow". The magnifications use a saltire multiplication cross and low, on-baseline decimal points ("× 2.9"), whereas the body measurement "4·5 cm" uses a raised middle dot — both verified at 9x. The only lettering on the illustration is "A" beneath the left drawing and "B" beneath the right; there is no other text on it.]
+
+[NOTE: the running head prints "FAMILY 10" in old-style figures, so the 1 and 0 resemble small-capital I and O. No printed square brackets occur on this page.]

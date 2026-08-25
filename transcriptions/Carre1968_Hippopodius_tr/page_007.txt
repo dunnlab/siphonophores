@@ -1,0 +1,31 @@
+[PAGE 2]
+
+[NOTE: English translation, born-digital and fully legible. The folio "2" is centred at the head of the page; this is the translation's own pagination, restarting at 1 on the previous page. Figure 1 is a scan of the same line drawing as Figure 1 of the French original earlier in this PDF, so its internal lettering is the French original's; the caption beneath it is the translator's new English caption set in born-digital type, and it drops the French thin space before the colons. Printed as-is: "is developed so as oppose the first", "according to the actual admitted synonymy", "Chun signalled that his specimen came from deep nets", and "four canals have been designated by analogy". The translation of the section "The young colony" is shorter than the French, which has a second paragraph here.]
+
+2
+
+The bud of the second definitive nectophore is developed so as oppose the first, which is pushed back little by little beyond the hydroecium, and becomes very large and flattened. Its morphology is that of a nectophore of an adult Hippopodius hippopus, with four knobs above the nectosac (of which the two inner ones are less well developed) and four radial canals.
+
+[FIGURE]
+S.
+Eb.N.
+Eb.C.
+C.P.
+G.P.
+H.
+C.D.
+C.V.
+
+Fig. 1. Calyconula of Hippopodius hippopus.
+C.D.: dorsal canal; C.P.: pedicular canal; C.V.: ventral canal; Eb.C.: cormidial bud; Eb.N.: bud of first definitive nectophore; G.P.: primary gastrozooid; H.: hydroecium; S.: somatocyst.
+[/FIGURE]
+
+The young colony (Pl. I, 6-9)
+
+Some days after the budding of the second nectophore, the third definitive nectophore appears at the base of the peduncle of the previous one. It also has four knobs and all the systematic characters of nectophores of an adult Hippopodius hippopus. At this stage the larval nectophore falls off and degenerates.
+
+Discussion
+
+Observations on various larval and post-larval stages, forming a continuous series as far as an old colony of Hippopodius hippopus, allow us to attribute them with certainty to this species.
+
+The larval nectophore has two radial canals and the first definitive nectophore has two knobs above the nectosac. These observations nullify those of preceding authors with regard to the same species (according to the actual admitted synonymy) because Metschnikoff, Chun and Moser attributed four radial canals to the larval nectophore of Hippopodius hippopus. It is possible that those authors had been observing and describing some larvae of Vogtia glabra, a rare species living in deep water (Chun signalled that his specimen came from deep nets). It is equally possible that the canals have not always been well observed, especially if the authors have worked on preserved material or in a poor state, and that four canals have been designated by analogy with what one observes in general amongst siphonophore nectophores.

@@ -1,0 +1,49 @@
+[PAGE 95]
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 8 RHODALIIDAE	95
+
+The bracts are radially arranged so that their trifid, contiguous, truncated, interlocking outer ends appear to have formed a sort of carapace to the contracted living animal, at any rate in the equatorial region. A cormidium sometimes bears two or three bracteal lamellae. The palpons are numerous in places, but have been lost in others. The numerous pedunculate gonophores appear to be all male. There is no sign of an opening to the sub-umbrella. Radial and circular canals are visible in the gonophores. The numerous gonodendra are branched, and bear the palpons.
+
+As in Dromalia and Rhodalia the cormidia appear to be slightly branched, new gastrozooids growing from the base of older ones. The tentacles bear tentilla with a single terminal filament. The various appendages are so numerous and well preserved that it is hardly possible to ascertain whether there is a spiral arrangement as in Dromalia. The single specimen is at present too valuable to dissect, so that it is not known whether there is a single axial canal leading to the protozooid, which has not been located.
+
+Kawamura (1954) cited the evidence of a coloured sketch of the living animal that the pneumatophore, circular and radial canals of the nectophores and the distal halves of the gastrozooids were all brilliant red in colour.
+
+He showed that the three distal corners of the bracts are heavily armed with nematocysts.
+
+Genus: ANGELOPSIS Fewkes, 1886
+
+Angelopsis Fewkes, 1889; Bigelow 1911b
+
+Type species: A. globosa Fewkes, 1886.
+
+Corm bulbous, the nectosome containing a 'hypocrystic' cavity, the siphosome solid but traversed by a network of canals. General ground-substance cartilaginous, in consistency as in Rhodalia.
+
+Angelopsis globosa Fewkes, 1886
+
+The only known specimen was inadequately described and figured in 1886, but after the publication of Haeckel's monograph (1888b) in which he set up the group Auronectae, Fewkes (1889) redescribed and refigured it in more detail (Pl. VII).
+
+Pneumatophore:   Spherical, 7–10 mm in diameter, smooth-walled.
+
+Corm:   Of same diameter as pneumatophore, globular, with central cavity. There is according to Fewkes (1889, Pl. VII, fig. 2) a wide hypocystic cavity, which may be part of the above mentioned central cavity.
+
+Aurophore:   Smooth-walled.
+
+Angelopsis dilata Bigelow, 1911
+Plate XVIII, figures 5–7
+
+Pneumatophore:   Voluminous, 5 mm in diameter, rounded and smooth-walled. No pigment has been recorded.
+
+Corm:   Dumbbell-like, nectosome narrow, siphosome globular, semicartilaginous, with network of canals. Zone of proliferation opposite to the aurophore. Cormidia forming a spiral, on conical gelatinous prominences, one to each prominence. Tentacles not described. Gonodendra on gelatinous stalks, with two branches, one bearing female gonophores. Palpons present on both branches.
+
+Aurophore:   Sac-like, smooth-walled, at junction of pneumatophore and corm.
+
+[NOTE: printed folio 95 at the outer (right) edge of the running head; PDF index 100, offset −5 holds. No figures, tables or footnotes; no signature mark. Single column throughout. The page is set with unusually deep blank bands — roughly two lines' worth after "armed with nematocysts.", again before the "Genus: ANGELOPSIS" heading, again before "Angelopsis globosa" and again before "Angelopsis dilata" — and the last eighth of the page is blank below "at junction of pneumatophore and corm."
+
+No printed square brackets occur on this page; every bracket here is round.
+
+Printed inconsistencies preserved as printed. (1) The genus synonym line reads "Angelopsis Fewkes, 1889; Bigelow 1911b" — there is a comma after "Fewkes" but none after "Bigelow", verified at 4×. (2) The generic diagnosis has "a 'hypocrystic' cavity", in single quotes and spelt with an extra r, while the same structure is called a "hypocystic cavity" without quotes twelve lines further down under Angelopsis globosa and on p. 92 and p. 94; both spellings are transcribed as printed. (3) "Angelopsis dilata" is given the authority "Bigelow, 1911" with no letter suffix here, whereas the genus synonym line above and every other Bigelow citation in this section reads "1911b".
+
+Type: "Genus:" is roman with a thin space before the colon, then bold italic capitals "ANGELOPSIS", then roman "Fewkes, 1886". "Type species:" is roman, followed by italic "A. globosa" and roman "Fewkes, 1886." Species headings are bold italic with roman authority; the second heading line "Plate XVIII, figures 5–7" is roman with an en-dash. Italic side-headings, each followed by a wide two-space gap: "Pneumatophore:", "Corm:", "Aurophore:" — the first two occurring twice and "Aurophore:" twice. Italic elsewhere: "Dromalia" (twice), "Rhodalia" (twice), "A. globosa". The synonym line "Angelopsis Fewkes, 1889; Bigelow 1911b" is set in small type with the genus name italic, and stands flush left, unindented, below the centred genus heading. "Auronectae" is roman, not italic.
+
+Numerals verified digit by digit: 1954; 1886, 1889, 1911b, 1886; 1886, 1886, 1888b, 1889, Pl. VII; 7–10 mm; 1889, Pl. VII, fig. 2; 1911, XVIII, 5–7; 5 mm. Ranges "7–10" and "5–7" use en-dashes. Fewkes's plate is cited in roman numerals (Pl. VII) and Totton's own plate likewise (Plate XVIII).
+
+Stray marks, all scanning blemishes: a speck in the top left margin above the running head, a speck in the right margin level with "visible in the", a fleck above "branched" in the line "The numerous gonodendra are branched" which at 3× is a dust hair and not an apostrophe or accent, a speck in the left margin level with "Genus: ANGELOPSIS", a speck in the right margin level with "(Pl. VII)", a short slanting fleck in the right margin level with the blank band above "Angelopsis dilata", and specks in the right margin near "rounded and smooth-walled". None is printed matter.]

@@ -1,0 +1,37 @@
+[PAGE 120]
+
+120	[RUNNING HEAD] A SYNOPSIS OF THE SIPHONOPHORA
+
+[FIGURE]
+gz
+c.h.r
+c.d
+c.h.l
+c.sp
+c.m
+m
+go
+D
+c.v
+A
+B
+C
+
+FIG. 69. Rosacea cymbiformis (Chiaje). Sketches of living stem-groups made at Villefranche 1962, × 20
+A, to show a young gonophore; B, D, muscular attachment lamellae; C, upper view of bract
+c.d = dorsal bracteal canal; c.h.l, c.h.r = left and right hydroecial canals; c.m = mantle canal; c.sp = spur canal; c.v = ventral canal; go = gonophore; gz = gastrozooid; m = manubrium.
+[/FIGURE]
+
+that of the bracteal canals, no 'apical vessel' or peduncular canal (from the stem to apical part of the hydroecial cavity) and no short, spindle-shaped 'phyllocyst' (unless Haeckel was referring to one of the two short, lateral spur-canals). He did not describe the muscular attachment of the bract to the stem. The 'odd dorsal canal' does not 'run along the convexity of its basal and dorsal half'. Haeckel did not show nor mention that the dorsal canal reaches the surface of the bract. It does so as a closed vesicle.
+
+The bract of R. cymbiformis differs from the bract of R. plicata in that the dorsal branch of the bracteal canal-system arises from a point on the left longitudinal (hydroecial) canal, proximally to the short (spur) branch, whereas in R. plicata the position is distal to this small lateral spur. A large triangular sheet of muscle stretches from a point half-way along the right (proximal) spur canal to the stem, and all along the stem to the base of the gastrozooid. A small muscle stretches vertically below the right spur canal to the horizontal stem. A long muscle extends from the stem in the region of the basigaster down most of the ventral canal (text-fig. 69).
+
+The gonophores are budded from a point on the stem close to the base of the gastrozooid and on the side of it opposite to the tentacle. There is no special, asexual nectophore. Leuckart (1853) described and figured the young buds of two secondary gonophores close to the insertion of the first one, which he took to be an asexual nectophore. Six or so eggs can be seen in the rudimentary manubrium of the first gonophore from the start of its development, almost filling the closed sub-umbrella. This undeveloped, morula-like structure persists in older stages of development too. The eggs appear to develop more fully (see Bigelow, 1911b, Pl. 2, fig. 4) only shortly before the gonophore becomes detached. This has made observers uncertain whether the first medusoid was a gonophore or an asexual nectophore.
+
+Male and female eudoxids are said to be found on the same stem. It seems likely therefore that the second gonophore bud may be male. There are two opposite longitudinal ridges on the exumbrella of the gonophore.
+
+[NOTE: the labels inside [FIGURE] are lettered on the four drawings (A, B, C, D, left to right) and are listed in reading order across the whole figure, top to bottom. No other text is printed on the illustration.]
+
+[NOTE: in "(see Bigelow, 1911b, Pl. 2, fig. 4)" a solid ink blot fills the space between "Pl." and "2", so that the two read as though joined.]
+
+[NOTE: a stray pen or ink stroke descends from the final "e" of "the" at the end of the third line of the paragraph beginning "that of the bracteal canals".]

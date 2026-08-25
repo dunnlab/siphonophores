@@ -1,0 +1,51 @@
+[PAGE 3391]
+
+[NOTE: born-digital journal page (生态学报 / Acta Ecologica Sinica), clean type,
+full measure throughout, no figures or tables. Punctuation convention as described
+on page 3 — full-width Chinese marks are used because that is what the marks are,
+though the image alone cannot prove the codepoint, and the visible gap after a
+decimal point is not reproduced.]
+
+[NOTE: in section 3.1 the three ecological-group names (沿岸暖温类群, 沿岸暖水类群,
+大洋暖水类群) are run-in leads separated from the text that follows by a wide space;
+that gap is transcribed here as a single tab.]
+
+[RUNNING HEAD] 10 期	陈颖涵　等: 北部湾北部水母类群集结构与数量分布	3391
+
+（图 10）中高温高盐区域，说明群集 Ⅱ2 所在海区受外海水影响。
+
+3	讨论
+
+3.1	水母类种类组成特点
+
+共记录水母 4 类 125 种，其中水螅水母类 99 种，管水母类 17 种，钵水母类 4 种，栉水母类 5 种。水螅水母类是一类以近岸浅海性为主的浮游动物[24]，浅海陆架区的环境条件适合水螅水母的繁育[24]，本研究海域调查站位水深均在 60 m 以浅，因此本区水螅水母类较多，与整个北部湾[25]（148 种）相比相差不大；管水母类大多属热带大洋性种类，而北部湾终年受南海次表层暖流的影响，湾南部的环境条件更适合管水母的繁育，北部湾北部管水母类种数占整个北部湾[25]管水母类种数的 28.8%。
+
+本区水母类可分为沿岸暖温性、沿岸暖水性和大洋暖水性 3 种生态类群。
+
+沿岸暖温类群	以低温低盐为特征，分布在温度 17—20 ℃ 的低盐近岸水域，本区只记录蝶水母 1 种，于冬季出现在防城港附近的 B21 站。
+
+沿岸暖水类群	以高温低盐为特征，分布在温度在 20—25 ℃ 的低盐沿岸水和混合水海域，以水螅水母类为主，共 77 种。水螅水母类的代表种有端粗范式水母（Vannuccia forbesii）、脊状镰螅水母（Zanclea costata）和锡兰和平水母等；栉水母类的代表种为球型侧腕水母；管水母类的代表种有拟细浅室水母和双生水母。该类群对本调查海域水母类总丰度的变化起主导作用，在调查海区占绝对优势。
+
+大洋暖水类群	以高温高盐为特征，分布在温度 >25 ℃ 的高盐外海水流经海域，共 47 种。其中分布较广、数量较多的包括四叶小舌水母、半口壮丽水母、两手筐水母和异摇篮水母，主要出现于混合水区或沿岸水边界的混合水区，这与台湾海峡西南部海域的研究结果相似[26]。林茂[27]认为四叶小舌水母和半口壮丽水母对暖流余脉有指示作用。异双生水母（Diphyes dispar）只出现在夏季盐度 >34 涠洲岛附近的 B29 站位，为大洋暖水狭布种，可作为高温高盐的南海外海水入侵的指示种。
+
+3.2	水母类不同生态类群的演替
+
+本调查海域位于北部湾北部，北部湾为亚热带海湾，湾内有沿岸流和外海水 2 个水系。沿岸流包括广西沿岸流和越南沿岸流[28]，居于调查海域沿岸一带；外海水为南海暖流余脉，居于海南岛西南侧或近底层。沿岸流和外海水的混合区形成混合水，混合水的范围取决于两股水系的消长程度[26]。
+
+水母类种类组成与不同生态类型的演替与水系的消长密切相关。春季大洋暖水性生态类群分布范围在 21.00°N 以南的外海水海域；夏季由于西南季风的影响，外海水向北推移，21.30°N 以南的大部分海区主要受外海水控制，形成混合水区，大洋暖水种的种类数量不断增加，主要分布在混合水区或混合水区的靠岸边界；秋冬季东北季风逐渐强盛，外海水开始向东南方向退回，大洋暖水种数量减少。沿岸暖水性生态类群的演替主要取决于水温的变化。冬季表层水温由远岸向近岸逐渐降低，21.30°N 以北的近岸水域表层水温低于 20 ℃，出现沿岸暖温性种类；夏、秋两季整个调查海域处于高温期，沿岸暖水性类群种数显著增加，分布于近岸和混合水区。
+
+3.3	水母类丰度的平面分布特点及优势种生态适应性
+
+拟细浅室水母、双生水母和四叶小舌水母四季的数量变化决定了北部湾北部水母类的数量变化，水母类丰度的时空分布特征与主要优势种的生态适应性密切相关。
+
+拟细浅室水母为沿岸暖水种，主要分布于沿岸和近海低盐水域[29-30]，是调查海域最主要的优势种，春季和夏季数量多，在夏季形成高峰，密集中心位于调查海域西北部（30.3—31.3 ℃），夏季水母类的丰度分布与该种分布基本一致；冬季水温偏低，拟细浅室水母数量明显减少。
+
+双生水母为沿岸暖水种，是我国东南近海的优势种，除渤海之外，在我国近海均有分布[29]。优势度仅次于拟细浅室水母，数量冬季和春季占绝对优势，密集中心位于调查海域西北部（17.9—23.2 ℃）和琼州海峡西向入海口（22.9—23.60 ℃），冬季和春季水母类的丰度与该种分布基本一致；夏季和秋季水温高，双生水母数
+
+[NOTE: the text breaks off at the foot of the page. The two temperature ranges in
+the last paragraph and the range in the paragraph before it are printed with the
+degree-Celsius sign as transcribed, although the values read like salinities.]
+
+http: / / www.ecologica.cn
+
+?1994-2018 China Academic Journal Electronic Publishing House. All rights reserved.    http://www.cnki.net

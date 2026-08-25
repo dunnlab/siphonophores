@@ -1,0 +1,1038 @@
+<<<PAGE pdf=1 file=page_001.txt>>>
+[PAGE 01]
+
+frontiers | Frontiers in Marine Science
+
+TYPE Original Research
+PUBLISHED 15 October 2024
+DOI 10.3389/fmars.2024.1421514
+
+Check for updates
+
+OPEN ACCESS
+
+EDITED BY
+Delphine Thibault,
+Aix-Marseille Université, France
+
+REVIEWED BY
+Zafrir Kuplik,
+Tel-Aviv University, Israel
+Dhugal John Lindsay,
+Japan Agency for Marine-Earth Science and Technology (JAMSTEC), Japan
+
+*CORRESPONDENCE
+Aino Hosia
+aino.hosia@uib.no
+
+RECEIVED 22 April 2024
+ACCEPTED 02 September 2024
+PUBLISHED 15 October 2024
+
+CITATION
+Hosia A, Martell L, Mańko MK, Haddock SHD, Haberlin D and Mapstone GM (2024) Unexpected diversity and novel lineages in the cosmopolitan genus Nanomia (Cnidaria: Siphonophorae: Physonectae). Front. Mar. Sci. 11:1421514. doi: 10.3389/fmars.2024.1421514
+
+COPYRIGHT
+© 2024 Hosia, Martell, Mańko, Haddock, Haberlin and Mapstone. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
+
+Unexpected diversity and novel lineages in the cosmopolitan genus Nanomia (Cnidaria: Siphonophorae: Physonectae)
+
+Aino Hosia1*, Luis Martell1, Maciej K. Mańko2, Steven H. D. Haddock3, Damien Haberlin4 and Gillian M. Mapstone5
+
+1Department of Natural History, University Museum of Bergen, University of Bergen, Bergen, Norway, 2Laboratory of Plankton Biology, Department of Marine Biology and Biotechnology, University of Gdańsk, Gdynia, Poland, 3MBARI, Monterey Bay Aquarium Research Institute, Moss Landing, CA, United States, 4MaREI – Science Foundation Ireland Research Centre for Energy, Climate and Marine, Environmental Research Institute, University College Cork, Cork, Ireland, 5Department of Life Sciences, The Natural History Museum, London, United Kingdom
+
+Integrated use of molecular and morphological methods reveals unexpected diversity in the cosmopolitan siphonophore genus Nanomia. Species delimitation analyses based on COI and 16S sequences suggest up to three distinct lineages in addition to the previously accepted Nanomia bijuga (Delle Chiaje, 1844) and N. cara A. Agassiz, 1865. Here, we describe the North Pacific Nanomia septata sp. n., previously confused with both N. cara and N. bijuga, and provide improved morphological characters for the identification of these three Nanomia species. Phylogenetic analyses suggest two additional, hitherto undescribed clades from Japanese and Chinese waters, respectively, but the lack of morphological material prevents describing these putative species. The geographic distribution of molecularly and/or morphologically verified observations confirm a warm circumglobal distribution for N. bijuga and a boreal North Atlantic distribution for N. cara. Interestingly, four distinct lineages occur in the North Pacific, sometimes in close proximity. These contrasting patterns of distribution raise questions about pelagic speciation processes.
+
+Nanomia septata sp. n.: urn:lsid:zoobank.org:act:DAF15EA3-AFEA-4AE8-984F-BDFBCFE7E514
+urn:lsid:zoobank.org:pub:478049FC-F672-4D34-ABAE-CF4345EC64D7
+
+KEYWORDS
+
+siphonophores, speciation, holoplankton, DNA barcoding, COI, 16S
+
+Frontiers in Marine Science	01	frontiersin.org
+
+[NOTE: journal cover page. Layout: a header band across the top carrying the frontiers logo and journal name at the left and the TYPE / PUBLISHED / DOI block at the right; below it a narrow left-hand sidebar of journal metadata (Check for updates badge, OPEN ACCESS, editor, reviewers, correspondence, dates, citation, copyright) and a wide right-hand column carrying the title, authors, affiliations, abstract, ZooBank LSIDs and keywords; a footer rule at the foot with the running foot. Transcribed in that order — header, then the whole sidebar, then the whole right column, then the footer — so the two columns are not interleaved. The footer's three elements are separated by tabs above. The "Check for updates" text sits inside a small button-like badge with a circular icon; a small envelope icon precedes the e-mail address; neither icon carries text. Superscript affiliation markers (1-5) and the corresponding leading superscripts in the affiliation block are transcribed as ordinary digits on the line, since the markup has no superscript marker; "1*" after Hosia is superscript 1 followed by superscript asterisk. Genus and species names are printed in italic, as is "Front. Mar. Sci."; italics are not marked. The dash in "MaREI – Science Foundation" is an en dash. NOTE ON LIGATURES, which applies to this file and to every other page of this article: the body font sets "fi" and "fl" as single presentation-ligature glyphs (as in "confirm", "identification", "Pacific", "significant", "flattened"). Because the ligature is a font artifact and not orthography, these have been transcribed throughout as the ordinary two-letter sequences f+i and f+l.]
+
+<<<PAGE pdf=2 file=page_002.txt>>>
+[PAGE 02]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+1 Introduction
+
+Widespread or cosmopolitan distributions have been assumed to be commonplace for planktonic organisms, including siphonophores, due to the apparent uniformity of their pelagic environment and lack of physical barriers to dispersal (but see Johnson et al., 2022). However, the emergence of molecular methods has revealed that many morphologically described planktonic species in fact consist of clusters of cryptic or pseudocryptic species (Norris, 2000), also for siphonophores (Pontin and Cruickshank, 2012; Grossmann et al., 2013, 2014; Panasiuk et al., 2019). Significant genetic divergence is seen between the Atlantic and Pacific populations of siphonophores (Dunn et al., 2005), and several species show large inter-geographic and intra-specific genetic distances, indicative of potential cryptic species (Grossmann et al., 2014). Traditional morphology-based taxonomy may thus be significantly underestimating pelagic diversity, as it does not account for this cryptic diversity (Norris, 2000). Unravelling the taxonomy of cryptic species groups requires the integrated use of molecular methods and careful morphological examination.
+
+Agalmatid physonect siphonophores of the genus Nanomia are a common globally distributed component of gelatinous plankton communities (Mapstone, 2014), at times forming dense swarms or blooms (Browne et al., 1898; Rogers et al., 1978; Mills, 1995; Knutsen et al., 2018). The genus Nanomia currently comprises two species: N. cara A. Agassiz, 1865 and N. bijuga (Delle Chiaje, 1844). While both species are frequently reported from surveys, there has been some confusion regarding their morphological identification and geographic distributions. It is likely that Nanomia specimens are often misidentified or assigned to a species primarily based on the observation locality and the presumed distributions of the two accepted species, rather than as a result of a proper morphological identification. This is partly because it can be challenging to identify specimens using existing identification literature (e.g., Totton, 1965; Kirkpatrick and Pugh, 1984; Pugh, 1999; Bouillon et al., 2004; Mapstone, 2009).
+
+The respective type localities of N. cara A. Agassiz, 1865 and N. bijuga (Delle Chiaje, 1844) are Nahant, Massachusetts, in the NW Atlantic and the Gulf of Naples in the Mediterranean. Both species have been historically known under a variety of synonyms (see e.g. Schuchert, 2024; Totton, 1965; Mapstone, 2009) and were not reassigned to the same genus until about a century after their description, by Totton, 1954. To add to the confusion around Nanomia identification and nomenclature, Sars (1846) described and made detailed illustrations of a new species, Agalmopsis elegans, observed in Florø, Norway. Unfortunately, this was a compound species, depicting the nectophores of Nanomia cara together with the tricornuate tentilla of Agalma elegans (Sars, 1846, Pl. 5 & 6). The currently accepted view assumes a cosmopolitan distribution between 55° N and 59° S for N. bijuga and a more restricted North Atlantic and Arctic (40-64° N) distribution for N. cara (Totton, 1965; Pugh, 1999; Mapstone, 2014).
+
+Like other siphonophores, Nanomia spp. are colonial animals consisting of physiologically integrated, specialized zooids
+
+organized in a species-specific pattern. When collected by plankton nets, the colonies most often disassociate, with various detached zooids and more or less bare stems bearing the pneumatophore observed in the sample. While counting the pneumatophores can provide an estimate of the number of physonect colonies in the sample, nectophores are the zooid most commonly used for species identification. In addition to often being the most conspicuous of the detached zooids, nectophores have several characters including general shape, pigmentation, and the pattern of canals and ridges that can be used to infer species.
+
+According to taxonomic literature, the key character used to separate the two Nanomia species is the plane in which their nectophores are flattened. Depending on the terminology used, N. bijuga nectophores are described as flattened from stem to ostial side, in the vertical plane (Totton, 1965) or along the proximal-distal axis (Mapstone, 2009), while N. cara nectophores are flattened in the horizontal plane (Totton, 1965) or along the upper-lower axis (Mapstone, 2009) in a manner typical of many other physonects. In his comparison of the two species, Totton (1954) also mentions the presence of an oil droplet at the base of the palpons as being characteristic of N. cara, but such oil droplets have since also been shown to occur in N. bijuga from the Pacific (Mapstone, 2009; Church et al., 2015). Totton (1954) further describes some differences in pigmentation, and N. cara colonies have been suggested to generally grow to a larger size than N. bijuga (Mapstone, 2009). However, the latter two characters are likely variable and thus of limited value for identification and can also be impossible to infer from detached or preserved nectophores. Totton (1965) concluded that while the two Nanomia species can be told apart by their nectophores, to what extent they differ in other respects has not been determined, and the literature published since then has done little to clarify this situation.
+
+While separating the two species based on their nectophore morphology sounds straightforward, it has proven to be challenging in practice. The two extremes of nectophore morphology, as illustrated for N. cara by Totton (1954) and N. bijuga by Kawamura (1911), are easy enough to tell apart, but samples often contain nectophores of intermediate habitus that are not easily assigned to either species. The taxonomic literature also illustrates a continuum of nectophore shapes, with the Pacific Nanomia in particular having an intermediate form (Figure 1). To further complicate identification, net caught specimens have often suffered damage during sampling, and nectophores fixed in formalin undergo varying stages of contraction and tend to lose their coloration as well as their life-like shape, since the mesogloea may become very soft.
+
+Subsequently, the identification of Nanomia can pose difficulties. Nanomia is ubiquitous throughout NE Atlantic waters, from around Great Britain and North Sea in the south, along the entire Norwegian coast including in the fjords, and all the way up to the Arctic region in Atlantic waters (Kirkpatrick and Pugh, 1984; Hosia and Båmstedt, 2008; Knutsen et al., 2018). While literature suggests that it is N. cara that occurs in NE Atlantic waters, nectophores with intermediate morphology are often observed in Norwegian waters, making identification doubtful. Further confusion regarding the species identity of NE Atlantic
+
+Frontiers in Marine Science	02	frontiersin.org
+
+[NOTE: two-column page. The left column has been transcribed in full and then the right column in full; the paragraph beginning "organized in a species-specific pattern" is the top of the right column and continues the sentence that the left column breaks off at "specialized zooids". The running head at the top (author short form at left, DOI at right) and the running foot at the bottom (journal name, folio 02, frontiersin.org) are transcribed with tabs between their elements. In-text citations are printed as coloured hyperlinks; the colour is not marked. Genus and species names are in italic; italics are not marked. Two hyphens fall at line ends and have been kept because the compounds they belong to are hyphenated in the same font elsewhere on the page: "inter-geographic" (compare "intra-specific" set within a line immediately after) and "proximal-distal" (compare "upper-lower" set within a line just below). The hyphen at the end-of-line break in "re-/assigned" has been removed, per the convention for line-break hyphens, giving "reassigned". Presentation ligatures for fi and fl in the body font are transcribed as the ordinary two letters throughout.]
+
+<<<PAGE pdf=3 file=page_003.txt>>>
+[PAGE 03]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+[FIGURE]
+FIGURE 1
+Range of Nanomia nectophore shapes. Upper, lateral, distal and proximal views (left to right). From top to bottom: NE Atlantic N. cara (Totton, 1954), NE Pacific N. septata sp. n (Mapstone, 2009, as N. bijuga), and NW Pacific N. bijuga (Kawamura, 1911). Reproduced with permission of The Trustees of the Natural History Museum, London; Canadian Science Publishing; and the Zoological Society of Japan, respectively. These images are not covered by the terms of the Creative Commons license of this publication. For permission to reuse, please contact the relevant rights holder.
+[/FIGURE]
+
+Nanomia has recently been added by three investigations from Ireland, which have suggested that the species collected in Irish waters is N. bijuga, based on 18S molecular (Baxter et al., 2012) and morphological (Haberlin et al., 2016, 2019) characters. Baxter et al. (2012) go as far as to suggest that the species occurring in colder, temperate waters of the North Atlantic should generally be considered N. bijuga, rather than N. cara, as has been previously assumed. Similarly, Nanomia from the northeast Pacific have historically been referred to as both N. cara and, more recently, N. bijuga (see e.g. Mackie, 1964; Mapstone, 2009).
+
+This study began with a need to assign Nanomia specimens occurring in NE Atlantic waters, and Norway in particular, to the correct species. To resolve this issue, we have applied integrated molecular and morphological methods to study the diversity in the genus Nanomia. Nanomia nectophores with varying size and morphology were collected for examination and genetic barcoding from several locations in the NE Atlantic, the Mediterranean, and the Pacific Ocean. Collected specimens were sequenced for cytochrome oxidase I (COI) and 16S ribosomal RNA mitochondrial markers, both known to be suited for DNA barcoding and species delimitation in hydrozoans (Ortman et al., 2010; Zheng et al., 2014; Lindsay et al., 2015). Specimens from various locations, as well as available material from natural history collections, were examined in detail to uncover hitherto overlooked morphological differences. Phylogenetic analyses were performed on the obtained 16S and COI sequences together with Nanomia
+
+sequences received from collaborators or mined from GenBank and BOLD repositories, as well as other agalmatid sequences.
+
+2 Materials and methods
+
+2.1 Sampling
+
+Nanomia colonies and/or nectophores were sampled during several field campaigns using various plankton nets, by snorkeling, blue-water scuba diving, or remotely operated vehicles at several locations in the North Atlantic, the Arctic, the Mediterranean, the North and Central Pacific, and the Gulf of California. Additional nectophores and colonies were contributed by collaborators (Supplementary Table S1). While the exact procedure varied between sampling events, specimens for morphological examination were generally fixed in ~4% borax-buffered formalin in sea water, while nectophores for molecular work were photographically documented prior to being individually flash frozen or preserved in >96% ethanol.
+
+2.2 DNA extraction, amplification and sequencing
+
+Tissue fragments were taken from frozen or ethanol fixed specimens selected for molecular work. When dealing with loose
+
+Frontiers in Marine Science	03	frontiersin.org
+
+[NOTE: Figure 1 is a boxed illustration spanning the full width of the page above the two text columns, with the caption inside the box at its foot; it is transcribed first. The illustration is a 3x3 arrangement of line drawings of nectophores (a fourth drawing lies to the right of the first row, so the top row has four figures and the two lower rows three each in the printed arrangement); it carries no lettering, numbers, letters or scale bars of any kind — the caption is the only text — and nothing about the drawings is described here. Below the figure the page is two columns; the left column is transcribed in full, then the right, so the paragraph beginning "sequences received from collaborators" is the head of the right column and completes the sentence broken off at "together with Nanomia" at the foot of the left column. Section headings "2 Materials and methods", "2.1 Sampling" and "2.2 DNA extraction, amplification and sequencing" fall in the right column; the last is set on two printed lines ("2.2 DNA extraction, amplification" / "and sequencing") and is joined here. In the figure caption "sp. n" is printed without a point after the "n". Running head and running foot elements are separated by tabs. Presentation ligatures (fi, fl, ff) are transcribed as the ordinary letter sequences.]
+
+<<<PAGE pdf=4 file=page_004.txt>>>
+[PAGE 04]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+nectophores, only one nectophore per net sample was chosen to avoid accidentally sequencing several nectophores from a single colony. DNA extraction and sequencing for both cytochrome oxidase I (COI) and 16S ribosomal RNA mitochondrial markers were performed either in-house at the University of Bergen or at the Monterey Bay Aquarium Research Institute (MBARI), or at the Canadian Centre for DNA Barcoding (CCDB) in Guelph. For the work at CCDB, we submitted tissue samples and data according to the routines in BOLD (www.boldsystems.org). CCDB used their tissue lysis protocol and applied the following primer pairs for PCR amplification and sequencing: SHA/SHB for 16S (Cunningham and Buss, 1993), and either C_LepFolF/C_LepFolR (Hernández-Triana et al., 2014) or COF/CoR (Schuchert, unpublished, sequence available at www.boldsystems.org/index.php/Public_Primer_PrimerSearch) for COI. In Bergen, the Qiagen DNeasy Blood and Tissue Kit protocol was used for extraction. Partial sequences of COI (ca. 660 bp) and 16S (ca. 560 bp) were amplified using the primer-pairs LCO/HCO (Folmer et al., 1994) and SHA/SHB (Cunningham and Buss, 1993), respectively. PCR conditions for amplification of COI were initial denaturation at 94°C for 5 min, 5 cycles of 94°C for 45 s, annealing at 45°C for 30 s, and extension at 72°C for 1 min, 31 cycles of 94°C for 45 s, annealing at 50°C for 30 s, and extension at 72°C for 1 min, and final extension at 72°C for 10 min. PCR conditions for amplification of 16S were initial denaturation at 94°C for 5 min, 40 cycles of 94°C for 30 s, annealing at 50°C for 30 s, and extension at 72°C for 1 min, and final extension at 72°C for 10 min. Successful PCR products were purified with ExoSAP-IT (Thermo Fisher Scientific). Sequence reactions using Big Dye 3.1 and the PCR primers were run on an ABI 3730XL DNA Analyser (Applied Biosystems). Assembly of forward and reverse sequences was performed with Geneious (version 11.1.5) (Kearse et al., 2012). All sequences of Nanomia spp. available at Barcode of Life Datasystems (BOLD) and GenBank were downloaded and included in further analyses, together with the sequences generated in this study, by Knutsen et al. (2018), or received from collaborators (Supplementary Table S1).
+
+2.3 Sequence alignment, phylogenetic analyses, and molecular species delimitation
+
+Sequences were visualized and edited in Geneious v.11.1.5 (Kearse et al., 2012), and their identity was verified by BLAST searches against the GenBank nucleotide database to check for contamination. GenBank sequence KF977400 was discarded at this point due to misidentification (while labelled as Nanomia bijuga, the sequence in fact belongs to Diphyes sp.). GenBank sequences KF962059 and KF962394 (both labelled as Agalma elegans) and KF977379 (labelled as Euchaeta concinna) were found to be virtually identical to GenBank sequences KF977305, KF977401, and KF977402 assigned to N. bijuga; however, only sequences originally identified as Nanomia were included in the analyses. Sequences belonging to the physonect genera Agalma, Athorybia, Halistemma, Marrus, Apolemia, and Physophora were selected as outgroups for the analysis based on their close phylogenetic position in relation to
+
+Nanomia, following Munro et al. (2018). An alignment was created independently for each of the markers using MUSCLE (Edgar, 2004) as implemented in MEGA v.10.2.5 (Kumar et al., 2018). The alignments were trimmed to a position at which all the sequences had nucleotides. For COI, nucleotide reads were translated to amino acids to check for potential stop codons. After trimming and editing, a total of 85 COI (520 bp) and 57 16S (536 bp) high quality sequences were included in the phylogenetic and species delimitation analyses. All new sequences have been deposited in GenBank and/or BOLD Systems (Supplementary Table S1).
+
+Gene trees were estimated independently for the above 16S and COI alignments. The sequences were analyzed using a phylogenetic approach based on (a) maximum likelihood (ML) optimality criterion in RaxML v8.2.8 (Stamatakis, 2014) and (b) Bayesian inference using MrBayes v. 3.2.6 (Ronquist et al., 2012). The best-fit model for each dataset was calculated using jModelTest v. 2.1.5 (Darriba et al., 2012) with default settings and chosen using the Akaike Information Criterion (AIC). For both datasets the best-fit model was GTR+I+G. In the ML analyses, a maximum likelihood consensus tree was generated for each marker by conducting a heuristic search and bootstrapping with 500 replicates. In the Bayesian analyses four parallel Markov chain Monte Carlo (MCMC) runs were carried out for 500000 generations. Trees were sampled every 100 generations, discarding the initial 25% as burn-in.
+
+Two methods of molecular species delimitation were applied to the genetic data: (1) Assemble species by automatic partitioning (ASAP) (Puillandre et al., 2021) and (2) Poisson Tree Processes (bPTP) (Zhang et al., 2013). Both ASAP and bPTP were applied independently to the COI and 16S datasets. Analyses were performed through https://bioinfo.mnhn.fr/abi/public/asap/webservice for ASAP, and http://species.h-its.org/for bPTP. The input files for ASAP were the trimmed alignments for each marker (with the exclusion of the outgroups), and for bPTP the rooted ML trees obtained in the phylogenetic analyses. To estimate inter- and intra-specific genetic distances based on the species hypotheses recovered in the ASAP and bPTP analysis, pairwise distances were calculated for the COI and 16S alignments using the Kimura 2-parameter model (K80) with 500 bootstrap replicates in MEGA version v. 10.2.5 (Kumar et al., 2018).
+
+2.4 Morphology
+
+Preserved and live specimens (Supplementary Table S1) were examined and photographed using stereomicroscopes with attached cameras. All zooids were imaged, and composite drawings were made of mature nectophores and of bracts.
+
+3 Results
+
+Our results indicate that the genus Nanomia shows significant genetic divergence beyond the two currently accepted species. Based on both molecular evidence and morphological examination of specimens representing the different genetic lineages and geographic regions, we conclude that the Nanomia occurring in
+
+Frontiers in Marine Science	04	frontiersin.org
+
+[NOTE: Two-column page; the left column is transcribed in full, then the right, so the paragraph beginning "Nanomia, following Munro et al. (2018)" heads the right column and completes the sentence broken off at "in relation to" at the foot of the left column. Presentation ligatures (fi, fl) are transcribed as the ordinary two-letter sequences throughout. The heading "2.3 Sequence alignment, phylogenetic analyses, and molecular species delimitation" is set on four printed lines and joined here. "RaxML" is printed thus, with lower-case "a". The URL "https://bioinfo.mnhn.fr/abi/public/asap/webservice" is broken across two printed lines after "asap/" with no hyphen and is joined here. "http://species.h-its.org/for bPTP" is printed exactly so, with "for" set in the hyperlink colour as though part of the URL and no space before it; transcribed as printed. In-text citations and URLs are printed in a light blue hyperlink colour; colour is not marked here. Running head and running foot elements are separated by tabs.]
+
+<<<PAGE pdf=5 file=page_005.txt>>>
+[PAGE 05]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+northeastern Pacific should be considered a separate species, Nanomia septata sp. n., and provide a description of the species. Observed characteristics of the examined N. cara and N. bijuga material are also given for comparison, but this should not be considered a formal re-description of these species. Improved characters for the identification of the three species are provided (Table 1). Our species delimitation analyses further support two additional Nanomia lineages recorded from Chinese and Japanese waters, respectively (Figures 2, 3). Unfortunately, we have not been able to examine the detailed morphology of any specimens belonging to these clades. The sequences forming the Chinese clade are mined from GenBank, while the three nectophores collected at Shimoda, Japan, were fixed in ethanol with poor photographic documentation, and used for sequencing in their entirety. These latter nectophores were Nanomia-like in habitus (ridges and radial canals), ~2 mm in height, and with a conspicuous red pigment spot on either side of the ostium. However, we are
+
+currently unable to provide a more detailed description of these nectophores or the rest of the colonies.
+
+3.1 Phylogenetic analyses and molecular species delimitation
+
+Both ASAP and bPTP identified 5 putative species (N. cara, N. bijuga, N. septata sp. n., an undescribed Nanomia clade from Japanese waters, hereafter Nanomia sp.1 Japan, and another undescribed Nanomia clade from Chinese waters, hereafter Nanomia sp.2 China) in the COI dataset (Figure 3), corresponding to the clades identified in the Bayesian analysis with posterior probability > 0.95 and in the ML analysis with bootstrap supports of 99–100% (Figure 3; Supplementary Figure S1). In the 16S dataset (Supplementary Figure S2), bPTP recovered the same 5 putative species, while ASAP failed to separate between N. bijuga and Nanomia sp.1 Japan, thus suggesting 4
+
+[TABLE]
+TABLE 1	Summary of diagnostic features separating Nanomia spp.
+	N. septata sp. n.	N. bijuga	N. cara
+Pneumatophore	Red apex, conspicuous longitudinal septa lines in fixed specimens. Length up to 5 mm.	Red apex, no conspicuous longitudinal septa lines. Length up to at least 2 mm.	Red apex, no conspicuous longitudinal septa lines. Length up to at least 2 mm.
+Nectophore shape	Shape cuboid/flattened parallel to stem along proximal-distal axis.	Flattened parallel to stem along proximal-distal axis.	Small nectophores cuboid/flattened parallel to stem along proximal-distal axis. Larger nectophores flattened along the upper-lower axis.
+Auriculate ridge	No	Yes	No
+Junction of lateral and upper lateral ridges	Junction more distal, with a short incomplete continuation of upper lateral ridge.	Junction more proximal, with a long incomplete continuation of upper lateral ridge.	Junction more distal, with a very short incomplete continuation of upper lateral ridge.
+Palpons	Some with internal proximal lipid droplet	Without lipid droplet	With external proximal lipid droplet
+[/TABLE]
+
+[FIGURE]
+lat
+50
+0
+-50
+N. septata sp. n.
+Nanomia sp.1 Japan
+Nanomia bijuga
+Nanomia sp.2 China
+Nanomia cara
+-100	0	100	200
+long
+FIGURE 2
+Map of Nanomia observations listed in Supplementary Table S1.
+[/FIGURE]
+
+Frontiers in Marine Science	05	frontiersin.org
+
+[NOTE: The page has two text columns at the head, then Table 1 and Figure 2 each spanning the full width; the left column is transcribed in full, then the right, then the table, then the figure, which is the physical top-to-bottom order of the full-width blocks. Presentation ligatures (fi, fl) are transcribed as the ordinary two-letter sequences throughout. The table caption line "TABLE 1  Summary of diagnostic features separating Nanomia spp." is printed above the table rule and is kept inside the [TABLE] block; column cells are separated by single tabs and the first (stub) cell of the header row is empty in print. Within the [FIGURE] block only text physically printed inside the figure panel is given: the y-axis title "lat" and its printed tick labels 50, 0, -50 (which appear down the left side), the five legend labels in their printed top-to-bottom order, and the x-axis tick labels and title at the foot. Nothing about the map graphic itself is described. The caption "FIGURE 2 / Map of Nanomia observations listed in Supplementary Table S1." is printed at the foot of the figure box on two lines. Running head and running foot elements are separated by tabs.]
+
+<<<PAGE pdf=6 file=page_006.txt>>>
+[PAGE 06]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+[FIGURE]
+bPTP based on COI
+ASAP based on COI
+COI (ML)
+16S (ML)
+bPTP based on 16S
+ASAP based on 16S
+Nanomia septata sp. n.
+North Pacific
+(Specimens 1-25 in Table S1)
+98
+99
+54
+31
+100
+Nanomia sp.1
+Japan (32-34)
+99
+98
+100
+Nanomia bijuga
+86
+98
+warm circumglobal
+96
+(Specimens 35-49
+91
+in Table S1)
+100
+Nanomia sp.2
+100
+China (Specimens 54-60 in Table S1)
+89
+100
+Nanomia cara
+North Atlantic
+99
+100
+(Specimens 61-94 in Table S1)
+84
+92
+47
+58
+98
+Agalma elegans
+100
+Agalma elegans
+64
+Athorybia rosacea
+Athorybia rosacea
+69
+58
+Agalma okeni
+54
+Halistemma rubrum
+30
+Agalma clausi
+67
+Marrus orthocanna
+Physophora hydrostatica
+Halistemma rubrum
+Apolemia rubriversa
+Physophora hydrostatica
+0.04
+Marrus orthocanna
+Apolemia rubriversa
+COI (Bayesian)
+1
+Nanomia septata sp. n.
+0.04
+0.6
+1
+Nanomia sp.1 (Japan)
+1
+1
+Nanomia bijuga
+1
+1
+Nanomia sp.2 (China)
+1
+Nanomia cara
+1
+1
+Agalma elegans
+0.95
+0.69
+Athorybia rosacea
+0.81
+Halistemma rubrum
+1
+Marrus orthocanna
+Physophora hydrostatica
+Apolemia rubriversa
+16S (Bayesian)
+1
+Nanomia septata sp. n.
+0.42
+1
+0.03
+Nanomia sp.2 (China)
+1
+1
+Nanomia sp.1 (Japan)
+1
+1
+Nanomia bijuga
+1
+1
+Nanomia cara
+1
+Agalma elegans
+0.62
+0.99
+Athorybia rosacea
+0.94
+1
+Agalma okeni
+0.61
+0.99
+Agalma clausi
+1
+Halistemma rubrum
+Physophora hydrostatica
+Marrus orthocanna
+Apolemia rubriversa
+FIGURE 3
+Generalized maximum likelihood phylogenies based on COI and 16S sequences (bootstrap values on nodes), putative species identified by ASAP and bPTP, and alternative topologies from Bayesian analyses (posterior probabilities on nodes).
+[/FIGURE]
+
+putative species (Figure 3). The analysis of the intra- and interspecific Kimura 2-distances supports the splitting of our datasets in 5 putative species (Table 2). The mean interspecific distance (± SD) between Nanomia species was 17.7% ± 1.1% for COI and 13.4% ± 2.2% for 16S. The smallest interspecific distance (15.3% ± 0.6% for COI, 7.10% ± 0.2% for 16S) was found between N. bijuga and Nanomia sp. 1 Japan, while the largest interspecific distance (19.8% ± 0.2% for COI and 16.4% ± 0.3% for 16S) was found between N. cara and Nanomia sp.1 Japan. Nanomia bijuga showed the highest intraspecific variation (2.4% ± 1.2% for COI, 1.2% ± 0.9% for 16S), and geographically structured clustering could also be observed within the clade
+
+(Supplementary Figures S1, S2). The consensus trees for both COI and 16S showed bootstrap support of >99% and posterior probabilities of 1 for all putative species clades (Figure 3). The geographical distribution of the identified clades of Nanomia is presented in Figure 2. Four of the putative species correspond with a distinct Barcode Index Number (BIN) in the Barcode of Life Database (BOLD): Nanomia sp.2 China corresponds to BIN ACH6037, N. bijuga to BIN AAX3682, N. cara to ACQ6137 and N. septata n.sp. to BIN ACL8638. There are no prior publicly available COI sequences for the undescribed Nanomia sp.1 Japan in BOLD.
+
+Frontiers in Marine Science	06	frontiersin.org
+
+[NOTE: Figure 3 occupies the upper two thirds of the page in a boxed panel spanning the full width; below it the page is two columns, transcribed left column then right column. The paragraph beginning "putative species (Figure 3)" heads the left column and continues text from the foot of page 05. Presentation ligatures (fi, fl) are transcribed as the ordinary two-letter sequences.
+
+Inside the [FIGURE] block every string is one physically printed piece of text in the panel, given in approximate visual top-to-bottom (and, where two items are level, left-to-right) order; nothing is described and no graphic is interpreted. The panel contains four trees: two mirrored maximum-likelihood trees, "COI (ML)" facing right and "16S (ML)" facing left, drawn on either side of five shared clade boxes whose labels ("Nanomia septata sp. n. / North Pacific / (Specimens 1-25 in Table S1)", "Nanomia sp.1 / Japan (32-34)", "Nanomia bijuga / warm circumglobal / (Specimens 35-49 / in Table S1)", "Nanomia sp.2 / China (Specimens 54-60 in Table S1)", "Nanomia cara / North Atlantic / (Specimens 61-94 in Table S1)") are printed once and serve both trees; and below them two smaller trees, "COI (Bayesian)" on the left and "16S (Bayesian)" on the right, transcribed left panel in full then right panel. The bare numerals are the support values printed beside nodes (bootstrap percentages in the ML trees, posterior probabilities in the Bayesian trees); which branch each numeral attaches to is not recorded here. "0.04", "0.04" and "0.03" are the printed scale-bar labels (one between the two ML trees, one in each of the COI and 16S Bayesian panels). The four column labels "bPTP based on COI", "ASAP based on COI", "bPTP based on 16S" and "ASAP based on 16S" are printed rotated 90° (reading bottom-to-top) beside vertical colour bars at the far left and far right of the panel. Some outgroup terminal names appear twice, once in each ML tree. In the body text "Nanomia sp. 1 Japan" is printed with a space after "sp." in one place and "sp.1" without a space elsewhere; both are given as printed, as is "N. septata n.sp." (elsewhere in the paper "sp. n."). Running head and running foot elements are separated by tabs.]
+
+<<<PAGE pdf=7 file=page_007.txt>>>
+[PAGE 07]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+[TABLE]
+TABLE 2	Summary of mean pairwise intra- and interspecific K2P distances (% ± SD) in COI and 16S for the five putative Nanomia species.
+		N. bijuga	N. cara	N. septata sp. n.	Sp. n. 1 Japan	Sp. n. 2 China	n
+COI	N. bijuga	2.4 ± 1.2					15
+	N. cara	18.8±0.4	0.2±0.2				34
+	N. septata sp. n.	17.5±0.5	17.3±0.2	0.3±0.2			20
+	Sp. n. 1 Japan	15.3±0.6	19.8±0.2	17.9±0.2	0.4±0.2		3
+	Sp. n. 2 China	19.3±0.4	16.8±0.2	15.5±0.2	19.6±0.2	0.0±0.0	5
+16S	N. bijuga	1.2 ± 0.9					10
+	N. cara	15.5±0. 3	0.1±0.2				21
+	N. septata sp. n.	11.6±0.2	13.2±0.2	0.3±0.3			12
+	Sp. n. 1 Japan	7.1±0.2	16.4±0.3	11.9±0.4	0.6±0.1		3
+	Sp. n. 2 China	11.7±0.1	13.7±0.1	7.9±0.1	12.7±0.1	0.0±0.0	2
+n is the number of sequences for the given species.
+Shading indicates 5% intervals starting at 0 (no shading).
+[/TABLE]
+
+3.2 Account of the species examined
+
+Genus Nanomia Agassiz, 1865.
+
+Diagnosis. Monoecious Agalmatidae with colony linear; pneumatophore with red apex and an apical pore; red/orange-rust pigment spots along stem and at proximal end of gastrozooids and some other zooids; nectosome dorsal; many nectophores when mature, with incomplete upper-lateral ridges, complete lateral and vertical-lateral ridges; nectosac of nectophore with axial processes, straight upper and lower radial canals and sinuous lateral radial canals; definitive tentilla of gastrozooid tentacles unicornuate, with incomplete involucrum and single terminal filament. Male and female gonodendra characteristically in pairs on either side of the palpons, alternating sides (Totton, 1965; Dunn and Wagner, 2006). Two types of bracts, one rectangular and more prismatic, other elongate with three distinct distal cusps; often with additional ectodermal cell patches.
+
+3.2.1 Nanomia bijuga (Delle Chiaje, 1844)
+
+Material examined is specified in Supplementary Table S1.
+
+Diagnosis. Longitudinal septa in pneumatophore indistinct; nectosome with red pigment spots. Nectophores flattened along proximal-distal axis when mature, parallel to stem axis, with red spot flanking ostium on each side; axial wings bent over onto proximal side, partly enclosing stem; shallow axial groove between wing bases in mature nectophores; auriculate ridge between upper-lateral ridge and lateral ridge; thrust block small and insignificant in all nectophores. Palpon without proximal lipid droplet.
+
+Barcode Index Number (BIN) in BOLD: AAX3682.
+
+Description
+
+Pneumatophore: 2.0 mm long (in largest preserved specimen), with red pigmented apex (Figure 4); some pneumatophores with faint longitudinal and transverse lines on surface, but no thick septal lines. Gas gland in lower third of pneumatophore.
+
+Nectosome: Typically, with small red pigment spots, patches or fine dots scattered over surface; some spots associated with
+
+nectophoral muscular lamellae on dorsal surface (Figure 4). Maximum nectosome length 230 mm in Villefranche-sur-Mer specimen.
+
+Nectophores: Up to 30 in the largest Pacific specimen observed from the Gulf of California, but commonly much fewer, e.g., 13 in a complete specimen from Villefranche. Surface ridges best displayed in young nectophores (Supplementary Figure S3), harder to discern in preserved mature nectophores. Young nectophores slightly flattened along upper-lower axis (Supplementary Figure S3); mature nectophores almost cubical in shape (Figure 5). Auriculate ridges between upper-lateral and lateral ridges, lying relatively close to ostium on distal surface of young nectophores (Supplementary Figure S3), nearer top of distal surface in mature nectophores (Figure 5). Thrust block small in all nectophores examined, at halfway point on proximal surface in young nectophores (not illustrated) and near top of proximal surface in mature nectophores, but with little width overall in proximal-distal plane (Figure 5). Axial groove in distal mid-line between axial wings in young nectophores (Supplementary Figure S3). Mature nectophores measuring max. 3.2 mm height x 3.2 mm width in Villefranche-sur-Mer specimens, max. 3.5mm height x 3.0 mm width in Peabody Atlantic material; with surface ridges comprising upper-lateral ridge from axial wing tip (on proximal side of nectophore) onto distal nectophore surface, terminating near distal mid-line; auriculate ridge on distal surface, connecting upper-lateral ridge with lateral ridge, and giving off blind-ending side branch; vertical-lateral ridge extending from upper-lateral ridge on upper proximal surface, passing down lateral nectophore surface and inserting on lower-lateral ridge halfway along course of latter; lower-lateral ridge originating at axial wing tip extending along lower-lateral border of nectophore and inserting on lower lateral border of ostium (Figure 5).
+
+Nectosac with radial canals issuing from the internal pedicular canal. Upper and lower radial canals following straight courses to ostial ring canal on distal surface; lateral radial canals each forming
+
+Frontiers in Marine Science	07	frontiersin.org
+
+[NOTE: Table 2 spans the full width at the head of the page, above the two text columns; it is transcribed first, then the left column in full, then the right column. Cells are separated by single tabs; empty cells (the upper right triangle of the distance matrix, and the two stub cells of the header row) appear as consecutive tabs. The table caption and the two footnote lines below the table are kept inside the [TABLE] block, where they are printed. In the caption the "±" is set as a plus sign above a short rule; it is transcribed as "±". In the body of the table "15.5±0. 3" is printed exactly so, with a space between "0." and "3". The group labels "COI" and "16S" are printed once each, vertically centred in a merged cell spanning their five rows; each is given on the first row of its group. Header cells "N. septata / sp. n.", "Sp. n. 1 / Japan" and "Sp. n. 2 / China" are each printed on two lines and joined here. Presentation ligatures (fi, fl) are transcribed as the ordinary two-letter sequences. "3.5mm" is printed without a space in the right column. The run-in headings ("Diagnosis.", "Material examined", "Pneumatophore:", "Nectosome:", "Nectophores:", "Barcode Index Number (BIN) in BOLD:") begin their paragraphs in print and are not on separate lines; the paragraph breaks used here follow the printed indentation. Running head and running foot elements are separated by tabs.]
+
+<<<PAGE pdf=8 file=page_008.txt>>>
+[PAGE 08]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+[FIGURE]
+ngz
+st
+FIGURE 4
+Nanomia bijuga pneumatophore and upper nectosome of live specimen from Villefranche-sur-Mer. ngz, nectosomal growth zone; st, stem. Scale bar 1 mm.
+[/FIGURE]
+
+first loop on proximal nectosac surface in mature nectophores, passing towards lower surface into second loop, also mostly on proximal surface, then forming third taller loop on latero-distal surface of nectosac, before inserting onto ostial ring canal at level of ostial process on distal nectosac surface (Figure 5). Both ascending and descending mantle canals present, with ascending mantle canal terminating on proximal side of thrust block, and descending mantle canal terminating at junction of proximal and lower
+
+surfaces of nectophore (Figure 5). Small bilobed mouthplate identified in all Peabody Atlantic nectophores, but absent from smaller Villefranche-sur-Mer nectophores. Red spot present on each side of ostium just below level of ostial processes on all Villefranche-sur-Mer nectophores, likely faded to white in Peabody Atlantic nectophores.
+
+Siphosome: Siphosomal stem of Peabody Atlantic specimen c. 10 mm in length, roughly 100 mm in the longest Villefranche-sur-
+
+[FIGURE]
+u-lr
+ar
+tb	lr
+ar
+v-lr
+u-lr
+amc
+u-lr
+urc
+pi
+lrc
+lr
+orc	aw
+v
+loc	dmc
+op
+l-lr
+l-lr
+mp
+u-lr
+ar
+ar
+lr
+lrc
+lrc
+v-lr
+urc
+lr
+orc
+op
+v
+loc
+l-lr
+u-lr
+amc
+aw
+urc	l-lr	v-lr
+lrc
+dmc
+loc
+FIGURE 5
+Composite illustration of mature Nanomia bijuga nectophore and bracts. Lateral, distal and proximal views. amc, ascending mantle canal; ar, auriculate ridge; aw, axial wing; dmc, descending mantle canal; loc, lower radial canal; lr, lateral ridge; l-lr, lower later ridge; lrc, lateral radial canal; op, ostial process; orc, ostial ring canal; tb, thrust block; u-lr, upper lateral ridge; urc, upper radial canal; v, velum; v-lr, vertical lateral ridge. 1 mm scale bar for bracts.
+[/FIGURE]
+
+Frontiers in Marine Science	08	frontiersin.org
+
+[NOTE: Physical order on the page: Figure 4 in a boxed panel at the head, then a short two-column text block (left column transcribed in full, then the right), then Figure 5 in a boxed panel filling the lower half. The paragraph beginning "first loop on proximal nectosac surface" continues text from the foot of page 07, and the right column breaks off mid-word at "Villefranche-sur-" at the foot of the page.
+
+Inside the [FIGURE] blocks only text physically printed in the panel is given; the illustrations themselves are not described. Figure 4 is a photograph carrying two printed leader labels, "ngz" and "st", and an unlabelled scale bar. Figure 5 contains five line drawings: three nectophore views across the top and two bracts below. The labels are transcribed drawing by drawing, left to right (lateral view, then the middle view, then the right-hand view), and within each drawing in approximate top-to-bottom order; where two labels sit level they are separated by a tab. Several abbreviations recur within and between drawings, so the same string appears more than once. The two bract drawings carry no lettering; between them is a plain scale bar with no printed value (the caption supplies "1 mm scale bar for bracts"). In the caption "l-lr, lower later ridge" is printed thus, without the "al" of "lateral". Presentation ligatures (fi, fl) are transcribed as the ordinary two-letter sequences. Running head and running foot elements are separated by tabs.]
+
+<<<PAGE pdf=9 file=page_009.txt>>>
+[PAGE 09]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+Mer specimen measured. Siphosome straight and bearing a number of cormidia with gastrozooids spaced ~5-10 mm apart when pictured in living animals (Figure 6). In younger stem portions cormidia included a single gastrozooid and a palpon, with a number of bracts, whereas the oldest cormidia observed contained four palpons, each with gonodendra of both sexes.
+
+Gastrozooid and tentacle (Figure 6): Gastrozooids mostly elongate in Peabody Atlantic specimen, and all bearing mature tentacles; becoming progressively longer and thinner in more posterior cormidia of Villefranche-sur-Mer colonies (maximum length 1.25 mm) and bearing either larval or definitive tentacles only. In all Villefranche-sur-Mer colonies basigasters pigmented red, though pigmentation faded away in older specimens.
+
+Larval tentilla small (roughly 100 μm), borne on long pedicels and spread far apart. Definitive tentilla larger, borne on longer pedicels and spread further apart. In live specimens from Villefranche-sur-Mer cnidobands pigmented red, mature tentilla comprised three-coiled cnidoband, partial involucrum extending up to the second coil, and long, single terminal filament.
+
+Palpon: All of similar size and typically shorter than gastrozooids in Peabody Atlantic specimen; in Villefranche-sur-Mer specimens, red pigment spots proximally, with thin and elongate palpacle; no lipid droplets discerned in any palpons (Figure 6).
+
+Bracts: Two bract types present (Figure 5), differing in size and shape, probably also in their placement on the stem, but this could not be confirmed.
+
+Type A. Roughly rhomboidal, prismatic and rather small, up to 2.00 mm in length in Villefranche-sur-Mer material. The upper surface divided by a transverse ridge slightly overhanging distal portion, divided into two facets by a median ridge. Bracteal canal narrow, running along the lower surface, from the proximal, bent-upwards process up to the mid-length of bract.
+
+Type B. More elongate and flat, up to 3.00 mm in length in Villefranche-sur-Mer material. The upper surface with three clearly demarcated ridges, of which the median nearly twice the length of the lateral ones. All ridges were elevated, and contained large cells, potentially nematocysts, and ended in distinct cusps giving the bract a tridentate appearance. In some bracts the distal cusps were elongated. In younger bracts weak ridges connected lateral ridges with the median ridge, but they could not be discerned in older bracts. The bracteal canal proximally bent upwards onto the bract’s upper surface, running along the lower surface of bract up to 2/3 of its length.
+
+Gonodendra: Monoecious, with both female and male gonodendra found within each mature cormidium (Figure 6). Gonophores of both sexes with clear orange pigmentation in living specimens; pigmentation lost in fixed animals.
+
+[FIGURE]
+A
+st	br
+fg
+gz	pa	mg
+tn
+B	C	D
+br
+mg
+br
+tn
+in
+fg	pl	pa
+FIGURE 6
+Nanomia bijuga (A) portion of siphosome, (B) gastrozooid, (C) tentilla and (D) palpon. Live specimen from Villefranche-sur-Mer. br, bract; fg, female gonophore; gz, gastrozooid; in, involucrum; mg, male gonophore; pa, palpon; pl, palpacle; st, stem; tn, tentacle. Scale bars 1 mm.
+[/FIGURE]
+
+Frontiers in Marine Science	09	frontiersin.org
+
+[NOTE: Two text columns at the head of the page (left column transcribed in full, then the right), then Figure 6 in a boxed panel filling the lower half. The first paragraph continues text broken off mid-word at the foot of page 08 ("Villefranche-sur-" / "Mer specimen measured").
+
+Inside the [FIGURE] block only text physically printed in the panel is given; the photographs are not described. Figure 6 is four photographs, lettered A (a wide panel across the top) and B, C, D (three panels below, left to right), each letter printed in white at the panel's top left corner. The white leader labels are transcribed panel by panel in the order A, B, C, D and within each panel in approximate top-to-bottom order; where labels sit level they are separated by a tab. In panel A the labels are st, br, fg, gz, pa, mg, tn; in B, br and tn; in C, in; in D, br, mg, fg, pl, pa. Each panel carries a plain white scale bar with no printed value (the caption supplies "Scale bars 1 mm"). Presentation ligatures (fi, fl) are transcribed as the ordinary two-letter sequences; "μm" is the printed micro sign; the apostrophe in “bract’s” is printed as a right single quotation mark and is given as that character. Running head and running foot elements are separated by tabs.]
+
+<<<PAGE pdf=10 file=page_010.txt>>>
+[PAGE 10]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+Distribution
+
+The type locality of Nanomia bijuga (original name Physsophora bijuga Delle Chiaje, 1844) is the Gulf of Naples. In addition to all our specimens from the Mediterranean, specimens from the Gulf of California and Hawaii were identified as N. bijuga, confirming the presence of the species in North Atlantic and low-latitude Pacific waters (Figure 2). In addition, sequences originating from off Virginia (GenBank accession AY937373) and Bermuda (GenBank accession GQ120022) as well as Korean waters (Park and Lee, 2022) were molecularly confirmed as N. bijuga. According to Totton (1954) N. bijuga is distributed in the Tropical Atlantic, Mediterranean, West Indian, Indian Ocean and warm-water Pacific.
+
+Remarks
+
+The auriculate ridge, which is here identified as being a diagnostic character of N. bijuga proper, was clearly present in Totton's specimens from Villefranche-sur-Mer (Figures 32 & 34 in Totton, 1965), and in our material from Northern Adriatic, the re-examined Peabody Atlantic specimen from off Virginia, and our specimens from the Gulf of California and Hawaii. Auriculate ridges have also been described from the Benguela current (Pagès and Gili, 1992) and the South Atlantic (Figure 3.14 in Pugh, 1999), as well as in material collected from the Indian Ocean, off Zanzibar (Mapstone, 2009). In the Pacific Ocean, Kawamura (1911) illustrates auriculate ridges in the west Pacific specimens he studied at Misaki marine station in Japan (reproduced in Pl. X in Totton, 1965), while Agassiz and Mayer (1902) describe specimens with auriculate ridges from Funafuti Atoll, Tuvalu, as Anthemodes moseri. These observations suggest that the distributional range of N. bijuga may well be considerably wider than documented by the current study. However, due to the existence of the two as of yet morphologically undescribed lineages, it is unclear whether the auriculate ridges will remain a diagnostic character for N. bijuga alone.
+
+Our data also indicate undescribed intraspecific molecular and morphological variation between populations of this widespread species, warranting closer scrutiny. Agassiz and Mayer (1902) also noted that the Pacific specimens in many respects differ from the Atlantic ones. For example, the specimens from the Gulf of California and Hawaii have ~30 nectophores (Supplementary Figure S4), making them veritable giants compared to the Mediterranean specimens commonly observed.
+
+The history of N. bijuga is convoluted. The original description is rather vague, based on just a few figures (Delle Chiaje, 1844), and there are at least 14 wholly or partly synonymized names (Schuchert, 2024, also see Mapstone, 2009). Here, we provide, for comparative purposes, a description of the material examined for this study only (Supplementary Table S1), and keep to the currently established nomenclature. It should be noted that we have not examined type material for N. bijuga (if it exists) or any of the synonymized species, nor have we examined material from the type locality in the Bay of Naples.
+
+3.2.2 Nanomia cara A. Agassiz, 1865
+
+Material examined is specified in Supplementary Table S1.
+
+Diagnosis. Longitudinal septa in pneumatophore indistinct; nectosome with red pigment spots in life (yellow when preserved). Mature nectophores flattened along upper-lower axis, orthogonal to
+
+stem axis, resulting in elongate proximal-distal axis and short upper-lower axis; axial wings extending along this axis to beyond stem attachment point, without axial groove; no auriculate ridge connecting upper-lateral ridge with lateral ridge; thrust block extensive in larger nectophores. Palpon with proximal lipid droplet.
+
+Barcode Index Number (BIN) in BOLD: ACQ6137.
+
+Description
+
+Pneumatophore: Up to 2.0 mm long (in preserved specimens), with red pigmented apex when alive (Figure 7), remainder transparent with gas gland occupying posterior half to one third and opaque white in present material. Occasional very thin irregular longitudinal lines, one or more, observed on surface. Apical pore present.
+
+Nectosome. Nectosomal stem bearing yellow-red pigment spots scattered over ventral surface at anterior end and continuing along nectosome as two faint pigmented lines to two thirds or more of total length in live images from large Gulf of Maine colony (Figure 7); bearing red pigment spots at anterior end in nectosome of smaller live colony from Rocky Bay; yellow spots also discernible in some preserved nectosomes from Norwegian material. Nectophores arising from nectophoral muscular lamellae on dorsal surface only; nectophores typically detach at preservation due to contraction of specimen.
+
+Nectophores: Nectophores colorless, shape changing with size (Figure 8). Smallest nectophores approximately cubical, without conspicuous proximal axial wings, reminiscent of N. bijuga (Figure 8, also see Figure 2 (as N. bijuga) in Haberlin et al., 2016). Largest nectophores reaching 8.7 x 11.3 mm max length by width, conspicuously flattened along the upper-lower axis and with conspicuous axial wings (Figures 8, 9). 15 mature nectophores present in live Gulf of Maine specimen (Figure 7).
+
+Ridge pattern similar in all well-preserved nectophores (Figure 9): upper-lateral ridges originating at proximal tip of axial wing, extending distally along upper outer edges of nectophore to highest point (in lateral view) or a short way distal of it, passing onto upper nectophore surface, continuing diagonally towards distal mid-line for a short distance and terminating near latter; lateral ridges originating from upper-lateral ridges, curving downwards onto lateral nectophore surface and inserting onto ostium at ostial process; lateral ridges relatively longer in smaller, young nectophores than in larger, older ones. Vertical-lateral ridges originating from upper-lateral ridges, extending distally diagonally down lateral sides of nectophore and inserting onto lower-lateral ridge about halfway along its length; lower-lateral ridges extending from near end of axial wing along lower outer edge of nectophore and in mature nectophores inserting onto lower-lateral borders of ostium.
+
+Nectosac well-rounded in young nectophores, y-shaped and extending into axial wings in older larger nectophores (Figure 8). Radial canals issuing from the internal pedicular canal (sometimes staggered). Upper and lower radial canals straight, lateral radial canals forming two upward loops en route to ostium including a proximal loop upwards from the junction, and a second upward loop on lateral nectosac surface, inserting onto ostial ring canal at position of ostial process. Ascending and descending mantle canal present; the ascending mantle canal extends up to the thrust block
+
+Frontiers in Marine Science	10	frontiersin.org
+
+[NOTE: Two-column page with no figures; the left column is transcribed in full, then the right. The paragraph beginning "stem axis, resulting in elongate proximal-distal axis" heads the right column and completes the sentence broken off at "orthogonal to" at the foot of the left column, and the page ends mid-sentence at "up to the thrust block". Presentation ligatures (fi, fl, ff) are transcribed as the ordinary letter sequences. The apostrophe in "Totton's" is a printed right single quotation mark; "Pagès" carries a printed grave accent. The run-in italic headings "Distribution", "Remarks", "Material examined", "Diagnosis." and "Description" and the bold run-in headings "Pneumatophore:", "Nectosome.", "Nectophores:" and "Barcode Index Number (BIN) in BOLD:" begin their paragraphs in print; "Nectosome." is printed with a full point where the parallel headings have a colon. Running head and running foot elements are separated by tabs.]
+
+<<<PAGE pdf=11 file=page_011.txt>>>
+[PAGE 11]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+[FIGURE]
+A
+B
+ngz
+C
+ld	br
+pa
+gz
+D
+tn
+FIGURE 7
+Nanomia cara (A) colony, (B) pneumatophore and upper nectosome, (C, D) parts of siphosome. br, bract; gz, gastrozooid; ld, lipid droplet; ngz, nectosomal growth zone; pa, palpon; tn, tentacle. Live specimen from Gulf of Maine. White spots on nectophores not typical, may be air bubbles resulting from sample processing. Photos by David Shale.
+[/FIGURE]
+
+and the descending mantle canal passes down towards nectophore’s lower surface.
+
+Thrust block identifiable in small nectophores from outside Cork Harbour, Ireland, as small dome-shaped protrusion between axial wings (in upper view). As nectophore grows larger and axial wings move further apart (in Arctic and Norwegian specimens), thrust block broadens and protrudes further from proximal surface of nectosac (in upper view). In some very large Arctic nectophores, the thrust block may dome out beyond proximal ends of axial wings in upper view, while in others it remains level with axial wings; a thrust block can also be identified as a large structure in lateral views of mature nectophores, extending from the upper proximal surface. In some nectophores from the Arctic, thrust block shorter than axial wings in upper view, but mesogloea still thickened in this region. This is illustrated by the relatively extensive length of the internal pedicular canal.
+
+Siphosome: Cormidia easily discerned on siphosomal stem of the large colony from Gulf of Maine, delimited anteriorly by an elongate gastrozooid with a broad band of orange-red pigment near its proximal end and contracted tentacle with prominent tentilla (Figure 7). Most cormidia in these images comprising 4-5 palpons
+
+(identifiable by their single proximal lipid droplet), and numerous bracts. No gonodendra identified in specimen in Figure 7, suggesting it was not yet sexually mature.
+
+Gastrozooid and tentacle: Small spot of orange pigment near proximal end of gastrozooids of Rocky Bay specimen, with more similar spots present in Norwegian gastrozooids. In larger gastrozooids from the Gulf of Maine 2015 colony, orange-red pigment more extensive in the proximal half of the zooid (Figure 7). Many larval tentilla developing at proximal end of basigaster in young Bantry Bay gastrozooids, but no definitive tentilla. Larval tentilla also associated with some tentacles of Rocky Bay specimen, but most tentilla on this latter specimen definitive with 2-3 coiled orange cnidoband enclosed by partial involucrum and single relaxed long terminal filament when alive. Tentilla with 5-8 coils were observed on a live specimen from Bergen, while 10-11 coils were present throughout siphosome of Gulf of Maine specimen (Figure 7); most pigmented orange red, but a few transparent.
+
+Palpons: From 1.0 to 4.0 mm max length in present material; most containing proximal lipid droplet, becoming prominent in large palpons (Figure 7); palpons all opaque in preserved material with thin palpacle emerging from proximal end. In young Bantry
+
+Frontiers in Marine Science	11	frontiersin.org
+
+[NOTE: Figure 7 fills the upper two thirds of the page in a boxed panel; below it the page is two columns, transcribed left column then right column. The first paragraph continues the sentence broken off at the foot of page 10, and the right column ends mid-sentence at "In young Bantry".
+
+Inside the [FIGURE] block only text physically printed in the panel is given; the photographs are not described. Figure 7 is four photographs: A is a tall panel down the left side, and B, C, D are stacked to its right, each letter printed in white at the panel's top left corner. The white leader labels are transcribed panel by panel in the order A (which carries none), B, C, D, and within each panel in approximate top-to-bottom order; where labels sit level they are separated by a tab. Presentation ligatures (fi, fl) are transcribed as the ordinary two-letter sequences. The apostrophe in “nectophore’s” is printed as a right single quotation mark and is given as that character. Running head and running foot elements are separated by tabs.]
+
+<<<PAGE pdf=12 file=page_012.txt>>>
+[PAGE 12]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+[FIGURE]
+FIGURE 8
+Ontogenetic change in Nanomia cara nectophore shape. Upper/lower, lateral, distal and proximal views (top to bottom). Specimens (left to right): HYPNO_050, HYPNO_037, HYPNO_122 (ref. Supplementary Table S1). Scale bars for each column ~1 mm.
+[/FIGURE]
+
+Bay palpons, lipid droplets identified forming in column of palpon, presumably migrating proximally, and eventually coalesced into single proximal lipid droplet.
+
+Bracts: Two types of bracts present (Figure 9): Type A kite-shaped and Type B, found in enantiomorphic pairs.
+
+Type A. Kite-shaped, longer (2.0 mm) than wide (1.6 mm). Distinctly prismatic, often as high as wide. With an obvious cell patch on the upper surface, prone to abrasion hence lost in some bracts. Such patches have been shown to be the sites of
+
+bioluminescence in other physonects. Distally the upper surface divided into two facets, separated by a prominent median ridge. Two other ridges demarcating lateral margins of distal facets. Median ridge and lower third of lateral ridges lined with large cells. Bracteal canal running along lower surface without penetrating into mesoglea for nearly 80% of bract’s length, but not reaching the proximal process.
+
+Type B. More elongate than Type A, reaching 1.6 mm in length and 0.9 mm in width. Terminating distally in three cusps. Three
+
+Frontiers in Marine Science	12	frontiersin.org
+
+[NOTE: Figure 8 fills the upper three quarters of the page in a boxed panel; below it the page is two columns, transcribed left column then right column. The first paragraph continues the sentence broken off at the foot of page 11 ("In young Bantry" / "Bay palpons"), and the right column ends mid-sentence at "Three".
+
+Inside the [FIGURE] block only text physically printed in the panel is given; the photographs are not described. Figure 8 is a grid of ten photographs (three, three, three and one, in four rows) on a black ground; none of them carries any lettering, number or leader label, and there are three plain white scale bars along the top edge with no printed values (the caption supplies "Scale bars for each column ~1 mm"). The caption is therefore the only text in the panel. Presentation ligatures (fi, fl) are transcribed as the ordinary two-letter sequences; the apostrophe in “bract’s” is printed as a right single quotation mark and is given as that character. Note that the specimen codes are printed with underscores, "HYPNO_050, HYPNO_037, HYPNO_122". Running head and running foot elements are separated by tabs.]
+
+<<<PAGE pdf=13 file=page_013.txt>>>
+[PAGE 13]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+[FIGURE]
+u-lr
+tb
+v-lr
+u-lr
+urc
+orc	lr	amc
+v	loc
+pi	lrc
+op	dmc
+l-lr
+l-lr
+aw
+u-lr
+l-lr
+v-
+lr
+amc
+lrc
+urc
+loc
+u-lr
+lr
+op	orc
+aw
+tb
+amc
+l-lr
+lrc
+dmc
+loc
+urc
+orc
+op
+FIGURE 9
+Composite illustration of mature Nanomia cara nectophore and bracts. Lateral, distal and proximal views. Amc, ascending mantle canal; aw, axial wing; dmc, descending mantle canal; loc, lower radial canal; lr, lateral ridge; l-lr, lower later ridge; lrc, lateral radial canal; op, ostial process; orc, ostial ring canal; tb, thrust block; u-lr, upper lateral ridge; urc, upper radial canal; v, velum; v-lr, vertical lateral ridge. 1 mm scale bar for bracts.
+[/FIGURE]
+
+nearly parallel ridges run from those cusps up to the half of the bract’s length. Entire median ridge and roughly one third of lateral ridges lined with prominent cells. Lateral ridges appear to connect with median ridge in younger bracts, connection was indistinguishable in older zooids. Proximally additional lateral cusp on a single side of the bract. Single cell patch on the bract’s upper surface. Bracteal canal not originating on the proximal process, running along the lower surface of bract for nearly 80% of bract’s length. Bracts found in enantiomorphic pairs, with the proximal cusps displaced either on left or right side; sometimes one of the distal lateral cusps longer than the other one.
+
+Distribution
+
+Material from current study confirms the distribution of N. cara in the NE Atlantic around the British Isles, in the North Sea, along the Norwegian coast and in the Atlantic water masses of the Arctic. GenBank sequences from the Gulf of Maine, NW Atlantic, were also verified as belonging to N. cara, corresponding with the type localities in Massachusetts Bay, Nahant, and Newport, R. I (Agassiz, 1865). This agrees with the distribution proposed by Totton (1954).
+
+Remarks
+
+The examined material shows an ontogenetic change in the shape of the nectophores (Figure 8), which is likely partly responsible for the confusion surrounding the identity of NE Atlantic Nanomia. The general shape and habitus of smaller nectophores is more reminiscent of that of N. bijuga, with the nectophores assuming the horizontally flattened form associated with N. cara (cf. Totton, 1954 and reproductions thereof) as they mature and grow. As the nectophores grow, the axial wings become
+
+more prominent, with the nectosac extending into them. The upper lateral ridges get displaced laterally, and the nectophores become somewhat flaccid, with the ridges less conspicuous. The colonies originally described by Agassiz (1865) were small and likely immature, with a maximum of eight nectophores. The original description of the small nectophores tends towards the intermediate type typical of young N. cara nectophores, rather than mature N. cara nectophores as illustrated by Totton (1954). The syntype (not examined for this study) from Nahant is catalogued at Harvard University’s Museum of Comparative Zoology’ Invertebrate Collections under the catalogue number CNID-1745, with condition set as “poor”.
+
+As with N. bijuga, there appears to be potential morphological variation between populations, with large specimens up to 1 m in length having been reported from the Gulf of Maine (Rogers et al., 1978). In this study, the specimen from the Gulf of Maine was observed to have more cnidoband coils than the specimens examined from other regions, suggestive of a larger size, even though the specimen was apparently still sexually immature.
+
+3.2.3 Nanomia septata sp. n.
+
+Illustrations of N. septata sp. n.
+
+As Nanomia bijuga: Mapstone, 2009 (Figure 20), Mapstone and Arai, 1992 (Figures 3, 4), Church et al., 2015 (Figures 1–6), Norekian and Meech, 2020 (Figure 1, 2), Siebert et al., 2011 (Figure 1), Siebert et al., 2015; Sutherland et al., 2019.
+
+As Nanomia cara: Mackie, 1963 (Figure 24-1), Mackie, 1964 (Figures 1–7), Mackie, 1986 (Figure 10), Freeman, 1987 (Figures 3–6).
+
+Frontiers in Marine Science	13	frontiersin.org
+
+[NOTE: Figure 9 fills the upper half of the page in a boxed panel; below it the page is two columns, transcribed left column then right column. The first paragraph continues the sentence broken off at the foot of page 12 ("Three" / "nearly parallel ridges").
+
+Inside the [FIGURE] block only text physically printed in the panel is given; the illustrations are not described. Figure 9 is five line drawings: three nectophore views across the top and two bracts below. The labels are transcribed drawing by drawing, left to right (lateral view, then the middle view, then the right-hand view), and within each drawing in approximate top-to-bottom order; where two labels sit level they are separated by a tab. In the middle drawing "v-lr" is printed on two lines as "v-" over "lr" and is given here on two lines to record that. Several abbreviations recur within and between drawings, so the same string appears more than once. The two bract drawings carry no lettering; between them is a plain scale bar with no printed value (the caption supplies "1 mm scale bar for bracts"). In the caption "Amc, ascending mantle canal" is printed with a capital A although the parallel entries are lower case, and "l-lr, lower later ridge" is printed without the "al" of "lateral".
+
+Presentation ligatures (fi, fl) are transcribed as the ordinary two-letter sequences. Apostrophes are printed as right single quotation marks and are given as that character; "Museum of Comparative Zoology’ Invertebrate Collections" carries a stray right single quotation mark after "Zoology" as printed. The quotation marks around “poor” are printed as curly double quotation marks. "Newport, R. I" is printed without a final point. En dashes are printed in the figure-number ranges "1–6", "1–7" and "3–6". Running head and running foot elements are separated by tabs.]
+
+<<<PAGE pdf=14 file=page_014.txt>>>
+[PAGE 14]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+Etymology: specific name septata (f.) is latin for having a septum or being septate, with reference to the conspicuous longitudinal septa in the pneumatphore of fixed specimens of the species.
+
+Authorship: Recommended citation “Mapstone, Mańko, Martell, Haddock & Hosia in Hosia et al., 2024”.
+
+Material examined is specified in Supplementary Table S1.
+
+Yale Peabody Museum specimen with catalogue number YPM IZ 111054 is designated as holotype and YPM IZ 35043 as paratype (see Supplementary Table S1).
+
+Diagnosis. Pneumatophore with < 14 conspicuous longitudinal septa; nectosome with orange pigment (in live material). Nectophores flattened along proximal-distal axis when mature, parallel to stem axis, with prominent pigmentation of ostial region in living colonies; axial wings bent over on proximal side, partly enclosing stem; no auriculate ridge connecting upper-lateral ridge with lateral ridge; thrust block small and insignificant in all nectophores. Palpons with elongate palpacle, lipid droplet inconspicuous if present.
+
+Barcode Index Number (BIN) in BOLD: ACL8638.
+
+Description
+
+Pneumatophore: Pneumatophore up to 5 mm long, apex with red pigment, outer wall typically with 12-13 conspicuous longitudinal septa from apex to base (Figure 10); gas gland pinkish in Vancouver Island pneumatophores.
+
+Nectosome: With prominent orange pigmentation in living animal (Figure 10), and nectophores budding off dorsally; 11 fully developed nectophores were found with the holotype (Figure 10, a single nectophore detached prior to taking picture).
+
+Nectophores: Young and mature nectophores of holotype in good condition. In distal view young nectophores 2.25 x 2.25 mm, mature nectophores 5.0 mm x 4.5 mm (max height x width); young nectophores with axial wings tall in distal view and separated by deep cleft (Figure 10); mature nectophores with axial wings shorter in distal view, separated by a shallower cleft (Figure 11); axial wings folded inwards on proximal side of nectophore, touching in Peabody Pacific specimen or not touching in other material (not illustrated). Outer surface smooth in all Peabody Pacific nectophores, with ridges easily discerned, but courses best illustrated in composite drawings from several mature nectophores (Figure 11). Incomplete upper-lateral ridges originating at axial wing tip, passing upwards and outwards to
+
+[FIGURE]
+A
+B
+C
+FIGURE 10
+Nanomia septata sp. n. (A) nectosome (live holotype), (B) pneumatophore (holotype after fixation), scale bar 500 μm and (C) young nectophore (paratype), distal view, scale bar 1 mm.
+[/FIGURE]
+
+Frontiers in Marine Science	14	frontiersin.org
+
+[NOTE: Two text columns at the head of the page (left column transcribed in full, then the right), then Figure 10 in a boxed panel filling the lower half. The right column ends mid-sentence at "passing upwards and outwards to".
+
+Inside the [FIGURE] block only text physically printed in the panel is given; the photographs are not described. Figure 10 is three photographs: A is a tall panel down the left side, with B above C to its right, each letter printed in white at the panel's top left corner. No panel carries any leader label; B and C each carry a plain white scale bar with no printed value (the caption supplies the values). Presentation ligatures (fi, fl) are transcribed as the ordinary two-letter sequences.
+
+"pneumatphore" in the Etymology paragraph is printed thus, without the "o"; "latin" is printed lower case. "Mańko" carries a printed acute accent on the n (precomposed Latin small letter n with acute). The quotation marks around the recommended citation are printed as curly double quotation marks. "μm" in the figure caption is the printed micro sign. Running head and running foot elements are separated by tabs.]
+
+<<<PAGE pdf=15 file=page_015.txt>>>
+[PAGE 15]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+[FIGURE]
+u-lr
+v-lr
+u-lr
+tb
+urc
+amc
+u-
+lr
+lr
+lrc
+dmc
+op
+orc
+loc
+l-lr
+l-lr
+u-lr
+tb
+u-lr
+v-lr
+lrc
+urc
+loc
+lr
+op
+v
+orc
+l-lr
+u-lr
+u-lr
+tb
+amc
+urc
+v-lr
+aw
+lrc
+l-lr
+dmc
+loc
+l-lr
+FIGURE 11
+Composite illustration of mature Nanomia septata sp. n. nectophore and bracts. Lateral, distal and proximal views. amc, ascending mantle canal; aw, axial wing; dmc, descending mantle canal; loc, lower radial canal; lr, lateral ridge; l-lr, lower later ridge; lrc, lateral radial canal; op, ostial process; orc, ostial ring canal; tb, thrust block; u-lr, upper lateral ridge; urc, upper radial canal; v, velum; v-lr, vertical lateral ridge. 1 mm scale bar for bracts.
+[/FIGURE]
+
+upper lateral nectophore surface and then downwards and inwards on distal surface terminating near distal mid-line at about half nectophore height (Figure 11); vertical-lateral ridges passing from high point of upper-lateral ridges diagonally down lateral nectophore surfaces to insert on lower-lateral ridge; lateral ridges extending from upper-lateral ridges on distal surface and passing down to insert on lateral borders of ostium at level of ostial process; lower-lateral ridges extending from tips of axial wings, along lower lateral surfaces of nectophore to insert at ostium below lateral ridges.
+
+Nectosac extensive in all nectophores (Figures 10, 11); radial canals originating from junction with internal pedicular canal on proximal surface; upper radial canal straight, passing through V-shaped cleft onto distal surface, downwards in mid-line and inserting onto ostial ring canal; lower radial canal following similar straight course along lower surface of nectosac to ostial ring canal (Figure 11); lateral radial canals following sinuous looped courses from junction with internal pedicular canal, first forming upward loop on proximal nectosac surface, then lower loop on proximal to lower-lateral surface, and finally taller loop on latero-distal nectosac surface before descending and inserting onto ostial ring canal in lateral position (Figure 11).
+
+Short internal pedicular canal giving rise to both ascending and descending mantle canals. Ascending mantle canal extending upwards from junction to middle of thrust block in proximal view, and descending mantle canal extending downwards to point where lower mid-line of nectosac turns through 90° (Figure 11).
+
+Thrust block terminating just below upper surface of nectosac in proximal view of mature nectophores (Figure 11), halfway up proximal surface in young nectophores (not illustrated).
+
+Siphosome: Siphosomal stem with the cormidial arrangement typical of the genus, with gastrozooids followed by several palpons, each flanked by both a female and a male gonodendron on alternate sides (Figure 12).
+
+Gastrozooid and tentacle: Gastrozooids with distinctly orange proximal one third, elongate, reaching up to roughly 7.0 mm in length (Figure 12). With prominent hepatic stripes. Tentilla with long pedicels (Figure 12), with 8 cnidoband coils when mature and single terminal filament. Involucrum incomplete, covering 2-5 coils of cnidoband (Figure 12). In live specimens cnidoband distinctly orange. No larval tentilla identified in present material.
+
+Palpon: Elongate, up to 7.0 mm long, nearly 1.2 mm wide, narrowing down distally (Figure 12). All palpons with proximally attached palpacle. Some palpons with an internal proximal droplet, possibly containing lipids.
+
+Bracts: Two types of bracts present (Figure 11). As in other Nanomia species, one more prismatic, roughly rectangular, and other tricuspidate and elongate. Both types with two cell patches.
+
+Type A. Prismatic, 5.5 mm long and 5.0 mm wide. The upper surface divided in two by a transverse ridge running from distal cusps up to one third of bract length. The transverse ridge forming minute overhangs above the distal surface. The distal surface divided into two facets by a median ridge connecting with the transverse ridge. Each of the two distal facets with a distinct cell
+
+Frontiers in Marine Science	15	frontiersin.org
+
+[NOTE: Figure 11 fills the upper half of the page in a boxed panel; below it the page is two columns, transcribed left column then right column. The first paragraph continues the sentence broken off at the foot of page 14, and the right column ends mid-sentence at "with a distinct cell".
+
+Inside the [FIGURE] block only text physically printed in the panel is given; the illustrations are not described. Figure 11 is five line drawings: three nectophore views across the top and two bracts below. The labels are transcribed drawing by drawing, left to right (lateral view, then the middle view, then the right-hand view), and within each drawing in approximate top-to-bottom order. In the left drawing one "u-lr" is printed on two lines as "u-" over "lr" and is given here on two lines to record that. Several abbreviations recur within and between drawings, so the same string appears more than once. The two bract drawings carry no lettering; between them is a plain scale bar with no printed value (the caption supplies "1 mm scale bar for bracts"). In the caption "l-lr, lower later ridge" is printed without the "al" of "lateral", as in the captions of Figures 5 and 9.
+
+Presentation ligatures (fi, fl) are transcribed as the ordinary two-letter sequences. The degree sign in "90°" is as printed. Running head and running foot elements are separated by tabs.]
+
+<<<PAGE pdf=16 file=page_016.txt>>>
+[PAGE 16]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+[FIGURE]
+A
+fg	gz
+mg
+st	tn
+br
+pa
+B	C
+in
+D	E
+pl
+FIGURE 12
+Siphosomal zooids of Nanomia septata sp. n. holotype. (A) Cormidium showing gastrozooid and groups of palpon with female and male gonodendra on alternate sides, (B) gastrozooid, (C) tentilla from a single tentacle, from youngest to oldest (left to right) in various stages of development, (D) female and male gonodendra on either side of a palpon, and (E) palpon with palpacle. br, bract; fg, female gonophore; gz, gastrozooid; in, involucrum; mg, male gonophore; pa, palpon; pl, palpacle; st, stem; tn, tentacle. Scale bars: 1 mm.
+[/FIGURE]
+
+patch. Lateral portion of a transverse ridge lined with larger cells. Bracteal canal originating on the proximal process and running nearly to the distal tip of the bract.
+
+Type B. Elongate, 6.3 mm long and 2.0 mm wide. Terminating with three cusps, each with a ridge running towards proximal portion of bract. Lateral ridges much shorter than the median ridge, and lined with distinct cells. Median ridge longer, running up to one third of bracts upper surface, not lined with any cells, and with distinct cell patches, one per side of the ridge. Bracteal canal started near the proximal process and run along the lower surface for the majority of bracts length.
+
+Gonodendra: Monoecious, with both male and female gonodendra attached at bases of individual palpons (Figure 12). Male gonophores elongate, white when immature, becoming orange upon maturation. Female gonophores small, oval, each with a single egg cell.
+
+Distribution
+
+Molecular identification confirmed the presence of Nanomia septata in the North Pacific, from California up to Vancouver in the east, as well as from Japanese waters in the west. Nanomia septata is extremely abundant in the eastern North Pacific, spanning from the surface to 550m, based on 287 000 ROV annotations gathered over a 30-year period (Figure 13). The mean number of specimens observed on each ROV dive was 234, with a maximum of 3997. The bulk of the sightings occur at daytime-depths between 200 and 450 m. Although depth data were primarily obtained during the day the distribution is not constant since Nanomia undergo diel vertical migration, to maximize overlap with their predominant prey of krill (Choy et al., 2017). N. septata are most abundant between August and November, and there is a potential seasonal shift during development, since the depth of occurrence increases from August to November (Figure 13).
+
+Remarks
+
+Frontiers in Marine Science	16	frontiersin.org
+
+[NOTE: Figure 12 fills the upper two thirds of the page in a boxed panel; below it the page is two columns, transcribed left column then right column. The first paragraph continues the sentence broken off at the foot of page 15 ("with a distinct cell" / "patch"). Both columns end with an italic run-in heading on its own line, "Distribution" at the foot of the left column and "Remarks" at the foot of the right.
+
+Inside the [FIGURE] block only text physically printed in the panel is given; the photographs are not described. Figure 12 is five photographs on a black ground, lettered A (a wide panel across the top), then B and C side by side, then D and E side by side, each letter printed in white at the panel's top left corner. The white leader labels are transcribed panel by panel in the order A, B, C, D, E and within each panel in approximate top-to-bottom order; where labels sit level they are separated by a tab. Panel A carries fg, gz, mg, st, tn, br and pa; B carries none; C carries in; D carries none; E carries pl. Each panel carries a plain white scale bar with no printed value (the caption supplies "Scale bars: 1 mm").
+
+Presentation ligatures (fi, fl) are transcribed as the ordinary two-letter sequences. "550m" is printed without a space before the "m", while "450 m" elsewhere in the same paragraph has one; "287 000" is printed with a space as the thousands separator. "bracts upper surface" and "bracts length" are printed without apostrophes. Running head and running foot elements are separated by tabs.]
+
+<<<PAGE pdf=17 file=page_017.txt>>>
+[PAGE 17]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+[FIGURE]
+0
+250
+Aug
+Nov
+count
+16000
+Depth (m)
+12000
+8000
+500
+4000
+750
+1000
+Jan	Feb	Mar	Apr	May	Jun	Jul	Aug	Sep	Oct	Nov	Dec
+FIGURE 13
+Depth distribution and seasonality of Nanomia septata sp. n. off the California coast based on 287 000 ROV annotations.
+[/FIGURE]
+
+Nanomia septata sp. n. has likely been mistakenly identified as both N. cara and N. bijuga in several publications from the North Pacific. This is definitely the case for the publications from which the sequences used in this study stem (Supplementary Table S1), as well as other studies that have used these specific sequences as N. bijuga. In particular, N. bijuga from the US west coast – here considered N. septata – has been used as a model organism in several evo-devo and other studies (e.g. Spencer, 1971; Siebert et al., 2011; Church et al., 2015; Siebert et al., 2015; Sutherland et al., 2019; Norekian and Meech, 2020). Where genetic data or suitable tissue is available, the identity of the Nanomia species in such papers can be checked by comparing with the COI and 16S sequences from the present study. It should be noted that N. septata sp. n. appears to occur in close proximity to several other species of Nanomia —with N. bijuga towards its southern range along the North American coast, with N. bijuga and the undescribed sp.1 in Japan, and with undescribed sp.2 also observed in the north-west Pacific—necessitating care when identifying specimens morphologically.
+
+One of the characters separating the Nanomia species is the presence and appearance of a proximal lipid droplet on the palpons (Table 1). Nanomia cara typically display prominent external droplets (Figure 7), while the N. bijuga proper do not have such lipid droplets (Figure 6). The hitherto unresolved taxonomy has caused confusion also in this matter. Church et al. (2015) questioned the validity of this character in separating N. cara and “N. bijuga” (in fact N. septata) and reported on a large, proximal lipid droplet creating a pronounced protrusion on the palpons of N. septata (as “N. bijuga”) in their histological study (see Figure 4 in
+
+Church et al., 2015). However, according to our observations, the lipid droplets in N. septata remain largely internal to the palpons (Figure 12), resulting in a slight protrusion in the proximal end of the palpon but never forming a conspicuous external body as in N. cara (Figure 7).
+
+The complex history and widespread distribution of Nanomia siphonophores renders any systematic treatment difficult. The generic name Nanomia was introduced by Agassiz, 1865 for N. cara collected off Massachusetts. The name, however, is actually preceded by both Cupulita Quoy and Gaimard, 1824 and Agalmopsis Sars, 1846, with Cupulita having priority. To add to the confusion, the description of Agalmopsis elegans Sars, 1846 was based on specimens of two species, currently known as N. cara and Agalma elegans (Sars, 1846). This would imply that not only the name Nanomia should be replaced with Cupulita, but also that the specific name cara should be suppressed by elegans (currently in use for another species in the same family: A. elegans). However, both N. cara and N. bijuga meet requirements of the International Code of Zoological Nomenclature article 23.9. on reversal of precedence, thus allowing us to retain them.
+
+The Pacific Nanomia species, which we describe here under the name N. septata sp. n., has been reported earlier as N. cara (e.g., Mackie, 1964), N. bijuga (e.g., Church et al., 2015) or simply as Nanomia (e.g., Mackie, 2002). To the best of our knowledge, the only Nanomia-like siphonophores with a type locality in the Pacific Ocean are Cupulita boodwich Quoy and Gaimard, 1824 and Anthemodes moseri Agassiz and Mayer, 1902 [currently synonymized with N. bijuga (Delle Chiaje, 1844)]. The former was collected from Port
+
+Frontiers in Marine Science	17	frontiersin.org
+
+[NOTE: Figure 13 fills the upper half of the page in a boxed panel; below it the page is two columns, transcribed left column then right column. The right column ends mid-sentence at "collected from Port".
+
+Inside the [FIGURE] block only text physically printed in the panel is given; the graphic is not described. Figure 13 is a single heat-map panel. Its printed text is the y-axis tick labels 0, 250, 500, 750 and 1000 down the left side, the rotated y-axis title "Depth (m)" beside them (printed reading bottom-to-top), two labels "Aug" and "Nov" set in white inside dark cells of the map, a legend at the right headed "count" with the tick labels 16000, 12000, 8000 and 4000 beside a graded bar, and the twelve month abbreviations Jan to Dec along the foot, given here on one line separated by tabs. The items are listed in approximate top-to-bottom order, so the rotated axis title and the legend entries interleave with the axis tick labels; no branch or cell association is implied.
+
+Presentation ligatures (fi, fl) are transcribed as the ordinary two-letter sequences. The dashes are as printed: en dashes with spaces in "west coast – here considered N. septata – has been used", and em dashes in "of Nanomia —with" (with a space before the em dash) and in "north-west Pacific—necessitating" (no spaces). The quotation marks around "N. bijuga" are printed as curly double quotation marks. "article 23.9. on reversal of precedence" is printed with a full point after "23.9". Running head and running foot elements are separated by tabs.]
+
+<<<PAGE pdf=18 file=page_018.txt>>>
+[PAGE 18]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+Jackson, Australia, its description is vague, and the species is considered a taxon inquirendum in the World Hydrozoa Database (Schuchert, 2024). The latter was collected off Tuvalu (tropical Pacific), and differs in morphology from N. septata sp. n. Given the lack of documented morphological similarity with the above species and the considerable geographic distance to their type localities, the magnitude of unresolved diversity of Pacific Nanomia (e.g., Figure 3), as well as the convoluted systematics of Nanomia, we consider it justified and prudent erect a new species for N. septata.
+
+4 Discussion
+
+Several factors have served to make assigning Nanomia specimens to the previously accepted species N. bijuga and N. cara challenging. The existence of several, hitherto morphologically undescribed lineages has certainly impeded correct identification of Nanomia from the Pacific. Furthermore, the focus on the identification between N. bijuga and N. cara has largely been on the axis of flattening of the nectophores, but this character is somewhat subjective and does not account for the ontogenetic changes in the morphology of N. cara nectophores, thus leading to erroneous conclusions about younger nectophores in particular. A better character to separate the species is the arrangement of the ridges on the upper surface of the nectophores, as described in the current paper (Table 1; Figures 5, 9, 11).
+
+We suggest that the so-called auriculate ridge joining the lateral and upper lateral ridges of the nectophores, which Totton (1965) describes from some, but not all, N. bijuga individuals, is indeed a diagnostic character for N. bijuga proper. Such auriculate ridges are absent from all Pacific specimens now considered N. septata sp. n., as well as all Atlantic N. cara. The species also differ in terms of the relative placement of the junction between the lateral ridge and the upper lateral ridge.
+
+Another point of confusion has been the presence of oil droplets at the base of the palpons. Our data suggests that conspicuous, external oil droplets are only present in N. cara, while any such droplets in N. septata remain internal to the palpon, only resulting in a slight protrusion (also see Church et al., 2015). No oil droplets were observed in N. bijuga. Finally, N. septata sp. n. clearly differs from both other species in terms of the conspicuousness of the septa in its pneumatophore.
+
+Our results clarify that the Nanomia commonly observed in NE Atlantic waters is predominantly N. cara, as previously suggested by several authors (Totton, 1954; Kirkpatrick and Pugh, 1984; Hosia and Båmstedt, 2008; Knutsen et al., 2018). That being said, advection of siphonophores and other pelagic hydrozoans with a more southern distribution into the North Sea and along the Norwegian coast is not an uncommon occurrence (Båmstedt et al., 1998; Edwards et al., 1999; Fosså et al., 2003), so we cannot completely dismiss the validity of all N. bijuga observations from these waters. Nevertheless, all our samples from Irish waters are unequivocally N. cara, rather than N. bijuga as proposed by Baxter et al. (2012) and (Haberlin et al., 2016, 2019). Incidentally, the most commonly reproduced illustration of N. cara nectophores, originally from Totton (1954), is based on a specimen collected at Valentia Island, Ireland.
+
+The morphology of N. cara nectophores is shown to change during ontogeny and growth, with the smaller and younger nectophores generally having a more intermediate shape reminiscent of N. bijuga. As the size of the colonies at this point is also closer to that typical of N. bijuga from Atlantic and Mediterranean waters, it can be difficult to morphologically tell apart the two species in this size range based on general nectophore habitus or the plane of flattening. The small size (0.5-2 mm in diameter) of the nectophores examined by Baxter et al. (2012) could have contributed to a potential misidentification based on morphology. Baxter et al. (2012) also confirmed their identification by comparing 18S sequences with those from a presumed N. bijuga from the Pacific, but as the sequences were not published, we have been unable to verify their identity. A re-evaluation of these results would be interesting, as we now know that there are multiple species of Nanomia present in Pacific waters. 18S sequences are also highly conserved within cnidarians (Berntson et al., 1999; Cartwright et al., 2008). The results from Baxter et al. (2012) in combination with the shape of the nectophores led Haberlin et al. (2016) to misidentify their Irish specimens as N. bijuga, though they also stated that the material showed a marked similarity to the early descriptions of N. cara (Agassiz, 1865; Fewkes, 1888). These nectophores were also only up to ~1.4 mm in width, and the photos of the colony from Bantry Bay show small N. cara nectophores of an intermediate morphology (as N. bijuga, Figure 2 in Haberlin et al., 2016).
+
+Morphological variation in colony size and other characteristics has previously been reported for both N. cara and N. bijuga. While the N. cara originally described by Agassiz (1865) were relatively small, colonies up to 2-3 inches long, N. cara in the NW Atlantic are known to reach much larger sizes: Fewkes (1888) observed colonies up to five feet in length at the entrance to the Bay of Fundy, whereas colonies ranging from 0.2 to 3.7 m were reported to occur in an aggregation observed in the Gulf of Maine by Rogers et al. (1978), the largest ones with 30-40 nectophores and >200 gastrozooids. Sars (1846) observed specimens up to 50 cm long along the Norwegian coast, although we cannot be certain whether these were in fact N. cara or Agalma elegans. While N. bijuga has generally been considered the smaller species, the Pacific colonies from the Gulf of California and Hawaii observed in this study were much larger than their Mediterranean counterparts, having ~30 nectophores each. “Giant colonies” of Nanomia have also previously been reported to occur off the west coast of North America (P.R. Pugh, pers. comm. in Mapstone, 2009), and these are likely referring to N. septata, which Pugh frequently encountered. Size of the Nanomia nectophores also varies, both within and between species (Mapstone, 2009; this study). Variation in the length of the cnidoband and the relative length of the involucrum are also reported by Mapstone (2009). Some of the variation observed in size and morphology may be related to growth and maturation of the colonies, as shown for N. cara nectophore morphology.
+
+The genetic division between Atlantic N.bijuga and Pacific N. septata n.sp. has been previously implied and was not entirely unexpected (Dunn et al., 2005; Park and Lee, 2022). However, our molecular analyses revealed not two, but three or four distinct lineages in addition to the North Atlantic N. cara, occurring in (1)
+
+Frontiers in Marine Science	18	frontiersin.org
+
+[NOTE: Two-column page with no figures; the left column is transcribed in full, then the right. The first paragraph continues the sentence broken off at the foot of page 17 ("collected from Port" / "Jackson, Australia"), and the right column ends mid-sentence at "occurring in (1)".
+
+Presentation ligatures (fi, fl, ff) are transcribed as the ordinary letter sequences. "justified and prudent erect a new species" is printed thus, without "to" before "erect". "N.bijuga" is printed without a space after the point in the last paragraph of the right column, and "n.sp." there is printed in that order, where elsewhere in the paper the same author writes "sp. n."; both as printed. "Båmstedt" and "Fosså" carry printed Scandinavian diacritics (a with ring above, a with ring above). The quotation marks around "Giant colonies" are printed as curly double quotation marks. The section heading "4 Discussion" is printed larger and in the journal's blue. Running head and running foot elements are separated by tabs.]
+
+<<<PAGE pdf=19 file=page_019.txt>>>
+[PAGE 19]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+circumglobally in warm waters (N. bijuga proper), (2) eastern and western North Pacific (N. septata sp. n.), (3) Chinese waters, and (4) Japanese waters. While we here describe N. septata sp. n. to represent the molecularly and morphologically distinct north Pacific lineage, we currently lack material to describe the morphological characteristics of the two putative Nanomia species recorded from Chinese and Japanese waters. Interestingly, Lo et al. (2013) also reported finding two species of Nanomia in waters surrounding Taiwan: One positively identified as N. bijuga, and another one that could be assigned to neither N. bijuga nor N. cara.
+
+The N. bijuga proper clade, as delimited by the phylogenetic analyses, also shows geographically structured, hitherto undescribed intraspecific genetic variation (Supplementary Figures S1, S2). This is not surprising, considering the species’ circumglobal distribution and likely low gene flow between populations. Resolving the population genetics of N. bijuga and concluding whether the morphological characters show consistent regional differences requires further study of multiple specimens from across the geographic range of species.
+
+Our study still lacks data from major oceanic regimes where Nanomia are known to occur. Observations attributed to N. bijuga have also been recorded from several locations in the Southern Pacific (pers. obs.) and Atlantic, as well as the Indian Ocean and the Red Sea (Alvariño, 1971; Pugh, 1999). Due to the surprising genetic diversity revealed within the genus, further integrated molecular and morphological analyses are necessary to resolve the taxonomy of Nanomia, including describing the putative species recorded from Chinese and Japanese waters, as well as to improve our understanding of the biogeography of the genus. Interestingly, our data suggest both intraspecific differentiation of geographically distant populations, as well as adjacent or overlapping species distributions within the genus in both Atlantic and Pacific waters.
+
+The current study employs COI and 16S sequences for the purpose of species delimitation. The observed genetic distances between the species of Nanomia resolved by the molecular analyses are relatively large (Table 2), and the 16S data suggest that the genus may in fact not be monophyletic (Figure 3), albeit with low support. However, while good at separating between species, COI and 16S alone are not sufficient for reconstructing phylogenies. Until the remaining Nanomia species have been described, and a robust phylogeny including all the putative species has been inferred using a larger set of genetic markers, we refrain from suggesting changes to accepted nomenclature.
+
+5 Conclusion
+
+In this study, we have applied integrated morphological and molecular methods to delimit species in the genus Nanomia. We find that Nanomia septata sp. n. occurring in the NE Pacific warrants establishment as its own species, based on both molecular and morphological evidence. We provide a first description of Nanomia septata sp. n., as well as accounts of the observed N. bijuga and N. cara material for comparison. We also
+
+observed two additional genetic lineages of Nanomia from the West Pacific Ocean, but do not currently have material to examine the morphology of these species to formally describe them. Also lacking are both morphological and molecular data from Nanomia from the South Atlantic and regions of the Pacific Ocean, as well as the Indian Ocean, where the genus is also known to occur. Obtaining a comprehensive picture of the diversity of the genus Nanomia requires examination of further material from these regions. Nevertheless, the occurrence of several species of Nanomia occurring in close proximity to each other raises interesting questions regarding speciation processes in the pelagic realm. Comparable integrated studies on other widespread species and genera are likely to reveal further unexplored diversity within the order Siphonophorae.
+
+Data availability statement
+
+The datasets presented in this study can be found in online repositories. The names of the repository/repositories and accession number(s) can be found in the article/Supplementary Material.
+
+Ethics statement
+
+Ethical approval was not required for the study involving animals in accordance with the local legislation and institutional requirements because study focuses on cnidarian plankton.
+
+Author contributions
+
+AH: Conceptualization, Data curation, Funding acquisition, Investigation, Resources, Visualization, Writing – original draft, Writing – review & editing. LM: Conceptualization, Data curation, Formal analysis, Funding acquisition, Investigation, Resources, Visualization, Writing – original draft, Writing – review & editing. MKM: Conceptualization, Funding acquisition, Investigation, Visualization, Writing – original draft, Writing – review & editing. SHDH: Resources, Visualization, Writing – review & editing. DH: Resources, Visualization, Writing – review & editing. GMM: Conceptualization, Data curation, Investigation, Resources, Visualization, Writing – original draft, Writing – review & editing.
+
+Funding
+
+The author(s) declare financial support was received for the research, authorship, and/or publication of this article. The present study was funded by the Norwegian Biodiversity Information Centre through the Norwegian Taxonomy Initiative projects NorHydro (14-18-70184240) (LM) and HYPNO (48-14-70184233) (AH, LM) in collaboration with the Norwegian Barcode of Life (NorBOL), by grants from the National Science Centre, Poland: 2018/29/N/NZ8/01305 (MKM) and 2019/32/T/
+
+Frontiers in Marine Science	19	frontiersin.org
+
+[NOTE: Two-column page with no figures; the left column is transcribed in full, then the right. The first paragraph continues the sentence broken off at the foot of page 18 ("occurring in (1)" / "circumglobally in warm waters"), and the right column ends mid-way through a grant number at "2019/32/T/".
+
+Presentation ligatures (fi, fl, ff) are transcribed as the ordinary letter sequences. "the species’" carries a printed right single quotation mark as its possessive apostrophe. "Alvariño" carries a printed tilde on the n. En dashes are printed throughout the Author contributions section ("Writing – original draft", "Writing – review & editing"). The grant number "HYPNO (48-14-70184233)" is broken across two printed lines after "48-14-" and is joined here keeping that hyphen, since it is part of the number and not a word-division hyphen. The section headings "Data availability statement", "Ethics statement", "Author contributions", "Funding" and "5 Conclusion" are printed larger and in the journal's blue. Running head and running foot elements are separated by tabs.]
+
+<<<PAGE pdf=20 file=page_020.txt>>>
+[PAGE 20]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+NZ8/00130 (MKM), as well as by Science Foundation Ireland and Marine Harvest Ireland Ltd. (12/RC/2302) (DH) and the Irish Environmental Protection Agency (EPA) (2015-NC-MS-3) (DH). SHDH was supported by the David and Lucile Packard Foundation. The funders were not involved in the study design, collection, analysis, interpretation of data, the writing of this article or the decision to submit it for publication.
+
+Acknowledgments
+
+We wish to thank Dhugal Lindsay, Catriona Munro and Rade Garić for sequences from Japan and the Mediterranean, and morphological specimens from the Adriatic, respectively. Lynne Christianson extracted and sequenced many of the MBARI specimens used in the study. Amy Dozier contributed the original tracing of the nectophore drawings. The help and assistance of the crews of all the vessels involved in the sampling effort are appreciated. David Shale kindly allowed us to use his photos of Nanomia cara. The Trustees of the Natural History Museum, London, Canadian Science Publishing, and the Zoological Society of Japan permitted the reproduction of drawings for Figure 1.
+
+Conflict of interest
+
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+Publisher’s note
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+
+Supplementary material
+
+The Supplementary Material for this article can be found online at: https://www.frontiersin.org/articles/10.3389/fmars.2024.1421514/full#supplementary-material
+
+References
+
+Agassiz, A. (1865). “North American Acalephae,” in Illustrated Catalogue of the Museum of Comparative Zoölogy at Harvard College, vol. 2. (Cambridge (University Press: Welch, Bigelow & Co.), Massachusetts), 1–234. doi: 10.5962/bhl.title.1837
+Agassiz, A., and Mayer, A. G. (1902). “Medusæ,” in Report of the scientific research expedition to the tropical Pacific. U.S. Fish Comm. St. Albatross 1899-1900. III. doi: 10.5962/bhl.title.41325
+Alvariño, A. (1971). Siphonophores of the Pacific with a review of the world distribution. Bull. Scripps Institution Oceanography (Cambridge, Massachusetts), 16.
+Båmstedt, U., Fosså, J. H., Martinussen, M. B., and Fosshagen, A. (1998). Mass occurrence of the physonect siphonophore Apolemia uvaria (Lesueur) in Norwegian waters. Sarsia 83, 79–85. doi: 10.1080/00364827.1998.10413673
+Baxter, E. J., McAllen, R., Allcock, A. L., and Doyle, T. K. (2012). Abundance, distribution and community composition of small gelatinous zooplankton in southern Irish coastal waters. Biol. Environment: Proc. R. Irish Acad. 112, 1–13. doi: 10.1353/bae.2012.0029
+Berntson, E. A., France, S. C., and Mullineaux, L. S. (1999). Phylogenetic relationships within the class Anthozoa (phylum Cnidaria) based on nuclear 18S rDNA sequences. Mol. Phylogenet. Evol. 13, 417–433. doi: 10.1006/mpev.1999.0649
+Bouillon, J., Medel, M. D., Pagès, F., Gili, J. M., Boero, F., and Gravili, C. (2004). fauna of the mediterranean hydrozoa. Scientia Marina 68, 5–449. doi: 10.3989/scimar.2004.68s25
+Browne, E. T., Thompson, I. C., Gamble, F., Herdman, W., Cunningham, J., Beaumont, W., et al. (1898). The fauna and flora of Valencia Harbour on the West Coast of Ireland. Proc. R. Irish Acad. 1889-1901) 5, 667–854. Available online at: https://www.jstor.org/stable/20490564.
+Cartwright, P., Collins, A. G., Dunn, C. W., Evans, N. M., Marques, A. C., Miglietta, M. P., et al. (2008). Phylogenetics of hydroidolina (Hydrozoa: cnidaria). J. Mar. Biol. Assoc. United Kingdom 88, 1663–1672. doi: 10.1017/S0025315408002257
+Choy, C. A., Haddock, S. H. D., and Robison, B. H. (2017). Deep pelagic food web structure as revealed by in situ feeding observations. Proc. R. Soc. B: Biol. Sci. 284, 20172116. doi: 10.1098/rspb.2017.2116
+Church, S. H., Siebert, S., Bhattacharyya, P., and Dunn, C. W. (2015). The histology of Nanomia bijuga (Hydrozoa: Siphonophora). J. Exp. Zoology Part B: Mol. Dev. Evol. 324, 435–449. doi: 10.1002/jez.b.v324.5
+Cunningham, C. W., and Buss, L. W. (1993). Molecular evidence for multiple episodes of paedomorphosis in the family Hydractiniidae. Biochem. Systematics Ecol. 21, 57–69. doi: 10.1016/0305-1978(93)90009-G
+Darriba, D., Taboada, G. L., Doallo, R., and Posada, D. (2012). jModelTest 2: more models, new heuristics and parallel computing. Nat. Methods 9, 772–772. doi: 10.1038/nmeth.2109
+Delle Chiaje, S. (1841-1844). Descrizione e notomia degli animali invertebrati della Sicilia citeriore: osservati vivi negli anni 1822-1830 / da S. Delle Chiaje (Batelli, Naples).
+Dunn, C. W., Pugh, P. R., and Haddock, S. H. D. (2005). Molecular phylogenetics of the siphonophora (Cnidaria), with implications for the evolution of functional specialization. Systematic Biol. 54, 916–935. doi: 10.1080/10635150500354837
+Dunn, C. W., and Wagner, G. P. (2006). The evolution of colony-level development in the Siphonophora (Cnidaria:Hydrozoa). Dev. Genes Evol. 216, 743–754. doi: 10.1007/s00427-006-0101-8
+Edgar, R. C. (2004). MUSCLE: multiple sequence alignment with high accuracy and high throughput. Nucleic Acids Res. 32, 1792–1797. doi: 10.1093/nar/gkh340
+Edwards, M., John, A. W. G., Hunt, H. G., and Lindley, J. A. (1999). Exceptional influx of oceanic species into the North Sea late 1997. J. Mar. Biol. Assoc. UK 79, 737–739. doi: 10.1017/S0025315498000885
+Fewkes, J. W. (1888). On certain medusae from New England. Bull. Museum Comp. Zoology at Harvard Coll. 13, 209–240.
+Folmer, O., Black, M., Hoeh, W., Lutz, R., and Vrijenhoek, R. (1994). DNA primers for amplification of mitochondrial cytochrome c oxidase subunit I from diverse metazoan invertebrates. Mol. Mar. Biol. Biotechnol. 3, 294–299.
+Fosså, J. H., Flood, P. R., Olsen, A. B., and Jensen, F. (2003). Små og usynlige, men plagsomme maneter av arten Muggiaea atlantica. Fisken og havet særnummer 2, 99–103.
+Freeman, G. (1987). Localization of bioluminescence in the siphonophore Nanomia cara. Mar. Biol. 93, 535–541. doi: 10.1007/BF00392791
+Grossmann, M. M., Collins, A. G., and Lindsay, D. J. (2014). Description of the eudoxid stages of Lensia havock and Lensia leloupi (Cnidaria: Siphonophora: Calycophorae), with a review of all known Lensia eudoxid bracts. Systematics Biodiversity 12, 163–180. doi: 10.1080/14772000.2014.902867
+Grossmann, M. M., Lindsay, D. J., and Collins, A. G. (2013). The end of an enigmatic taxon: Eudoxia macra is the eudoxid stage of Lensia cossack (Siphonophora, Cnidaria). Systematics Biodiversity 11, 381–387. doi: 10.1080/14772000.2013.825658
+Haberlin, D., Mapstone, G., McAllen, R., McEvoy, A. J., and Doyle, T. K. (2016). Diversity and occurrence of siphonophores in Irish coastal waters. Biol. Environment: Proc. R. Irish Acad. 116B, 119–129. doi: 10.1353/bae.2016.0016
+Haberlin, D., Raine, R., McAllen, R., and Doyle, T. K. (2019). Distinct gelatinous zooplankton communities across a dynamic shelf sea. Limnology Oceanography 64, 1802–1818. doi: 10.1002/lno.11152
+Hernández-Triana, L. M., Prosser, S. W., Rodríguez-Perez, M. A., Chaverri, L. G., Hebert, P. D., and Gregory, T. R. (2014). Recovery of DNA barcodes from blackfly
+
+Frontiers in Marine Science	20	frontiersin.org
+
+[NOTE: Layout of this page, transcribed in this order: a two-column block of body matter at the head (left column carrying the tail of the Funding statement and the Acknowledgments, right column carrying Conflict of interest, Publisher's note and Supplementary material), then the "References" heading, then the reference list, itself set in two columns in smaller type — the whole left reference column is given first, then the whole right column. The first paragraph continues the grant number broken across the page boundary at the foot of page 19 ("2019/32/T/" / "NZ8/00130").
+
+Reference-list entries are one per line in printed order, with no blank line between them, as the protocol asks; within an entry the printed line breaks are joined. Word-division hyphens have been removed where a word was broken across a printed line, but hyphens internal to DOIs, grant numbers and hyphenated names are kept. The last entry is incomplete, breaking at "from blackfly" and continuing on page 21.
+
+Presentation ligatures (fi, fl, ff) are transcribed as the ordinary letter sequences; the "æ" of "Medusæ" is a real orthographic ligature and is kept. En dashes are printed in page ranges ("1–234", "79–85"), while hyphens are printed in date and volume spans such as "1899-1900", "1841-1844", "1822-1830" and "1889-1901"; both are given as printed. Diacritics as printed: "Garić", "Zoölogy", "Alvariño", "Båmstedt", "Fosså", "Pagès", "Små", "særnummer", "Hernández-Triana", "Rodríguez-Perez". "Publisher’s note" carries a printed right single quotation mark. The Supplementary material URL is broken across two printed lines after "1421514/" with no hyphen and is joined here. In the Browne et al. (1898) entry an unmatched closing parenthesis is printed after "1889-1901", as printed. The section headings "Acknowledgments", "Conflict of interest", "Publisher's note", "Supplementary material" and "References" are printed larger and in the journal's blue. Running head and running foot elements are separated by tabs.]
+
+<<<PAGE pdf=21 file=page_021.txt>>>
+[PAGE 21]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+museum specimens (Diptera: Simuliidae) using primer sets that target a variety of sequence lengths. Mol. Ecol. Resour. 14, 508–518. doi: 10.1111/1755-0998.12208
+Hosia, A., and Båmstedt, U. (2008). Seasonal abundance and vertical distribution of siphonophores in western Norwegian fjords. J. Plankton Res. 30, 951–962. doi: 10.1093/plankt/fbn045
+Johnson, S. B., Winnikoff, J. R., Schultz, D. T., Christianson, L. M., Patry, W. L., Mills, C. E., et al. (2022). Speciation of pelagic zooplankton: Invisible boundaries can drive isolation of oceanic ctenophores. Front. Genet. 13. doi: 10.3389/fgene.2022.970314
+Kawamura, T. (1911). “Shidarezakura Kurage” and “Nagayoraku Kurage” Cupulita picta Metschnikoff and Agalmopsis elegans Sars. Dobutz Z Tokyo 23, 359–363.
+Kearse, M., Moir, R., Wilson, A., Stones-Havas, S., Cheung, M., Sturrock, S., et al. (2012). Geneious Basic: an integrated and extendable desktop software platform for the organization and analysis of sequence data. Bioinformatics 28, 1647–1649. doi: 10.1093/bioinformatics/bts199
+Kirkpatrick, P. A., and Pugh, P. R. (1984). Siphonophores and velellids. Synopsis Br. Fauna (New Series) 29, 1–154. doi: 10.1163/9789004627550
+Knutsen, T., Hosia, A., Falkenhaug, T., Skern-Mauritzen, R., Wiebe, P. H., Larsen, R. B., et al. (2018). Coincident mass occurrence of gelatinous zooplankton in northern norway. Front. Mar. Sci. 5. doi: 10.3389/fmars.2018.00158
+Kumar, S., Stecher, G., Li, M., Knyaz, C., and Tamura, K. (2018). MEGA X: Molecular evolutionary genetics analysis across computing platforms. Mol. Biol. Evol. 35, 1547–1549. doi: 10.1093/molbev/msy096
+Lindsay, D. J., Grossmann, M. M., and Nishikawa, J. U. N. (2015). DNA barcoding of pelagic cnidarians: current status and future prospects. Bull. Plankton Soc. Japan 62, 39–43. doi: 10.24763/bpsj.62.1_39
+Lo, W.-T., Yu, S.-F., and Hsieh, H.-Y. (2013). Effects of summer mesoscale hydrographic features on epipelagic siphonophore assemblages in the surrounding waters of Taiwan, western North Pacific Ocean. J. Oceanography 69, 495–509. doi: 10.1007/s10872-013-0188-2
+Mackie, G. O. (1963). “Siphonophores, bud-colonies and superorganisms,” in The Lower Metazoa; Comparative Biology and Phylogeny. Ed. E. Dougherty (University of California Press, Berkeley), 329–337.
+Mackie, G. O. (1964). Analysis of locomotion in a siphonophore colony. Proc. R. Soc. London Ser. B Biol. Sci. 159, 366–391. doi: 10.1098/rspb.1964.0008
+Mackie, G. O. (1986). From aggregates to integrates: physiological aspects of modularity in colonial animals. Philos. Trans. R. Soc. London B Biol. Sci. 313, 175–196. doi: 10.1098/rstb.1986.0032
+Mackie, G. O. (2002). What’s new in cnidarian biology? Can. J. Zool. 80 (10), 1649–1653. doi: 10.1139/z02-138
+Mapstone, G. M. (2009). Siphonophora (Cnidaria, hydrozoa) of canadian pacific waters (Ottawa: NRC Research Press), 302.
+Mapstone, G. M. (2014). Global diversity and review of Siphonophorae (Cnidaria: Hydrozoa). PloS One 9, e87737. doi: 10.1371/journal.pone.0087737
+Mapstone, G. M., and Arai, M. N. (1992). “Abundance and vertical distribution of Siphonophores (Cnidaria) from the Central Strait of Georgia, British Columbia, during spring and summer,” in Contributions to Natural Science, vol. 15. (Royal British Columbia Museum, Victoria).
+Mills, C. E. (1995). Medusae, siphonophores, and ctenophores as planktivorous predators in changing global ecosystems. ICES J. Mar. Sci. 52, 575–581. doi: 10.1016/1054-3139(95)80072-7
+Munro, C., Siebert, S., Zapata, F., Howison, M., Damian-Serrano, A., Church, S. H., et al. (2018). Improved phylogenetic resolution within Siphonophora (Cnidaria) with implications for trait evolution. Mol. Phylogenet. Evol. 127, 823–833. doi: 10.1016/j.ympev.2018.06.030
+Norekian, T. P., and Meech, R. W. (2020). Structure and function of the nervous system in nectophores of the siphonophore Nanomia bijuga. J. Exp. Biol. 223, jeb233494. doi: 10.1242/jeb.233494
+Norris, R. D. (2000). Pelagic species diversity, biogeography, and evolution. Paleobiology 26, 236–258. doi: 10.1666/0094-8373(2000)26[236:PSDBAE]2.0.CO;2
+Ortman, B. D., Bucklin, A., Pages, F., and Youngbluth, M. (2010). DNA barcoding the Medusozoa using mtCOI. Deep-Sea Res. Part II-Topical Stud. Oceanography 57, 2148–2156. doi: 10.1016/j.dsr2.2010.09.017
+Pagès, F., and Gili, J.-M. (1992). Medusae (Hydrozoa, scyphozoa, cubozoa) of the benguela current (southeastern atlantic). Scientia Marina 56, 1–64.
+Panasiuk, A., Jażdżewska, A., Słomska, A., Irzycka, M., and Wawrzynek, J. (2019). Genetic identity of two physonect siphonophores from Southern Ocean waters – the enigmatic taxon Mica micula and Pyrostephos vanhoeffeni. J. Mar. Biol. Assoc. United Kingdom 99, 303–310. doi: 10.1017/S0025315418000218
+Park, N., and Lee, W. (2022). Eight new records ofsSiphonophores (Cnidaria: Hydrozoa) in korean waters. Diversity 4, 494. doi: 10.3390/d14060494
+Pontin, D. R., and Cruickshank, R. H. (2012). Molecular phylogenetics of the genus Physalia (Cnidaria: Siphonophora) in New Zealand coastal waters reveals cryptic diversity. Hydrobiologia 686, 91–105. doi: 10.1007/s10750-011-0994-8
+Pugh, P. R. (1999). “Siphonophorae,” in South Atlantic Zooplankton, vol. 1 . Ed. D. Boltovskoy (Backhuys Publishers, Leiden), 467–511, ISBN: .
+Puillandre, N., Brouillet, S., and Achaz, G. (2021). ASAP: assemble species by automatic partitioning. Mol. Ecol. Resour. 21, 609–620. doi: 10.1111/1755-0998.13281
+Quoy, J. R. C., and Gaimard, J. P. (1824). Voyage autour du monde, entrepris par ordre du roi. Exécuté sur les corvettes de S.M. l'Uranie et la Physicienne, pendant les années 1817, 1818, 1819 et 1820. Zoologie. Parte 2 et Atlas. (Chez Pillet, Paris). doi: 10.5962/bhl.title.152367
+Rogers, C. A., Biggs, D. C., and Cooper, R. A. (1978). Aggregations of the siphonophore Nanomia cara in the Gulf of Maine: Observations from a submersible. Fishery Bull. 76, 281–284.
+Ronquist, F., Teslenko, M., van der Mark, P., Ayres, D. L., Darling, A., Höhna, S., et al. (2012). MrBayes 3.2: efficient Bayesian phylogenetic inference and model choice across a large model space. Syst. Biol. 61, 539–542. doi: 10.1093/sysbio/sys029
+Sars, M. (1846). Fauna Littoralis Norvegiae Vol. 1 (Johann Dahl, Christiania).
+Schuchert, P. (2024). World Hydrozoa Database. Available online at: https://www.marinespecies.org/hydrozoa. (Accessed September 29, 2024).
+Siebert, S., Goetz, F. E., Church, S. H., Bhattacharyya, P., Zapata, F., Haddock, S. H. D., et al. (2015). Stem cells in Nanomia bijuga (Siphonophora), a colonial animal with localized growth zones. EvoDevo 6, 22. doi: 10.1186/s13227-015-0018-2
+Siebert, S., Robinson, M. D., Tintori, S. C., Goetz, F., Helm, R. R., Smith, S. A., et al. (2011). Differential gene expression in the siphonophore Nanomia bijuga (Cnidaria) assessed with multiple next-generation sequencing workflows. PloS One 6, e22953. doi: 10.1371/journal.pone.0022953
+Spencer, A. N. (1971). Myoid conduction in the siphonophore Nanomia bijuga. Nature 233, 490–491. doi: 10.1038/233490a0
+Stamatakis, A. (2014). RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies. Bioinformatics 30, 1312–1313. doi: 10.1093/bioinformatics/btu033
+Sutherland, K. R., Gemmell, B. J., Colin, S. P., and Costello, J. H. (2019). Maneuvering performance in the colonial siphonophore, Nanomia bijuga. Biomimetics 4, 62. doi: 10.3390/biomimetics4030062
+Totton, A. K. (1954). Siphonophora of the Indian Ocean together with systematic and biological notes on related specimens from other oceans. Discovery Rep. 27, 1–162.
+Totton, A. K. (1965). A synopsis of the Siphonophora (London: Trustees of the British Museum (Natural History).
+Zhang, J., Kapli, P., Pavlidis, P., and Stamatakis, A. (2013). A general species delimitation method with applications to phylogenetic placements. Bioinformatics 29, 2869–2876. doi: 10.1093/bioinformatics/btt499
+Zheng, L., He, J., Lin, Y., Cao, W., and Zhang, W. (2014). 16S rRNA is a better choice than COI for DNA barcoding hydrozoans in the coastal waters of china. Acta Oceanologica Sin. 33, 55–76. doi: 10.1007/s13131-014-0415-8
+
+Frontiers in Marine Science	21	frontiersin.org
+
+[NOTE: Final page of the article: the reference list continues in two columns of small type, occupying roughly the upper two thirds of the page, with the lower third blank. The whole left column is transcribed first, then the whole right column. The first entry is the tail of the Hernández-Triana et al. (2014) reference begun at the foot of page 20. One entry per line in printed order, no blank line between entries; printed line breaks within an entry are joined and word-division hyphens removed, while hyphens internal to DOIs, hyphenated names and compound words are kept.
+
+Presentation ligatures (fi, fl, ff) are transcribed as the ordinary letter sequences. Diacritics as printed: "Båmstedt", "Pagès", "Jażdżewska", "Słomska", "Höhna", "Exécuté", "années". Curly double quotation marks are printed around the quoted chapter and article titles ("Shidarezakura Kurage", "Nagayoraku Kurage", "Siphonophores, bud-colonies and superorganisms,", "Abundance and vertical distribution of Siphonophores...", "Siphonophorae,"); "What’s" carries a printed right single quotation mark, but "l'Uranie" in the Quoy and Gaimard entry is printed with a straight vertical apostrophe and is given as such.
+
+Printed oddities kept as printed: "records ofsSiphonophores" in Park and Lee (2022); "vol. 1 ." with a space before the point and "ISBN: ." with nothing after the colon in Pugh (1999); the unclosed parenthesis in "(London: Trustees of the British Museum (Natural History)." in Totton (1965); the lower-case "norway", "korean", "china", "canadian pacific", "benguela", "cnidaria", "scyphozoa", "cubozoa", "atlantic", "hydrozoa" and "mediterranean" in several titles; "Dobutz Z Tokyo" without points. En dashes are printed in page ranges; "Deep-Sea Res. Part II-Topical Stud." uses hyphens as printed. Running head and running foot elements are separated by tabs.]

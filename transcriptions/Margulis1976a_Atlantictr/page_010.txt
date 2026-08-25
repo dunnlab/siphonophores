@@ -1,0 +1,14 @@
+[PAGE 3]
+
+[NOTE: English typescript. The figure and its caption are a raster scan pasted into the file, not live text: the caption is in a typewriter face, and inside it the two Cyrillic panel letters Б and Г have been drawn or pasted in by hand in a heavier, non-matching stroke, each followed by a space before its colon. The "%" of "50%" is likewise in a different, proportional face from the surrounding typewriting. The running text at the foot of the page is born-digital.]
+
+[FIGURE]
+FIG. 2.  DISTRIBUTION OF TROPICAL SPECIES:
+A: widespread tropical species with extensive migration areas; Б : northern-central-equatorial; B: tropical, neritic and widespread tropical; Г : widespread tropical species with small migration areas;  1: habitat boundaries of widespread tropical species;  2: boundaries of habitats of tropical neritic species; 3: line beyond which no species were encountered; 4: boundary of 50% of species;  5: area in which all species encountered.
+[/FIGURE]
+
+[NOTE: the figure is a rescan of Рис. 2 of the Russian original (this document's p. 4) — four Atlantic maps in two rows inside a heavy frame. Each panel is lettered at its lower left in a cartographic italic: А (upper left; the italic form has a bowl and a kicking leg and can be mistaken for Я), Б (upper right), В (lower left), Г (lower right). Graticule lettering, all numerals: 60° and 0° along the top edge of each upper panel and along the bottom edge of each lower panel; latitude labels 60° 40° 20° 0° 20° 40° 60° down the outer and inner edges of every panel. A key strip between the two rows holds five boxed symbol swatches numbered in italic 1 2 3 4 5, left to right; the swatches carry no words.]
+
+these latter species is not so much the temperature as other characteristics of the waters of the Benguela Current – most probably their high productivity (fig. 2, B).
+
+Widely spread tropical species are known with a habitat base in the northern subtropical zone but which also inhabit the Mediterranean where there may be an

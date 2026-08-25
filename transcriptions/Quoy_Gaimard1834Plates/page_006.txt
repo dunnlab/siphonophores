@@ -1,0 +1,93 @@
+[PAGE 6: unnumbered]
+
+[NOTE: plate-only page; coarse bilevel (1-bit) CCITT scan at about 300 dpi, the
+native resolution of the source image. The engraved figure numerals are five to
+eight pixels tall; most were resolved at magnification, a few could not be and are
+flagged. The locality parentheticals of the legend are set in a minuscule
+small-capital fount and are only partly readable.]
+
+[RUNNING HEAD] Voyage de l'Astrolabe. – ZOOLOGIE.
+
+[RUNNING HEAD] ZOOPHYTES. – Pl. 5.
+
+[PLATE]
+ZOOPHYTES. – Pl. 5.
+
+Engraved figure numbers, in reading order (successive bands down the sheet, left
+to right within each band):
+
+6
+5
+4
+2
+3
+8
+7
+11
+10
+9
+13
+12
+15
+16
+14
+17
+18
+19
+20
+22
+23
+21
+24
+26
+25
+27
+28
+29
+30
+31
+32
+33
+36
+34
+35
+37
+38
+
+[NOTE: no numeral 1 could be found on the sheet. The star-shaped figure at the far
+left of the top band, which by the legend's first range (1–6) ought to be figure
+1, carries no legible numeral above it; the space is blank in this scan.]
+
+[?Quoy ad vivum pinx.] [NOTE: draughtsman's credit in fine engraved script at
+lower left; three word-shapes plus an abbreviation, individual letters not
+resolvable]
+
+[?Fournier sc.] [NOTE: engraver's credit in engraved script at lower right; the
+terminal "sc." is clear, the name is about eight letters]
+
+1	6	Diphye ennéagone.	[?(Dét. de Gibraltar)]
+7	11	Diphye cuboïde.	[?(Dét. de Gibraltar)]
+12	17	Diphye nacelle.	[?(Dét. de Gibraltar)]
+18	20	Diphye nacelle, var.	[illegible]
+
+21	23	Diphye tronquée.	[?(Océan Atlantique)]
+24		Diphye hispide.	[?(Océan Atlantique)]
+25	26	Diphye tétragone.	[?(Océan Atlantique)]
+27	(29)	Diphye à 3 dents	[?(Océan Atlantique)]
+
+34	36	Diphye douteuse.	[?(Nouv.-Hollande)]
+37	38	Diphye de Praga.	[?(Iles du Cap Vert)]
+30	31	Galéolaire austral.	[?(Océan Indien)]
+32	33	Galéolaire à 4 dents.	[?(Océan Indien)]
+
+[NOTE: the legend is set in three columns of four lines each and is transcribed
+above column by column, left column first. In the second column the fourth line
+reads "27" followed by "(29)" in parentheses, and a ring has been drawn round the
+parenthesised number by hand in ink or pencil; the two digits inside read 29 but
+are partly obscured by the ring. "Diphye à 3 dents" has no full stop after
+"dents". A small handwritten mark also stands just below "30" in the third
+column. No brace or italic "N." appears in this legend.]
+
+[?J. Tastu édit.] [NOTE: minute type at the lower left corner of the sheet, below
+the legend]
+[/PLATE]

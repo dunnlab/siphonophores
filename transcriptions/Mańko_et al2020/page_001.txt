@@ -1,0 +1,60 @@
+[PAGE 1: unnumbered]
+
+[NOTE: born-digital Elsevier opening page. It carries no printed folio — this
+journal paginates by article number, and the head line "Progress in Oceanography
+189 (2020) 102414" gives volume, year and article number rather than a page
+number. No printed square brackets occur anywhere on the page.]
+
+[RUNNING HEAD] Progress in Oceanography 189 (2020) 102414
+
+[FIGURE]
+Contents lists available at ScienceDirect
+
+Progress in Oceanography
+
+journal homepage: www.elsevier.com/locate/pocean
+[/FIGURE]
+
+[NOTE: the masthead band is flanked at left by the ELSEVIER publisher logo
+(printed word "ELSEVIER") and at right by a thumbnail of the
+journal cover; the only cover lettering legible at 300 dpi is the title
+"PROGRESS IN OCEANOGRAPHY". Remaining cover text is [illegible] at this
+resolution.]
+
+Footprints of Atlantification in the vertical distribution and diversity of gelatinous zooplankton in the Fram Strait (Arctic Ocean)
+
+[FIGURE]
+Check for updates
+[/FIGURE]
+
+Maciej K. Mańko^a,*, Marta Gluchowska^b, Agata Weydmann-Zwolicka^a
+
+^a University of Gdańsk, Institute of Oceanography, Department of Marine Plankton Research, Piłsudskiego Av. 46, 81-378 Gdynia, Poland
+^b Institute of Oceanology Polish Academy of Science, Department of Marine Ecology, Powstańców Warszawy 55, 81-712 Sopot, Poland
+
+A R T I C L E   I N F O
+
+Keywords:
+Jellyfish
+Ctenophores
+Atlantification
+Climate change
+Arctic
+
+A B S T R A C T
+
+Gelatinous zooplankton (GZ), here understood as pelagic cnidarians and ctenophores, are an important component of marine ecosystems. Their diversity and distribution reflect local hydrological settings especially well, thus allowing the development of biotic indices for studying climate-mediated changes in the world’s oceans. The effects of global warming are most pronounced in the Arctic Ocean and have been further accelerated by the strengthening inflow of relatively warm Atlantic waters (AtW) via the Fram Strait, referred to as Atlantification. Here, we use the GZ distribution to describe the current state of Atlantic water inflow into the Arctic Ocean and to discuss the future of this fragile ecosystem. For this purpose, we characterized the abundance, diversity, and demography of the GZ identified from vertically stratified samples (down to 1000 m) collected in the Fram Strait along two latitudinally parallel transects of varying influence of AtW. Overall, we identified 17 taxa, with Aglantha digitale, Dimophyes arctica and Mertensia ovum being the most abundant. We then contrasted our jellyfish and ctenophore data with both biotic and environmental ecosystem characteristics and analysed the associations between the GZ community and water mass distribution. We showed that the more abundant GZ community was found along the southern transect; that the sampling depth and bathymetric zone played the most important roles in structuring the GZ diversity; that water mass distribution affected GZ demography; and that AtW was dominated by A. digitale, that constituted 66% of the total GZ abundance. Our results, although temporarily limited, suggest that the Atlantification will promote the expansion of boreal species into the Arctic, and could lead to a less diverse, but more abundant GZ community in the future. In addition, we compare in detail the GZ community found in different water masses, at different depths, and in different bathymetric zones, and supported with literature data, discuss the future of the European Arctic under the scenario of increasing inflow of Atlantic water.
+
+1. Introduction
+
+Pelagic cnidarians and ctenophores, here referred to as gelatinous zooplankton (GZ), are integral components of marine food webs (Hays et al., 2018) and are equally important for the functioning of shallow and deep pelagic food webs (e.g., Choy et al., 2017). GZ themselves are versatile predators that feed on prey ranging from protists to fish (Purcell, 1997; Colin et al., 2005); despite their low energy density, they also constitute a food source of choice for a diverse array of predators (Hays et al., 2018). Jellyfish and ctenophores are also able to rapidly increase their population size in response to favourable environmental conditions and have been hypothesized to do so in response to anthropogenic stressors (Richardson et al., 2009; Duarte et al., 2013), periodically forming large population outbreaks, which are collectively referred to as jellyfish blooms (Mills, 2001). The notion of a globally increasing frequency of jellyfish blooms has been explored on numerous occasions (Condon et al., 2012), but it remains unsupported by robust global data. Instead, this phenomenon has been attributed to natural oscillations (Brodeur et al., 2008; Condon et al., 2013) or locally variable reporting efforts (Brotz et al., 2012) within certain oceanic regions, such as the polar seas (e.g., Pagès, 1997), which suffer from undersampling and a lack of long-term data sets.
+
+Data on the distribution of GZ taxa oftentimes comes from the fishery bycatch reporting (e.g., Decker et al. 2018), but this applies solely to larger scyphozoan jellyfish. Difficulties in the sampling of smaller and often more fragile taxa, like some hydromedusae, siphonophores and most notably ctenophores, which tend to disintegrate in plankton net samples when handled harshly (e.g., Raskoff et al., 2010),
+
+[FOOTNOTE] * Corresponding author.
+E-mail address: maciej.manko@ug.edu.pl (M.K. Mańko).
+
+https://doi.org/10.1016/j.pocean.2020.102414
+Received 27 August 2019; Received in revised form 28 June 2020; Accepted 31 July 2020
+Available online 07 August 2020
+0079-6611/ © 2020 Elsevier Ltd. All rights reserved.

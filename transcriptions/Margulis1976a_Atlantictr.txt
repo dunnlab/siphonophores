@@ -1,0 +1,258 @@
+<<<PAGE pdf=1 file=page_001.txt>>>
+[PAGE 70]
+
+[NOTE: Russian original; text in Cyrillic. Poor photocopy — a number of words are over-inked or smudged (notably «этого», «выселения», «субполярном», «неопределенно», «населяют», «имеет»), but all are legible. The printed folio 70 stands at the foot of the page.]
+
+[RUNNING HEAD] ТОМ CX	Труды Всесоюзного научно-исследовательского института морского рыбного хозяйства и океанографии (ВНИРО)	1976
+
+[NOTE: the head of the page is a masthead panel divided by vertical rules into three cells — volume at left, journal title in italic at centre (three lines), year at right — transcribed above as one tab-separated line. "CX" is the Roman numeral 110 and is given here in Latin codepoints, though the printed glyphs are homoglyphic with Cyrillic С Х.]
+
+593.72(261)
+
+РАСПРОСТРАНЕНИЕ СИФОНОФОР В АТЛАНТИЧЕСКОМ ОКЕАНЕ
+
+Р. Я. Маргулис
+
+Сифонофоры Атлантического океана хорошо изучены на основании сборов многих экспедиций разными авторами (Маргулис, 1972). Кроме того, за последние 10 лет собраны значительные коллекции планктона во время рейсов НИС «Петр Лебедев» на 19 полигонах от южной части Норвежского моря до 43° ю. ш. (Маргулис, 1969, 1971, 1972б).
+
+Для 70 видов сифонофор составлены сводные карты мест нахождений в океане, которые позволяют достаточно обоснованно судить о распространении каждого вида: установить границы ареалов, определить их типы и рассмотреть возможные причины, определяющие тот или иной тип ареала с точки зрения динамической биогеографии.
+
+Функциональная структура ареала пелагических организмов по современным представлениям (Парин, 1968; [?Беклемишез], 1969) [NOTE: the final letter of that surname is printed as a з-like glyph with no left bowl; it is very probably a badly inked в] состоит из основы ареала — достаточно устойчивой циркуляции, где вид может существовать неопределенно долго, независимо от того, обитает он в других районах океана или нет; области размножения — части ареала, где размножение вида обеспечивает существование популяции без заноса особей из других частей ареала, если популяция не сносится течением. Основа ареала входит в область размножения. За пределами основы ареала находится нестерильная область выселения, где популяция может существовать только благодаря поступлению особей из основы, поскольку существует постоянный перенос особей в одном направлении. В стерильной области выселения особи не могут совершить полный жизненный цикл. Для распространения планктонных животных большое значение имеет степень водообмена между водными массами в разных частях океана.
+
+Сифонофоры населяют все климатические зоны океана. В северной части Атлантического океана один вид (Marrus orthocanna) является арктическим. Основа ареала этого вида может находиться в Полярном бассейне, а области выселения — в Баренцевом море и Северо-Восточной Атлантике (рис. 1, 1). Основы ареала вида Nanomia cara находятся в северном субполярном круговороте вод и, возможно, в водах склона области выселения — в Северо-Атлантическом течении (рис. 1, 4). В южном полушарии два вида (Diphyes antarctica и Pyrostephos vanhöffeni) имеют антарктический ареал, основа которого находится в течении Западных Ветров (рис. 1, 2). Кроме того, два вида сифонофор (Marrus antarcticus и Muggiaea bargmannae) имеют биполярное распространение. В южном полушарии основа ареала нахо-
+
+70
+
+<<<PAGE pdf=2 file=page_002.txt>>>
+[PAGE 2: unnumbered]
+
+[NOTE: broadside (landscape) plate — the leaf carries a full-page world map printed sideways relative to the rest of the article. In this PDF the page is itself landscape (744.96 × 490.32 pt, where the text pages are portrait), so the map and its caption already read upright as rendered; transcribed in that orientation. No printed folio on the page.]
+
+[NOTE: in the left margin, rotated 90° clockwise relative to the map (i.e. upright for the portrait orientation of the leaf), stands the printer's signature mark 6** — a figure 6 followed by two small solid marks. Read as [?6**].]
+
+[FIGURE]
+Рис. 1. Границы ареалов видов сифонофор:
+1 — арктических; 2 — антарктических; 3 — биполярных; 4 — бореальных; 5 — дальне-неритических.
+[/FIGURE]
+
+[NOTE: lettering inside the map frame, all of it numerals. Graticule labels along the top edge, left to right: 180°  90°  0°  90°  180°  90°. Along the bottom edge, left to right: 180°  90°  0°  90°  120°  90°  0° — the fifth of these is badly worn here, but the same map is rescanned at p. 8 of this document where it reads clearly 120°, against 180° in the corresponding position of the top row. Latitude labels at the left edge, top to bottom: 60°  30°  0°  30°  60°; the same five at the right edge; 60° also appears at each of the four corners of the frame. A key box in the upper right of the map holds five boxed symbol swatches numbered in italic 1, 2, 3, 4, 5 (1 and 2 in the left column, 3 and 4 in the middle, 5 at the right); the swatches themselves carry no words.]
+
+<<<PAGE pdf=3 file=page_003.txt>>>
+[PAGE 72]
+
+[NOTE: Russian original; text in Cyrillic. Poor photocopy with scattered specks and grey mottling in the lower half of the page and in the margins; several words are over-inked but legible. The page opens mid-word, continuing «нахо-» from p. 70. Panel letters of the figures (А, В, Г) are set in italic and are read here as Cyrillic. The printed folio 72 stands at the foot of the page.]
+
+дится в течении Западных Ветров, а в северном — в Западном круговороте субполярных вод в Тихом океане и в Полярном бассейне (рис. 1, 3). Структура ареалов перечисленных видов позволяет считать их эндемиками полярных (M. orthocanna) и субполярных вод (N. cara, D. antarctica, P. vanhöffeni, M. antarcticus, M. bargmannae). Установить группы эндемиков полярных и субполярных вод важно потому, что в субполярные районы океана часто заносятся тропические виды; вопрос о том, какие виды считать эндемиками этих районов, неоднократно обсуждался в литературе (Bigelow, 1911; Moser, 1913, 1920; Kramp, 1942).
+
+Большинство сифонофор—тропические виды, но распространены в тропических водах Атлантического океана не одинаково, по-видимому, из-за разного отношения к факторам среды.
+
+Тропические сифонофоры имеют в основном широко-тропическое распространение. Основы ареалов широко-тропических видов находятся в обеих Центральных водных массах (в тропических и субтропических круговоротах). Большое число видов с широко-тропическим распространением отражает скорее всего тот факт, что в пределах тропических вод отсутствуют резкие гидрологические границы. В областях выселения широко-тропических видов обнаруживается их разное отношение к факторам окружающей среды. Некоторые из них почти не встречаются за пределами субтропических круговоротов на севере и на юге и имеют очень малые области выселения (рис. 2, Г). Другая группа широко-тропических видов имеет обширные области выселения в обоих полушариях (рис. 2, А). Границы их ареалов проходят в разных частях переходной зоны, где происходит значительная трансформация тропической воды. Положение границ ареалов в таких районах, вероятно, обусловлено абсолютным значением какого-то гидрологического фактора. Можно предположить, что распространение некоторых широко-тропических видов сифонофор в областях выселения зависит от температуры воды, поскольку границы ареалов повторяют ход некоторых изотерм (рис. 2, В).
+
+На южной периферии южного субтропического круговорота число видов сифонофор быстро убывает (см. положение границы распространения 50% видов на рис. 2, А, В). Это было отмечено Лелю и Гентшелем (Leloup & Hentschel, 1935), изучавшими распределение некоторых видов каликофор в 200-метровом слое. Вероятнее всего, что в этом эвтрофном районе распространение тропических сифонофор ограничено низкой температурой.
+
+Влияние отдельных факторов на распространение сифонофор удобно рассмотреть на примере юго-западного побережья Африки. Границы ареалов большинства широко-тропических видов в этом районе поворачивают на север под влиянием холодных вод Бенгельского течения, а нескольких видов — отклоняются к югу. По-видимому, для этих видов важна не столько температура, сколько другие характеристики вод Бенгельского течения, скорее всего их высокая продуктивность (рис. 2, В).
+
+Известны широко-тропические виды с основой ареала в северном субтропическом круговороте, которые обитают в Средиземном море, где также может находиться их независимая популяция. Колонии некоторых из них не выселяются за пределы субтропического круговорота, вероятно, не выдерживая изменения североатлантической воды. Из Средиземного моря колонии этих же видов выносятся на север до Англии и Фарерских островов, приспособившись к значительной трансформации средиземноморской воды. По-видимому, в разном отношении
+
+72
+
+<<<PAGE pdf=4 file=page_004.txt>>>
+[PAGE 4: unnumbered]
+
+[NOTE: Russian original; full-page figure with caption, no running text. No printed folio anywhere on the page (folio 73 would fall here). Photocopy specks scattered over both margins.]
+
+[FIGURE]
+Рис. 2. Распространение тропических видов:
+А — широко-тропических с обширными областями выселения; Б — северо-центрально-экваториальных; В — тропических, неритических и широко-тропических; Г — широко-тропических с небольшими областями выселения. 1 — границы ареалов широко-тропических видов; 2 — границы ареалов тропических неритических видов; 3 — линия, за которой не встречено ни одного вида; 4 — граница 50% видов; 5 — площадь, на которой встречены все виды.
+[/FIGURE]
+
+[NOTE: the figure is a block of four Atlantic maps in two rows inside a heavy frame, each panel lettered in italic at its lower left: А (upper left), Б (upper right), В (lower left), Г (lower right). Graticule lettering, all numerals: along the top edge of each of the two upper panels 60° and 0°; along the bottom edge of each of the two lower panels 60° and 0°; latitude labels down the outer and inner edges of every panel, top to bottom, 60° 40° 20° 0° 20° 40° 60°. A key strip set between the two rows of maps holds five boxed symbol swatches numbered in italic 1 2 3 4 5, left to right; the swatches carry no words.]
+
+<<<PAGE pdf=5 file=page_005.txt>>>
+[PAGE 74]
+
+[NOTE: Russian original; text in Cyrillic. Photocopy specks in the margins; several words over-inked but legible. The page opens mid-sentence, continuing from p. 72. Figure panel letters (А, Б, В) are set in italic and read here as Cyrillic. The printed folio 74 stands at the foot of the page.]
+
+к изменению воды, в которой находится основа ареала, проявляется физиологическая разнокачественность популяции вида из разных районов океана.
+
+Среди тропических сифонофор Атлантического океана обнаружена группа видов, имеющих асимметричное распространение и заселяющих только один из гомологичных биотопов в тропических водах Атлантики, — Североатлантическую центральную водную массу. Это — северо-центрально-экваториальные виды (рис. 2, Б), основы ареалов которых могут находиться в северном субтропическом и в обоих тропических круговоротах. В районах южного субтропического круговорота находятся только области выселения. Возникновение таких ареалов, возможно, связано с асимметрией гидрологических процессов по отношению к экватору, т. е. с тем, что гидрологические границы сдвинуты к северу, а в северном полушарии гидрологические градиенты больше на западе (Sverdrup, 1942; Бурков, 1972). Области выселения северо-центрально-экваториальных видов в северном полушарии и широко-тропических видов сходны. В южном полушарии области выселения приходятся на районы, куда попадает вода из тропических круговоротов либо в результате обмена между тропическим и северной частью южного субтропического круговорота, либо с Бразильским течением и экваториальным противотечением.
+
+Распространение некоторых тропических сифонофор связано с прибрежной модификацией вод. Здесь обитают тропические неритические (рис. 2, В) и тропические дальне-неритические виды. Основы ареалов неритических видов могут находиться в прибрежных водах, а основы ареалов дальне-неритических видов — в нейтральных областях между тропическими и субтропическими круговоротами и в Карибском и Средиземном морях. Об областях выселения этих видов пока сведений мало.
+
+Для распространения части тропических сифонофор трофическая характеристика вод имеет бо́льшое значение, чем характеристика абиотических факторов среды. Наиболее продуктивные воды в тропических районах Атлантики заселены периферическими и экваториальными видами. Два вида сифонофор обитают на северной периферии северного субтропического круговорота и в экваториальной части пересекают океан (Abyla trigona, Amphicoryon acaule). На южной периферии южного субтропического круговорота, а также в наиболее продуктивных районах у побережья Африки обитает Lensia hardy (рис. 3, А). Основы ареалов периферических видов находятся в небольших круговоротах вод в районе Багамских островов (северные виды), у побережья Южной Америки и, возможно, у Юго-Западной Африки (южный вид); области выселения периферических видов охватывают всю периферию соответствующих круговоротов.
+
+Экваториальные сифонофоры имеют основы ареалов в одном или обоих тропических круговоротах. Атлантические экваториальные сифонофоры встречаются от берега до берега. Области выселения у этих видов более или менее обширны, но всегда приходятся на эвтрофные районы океана. Некоторые экваториальные сифонофоры встречаются даже у Юго-Западной Африки, где наблюдается подъем вод экваториального противотечения (рис. 4, Б).
+
+Описание космополитического ареала сифонофор на примере распространения Dimophyes arctica, по-видимому, говорит о том, что среди сифонофор имеется достаточно эврибионтный вид, живущий во всех биогеографических областях пелагиали. Однако на границах ареала в его северной и южной частях колонии D. arctica по-разному
+
+74
+
+<<<PAGE pdf=6 file=page_006.txt>>>
+[PAGE 75]
+
+[NOTE: Russian original; text in Cyrillic. Last page of the Russian article — running text, a figure, the conclusion and the reference list. The page opens mid-sentence, continuing from p. 74. In the reference list the surnames are letterspaced in the original (Б е к л е м и ш е в); the letterspacing is not reproduced here. Latin codepoints are used inside the binomials and in "0°C"; the Roman numerals XI, XII and I are also given in Latin codepoints. Figure panel letters (А, Б) are italic Cyrillic. The printed folio 75 stands at the foot of the page.]
+
+относятся к температуре: на севере (в Полярном бассейне) выбирают наиболее прогретую воду с температурой выше 0°C, а на юге (в Антарктике) — воду с температурой ниже 0°C. Это либо результат физиологической разнокачественности популяции D. arctica у северной и южной границ ареала, либо свидетельство того, что это не один вид.
+
+[FIGURE]
+Рис. 3. Границы ареалов периферических видов (А) и распространение экваториальных видов (Б):
+1 — Abyla trigona, 2 — Lensia hardy, 3 — Amphicaryon acaule, 4 — не встречен ни один вид, ——— граница 50% видов.
+[/FIGURE]
+
+[NOTE: Рис. 3 is a pair of Atlantic maps side by side in a heavy frame, lettered in italic at the lower left of each: А (left), Б (right). Graticule lettering, all numerals: 60° and 0° above and below each of the two panels; latitude labels 40° 20° 0° 20° 40° down the outer and inner edges. A key box in the lower right of panel Б holds four boxed symbol swatches numbered in italic 1 and 2 (left column), 3 and 4 (right column); the swatches carry no words. Note that the species names 1—3 of the caption are printed at the foot of the plate, on the same page as the maps.]
+
+Заключение
+
+Наиболее резкие гидрологические границы ареалов сифонофор в океане совпадают с границами распространения отдельных видов. Другими словами, распространение сифонофор связано с делением водной толщи на водные массы. В пределах водных масс распространение видов зависит от того, какой фактор внешней среды более важен для данного вида. Можно предположить, что распространение одних видов сифонофор ограничено температурой, других — трофической характеристикой вод.
+
+СПИСОК ИСПОЛЬЗОВАННОЙ ЛИТЕРАТУРЫ
+
+Беклемишев К. В. Экология и биогеография пелагиали. М., «Наука», 1969, 291 с.
+Бурков В. А. Общая циркуляция вод Тихого океана. М., «Наука», 1972, 194 с.
+Маргулис Р. Я. О распространении некоторых видов сифонофор подотряда Physophorae в Атлантическом океане. Вестник МГУ, 1969, № 2, с. 17—25.
+Маргулис Р. Я. Некоторые данные о распространении в Атлантическом океане сифонофор рода Lensia (подотряд Calycophorae) — «Океанология», 1971, том. XI, вып. I, с. 99—104.
+Маргулис Р. Я. Факторы, определяющие крупномасштабное распределение сифонофор подотрядов Physophorae и Calycophorae в Атлантическом океане. — «Океанология», том XII, вып. 3, с. 499—505.
+Маргулис Р. Я. Сифонофоры семейства Diphyidae. Некоторые данные о распространении в Атлантическом океане. — В кн.: Комплексные исследования океана, 1972 б, том 3, с. 212—228.
+Парин Н. В. Ихтиофауна океанской пелагиали. М., «Наука», 1968, 186 с.
+
+75
+
+<<<PAGE pdf=7 file=page_007.txt>>>
+[PAGE 7: unnumbered]
+
+[NOTE: last page of the Russian scan. It carries the tail of the reference list (the Latin-alphabet entries) and the English summary; the lower two-thirds of the page is blank apart from photocopy specks. No printed folio anywhere on the page (folio 76 would fall here). In the reference list the surnames are letterspaced in the original (B i g e l o w); the letterspacing is not reproduced here.]
+
+[NOTE: the printing is badly worn. Throughout this page the figure 8 often prints with its left bowls broken so that it resembles a capital S — read as 8 in "v. 38" and "1082 p."; the letter e in "The" (first line) has lost its crossbar and resembles a 3. Several evident misprints are kept as printed: "Leloup." with a full stop for a comma, "Jentschel" for Hentschel, "Sudatlantischen" for Südatlantischen, "Grnland" for Grønland, "Freude" for Freunde, "Prentics -Hall" for Prentice-Hall.]
+
+Bigelow, H. B. The Siphonophorae. Mem. Mus. Compar. Zool. Harvard Coll. 1911, v. 38. № 2, p. 171—401.
+Leloup. E., E. Jentschel. Die Verbreitung der Calycophoren Siphonophoren in Sudatlantischen Ocean. Wiss. Ergebn. Dtsch. Atl. Exp. „Meteor“, 1925—1927 Bd. XII, H. 2, 1935, p. 1—31.
+Moser, F. Zur geographischen Verbreitung der Siphonophoren nebst anderen Bemerkungen. Zool. Anz., vol. XLI, 1913, 145—149.
+Moser, F. Die nordischen Siphonophoren. Sitz. Ges. Natur. Freude, 1920, № 4—7, p. 162—172.
+Kramp, P. L. The Godthaab Expedition 1928. Siphonophorae. Meddel. Grnland 1942, vol. LXXX, № 8, p. 3—19.
+Sverdrup, H. U., M. W. Johnson, R. H. Fleming. The oceans, their physics, chemistry and general biology. Prentics -Hall, N. Y. 1942, 1082 p.
+
+ON REGULARITIES OF THE DISTRIBUTION OF SIPHONOPHORA IN THE ATLANTIC
+
+R. Ya. Margulis
+
+SUMMARY
+
+The habitats and the functional structure of large habitats of 70 species of siphonophora in the Atlantic are described. It is shown that the most marked hydrological boundaries in the ocean are also habitat borders of some species. The species are not uniformly distributed within the water mass. The distribution depends on some or other environmental factor which is most important for the species. It is very likely that the distribution of some species of siphonophora is confined by temperature whereas that of others is dependent upon the trophic characteristics of waters.
+
+<<<PAGE pdf=8 file=page_008.txt>>>
+[PAGE 8: unnumbered]
+
+[NOTE: English typescript begins here]
+
+[NOTE: from this page to the end of the document the text is a clean born-digital English translation (A4 pages, Times-like proportional type, no printed folios). The figure and its caption, by contrast, are a raster scan pasted into the file: the caption is set in a typewriter face and is not live text, and it is transcribed below as printed inside the [FIGURE] block. The bibliographic head-note and the running text are the translator's, not the 1976 original's.]
+
+Margulis, R.Ya. 1976.
+
+On regularities of the distribution of siphonophores in the Atlantic.
+
+Trudy Vsesoyuznogo Nauchno-Issledovatel'skogo
+Instituta Rybnogo Khozyaistva i Oceanografii, 110 70-76.
+
+Detailed studies of siphonophores in the Atlantic have been made by various writers based on samples collected during many expeditions (Margulis, 1972). Further, over the last ten years, significant collections of plankton have been gathered together during cruises by the RS Pyotr Lebedev at 19 sites ranging from the southern parts of the Norwegian Sea to 43°S (Margulis, 1968, 1971, 1972b).
+
+Maps summarising the locations of finds for 70 species of siphonophores have been compiled for the Atlantic providing a sound base for fixing the distribution of each species, namely: establishing the habitat boundaries, their types, and examining the possible reasons determining this or that type of habitat from the point of view of dynamic biogeography.
+
+[FIGURE]
+FIG. 1.  BOUNDARIES OF HABITATS OF SPECIES OF SIPHONOPHORES.
+1: arctic; 2: antarctic;  3: bipolar;  4: boreal;  5: distant-neritic.
+[/FIGURE]
+
+[NOTE: the figure is a rescan of Рис. 1 of the Russian original (this document's p. 2), the same world map on the same graticule. Lettering inside the frame, all numerals: along the top edge, left to right, 180°  90°  0°  90°  180°  90°, with 60° at each upper corner; along the bottom edge, left to right, 180°  90°  0°  90°  120°  90°  0°, with 60° at each lower corner — note that the fifth label of the bottom row reads 120° where the corresponding top label reads 180°, as printed. Latitude labels down the left edge, top to bottom, 60°  30°  0°  30°  60°, and the same five down the right edge. A key box in the upper right of the map holds five boxed symbol swatches numbered in italic — 1 and 2 in the left column, 3 and 4 in the middle, 5 at the right; the swatches carry no words.]
+
+The modern view (Parin, 1968; Beklemishev, 1969) is that the functional structure of the habitat of pelagic organisms consists of the habitat base: sufficiently consistent circulation where the species can exist indefinitely irrespective or not it inhabits other regions of the ocean; breeding areas – areas of the habitat where the breeding of the species supports the existence of the population without bringing in individuals from other parts of the habitat if the population is not carried away by the current. The habitat base is part of the breeding area. Outside the habitat base there is a non-sterile emigration zone where the population can survive only as a result of individuals migrating to it from the base so that there is a constant transfer of individuals in one direction. In the sterile emigration zone individuals are not able to
+
+<<<PAGE pdf=9 file=page_009.txt>>>
+[PAGE 2]
+
+[NOTE: English typescript, born-digital and clean; the folio 2 is centred at the head of the page and belongs to the typescript's own sequence, not to the 1976 journal pagination. Binomials are italicised in the original; italics are not marked here. The author's typos are kept as printed ("has often bee dealt with"), as is the mixture of a short hyphen and an en dash for the same parenthetical dash. The panel letter Г in "fig. 2, Г" is Cyrillic Ghe; the panel letters A and B are Latin.]
+
+complete their life cycle. The distribution of planktonic animals is greatly affected by the degree of water exchange between water masses in different parts of the Atlantic.
+
+Siphonophores inhabit all the climatic zones of the Atlantic. In the North Atlantic there is one arctic species Marrus orthocanna. Its habitat base may be in the Polar Basin while its emigration zone may be in the Barents Sea and North Atlantic (fig. 1, 1). The habitat base of Nanomia cara lies in the north subpolar zone and possibly also in the waters of the slope of the emigration zone – in the North Atlantic Current (fig. 1, 4). In the southern hemisphere two species - Diphyes antarctica and Pyrostephos vanhoeffeni – have their habitat in the Antarctic with its base in the West Wind Drift (fig. 1, 2). Further two species of siphonophore - Marrus antarcticus and Muggiaea bargmannae – have a bipolar distribution. In the southern hemisphere their habitat base lies in the western zone of subpolar waters in the Pacific and the polar basin (fig. 1, 3). The habitat structure of the above species allows us to regard them as endemic to polar – M. orthocanna – and subpolar – N. cara, D. antarctica, P. vanhoeffeni, M. antarcticus and M. bargmannae – waters. It is important to establish the endemic groups in polar and subpolar waters because tropical species are often carried into the subpolar regions of the Atlantic. The question as to which species are to be regarded as endemic to these regions has often bee dealt with in the literature (Bigelow, 1911; Moser, 1913, 1920; Kramp, 1942).
+
+The majority of siphonophores are tropical species but are not uniformly distributed in the tropical waters of the Atlantic, evidently because of their differing relationship to environmental factors.
+
+Tropical siphonophores are, in the main, distributed broadly throughout the tropical zone. The habitat bases of these species lie in both central water masses – in the tropical and subtropical zones. The large number of those species which are widely distributed in the tropical zones reflects the fact that there are no sharply defined hydrological boundaries in tropical waters. In the migration zones of the widely distributed tropical species is revealed their differing relationship to the environmental factors. Several are hardly ever encountered outside the northern and southern subtropical zones and have a very small emigration zone (fig. 2, Г). The other group of species that are widely distributed in tropical waters have extensive migration zones in both hemispheres (fig. 2, A). Their habitat boundaries run through various parts of the transition zone where a significant transformation of the tropical water takes place. The position of the habitat boundaries in these regions is probably due to the absolute importance of some hydrological factor. One may assume that the distribution of some species of siphonophores that are widely distributed in the tropical waters in their migration zones depends on the water temperature as the habitat boundaries follow several isotherms (Fig 2, B).
+
+The number of species of siphonophores drops rapidly along the southern periphery of the southern subtropical zone (v. position of distribution boundaries of 50% of species in fig. 2, A, B). This was noted by Leloup and Hentschel (1935) who carried out studies on the distribution of several species of calycophores in a 200m layer. Most probably the distribution of tropical siphonophores in this eutrophic region is restricted by the low temperature.
+
+A good example of the effect of individual factors on the distribution of siphonophores is found along the southwest coast of Africa. The boundaries of the habitats of the majority of species which are widespread in the tropical zones in this region are turned northwards by the cold waters of the Benguela current, while those of some other species are deflected to the south. Evidently, the important factor for
+
+<<<PAGE pdf=10 file=page_010.txt>>>
+[PAGE 3]
+
+[NOTE: English typescript. The figure and its caption are a raster scan pasted into the file, not live text: the caption is in a typewriter face, and inside it the two Cyrillic panel letters Б and Г have been drawn or pasted in by hand in a heavier, non-matching stroke, each followed by a space before its colon. The "%" of "50%" is likewise in a different, proportional face from the surrounding typewriting. The running text at the foot of the page is born-digital.]
+
+[FIGURE]
+FIG. 2.  DISTRIBUTION OF TROPICAL SPECIES:
+A: widespread tropical species with extensive migration areas; Б : northern-central-equatorial; B: tropical, neritic and widespread tropical; Г : widespread tropical species with small migration areas;  1: habitat boundaries of widespread tropical species;  2: boundaries of habitats of tropical neritic species; 3: line beyond which no species were encountered; 4: boundary of 50% of species;  5: area in which all species encountered.
+[/FIGURE]
+
+[NOTE: the figure is a rescan of Рис. 2 of the Russian original (this document's p. 4) — four Atlantic maps in two rows inside a heavy frame. Each panel is lettered at its lower left in a cartographic italic: А (upper left; the italic form has a bowl and a kicking leg and can be mistaken for Я), Б (upper right), В (lower left), Г (lower right). Graticule lettering, all numerals: 60° and 0° along the top edge of each upper panel and along the bottom edge of each lower panel; latitude labels 60° 40° 20° 0° 20° 40° 60° down the outer and inner edges of every panel. A key strip between the two rows holds five boxed symbol swatches numbered in italic 1 2 3 4 5, left to right; the swatches carry no words.]
+
+these latter species is not so much the temperature as other characteristics of the waters of the Benguela Current – most probably their high productivity (fig. 2, B).
+
+Widely spread tropical species are known with a habitat base in the northern subtropical zone but which also inhabit the Mediterranean where there may be an
+
+<<<PAGE pdf=11 file=page_011.txt>>>
+[PAGE 4]
+
+[NOTE: English typescript, born-digital and clean; folio 4 centred at the head of the page. Binomials are italicised in the original; italics are not marked here. The figure-panel letters are a mixture of scripts, as printed: Cyrillic Б in "fig. 2, Б" and "fig. 3, Б", but Latin C in "fig 2, C" (the panel the Russian original letters В) and Latin A in "Fig. 3, A".]
+
+independent population. Colonies of several species do not migrate beyond the subtropical zone, probably because they are not able to withstand the change in the water of the North Atlantic. But colonies of these same species are carried northwards to England and the Faroe Islands having become acclimatised to the significant transformation of Mediterranean water. Evidently, in the differing relationships to the change in the water in which the base of the habitat is situated is revealed by the physiological variety of the species population from different areas of the ocean.
+
+A group of siphonophores have been discovered amongst the Atlantic tropical siphonophores which has an asymmetric distribution and which populates only one of the homological biotypes in the tropical waters of the Atlantic – The North Atlantic central water mass. These are the northern central equatorial species (fig. 2, Б) the habitat bases of which may lie in the northern subtropical and both tropical zones. The migration zones lie only in the regions of the southern subtropical zone. Possibly the origin of these habitats is associated with the asymmetry of the hydrological processes in relation to the equator, i.e. with the fact that the hydrological boundaries have moved to the north, while in the northern hemisphere the hydrological gradients are more in the west (Sverdrup, 1942; Burkov, 1972). The migration zones of the northern central-equatorial species in the northern hemisphere and of the widespread tropical species are similar. In the southern hemisphere the migration zones are in those regions where water comes from the tropical zones either as a result of exchange between the tropical zone and the northern part of the southern subtropical zone, or coming via the Brazil Current and the equatorial undercurrent.
+
+The distribution of several tropical siphonophore species is associated with the coastal modification of the waters. It is here that the tropical neritic (fig 2, C) and the tropical distant-neritic species live. The habitat bases of the neritic species may lie in the coastal waters, while the habitat bases of the distant-neritic species lie in the neutral regions between the tropical and sub-tropical zones and in the Caribbean and Mediterranean. As yet there is little information on the migration zones of these species.
+
+The trophic characteristics of the waters are more important for the distribution of part of the tropical siphonophores than the abiotic environmental factors. The most productive waters in the tropical areas of the Atlantic are inhabited by peripheral and equatorial species. Two species inhabit the northern periphery of the northern subtropical zone and intersect the ocean in the equatorial area - Abyla trigona and Amphicaryon acaule. Lensia hardy (Fig. 3, A) inhabits the southern periphery of the southern subtropical zone as well as the more productive regions off the coast of Africa. The habitat bases of the peripheral species lie in the small zones of water around the Bahamas (northern species), off the coast of South America and, possibly, off southwest Africa (a southern species). The migration areas of peripheral species encompass the whole periphery of the corresponding zones.
+
+Equatorial siphonophores have their habitat bases in one or both tropical zones. Atlantic equatorial siphonophores are encountered from coast to coast. The migration areas of these species are more or less extensive but always occur in the eutrophic areas of the ocean. Several equatorial siphonophores are even encountered off South West Africa where the upwelling of waters of the equatorial counter-current is observed (fig. 3, Б).
+
+A description of the cosmopolitan habitat of siphonophores based on the example of the distribution of Dimophyes arctica apparently points to the fact that amongst the siphonophores there is a sufficiently eurybiotic species living in all biogeographical area of the pelagic realm. However, on the boundaries of this habitat
+
+<<<PAGE pdf=12 file=page_012.txt>>>
+[PAGE 5]
+
+[NOTE: English typescript, born-digital, folio 5 centred at the head of the page. The figure at the head of the page is a raster scan taken straight from the Russian original (this document's p. 6) and its caption has NOT been translated — it is the Cyrillic Рис. 3 caption, reproduced below as printed. A wide blank band separates the Conclusion from the References. Reference-list entries are given one per line, with the run-over lines joined.]
+
+[FIGURE]
+Рис. 3. Границы ареалов периферических видов (А) и распространение экваториальных видов (Б):
+1 — Abyla trigona,  2 — Lensia hardy,  3 — Amphicaryon acaule,  4 — не встречен ни один вид,
+——— граница 50% видов.
+[/FIGURE]
+
+[NOTE: the figure is a pair of Atlantic maps side by side in a heavy frame, lettered in italic at the lower left of each panel: А (left), Б (right). Graticule lettering, all numerals: 60° and 0° above and below each panel; latitude labels 40° 20° 0° 20° 40° down the outer and inner edges. A key box in the lower right of panel Б holds four boxed symbol swatches numbered in italic 1 and 2 (left column), 3 and 4 (right column); the swatches carry no words.]
+
+in its northern and southern areas colonies of D. arctica react differently to temperature: in the north (in the Polar Basin) they choose the warmest water with a temperature above 0°C, while in the south (in Antarctica) they choose waters with a temperature below 0°C. This is either a result of the physiological differences in the populations of D. arctica on the northern and southern boundaries of the habitat, or is evidence of the fact that this is not a single species.
+
+Conclusion
+
+The sharpest hydrological boundaries of siphonophore habitats in the Atlantic coincide with the distributional boundaries of individual species. In other words, the distribution of siphonophores is associated with the division of water cover into water masses. Within the water masses the distribution of species depends on what factor of the outer environment is the more important for that particular species. One may say that the distribution of some species of siphonophore is restricted by temperature while that of others by the trophic characteristics of the water.
+
+References
+
+Beklemishev, K.V. 1969. The ecology and biogeography of the pelagic realm. Nauka 291 pp.
+Bigelow, H.B. 1911. The Siphonophorae. Memoirs of the Museum of Comparative Zoology, at Harvard College 38, 173-402.
+Burkov, V.A. 1972. General water circulation in the Pacific. Nauka, 194 pp.
+Kramp, P.L. 1942. The Godthaab Expedition 1928. Siphonophora. Meddelelser om Grønland 80 No. 8, 24 pp.
+
+<<<PAGE pdf=13 file=page_013.txt>>>
+[PAGE 6]
+
+[NOTE: last page of the document. English typescript, born-digital, folio 6 centred at the head of the page; the reference list continues from p. 5 and the lower two-thirds of the page is blank. Entries are given one per line with run-over lines joined. Italics in the original are not marked here. Two oddities kept as printed: the translator's query marks inside the journal title "Kompleksnye Issledovaniya Prir? Okeana?", and the straight typewriter apostrophes around 'Meteor' (against the curly apostrophe in "ocean's").]
+
+Leloup, E. & Hentschel, E. 1935. Die Verbreitung der Calycophoren Siphonophoren im Sudatlantischen Ozean. Wiss. Ergebn. dt. Atlant. Exped 'Meteor', Bd 12 Tief 2, Zool. 2, 1-31.
+Margulis, R.Ya. 1969. Distribution of some siphonophore species of the suborder Physophorae in the Atlantic Ocean. Vestnik Moskovskogo Universiteta 24, 17-38. (In Russian).
+Margulis, R.Ya. 1971. Distribution of siphonophores of the genus Lensia (suborder Calycophorae) in the Atlantic. Oceanology, 11, 80-84.
+Margulis, R.Ya. 1972. Factors determining the large-scale distribution of siphonophores of the suborders Physophorae and Calycophorae in the Atlantic Ocean. Oceanology 12, 420-425.
+Margulis, R.Ya. 1972. Siphonophores of the family Diphyidae. Data on distribution in the Atlantic Ocean. Kompleksnye Issledovaniya Prir? Okeana? 3, 212-228. (In Russian).
+Moser, F. 1913. Zur geographischen Verbreitung der Siphonophoren nebst andern Bemerkungen. Zool. Anzeiger 41(4).
+Moser, F. 1920. Nordische Siphonophoren. Sitz. Ges. Natur, Freunde No. 4-7, 167-191.
+Parin, N.V. 1968. The Ichthyofauna of the ocean’s pelagic realm. Nauka 186pp
+Sverdrup, H.U., Johnson, R. & H. Fleming 1942. The Oceans, their physics, chemistry and general biology. Prentice-Hall, N.Y., 1082 pp.

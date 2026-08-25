@@ -1,0 +1,51 @@
+[PAGE 124]
+
+124	[RUNNING HEAD] A SYNOPSIS OF THE SIPHONOPHORA
+
+[FIGURE]
+A
+
+f.h
+c3
+f.v
+c4
+B
+
+FIG. 70. Praya dubia (Q. & G.). Bracts of eudoxids
+A, after Bigelow (1931) as P. reticulata, × 3; B, from 'Discovery' St. 2635, × 2.6
+c3 = dorsal bracteal canal; c4 = ventral bracteal canal; f.h = horizontal fold; f.v = vertical fold.
+[/FIGURE]
+
+tomously at different distances from their points of origin. The resultant canals anastomose by means of short transverse canals to form an irregular reticulum.
+
+Eudoxid phase (Pl. XXIII, fig. 3)
+
+The bracts measure up to 20 mm in length, and are laterally flattened, convex above concave below. The dorsal bracteal canal is much recurved. The tip of the right hydroecial canal is longer than the other and recurved. The ventral canal C4 may bear small lateral branches.
+
+A magnificent specimen was taken in the Bay of Biscay, some thirty miles to the north of Santander in the Isaacs Kidd mid-water-trawl at 450 m by 'Sarsia' on May 22, 1957, and kindly submitted to the author by the Director of the M.B.A. Association, Plymouth. When the specimen was received in mid-July there were still traces of lemon yellow colour in the distal halves of the gastrozooids, and at the junction of tentacle and basigaster. The liver-stripes showed traces of a reddish-brown pigment. The two large transparent colourless nectophores became separated from the stem leaving a third, younger nectophore as well as two much smaller nectophore buds still attached. Ten pieces of stem, strongly contracted, measured 82 cm in total length. I estimate that the expanded stem might have reached a length of 3 m.
+
+Distribution (see Bigelow, 1931, p. 535): Off Peru; South of Japan; Puget Sound; Galapagos – Panama Region; Monterey Bay, California – needs confirmation of specific identification.
+
+New Records: 'Discovery' Stations 281, 964, 1690, 2365.
+
+[TABLE]
+Station	Net	Date	Depth in m	Material
+281	TYF	12 viii 1927	850 – 950 (– 0)	2 nectophores
+964	N 70 B	15 ix 1932	125 (– 0)	2 nectophores
+1690	N 70 B	8 iii 1936	520 – 200	2 nectophores still attached
+2635	TYF B	11 iv 1939	280 – 0	2 nectophores, 1 attached with bud
+[/TABLE]
+
+Genus: PRAYOIDES Leloup 1934
+
+Monotypic genus for Prayoides intermedia Leloup.
+
+The name Prayoides was published for a 'groupe' of Rosacea Quoy & Gaimard. From a systematist's point of view this seems to be the equivalent of a sub-genus. It is best to raise the name to generic rank as I have done.
+
+The distinguishing feature of this genus is that it appears to be intermediate between Rosacea,
+
+[NOTE: the labels inside [FIGURE] are lettered on the two drawings; drawing A (left) carries only "A", drawing B (right) carries "f.h", "c3", "f.v", "c4" and "B", listed in reading order. The superscript numerals of "c3" and "c4" are printed as superscripts, both on the drawing and in the caption. No other text is printed on the illustration.]
+
+[NOTE: the "4" of "C4" in the Eudoxid phase paragraph is printed as a superscript.]
+
+[NOTE: the "New Records" line gives station "2365" whereas the table below it, and the caption of text-fig. 70, give "2635". Both are transcribed as printed.]

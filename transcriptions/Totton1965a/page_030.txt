@@ -1,0 +1,35 @@
+[PAGE 25]
+[RUNNING HEAD] GROSS MORPHOLOGY	25
+
+(Pl. XXII, figs. 2, 6). Each eudoxid consists of one gastrozooid and tentacle, with its accompanying medusoid gonophores, the whole generally covered by a protective and buoyant bract (the Hippopodiidae forming the exception). The eudoxid is capable of budding additional gonophores. One of the medusoids may lose its sexual function and become what is known as a special swimming-bell, or a sexual medusoid can function for propulsion. In the third final phase, the gonophores generally break away and swim free. The phenomenon of fragmentation probably has a selection value in that it ensures cross-fertilization. Certainly the Calycophorae are the most numerous and the most highly evolved of the siphonophores.
+
+[NOTE: the remainder of the page is set in two unequal columns; FIG. 8 with its caption occupies the left column and the running prose the right. The figure and caption are given first here, then the right-hand column of text.]
+
+[FIGURE]
+n₁
+C.ol
+ns₁
+hy
+n₂
+ns₂
+hy
+sp.n
+br
+t
+tr
+
+FIG. 8.   Polygastric phase of a calycophore: Diphyes dispar
+C.ol = somatocyst; hy = hydroecium; br = bract; n₁n₂ = first and second nectophores; ns₁ns₂ = nectosacs of nectophores 1 and 2; sp.n = special, asexual nectophore; t = tentacle; tr = stem (from Kawamura 1915, pl. xii, fig. 21).
+[/FIGURE]
+
+The conclusion I have drawn from the study of the siphonophore larvae is that, as Garstang (1946) supposed, they are generally comparable with the actinulae of certain gymnoblastic hydroids (text-fig. 11). In this group of hydroids the larvae usually become fixed by the aboral pole and develop into polyps, which give rise asexually by budding to more polyps and gonophores (blastostyles), which latter bud off free-swimming sexual medusae. In some species however, Margelopsis and Pelagohydra, the polyp-stage is mostly pelagic, though Werner (1954) has shown that Margelopsis has a seasonal, benthic, larval phase. In the Siphonophora, the typical actinuloid pattern of development has been suppressed, no larval fixation takes place, although the power to bud off polyps and medusoids has been retained. It is possible, however, to homologize a certain larval structure in the siphonophore, the somatocyst, with that of the actinuloid tentacle (text-fig. 3b).
+
+Those siphonophore structures derived from polyp- or medusoid buds will now be discussed.
+
+1. Polyp derivatives are essentially in a larval or juvenile phase. They include the following: Gastrozooids or feeding polyps which retain one larval tentacle – the tentacle may be modified by branching to form a series of tentilla. Palpons or reduced gastrozooids, with simple tentacles or palpacles. And lastly, Bracts (Pl. IX, figs. 4–6). Gastrozooids may bud off more gastrozooids, palpons or bracts from the foot-stalks which join them to the stem of the siphonophore. In my opinion bracts are either modified palpons or gastrozooids. Schneider (1896, pp. 615–6, Taf. 44, figs. 11, 15, 18, 21–2) demonstrated clearly the origin of bract and accompanying gonophore as a twin bud on the foot-stalk of a gastrozooid. The bracteal canal does not branch from a common pedicel as in a medusoid; it represents the reduced cavity of a polypoid-zooid.
+
+2. Medusoid derivatives are essentially in the adult phase and usually show their medusoid derivation in the retention and arrangement of the circular and radial canals. They include the following structures, which may be either functional or reduced, sexual gonophores and asexual nectophores.
+
+(1) Sexual gonophores (text-figs. 7C, 10) can be homologized with those on the blastostyles of actinulae. They are budded from the foot-stalks of the secondary (juvenile) polypoids, which arise on the siphosome, and through gradual elongation of the siphonophore stem these groups of zooids come to lie farther and farther from the aboral pole. They retain
+
+3

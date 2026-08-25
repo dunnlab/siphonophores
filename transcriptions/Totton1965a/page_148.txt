@@ -1,0 +1,50 @@
+[PAGE 143]
+
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 12 DIPHYIDAE	143
+
+I have separated off half-a-dozen mid-water forms, formerly regarded as diphyids, into a new family, Clausophyidae. Bigelow (1913) had already taken the first step when he set up a new sub-family, Clausophyinae, for Clausophyes ovata and Cl. galeata.
+
+Sub-family i : SULCULEOLARIINAE Totton, 1954
+
+Galeolarinae Chun, 1897b
+Galettinae Stechow, 1921
+
+Monotypic sub-family for Sulculeolaria Blainville, 1830.
+
+Eudoxids of this sub-family have never been taken in plankton hauls, but they were set free from S. quadrivalvis in the aquaria of Miss M. J. Delap of Valencia, Ireland, who made many unpublished observations and drawings of siphonophores and other marine invertebrates from 1900–1930. Failure to release the eudoxids seems to be a primitive feature, found in what are now considered to be the more primitive siphonophores.
+
+In the polygastric phase there is often a succession of both anterior and posterior nectophores, though it is only occasionally that a specimen is found bearing more than one anterior nectophore at a time. This phenomenon also appears to be an atavistic one.
+
+Six species of the single genus Sulculeolaria are now recognized. A few species hitherto included under the old name Galeolaria have now been generically associated with Lensia spp.
+
+Genus: SULCULEOLARIA Blainville, 1834
+
+Galeolaria Blainville, 1830 (preoccupied Lamarck, 1818)
+Galetta Stechow, 1921; Totton, 1932; Bigelow & Sears, 1937
+
+Type species: Sulculeolaria quadrivalvis Blainville, 1834 (figured).
+
+I have already dealt definitively with both the zoology and nomenclature of this genus (Totton, 1954, p. 101). My 1932 review was a tentative one. As Bigelow (1918) remarked: 'Successive studies progressively clarify the situation.' On Bigelow's work we chiefly depend.
+
+Blainville's generic description of Galeolaria referred to fairly firm gelatinous, regularly and bilaterally symmetrical, sub-polygonal or oval animals, that each have a large posterior ostium; a velum and a two-winged sub-ostial lamella; a muscular sub-umbrella occupying much space inside; and a stem, borne on the anterior-superior face, that issues from a bilabiate hydroecium.   This makes quite clear what genus of large diphyids he was dealing with.
+
+In all the species of Sulculeolaria the lateral canals of the posterior nectophores make a loop from base to apex and back to the velar ring-canal, in contrast to the unlooped canals in species of Lensia. The surface of the anterior nectophore is always smooth and rounded rather than longitudinally ridged as in most other diphyids.
+
+Sulculeolaria quadrivalvis Blainville, 1834
+Plate XXIX, figure 4; Plate XXX, figures 1–4; Plate XXXI, figures 1–3; text-figure 82
+
+Sulculeolaria quadridentata Quoy & Gaimard, (1833) 1834
+Epibulia aurantiaca Vogt, 1851
+Diphyes quadrivalvis Gegenbaur, 1853
+Galeolaria aurantiaca Vogt, 1854
+Galeolaria quadrivalvis Lens & van Riemsdijk, 1908; Bigelow, 1911b; Moser, 1925
+
+The question whether S. quadrivalvis and S. quadridentata are synonyms of one and the same species was reviewed by Bigelow & Sears (1937) and by Totton (1954). I am of the opinion that they are synonyms.
+
+[NOTE: the sub-family heading is printed "Sub-family i : SULCULEOLARIINAE Totton, 1954", with a lower-case roman numeral "i" and a space each side of the colon; "SULCULEOLARIINAE" is in bold capitals, as is "SULCULEOLARIA" (bold italic) in the genus heading. Verified at 4.5x.]
+
+[NOTE: the first synonymy line under the sub-family heading is printed "Galeolarinae Chun, 1897b" — one "i" only, and the date lettered b — whereas the same name is printed "Galeolariinae Chun, 1897" on the preceding page. Both are transcribed as printed. Similarly "Sulculeolaria Blainville, 1830" in the "Monotypic sub-family" line against "SULCULEOLARIA Blainville, 1834" in the genus heading; verified digit by digit.]
+
+[NOTE: numerals verified digit by digit: Bigelow (1913); Totton, 1954; Chun, 1897b; Stechow, 1921; Blainville, 1830; 1900–1930; Blainville, 1834; Blainville, 1830 (preoccupied Lamarck, 1818); Stechow, 1921; Totton, 1932; Bigelow & Sears, 1937; Blainville, 1834; Totton, 1954, p. 101; 1932; Bigelow (1918); Blainville, 1834; Plate XXIX, figure 4; Plate XXX, figures 1–4; Plate XXXI, figures 1–3; text-figure 82; Quoy & Gaimard, (1833) 1834; Vogt, 1851; Gegenbaur, 1853; Vogt, 1854; Lens & van Riemsdijk, 1908; Bigelow, 1911b; Moser, 1925; Bigelow & Sears (1937); Totton (1954).]
+
+[NOTE: extra-wide spaces occur in the printed setting after "Monotypic sub-family" and after "bilabiate hydroecium." in the Blainville paragraph; they are reproduced above as, respectively, a single and a triple space. The synonymy lines are set smaller than the body with the taxon names italic. No printed square brackets occur on this page.]

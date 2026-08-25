@@ -1,0 +1,29 @@
+[PAGE 9]
+
+[NOTE: Full-page halftone plate — a scan of Plate II of the French original — with the translator's new English caption beneath it in born-digital type. The lettering inside the plate is the French original's abbreviations (Eb.Pn., Eb.F., Pn., F., G.P., Br., T., N., Eb.N., St., Eb.Cor.) while the caption is English, so the two do not match in language. "Plate II" is printed without a full stop here, unlike "Plate I." on the preceding page. The panel numbers 1-6 are engraved in bold at the lower right of each panel.]
+
+[PLATE]
+1
+Eb.Pn.
+Eb.F.
+2
+Eb.Pn.
+3
+Pn.
+F.
+G.P.
+4
+Br.
+T.
+5
+N.
+Eb.N.
+St.
+Eb.Cor.
+G.P.
+6
+
+Plate II
+Development of Nanomia bijuga.
+1: 1.5 day old planula. 2: 2 day old planula. 3: 2.5 day old planula. 4: one week old siphonula. 5: 20 day old siphonula. 6: young colony.
+[/PLATE]

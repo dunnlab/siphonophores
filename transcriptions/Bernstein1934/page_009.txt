@@ -1,0 +1,37 @@
+[PAGE 41]
+
+— 41 —
+
+Таблица 4
+
+[TABLE]
+[NOTE: column heads set vertically (rotated 90°); given here as an ordinary header row. Stub head reads "Второй разрез 1930 г."]
+
+Второй разрез 1930 г.	№№ станций	6	6	6	8	8	8	8	9	9	9	10	10
+Второй разрез 1930 г.	Местоположение	79°26′ N, 78 03 E	79°26′ N, 78 03 E	79°26′ N, 78 03 E	78°55′ N, 78 30 E	78°55′ N, 78 30 E	78°55′ N, 78 30 E	78°55′ N, 78 30 E	78°20′ N, 79 10 E	78°20′ N, 79 10 E	78°20′ N, 79 10 E	77°53′ N, 79 45 E	77°53′ N, 79 45 E
+Второй разрез 1930 г.	Горизонты в метрах	40—25	25—0	40—0	140—100	100—50	50—25	25—0	170—100	100—25	25—0	100—25	25—0
+Aeginopsis laurentii . . . . .	—	1*	3	—	4	13	8	2	—	13	2	4
+Diphyes arctica . . . . . . .	—	—	—	8	6	—	—	1	2	—	8	2
+Sagitta bipunctata . . . . .	—	5	11	—	1	--	—	—	—	2	—	—
+Krohnia hamata . . . . . . .	—	—	—	—	—	3	3	2	—	74	—	40
+Polychaeta larvae . . . . . .	1	3	6	—	12	14	—	2	2	—	—	—
+Calanus finmarchicus . . .	61	562	553	14	110	246	386	52	53	541	58	249
+Calanus hyperboreus . . . . .	—	—	5	—	6	2	1	3	1	1	9	5
+Pseudocalanus elongatus . . . .	53	377	429	8	121	236	23	10	24	198	48	191
+Microcalanus pygmaeus . . . .	3	—	25	9	14	3	1	17	8	15	96	9
+Euchaeta glacialis . . . . . . .	—	—	—	—	1	—	—	—	—	2	2	—
+Metridia longa . . . . . . .	—	—	4	2	32	5	—	7	14	19	16	7
+Oithona similis . . . . . . . .	45	396	338	8	124	61	32	18	15	305	68	169
+Harpacticidae . . . . . . . .	—	8	3	—	2	3	—	—	—	—	---	1
+Ostracoda . . . . . .	—	—	1	—	—	1	—	3	—	—	—	—
+Amphipoda . . . . . . . . .	—	—	1	—	1	—	1	–	1	—	1	—
+Gastropoda juv. . . . . . . . .	4	35	18	1	11	15	—	2	1	15	6	18
+Limacina helicina . . . . . . .	—	—	—	—	—	—	—	1	—	2	—	—
+Echinopluteus . . . . . . . .	—	—	—	—	—	—	—	1	1	8	1	1
+Ophiopluteus . . . . . . . .	7	107	124	—	63	71	—	28	23	286	53	—
+Fritillaria borealis . . . . .	3	81	39	—	8	20	77	9	2	176	11	109
+Oikopleura labradoriensis . . .	2	35	40	—	16	25	4	1	—	9	4	34
+[/TABLE]
+
+[FOOTNOTE] * Цифры обозначают количество организмов в пробе.
+[FOOTNOTE] Die Zahlen zeigen die Menge der in der Probe enthaltenen Organismen an.

@@ -1,0 +1,53 @@
+[PAGE 117]
+
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 10 PRAYIDAE	117
+
+[FIGURE]
+0
+5.mm
+O.c
+A
+C.br.spur.
+C.br.d.
+Lob.ant.-l.r.
+C.br.v
+Go
+Ch.l.r.
+Ch.l.l.
+Gz
+T.
+
+B
+C.br.v
+Go
+C.br.spur.
+O.c
+Ch.l.r.
+C.br.d
+Ch.l.l
+
+FIG. 66. Rosacea plicata Q. & G. Eudoxid phase
+A, lateral view; B, view from above, 'Discovery' St. 1617, 395–155 m, × 4·5
+C.br.d, C.br.v = dorsal and ventral bracteal canals; C.br.spur = bracteal spur canal; Ch.l.l, Ch.l.r = left and right hydroecial canals; Lob.ant.–l.r = right antero-lateral lobe; O.c = central organ; Go = gonophore; Gz = gastrozooid; T = tentacle (from Totton, 1954, fig. 41).
+[/FIGURE]
+
+[FIGURE]
+O.c
+C.br.d
+C.br.spur.
+Ch.l.r
+Gz
+C.br.v.
+T.
+0	1	2	3	4	5.mm.
+Ch.l.l
+
+FIG. 67. Rosacea plicata Q. & G.
+Eudoxid from 'Discovery' St. 1617, 395–155 m, × 8.3 (abbreviations as in text-fig. 66) (from Totton, 1954, fig. 42).
+[/FIGURE]
+
+[NOTE: this page carries no body text — only the two text-figures and their captions.]
+
+[NOTE: the labels inside each [FIGURE] are hand-lettered on the drawings and are listed in reading order (top to bottom, left to right); those of text-fig. 66 are given for drawing A first, then drawing B. "0"/"5.mm" and "0 1 2 3 4 5.mm." are the graduations of the bar scales. No other text is printed on the illustrations.]
+
+[NOTE: in the caption of text-fig. 66 the decimal point of "4·5" is printed as a raised, mid-height point, reproduced here as "·". The "8.3" in the caption of text-fig. 67 uses an ordinary baseline period.]

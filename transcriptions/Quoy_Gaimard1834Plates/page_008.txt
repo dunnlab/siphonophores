@@ -1,0 +1,56 @@
+[PAGE 8: unnumbered]
+
+[NOTE: as with the preceding page, this is a colour photograph of the opened bound
+volume rather than a scan of the plate — binding, fore-edge and grey photographic
+backdrop are visible, and a digitiser's caption strip in modern sans-serif type
+runs across the foot of the image. The photograph is a low-resolution raster
+(826 x 1200 px for the whole spread). The legend and running heads are recoverable
+word by word; the figure numerals on the plate are pale grey marks two or three
+pixels across and are wholly illegible.]
+
+[NOTE: this is plate 2 of the series, the same plate that appears as a bilevel
+scan earlier in this PDF.]
+
+[RUNNING HEAD] Voyage de l'Astrolabe. – ZOOLOGIE.
+
+[RUNNING HEAD] ZOOPHYTES. – Pl. 2.
+
+[PLATE]
+ZOOPHYTES. – Pl. 2.
+
+[NOTE: the plate carries about twenty-six figure numerals, one beside or above
+each drawing, but none can be resolved in this photograph and they are therefore
+not transcribed. The legend implies the sheet runs from 1 to 26.]
+
+[?Quoy ad vivum pinx.] [NOTE: draughtsman's credit in engraved script at lower
+left; word-shapes only, letters not resolvable]
+
+[?Fournier sc.] [NOTE: engraver's credit in engraved script at lower right; not
+resolvable letter by letter]
+
+1	6	Stéphanomie helianthe.	}
+7	12	Stephanomie mélon	}	N.
+
+13	21	Stéphanomie hippopode .
+
+22	25	Stéphanomie à vrilles.	}
+26		Stéphanomie en toit .	}	N.
+
+[NOTE: the legend has two braced groups of two lines each, one at the left and one
+at the right, each closed by a single brace with one italic "N." serving both its
+lines; the "13 21 Stéphanomie hippopode ." line stands unbraced in the centre,
+set slightly lower than the first line of each group. In this coloured impression
+the initial accent of "Stéphanomie" is visible in three of the five lines but not
+in "Stephanomie mélon", and "helianthe" carries no accent, matching what the
+bilevel scan of this plate shows.]
+
+[?J. Tastu édit.] [NOTE: minute type at the lower left corner of the sheet]
+
+[NOTE: a further line of minute type stands at the lower right corner of the
+sheet, below the legend; it is illegible.]
+[/PLATE]
+
+[NOTE: digitiser's caption strip printed across the foot of the page image, in
+modern sans-serif type on a grey ground, not part of the original sheet:]
+
+Harvard University - Ernst Mayr Library of the Museum of Comparative Zoology / Dumont d'Urville, Jules-Sebastien-Cesar. Voyage de la corvette l'Astrolabe :execute par ordre du roi, pendant les annees 1826-1827-1828-1829. Paris : J. Tastu, 1830-1835.

@@ -1,0 +1,139 @@
+[PAGE 13: unnumbered]
+
+[NOTE: table continues from page 12]
+[NOTE: this page is the right half of the single "REGNUM ANIMALE" broadsheet; it carries classes IV. PISCES, V. INSECTA and VI. VERMES, printed side by side as three independent tables. Reading order below: the whole PISCES table, then the whole INSECTA table, then the whole VERMES table.]
+[NOTE: the order names (PLAGIURI, CHONDROPTERYGII, ... ) with their italic definitions are printed sideways, reading bottom-to-top, in a narrow column at the left edge of each class; they are given here in the first tab-separated field, on the first row of the order they head.]
+[NOTE: each table row is given here as one line with four single-tab-separated fields — order / genus / character / species-and-synonyms. Where a cell is set on several printed lines those lines are joined with a space; where a cell prints two side-by-side sub-columns of names those names are likewise run together in reading order (left name then right name of each printed line).]
+[NOTE: long-s (ſ) throughout.]
+
+REGNUM ANIMALE.
+
+[HANDWRITTEN] [illegible] (a small pencil or ink mark in the top right corner of the ruled frame)
+
+[TABLE]
+IV. PISCES.
+Corpus apodum, pinnis veris inſtructum, nudum, vel ſquamoſum.
+
+PLAGIURI. Cauda horizontalis.	Thrichechus.	Dentes in utraque maxilla. Dorſum impenne.	Manatus ſ. Vacca mar.
+	Catodon.	Dentes in inferiore maxilla. Dorſum impenne.	Cot. Fiſtula in roſtro Art. Cete Cluſ.
+	Monodon.	Dens in ſuperiore max. 1. Dorſum impenne.	Monoceros. Unicornu.
+	Balæna.	Dentes in ſup. max. cornei. Dorſum ſæpius impenne.	B. Groenland. B. Finfiſch. B. Maxill. inf. latiore. Art.
+	Delphinus.	Dentes in utraque maxilla. Dorſum pinnatum.	Orcha. Delphinus. Phocæna.
+CHONDROPTERYGII. Pinnæ cartilagineæ.	Raja.	Foramina branch. utrinq. 5. Corpus depreſſum.	Raja clav. aſp. læv. &c. Squatino-Raja. Altavela. Paſtinaca mar. Aquila. Torpedo. Bos Vet.
+	Squalus.	Foram. branch. utrinq. 5. Corpus oblongum.	Lamia. Galeus. Catulus. Vulpes mar. Zygæna. Squatina. Centrine. [?Priilis.]
+	Acipenſer.	Foram. branch. utrinq. 1. Os edentul. tubulatum.	Sturio. Huſo. Ichthyocolla.
+	Petromyzon.	Foram. branch. utrinq. 7. Corpus bipenne.	Enneophthalmus. Lampetra. Muſtela.
+BRANCHIOSTEGI. Pinnæ oſſic. carentes. Branch. oſſ. & membran.	Lophius.	Caput magnitudine corporis. Appendices horizontaliter latera piſcis ambiunt.	Rana piſcatrix. Guacucuja.
+	Cyclopterus.	Pinnæ ventrales in unicam circularem concretæ.	Lumpus. Lepus mar.
+	Oſtracion.	Pinnæ ventrales nullæ. Cutis dura, ſæpe aculeata.	Orbis div. ſp. Piſc. triangul. Atinga. Hyſtrix. Oſtracion. Lagocephalus.
+	Baliſtes.	Dentes contigui maximi. Aculei aliquot robuſti in dorſo.	Guaperua. Hiſtrix. Capriſcus. Caper.
+ACANTHOPTERYGII. Pinnæ oſſeæ, quarum quædam aculeatæ.	Gaſteroſteus.	Membr. branch. oſſiculis 3. Venter laminis oſſeis inſtr.	Aculeatus. Spinachia. Pungitius.
+	Zeus.	Corpus compreſſum. Squamæ ſubaſperæ.	Aper. Faber. Gallus mar.
+	Cottus.	Membrana branch. oſſic. 6. Caput aculeatum, corpore latius.	Cataphractus. Scorpio mar. Cottus. Gobio fl. capit.
+	Trigla.	Appendices ad pinn. pect. articulatæ 2 vel 3.	Lyra. Gurnardus. Cuculus. Lucerna. Hirundo. Milvus. Mullus barb. & imberb.
+	Trachinus.	Opercula branch. aculeata. Oculi vicini in vertice.	Draco. Araneus mar. Uranoſcopus.
+	Perca.	Memb. branch. oſſicul. 7. Pinnæ dorſales. 1 vel 2.	Perca. Lucioperca. Cernua. Schraitſer.
+	Sparus.	Opercula branch. ſquamoſa. Labia dentes tegunt. Dentes molares obtinet.	Salpa. Melanurus. Sparus. Sargus. Chromis. Mormyrus. Mæna. Smaris. Boops. Dentex. Erythrinus. Pagrus. Aurata. Cantharus.
+	Labrus.	Labia craſſa dentes teg. Color ſpecioſus.	Julis. Sachettus. Turdus diverſar. ſpecier.
+	Mugil.	Memb. branch. oſſic. 6. Caput totum ſquamoſum.	Mugil. Cephalus.
+	Scomber.	Memb. branch. oſſic. 7. Pinnæ dorſi 2 vel plures.	Glaucus. Amia. Scomber. Thynnus. Trachurus. Saurus.
+	Xiphias.	Roſtrum apice enſiformi. Pinnæ ventrales nullæ.	Gladius.
+	Gobius.	Pinnæ vent. in 1 ſimpl. concr. Squamæ aſperæ.	Gob. niger. Jozo. Paganellus. Apkua.
+MALACOPTERYGII. Pinnæ oſſeæ, quæ omnes molles.	Gymnotus.	Membr. branch. oſſicul. 5. Pinna dorſalis nulla.	Carapo.
+	Muræna.	Membr. branch. oſſic. 10. Tubuli in apice roſtri. 2.	Anguilla. Conger. Fluta. Serpens mar.
+	Blennus.	Pinnæ ventr. conſtant oſſ. 2. Caput admodum declive.	Alauda non criſt. & galer. Blennus. Gattorugine.
+	Gadus.	Membr. branch. oſſic. 7. Pinnæ dorſi. 2 vel 3.	Aſellus diverſar. ſpecier. Merluccius. Anthias 2dus. Muſtela. Egrefinus.
+	Pleuronectes.	Membr. branch. oſſ. 6. Oculi ambo in eodem later.	Rhombus diverſ. ſpecier. Paſſer. Limanda. Hippogloſſus. Bugloſſ. Solea.
+	Ammodytes.	Membr. branch. oſſic. 7. Pinnæ ventr. nullæ.	Ammodytes. Tobianus.
+	Coryphæna.	Membr. branch. oſſic. 5. Pinna dorſi à capite ad caudam.	Hippurus. Pompilus. Novacula. Pecten.
+	Echeneis.	Striæ tranſverſæ, aſperæ, in ſuperna capitis parte.	Remora.
+	Eſox.	Membr. branch. oſſic. 14.	Lucius. Belone. Acus maxima ſquamoſa.
+	Salmo.	Membr. branch. oſſic. 10-12. Corpus maculoſum.	Salmo. Trutta. Umbla. Carpio lacuſtr.
+	Oſmerus.	Membr. branch. oſſic. 7 -- 8. Dentes in max. lingu. palat.	Eperlanus. Spirinchus. Saurus.
+	Coregonus.	Membr. branch. oſſic. 8--10. Appendix pinniformis.	Albula. Lavaretus. Thymallus. Oxyrhynchus.
+	Clupea.	Membr. branch. oſſic. 8. Venter acutus ſerratus.	Harengus. Spratti. Encraſicholus. Aloſa.
+	Cyprinus.	Membr. branch. oſſic. 3. Dentes ad orificium ventriculi tantum.	Erythrophthal. Mugil. fluv. Brama. Ballerus. Capito. Naſus. A. M. Caraſſius. Cypr. nobilis. Tinca. Barbus. Rutilus. Alburnus. Leuciſcus. Phoxinus. Gobius fl.
+	Cobitus.	Caput compreſſum. Pinnæ dorſi & ventrales eâdem à roſtro diſtantia.	Cobitis. Barbatula. Miſgurn.
+	Syngnathus.	Opercula branch. ex lamina 1. Maxillæ à lateribus clauſæ.	Acus lumbr. Acus Ariſtot. Hippocampus.
+[/TABLE]
+
+[TABLE]
+V. INSECTA.
+Corpus cruſta oſſea cutis loco tectum.  Caput antennis inſtructum.
+
+		§. FACIE EXTERNA FACILE DISTING.
+COLEOPTERA. Alæ elytris duobus tectæ.	Blatta.	Elytra concreta. Alæ nullæ. Antennæ truncatæ.	Scarab. tardipes. Blatta fœtida.
+	Dytiſcus.	Pedes poſtici remorum forma & uſu. Ant. ſetaceæ. Sterni apex bifurcus.	Hydrocantharus. Scarab. aquaticus.
+	Meloë.	Elytra mollia, flexilia, corpore breviora. Ant. moniliformes. Ex articulis oleum fundens.	Scarab. majalis. Scarab. unctuoſus.
+	Forficula.	Elytra breviſſima, rigida. Cauda bifurca.	Staphylinus. Auricularia.
+	Notopeda.	Poſitum in dorſo exſilit. Ant. capillaceæ.	Scarab. elaſticus.
+	Mordella.	Cauda aculeo rigido ſimplici armata. Ant. ſetaceæ, breves.	Negatur ab Ariſtotele.
+	Curculio.	Roſtrum productum, teres, ſimplex. Ant. clavatæ in medio Roſtri poſitæ.	Curculio.
+	Buceros.	Cornu 1. ſimplex, rigidum, fixum. Ant. capitatæ, foliaceæ.	Rhinoceros. Scarab. monoceros.
+	Lucanus.	Cornua 2 ramoſa, rigida, mobilia. Ant. capitatæ, foliaceæ.	Cervus volans.
+	Scarabæus.	§. ANTENNÆ TRUNCATÆ. Ant. clavatæ foliaceæ. Cornua nulla.	Scarab. pilularis. Melolontha. Dermeſtes.
+	Dermeſtes.	Ant. clavatæ horizontaliter perfoliatæ. Clypeus planiuſculus, emarginatus.	Cantharus faſciatus.
+	Caſſida.	Ant. clavato-ſubulatæ. Clypeus planus, antice rotundatus.	Scarab. clypeatus.
+	Chryſomela.	Ant. ſimplices, clypeo longiores. Corpus ſubrotundum.	Cantharellus.
+	Coccionella.	Ant. ſimplices, breviſſimæ. Corpus hemiſphæricum.	Cochinella vulg.
+	Gyrinus.	Ant. ſimplices. Corpus breve. Pedibus poſticis ſaliens.	Pulex aquaticus. Pulex plantarum.
+	Necydalis.	Ant. clavato-productæ. Clypeus anguſtus, rotundatus.	Scarabæo-formica.
+	Attalabus.	Ant. ſimplices, conſtructæ articulis orbicularibus, præter ultim. globoſum.	Scarab. pratenſis.
+	Cantharis.	§. ANTENNÆ SETACEÆ. Clypeus planus, margine undique promin. Elytra flexilia.	Cantharis offic.
+	Carabus.	Clypeus fere planus, marg. prominente. Elytra fragilia.	Cantharus fœtidus. Cantharellus auratus.
+	Cicindela.	Clypeus cylindraceus vel teres. Forceps oris prominens.	Cantharus Marianus.
+	Leptura.	Clypeus ſubrotundus. Pedes longi. Corpus tenue acuminatum.	Scarab. tenuis.
+	Cerambyx.	Clypeus ad latera mucrone prominet. Ant. corpus longitudine æquant, vel ſuperant.	Capricornus.
+	Bupreſtis.	Clypeus ſuperne 2 punctis elevatis notatus.	Scarab. ſylvaticus.
+ANGIOPTERA. Alæ omnibus datæ, elytris deſtitutæ.	Papilio.	Roſtrum ſpirale. Alæ 4.	Papilio alis erectis. Pſyche --- planis. Phalæna -- compreſſis.
+	Libellula.	Cauda folioſa. Alæ 4. expanſæ.	Perla. Virguncula.
+	Ephemera.	Cauda ſetoſa. Alæ 4. erectæ.	Muſca Ephemera.
+	Hemerobius.	Cauda ſetoſa. Alæ 4. compreſſæ.	Phryganea.
+	Panorpa.	Cauda cheliformis. Alæ 4. Roſtr. corn.	Muſca ſcorpiurus.
+	Raphidia.	Cauda ſpinoſo-ſetacea. Alæ 4. Cap. corn.	Non depicta.
+	Apis.	Cauda aculeo ſimplici. Alæ 4.	Crabro. Veſpa. Bombylius. Apis.
+	Ichneumon.	Cauda aculeo partito. Alæ 4.	Ichneumon. Muſca tripilis.
+	Muſca.	Stylus ſub alis capitatus. Alæ 2.	Muſcæ div. ſpec. Oeſtrum Vet. Oeſtrum Lapponum. Tabanus. Culex. Teredo nav. Tipula. Formica-leo.
+HEMIPTERA. Alæ elytris deſtitutæ, Quibuſdam tantum individuis conceſſæ.	Gryllus.	Pedes 6. Alæ 4. ſuperiores craſſiores.	Gryllus domeſticus. Gryllo-talpa. Locuſta. Mantis.
+	Lampyris.	Pedes 6. Clypeus planus. Alæ 4.	Cicindela.
+	Formica.	Pedes 6. Alæ 4. Cauda aculeum condit.	Formica.
+	Cimex.	Pedes 6. Alæ 4. cruciferæ. Roſtrum ſtyliforme, rectum.	Cimex lectularius. Orſodachne. Tipula aquatica. Bruchus.
+	Notonecta.	Pedes 6. quorum poſtici remorum figura & uſu. Alæ 4. cruciferæ.	Notonecta aquatica.
+	Nepa.	Pedes 4. Frons chelifera. Al. 4. crucif.	Scorpio aquat.
+	Scorpio.	Pedes 8. Frons chelifera, aculeata. Alæ 4. laxæ.	Scorpio terreſtris.
+APTERA. Alæ nullæ.	Pediculus.	Pedes 6. Antennæ capite breviores.	Pediculus humanus. Ped. avium. Ped. piſcium. Ped. pulſatorius.
+	Pulex.	Pedes 6. ſaltatrices.	Pulex vulgaris.
+	Monoculus.	Pes 1.? Antennæ bifidæ.	Pulex arboreſc. Swam. Monoculus Bradl. Apus Friſch.
+	Acarus.	Pedes 8. articulis 8 conſtantes. Oculi 2. Ant. minimæ.	Ricinus. Scorpio-araneus. Pedic. inguinalis. Pedic. Scarabæi. Pedic. Scabiei. Araneus coccineus.
+	Araneus.	Pedes 8. Oculi communiter 8.	Araneus. Tarantula. Phalangium.
+	Cancer.	Pedes 12. priores cheliformes.	Cancer. Aſtacus. Pagurus. Squilla. Majas. Eremita. Gammarus.
+	Oniſcus.	Pedes 14.	Aſellus Officin. Aſellus aquat.
+	Scolopendria.	Pedes 20. & ultra.	Scolop. terreſtris. Scolop. marina. Julus.
+[/TABLE]
+
+[NOTE: a brown ink or foxing blot crosses the Acarus / Araneus rows of the INSECTA table; the type under it remains legible.]
+
+[TABLE]
+VI. VERMES.
+Corporis Muſculi ab una parte baſi cuidam ſolidæ affixi.
+
+REPTILIA. Nuda, artubus deſtituta.	Gordius.	Corpus filiforme, teres, ſimplex.	Seta aquatica. Vena Medina.
+	Tænia.	Corpus faſciatum, planum, articulatum.	Lumbricus longus.
+	Lumbricus.	Corpus teres, annulo prominenti cinctum.	Inteſtinum terræ. Lumbricus latus. Aſcaris.
+	Hirudo.	Corpus inferne planum, ſuperne convex. tentaculis deſtitutum.	Sanguiſuga.
+	Limax.	Corpus inferne planum, ſuperne conv. tentaculis inſtructum.	Limax.
+TESTACEA. Habitaculo Lapideo inſtructa.	Cochlea.	Teſta univalvis, ſpiralis, unilocularis.	Helix. Labyrinthus. Voluta Cochlea varia. Buccinum. Lyra. Turbo. Caſſida. Strombus. Fiſtula. Terebellum. Murex. Purpura. Aporrhais. Nerita. Trochus.
+	Nautilus.	Teſta univalvis, ſpiralis, multilocularis.	Nautilus. Orthoceros. Lituus.
+	Cypræa.	Teſta univalvis, convoluta, rima longitudinali.	Concha Veneris. Porcellana.
+	Haliotis.	Teſta univalvis, patula, leviter concava, perforata, ad angulum ſpiralis.	Auris marina.
+	Patella.	Teſta univalvis, concava, ſimplex.	Patella.
+	Dentalium.	Teſta univalvis, teres, ſimplex.	Dentalium. Entalium. Tubus vermicul.
+	Concha.	Teſta bivalvis.	Mytulus. Vulva marina. Pholus. Bucardium. Perna. Chama. Solenes. Tellina. Pinna. Oſtrea. Pecten. Mitella. Vomer.
+	Lepas.	Teſta multivalvis. Valvulæ duabus plures.	Concha anatifera. Verruca teſtudin. Balanus marinus.
+ZOOPHYTA. Artubus donata.	Tethys.	Corpus forma variabile, molle, nudum.	Tethya. Holothurium. Penna marina.
+	Echinus.	Corpus ſubrotundum, teſta tectum, aculeis armatum.	Echinus marinus.
+	Aſterias.	Corpus radiatum, corio tectum, ſcabrum.	Stella marina. Stella oligantis. St. pentactinoides. St. polyſactinoid.
+	Meduſa.	Corpus orbiculatum, gelatinoſum, ſubtus filamentoſum.	Urtica marina. Urt. vermiformis. Urt. crinita. Urt. aſtrophyta.
+	Sepia.	Corpus oblongum, interne oſſeum, anterius octo artubus donatum.	Sepia. Loligo.
+	Microcoſmus.	Corpus variis heterogeneis tectum.	Microcoſm marin.
+[/TABLE]

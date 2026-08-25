@@ -1,0 +1,61 @@
+[PAGE 134]
+
+134	[RUNNING HEAD] A SYNOPSIS OF THE SIPHONOPHORA
+
+down beyond the radial canals of the nectosac. On either side is given off a right and left 'dorsal somatic canal'. Each sends a branch to the flank of the hydroecial cavity.
+
+In N. diomedeae I homologize Bigelow's C.pa3 with C.D.R. (right dorsal canal) in N. thetis, and his C.pa1 with C.D.L. in N. thetis. In N. diomedeae the right hand canal C.pa3 sends branches to both sides of the twisted hydroecium, and the left branch sends only small ones.
+
+Eudoxid phase (Plate XXIII, figure 5; Text-fig. 75B.)
+
+The large, flattened, triangular bract of the eudoxid in general somewhat resembles the polygastric nectophore and may be as much as 3·3 cm in length. Bigelow (1911b) figured both an early growth-stage and a mature one. In the former (fig. A, p. 193) is clearly typified the prayine pattern of branching of the somatocyst (text-fig. 74): a pair of hydroecial canals on the wall of the hydroecium, a ventral branch C4 on the opposite side, and dorsal branch C3. The hydroecial canals each give rise to a lateral branch. In later growth-stages all these branches rebranch in a complex way, the longitudinal ones asymmetrically. The large gonophore bears gonads in its manubrium, and is not an asexual swimming bell as in other species.
+
+A well preserved eudoxid taken at 'Discovery' St. 3272, TYFB, 1000–0 m on 27.vi.1955 has three ridges on the side shown by Bigelow (1911b) in his plate 1, figure 6.
+
+[FIGURE]
+C3
+A
+Bg.
+Gz
+C.lat.
+O.c
+C.rad v.
+Ns
+C.rad.lat.
+C.long.
+C.radd.
+C4
+N.spec.
+0	5 mm.
+
+Ang.ap
+Som.
+Qc
+B
+C.pa
+Eud.Br.
+Ang.d–l.
+C.d.–l.
+Gz1
+Gz2
+C.ped
+C.h.r.
+C.radd.
+Ns
+C.h.l.
+C.rad.v
+
+FIG. 76.   Nectopyramis thetis Bigelow
+A, Eudoxid in dorso-lateral view, × 6.6; B, Polygastric phase, dorso-lateral view, × 6.6
+ang.d–l = dorso-lateral angle; Bg = basigaster; C3 = ascending canal; C4 = descending canal; C.br.s = semicircular bracteal canal; C.d–l = dorso-lateral canal; C.h.r = right hydroecial canal; C.lat = lateral canal; C.lat1 = branch of lateral canal; C.long = longitudinal canal; C.pa = pallial canal; C.ped = pedicular canal; C.rad.d, C.rad.lat, C.rad.v = dorsal, lateral and ventral radial canals; Eud.br = bract of eudoxid; go = gonophore; gz1, gz2= gastrozooids; Ns = nectosac; N.spec. = special nectophore; O.C = central organ; Som = somatocyst (from Totton, 1954, fig. 37).
+[/FIGURE]
+
+[NOTE: text-fig. 76 occupies the lower two-thirds of the page and consists of two drawings side by side, A on the left and B on the right. Inside [FIGURE] the lettering of drawing A is listed first, in its own reading order down the drawing, then the lettering of drawing B, then the printed caption. The blank line separates the two drawings' label lists. A carries a scale bar lettered "0" at its left end and "5 mm." at its right; the two are given on one line separated by a tab.]
+
+[NOTE: superscripts in the body text and figure: "C.pa3", "C.pa1", "C.pa3" (second paragraph), "C4" and "C3" (Eudoxid phase paragraph), the "3" of "C3" and the "4" of "C4" lettered on drawing A, "Gz1" and "Gz2" on drawing B, and "C3", "C4", "C.lat1", "gz1", "gz2" in the caption key are all printed as superscript numerals.]
+
+[NOTE: the drawn lettering and the caption key do not agree in punctuation, and each is transcribed as printed. Verified at 8–14x: drawing A letters the ventral radial canal "C.rad v." (space, no stop before the v) and the dorsal one "C.radd." (two d's, no stop between them); drawing B letters them "C.rad.v" and "C.radd."; the caption key gives "C.rad.d, C.rad.lat, C.rad.v". Likewise the drawings letter "Ang.d–l." and "C.d.–l." where the key has "ang.d–l" and "C.d–l", and "Eud.Br." where the key has "Eud.br".]
+
+[NOTE: the key entries "C.lat1 =" and "gz1, gz2=" fall at line ends; the second is printed closed up against the equals sign, without the spacing used elsewhere. "O.C = central organ" is printed with a capital C here although the drawing letters it "O.c". The key lists "C.br.s" and "go", neither of which is lettered on either drawing.]
+
+[NOTE: measurements verified digit by digit: 3·3 cm (raised middle dot); fig. A, p. 193; text-fig. 74; St. 3272, TYFB, 1000–0 m, 27.vi.1955; plate 1, figure 6; Plate XXIII, figure 5; Text-fig. 75B; 1911b; × 6.6 twice (low, on-baseline decimal point in the magnifications); Totton, 1954, fig. 37. No printed square brackets occur on this page.]

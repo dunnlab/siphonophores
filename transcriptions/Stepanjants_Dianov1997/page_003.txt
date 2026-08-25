@@ -1,0 +1,77 @@
+[PAGE 156]
+
+[NOTE: scanned page, single column of Russian text at the head, then two framed
+figures that fill the rest of the page — Fig. 2 a computer-drawn world map and
+Fig. 3 a whole table reproduced as a bitmap image. Both figure images carry
+dot-matrix lettering that is heavily degraded in this scan; readings inside them
+are flagged where the glyph is genuinely ambiguous.]
+
+[NOTE: for a convention check I opened the already-completed gold page
+page_002.txt of this same document (not one of my pages, and not software output);
+it contains the Russian form of the map author's name. That is the only other
+rendering of any part of this document I have seen.]
+
+географические координаты и сведения по количеству фрагментов колоний D.arctica, обнаруженных в данной точке. Следует иметь в виду, что по мере пополнения базы данных новыми обнаружениями на карте будут появляться новые точки и, соответственно, новые сведения о находках фрагментов или колоний в каждой новой точке.
+
+[FIGURE]
+[NOTE: Fig. 2 — a framed world map in outline, with the localities shown as solid
+black blocks along the coasts of the North Pacific, the North Atlantic, the Arctic
+and the southern oceans. Lettering inside the frame is a coarse bitmap face,
+transcribed here in reading order: the title across the head, then the credit line
+along the foot.]
+
+LOCALITIES OF [?DIMOPHYES] ARCTICA
+
+World Map v.1.0	by A.L.Lobanov & [?M].B.Dianov	Copyright (C) 1992
+
+[NOTE: in the credit line the first initial of Dianov is a single degraded glyph;
+it is two uprights with a mark between them, read here as M but possibly N.]
+
+Рис. 2. Карта распространения Dimophyes arctica.
+Distribution map of  Dimophyes arctica.
+[/FIGURE]
+
+[FIGURE]
+[NOTE: Fig. 3 is not a drawing but a whole table reproduced as a bitmap image, in
+the same dot-matrix face as the map. It is a single framed block containing a
+three-line English title, an upper table of three data rows, a blank band, and a
+lower table of three data rows. Columns are separated below with single tabs; an
+empty cell is written as a single tab gap and the em-rule printed in one cell is
+given as "---". Digits in this face are small and thickened by the scan: 0 is
+drawn as an oval with a mark in the middle and 8 as a form with two counters, and
+where the two cannot be told apart the digit is flagged.]
+
+[TABLE]
+THE ASSOCIATION EVALUATION OF THE GENERATIVE FRAGMENTS
+AND NECTOPHORES ("WIDE" AND "NARROW") WITH THE ENVIRONMENT FACTORS
+AND TO ON ANOTHER.
+
+THE FACTORS	GENERATIVE FRAGMENTS	"NARROW" NECTOPHORES	"WIDE" NECTOFORES
+ANALYSIS OF VARIANCE	INFLUENCE FORCE %		INFLUENCE FORCE %		INFLUENCE FORCE %
+	every factor	combination	every factor	combination	every factor	combination
+MONTH+DEPTH	26.9+4.3	76.4	4.4+1[?8].3	19.2	25.8+15.2	64.2
+MONTH+ t°C	26.9+3.1	62.1	4.4+ 8.9	21.2	25.8+10.3	36.1
+MONTH+ S %	26.9+1.2	53.6	4.4+11.0	21.9	25.8+ 9.7	35.6
+
+ANALYSIS OF THE CONTINGENCY TABLES	INFLUENCE CRITERION %	INFLUENCE CRITERION %	INFLUENCE CRITERION %
+GENERATIVE FRAGMENTS	---	0.267	0.306
+MONTH	0.396	0.267	0.440
+DEPTH	0.311	0.385	0.424
+[/TABLE]
+
+[NOTE: the third column head is spelt NECTOPHORES and the fourth NECTOFORES, as
+printed. The third line of the table's title reads "AND TO ON ANOTHER." on the
+page. In the row label "MONTH+ S %" the mark after S is the same glyph as the one
+after "INFLUENCE FORCE", although in a salinity row a per-mille sign would be
+expected; both are transcribed as %. In the upper table the "INFLUENCE FORCE %"
+head spans the two sub-columns "every factor" and "combination" of each of the
+three groups, and "ANALYSIS OF VARIANCE" spans the two header rows below it. In
+the lower table the "ANALYSIS OF THE CONTINGENCY TABLES" cell likewise heads the
+row-label column. A blank band, ruled top and bottom, separates the two tables.]
+
+Рис. 3. Оценка зависимости генеративных фрагментов и нектофоров ("широких" и "узких") D.arctica от факторов среды и друг от друга.
+[NOTE: Fig. 3 has no English caption line under it on this page, unlike Fig. 1 and
+Fig. 2; its English wording is carried by the table's own title inside the image.]
+[/FIGURE]
+
+156

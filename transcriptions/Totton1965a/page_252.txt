@@ -1,0 +1,99 @@
+[PAGE 252: unnumbered]
+
+[NOTE: page printed landscape on a portrait leaf, rotated 90° anticlockwise, with no /Rotate flag in the PDF. To read the plate the leaf must be turned 90° clockwise. The plate is transcribed below as if correctly oriented. The words "PLATE IX" are the one exception: they are set in the leaf's own portrait orientation, so once the plate is turned upright they read bottom-to-top up the right-hand edge.]
+
+[PLATE]
+PLATE IX
+
+1.
+p
+n
+b
+t
+
+2.
+v
+ns
+
+3.
+lp
+ns
+
+9.
+p
+n
+b
+t
+
+10.
+v
+ns
+
+11.
+ns
+
+7.
+pl
+fg
+mg
+plb
+sp
+bg
+sh
+so
+t
+ple
+
+12.
+bc
+
+8.
+tp
+cn
+th
+t
+ta
+lh
+
+6.
+bc
+
+13.
+sp
+bg
+sh
+so
+ple
+pl
+plb
+t
+fg
+mg
+
+14.
+tp
+cn
+th
+th
+ta
+
+4.
+bc
+
+5.
+bc
+[/PLATE]
+
+[NOTE: this leaf is entirely occupied by PLATE IX, a single lithographed block carrying all fourteen figures. Its caption, with the key to the abbreviations, is on the facing leaf, PDF page 251; no caption text is repeated here.]
+
+[NOTE: "PLATE IX" is set in bold full capitals in the top right corner of the leaf as the leaf lies portrait — that is, outside the plate block and in the text orientation, not the plate's. It is the only text on the leaf that is not part of the lithograph.]
+
+[NOTE: the figures are NOT laid out in numerical order. Read in the corrected (landscape) orientation, the top band runs 1., 2., 3., 9., 10. left to right; below them 7. occupies the centre with 11. and 12. down the right; the lower band runs 8. at the far left, then 6., 13. and 14.; and 4. and 5. sit along the bottom between 6. and 13. The [PLATE] block above lists the tokens figure by figure, each figure's number first and then its own reference letters in their reading order within that figure, with a blank line between figures; the figures themselves are given in the order just described, not renumbered.]
+
+[NOTE: every reference letter is engraved in small italic and joined to the structure it names by a fine dotted or ruled leader. Figures 1 and 9 each carry p, n, b and t; figures 2 and 10 each carry v and ns; figure 3 carries lp and ns; figure 11 carries ns alone; figures 4, 5, 6 and 12 each carry bc alone; figure 8 carries tp, cn, th, t, ta and lh; figure 14 carries tp, cn, th, a second th and ta; figures 7 and 13 carry the full set of cormidial letters as listed. Figure 14 is the only figure with a repeated letter.]
+
+[NOTE: the letter "lp" on figure 3 does not appear in the key printed on the facing caption leaf (PDF page 251), which lists lh but no lp. Transcribed as printed; the reading of both letters is clear at magnification.]
+
+[NOTE: there is no printed folio, no running head and no printer's signature mark on this leaf.]
+
+[NOTE: no printed square brackets and no editorial query marks appear on this leaf.]

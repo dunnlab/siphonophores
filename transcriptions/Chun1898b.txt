@@ -1,0 +1,120 @@
+<<<PAGE pdf=1 file=page_001.txt>>>
+[PAGE 1: unnumbered]
+[NOTE: journal volume title page. Faint pencil and ink annotations across the head of the page, mostly illegible.]
+
+[HANDWRITTEN] [?615] [followed by a heavy vertical pencil stroke]
+[HANDWRITTEN] [illegible] V
+
+Zoologischer Anzeiger
+
+herausgegeben
+
+von
+
+Prof. J. Victor Carus
+
+in Leipzig.
+
+Zugleich
+
+Organ der Deutschen Zoologischen Gesellschaft.
+
+XXI. Band. 1898
+
+No. 549—576.
+
+Mit 156 Abbildungen.
+
+Leipzig
+
+Verlag von Wilhelm Engelmann
+
+1898.
+
+[HANDWRITTEN] [illegible] [lower left, beneath "Verlag von Wilhelm Engelmann"]
+
+<<<PAGE pdf=2 file=page_002.txt>>>
+[PAGE 309]
+
+und eine Hypothese ist doch himmelweit verschieden von einer feststehenden Thatsache.
+
+Ich urtheilte damals, wie Keiner besser weiß, als Herr Dr. Wandolleck selbst, nach äußeren, leicht erkennbaren Merkmalen. Die eingehende anatomische Untersuchung des interessanten Materials überließ ich vollkommen ihm. Ich habe das ausdrücklich in meinem Aufsatz gesagt. Mit Bestimmtheit konnte ich also nur von äußerlichen Ähnlichkeiten sprechen. Die Überschrift »eine Flohähnliche Fliege« setzt dies sofort außer allen Zweifel. Wenn von »Zwischenform« und »Verwandtschaft« die Rede war, so zeigt der Text klar, wie diese Worte aufzufassen sind. Hatte ich doch zur gründlichen Untersuchung das Material Herrn Dr. Wandolleck im vollen Vertrauen übergeben. Allerdings vermuthete ich eine Stammesverwandtschaft, das will ich durchaus nicht leugnen und diese meine Vermuthung besteht auch jetzt noch, trotz der vorläufigen Mittheilung des Herrn Dr. Wandolleck. Des Weiteren auf seine thatsächlichen Resultate einzugehen, behalte ich mir vor, bis seine ausführliche Abhandlung erschienen ist. — Eins mußte mich im höchsten Grade überraschen, daß nämlich Herr Dr. Wandolleck mir gegenüber, weder mündlich noch schriftlich, Zweifel gegen die Annehmbarkeit meiner Hypothese geäußert hat.
+
+Von den beiden vorliegenden Formen wird diejenige den Namen weiter führen müssen, deren Geschlecht ich richtig erkannt habe.
+
+[NOTE: new article begins here: 5. Über den Excretionsporus an der Pneumatophore von Physophora.]
+
+5. Über den Excretionsporus an der Pneumatophore von Physophora.
+
+Von Carl Chun.
+
+eingeg. 29. März 1898.
+
+Keferstein und Ehlers machten 1861 darauf aufmerksam, daß Physophora hydrostatica im Stande ist, Luft aus ihrer Luftflasche auszutreiben. An einer bemerkenswerthen Stelle, nämlich dicht oberhalb der jüngsten Schwimmglockenknospen, perlte in Intervallen die Luft hervor. Haeckel bestätigte diese Angabe, indem er sie zugleich durch folgende Beobachtung erweiterte (1869 p. 35): »Die äußere Öffnung, durch welche die Luft aus dem Stamm entweicht, befindet sich, wie Keferstein und Ehlers richtig angeben, oberhalb der jüngsten Schwimmglocken, an dem distalen Ende der Luftkammer. Der kurze Luftgang oder Ductus pneumaticus, welcher bei allen von mir beobachteten Jugendzuständen noch gänzlich fehlte, führt aus dem distalen Ende des Luftsackes durch die Stammwandung hindurch.«
+
+K. C. Schneider veröffentlichte 1896 eine Abbildung, in welcher
+
+<<<PAGE pdf=3 file=page_003.txt>>>
+[PAGE 310]
+
+dieser Luftgang als ein vom ectodermalen Lufttrichter ausgehender Canal mit deutlichem Lumen gezeichnet wird.
+
+Ich wies in meiner Bearbeitung der Siphonophoren der Planktonexpedition (1897) nach, daß weder ein Luftgang existiert, noch auch eine directe Verbindung zwischen dem Porus und dem Ectodermepithel des Lufttrichters. Der Porus stellt vielmehr eine Ausmündung des Gastrovascularapparates dar und sein äußeres ectodermales Epithel geht in den Entodermbelag der Leibeshöhle über. Die Stützlamelle zerfasert sich in seiner Umgebung und ihr anliegende Ringmuskeln stellen einen Sphincter dar. Da die Leibeshöhlenflüssigkeit durch ihn auszutreten vermag, so bezeichnete ich ihn nach Analogie mit ähnlichen bei Coelenteraten vorkommenden Öffnungen als einen Excretionsporus.
+
+Der Austritt von Luft aus dem Excretionsporus erklärt sich in einfacher Weise dadurch, daß der Lufttrichter an den großen Pneumatophoren erwachsener Exemplare gesprengt wird und, wie ich dies an einem im Längsschnitt zerlegten Exemplar zeichnete (Taf. 2 Fig. 2), mit breiter Mündung gegen die Leibeshöhle klafft. Da in der Gasdrüse des Luftsackes, wie schon Keferstein und Ehlers hervorhoben, eine intensive Luftabsonderung stattfindet, so erklärt es sich, daß die Luft in den Gastrovascularraum vortritt und aus dem Excretionsporus hervorperlt.
+
+Schneider bestreitet in dem Zoologischen Anzeiger (No. 552) meine Angaben und hebt hervor: »Ich habe nun bereits 1896 an einer Textfigur dargestellt, wie thatsächlich der Lufttrichter direct mit dem Porus in Verbindung steht, und da ich durch Schneiden zweier Blasen seither meine früheren Befunde bestätigt fand, so muß ich die Chunsche Zurückweisung meiner Angaben für unberechtigt erklären.«
+
+Ich gestatte mir etwas eingehender diese angebliche Bestätigung früherer Befunde zu beleuchten.
+
+Zunächst sei eine Äußerung von Schneider richtig gestellt. Er hebt hervor: »Chun hat auch früher die Blase von Physophora eingehend studiert, den Porus — obwohl er ihn falsch deutet — aber erst gefunden, nachdem ich ihn 96 nachgewiesen hatte«. Wenn Schneider mit diesen Worten anzudeuten versucht, daß ihm die Entdeckung des Porus gebührt, so verweise ich ihn speciell auf die obigen Angaben von Haeckel, der 1869 klipp und klar das beschreibt, was Schneider in seiner Textfigur ohne Bezugnahme auf Haeckel zeichnet.
+
+Über den Porus lauten nun die Angaben Schneider's folgendermaßen: »Ich muß zunächst Chun darin Recht geben, daß am Porus das Entoderm des Luftschirmes in das Ectoderm desselben übergeht.
+
+<<<PAGE pdf=4 file=page_004.txt>>>
+[PAGE 311]
+
+Auch die Auffransung der Schirmlamelle, die mit der Entwicklung eines musculösen Sphincters in Verbindung zu bringen ist, kann ich bestätigen.« Schneider giebt also zu, daß der Porus in den Gastrovascularraum führt, und keinesfalls eine Ausmündung des ectodermalen Trichterepithels darstellt. Das ist der Kernpunct, um den sich die verschiedene Auffassung des Porus dreht; Schneider nimmt seine falschen Angaben zurück, erkennt an, daß ich die Verhältnisse richtig dargestellt habe, behauptet aber nichtsdestoweniger, daß er seine »früheren Befunde bestätigt fand«!
+
+Eine Bestätigung seiner früheren Angaben liegt nur insofern vor, als Schneider an einer der beiden neuerdings von ihm untersuchten Pneumatophoren den Lufttrichter pfropfartig in den Porus vorgedrängt und eingezwängt fand — ein Verhalten, welches freilich die zweite Pneumatophore nicht erkennen ließ. Statt daß nun Schneider sich die Frage vorgelegt hätte, ob denn thatsächlich in diesem Vordrängen des Lufttrichters ein normales Verhalten vorliegt, erklärt er meine Abbildung (Taf. 2 Fig. 8), welche ich auch zu der meinem Vortrag beigegebenen halbschematischen Figur 16 benutzte, für ein »eigenthümliches Bild«.
+
+Ich habe mit Rücksicht auf die Schneider'schen Angaben mein wohl conserviertes Material von Physophora hydrostatica (es entstammt theils der Zoologischen Station von Neapel und wurde von Salvatore lo Bianco conserviert, theils meinen Fängen von den Canarischen Inseln) durchmustert und kam hierbei zu folgenden Ergebnissen.
+
+Sämmtliche Larven und jugendlichen Exemplare, deren Pneumatophore eine Länge von 2—3 mm erreicht, zeigen das von mir auf Taf. 2 Fig. 9 dargestellte Verhalten: der Lufttrichter ist völlig geschlossen und liegt in weitem Abstand von dem Excretionsporus. Dieser Befund stimmt mit meinen nach lebenden Exemplaren entworfenen Zeichnungen überein; das in der Luftflasche enthaltene Gasgemenge prägt sich scharf gegen den soliden Trichter ab und nirgends nimmt man zwischen den Ectodermzellen des letzteren Luftbläschen wahr.
+
+Dasselbe Verhalten zeigen drei größere Pneumatophoren von einer Länge von etwa 7 mm. Die eine derselben zerlegte ich in Längsschnitte, die zweite in Querschnitte und die dritte hellte ich in toto auf. Sie weisen den normalen Bau auf, der nicht nur mit dem Verhalten bei Larven und Jugendformen übereinstimmt, sondern auch die für die Pneumatophore aller Physonecten typische Lagerung des Lufttrichters erkennen läßt.
+
+An einem Exemplar von gleicher Größe fand ich, wie ich dies früher beschrieb, den Lufttrichter gesprengt; Fetzen desselben steckten
+
+<<<PAGE pdf=5 file=page_005.txt>>>
+[PAGE 312]
+
+in dem Excretionsporus und in dem Anfangstheil des Stammes. Es leitet nun zu der abnormen Beschaffenheit des Lufttrichters über, wie ich sie gleichmäßig an den drei größten mir vorliegenden Pneumatophoren, deren Länge zwischen 9 und 12 mm schwankt, vorfinde. Hier klafft der gesprengte Trichter, wie ich es auf Taf. 2 Fig. 2 darstellte, weit offen gegen die Leibeshöhle.
+
+Derartige Exemplare haben offenbar Keferstein und Ehlers vorgelegen. Der Luftaustritt aus dem Excretionsporus wird, wie ich früher hervorhob, dadurch ermöglicht, »daß bei heftigen Contractionen der Pneumatophore der Lufttrichter reißt und daß die in den Anfangstheil des Stammes vordringenden Luftblasen aus dem Excretionsporus hervorperlen«. Selbstverständlich ist diese Äußerung nicht so aufzufassen, als ob nach Sprengen des Trichters es noch Contractionen der Pneumatophore bedürfe, um die Luft austreten zu lassen, da die rege Luftsecretion in der Gasdrüse allein schon genügt, um den Übertritt der Luft in den Gastrovascularraum zu ermöglichen.
+
+An keinem Exemplar fand ich das von Schneider zweimal constatierte Vordrängen des Lufttrichters in den Excretionsporus. Ich stelle dasselbe indessen nicht in Abrede, da es wohl denkbar ist, daß der Trichter bei energischen Contractionen, oder während des Conservierens, in die bezeichnete anormale Lage geräth. Die Anomalie dieses Verhaltens geht allein schon aus dem Umstand hervor. daß das den Trichter umscheidende entodermale Epithel des Gastrovascularraumes aus dem Porus frei nach außen hervorragt.
+
+Thatsache ist nun, daß Schneider auch seine falsche frühere Angabe über die Ausmündung des Lufttrichters vermittelst eines mit deutlichem Lumen versehenen Luftganges, der zum Porus führt, zurücknimmt. Um nun trotzdem seine Auffassung zu retten, daß der Excretionsporus einen Luftporus 1 darstelle, so behauptet er, daß der
+
+[FOOTNOTE] 1 Wenn Schneider den Excretionsporus als Luftporus bezeichnet, so verschleiert er damit das thatsächliche Verhalten. Der Luftporus, wie er an dem apicalen Pol der Pneumatophoren von Rhizophysalien auftritt, führt in den von Ectoderm ausgekleideten Luftsack; der Excretionsporus führt in den von Entoderm begrenzten Gastrovascularraum. Es geht nicht an, zwei Poren von verschiedenem morphologischem und physiologischem Werth mit demselben Namen zu belegen.
+Schneider schließt sich dem von Haeckel gezogenen Vergleich des Porus der Auronectenpneumatophore mit dem Excretionsporus von Physophora an. Hiergegen habe ich zu bemerken, daß es sich nach Haeckel's Darstellung bei den Auronecten um einen Luftporus handelt, der in den Luftsack führt und dorsal gelegen ist. Wir können ihn nicht einem ventral gelegenen Excretionsporus als homolog erachten. Sollte die Untersuchung von Auronecten freilich lehren, daß der vermeintliche Luftporus nicht in den Luftsack führt, sondern als Excretionsporus in den Gastrovascularraum einmündet, und daß weiterhin die jüngsten Schwimmglocken im Umkreis des Excretionsporus ihre Entstehung nehmen, so werde ich ohne Weiteres dem Haeckel'schen Vergleiche zustimmen. Nach der Beschreibung
+
+[NOTE: "hervor. daß das den Trichter umscheidende" is printed with a full stop after "hervor". The footnote-reference numeral after "Luftporus" is a superscript 1.]
+
+<<<PAGE pdf=6 file=page_006.txt>>>
+[PAGE 313]
+
+Austritt von Luft aus dem Trichter ohne Zerreißung desselben erfolge. Er ignoriert völlig die Beschreibung, welche ich von den gesprengten Lufttrichtern großer Pneumatophoren gab und stellt sich vor, »daß sich Luft durch das nach außen frei vorragende Trichterepithel hindurch wühlt«. Mag er dies am lebenden Object demonstrieren!
+
+Wenn Schneider weiterhin behauptet, daß gegen den Austritt von Leibeshöhlenflüssigkeit aus dem Porus »die enge Communication des Stammlumens mit der Blase« spreche, so erlaube ich mir nur darauf hinzuweisen, daß die Communicationsstelle je nach den Contractionszuständen des Stammes der verschiedensten Dehnung fähig ist. Ein Diaphragma, welches das Stammlumen gegen die Pneumatophore abschließt, kommt nicht vor und fehlt speciell auch Rhizophysa, bei der Schneider ein solches beobachtet haben will.
+
+Schneider schließt seine Darlegungen mit folgendem Satz: »Was Chun auf p. 46 im unteren Absatz noch Weiteres vorträgt ist völlig aus der Luft gegriffen und unhaltbar.« Auf diese in Jargon seiner Ausführungen gehaltenen Behauptung glaube ich nicht besser antworten zu können, als indem ich dem Leser den betreffenden Passus vorführe:
+
+»Wenn ich den an der Basis der Pneumatophore in ihrer äußeren als »Luftschirm« bezeichneten Wandung auftretenden Porus als »Excretionsporus« bezeichne, so folge ich einer für die Coelenteraten eingeführten Terminologie. Derartige Excretionsporen kennen wir bei Actinien, Medusen und Ctenophoren als nach außen führende Öffnungen der gefäßartig entwickelten Leibeshöhle. Bei manchen Medusen sind im entodermalen Belag der Umgebung des Porus stickstoffhaltige Endproducte des Stoffwechsels beobachtet worden, welche freilich im Entoderm des Excretionsbulbus von Physophora zu fehlen scheinen. Wir dürfen wohl annehmen, daß — ähnlich wie bei den Ctenophoren — zeitweilen die Leibeshöhlenflüssigkeit durch den Porus entleert wird. Wenn wir weiterhin die ansehnliche Größe der Pneumatophore von Physophora in Betracht ziehen, welche keine Öffnung am apicalen Pol aufweist, so wird die immerhin gelegentlich eintretende Sprengung des Lufttrichters bei energischen Contractionen dadurch in den meisten Fällen verhütet werden, daß der Porus ein Ventil abgiebt, aus welchem die Leibeshöhlenflüssigkeit entweicht.«
+
+[FOOTNOTE] und nach den Abbildungen von Haeckel, die Schneider, obwohl er sie für Phantasiegemälde erklärt, doch allein heranzuziehen vermag, ist es nicht angängig, die Mündung der Aurophora dem Excretionsporus von Physophora homolog zu setzen.
+
+22
+
+[NOTE: the footnote at the foot of this page is the continuation of the footnote begun on p. 312; it carries no reference numeral of its own. "22" at the foot right is the signature mark.]

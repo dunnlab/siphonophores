@@ -1,0 +1,111 @@
+[PAGE 9]
+
+[NOTE: printed square brackets occur on this page and are the source's own, not
+transcriber markers: "[ind.·1000 m^−3]" in the Table 4 caption, and
+"[ind.·1000 m^-3]" twice in the Table 4 column heads, and "[number of species]" in
+the Table 4 caption. Everywhere else on this page "[" is my marker. Superscripts are
+rendered with "^".]
+
+[RUNNING HEAD] M.K. Mańko, et al.
+[RUNNING HEAD] Progress in Oceanography 189 (2020) 102414
+
+[FIGURE]
+[NOTE: the figure occupies the head of the page across both columns. What follows is
+the printed lettering only — the y-axis end labels, then the labels within the plot
+frame in approximate reading order (top to bottom, left to right), then the x-axis end
+labels.]
+0.8
+-0.8
+Temperature
+Salinity
+P. hydrostatica
+IL1
+A. digitale juvenile
+B. superciliaris
+D. arctica posterior
+SLOPE
+IL2
+Beroe sp.
+Tot. abundance
+Trachymedusae indet.
+SL
+SHELF
+D. arctica anterior
+Ctenophora indet.
+A. digitale intermediate
+IL3
+OFFSHORE
+Diphyid eudoxid indet.
+A. digitale mature
+M. ovum
+EXTERIOR
+D. arctica eudoxid
+R. plicata
+DL
+H. cirratus
+H. platygonon
+M. bargmannae
+P. haeckeli
+C.amygdalina
+Tot. biomass
+M. orthocanna
+C. vesicarium
+-1.0
+1.0
+
+Fig. 6. The results of the canonical correspondence analysis (CCA). Ordination diagram showing the relationships between the abundances of the gelatinous taxa and significant environmental and biotic drivers.
+[/FIGURE]
+
+[TABLE]
+Table 3
+Partitioning of variation (p = 0.001) explained by three groups of factors in the CCA (Fig. 5).
+	Fraction	Members	Variation (adjusted)	% of explained	% of all	df	Mean square
+Geographic	a	Zone, Depth	0.408	35.3	9.3	8	0.0953
+Hydrographic	b	Temperature, Salinity	0.013	1.1	0.3	2	0.0528
+Biotic	c	Zooplankton abundance, zooplankton biomass	0.057	4.9	1.3	2	0.0716
+Combined	d	a × b	0.235	20.3	5.4	–	–
+	e	b × c	0.165	14.2	3.8	–	–
+	f	a × c	0.017	1.5	0.4	–	–
+	g	a × b × c	0.262	22.7	6.0	–	–
+		Total explained	1.158	100.0	26.5	12	0.1437
+[/TABLE]
+
+found in this water mass.
+
+Most GZ taxa studied showed affinity to more than one water mass (Table 5). Few species were found to share relatively high association index with more than 2, or even 3 water masses, yet even in such cases, either of the water masses always prevailed (Table 5). For example, all three life cycle stages of A. digitale were found to associate with waters of Atlantic origins, but each life cycle stage of this species favoured the particular water mass. Both the juvenile and mature A. digitale seemed to prefer AtW, whereas the intermediate specimens of this species dominated in TAW (Table 5). Non-Aglantha Trachymedusae were all found solely in ArW, as were the two siphonophores, C. amygdalina and M. orthocanna. Polygastric colonies of D. arctica appeared to prefer TAW, while the strongest association of this species eudoxids was found with the Arctic water.
+
+[TABLE]
+[NOTE: Table 4 and its caption are printed in the lower left column, immediately below
+the left-column portion of the preceding paragraph (which ends "For example, all"). It
+is placed here so that the paragraph running from the foot of the left column into the
+head of the right column is kept whole, as the protocol directs.]
+Table 4
+Summary statistics of GZ and Aglantha digitale abundance [ind.·1000 m^−3], and diversity of GZ community [number of species] within each water mass.
+	Abundance of GZ [ind.·1000 m^-3]		Abundance of A. digitale [ind.·1000 m^-3]			Number of species
+	Mean	SD	Mean	SD	% of all GZ	Max	Mean	SD
+SSW	1672.18	743.23	-	-	0.00	4	3.00	0.82
+AtW	250.55	387.44	85.88	260.77	66.01	3	0.65	0.76
+TAW	452.47	174.83	162.99	73.06	38.42	3	2.81	1.33
+IW	224.55	112.66	99.14	57.98	44.15	5	1.60	0.80
+ArW	401.88	188.13	75.13	98.23	18.69	8	3.89	1.74
+[/TABLE]
+
+Partitioning of distribution of distinct life cycle stages between different water masses was clear for A. digitale, but not for D. arctica (Fig. 7, Table 2). However, in the case of the latter, it can be deduced that the higher abundance of this species was associated with ArW (Fig. 7), presumably because of the eudoxids' proclivity to that particular water mass (Table 5). Whereas for A. digitale, juveniles, although present in all water masses (Fig. 7), clearly preferred warmer AtW (Table 5, Fig. 7), while the intermediate stage, though also occurring in the colder ArW and AtW, associated mostly with TAW.
+
+9
+
+[NOTE: source oddities transcribed as printed, not corrected: the Table 3 caption cites
+"(Fig. 5)" where the figure partitioned is Fig. 6; the Fig. 6 label "C.amygdalina" has
+no space after the initial, unlike every other abbreviated binomial on the figure; the
+Table 4 caption sets the exponent of "m−3" with a true minus sign while the two
+Table 4 column heads set it with a hyphen ("m-3"); missing values in the Table 4 A.
+digitale Mean and SD columns for SSW are printed as hyphens, whereas Table 3 prints its
+missing df and Mean square values as en dashes; and the body text prints "clear for A.
+digitale," with the comma inside the italic run. Italics are not marked in this
+transcription: the species names in the body text and in the Fig. 6 plot labels, the
+"df" column head in Table 3, and "Aglantha digitale" / "A. digitale" in the Table 4
+caption and column head are set in italic on the page. Colour is not marked: in Table 4
+the water-mass row labels SSW, AtW, TAW, IW and ArW sit in coloured cells, and the
+Fig. 6 lettering is in black, dark blue, orange, green and red; in the body text and
+table captions the cross-references ("Table 5", "Fig. 7", "Table 2", "Fig. 5") are set
+in blue as hyperlinks.]

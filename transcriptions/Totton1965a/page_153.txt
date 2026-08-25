@@ -1,0 +1,59 @@
+[PAGE 148]
+
+148	[RUNNING HEAD] A SYNOPSIS OF THE SIPHONOPHORA
+
+text-fig. 50). The detailed shape of the mouth-plate, which consists of two side pieces and a central thickening, is shown in figures A, C and D of the figure cited above.
+
+There is a succession of buds. I have seen a pair, a larger posterior with a smaller anterior, as shown by Bigelow (1918, fig. 198). There was in addition a third rudiment on the base of the pedicel of the small anterior bud.
+
+Tentilla:   Of the basic calycophoran pattern. The pedicel is folded concertina-wise in its distal part, next to the saccus. In the saccus it is continued by a single 'Angelband', also folded concertina-wise, larger in diameter distally where it is attached to the outer end of the saccus, at the junction of cnidoband, rowel (see 3 below) and terminal filament. There are three chief types of nematocysts, apart from those of the terminal filament:
+
+[TABLE]
+		Length	Diameter
+		in μ	in μ
+1.	Two baso-lateral groups of three large ensiform	56–58	7–8
+2.	Small paliform, of cnidoband	19–24	3–5
+3.	Two bunches of three small pyriform nematocysts
+	called the rowel, on branching fibre	9–11	7–8
+[/TABLE]
+
+Eudoxid phase – not identified
+(See text-fig. 84 for stem groups.)
+
+[FIGURE]
+0	2 mm.
+
+FIG. 87   Sulculeolaria turgida (Gegenbaur)
+Anterior nectophore from the Adriatic.
+[/FIGURE]
+
+[FIGURE]
+A
+H
+2.m.m.
+1
+Pl.M.
+0
+
+2.m.m.
+B
+1
+0
+
+FIG. 88.   Sulculeolaria turgida (Gegenbaur)
+Posterior nectophore from 'Discovery' St., 1581, × 11.
+A, ventral view; B, lateral view.
+H = hydroecium; Pl.M = mouth-plate (from Totton, 1954, fig. 52).
+[/FIGURE]
+
+[NOTE: the lower half of the page carries two text-figures side by side, each with its own caption set under it to the width of its own half: text-fig. 87, a single drawing, in the left half, and text-fig. 88, two drawings (A ventral and B lateral), in the right half. Following the protocol for column layout, the whole of the left figure and its caption is given first, then the whole of the right one. The two captions are set at differing depths on the page, text-fig. 88's beginning higher.]
+
+[NOTE: scale bars. Text-fig. 87 has a horizontal bar lettered "0" at the left end and "2 mm." at the right, given here on one line separated by a tab. Text-fig. 88 has a vertical bar beside each drawing, each lettered "2.m.m." at the top, "1" at the middle tick and "0" at the foot; drawing A's bar stands to the left of the drawing and drawing B's to the right, so in A's label list "Pl.M." falls between the bar's "1" and "0". All verified at 8–12x.]
+
+[NOTE: "FIG. 87" is printed with no full point after the number, whereas "FIG. 88." has one. The mouth-plate is lettered "Pl.M." with a stop on the drawing and given as "Pl.M" without one in the caption key; both are as printed.]
+
+[NOTE: the table is set with the two numeric columns ranged under bold headings "Length" and "Diameter", each with "in μ" beneath; μ is the Greek letter mu. Entry 3 runs over two lines, the measurements standing against the second, and the line break is preserved. Numerals verified digit by digit: 56–58, 7–8; 19–24, 3–5; 9–11, 7–8.]
+
+[NOTE: other numerals verified digit by digit: text-fig. 50; Bigelow (1918, fig. 198); text-fig. 84; FIG. 87; FIG. 88, 'Discovery' St., 1581, × 11, Totton, 1954, fig. 52. "St., 1581" is printed with a comma after "St.".]
+
+[NOTE: "'Angelband'" is printed in italic within roman single quotation marks. The dash in "Eudoxid phase – not identified" is an en rule. No printed square brackets occur on this page.]

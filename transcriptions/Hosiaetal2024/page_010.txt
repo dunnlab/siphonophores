@@ -1,0 +1,40 @@
+[PAGE 10]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+Distribution
+
+The type locality of Nanomia bijuga (original name Physsophora bijuga Delle Chiaje, 1844) is the Gulf of Naples. In addition to all our specimens from the Mediterranean, specimens from the Gulf of California and Hawaii were identified as N. bijuga, confirming the presence of the species in North Atlantic and low-latitude Pacific waters (Figure 2). In addition, sequences originating from off Virginia (GenBank accession AY937373) and Bermuda (GenBank accession GQ120022) as well as Korean waters (Park and Lee, 2022) were molecularly confirmed as N. bijuga. According to Totton (1954) N. bijuga is distributed in the Tropical Atlantic, Mediterranean, West Indian, Indian Ocean and warm-water Pacific.
+
+Remarks
+
+The auriculate ridge, which is here identified as being a diagnostic character of N. bijuga proper, was clearly present in Totton's specimens from Villefranche-sur-Mer (Figures 32 & 34 in Totton, 1965), and in our material from Northern Adriatic, the re-examined Peabody Atlantic specimen from off Virginia, and our specimens from the Gulf of California and Hawaii. Auriculate ridges have also been described from the Benguela current (Pagès and Gili, 1992) and the South Atlantic (Figure 3.14 in Pugh, 1999), as well as in material collected from the Indian Ocean, off Zanzibar (Mapstone, 2009). In the Pacific Ocean, Kawamura (1911) illustrates auriculate ridges in the west Pacific specimens he studied at Misaki marine station in Japan (reproduced in Pl. X in Totton, 1965), while Agassiz and Mayer (1902) describe specimens with auriculate ridges from Funafuti Atoll, Tuvalu, as Anthemodes moseri. These observations suggest that the distributional range of N. bijuga may well be considerably wider than documented by the current study. However, due to the existence of the two as of yet morphologically undescribed lineages, it is unclear whether the auriculate ridges will remain a diagnostic character for N. bijuga alone.
+
+Our data also indicate undescribed intraspecific molecular and morphological variation between populations of this widespread species, warranting closer scrutiny. Agassiz and Mayer (1902) also noted that the Pacific specimens in many respects differ from the Atlantic ones. For example, the specimens from the Gulf of California and Hawaii have ~30 nectophores (Supplementary Figure S4), making them veritable giants compared to the Mediterranean specimens commonly observed.
+
+The history of N. bijuga is convoluted. The original description is rather vague, based on just a few figures (Delle Chiaje, 1844), and there are at least 14 wholly or partly synonymized names (Schuchert, 2024, also see Mapstone, 2009). Here, we provide, for comparative purposes, a description of the material examined for this study only (Supplementary Table S1), and keep to the currently established nomenclature. It should be noted that we have not examined type material for N. bijuga (if it exists) or any of the synonymized species, nor have we examined material from the type locality in the Bay of Naples.
+
+3.2.2 Nanomia cara A. Agassiz, 1865
+
+Material examined is specified in Supplementary Table S1.
+
+Diagnosis. Longitudinal septa in pneumatophore indistinct; nectosome with red pigment spots in life (yellow when preserved). Mature nectophores flattened along upper-lower axis, orthogonal to
+
+stem axis, resulting in elongate proximal-distal axis and short upper-lower axis; axial wings extending along this axis to beyond stem attachment point, without axial groove; no auriculate ridge connecting upper-lateral ridge with lateral ridge; thrust block extensive in larger nectophores. Palpon with proximal lipid droplet.
+
+Barcode Index Number (BIN) in BOLD: ACQ6137.
+
+Description
+
+Pneumatophore: Up to 2.0 mm long (in preserved specimens), with red pigmented apex when alive (Figure 7), remainder transparent with gas gland occupying posterior half to one third and opaque white in present material. Occasional very thin irregular longitudinal lines, one or more, observed on surface. Apical pore present.
+
+Nectosome. Nectosomal stem bearing yellow-red pigment spots scattered over ventral surface at anterior end and continuing along nectosome as two faint pigmented lines to two thirds or more of total length in live images from large Gulf of Maine colony (Figure 7); bearing red pigment spots at anterior end in nectosome of smaller live colony from Rocky Bay; yellow spots also discernible in some preserved nectosomes from Norwegian material. Nectophores arising from nectophoral muscular lamellae on dorsal surface only; nectophores typically detach at preservation due to contraction of specimen.
+
+Nectophores: Nectophores colorless, shape changing with size (Figure 8). Smallest nectophores approximately cubical, without conspicuous proximal axial wings, reminiscent of N. bijuga (Figure 8, also see Figure 2 (as N. bijuga) in Haberlin et al., 2016). Largest nectophores reaching 8.7 x 11.3 mm max length by width, conspicuously flattened along the upper-lower axis and with conspicuous axial wings (Figures 8, 9). 15 mature nectophores present in live Gulf of Maine specimen (Figure 7).
+
+Ridge pattern similar in all well-preserved nectophores (Figure 9): upper-lateral ridges originating at proximal tip of axial wing, extending distally along upper outer edges of nectophore to highest point (in lateral view) or a short way distal of it, passing onto upper nectophore surface, continuing diagonally towards distal mid-line for a short distance and terminating near latter; lateral ridges originating from upper-lateral ridges, curving downwards onto lateral nectophore surface and inserting onto ostium at ostial process; lateral ridges relatively longer in smaller, young nectophores than in larger, older ones. Vertical-lateral ridges originating from upper-lateral ridges, extending distally diagonally down lateral sides of nectophore and inserting onto lower-lateral ridge about halfway along its length; lower-lateral ridges extending from near end of axial wing along lower outer edge of nectophore and in mature nectophores inserting onto lower-lateral borders of ostium.
+
+Nectosac well-rounded in young nectophores, y-shaped and extending into axial wings in older larger nectophores (Figure 8). Radial canals issuing from the internal pedicular canal (sometimes staggered). Upper and lower radial canals straight, lateral radial canals forming two upward loops en route to ostium including a proximal loop upwards from the junction, and a second upward loop on lateral nectosac surface, inserting onto ostial ring canal at position of ostial process. Ascending and descending mantle canal present; the ascending mantle canal extends up to the thrust block
+
+Frontiers in Marine Science	10	frontiersin.org
+
+[NOTE: Two-column page with no figures; the left column is transcribed in full, then the right. The paragraph beginning "stem axis, resulting in elongate proximal-distal axis" heads the right column and completes the sentence broken off at "orthogonal to" at the foot of the left column, and the page ends mid-sentence at "up to the thrust block". Presentation ligatures (fi, fl, ff) are transcribed as the ordinary letter sequences. The apostrophe in "Totton's" is a printed right single quotation mark; "Pagès" carries a printed grave accent. The run-in italic headings "Distribution", "Remarks", "Material examined", "Diagnosis." and "Description" and the bold run-in headings "Pneumatophore:", "Nectosome.", "Nectophores:" and "Barcode Index Number (BIN) in BOLD:" begin their paragraphs in print; "Nectosome." is printed with a full point where the parallel headings have a colon. Running head and running foot elements are separated by tabs.]

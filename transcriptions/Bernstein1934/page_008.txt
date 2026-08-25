@@ -1,0 +1,43 @@
+[PAGE 40]
+
+40 —
+
+Таблица 3
+
+[TABLE]
+[NOTE: column heads are set vertically (rotated 90°); they are given here as an ordinary header row. Stub column heads read "Первый разрез 1930 г." (upper left box), "№№ станций", "Местоположение", "Горизонты в метрах".]
+
+Первый разрез 1930 г.	№№ станций	2	2	2	2	2	3	3	3	4	4	4
+Первый разрез 1930 г.	Местоположение	78°26′ N, 64°43′ E	78°26′ N, 64°43′ E	78°26′ N, 64°43′ E	78°26′ N, 64°43′ E	78°26′ N, 64°43′ E	78°58′ N, 68° 25′ E	78°58′ N, 68° 25′ E	78°58′ N, 68° 25′ E	[?7]9°11′ N, 71° 39′ E	[?7]9°11′ N, 71° 39′ E	[?7]9°11′ N, 71° 39′ E
+Первый разрез 1930 г.	Горизонты в метрах	362—200	200 – 100	100—50	50—25	25 – 0	340—100	100—25	25—0	500—100	100—25	25 - 0
+Homoeonema platygonon . . . .	2*	7	—	—	—	1	—	—	1	—	—
+Aglantha digitule . . . . . .	1	1	–	—	—	—	—	—	—	—	—
+Aeginopsis laurentii . . . . . .	—	—	2	3	—	—	—	—	5	—	—
+Diphyes arctica . . . . . . . .	4	8	2	—	1	12	1	—	25	1	—
+Beroe cucumis . . . . . . . . .	--	—	—	—	—	—	—	—	—	1	—
+Sagitta bipunctata . . . . . . .	1	—	—	—	3	3	—	—	—	5	—
+Krohnia hamata . . . . . . . .	—	2	2	2	1	8	1	3	9	—	—
+Polychaeta larvae . . . . . . .	1	1	—	—	—	—	—	—	4	—	—
+Calanus finmarchicus . . . .	13	9	7	29	82	39	8	421	33	136	66
+Calanus hyperboreus . . . . . .	—	—	—	—	4	—	—	5	1	8	4
+Pseudoculanus elongatus . . . .	9	13	11	62	47	9	3	3	28	41	13
+Microcalanus pygmaeus . . . . .	17	2	3	2	—	24	3	—	105	1	—
+Amallophora magna . . . . . .	—	—	—	—	—	—	—	—	1	—	—
+Gaidius tenuispinus . . . . .	—	1	–	—	—	2	—	—	6	—	—
+Euchaeta norvegica . . . . .	—	—	—	—	—	—	—	—	--	1	—
+Euchaeta glacialis . . . . . . .	—	1	—	—	—	—	—	—	—	—	—
+Metridia longa . . . . . . .	38	5	3	5	2	58	16	1	161	24	—
+Heterorhabdus norvegicus . . . .	—	1	—	—	—	3	—	—	—	—	—
+Oithona similis . . . . . . . .	8	18	49	99	48	17	100	25	50	41	9
+Harpacticidae . . . . . . . .	1	—	2	—	—	4	—	—	3	—	—
+Ostrucoda . . . . . . . . . . .	12	2	—	—	—	17	3	—	23	—	—
+Amphipoda . . . . . . . . . .	—	4	1	1	—	4	3	1	4	1	—
+Gastropoda juv. . . . . . . . .	1	—	1	5	21	3	—	1	1	11	14
+Limacina helicina . . . . . . .	—	—	—	—	—	—	—	—	2	—	—
+Ophiopluteus . . . . . . . . .	—	—	3	8	—	—	—	—	—	1	—
+Fritillaria borealis . . . . . . .	—	—	2	20	2	2	25	—	23	8	—
+Oikopleura labradoriensis . . . .	1	—	1	11	—	—	3	7	4	2	—
+[/TABLE]
+
+[FOOTNOTE] * Цифры обозначают количество организмов в пробе.
+[FOOTNOTE] Die Zahlen zeigen die Menge der in der Probe enthaltenen Organismen an.

@@ -1,0 +1,47 @@
+[PAGE 18]
+
+PLOS One
+
+Population structure was analyzed following the workflow described in Church et al. [18]. In brief: libraries were assessed for contamination with Kraken2 [102]; sample kinship was evaluated using Plink2 [103]; reads were then mapped to the reference assembly using BWA [104] and alleles were called using BCFTools v1.16 [105]; genotype likelihoods were calculated using ANGSD v.0.935 [106]; principal components of genomic variation were analyzed on genotype likelihoods using PCANGSD v1.21 [107]. We repeated this analysis for Nanomia bijuga and Nanomia septata separately, using assembled transcriptomes from PacBio Iso-Seq data as the reference, and compared our results to those using the Nanomia septata reference genome.
+
+Supporting information
+
+S1 Table. Number of sequences placed in orthogroups containing homeobox genes. These numbers refer to homeodomain containing proteins placed in orthogroups identified by searching for landmark human homeobox sequences functionally annotated by EggNOG-mapper (Cantalapiedra et al. 2021; Huerta-Cepas et al. 2019). We corroborated N. septata orthofinder results by identifying homeodomain-containing proteins with HMMER (hmmer.org), confirming they were placed in verified orthogroups and searching for highly divergent homeodomain-containing proteins that could have been placed in separate orthogroups. These numbers do not include sequences that were unassigned to an orthogroup or not annotated in the genome of these species. Classification of genes according to Holland et al. (2007). Orthogroup gene trees sorted by homeobox class available in the supplementary data folder. N. septata: Nanomia septata, A. queenslandica: Amphimedon queenslandica, N. vectensis: Nematostella vectensis, M. virulenta: Morbakka virulenta, R. esculentum: Rhopilema esculentum, H. vulgaris: Hydra vulgaris, C. hemisphaerica: Clytia hemisphaerica, H. symbiolongicarpus: Hydractinia symbiolongicarpus.
+(XLSX)
+
+S2 Table. Differentially expressed genes for all zooid types and stages in Nanomia septata.
+(XLSX)
+
+S3 Table. Differentially expressed genes that are shared between some zooid types in Nanomia septata.
+(XLSX)
+
+S4 Table. Genome coverage of major TE groups.
+(XLSX)
+
+S5 Table. Genome coverage of TE families.
+(XLSX)
+
+S6 Table. Support values for synteny analyses for Fig 3 and S7 Fig.
+(XLSX)
+
+S7 Table. The names used for chromosomes in the manuscript vs. their accession number/sequence name.
+(XLSX)
+
+S8 Table. Specimen data and accession numbers of all WGS Nanomia samples that are introduced in this study and samples from previous studies, including CWD16 and NA19 from Ahuja et al. 2024 and zooid RNA-seq datasets from Munro et al. 2022.
+(XLSX)
+
+S1 Fig. Antp homeobox gene tree (Hox and Nk-related gene families). Maximum likelihood tree of 1,465 Hox and Nk-related sequences, built under model LG + R8, with ultrafast bootstrap branch support (1,000 replicates) values along branches. This tree contains protein sequences from the orthogroup with Antp homeobox genes, in addition to previously
+
+PLOS One | https://doi.org/10.1371/journal.pone.0351247	July 2, 2026	18 / 25
+
+[NOTE: Single-column page. It opens with the last paragraph of the Methods, continuing from page 17 (which ended on a complete sentence; this paragraph is new), then the bold heading "Supporting information" and the start of the supporting-item list. Each item is a bold caption title (with its descriptive text, where present, in roman) followed by a file-format line, "(XLSX)", on its own line; those line breaks are semantically real and are kept, as are the blank lines between items. The page ends mid-sentence inside the S1 Fig caption, at "in addition to previously".
+
+PAGE FURNITURE: the PLOS One masthead and pictorial device at the head, and the running foot "PLOS One | https://doi.org/10.1371/journal.pone.0351247   July 2, 2026" with the page-number line "18 / 25" at the right; the foot's three elements are separated by tabs above. Printed, and so transcribed. There is no Crossmark stamp on this page.
+
+Words broken across a printed line by a soft hyphen have been joined and the hyphen removed, per the protocol: "likelihoods" (printed "like-" / "lihoods"), "genotype" (printed "geno-" / "type"), "homeodomain" (printed "home-" / "odomain"), "symbiolongicarpus" (printed "symbiolongi-" / "carpus", in italic), "datasets" (printed "data-" / "sets", in bold). Real hyphens kept: "EggNOG-mapper", "Huerta-Cepas", "homeodomain-containing", "Iso-Seq", "RNA-seq", "Nk-related".
+
+"LG + R8" is printed with thin spaces either side of the plus sign, rendered as ordinary spaces. Note the source's own inconsistencies, transcribed as printed: "EggNOG-mapper" here against "eggNOG-mapper" on page 15; "CWD16" here against "CWD116" on page 17; and "homeodomain containing" unhyphenated in the second line of the S1 Table caption against "homeodomain-containing" hyphenated twice later in the same caption.
+
+The S1 Table caption cites three works by author and year in running text - "(Cantalapiedra et al. 2021; Huerta-Cepas et al. 2019)", "Holland et al. (2007)" - rather than by the bracketed numbers used in the body; as printed.
+
+The reference-number citations "[18]", "[102]"-"[107]" are printed in a blue hyperlink colour; colour is not marked. Caption titles are bold, with the italic gene and taxon names within them in bold italic; taxon names, gene names and abbreviated binomials elsewhere are italic. Bold and italics are not marked. Diacritics: none on this page.]

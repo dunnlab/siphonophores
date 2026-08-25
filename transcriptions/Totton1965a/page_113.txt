@@ -1,0 +1,58 @@
+[PAGE 108]
+[RUNNING HEAD] 108	A SYNOPSIS OF THE SIPHONOPHORA
+
+fig. 58). The outer surface of the spiral succession of the series of bracts forms a cylinder which is a characteristic feature of the specimen and made me realize that it differed from F. edwardsi.
+
+The peduncles of the gastrozooids measure (maximum) 8 mm, and bear half-a-dozen triangular bracts in two overlapping, enantiomorphic and imbricating rows. For illustrations of the bracts see text-figure 59. The gonodendra have been described earlier.
+
+Forskalia formosa Kefferstein & Ehlers, 1860
+Plate XX, figure 5
+
+? F. leuckarti Bedot, 1893b
+
+A doubtful species. Without any pigment spots on nectophores.
+
+Stem:   Up to 2 feet in length.
+
+Nectophores:   The stem-side incision creates two unequal lobes.
+
+Gastrozooids:   On short peduncles hardly exceeding in length that of the rest of the gastrozooid. These peduncles are much shorter than the palpons. Liver-stripes burning brick-red in colour. Cnidobands of tentilla with from two and a half to three laevotropic spiral turns, bright brick-red in colour, 0·46–0·5 mm in length.
+
+Reported only from Messina as single specimens.
+
+Forskalia tholoides Haeckel, 1888
+A little known and doubtful species based on a beautiful idealized figure. Only three or four times recorded since Moser (1925, Taf. XXXII, fig. 1); Kawamura (1954, Pl. I, figs. 1, 3–6).
+
+Nectophores:   Stem side not incised but forming long and tapering peduncles, twice the length of the nectosac. Nectosac little expanded in lateral direction. Lateral facets 'polygonal'.
+
+[FIGURE]
+p
+p¹
+♀
+♂
+pr
+p
+g
+p
+1mm
+
+FIG. 60.   Forskalia leuckarti Bedot
+Gonodendron of Villefranche specimen 581, × 21
+g = gonodendron; p = palpon; p¹ = primary palpon; pr = secondary protrusion from base of a palpon; ♂ and ♀ = male and female gonophores.
+[/FIGURE]
+
+[NOTE: printed folio 108 at the outer (left) edge of the running head; PDF index 113, offset −5 holds. Single column; no footnote, no table, no signature mark. The page opens mid-word with "fig. 58)." — completing "(see text-" from the previous page — so the reference reads "text-fig. 58" across the page turn; the hyphen is a permanent one and is left on the previous page.
+
+PRINTED QUERY, NOT MINE: the synonymy line under Forskalia formosa begins with an italic question mark standing free before the name — "? F. leuckarti Bedot, 1893b" — verified at 6x. It is Totton's own doubt about the synonymy, printed matter, and it is not enclosed in brackets. Compare the two printed query marks after the Leuckart entry in the synonymy on p. 100. No printed square brackets occur on this page; every bracket here is round.
+
+Layout: text and two species headings fill the upper half; text-fig. 60, one large line drawing set full measure with a short horizontal scale bar beneath its left part, fills the lower half, with a four-line caption below it in smaller type. Deep blank bands of about two lines each separate the first two paragraphs from the "Forskalia formosa" heading, and "Reported only from Messina as single specimens." from the "Forskalia tholoides" heading. Under Forskalia tholoides the first paragraph follows the heading directly with no blank line, unlike the arrangement under Forskalia formosa where the "Plate XX, figure 5" line and then the queried synonymy line intervene. About a fifteenth of the page is blank at the foot.
+
+The items inside [FIGURE] before the caption are exactly the labels printed within the drawing and nothing else — the illustration is deliberately not described. In reading order, top to bottom and left to right: "p" (top), "p¹", the female symbol "♀" (right), the male symbol "♂" (centre), "pr", "p" (right), "g" (left), "p" (lower right), and "1mm" set into a gap in the scale bar at the lower left. All are upright sans-serif; in "p¹" the numeral is raised and smaller; the scale legend has no space between figure and unit. Checked at 3.5x. Total lettering: "p" three times, and one each of "p¹", "pr", "g", "♂", "♀", "1mm" — 9 labels.
+
+Caption detail: "FIG." small capitals, old-style 60, full point, wide gap, italic "Forskalia leuckarti", roman "Bedot". "× 21" uses a saltire multiplication cross. The second line ends "× 21" with no full point. In the key the abbreviations are italic — "g", "p", "p¹", "pr" — the explanations roman, each equals sign spaced, entries separated by semicolons; the two sex symbols are given together, "♂ and ♀ = male and female gonophores." Unlike the caption of text-fig. 55 on p. 102, where the male symbol was left unexplained, both symbols are keyed here.
+
+Type: species headings bold italic with roman authority; "Plate XX, figure 5" roman. The queried synonymy line is set in type smaller than the body, flush left and unindented, with the name italic and the authority roman. Italic side-headings each followed by a wide two-space gap: "Stem:", "Nectophores:" (once under each species), "Gastrozooids:". Italic elsewhere: "F. edwardsi", "see", "Taf.". Single curly quotes round 'polygonal'. "Kefferstein" is again spelt with the double-f ligature, as on pp. 97, 102, 103. Author surnames are ordinary upper-and-lower case roman.
+
+Numerals verified digit by digit: 108; fig. 58; 8 mm, text-figure 59; 1860, Plate XX, figure 5; 1893b; 2 feet; 0·46–0·5 mm; 1888; 1925, Taf. XXXII, fig. 1, 1954, Pl. I, figs. 1, 3–6; FIG. 60, 581, × 21, 1mm. Decimal points are raised middle dots, the zeros old-style; the range "0·46–0·5" and "3–6" use en-dashes. Note "Pl. I" is the roman numeral one, not the letter I of a word, and Kawamura's figures are "1, 3–6" with 2 absent. The cross-reference here is spelt "text-figure 59", where p. 104 used "text-fig. 59" for the same figure.
+
+Stray marks, all scanning blemishes: a speck high in the left margin above the folio, a speck in the left margin level with the "Forskalia tholoides" heading, a speck in the right margin level with "brick-red" in the Gastrozooids paragraph, a speck in the drawing area right of the lower "p", a speck below the caption near the centre, and a small dot low on the page below the caption. None is printed matter.]

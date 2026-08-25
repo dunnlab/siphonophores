@@ -1,0 +1,436 @@
+<<<PAGE pdf=1 file=page_001.txt>>>
+[PAGE 1: unnumbered]
+
+[NOTE: Title page of the volume. Dutch, letterpress on laid paper, from a low-resolution scan; the type is large and legible but the library stamp is not. "BIJDRAGEN" is set in a large decorative outlined-and-shadowed titling face; the remaining lines are in plain roman capitals and small capitals, with the imprint line in italic. Foxing and a few brown stains cross the page, heaviest at the left edge and around the middle. The line "TWEEDE DEEL , EERSTE STUK." is printed with a space before the comma, in the Continental manner, and sits between two pairs of double rules. Between the rules and the imprint there is a typographic ornament (a lozenge-and-bead fleuron); a second, smaller ornament separates the imprint from the year. A handwritten pencil "2" sits below the double rules, centred. The oval library stamp at the foot is a blind-and-ink device with a coat of arms in the centre and lettering running round the rim, but at this resolution not one letter of it can be read.]
+
+BIJDRAGEN
+
+TOT DE
+
+NATUURKUNDIGE
+
+WETENSCHAPPEN,
+
+VERZAMELD DOOR
+
+H. C. VAN HALL,
+
+W.  VROLIK
+
+EN
+
+G. J. MULDER.
+
+TWEEDE DEEL , EERSTE STUK.
+
+[HANDWRITTEN] 2
+
+Te AMSTERDAM, bij
+JOHANNES VAN DER HEY EN ZOON.
+
+1827.
+
+[STAMP] [illegible]
+
+<<<PAGE pdf=2 file=page_002.txt>>>
+[PAGE 489]
+
+[NOTE: low-resolution scan; the underlying page image is small, so at high magnification the type breaks up into pixels. Numerals were checked at 3-4x. Faint bleed-through from the facing page is visible across the whole leaf. The book sets a space before commas after small-capital names and in display lines; that spacing is preserved here, while justification-driven gaps in ordinary lowercase prose are not.]
+
+opſchorten tot nader onderzoek van de voorwerpen zelve, op den voet, waarop ik dit met onze verdienſtelijke reizigers overeengekomen ben.
+
+[NOTE: a tapered typographic rule (two elongated lozenge ornaments) closes the preceding article]
+
+[NOTE: new article begins here: VERHANDELING OVER DE RANGSCHIKKING DER VELELLEN, PORPITEN EN PHYSALIëN]
+
+VERHANDELING OVER DE RANGSCHIKKING DER VELELLEN , PORPITEN EN PHYSALIëN.
+
+Door W. DE HAAN.
+
+De Velellen zijn eerst vóór korten tijd naauwkeurig uiteen gezet, door ESCHHOLTZ , Entdeckungsreize durch O. DE KOTZEBUE , T. III. S. 489. (Bulletin des Sciences de Mr. le Baron DE FERUSSAC , 1826. n°. 1.,) en door CHAMISSO en EYSENHARDT , de animalibus quibusdam e clasſe vermium , vid. Verhandlungen der Leopoldinisch-Caroliniſchen Academie der Naturforſcher , B. II. Abth. I. S. 363.
+
+ESCHHOLTZ heeft vier ſoorten van dezelve onderſcheiden, terwijl CHAMISSO en EYSENHARDT er ſlechts drie opgeven. Hetgeen zij en hunne voorgangers dienaangaande medegedeeld hebben, komt hoofdzakelijk op het volgende neder :
+
+A.) De kam loopt van den regterhoek der voorzijde van de horizontale ſchijf naar den linkerhoek der achterzijde. (Vela ſinistra CHAM. et EYSENH.)
+
+1. Vel. auſtralis , ESCHHOLTZ. Het randvlies donker blaauw , de kam lichter blaauw , de voeldraden blaauw aan de baſis met eenen rooden of gelen top. Lengte van het lijf twee duimen. Aan de Kaap de Goede Hoop.
+
+BIJDRAGEN , D. II. ST. I.	I i	Co-
+
+<<<PAGE pdf=3 file=page_003.txt>>>
+[PAGE 490]
+
+[NOTE: low-resolution scan. Faint mirrored bleed-through from the verso runs down the left margin and across the page; the small dashes and specks to the left of the synonymy lines are bleed-through, not braces or leaders. The synonymy entries below are simply hanging-indented lines, not columnar.]
+
+COLUMNA , Aquat. et Terrestr. p. 20. Cap. X. tab. 22. f. 1, 2.
+*IMPERATI , Historia Naturale , p. 688. f. 1. (*).
+Porpite velelle (?) BORY DE ST. VINCENT , Voy. aux îles d'Afrique, pl. 54. f. 2.
+Velella ſcaphidia , PÉRON , Atlas , tab. 30. f. 6.
+Velella ſcaphidia , LAMARCK.
+Velella ſinistra , CHAM. et EYS. , tab. 32. f. 1.
+
+2. Vel. pacifica , ESCHHOLTZ.
+
+Het randvlies donker blaauw, de kam licht geel, het vlies van den kam ongekleurd, de voeldraden van dezelfde kleur, als bij de voorgaande, lengte van 1½ duim. In de Zuidzee.
+
+B.) De kam loopt van den linkerhoek der voorzijde naar den regterhoek van de achterzijde des lijfs. (Vela dextra , CHAM. en EYS.)
+
+3. Vel. Radackiana , ESCHHOLTZ.
+
+Het randvlies donker blaauw, het vlies over de horizontale ſchijf bruin; dat van den kam licht blaauw, de voeldraden bruin, een weinig donker bij hunnen oorſprong, donker blaauw aan den top. Vel. oblonga , CHAM. et EYS. , tab. 32. f. 2.
+
+Lengte van het lijf drie duimen, maar ſmaller dan bij de twee voorgaande. Onder den evenaar niet verre van het eiland Radack.
+
+4.
+
+[FOOTNOTE] (*) De aangehaalde Schrijvers , met een ſterretje geteekend , heeft de S. niet kunnen raadplegen. Deze zijn derhalve alleen op het gezag van andere Schrijvers aangenomen.
+
+<<<PAGE pdf=4 file=page_004.txt>>>
+[PAGE 491]
+
+[NOTE: low-resolution scan; faint bleed-through from the verso across the whole leaf.]
+
+4. Vel. Sandwichiana , ESCHHOLTZ.
+
+Het randvlies donker blaauw, het vlies over de horizontale ſchijf geel, dat van den kam groen.
+
+Vel. lata , CHAM. et EYS. , tab. 32. f. 3.
+V. échancrée , QUOY et GAIMARD , Voy. d. Cap. FREYCINET , Zoologie , pl. 86. f. 9.
+
+Lengte ongeveer 2 duimen : breedte 1½ duim. In de Zuidzee , op de hoogte der Sandwichs eilanden.
+
+De V. échancrée QUOY et GAIMARD , ſchijnt ons toe, niet te verſchillen van de V. Sandwichiana : hoewel in den tekst gezegd wordt, dat zij zich door vele exemplaren verzekerd hebben van de inſnede aan den bovenrand van den kam, op zijde van den top, zoo komt mij dit karakter zoo twijfelachtig voor, dat het nog nader dient onderzocht te worden. Bij de ſoorten, welke mij bekend zijn, behoudt de kam altijd dezelfde gedaante.
+
+Ook ſchijnt het mij nog een nader onderzoek te verdienen, of de V. Radackiana , niet de volwasſene V. Sandwichiana is. Zoo men acht ſlaat, namelijk, op de vorming der horizontale plaat, dan ziet men duidelijk, dat bij den groei van het dier, de toeneming in lengte veel grooter is, dan die in de breedte. De horizontale plaat beſtaat uit buizen, die om elkander heen loopen, maar die breeder worden langs de korte zijden der ſchijf, dan langs de lange zijden, waar zij naauwelijks te onderſcheiden zijn; daaruit volgt, dat, naarmate er meerdere buizen aan deze ſchijf toegevoegd worden, de lengte der ſchijf ook veel ſterker toeneemt, dan de breedte.
+
+De afbeeldingen, welke die van PÉRON , CHAMISSO en EYSENHARDT vóóraf zijn gegaan, zijn allen zeer
+
+I i 2	ge-
+
+<<<PAGE pdf=5 file=page_005.txt>>>
+[PAGE 492]
+
+[NOTE: low-resolution scan; a dark vertical band (the binding gutter/edge of the leaf) runs down the right side of the image, but no text is lost. Faint bleed-through from the verso.]
+
+gebrekkig en naauwelijks met zekerheid te beſtemmen. Ook is, in de afbeelding van PÉRON , nog het randvlies om de horizontale plaat verkeerd geteekend; dit is niet overal van dezelfde breedte; maar zoo als CHAMISSO en EYSENHARDT het te regt hebben afgebeeld, is dit vlies veel breeder op de hoeken der horizontale ſchijf, daar de kam niet in uitloopt, en daarentegen het ſmalst op de tegenoverſtaande hoeken.
+
+De Velella mutica , LAMARCK , Meduſa Velella , GMEL. , p. 3155. Phyllidoce , BROWN , Jamaica , 387, tab. 48. f. 1 en de Vel. limboſa , LAMARCK. Holothuria ſpirans , FORSK. , Aegypt. p. 104. n°. 15. et ic. tab. 26. f. K. Encyclop. Méthod. pl. 90. f. 1, 2, zijn op de daarbij aangehaalde figuren gegrond. Deze echter niet te herkennen zijnde, zoo zal het waarſchijnlijk beter zijn, om dezelve beide eene plaats onder de Incertae Sedis in te ruimen.
+
+Porpita , LAMARCK.
+
+Van het geſlacht Porpita , zijn er bij LAMARCK vier ſoorten beſchreven. Te regt hebben ESCHHOLTZ (l. c.) , en BLAINVILLE (Dict. des Sciences Naturelles , article Porpite) , de twee eerſte ſoorten verworpen. P. nuda , LAMARCK , gegrond op eene afbeelding in de Amoenit. Academicae , (IV. p. 255. tab. 3. f. 7—9 ,) en overgenomen in de Encyclop. Method. pl. 90. f. 3—5 , is niets anders, dan de bloote kraakbeenige ſchijf van eene of andere ſoort van dit geſlacht. — P. appendiculata , LAMARCK , ontleend uit BOSC. , Histoire Naturelle des Vers , Vol. II. p. 155. pl. 18. f. 5, 6, vertoont eene ſoort, van welke de voeldraden afgeſcheurd zijn.
+
+Vol-
+
+<<<PAGE pdf=6 file=page_006.txt>>>
+[PAGE 493]
+
+[NOTE: low-resolution scan; faint bleed-through from the verso. The synonymy block below "drie overdwars geplaatst." is a hanging-indented list, not columnar — no brace, no leaders.]
+
+Volgens de exemplaren , in 's Rijks Muſeum voorhanden en aldaar gebragt door 's lands Reizigers , zoude men de Porpiten het geſchiktst op de volgende wijze kunnen verdeelen.
+
+1. Porpita Reinwardtii , D. H.
+
+De langere voeldraden van de lengte van den halven diameter der ſchijf, aan hunnen top knodsvormig, met groote klieren bezet, die weinig of niet geſteeld, aan het knodsvormig einde, digt in drie duidelijk te vervolgen rijen, op elkander volgen.
+
+De ſchijf is van negen tot tien lijnen diameter (Parijſche voetm.), gevonden door Prof. REINWARDT , in de Molukſche zeeën; drie exemplaren voorhanden, die alle dezelfde kenmerken opleveren.
+
+2. Porpita Forskahli , D. H.
+
+De langere voeldraden even zoo lang, als de diameter van de ſchijf, niet knodsvormig verdikt aan hun einde, maar evenwijdig uitloopende. De klieren zijn groot, zeer duidelijk geſteeld, ſtaan niet zoo zeer in drie rijen als bij de voorgaande ſoort, maar zijn eerder drie aan drie overdwars geplaatst.
+
+Holothuria denudata , FORSKAHL , Diſcr. Animal. in Itinere Orient. , p. 103. n°. 14 et *ic. tab. 26. f. L. I.
+Holothuria nuda , GMELIN , p. 3143.
+Enc. Method. pl. 90. f. 6, 7.
+Porp. glandifera , LAMARCK.
+
+De diameter der ſchijf is van vier lijnen diameter. Gevonden door de Heeren BOIE en MACKLOT in den Atlantiſchen oceaan, op de hoogte der Kanariſche Eilanden.
+
+I i 3	De
+
+<<<PAGE pdf=7 file=page_007.txt>>>
+[PAGE 494]
+
+[NOTE: low-resolution scan; faint bleed-through from the verso. A pencil stroke (a single slash) is drawn in the upper left margin beside the first line.]
+
+[HANDWRITTEN] /
+
+Den naam van LAMARCK heb ik gemeend te moeten verwerpen, dewijl alle ſoorten glandiferae zijn.
+
+3. Porpita Kuhlii , D. H.
+
+De mond is zeer lang uitgerekt, trompetvormig. Het getal der zuigers, dat bij alle andere ſoorten zeer groot is, bepaalt zich hier tot eenige weinige, die ook ſmal en lang zijn. De langere voeldraden zijn twee- tot driemaal langer, dan de diameter der ſchijf; de klieren zijn zeer klein, drie aan drie overdwars geplaatst. Porpita disticha , KUHL MSS.
+
+Diameter van de ſchijf eene lijn. (Parijſche voetm.)
+
+Volgens de beſchrijving van de Heeren KUHL en VAN HASSELT , in hunne MSS. is de kleur van deze Porpita in het leven helder blaauw, die van de lange voeldraden is geheel wit, die van de korteren is ſlechts in het midden blaauw. Het trompetvormige van den mond is geene toevalligheid, door den wijngeest voortgebragt, dewijl dit door gemelde Heeren even zoo waargenomen is geworden. Den naam disticha heb ik echter moeten verwerpen, dewijl de klieren in drie en niet in twee rijen geplaatst zijn.
+
+4. Porpita gigantea , PÉRON , Voy. aux terres Auſtrales , pl. 31. f. 6.
+
+De langere voeldraden zijn een weinig langer, dan de diameter van de ſchijf. De klieren ſtaan drie aan drie gepaard en zijn niet geſteeld. De mond is zeer kort.
+
+Porpite radiée , BORY DE ST. VINCENT , Voyage aux îles d'Afrique , Atlas pl. 5. f. 2. A. B. C. D.
+Porp. gigantea , LAMARCK.
+
+De ſchijf wordt tot één duim lang. (Parijſche voetm.) Gevonden door Prof. REINWARDT , in de Molukſche zeeën.
+
+De
+
+<<<PAGE pdf=8 file=page_008.txt>>>
+[PAGE 495]
+
+[NOTE: low-resolution scan; heavy bleed-through from the verso, legible as mirrored ghost text across the whole page. A short thick horizontal rule is centred above the first line of text. A small round orange-brown ink blot sits in the upper left margin beside that rule.]
+
+De Heer LESSON (Bulletin des Sciences de Mr. DE FERUSSAC , 1826. n°. 1. art. 122), beſchrijft eene nieuwe ſoort onder den naam van Chryſocoma. Deze zoude zich onderſcheiden door goudgele voeldraden , en door rozekleurige zuigers. De beſchrijving gaat echter niet verder en er is dus zeer weinig daaromtrent te bepalen.
+
+De kraakbeenige ſchijf is te zamengeſteld uit vaten , die ſtraalsgewijze van het middelpunt naar den omtrek loopen; op deze vaten ziet men duidelijk poren , die meerdere of mindere kringen om het middelpunt vormen.
+
+Phyſalia.
+
+Over de Phyſaliën zijn , vóór korten tijd , vier verhandelingen geſchreven : de eene van TILESIUS , te vinden in een werk , getiteld : Naturhistoriſche Früchte der erſten Kaiſerlich-Rüsſiſchen Reiſe unter dem Kommando des Herrn VON KRUSENSTERN , St. Petersburg 1813 (*). — De tweede van K. W. EYSENHARDT , Verhandlungen der Kaiſerlichen Leopoldinisch-Caroliniſchen Academie der Naturforſcher , B. II. p. 419. — De derde van OLFERS , Abhandlungen der Königlichen Akademie der Wisſenſchaften zu Berlin 1820—1821. S. 347. — De vierde van BLAINVILLE , Dictionnaire des Sciences Naturelles , art. Phyſalie.
+
+EYSENHARDT onderſcheidt de Phyſaliën , als volgt :
+
+1.
+
+[FOOTNOTE] (*) Dit werk is mij nog niet toegekomen.
+
+I i 4
+
+<<<PAGE pdf=9 file=page_009.txt>>>
+[PAGE 496]
+
+[NOTE: low-resolution scan; bleed-through from the verso visible as mirrored ghost text. The whole page is a block quotation from EYSENHARDT: every printed line is preceded by a low double quotation mark („). Following the protocol's rule to join wrapped lines into prose, those per-line marks have been reduced to a single „ at the head of each quoted paragraph. A small orange-brown ink blot sits in the right margin beside the first line, and a faint pencil tick in the upper left margin.]
+
+[HANDWRITTEN] [illegible: pencil tick, upper left margin]
+
+1. Phyſ. Arethuſa , TIL.
+
+„ Veſica integra ; brachia baſi ramoſa , aequalia, omnia approximata , appendicibus genitalibus inſtructa.
+
+„ Ph. Arethuſa et glauca , TIL. cum icone. — Ph. pelagica , LAM. , Hist. Nat. des An. ſ. Vert. — Holothuria Phyſalia , L. BLUMENBACH. Meduſa Caravella , MULLER. Beſchäft. der Berl. Naturf. Fr. II. c. icone tab. 16. f. 1.
+
+„ 2. Phyſalia Lamartinieri , TIL.
+
+„ Veſica integra : brachia baſi ſimplicia (?) eorumque alterum ceteris majus , omnia approximata , appendicibus genitalibus inſtructa.
+
+„ Ph. Lamartinieri , TIL. , c. icone , (copia fig. Lapeyrouſii). — Phyſ. pelagica , BORY DE ST. VINC. c. icone. — Phyſalia Lapeyrouſe , Atlas c. icone. — Meduſa Utriculus Lamartinière , Journ. de Phyſ. 1787. II. (ex Tileſio.)
+
+„ 3. Phyſalia Osbeckii , TIL.
+
+„ Veſica appendiculata : brachia baſi ſimplicia (?) eorumque alterum caeteris majus , omnia approximata appendicibus genitalibus inſtructa.
+
+„ Phyſ. cornuta , afer et Osbeckii , TIL. c. icone. — Phyſ. megalista , PÉRON , Atlas c. icone. — Holothuria Phyſalia , OSBECK'S Reiſe nach Ostindiën und China , c. icone. An cum antecedente conjungenda.
+
+[NOTE: a small raised comma-shaped mark stands immediately after the comma in "cornuta ," on that line; it appears to be a stray sort or a speck, not a quotation mark]
+
+„ 4. Phyſalia pelagica , BOSC.
+
+„ Veſica integra : brachia baſi ſimplicia , in acervos duos dispoſita. In acervo altero omnia appendicibus genitalibus inſtructa brachiumque unum vel duo caete-
+
+„ ris
+
+<<<PAGE pdf=10 file=page_010.txt>>>
+[PAGE 497]
+
+[NOTE: low-resolution scan; bleed-through from the verso visible as mirrored ghost text. As on the preceding page, every line of the quoted matter is preceded by a low double quotation mark („); per the protocol's rule on joining wrapped lines, those per-line marks are reduced to one at the head of each quoted paragraph.]
+
+„ ris majora , in acervo altero appendices genitales deſunt , tab. 35. f. 2.
+
+„ Phyſ. pelagica , BOSC. cum icone , TILESIUS cum icone. — Phyſalia tuberculoſa , LAM. , l. c. — Arethusa Caravella OKEN'S Zoologie."
+
+OLFERS heeft, zonder voorkennis van de verhandeling van EYSENHARDT , de Phyſaliën op de volgende wijze beſchreven :
+
+„ 1. Ph. Arethuſa , TIL.
+
+„ Ovalis , extremitatibus utrinque rotundatis , tentaculis confertis et cirris pluribus in facie posteriore inferiore veſicae , crista valde elevata. — Urens.
+
+„ Arethuſa , BROWN. Van de grootte van een ganzen ei en daar boven.
+
+„ β) glauca , minor , TIL.
+
+„ In de Tropiſche zeeën.
+
+„ 2. Ph. pelagica.
+
+„ Subovalis , altera extremitate ventricoſa , parte inferiore tentaculis cirrisque pluribus ſtrictura longitudinali media in acervos duos distinctis munita , crista vix elevata. — Innocua.
+
+„ Ph. pelagica , BOSC. Van de groote van een duiven ei.
+
+„ In de Tropiſche zeeën.
+
+„ 3. Ph. megalista , PÉRON et LESUEUR.
+
+„ Extremitate altera veſicae praelonga attenuata , apice papilloſa , tentaculis in parte inferiore veſicae longitudinaliter digestis , cirro ſolitario longisſimo , crista vix elevata.
+
+„ Ph. Lamartinière , TIL.
+
+I i 5	„ 4.
+
+<<<PAGE pdf=11 file=page_011.txt>>>
+[PAGE 498]
+
+[NOTE: low-resolution scan; bleed-through from the verso visible as mirrored ghost text. Every line of the quoted matter is preceded by a low double quotation mark („); per the protocol's rule on joining wrapped lines, those per-line marks are reduced to one at the head of each quoted paragraph.]
+
+„ 4. Ph. veliſicans.
+
+„ Subovalis , extremitate altera procesſu cornuto laterali , et in parte inferiore tentaculis confertis cirroque longisſimo exſtructa , crista ſubimmerſa. — Innocua.
+
+„ Holothuria veliſicans , OSBECK.
+
+„ Phyſ. cornuta , TILESIUS.
+
+„ Bij de kaap de Goede Hoop.
+
+„ 5. Ph. producta.
+
+„ Ovalis , extremitate altera inferiore in procesſum mollem producta , altera in facie inferiore tentaculis confertis cirrisque pluribus exſtructa , crista elevata. — Innocua."
+
+Onder den evenaar in den Atlantiſchen oceaan.
+
+Daarenboven heeft dan nog BLAINVILLE eene nieuwe ſoort beſchreven , onder den naam van Gaimardi.
+
+„ Ph. Gaimardi , BLAINVILLE.
+
+„ Corps ovale , obtus en arrière , un peu attenué en avant ; les deux orifices très rapprochés à cette extrémité ; un faisceau de tentacules asſez courts à l'extrémité postérieure ; l'inférieur très conſidérable et formé , outre un grand nombre de tentacules ſemblables , d'un beaucoup plus gros proboscidiforme et d'un très long filament cirrheux , bridé par une ſorte de méſentère."
+
+LAMARCK , Hist. Nat. des Animaux ſans Vertèbres , T. II. p. 480 , plaatst de ſoort van BOSC. , onder zijne P. tuberculoſa , en beſchrijft nog eene andere P. elongata , gegrond op de plaat van J. FORBES , Mém. Orientaux , Vol. II. p. 200 et Vol. IV. fig.
+
+Geene ſoort is onder deze zoo duidelijk gekenſchetst ,
+
+als
+
+<<<PAGE pdf=12 file=page_012.txt>>>
+[PAGE 499]
+
+[NOTE: low-resolution scan; faint bleed-through from the verso. "Melagista" in the second paragraph is printed exactly so, with the syllables of "megalista" transposed; transcribed as printed.]
+
+als de Phyſalia pelagica , BOSC. Deze is echter het eerst door BLAINVILLE , onder den naam van Gaimardi , juist bepaald. EYSENHARDT en OLFERS , zijn , namelijk , van meening geweest , dat de twee afgeſcheidene bundels der zuigers aan eene ſoort en het aanhangſel van onderen aan de blaas , aan eene andere ſoort eigen was; dit is echter geenszins het geval , zoo als mij volkomen gebleken is uit eene reeks van vijftien exemplaren , door de Heeren BOIE en MAKLOT overgezonden; al deze hebben tevens het aanhangſel onder aan de blaas en de zuigers in twee bundels afgeſcheiden. Hierdoor vervalt derhalve het onderſcheid tusſchen de P. pelagica , BOSC , EYSENHARDT , OLFERS , en de P. Osbeckii , EYSENH. of Melagista , PÉRON , OLFERS.
+
+Onder diegenen , die de zuigers in eenen bundel vereenigd hebben , is het volgende onderſcheid zigtbaar. Als men , namelijk , de blaas zoo plaatst , dat de bundel , zuigers en voeldraden aan de regterhand en de ſtompe verlenging van dezelve naar de linkerhand gerigt is , zoo ziet men bij de eene ſoort , dat alsdan de holle zijde van den kam , boven op de blaas geplaatst , naar voren gerigt is , terwijl dezelve bij de andere ſoort , naar achteren is gewend , de blaas in dezelfde rigting geplaatst zijnde. Deze kam is namelijk , altijd naar eene zijde overhellende. Hieruit kan men derhalve een zeer duidelijk kenmerk ontleenen , om de P. Arethuſa , TIL. , EYSENHARDT en OLFERS , te onderſcheiden van de P. producta , OLFERS. De eerſte , zoo als ook blijkt uit zes onderſcheidene exemplaren , door de Heeren BOIE en MAKLOT overgezonden , heeft altijd den kam naar voren overhellende , terwijl die bij de tweede naar achteren overhelt.
+
+Ten
+
+<<<PAGE pdf=13 file=page_013.txt>>>
+[PAGE 500]
+
+[NOTE: low-resolution scan; bleed-through from the verso visible as mirrored ghost text. Two pencil marks in the lower blank part of the leaf: a small caret/arrowhead below the last line, centre, and a short left-pointing arrow at the left edge further down.]
+
+[NOTE: the accented letter in "îles" (BORY DE ST. VINCENT's title, below) is not resolvable as î versus ê at this scan resolution; read here as î.]
+
+Ten opzigte van de P. veliſicans , OLFERS , zoo komt het mij voor, dat deze te onbepaald gekarakteriſeerd is, en dat de kenmerken van een exemplaar ontleend zijn , bij hetwelk er eene opening gekomen is in den kam , zoodat die daardoor te zamen gevallen was; op deze wijze kunnen alle ſoorten eene crista ſubimmerſa verkrijgen.
+
+Het voorgedragene getal ſoorten van Phyſaliën , zoude dus op de volgende teruggebragt kunnen worden , in deze rangſchikking :
+
+A.) De kam der blaas ſtaat vlak tegenover de plaats , daar de zuigers en voeldraden aangehecht zijn , op derzelver rug. De blaas is ſlechts aan eene zijde verlengd over den bundel der zuigers en voeldraden.
+
+1. Ph. Arethuſa , TILESIUS.
+
+De blaas zonder eenig aanhangſel , zoo wel van onderen als aan de zijden : de voeldraden in eenen bundel vereenigd , de kam der blaas van voren hol.
+
+[NOTE: brace-grouped synonymy, not a table — the two lines "*Phyſalia Arethuſa ," and "*——— glauca ," are joined at the right by a single large brace, with "TILESIUS." set once to the right of it. Long horizontal rules stand for the repeated genus (and, in the third line, genus and no author change).]
+
+Holothuria Phyſalis , LINN. , Amoen. Acad. IV. p. 254. tab. 3. f. 6.
+*Arethuſa , BROWN , Jamaica , p. 386.
+*Urtica marina , SLOANE , Jam. Hist. I. tab. 4. f. 6.
+*Phyſalia Arethuſa ,
+*——— glauca ,	TILESIUS.
+——— pelagica , LAMARCK.
+*Meduſa Caravela , MULLER , Beſchaft. der Berl. Naturf. Fr, II. tab. 16. f. 1.
+Phyſ. pelagica , BORY DE ST. VINCENT , Voyage dans les îles d'Afrique , pl. 54. f. 1.
+
+Rei-
+
+<<<PAGE pdf=14 file=page_014.txt>>>
+[PAGE 501]
+
+[NOTE: low-resolution scan; heavy bleed-through from the verso visible as mirrored ghost text across the whole leaf. The printed folio is set as "( 501 )". A short ink/pencil mark resembling "=" stands in the right margin beside the "Arago." line; a few faint specks elsewhere in the margins.]
+
+[NOTE: continues the synonymy list of Ph. Arethuſa begun on the preceding page; the first two lines here are its last two entries.]
+
+Reiſe um die Welt , von KRUSENSTERN , Atlas , tab. 33. f. 1, 2.
+Arago. Voyage autour du Monde , Vers , pl. 1.
+
+De blaas wordt tot drie duimen lang. (Parijſche voetm.) Door de Heeren BOIE en MACKLOT waargenomen , tusſchen 19° N. B. en 14° 9' Z. B.
+
+2. Phyſ. producta , OLFERS.
+
+De blaas zonder eenig aanhangſel , zoo wel van onderen als aan de zijden , de voeldraden in eenen bundel vereenigd , de kam der blaas van voren bol.
+
+*Phyſalia , LAPEYROUSE , Atlas cum icone.
+Meduſa Utriculus , LAMARTINIÈRE , Journal de Phyſique , 1787. B. cum icone (copia).
+Phyſalia Lamartinieri , TILESIUS , EYSENHARDT.
+Phyſalia producta , OLFERS.
+
+Een exemplaar , gevangen op de hoogte der Kanariſche Eilanden , is het Rijks Muſeum van die ſoort toegekomen , door de Heeren BOIE en MACKLOT.
+
+De lengte der blaas is even zoo als bij de vorigen van drie duimen lengte.
+
+B.) De kam ſtaat niet op den rug der blaas , tegenover de inhechting der zuigers en voeldraden , maar aan de voorzijde van dezelve. De blaas is aan beide zijden over den onderſten bundel , zuigers en voeldraden verlengd , en loopt aan beide kanten ſtomp toe.
+
+3. Ph. pelagica , BOSC.
+
+De blaas met een aanhangſel van onderen , de zuigers in twee bundels geſcheiden , van welke de bovenſte zonder voeldraden.
+
+Holothuria Phyſalis , OSBECK , Reiſe nach Ostindien und Japan , cum icone.
+
+*Phy-
+
+<<<PAGE pdf=15 file=page_015.txt>>>
+[PAGE 502]
+
+[NOTE: low-resolution scan; heavy bleed-through from the verso across the leaf. The printed folio is set as "( 502 )".]
+
+[NOTE: brace-grouped synonymy, not a table. Three groups of names are joined at the right by large braces with one author name set once beside each brace: (1) the four lines "*——— pelagica ," / "*——— cornuta ," / "*——— afer ," / "*——— Osbeckii ," share TILESIUS., which stands beside the third line; (2) "Phyſalia Osbeckii , TIL. ," and "——— pelagica ," share EYSENHARDT., which stands beside the first of the two; (3) "——— pelagica ," and "——— megalista ," share OLFERS., which stands beside the first of the two. Long horizontal rules stand for the repeated genus name. Below, the shared author is placed after a tab on the line the printed author name is level with.]
+
+*Phyſalia pelagica , BOSC. , cum icone.
+——— tuberculoſa , LAMARCK.
+*——— pelagica ,
+*——— cornuta ,
+*——— afer ,	TILESIUS.
+*——— Osbeckii ,
+Arethuſa Caravella , OKEN's Zoolog.
+Phyſalia Osbeckii , TIL. ,	EYSENHARDT.
+——— pelagica ,
+——— pelagica ,	OLFERS.
+——— megalista ,
+——— Gaimardi , BLAINVILLE.
+
+Vijftien exemplaren , verkregen door de Heeren BOIE en MACKLOT , van de hoogte der Kanariſche Eilanden tot aan den evenaar.
+
+De blaas is twee duimen lang.
+
+C.) Geen kam aan de blaas.
+
+4. Phyſalia [?Boiëi] , D. H.
+
+[NOTE: the mark over the fourth letter of "Boiëi" is not resolvable at this scan resolution as a diaeresis (ë) versus a macron (ē); read here as ë.]
+
+De blaas zonder kam , naar beide zijden ſmaller toeloopende , omgeſlagen en verbonden aan een rolrond aanhangſel , het aanhangſel draagt de zuigers en voeldraden aan deszelfs einde.
+
+Deze ſoort gevonden door den Heer BOIE , onder 23° N. B. , zoo als zulks in het vorige ſtuk , n°. 4 , opgegeven is geworden , onderſcheidt zich geheel van alle overige ſoorten. De kam ontbreekt volſtrekt. De blaas loopt van beide kanten zeer ſpits toe , en kromt zich naar onderen , alwaar beide einden zich te zamenhechten , aan eene rolvormige maag of aanhangſel , hetwelk de zuigers draagt. Voeldraden ontbreken : ook heeft
+
+de
+
+<<<PAGE pdf=16 file=page_016.txt>>>
+[PAGE 503]
+
+[NOTE: low-resolution scan; heavy bleed-through from the verso across the leaf. The printed folio is set as "( 503 )".]
+
+de Heer BOIE dezelve bij het levend exemplaar niet kunnen bemerken.
+
+Een exemplaar , de lengte der blaas één duim. (Parijſche voetm.)
+
+[NOTE: a typographic rule (a long thin ornament tapering at both ends) rules off the end of De Haan's article here.]
+
+[NOTE: new article begins here: IETS OVER DE SPOOR VAN DEN ORNITHORHYNCHUS.]
+
+IETS OVER DE SPOOR VAN DEN ORNITHORHYNCHUS.
+
+Door J. VAN DER HOEVEN.
+
+[NOTE: the article opens with a large two-line initial D.]
+
+De ſpoor van den Ornithorynchus is , volgens MECKEL , alleen uit eene hoornachtige zelfſtandigheid gevormd en uit een vliezig kanaal , hetwelk door dezelve heen loopt. Men leest in het Bulletin des Sciences Naturelles et de Geologie , 1827. n°. 5. p. 107 , dat BLAINVILLE en RUDOLPHI geloofd hadden (avaient cru) , dat de ſpoor gedeeltelijk beenachtig was. In de natuurkundige wetenſchappen komt het niet op meenen en gelooven aan , waar men zien kan. BLAINVILLE en RUDOLPHI hebben zekerlijk gezien , hetgeen ik ook heb waargenomen , dat de hoornachtige zelfſtandigheid de beenige kern der ſpoor , eveneens als een koker omgeeft , gelijk de hoornachtige bek der vogels hunne kaken bedekt , en gelijk ook de hoornen der runderen gevormd zijn. Zoo vond ik het althans bij een mannetje van den Orn. rufus , terwijl ik bij een mannetje van den O. fuscus , alleen eene hoornachtige zelfſtandigheid waarnam.
+
+Of

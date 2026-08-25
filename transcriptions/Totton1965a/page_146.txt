@@ -1,0 +1,29 @@
+[PAGE 141]
+
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 11 HIPPOPODIIDAE	141
+
+[FIGURE]
+1a
+1b
+1c
+
+2
+4a
+4b
+
+3
+5
+
+FIG. 81.   Nectophores of 1. Hippopodius hippopus (Forskål), a–c, dorsal views, a, 8 mm, b, 10.5 mm, c, 19 mm.
+2. Vogtia glabra Bigelow. 3. V. spinosa Kefferstein & Ehlers. 4. V. pentacantha Kölliker, a, dorsal, b, side view.
+5. V. serrata (Moser)
+Figures 1a, b, c, after Bigelow & Sears (1937); figure 2, × 2.7 after Bigelow (1918); figure 3, × 3.5 after Bigelow (1911b); figures 4a, b, × 6; and figure 5, × 5.7 from Totton & Fraser, 1955.
+[/FIGURE]
+
+[NOTE: this page carries no body text — only text-figure 81, which fills the page above its caption. It consists of eight drawings in three tiers: 1a, 1b, 1c across the top; 2, 4a, 4b across the middle; 3 at the lower left and 5, the largest, at the lower right. Inside [FIGURE] the eight drawn numbers are listed tier by tier, left to right, blank lines separating the tiers, then the printed caption. No other text appears on the illustration.]
+
+[NOTE: the drawn figure-numbers are set in an upright sans-serif face, each numeral separated from its letter by a small space ("1 a", "1 b", "1 c", "4 a", "4 b"), which is not reproduced above. Verified at 10x.]
+
+[NOTE: numerals verified digit by digit: FIG. 81; 8 mm, 10.5 mm, 19 mm; Bigelow & Sears (1937); × 2.7, Bigelow (1918); × 3.5, Bigelow (1911b); × 6; × 5.7, Totton & Fraser, 1955. The magnifications use a saltire multiplication cross and low, on-baseline decimal points, as do the three widths in the first caption line.]
+
+[NOTE: the caption's line breaks are preserved above because the caption is a numbered list of five species entries that wrap across the printed lines. "Kefferstein & Ehlers" is printed here with an ampersand, whereas the species heading on the preceding page spells out "and". No printed square brackets occur on this page.]

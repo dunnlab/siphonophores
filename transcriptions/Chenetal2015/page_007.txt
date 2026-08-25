@@ -1,0 +1,94 @@
+[PAGE 3388]
+
+[NOTE: born-digital journal page carrying no running body text — Fig. 8 (a 2 x 2
+block of map panels) in the upper half and Table 1 below it, the table breaking off
+after the 秋季 row and continuing on the next page. Punctuation convention as
+described on page 3.]
+
+[RUNNING HEAD] 3388	生 态 学 报	35 卷
+
+[FIGURE]
+[NOTE: Fig. 8 — four map panels in a 2 x 2 block, contour-shaded for surface
+salinity with filled circles of graded size for abundance; a vertical colour bar at
+the left of each panel and a symbol key at the upper right. Longitude scale printed
+above the upper pair of panels only. Panels transcribed in reading order.]
+
+[NOTE: panel 1, upper left]
+108°	109°	110°	111°E
+22°N	21°	20°
+33.5	33.0	32.5	32.0	31.5	[NOTE: colour-bar labels, top to bottom]
+春季
+0—5	[NOTE: symbol key, one entry only]
+铁山港	海南岛
+
+[NOTE: panel 2, upper right]
+108°	109°	110°	111°E
+22°N	21°	20°
+34	33	32	31	30	29	28	27
+夏季
+0—5
+铁山港	海南岛
+
+[NOTE: panel 3, lower left]
+22°N	21°	20°
+33.0	32.5	32.0	31.5	31.0	30.5
+秋季
+10—25	5—10	0—5
+铁山港	海南岛
+
+[NOTE: panel 4, lower right]
+22°N	21°	20°
+33.5	33.0	32.5	32.0	31.5
+冬季
+0—5
+铁山港	海南岛
+
+审图号: GS(2014)1797号	[NOTE: set once, below the lower right panel]
+
+图 8	四叶小舌水母丰度的四季平面分布（示表层盐度）（个/m3）
+Fig. 8	Seasonal horizontal distribution of abundance of Liriope tetraphylla（Surface Salinity）
+[/FIGURE]
+
+表 1	北部湾北部水母类各季不同群集的主要种和特有种
+Table 1	Main and characteristic jellyfish species of different assemblages in northern Beibu Gulf
+
+[TABLE]
+群集 Assemblages	Ⅰ		Ⅱ		Ⅲ
+季节 Seasons	主要种 Main species	特有种 Unique species	主要种 Main species	特有种 Unique species	主要种 Main species	特有种 Unique species
+
+春季 Spring	Solmundella bitentaculata		Diphyes chamissonis	Diphyes chamissonis
+	Euphysora knides		Lensia subtiloides	Aglaura hemistoma
+	Voragonema pedunculata		Aglaura hemistoma	Pleurobrachia globosa
+			Euphysora knides	Nanomia bijuga
+			Nanomia bijuga	Lensia subtilis
+				Bassia bassensis
+				Clytia folleata
+
+夏季 Summer	Pleurobrachia globosa		Nanomia bijuga		Lensia subtiloides	Cunina peregrina
+	Diphyes subtiloides		Diphyes chamissonis		Diphyes chamissonis
+	Eirene ceylonensis		Solmundella bitentaculata		Cunina peregrina
+	Phialucium benga				Liriope tetraphylla
+					Aglaura hemistoma
+
+秋季 Autumn	Liriope tetraphylla		Liriope tetraphylla	Lensia subtiloides
+			Lensia subtiloides	Diphyes chamissonis
+			Diphyes chamissonis	Pleurobrachia globosa
+			Pleurobrachia globosa	Cunina peregrina
+				Enneagonum hyalinum
+				Nanomia bijuga
+[/TABLE]
+
+[NOTE: Table 1 has seven columns — the season stub plus 主要种/特有种 under each of
+the three assemblage headings Ⅰ, Ⅱ and Ⅲ. Blank cells are left blank above. In the
+printed table every species name sits on its own line inside its cell; where a
+binomial is broken across two printed lines (Solmundella bitentaculata, Voragonema
+pedunculata, Solmundella bitentaculata again in the 夏季 row) it has been joined
+here, since that is a line wrap and not a table row. The vertical alignment of the
+cells is staggered on the page — for example the 春季 Ⅱ特有种 column begins one line
+higher than the others — and that stagger is not reproduced. The rule below the 秋季
+row is the last rule on this page; the 冬季 row of the table continues on the next
+page. "Diphyes subtiloides" in the 夏季 Ⅰ主要种 cell is as printed.]
+
+http: / / www.ecologica.cn
+
+?1994-2018 China Academic Journal Electronic Publishing House. All rights reserved.    http://www.cnki.net

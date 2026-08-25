@@ -46,6 +46,8 @@ Siphonophore Library PDFs sit under `library/`, sharded by surname-letter shelve
 
 [`instructions.md`](instructions.md) holds clade-specific knowledge to be injected into the context of an MCP server serving this corpus — facts about siphonophore taxonomy and biology that should override or qualify what the older literature in `library/` says.
 
+[`transcriptions/`](transcriptions) holds verbatim, page-by-page transcriptions of documents in the library, one directory per document — currently **35 documents, 761 pages**, spanning 1594–2026 and 13 languages. They were made by reading rendered page images only, never by correcting a PDF text layer, which is what lets them serve as ground truth for evaluating text extraction. Each `<stem>/` maps to its source PDF through `transcriptions/sources.json`. See [`transcriptions/readme.md`](transcriptions/readme.md) for the method, the independence guarantee, and known gaps.
+
 ### Other materials
 
 `nonlibrary/` contains PDFs that fall outside of the core library, including:

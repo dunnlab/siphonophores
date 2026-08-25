@@ -1,0 +1,472 @@
+<<<PAGE pdf=1 file=page_001.txt>>>
+[PAGE 1: unnumbered]
+
+[NOTE: journal title page (wrapper) of Isis, sixth number, 1825; blackletter (Fraktur) throughout except the engraved capitals in the vignette. Bleed-through of the following page's type is visible over the whole leaf.]
+
+[FIGURE]
+[NOTE: woodcut vignette of three Egyptian deities across the head of the page: a standing nude male figure at left, an enthroned female figure (Isis) at centre, a jackal-headed standing figure at right. The two names are engraved in roman capitals set vertically alongside the outer figures.]
+HARPOCRATES [NOTE: rotated 90° counter-clockwise, reading bottom-to-top, to the right of the left-hand figure]
+ANUBIS [NOTE: rotated 90° clockwise, reading top-to-bottom, to the left of the right-hand figure]
+[/FIGURE]
+
+Isis
+
+von
+
+Oken.
+
+Sechstes Heft.
+1825.
+
+Preis des Jahrgangs 8 Thlr. sächs. oder 14 Fl. 24 Xr. rhein.
+
+Von dieser Zeitschrift erscheint in jedem Monat ein Heft mit Kupfertafeln und Holzschnitten, so daß 6 Hefte einen Band ausmachen, und mithin deren im Jahre zwey herauskommen.
+
+Die Buchhandlungen wenden sich an die Buchhandlung Brockhaus in Leipzig;
+Die Postämter an das in Jena, welches die Isis mit ¼ Rabatt erhält.
+
+Man kann nur auf einen ganzen Jahrgang Bestellung machen, und die Zahlung ist ungetheilt zur Leipziger Ostermesse des laufenden Jahres zu leisten.
+
+Beyträge werden an den Herausgeber unmittelbar, oder, und besonders Bücher, im Wege des Buchhandels an Brockhaus zu Leipzig geschickt. Man setze nichts anderes darauf, als: Gedrucktes, zur fahrenden Post; dickere Sachen gerollt. Es geht nichts verloren; das Recommandiren ist daher unnöthige Vertheuerung.
+
+Unfranklerte Bücher mit der Post werden zurückgewiesen.
+
+☞ Damit sich Niemand vergeblich bemühe, so wird hiemit angezeigt, daß in die Isis keine politischen Aufsätze aufgenommen werden.
+[NOTE: the paragraph above opens with a printed manicule (pointing-hand) ornament, transcribed here as ☞. "Unfranklerte" is transcribed as printed: the glyph after the k is an ascender-height plain stem (Fraktur l), not the x-height dotted i this font uses elsewhere, so the printed form is a compositor's l-for-i misprint for "Unfrankierte". Not modernised, per protocol.]
+
+Jena in der Expedition.
+
+<<<PAGE pdf=2 file=page_002.txt>>>
+[PAGE 733-734]
+
+[NOTE: this single PDF page image carries two printed pages of the journal side by side — folio 733 in the left half, folio 734 in the right half. Transcribed in reading order: all of 733, then all of 734. A short ornamental double rule is printed at the top centre of the page, between the two folio numbers. Fraktur throughout except Latin names and Latin passages, which are set in roman.]
+
+[NOTE: this printing repeatedly sets an ascender-height Fraktur "l" where the word requires "i" — "Schlff" for "Schiff", "Belne" for "Beine" (and "Unfranklerte" for "Unfrankierte" on the wrapper). The font's "i" is x-height and dotted and is quite distinct, so these are transcribed as printed, not modernised.]
+
+733
+
+apert. orbicularis; cavitas dissepimentis transversis subdivisa. (Sch.) V. carinata (Serp. spirorbis L.). V. glomerata (Serp. glomerata L.).
+
+B. Elongata, subcurvata.
+
+Gen. 131. Dentalium. Conica cylindrica, subcurvata, utrinque pervia. (L.) Dent. sulcatum (Mart. 1. pag. 30 T. 1. f. 4.). Dent. Entalium L.
+
+228 Genera!
+
+[NOTE: new article begins here: Bericht über die zoologische Ausbeute während der Reise von Kronstadt bis St. Peter- und Paul. Tafel V.]
+
+Bericht
+
+über die zoologische Ausbeute während der Reise von Kronstadt bis St. Peter- und Paul. Tafel V.
+
+An den vier Landungsplätzen sowohl, als während der Fahrt in den verschiedenen Meeren, habe ich die Gelegenheit gehabt, 1430 Thierarten theils zu beobachten, theils aufzubewahren. Vor Rio Janeiro verweilte das Schlff 26 Tage, in der Bai von Conception in Chili 16 Tage, bey Otaheiti 10 Tage, und in dem See der Corallengruppe Otdia (einer der Rumanzofsinseln) 6 Tage. Hier zuerst zur Uebersicht eine Tabelle über die eingefangenen Thiere:
+
+[TABLE]
+[NOTE: the six locality column headings are printed rotated 90° counter-clockwise (reading bottom-to-top). "Atlant. Ocean." is one such heading set on two rotated lines, over a single column. The final heading "Ueberhaupt." is printed horizontally, on two lines ("Ueber-" / "haupt."). The row labels are followed by printed leader dots, not reproduced here. The sixteen rows are bracketed by printed braces into four groups of four; each group's total stands in the left-hand margin against the brace, and is given here on the group's first row.]
+		Brasil.	Chili.	Otah.	Otdia.	Atlant. Ocean.	Süds.	Ueberhaupt.
+157.	Säugthiere	—	—	—	1	—	—	1
+	Vögel	39	22	4	1	1	6	73
+	Amphibien	8	4	2	2	—	—	16
+	Fische	32	3	7	12	7	6	67
+994.	Gliederwürmer	1	1	2	1	2	1	9
+	Krebse	13	9	24	16	23	11	96
+	Insecten	760	78	27	7	1	1	874
+	Spinnen	11	2	2	—	—	—	15
+141.	Cephalopoden	2	2	1	—	—	1	6
+	Schnecken	8	10	23	26	15	15	97
+	Muscheln	6	2	6	7	1	—	22
+	Scheidenthiere	3	—	—	2	5	6	16
+141.	Brachiopoden	1	1	—	2	4	2	10
+	Strahlthiere	5	1	14	9	4	2	35
+	Acalephen	3	—	—	—	16	23	42
+	Zoophyten	—	—	25	19	9	1	54
+[/TABLE]
+
+Hierzu folgende Bemerkungen mit Andeutungen neuer Gattungen (Genera) und deren Umrisse.
+
+1. Vögel.
+
+In Chili erhielt ich eine neue Gattung der Grallae mit dem Schnabel eines Kernbeissers. Rhynchops nigra lebt daselbst in unzähligen Scharen, mit ihm zwey neue Haematopus mit weissen Beinen, ein Phalaropus, ein Aptenodytes. — Auf Otdia kömmt eine Squatarola vor, deren Hinterzehe ziemlich lang ist.
+
+2. Amphibien.
+
+734
+
+In Brasilien traf ich an abschüssigen Felsen, an welchen Wasser herabfloß, Froschlarven an, welche in diesem nur einige Linien hohen Wasser |mit Schnelligkeit an dem Felsen auf- und abschwammen; sie hatten noch keine Belne, ihr Leib war sehr flach, der Schwanz lang aber rundlich. — Auf Otaheiti ist ein Gecko (von der Abtheil. Hemidactylus) in den Häusern häufig, wo man überall in den Spalten Eyer desselben von der Größe der Schwalbeneyer mit vollkommen kalkiger fester Schale antrifft. Als ich ein Ey mit dem Messer öffnete, sprang das 1½ Zoll lange Thier zur Oeffnung heraus, und lief mit der ihm noch anhängenden Schale mit großer Geschwindigkeit davon, und wich meinen Nachstellungen geschickt aus.
+
+[NOTE: the sentence beginning "In Brasilien" starts as the last line of folio 733 and runs on at the head of folio 734, which opens mid-word with "chen Wasser herabfloß". In the second line of folio 734 a stray inked vertical rule stands between "Wasser" and "mit"; it is transcribed above as "|".]
+
+3. Crustaceen.
+
+In Otaheiti lebt ein großer Gecarcinus gänzlich auf dem Lande; seine Kiemen sind daher auch nicht kamm- oder pinselförmig, sondern bestehen aus zwey Reihen platter Zellen. — Im offenen Meere, in der Südsee, fieng ich einen sonderbaren Krebs, welcher an der Oberfläche schwamm, er gehört zu einer besondern Gattung der Macrouren. Sein Rückenschild bildet ein gleichseitiges Dreyeck mit einer Spitze nach vorn, kaum 2 Linien lang, aber sowohl vorn als hinten hat er einen viermal so langen Stachel. Augen sehr kurz gestielt. Fühler sehr klein, vier der Beine sehr groß mit langen Borsten. Fig. 1. Lonchophorus anceps.
+
+4. Insecten.
+
+Belege für den Insectenreichthum Brasiliens kann ich auch beybringen, wenn man dazu den kurzen Aufenthalt und die Beschäftigung mit andern Thierclassen in Anschlag bringt. Lampyris 17 Arten; Passalus 10 Arten, alle unter Baumrinde: Nilio 5 Arten; Callichroma 14 Arten. Obgleich heiße Gegenden an Carabis arm sind, so erhielt ich doch aus dieser Familie (mit Ausschluß der Sandläufer) 20 Arten, nehmlich 7 Truncatipennes, 4 Bipartiti, 7 Thoracici und 2 Subulipalpi. Unter den vielen Lamiden erhielt ich einen schlanken Käfer, dessen flache Flügeldecken sich hinten wie bey den Wanzen über einander legen, das zu ist das Maul rüsselförmig zugespitzt; er steht der Gattung Thyrsia Dalm. nahe, von der ich auch drey neue Arten fieng. Eine gelbbunte Art der Meerwanzengattung Halobates läuft auf Bächen bey Rio Janeiro herum.
+
+5. Schnecken.
+
+Vorzüglich habe ich schwimmende Schnecken kennen gelernt, die zu verschiedenen Ordnungen gehören. Am nächsten den Cephalopoden stehen die eigentlichen Pteropoden; als solche erkenne ich nehmlich nur diejenigen, bey denen der Vordertheil des Fußes in zwey Flossen verlängert und erweitert ist. Alle mir bekannten Arten dieser Ordnung haben Schalen, ihre Kiemen befinden sich an den Seiten des Körpers innerhalb der Schale und nicht auf den Flossen; sie können nur schwimmen und nicht kriechen. Sie gehören zu zwey Familien. 1. Fam. Schale ohne Windung; die Lippen bilden mit den Flossen einen Trichter, der mit dem zu vergleichen ist, welcher durch die Vereinigung der Arme bey Octopus entsteht. An jeder Seite des Körpers liegt
+
+<<<PAGE pdf=3 file=page_003.txt>>>
+[PAGE 735-736]
+
+[NOTE: Isis (von Oken) numbers columns, not pages: this leaf carries 735 at the head of the left column and 736 at the head of the right column, with a short double rule between them. Fraktur throughout except Latin names and English/French titles, which are set in roman (antiqua). Long-s is rendered as plain `s` here, following the convention of pages 1-2 of this document. Line-end hyphens have been closed up.]
+
+eine Kieme. Darmende steht als ein Trichter an der Unterseite des Kopfs aus der Schale hervor.
+
+1. Gattung Cliodora. Schale kegelförmig, gerade oder gekrümmt; ich habe 6 Arten gefangen, darunter ist keine bekannt. Augen, aber keine Fühler bemerkt.
+
+2. Pleuropus, neu. Schale vorn breit platt, hinten zugespitzt. Vom Mantel hängen auf jeder Seite zwey Fühlfäden heraus; lebt in der Südsee, eine Linie lang. Fig. 2. Pleuropus pellucidus.
+
+3. Hyalea. Zwey kleine Arten mit ausgezeichneten Schalen fieng ich im Atlant. Ocean. Man darf den Thieren dieser Gattung den Kopf nicht absprechen, weil man ihn noch nicht gesehen; es wird diese Beobachtung, die doch nur in der Erkennung der kleinen Augen besteht, durch die überstehende Rückenschale sehr erschwert; zwey Fühlfäden habe ich an H. cornea deutlich gesehen.
+
+2te Familie. Schale gewunden, Mund rüsselförmig, von den Flossen ganz getrennt, Kiemen wahrscheinlich in eine Masse vereinigt.
+
+1. Steira, neue G. Aeußerste Windung der Schale mit einem breiten Kiel. Fig. 3. St. Lamanoni, eine Linie lang aus der Südsee; eine andere ebenso große Art erhielt ich im Atl. Ocean. Lamanon fand die Schale einer drey Linien langen Art im Bonitenmagen, nannte sie cornu ammonis. La Peyrouse voyage atl. N. 63. — Die zweyte Gattung, Limacina, hat eine Schale ohne Kiel, von Scoresby abgebildet in Account of the arctic Regions V. II. Pl. XVI. Fig. 11.
+
+Von dieser Ordnung verschieden sind die, welche man Branchopteren nennen kann; denn ihre Flossen, die von den Seiten des Mantels und nicht vom Fuße entspringen, sind zugleich Respirationswerkzeuge. Ihr Fuß hat vorn noch ein Paar kleiner Lappen, die Thiere können sich fortbewegen, ohne die auf dem Rücken zurückgeschlagenen Flossen zu gebrauchen. Von Gattungen gehören hierher:
+
+1. Clio, von der ich eine kleine Art in der Südsee fieng. 2. Pneumodermon. 3. Eine neue, Trichocyclus. Kopf mit einem Rüssel, zwey Fühlfäden, und hinter diesen die gefäßreichen Flossen; auszeichnend sind drey Kränze von feinen Fäden um den Leib, von denen einer an dem Grunde des Rüssels, der zweyte auf der Mitte und der dritte am hintern Ende des Leibes sich befindet. Durch eine radförmige Bewegung dieser Fäden schwimmt das Thier langsam fort, zur schnellern Fortbewegung braucht es die großen Flossen. Fig. 4. Trich. Dumerilii, in der Südsee, eine Linie lang.
+
+Eine dritte, mit den vorigen in sehr geringer Beziehung stehende Ordnung der schwimmenden Schnecken begreift die, welche Lamarck Heteropodes genannt hat. Der vorzüglichste Character d. O. besteht darin, daß der Leib und eine Flosse eine gemeinschaftliche Höhle haben, deren innere Haut mit einem Gefäßnetz überzogen ist; da diese Höhle sich nach außen öffnet, und das Wasser in ihr durch die fortwährende Bewegung der Flosse erneuert wird, so ist diese Höhle offenbar Respirationsorgan. Herz, Leber, dicker Darm und Genitalien sind in einem kleinen Raume zusammengedrängt; die äußere Hülle des Leibes ist starr, nicht dehnbar wie bey den übrigen Schnecken. Was man bisher für Kiemen genommen hat, möchten wohl Eyerstöcke seyn. Die Analogie mit den Salpen ist groß. Folgende Gatt. gehören hierher.
+
+1. Carinaria Lam. Die-Respirationsflosse steht am hintern Körperende, und ist gerade Fortsetzung des Vorderleibes. Die vorzüglichsten Eingeweide liegen außerhalb des Vorleibes in einem obern Ausschnitte zwischen letzterm und der Flosse, und sind von einer mützenförmigen Schale bedeckt. In der Südsee erhielt ich von einer großen Art (der vitrea sehr ähnlich) nur todte Exemplare; die Schale fällt nicht so leicht ab, zerbricht eher.
+
+2. Pterotrachea. Respirationsflosse an der Bauchseite in der Mitte, außer ihr noch eine einfache Schwanzflosse (ohne Höhle). Nur Eyerstöcke liegen außerhalb des Leibes frey. Hierher gehört das Thier, zu welchem Chamisso unter dem Namen Pter. Cuvieri Bemerkungen geliefert hat (in Act. ac. C. N. C. X.).
+
+3. Firola. Respirationsflosse an der Bauchseite in der Mitte, sonst keine Flosse, daher die vorzüglichsten Eingeweide am hintersten Ende des Leibes innerhalb sich befinden — Pterotr. hyalina Forsk. — An zwey Arten, die eine aus dem atlant., die andere aus dem stillen Meere, habe ich deutlich einen doppelten Nervenknoten zwischen den Augen über der Speiseröhre gesehen, von ihm steigt auf jeder Seite der Speiseröhre ein feiner Faden an die untere Seite, und beyde vereinigen sich in einem starken Nervenknoten, welcher der Respirationsflosse gegenüber unter dem Darmcanal liegt. In den walzenförmigen Augen sind große Crystallinsen sichtbar.
+
+4. Phyllirhoe Per. Respirationsflosse am hintern Körperende als gerade Fortsetzung des Vorleibes, vorzüglichste Eingeweide innerhalb. — Scoresby hat wohl a. a. O. Fig. 1, und 2. Thiere dieser Gattung vorgestell:?
+
+5. Appendicularia. Diese von Chamisso aufgestellte und zu den Acalephen gebrachte Gattung gehört auch hierher. Die sehr schmale lange Respirationsflosse steht an dem hintern Theile der Bauchfläche des Körpers, und zwar mit seiner größten Breite nach der Länge des Körpers (also nicht quer, wie in der angeführten Fig.). Augen oben, Rüssel vorn, Haupteingeweide hinten; eine neue Art aus der Südsee.
+
+6. Tomopteris, neu. Respirationsflossen an jeder Seite des Leibes zehn. Kopf mit Stacheln; am hintern Körperende noch vier Fortsätze, welche wahrscheinlich die Hauptorgane enthalten. Der Darmcanal läuft gerade durch die Körperhöhle. Am Rüssel zwey Fühler. Augen klein. In den Flossen kleine Kügelchen, die auch zuweilen in die Höhle des Mittelleibes gelangen. Fig. 5. T. onisciformis, Südsee, 2½ Linie lang.
+
+[NOTE: two readings on this leaf are doubtful and worth a second opinion. (a) Under Carinaria, a short dash is clearly inked between "Die" and "Respirationsflosse" ("Die-Respirationsflosse"); it is most likely an inked space/quad rather than an intended hyphen, but it is printed, so it is retained. (b) Under Phyllirhoe, the last word of the entry reads "vorgestell" followed by a two-dot colon-like mark and a question mark: "vorgestell:?". The mark is probably a broken or half-inked "t", i.e. the author's "vorgestellt?", but as printed it is a colon. "Branchopteren" is set in spaced bold Fraktur.]
+
+<<<PAGE pdf=4 file=page_004.txt>>>
+[PAGE 737-738]
+
+[NOTE: Isis numbers columns: 737 heads the left column, 738 the right, with a short double rule between them. Fraktur except Latin names, which are roman (antiqua). Long-s rendered as plain `s`, following pages 1-2 of this document; line-end hyphens closed up.]
+
+Noch zwey Gattungen von schwimmenden Schnecken sind mir dießmal vorgekommen, nehmlich Glaucus und eine neue Eurydice. — Außer dem Glaucus atlanticus Blumenb. im atl. Meere erhielt ich noch zwey neue Arten in der Südsee; die Thiere haben Luftblasen unter der Haut des Fußes, den sie bekanntlich nach oben wenden. Die Athmungsöffnung liegt hinter der ersten straligen Flosse, die Darmöffnung vor der dritten Flosse der rechten Seite. — Die Gattung Eurydice bildet ein Thier, das keinen Fuß, einen von den Seiten sehr zusammengedrückten Körper, eine senkrechte Schwanzflosse, nur zwey Fühler und keine Augen hat. Rücken und Bauch sind von einer schmalen Flossenhaut eingefaßt. Die geringe Dicke des Leibes erlaubte, alle Eingeweide genau zu beobachten.
+
+Fig. 6. Eur. Lichtensteinii. a. Senkrechte Mundspalte. — b. Schlundkopf mit einer Speicheldrüse jederseits, von ihm führt die enge Speiseröhre zum Magen c, aus dessen Grunde drey Blinddärme (zwey oben, einer unten) entspringen und den Nahrungsbrey in die drey gefäßartigen die Stelle der Leber ersetzenden Organe d d d führen. — f. Darm, der sich an der rechten Seite öffnet. Zwischen beyden obern Blinddärmen liegt das Herz, welches das Blut nach unten treibt. — g. Verschlungener gefäßartiger Samenbehälter. — h. Mehrere Eyerstöcke; in kleinern Exemplaren sind sie weniger entwickelt, aber in größerer Anzahl vorhanden; von allen führen Gänge zum hintersten Ende des Samenbehälters, wo sich eine Oeffnung an der rechten Seite des Körpers befindet; bey einem großen Individuum (von welchem dieser Umriß) befand sich ein Eyerstock an jener Stelle. — k. ist ein sehr durchsichtiges Organ von gefäßartiger Gestalt, dessen Enden begränzt schienen; unter dem Samenbehälter war ein ähnliches schwer sichtbar. Da dem Thiere nur noch ein Respirationsorgan fehlt, so möchte es wohl in jenen zu suchen seyn. An der vordersten größern Oeffnung der rechten Seite war ein beständiges Oeffnen und Schließen zu bemerken. Ueber der Speiseröhre liegt ein doppelter Nervenknoten, an der untern Seite ein einfacher. — Mit Phyllirhoe ist diese Gattung nicht zu verwechseln.
+
+An Janthina exigua Lam. (im atl. Meer 38° Br. N. gefangen) hatte ich Gelegenheit, ihre Fortpflanzung zu beobachten. Unter der großen Anzahl von eingefangenen Individuen befanden sich mehrere, deren Blasenmasse über einen Zoll lang, schmal und am Ende hakenförmig gekrümmt war. Diese Blasenmasse wird von einem schmalen fleischigen Streifen getragen, der an der äußern Seite derselben verläuft; er ist mit einer dichten Reihe kleiner, gestielter, glockenförmiger Schläuche besetzt. Diese sind am breitesten Ende offen, haben daselbst gefranzte Ränder und enthalten eine große Anzahl brauner Körner: Brut, welche ich sich bewegen sah. Die der Spitze der Blasenmasse nächsten Schläuche waren meist schon leer. — Die von Home auf der Schale von Janthina fragilis beobachteten Eyer gehören nicht diesem Thiere an, sondern sind Eyer von Lepaden. Auf den Schalen der Janth. penicephala Per. traf ich auch diese Eyerschnüre an, die Schalen waren aber ganz von einer Lepas bedeckt. Home hatte seine mit Eyerschnüren besetzte Schale von der Congoexpedition, und Leach berichtet von seiner Pentelasmis dilatata, daß sie auf der Schale von Janth. fragilis gesessen.
+
+Ein kleiner Strombus in Otaheiti setzte mich in Erstaunen; als ich ihn aus dem Wasser hob und den mit feinen langen Zacken versehenen Rand seines dünnen Deckels bewunderte, streckte das Thier seine langgestielten Augen, die eine grüne Iris und runde schwarze Pupille haben, weit heraus, und nachdem es seinen Feind erblickt hatte, schlug es einigemal mit großer Schnelligkeit (wie sie mir an keiner Schnecke bekannt ist) mittelst seines dicken Fußes mit dem stachligen Deckel auf meine Finger und zog sich in die Schale zurück. Es vertheidigte sich nachher noch einigemal auf dieselbe Weise.
+
+6. Scheidenthiere.
+
+Von den innern Organen der Salpen habe ich jetzt wohl mehr gesehen, als früher, dennoch bleibt mir noch vieles räthselhaft; hier Verdauungswerkzeuge, Gefäß- und Nervensystem. Zur Erklärung der senkrechte Durchschnitt einer mit einem Nucleus versehenen neuen Art, S. caudata, stark vergrößert. Fig. 7. — a. Kieme, theilt sich vorn in zwey Gefäße b. b., diese vereinigen sich unten in ein mittleres Gefäß c, das zum Herzen läuft. Mit dem untern Gefäße in Verbindung steht eine feine Röhre d. Das Herz f. treibt das wasserhelle Blut, welches gelbliche Kügelchen enthält, in ein kurzes, weites, mit sichtbaren Häuten versehenes Gefäß g.; dieses liegt auf dem hintern Theile der Kieme; bey h tritt das Blut aus dem Gefäße heraus; man sieht wenigstens ferner keine Spur mehr von Gefäßhäuten, sondern das Blut scheint in Rinnen des Zellgewebes zu fließen. Nachdem das Blut an die Oberfläche der Muskelhaut gekommen ist, setzt der größte Theil i desselben seinen Lauf in der Mittellinie des Körpers nach vorn fort, ein kleiner Theil, k, aber fließt nach hinten. Beyde Hauptcanäle geben viele Zweige nach den Seiten ab und theilen sich selbst an den Körperenden. Alle diese kleinen Canäle (von denen einige durch punctierte Linien angezeigt sind) sammelt ein großes an der untern Seite des Körpers innerhalb der Muskeln liegendes Gefäß mit deutlicher Haut (l.) auf und führt es gerade zum Herzen. An der untern Seite des Körpers bemerkt man noch in einem mittlern Canale, m, das Blut fließen, und zwar in entgegengesetzter Richtung dem Strömen in dem größten Gefäße l. Das Merkwürdigste an diesem vollkommnen Kreislaufe besteht nun aber darin, daß das Herz, wenn es das Blut eine Minute hindurch in das obere Gefäß hineingestoßen hat, auf eine Secunde still steht, und sodann mit derselben Thätigkeit das Blut in ganz entgegengesetzter Richtung in Umlauf setzt, nehmlich es in das untere große Gefäß hineindrängt und aus dem obern wieder empfängt. Dieses Verwechseln der Aorta und Hohlvene mit einander geschieht in sehr regelmäßigen Zwischenräumen, und ist von mir eine geraume Zeit hindurch an verschiedenen Exemplaren und verschiedenen Arten mit größter Deutlichkeit beobachtet worden, so daß darüber kein Zweifel zu gestatten ist. — Gleich hinter der vordern Oeffnung der Hülle und der Muskelhaut bemerkt man ein lanzettförmiges Organ, die Zunge, n, der Mund besteht in einer kleinen Längsspalte, die Speiseröhre
+
+Isis. 1825. Heft VI.	47
+
+[NOTE: the last line of the sheet is the direction line, set at the foot of the left column ("Isis. 1825. Heft VI.") and the signature number "47" centred under the right column; a tab separates them above. The section heading "6. Scheidenthiere." and the phrases "still steht" and "in ganz entgegengesetzter Richtung in Umlauf setzt" are set letter-spaced (gesperrt) in the original; the spacing has been closed up. The right column runs on mid-sentence at "die Speiseröhre" onto the next leaf.]
+
+<<<PAGE pdf=5 file=page_005.txt>>>
+[PAGE 739-740]
+
+[NOTE: Isis numbers columns: 739 heads the left column, 740 the right, with a short double rule between them. Fraktur except Latin names, which are roman (antiqua). Long-s rendered as plain `s`, following pages 1-2 of this document; line-end hyphens closed up.]
+
+ist kurz und fein, der Magen, o, ist lang und weit, hat am Grunde einen trüben Fleck, wo wahrscheinlich der Darm, p, entspringt; dieser führt in den sogenannten Nucleus, welcher aus dem kurzen dicken Darme, q, besteht und von der zerdstelten Leber r. eingehüllt ist. Die Darmöffnung s. liegt gewöhnlich ganz an die Leber angepreßt. Nichts ist schwerer zu sehen, als der Magen, wegen seiner außerordentlichen Durchsichtigkeit. — Ueber der Speiseröhre vor dem vordern Kiemenende sieht man einen Nervenknoten, der viele feine Fäden abgibt, die man aber nicht verfolgen kann; ein zweyter Nervenknoten, t, liegt unter dem Grunde des Magens.
+
+Pyrosoma atlanticum hatte ich auch das Vergnügen zu fangen; die einzelnen Thiere sitzen an der innern Fläche der allgemeinen röhrenförmigen Hülle; jedes hat aber eine Oeffnung durch die Hülle nach außen.
+
+7. Brachiopoden.
+
+Dumeril hat schon die Cuvierschen Ordnungen Brachiopoden und Cirrhipeden verbunden, hier stelle ich sie als Ordnungen einer Classe zusammen; nur von der letztern Ordnung habe ich Gelegenheit gehabt, Thiere zu beobachten. Man vergleicht sie meiner Meynung nach fälschlich mit den Gliederthieren. Die Arme der Cirrhipeden stehen an einer Seite des Mundes, und alle einzelnen gegliederten Fäden haben ein gemeinschaftliches mittleres Stück, es ist also nur ein einziger vielfach gespaltener Arm vorhanden, der ganz mit einem Strahl einer Comatula oder eines Gorgonocephalus zu vergleichen ist. Die in diesem Arme beobachtete Ganglienkette ist also keine Bauchganglienkette; der Nervenring um die Speiseröhre besteht aus einem einfachen Faden, ein hinlänglicher Beleg für ihre niedrige Stellung in der Thierreihe. Die Lepaden sind mit Encrinus zu vergleichen, die Analogie zwischen Balanen und Echiniden hat Mac Leay im 2ten Bande s. Horae entomologicae sehr scharfsinnig dargethan.
+
+Die Arten der Gattung Cineras scheinen sich nur an weiche Gegenstände festzusetzen; eine Art traf ich an dem Fleischstreifen der Blasenmasse von Janthina exigua an, eine andere saß mitten auf der Scheibe einer Pelagia. Die eigentliche Lepas sitzen dagegen an festen Körpern. — Eine merkwürdige neue Gattung der Cirrhipeden fand ich auf Otdia; sie lebt in zwey bis drey Zoll langen engen Höhlen, welche sie sich in dem kalkigen Gesteine ausgehöhlt hat. Das Thier kann sich durch Verkürzung des Fußes tiefer in seine Höhle zurückziehen. Die fünf kleinen Schalen, welche alle auf einer Höhe stehen, sind nicht unter einander durch eine Haut verbunden; die drey größern unter ihnen entsprechen den drey untern Schalen bey Lepas; innerhalb der fünf Schalen sitzen noch zwey breite; die mit den vorigen nicht vereinigt sind, und den beyden obern Schalen bey Lepas und dem Deckel der Balanen entsprechen. Eine zweyte Art dieser Gattung, Lithonzella zu nennen, ist Lepas dorsalis Ellis et Sol. Tab. XV. Fig. 5.; die zwey sehr kleinen Seitenschalen sind jedoch nicht abgebildet. — Eine andere ähnliche Gattung ist Mitella Rumphii, Amboin. Rar. Tab. XLVII. Fig. M.
+
+die sich durch schuppigen Stiel und Lebensart, indem sie nicht in Röhren sitzt, von der vorigen unterscheidet, aber durch freye Schalen nähert. Beyde leben an Stellen, die zur Ebbezeit trocken sind, und bilden zusammen eine Abtheilung der Cirrhipeden, welche den Uebergang von den Lepaden zu den Balaniden macht. — Von Balaniden erhielt ich zwey Arten der G. Clisia und eine Acasta.
+
+8. Stralthiere.
+
+Ein zu den Holothuriden gehöriges wurmartiges Thier lebt auf Otdia im Sande unter Wasser, bildet eine besonre Gattung, Ptychodera. Körper sehr weich mit vielen Querfalten; an einer Seite, mit welcher das Thier kriecht, ist der Körper der Länge nach gespalten; die dadurch-entstandenen Hautlappen können sich aufschlagen oder beyde mit ihren Rändern sich genau aneinander fügen. In der Mitte des Körpers verlängern sich die Leibesfalten am Hautlappenrande zu zackigen Fortsätzen, die wohl Eyerstöcke seyn möchten. Das vorderste Ende des Körpers hat keine seinen Querfalten, er ist glatt und durch eine starke Einschnürung in ein vorderes dreyeckiges Stück und in ein hinteres viereckiges getheilt. Das vordere Stück hat eine einfache Mundöffnung an der untern Fläche gegen die Spitze hin; hinten ist eine weite Kloakenöffnung sichtbar. Fig. 8. Ptychodera flava. — Holothurien habe ich 13 Arten erhalten.
+
+9. Acalephen.
+
+Characteristisch für diese schwer zu bezeichnende Classe, besonders wenn es darauf ankömmt, sie von den nahestehenden scharf abzuscheiden, scheint mir vorzüglich die Vereinigung der Athmungs- und Schwimmorgane zu seyn. Alle Gattungen lassen sich unter vier bestimmte natürliche Ordnungen vertheilen.
+
+1. Ordnung. Acalephae Medusidae. Körper symmetrisch, glockenförmig, Eingeweide stralenförmig vertheilt. Bisher kenne ich nur zwey Hauptabtheilungen der Medusen, nehmlich mit oder ohne Arme. Geryonia kann man den Magen nicht absprechen, denn der Trichter ist gerade der Magen. — An Pelagia lassen sich die innern Organe sehr schön sehen; die Thiere haben 16 Magensäcke, acht von ihnen stehen mit den acht körnigen Randkörpern, acht andere mit den 8 Fühlfäden in Verbindung. Auf ihrer untern Fläche liegt eine feine Muskellage von concentrischen Fasern, wie bey M. capillata; über ihnen an ihrem Ursprunge aus dem Magen befindet sich ein Gefäßring?, aus welchem für die Mitte eines jeden Magensacks ein Ast heraustritt, und sich, nachdem er sich gespalten hat, dem Gesichte entzieht. Sie haben vier Säcke mit Eyerstöcken und vier äußere Oeffnungen zu ihnen (von Peron wohl nicht beobachtet, da er Pelagia unter die Monostomata setzt). Von dem dem Magen zugewandten Rande der Eyerstöcke entspringt eine große Anzahl feiner Saugröhren, welche sich im Magen frey bewegen, und sogar zur mittlern einzigen Mundöffnung heraushängen.
+
+[NOTE: readings and printer's oddities worth a second opinion. (a) Left column, the new cirripede's second species is named in italic and hyphenated across a line as "Litho-" / "nzella"; the second letter of the fragment is unambiguously an italic z at high magnification, so the name as printed is "Lithonzella". (b) Right column, "bildet eine beson-" / "re Gattung" — the printed word is "besonre", evidently a compositor's slip for "besondere". (c) Right column, "die dadurch-entstandenen": a short dash is inked between "dadurch" and "ent-"; as on the previous leaf this is probably an inked space/quad, but it is printed and is kept. (d) Left column, "von der zerdstelten Leber" is printed thus (for "zertheilten"/"zerdehnten"?); it is left as set. (e) "13 Arten" uses old-style figures. The section headings "7. Brachiopoden.", "8. Stralthiere.", "9. Acalephen." and the clause "sind nicht unter einander durch eine Haut verbunden" are letter-spaced (gesperrt) in the original; spacing closed up here. The last paragraph of the right column is set with a hanging indent as a numbered order-diagnosis.]
+
+<<<PAGE pdf=6 file=page_006.txt>>>
+[PAGE 741-742]
+
+[NOTE: Isis numbers columns: 741 heads the left column, 742 the right, with a short double rule between them. Fraktur except Latin names and authorities, which are roman (antiqua); new genus names are in roman italic. Long-s rendered as plain `s`, following pages 1-2 of this document; line-end hyphens closed up. The numbered genus entries are set with a hanging indent, so each is kept as its own paragraph.]
+
+Eine kleine Meduse ohne Arme hat kleine, mit Knöpfen versehene einziehbare Fühlfäden am Mundrande; eine andere ist am äußern Rande mit vier großen Fühlfäden versehen, welche Saugknöpfe haben.
+
+2te Ordnung. Ac. Beroidae. Körper symmetrisch, äußerlich mit Reihen von feinen Schwimm- und Respirationsfäden. Magen immer in der Mitte. Drey Familien:
+
+1. Fam. Beroidae cavae. Der Magen nimmt den ganzen innern Raum des Thieres ein. Vom Grunde des Magens entspringen 8 Gefäße, von denen jedes in der Mitte der Schwimmfädenreihen an der äußern Fläche zum Mundrande herabläuft; dort vereinigen sie sich in ein Ringgefäß, aus dem eben so viele Gefäße an der innern Fläche, also am Magen, hinaufsteigen.
+
+1. Gatt. Idya. Fremvlle. Die Reihen der Schwimmfäden ganz auf dem Körper angewachsen. Die Arten werden groß, bewegen sich äußerst langsam. 2 Arten.
+
+2. Medea, neu. Die nach der Mundöffnung zugekehrten Enden der Schwimmfädenreihen sind vom Körper getrennt, frey. Die Arten sind klein, schwimmen aber mittelst ihren langen Fäden sehr behend. Eine neue Art. Hierher gehört auch Beroe constricta Chamisso.
+
+2te Fam. Beroidae lobatae. Der schmale lange Magen nimmt nur den mittlern Theil des Körpers ein, welcher um die Mundöffnung gelappt ist. Vom Grunde des Magens führt eine Röhre nach außen zu dem der Mundöffnung entgegengesetzten Ende des Körpers. Zwey Gefäße steigen an den Wänden des Magens einander entgegengesetzt zu dessen Grunde hinauf, vereinigen sich dort ein enges Ringgefäß um die Röhre bildend. Aus dem Ringgefäße steigen 4 Gefäße von einander weichend nach dem Ende des Körpers und verlaufen in den Schwimmfädenreihen. Callianira Lam. bildet diese Familie; folgende neue Gattungen habe ich auf dieser Reise beobachtet.
+
+1. Axia. Körper breit, an der Mundseite zweylappig, auf jedem Lappen zwey breite Reihen Schwimmfäden, die sich am Ende des Lappens vereinigen. Andere Fortsätze fehlen. Magenhöhle sehr klein. Fig. 9. Ax. Gaedei.
+
+2. Calymma. Körper breit, mit zwey großen Lappen, die mit ihren Enden die Mundöffnung verdecken, an ihrem Ursprunge auf jeder Seite mit einem kleinen Flecke Schwimmfäden; außer diesen noch 4 lanzettförmige Fortsätze, mit Schwimmfädenreihen besetzt. Fig. 10. Cal. Trevirani.
+
+3. Mnemia. Körper eyförmig, die zwey Lappen haben auf ihrem Rücken zwey Reihen Schwimmfäden; außer ihnen auf jeder Seite zwey lanzettförmige Fortsätze, jeder mit einer Reihe Schwimmfäden. Mund nach oben; zwey Arten: eine große in der Bay von Rio Janeiro, Mn. Schweiggeri Fig. 11. Eine viel kleinere Art mit zwey Fortsätzen am hintern Körperende aus der Südsee, Mn. Kuhlii.
+
+4. Eucharis. Körper länglich, mit 8 Reihen Schwimmfäden, um die Mundöffnung herum vier mit Schwimmfädenreihen besetzte fadenförmige Fortsätze. Mundöffnung nach unten, Oberhaut mit blasenähnlichen Zipfeln dicht besetzt. Fig. 12. Euch. Tiedemanni; in der Südsee.
+
+Die schon bekannten Thiere d. Fam. sind unter drey Gattungen zu vertheilen.
+
+5. Hapalia. Körper lang, zusammengedrückt, Seitenlappen jeder mit zwey Reihen Schwimmfäden an ihren Rändern, an jeder breiten Fläche noch 2 Reihen Schwimmfäden, von denen jede am Mundende des Körpers in einen lanzettförmigen Fortsatz übergeht. Callianira heteroptera Chamiss.
+
+6. Sophia Peron. Körper lang, röhrenförmig. Vier gespaltene breite Fortsätze. Callian. diploptera Lam. (ist dieß Janira Oken?).
+
+7. Callianira Lam. Vier dreyspaltige Lappen und zwey dreyspaltige Fortsätze. C. triploptera Lam.
+
+3te Familie. Beroidae tentaculatae. Zwey weit ausstreckbare, mit feinen Saugröhren besetzte Fangfäden in besondern Röhren, der Magen nimmt nur einen schmalen Raum ein, in der Mitte des Körpers.
+
+1. Beroe. Acht Reihen Schwimmfäden, Körper kuglig oder eyförmig. Die Röhren der Fangfäden öffnen sich an dem Ende des Körpers, wo sich der Magen nach außen durch eine Röhre öffnet. Eine Art aus der Südsee. Scoresby bildet eine Art gut ab, a. a. O. Fig. 4.
+
+2. Cestum Per. Körper nach beyden Seiten des Magens bandförmig erweitert. Mund unten; zu beyden Seiten desselben öffnen sich die Röhren der Fangfäden. Zwei Reihen Schwimmfäden am obern Rande des Körpers. An einer in der Südsee aufgefischten 3 Fuß langen Art, Cestum najadis, ließ sich der hauptsächlichste Theil des Gefäßsystems deutlich genug beobachten. — Fig. 13. Gefäßsystem derselben; a. Oeffnung der vordern Röhre der Fangfäden, b. der an der hintern Fläche. c. Mund. — d d. Magen. f. Fangfäden Grundstück; gg. von letztern aufsteigende Gefäße; diese vereinigen sich in ein breites Ringgefäß h, welches die vom obersten Ende des Magens aufsteigende und sich oben in einer Vertiefung öffnende Röhre i umfaßt. Von ihm steigen 4 Gefäße kk. aufwärts, von denen jedes erstlich einen sich unten wendenden (l.) und dann in der Mittellinie des Leibes verlaufenden Zweig m abgibt, sodann nach oben sich in zwey sehr kurze Zweige n theilt, und durch diese die Verbindung mit dem horizontalen Gefäß der Bewegungs- und Respirationsblättchen seiner Seite zu Stande bringt. o vorderes, p hinteres Respirationsgefäß. In den Gefäßen gg. steigt das klare an den Kügelchen erkennbare Blut aufwärts, ergießt sich
+
+[NOTE: minor oddities on this leaf. (a) Left column, in "4 Gefäße von einander weichend nach dem Ende des Körpers" a stray inked vertical rule stands immediately before "nach"; it is a printing artifact (probably a piece of type or furniture taking ink), not a letter, so it is not transcribed as a character. (b) Left column, second family, "vereinigen sich dort ein enges Ringgefäß um die Röhre bildend" is printed thus, without a preposition. (c) In "mit Schwimmfädenreihen besetzt" (Calymma) the letter before "reihen" is set without the Fraktur u-breve and could be read as either n or u; "n" is adopted, matching the same compound elsewhere on the leaf. (d) "Fremvlle." is Fréminville abbreviated as printed. The right column runs on mid-sentence at "ergießt sich" onto the next leaf.]
+
+<<<PAGE pdf=7 file=page_007.txt>>>
+[PAGE 743-744]
+
+[NOTE: Isis numbers columns: 743 heads the left column, 744 the right, with a short double rule between them. Fraktur except Latin names and authorities, which are roman (antiqua); newly proposed genus names are roman italic. Long-s rendered as plain `s`, following pages 1-2 of this document; line-end hyphens closed up. The ordinal/family/genus entries are set with hanging indents and are kept as separate paragraphs.]
+
+in das Ringgefäß, wo es sich immer im Kreise herumdreht; in den 4 Seitengefäßen k steigen die Kügelchen an der äußern Seite aufwärts, an der innern abwärts; vielleicht liegt daher neben jedem Seitengefäß an der innern Seite noch ein anderes dicht an, in welchem das venöse Körperblut zum Centralorgan des Gefäßsystems, dem Ringgefäß h, herabsteigt, dort mit dem aus den Seitengefäßen gg aufsteigenden Chylus gemischt wird, und sodann durch die Gefäße k zu den Respirationswerkzeugen zur Oxydation gelangt. Merkwürdig ist der Umstand, daß der Ausführungsgang des Magens i, welcher eher ein Gefäß als ein Darm zu nennen ist, hier und bey den meisten Beroidis lobatis mitten durch das Centralorgan des Gefäßsystems durchgeht, eine Bildung, die der vieler Muschelthiere nahe kömmt.
+
+3te Ordnung. Acalephae Stephanomidae. Körper besteht aus einem ernährenden weichen Theile und aus härtern trennbaren Stücken, die theils mit Schwimm- und Respirationshöhlen versehen sind, theils fest sind und den weichen Theilen zum Schutz dienen. Der weiche Körpertheil ist mit einem oder vielen Saugmägen und mit ästigen fadenförmigen Fängern versehen. Auch unter diesen Thieren gibt es zwey deutlich geschiedene Familien.
+
+1ste Familie. Stephanomidae bipartitae. Der weiche Körpertheil ist einem harten vordern Thierstücke angewachsen, letzterem ist ein anderes immer mit einer Schwimmhöhle begabtes hinteres Stück angefügt und von ihm trennbar.
+
+1ste Gattung. Aglaja. Das vordere Thierstück hat nur einen Magen und eine Schwimmhöhle, das vordere Stück würflig. Fig. 14. Agl. Baerii. Atl. M.
+
+2. Eudoxia. Das vordere Thierstück hat nur einen Magen, aber keine Schwimmhöhle. Bis jetzt 3 Arten vollständig beobachtet, von der Anwesenheit noch vieler anderer Arten haben mich einzelne eingefangene Thierstücke überzeugt. Fig. 15. Eud. Bojani.
+
+3. Diphyes Cuv. Das vordere mit einer Schwimmhöhle versehene Thierstück hat einen langen, mit vielen Saugmägen besetzten Nahrungscanal. Jeder Saugmagen ist mit dem an seinem Grunde entspringenden Fangfaden von einer harten durchsichtigen Schuppe geschützt. Fig. 16. Diph. angustata, ein Stück eines Fangfadens.
+
+2te Familie. Stephanomidae strobilaceae. Körper von vielen harten Stücken bedeckt, die alle trennbar sind.
+
+1ste Gatt. Stephanomia Peron. Alle harten Stücke unter einander gleich, mit Respirationshöhlen versehen. Die Fangfäden und Saugmägen treten zwischen allen heraus.
+
+2te Gatt. Agalma, neu. Der weiche Körpertheil ist fast ganz eine Physsophora (wie ich nehmlich diese Thiergattung kenne), denn er hat am vordern Ende eine längliche Blase, einen langgestreckten wurmförmigen Körper, der mit vielen Saugmägen und ästigen Fangfäden endigt. Die Zweige haben an ihren Spitzen kleine Zangen. An der vorderen Hälfte ist der weiche Körper mit zwey Reihen harter keulenförmiger Stücke besetzt, welche eine nach außen geöffnete Schwimm- und Athmungshöhle haben. Der hintere mit Saugmägen und Fangfäden versehene Theil wird von einer aus vielen harten unförmigen Stücken zusammengesetzten Röhre eingehüllt und ist nur am hinteren Ende offen für den Austritt der Fangfäden. Die verschiedenen Stücke der Decke einer der meinigen sehr ähnlichen Art sind von Chamisso unter der Aufschrift Stephanomia Amphitritis abgebildet worden. Die Cuncolaria Eysenh. ist nur ein Schwimmstück. Fig. 17. Agalma Okenii, Südsee.
+
+4te Ordnung. Acalephae Physsophoridae. Der Körper der Thiere schwimmt mittelst eingesogener Luft, die entweder in häutigen Blasen oder in knorpligen Zellen aufbewahrt wird; andere Schwimm- oder Respirationsorgane besitzt er nicht.
+
+1ste Familie. Physsophoridae hamiferae. Schwimmen mittelst häutiger Blasen und schleppen lange, in die Tiefe gesenkte Fangfäden nach sich.
+
+1. Physsophora. Oben eine kleine, mit Luft gefüllte Blase von einer Anzahl Luft einsaugender Röhren umgeben; unter diesen ragen Saugmägen hervor, und hängen ästige, mit kleinen Zangen besetzte Fangfäden herab. So beschaffen war wenigstens das kleine Thier, welches ich im atlantischen Oceane fieng.
+
+2. Rhizophysa. Von einer kleinen Blase hängt ein wurmförmiger Körper mit mehreren Saugmägen und langen Bündeln seiner Fangfäden herab. Eine kleine Art aus dem atl. Ocean.
+
+3. Physalia. Die kleine Ph. Lamartinieri Tiles. aus der Südsee, brennt heftiger als die zehnmal größere Ph. arethusa; eine Berührung des Fingerrückens verursachte nach einer Minute lähmende, höchst unangenehme Schmerzen in dem Achselnervengeflechte.
+
+2te Familie. Physsophoridae chondrophorae. Im Körper ein zelliger, mit Luft angefüllter Knorpel (die bey den bekannten Gattungen haben einen mittlern Magen); sie schwimmen auf dem Wasser. Hieher Porpita und Velella. Von Porpita habe ich vier Arten auf dieser Reise unterschieden.
+
+1. P. glandifera Lam. Knorpelscheibe flach, oben glatt mit ungefärbter Haut bedeckt; Saugknöpfe der Fangfäden aufsitzend. Atl. M.
+
+2. P. coerulea. Knorpelscheibe flach, oben die Stralen gezahnt, mit dunkelblauer Haut bedeckt; Saugknöpfe fast gestielt. Südsee.
+
+3. P. globosa. Die untern Blätter der Knorpelscheibe nach den Seiten und nach unten stark erweitert, Saugknöpfe aufsitzend. Atl. O.
+
+[NOTE: the left column runs on mid-sentence from the previous leaf ("ergießt sich / in das Ringgefäß") and the left column ends mid-sentence at "einen langgestreckten wurmförmigen Körper", continuing at the head of the right column. A stray inked vertical rule stands before "in den 4 Seitengefäßen" in line 2 of the left column, the same artifact as on the preceding leaves; it is not transcribed as a character. "Physsophora"/"Physsophoridae" are spelt with double s throughout, as printed.]
+
+<<<PAGE pdf=8 file=page_008.txt>>>
+[PAGE 745-746]
+
+[NOTE: Isis numbers columns: 745 heads the left column, 746 the right, with a short double rule between them. Fraktur except Latin names and authorities, which are roman (antiqua); newly proposed genus names are roman italic. Long-s rendered as plain `s`, following pages 1-2 of this document; line-end hyphens closed up. Heavy bleed-through of the type on the reverse of the leaf is visible over the whole page, but does not obscure the reading.]
+
+4. P. ramifera. Oberer Theil der Knorpelscheibe gewölbt, die Saugknöpfe am Ende der Fänger langgestielt. Südsee.
+
+Forskal's Holothuria denudata ist verschieden von diesen allen, und Modeer erwähnt (Schwed. Abh. unter Phyllodoce) sogar einer länglichen Porpita. Wenn man eine Porpita auf den Rücken legt, so kann sie sich durch Beugung ihrer Fühler auf eine Seite umwenden. Die Analogie der Porpiten und Fungien ist sehr groß.
+
+9. Zoophyten.
+
+Von den Blättercorallen, die ich in Otaheiti und Otdia gesehen habe (es sind 40 Arten) kann ich nach den untersuchten sagen, daß der kalkige Corallenstock von der fleischigen Thiermasse überzogen werde, und daß die einzelnen Mägen der letztern in die blättrigen Gruben des Storks eindringen. Der größte Theil des Corallenstocks ist vom Thiere verlassen, als eine ausgeschiedene leblose Masse. Die Fungien sind die einzigen, bey denen die Thiermasse den ganzen Corallenstock umgibt; bey den festsitzenden überzieht sie nur die freye Oberfläche, und je größer der Stock wird, in desto mehr einzelne Stücke theilt sich die Thiermasse und jedes Stück bildet dann einen eigenen Corallenstock. Das Thier der Caryophyllaea lebt nur in der blättrigen Zelle, der übrige größte Theil des kalkigen Stocks ist verlassen und todt. In Hinsicht der Mägen sind mir drey Formen vorgekommen:
+
+1. Astraea. An einer großzelligen, der A. ananas ähnlichen Art in Otaheiti konnte ich an den großen, in die blätterigen Zellen des Corallenstocks eingesenkten Mägen deutlich erkennen, wie die äußere, den Corallenstock bedeckende Thiermasse um jeden Magen einen Randlappen bildet, welcher sich vermittelst concentrischer Muskeln so zusammenziehen kann, daß die Magenhöhle ganz verschlossen wird, er kann sich aber auch so erweitern, daß er nur einen schmalen Rand bildet. Innerhalb dieser Haut trifft man einen Kranz von dicken kurzen Fleischfäden an, die sich lang ausdehnen und vorstrecken können; sie haben aber keine große Saugöffnung am Ende, wie die Saugmägen der Physalia. Unter diesen bemerkt man wiederum eine häutige, den Grund der eigentlichen Magenhöhle schließende Querwand mit einer mittlern Oeffnung. Diese zweyte Haut, die sich ebenfalls stark erweitern kann, hat an ihrem Rande an der untern Fläche mehrere kurze Fleischfäden und schließt eine tiefe Höhle, an deren Grunde man viele unregelmäßig durch einander ragende fleischige Kanten bemerkt, welche die blättrigen Hervorragungen des Corallenstocks in der Zelle überziehen. Sowohl bey einer andern größern Astraea, als auch bey Caryophyllaea glabrescens Cham. waren beym Aufbrechen einer Zelle unter dem Grunde einer Magenhöhle noch gewundene Fäden sichtbar, welche in den Zellen des Corallenstocks hinabhiengen. Die äußere Höhle möchte Respirationshöhle seyn, und die Organe zur Absetzung des Kalks in den Fleischfäden enthalten, wie sich aus dem Baue der Fungien schließen läßt; auch die Bildung der Fötus wäre hier zu suchen. Die untere Höhle ist Digestionsorgan, die gewundenen Fäden in der Tiefe Blinddärme.
+
+Fig. 18. A. Ansicht der äußern Höhle. B. Der innern Höhle.
+
+Von derselben Bildung war die Thiermasse bey den untersuchten Madreporen, Poriten und einer Seriatopora.
+
+2. Fungia. Diese Gattung ist das Vorbild einer andern Reihe von Blättercorallen. Der Corallenstock der Fungia agariciformis (welche nebst F. scutaria Lam. und einer dritten neuen Art in Otaheiti häufig ist) hat an der obern blättrigen Fläche bekanntlich in der Mitte eine kurze Spalte; in diese hat sich der einzige Magen der Thiermasse eingesenkt; und ist der Digestionshöhle der Asträen, bis auf eine weit größere Anzahl von kurzen Fleischfäden an dem Hautrande, ähnlich gebaut. Die hohen Kanten, welche stralenförmig von der mittlern Zelle auslaufen, reichen nicht alle bis zur Mitte, sondern es befinden sich zwischen den längern immer andere kürzere, welche letztere sich beym Anwachsen des Corallenstocks zwischen den andern angesetzt haben. An dem nach der mittlern Zelle hin gewandten Ende einer jeden Kante befindet sich ein dicker, bauchiger, fleischiger Fortsatz, der an der Spitze keine große Oeffnung hat. Diese Fortsätze sind daher mit den Fleischfäden der äußern Höhle bey Astraea gleichbedeutend.
+
+Fig. 19. a. Magen. b. Fortsätze am Ende einer Kante.
+
+Die eigentlichen Fungien, selbst wenn sie so elliptisch werden, wie F. scutaria, haben doch nur einen Magen; dagegen Fungia limacina und talpa Lam. (Herpolitha m.) mehrere Mägen in der großen Längsspalte und auch einzelne Mägen zerstreut an den Seiten zwischen den Blättern besitzen.
+
+Eben so wie bey Fungia ist die Digestionshöhle von den Athmungsorganen getrennt in den Gattungen Pavonia, Monticularia und einer neuen, bey der alle Zwischenräume der Zellen mit freyen Zacken besetzt sind, jede Zacke hat ihren fleischigen Fortsatz.
+
+3. Caryophyllaea. Die thierische Masse der großen C. glabrescens Cham., welche auf jeder einzelnen Zelle für sich getrennt lebt, besteht in einer äußern Haut, die keine Randhaut bildet und (wie es scheint) die Zelle nicht bedecken kann, und aus einer großen Anzahl dicker, zollanger Fleischfäden, die an der Spitze geschlossen sind, aber eine Rauhigkeit besitzen, womit sie sich an die Finger hängen. Sie füllen die ganze Zelle an; es findet sich daher keine besondere Digestionshöhle.
+
+Noch muß ich eines in diese Classe gehörenden Thieres erwähnen. In den nördlichen Tropen der Südsee schwimmen feine Röhrchen von ungefähr zwey Linien Länge in Massen zusammengehäuft in großer Anzahl herum;
+
+Isis. 1825. Heft VI.	47*
+
+[NOTE: the direction line at the foot of the left column ("Isis. 1825. Heft VI.") is very faintly inked and partly broken; the signature "47*" is centred under the right column. A tab separates them above. The section heading "9. Zoophyten." is letter-spaced (gesperrt); spacing closed up. Both columns run on: the left column continues into the right at "wie sich aus dem Baue der Fungien / schließen läßt", and the right column ends mid-sentence at "in großer Anzahl herum;".]
+
+<<<PAGE pdf=9 file=page_009.txt>>>
+[PAGE 747-748]
+
+[NOTE: Isis numbers columns: 747 heads the left column, 748 the right, with a short ornamental double rule between them at the top centre. The second numeral is clipped by the right edge of the scan and only "74" plus the left part of a third digit survives; 748 is read from the sequence, not from the glyph. Fraktur except Latin names and Latin technical words (Arthronema fusca, Paramecium oceanicum, Oesophagus, Microscope), which are set in roman (antiqua). Long-s rendered as plain `s`, following the convention of the earlier pages of this document; line-end hyphens closed up. Bleed-through of the type on the reverse of the leaf is visible over the whole page but does not obscure the reading.]
+
+[NOTE: a second article begins in the lower half of the left column — see the boundary marked below.]
+
+einige (wie Fig. 20. a.) zeigen innere Querwände, von denen nur einzelne wirkliche Zusammenschnürungen der innern weichen blaßbräunlichen Haut sind (wie a*); andere scheinbare Querwände sind nur Falten der innern Haut. Die äußere Haut bildet eine härtere durchsichtige Hülle. An andern Röhrchen trifft man auch die äußere Haut an mehreren Stellen zusammengeschnürt an, die innere Haut hat sich aber an diesen Stellen gänzlich getrennt und zu einzelnen Thieren zusammengezogen (Fig. b.). Endlich kann sich die zum selbstständigen Thiere gewordene innere Haut auch ganz zusammenziehen und bildet einen eyförmigen Körper (Fig. c.). Die äußere Hülle trennt sich auch an den eingeschnürten Stellen, so daß jedes einzelne Thier seine Hülle für sich hat. Diese Contractionen waren unter Vergrößerungen deutlich sichtbar; Arthronema fusca, Fig. 20. Auf der Reise mit dem Rurik trafen wir gelbliche Röhrchen an der brasilischen Küste an, welche wahrscheinlich von eben der Natur mit diesen waren. Aehnliche Thierchen, als wir damals antrafen, und die von Chamisso als Paramecium oceanicum beschrieben sind, fanden sich auch bey den Röhrchen der Südsee, obgleich in geringer Anzahl; es sind kleine Planarien.
+
+Kamtschatka St. Peter und Paul, Juny 1824.
+
+Fr. Eschscholtz.
+
+[E. denkt, im July 1826 zurück zu seyn.]
+
+[NOTE: new article begins here: Kiemen bey Säugthieren.]
+
+Kiemen bey Säugthieren.
+
+(Tafel IV.)
+
+In den ersten Tagen dieses Monates erhielt ich einen noch in der Tracht eingeschlossenen, ganz unversehrten, und gerade 3 Wochen alten Schweinsembryo von 6 Linien Länge. Bey der Untersuchung desselben fand ich dicht hinter dem Kopfe auf jeder Seite vier im allgemeinen gerade von oben nach unten gehende, und von vorne nach hinten auf einander folgende sehr deutliche Schlitze, von welchen der vorderste, der sich dicht hinter dem Rudimente des Unterkiefers befand, am größten war. Die übrigen drey wurden, wie sie von vorne nach hinten auf einander folgten, immer kleiner, so daß der hinterste beynahe nur einen rundlichen Umfang hätte (Fig. 1.). Die Größe übrigens und Richtung dieser Schlitze war auf der einen Seite genau so, wie auf der andern; was ich insbesondre zum Beweise anführe, daß jene Oeffnungen natürlich, und nicht etwa durch Manipulation entstanden, also keine bloßen Einrisse waren. Zur Unterstützung dieser Behauptung führe ich noch an, daß ich äußerst behutsam mit dem Embryo, den ich selber aus dem Uterus herausgenommen hatte, umgegangen war, und daß ich unter dem Microscope die Ränder jener Oeffnungen nicht zackig, sondern ganz glatt fand. Die Oeffnungen übrigens lagen näher nach unten, als nach oben, der Zwischenraum aber, welcher sie unten von einander trennte, verschmälerte sich ein wenig von vorne nach hinten (Fig. 2.). Dicht hinter diesem Zwischenraum (der Kehlgegend) befand sich das große Herz, nur von einer mäßig dicken und ganz durchsichtigen Haut (dem Herzbeutel) umgeben. Es zeigte deutlich schon zwey besondre Arterien, aber nur einen einzigen Ventrikel, der sich jedoch in eine rechte kleinere und eine linke größere Hälfte zu zerfällen angefangen hatte. Aus dem Ventrikel gieng die Aorta als eine ziemlich dicke Arterie hervor, und bog sich bald nach ihrem Ursprunge nach oben und hinten um. Ehe sie sich umbog, gab sie gleich an ihrem Ursprunge, und zwar aus ihrer rechten Seite, einen Arterienast ab, der etwa halb so dick als sie selber war, gerades Weges nach vorne gieng und sich in dem hintern Theile der Kehlgegend verlor.
+
+Um mich näher davon zu überzeugen, daß die oben angegebnen Schlitze auch wirklich durch die dicke Wand des Halses durchgiengen, schnitt ich den Kopf ab, indem ich durch die Mundöffnung einen Schnitt nach oben führte, und spaltete darauf vermittelst einer feinen Scheere die obere Wand des Oesophagus zugleich mit den Rudimenten des Rückgrahtes und den dasselbe umgebenden Theilen. Als ich sodann das Präparat oben auseinander breitete, um die Kiemenfläche der Speiseröhre zu Gesichte zu bekommen, ward ich in der Wand des Oesophagus, und zwar in jeder Körperhälfte, dieselben Spaltöffnungen, wie an der äußern Seite des Halses gewahr. Im allgemeinen waren sie hier etwas kleiner als auswendig, jedoch war auch hier die vorderste am größten. Deutlicher sah ich jetzt demnach, als zuvor, da der Embryo noch unversehrt war, daß an jeder Seite des Körpers in der Wand des Halses sich 4 Spalten befanden, welche durch die Wand ganz hindurch giengen und eine ähnliche Lage und Form als die Kiemenhöhlen der Hayfischembryonen (deren Entwicklungsgeschichte ich nächstens bekannt machen werde) hatten. Die dicken Scheidewände der Spalten rechter Seite untersuchte ich unter einem guten Microscope, und bemerkte, daß sich dieselben in natürlicher Stellung gedacht, an ihnen, wie an den Scheidewänden der Kiemenhöhlen der Hayfische, freylich nur äußerst zarte Leistchen befanden, die in einer Reihe über einander liegend sich quer von außen nach innen hinbegaben. Von Lungen war noch nicht die mindeste Spur zu bemerken, wohl aber, was mir sehr auffallend war, das Rudiment des Kehlkopfes. Dieses erschien unter der Form einer kleinen, von vorne nach hinten gespaltenen Warze, und lag dicht hinter dem letzten Paare der oben beschriebenen Spaltöffnungen (die Zunge fehlte gleichfalls). Die Spalten öffneten sich demnach inwendig eigentlich nicht in die Speiseröhre, sondern in einer Verlängerung der Mundhöhle.
+
+Zur Vergleichung nahm ich nach der Untersuchung des sehr jungen Schweinsembryos einen, freylich schon einige Monate in Weingeist gestandenen, 8 Linien langen Pferdsembryo vor. An diesem fand ich zwar auswendig den Hals ganz glatt, inwendig aber bemerkte ich an jeder Seite vor dem Eingange in die Speiseröhre vier nur mäßig tiefe, von vorne nach hinten auf einander folgende und immer kleiner werdende senkrecht gestellte Furchen. Die Lungen hatten sich schon zu bilden angefangen. Auch war schon eine sehr zarte Luftröhre vorhanden, und der Kehlkopf nahm einen ungefähr halb so großen Raum, als die Lungen, ein.
+
+Die Erklärung dessen, was ich, als mit möglichster Sorgfalt beobachtet, so eben angeführt habe, wäre jetzt fol-
+
+<<<PAGE pdf=10 file=page_010.txt>>>
+[PAGE 10: unnumbered]
+
+[NOTE: journal issue contents/books-received leaf, not part of this article. It is the back wrapper of Isis 1825, sixth number: a two-column leaf with "Inhalt." (contents of the issue) in the left column and "Verkehr." (matter received — essays, books, journals) in the right. No folio is printed. Transcribed in reading order: all of the left column, then all of the right.]
+
+[NOTE: Fraktur throughout except Latin titles and Dutch/Latin book titles, which are set in roman (antiqua). All display headings and the personal names in the entry lists are printed letter-spaced (gesperrt) — "I n h a l t.", "H e d w i g   e t   S c h w ä g r i c h e n" — and are rejoined here without spacing, since the spacing is emphasis and not orthography. Long-s rendered as plain `s`, following the convention of the earlier pages of this document; line-end hyphens closed up except where the hyphen is a real compound-suspension hyphen ("Natur-", "Natuur-"). A short horizontal rule is printed across the centre of the page below the two columns; the lower quarter of the leaf is blank.]
+
+[NOTE: three compositor's errors are transcribed as printed, not corrected: "Erscheinnngen" (three n's, no u-bow, for "Erscheinungen"); "sder" (long-s followed by "der") for "der"; and "Eschscholz" without the t, though the same name is set "Eschscholtz" in the article itself.]
+
+Inhalt.
+
+A. Allgemeines.
+
+S. 617. Auszug aus J. Davy's Reise nach Ceylon.
+627. Worte aus dem Buche der Bücher von Tappe.
+— Europäische Blätter.
+628. Höhere Begründung der magnet. Strömungen.
+633. Matthäi, giebt es essigsaure Mineralwasser?
+
+B. Allgemeine Naturgeschichte und Mineralogie.
+
+640. Haidinger, regelmäßige Zusammensetzung der Crystalle. Taf. 4.
+649. Geolog. Blitzstrahl.
+650. Buquoy, Naturleben.
+
+C. Botanik.
+
+655. Hedwig et Schwägrichen, species muscorum.
+661. Trinius, fundamenta agrostographiae.
+668. Ejusd. de graminibus unifloris et sesquifloris,
+680. Waitz, Beschreibung der Heiden.
+
+D. Zoologie und Medicin.
+
+692. Horsfield, Thiere von Java. IV. V.
+706. Schumachers, System der Conchylien.
+733. Eschscholz, Thiere, auf der Reise um die Welt gesammelt, meist Quallen. Th. 5.
+741. Rathke, Kiemenlöcher im Säugthierfoetus. Taf. 4.
+743. Anonymus, über Ilgs Sehnenrollen. Taf. 6.
+
+616. Heft V. Ilg, Bau der Gehörschnecke.
+
+Inhaltsverzeichniß von Heft I bis VI.
+
+Umschlag.
+
+Versammlung der deutschen Naturforscher und Aerzte in Frankfurt.
+Kreysig, über den Gebrauch der Mineralwässer.
+Inhalt von Kastners Meteorologie.
+
+Taf. IV. gehört zu Guckguck S. 577. Heft V. Crystallen S. 640, Kiemen S. 741.
+Taf. V. zu Quallen S. 733.
+Taf. VI. zu Sehnenrollen S. 743.
+
+Verkehr.
+
+Eingegangen.
+
+An Aufsätzen.
+
+B. Hieroglyphik der Thierwelt usw.
+Ueber Friedreich's Zeichenlehre.
+Lang, Pflanzenverzeichniß.
+Ueber Myxine.
+
+An Büchern.
+
+Wörterbuch der Naturgeschichte. Weimar, Landes-Industrie-Comptoir. II. Hälfte 1. Atlas 3. 1825. 8.
+J. B. Friedreich, Andeutungen zum Versuche eines neuen Systems der Erscheinnngen des gesunden und kranken Lebens. Würzburg bey Stahel, 1825. 4. 8.
+A. K. Hesselbach, Beschreibung sder pathologischen Präparate zu Würzburg. Gießen bey Heyer, 1824. 8. 428.
+Max. von Neuwied, Abbildungen zur Naturgeschichte Brasiliens IX. Weimar, Industrie-Comptoir, 1825. in Fol. 6 Tafeln.
+Pander und D'Alton, die Skelette der Raubthiere abgebildet und verglichen. Bonn bey Weber. 1822. Fol. 15. t. 8.
+
+Von Pollini's Flora Veronensis ist der 3te und letzte Band angekommen, enthält die Cryptogamen sehr ausführlich.
+A. A. Berthold (Privatdocent zu Göttingen), über das Wesen der Wasserscheu. Bey Ruprecht, 1825. 8. 64.
+Funck's cryptogamische Gewächse. 30. 31. Leipzig bey Barth. 1824. 25. (Nr. 606—645.)
+J. Müller (Privatdocent zu Bonn), über die Entwickelung der Eier im Eierstock bei den Gespenst-Heuschrecken, und eine neuentdeckte Verbindung des Rückengefäßes mit den Eierstöcken bei den Insecten. 4. 118. 6 Taf. (aus Nov. Act. Acad. [?l.] XII. 2.)
+
+An Zeitschriften.
+
+Annalen der Physik und Chemie von Poggendorf. III. St. 1. Leipzig bey Barth 1825. 8. 128.
+Journal für Chemie und Physik von Schweigger, XVIII. Heft 4. Halle 1825. 8. 384—495.
+Brandes, Archiv des Apothekervereins XI. Heft 3. Lemgo bey Meyer 1825.
+Notizen aus der Natur- und Heilkunde bis Nr. 213.
+Verslag van de Werkzamheeten etc. van het Natuur- en Scheikundig Genootshap te Groningen 1824.
+
+[NOTE: the right column is trimmed close by the scan and the last one or two characters of several lines sit on or just past the edge; every line above could nevertheless be read in full. "Genootshap" and "Poggendorf" are transcribed as printed (for Genootschap, Poggendorff).]
+
+<<<PAGE pdf=11 file=page_011.txt>>>
+[PAGE 11: unnumbered]
+
+[NOTE: full-page engraved plate, "Taf. V.", belonging to Eschscholtz's article "Thiere, auf der Reise um die Welt gesammelt, meist Quallen" (Isis 1825, cols. 733ff.). Portrait orientation, no rotation. The binding gutter runs down the left edge and a dark strip of the scanner bed shows along the left and bottom edges.]
+
+[NOTE: NO caption, legend or explanatory text of any kind appears on this plate page. The only lettering on the leaf is (i) the plate number "Taf. V." engraved top right, (ii) the "Fig. N" numbers above each figure, (iii) a scattering of single italic reference letters (a, b, c … and A, B) placed on individual figures, and (iv) the engraver's imprint line "Isis 1825. Heft VI." at the foot, centre. The figure explanations are printed in the letterpress text, not here.]
+
+[NOTE: RESOLUTION WARNING — the PDF holds this plate as a single 550 × 709 pixel greyscale JPEG (72 ppi), so a "Fig. N" label is only about four pixels tall in the only image that exists. Rendering at 300 dpi merely interpolates it. Every figure number below is therefore given as a flagged best reading, not a confident one; individual numerals could be wrong and adjacent ones could be transposed. The one piece of internal support for the set as a whole is that the twenty readings form a complete run 1–20 with no repeats and no gaps. The single reference letters on the figures are below the threshold of legibility altogether and are recorded only as present.]
+
+[PLATE]
+
+Taf. V.
+
+[NOTE: figure numbers in reading order, left to right and top to bottom. The parenthetical fractions are the label's position on the leaf as (x, y) fractions of page width and height, so that a second reader can go straight to each one.]
+
+Fig. [?5] (0.06, 0.05)
+Fig. [?1] (0.17, 0.05)
+Fig. [?2] (0.32, 0.05)
+Fig. [?3] (0.53, 0.05)
+Fig. [?4] (0.69, 0.05)
+[?a] Fig. [?20] [?b] (0.85, 0.05) [NOTE: this label has a small italic reference letter to its left, over the segmented tube, and a second one to the right, over the ellipsoidal body; both letters are illegible. This is the figure the letterpress cites as "Fig. 20. a.)" and "Arthronema fusca, Fig. 20." at col. 747.]
+Fig. [?6] (0.63, 0.18) [NOTE: several illegible reference letters are engraved on this figure.]
+Fig. [?11] (0.09, 0.21)
+Fig. [?8] (0.26, 0.24)
+Fig. [?12] (0.48, 0.27) [NOTE: the large central ctenophore-like figure.]
+Fig. [?10] (0.79, 0.28)
+Fig. [?17] (0.21, 0.38)
+Fig. [?15] (0.06, 0.41)
+Fig. [?13] (0.80, 0.51) [NOTE: two or three illegible reference letters are engraved on this figure.]
+Fig. [?9] (0.32, 0.58)
+Fig. [?14] (0.06, 0.60)
+Fig. [?16] (0.59, 0.64)
+Fig. [?19] (0.48, 0.78)
+Fig. [?7] (0.10, 0.83) [NOTE: several illegible reference letters are engraved on this figure.]
+[?A] Fig. [?18] [?B] (0.81, 0.83) [NOTE: two circular figures side by side, each with a single italic capital above it — the left reads as A and the right as B, both uncertain.]
+
+Isis 1825. Heft VI.
+
+[/PLATE]

@@ -1,0 +1,43 @@
+[PAGE 264: unnumbered]
+
+[PLATE]
+PLATE XV
+
+7
+6
+1
+2
+3
+
+4
+
+8
+5
+
+[illegible]
+
+10
+9
+[/PLATE]
+
+[NOTE: this leaf is entirely occupied by PLATE XV. Its caption is on the facing leaf, PDF page 263; no caption text is repeated here. There is no printed folio, no running head and no printer's signature mark on this leaf.]
+
+[NOTE: the plate is printed LANDSCAPE on a portrait leaf and the PDF carries no /Rotate flag, so it renders sideways. The leaf must be turned 90° CLOCKWISE for the plate to stand upright — i.e. the plate as printed is rotated 90° anticlockwise relative to the leaf, so that in the rendered portrait image the top of the plate is at the RIGHT-HAND edge. Every engraved numeral was read after rotating the image 90° CW, and the [PLATE] block above lists them in the reading order of the CORRECTED orientation.]
+
+[NOTE: "PLATE XV" is set in bold full capitals and is the one piece of text on the leaf that is NOT rotated — it is upright in the ordinary portrait orientation, in the top right corner of the leaf, above and clear of the plate. In the corrected landscape orientation it therefore reads bottom-to-top down the right-hand edge. It is the only text on the leaf outside the blocks.]
+
+[NOTE: the plate is assembled from three half-tone/line blocks, described here in the CORRECTED landscape orientation. (i) A reproduced LINE block filling the upper left, roughly the left half of the width and the upper two-thirds of the height, carrying figures 1-8. (ii) A photographic half-tone block filling the whole right-hand third of the plate, full height, carrying figure 9 alone. (iii) A photographic half-tone block at the lower left, below block (i), carrying figure 10 alone. Figures 9 and 10 carry no lettering at all, only their numerals.]
+
+[NOTE: the figure numbers are NOT in layout order and the numbering runs right to left across the top of the line block. Positions as fractions of the width and height of the CORRECTED landscape view: 7 at (0.13, 0.16); 6 at (0.20, 0.16); 1 at (0.29, 0.14); 2 at (0.37, 0.17); 3 at (0.44, 0.15); 4 at (0.44, 0.28); 5 at (0.44, 0.42); 8 at (0.15, 0.43); the illegible mark at (0.49, 0.59); 10 at (0.44, 0.86); 9 at (0.88, 0.84). The [PLATE] block above follows that reading order — top to bottom, and left to right within a band — which is why the numerical sequence is broken. The numerals carry no following full point and none is added above.]
+
+[NOTE: there are NO reference letters anywhere on this plate. Each of the eleven figures carries its numeral and nothing else. The line block was swept quadrant by quadrant at 3x and the white ground around every subject re-examined; no italic letter, no leader line and no other lettering is present. This plate is unlike PLATE XIV on PDF page 262, where the reproduced Sars engraving carried a full set of italic reference letters — consistent with the caption leaf on PDF page 263 carrying no key.]
+
+[NOTE: the numerals on figures 1-8, in the reproduced line block, are printed solid black in a heavy sans-serif face and are large and perfectly legible; they were added by the British Museum over the reproduced engraving. The numerals on figures 9 and 10 are the same face but are reversed out WHITE against the dark photographic ground, 9 at the lower right of its block and 10 at the lower right of its block.]
+
+[NOTE: the "[illegible]" entry above is a very faint mark low in the white ground of the line block, near its right-hand edge and below figure 5, at about (0.49, 0.59) of the corrected view. It is roughly circular and looks like two small stacked rings or lobes, about 25 x 35 pixels on a 300 ppi render. It was examined at 12x and 20x with contrast stretched and cannot be resolved. It MAY be a faint printed inscription carried over with the reproduced engraving — the position, at the lower right corner inside the block, is where the "Tab. 5." inscription sits on the analogous reproduced block of PLATE XIV — but it may equally be a blot or a scan artefact, and no reading of it is offered. The embedded page image is 2550 x 3223 at 300 ppi, the native resolution of the source file, so no further detail can be had by re-rendering.]
+
+[NOTE: a small solid dot sits just right of and above figure 1's numeral, at about (0.32, 0.15) of the corrected view, and another below figure 7 at about (0.16, 0.35); a small white flake shows in the ground at about (0.10, 0.24). None of the three is type. A faint dot also touches the numeral 6 at its upper right, and may be either an ink speck or a full point; it is not transcribed as a full point because the other ten numerals on the leaf carry none.]
+
+[NOTE: no printed square brackets and no editorial query marks appear on this leaf. Every square bracket above is a transcriber marker.]
+
+[NOTE: isolated grey scan specks occur in the wide white margins of the leaf, three of them in the lower margin and one in the upper.]

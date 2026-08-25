@@ -1,0 +1,49 @@
+[PAGE 1: unnumbered]
+[NOTE: the scan of this page is physically clipped at the right margin, cutting off the last one or two characters of most lines of the reference list in the right-hand column. The losses are marked [illegible]; nothing has been reconstructed from the English translation on PDF p2. Faint stray pencil/scan marks lie in the upper left corner and in the left and right margins. The printed journal header gives the pagination as 126-127, but no folio is printed on the page itself.]
+
+NOTES
+
+Caribbean Journal of Science, Vol. 29, No. 1-2, 126-127, 1993
+Copyright 1993 College of Arts and Sciences
+University of Puerto Rico, Mayagüez
+
+Primer Registro de
+Lensia canopusi Stepanjants
+(Cnidaria: Siphonophora)
+en el Océano Atlántico
+
+REBECA GASCA Y EDUARDO SUÁREZ, Centro de Investigaciones de Quintana Roo (CIQRO), A.P. 424 Chetumal, Quintana Roo 77000, México.
+
+Lensia Totton es uno de los géneros más diversos de sifonóforos; se han descrito más de 40 especies abarcando latitudes tropicales, templadas y frías (Stepanjants, 1977; Mackie et al., 1987). Margulis y Alekseev (1985) reconocen 32 especies en el género, incluyendo ocho subespecies y una variedad. De acuerdo con Pugh (1974), el género es común en los estratos epipelágicos (0-200 m), aunque tiene representantes meso y batipelágicos (400-2000 m).
+
+De acuerdo a Suárez y Gasca (1991), en el área del Golfo de México y el Mar Caribe Occidental se han registrado las siguientes 12 especies de Lensia: L. conoidea Kefferstein & Ehlers, L. multicristata Moser, L. campanella Moser, L. cossack Totton, L. challengeri Totton, L. hotspur Totton, L. subtilis Chun, L. meteori (Leloup), L. achilles Totton, L. lelouveteau Totton, L. reticulata Totton y L. fowleri Bigelow.
+
+En muestras recolectadas en aguas del Golfo de México se determinó la presencia de L. canopusi Stepanjants. Esta especie había sido recolectada solamente en aguas ecuatoriales del Pacífico Occidental (Stepanjants, 1977).
+
+Las muestras de zooplancton aquí analizadas fueron recolectadas durante el crucero CIRCAM I, realizado en enero de 1991 en aguas del sur del Golfo de México, por la Secretaría de Marina de México, en el B/O "Justo Sierra." Se efectuaron arrastres oblicuos de 0-50 m en 37 localidades de muestreo, utilizando una red estándar de boca cuadrada con 0.45 m por lado y [?malla] filtrante de 0.5 mm. En la estación 27 (20°24.7'N; 95°10.3'W), se encontró un nectóforo superior de L. canopusi. La temperatura en esta localidad fue de 23.4°C, y la salinidad de 36.32‰; el muestreo fue nocturno (23:15 h).
+
+La especie referida es fácilmente distinguible por la ausencia de somatocisto (parte de la cavidad gástrica que almacena sustancias nutritivas) en el nectóforo superior (medusoide natatorio asexual), tal como lo describe Stepanjants (1977) (Fig. 1). Por lo demás, la estructura general es similar a otras especies de Lensia, como L. hotspur Totton o L. cossack Totton, aunque en ambas el somatocisto es conspicuo (Margulis y Alkseev, 1985). En nuestro ejemplar de nectóforo superior de L. canopusi, los canales radiales no se observan claramente; tampoco se destacan en la descripción original. En otras especies, como L. achilles Totton y L. challengeri Totton, los canales radiales también son poco conspicuos.
+
+El hallazgo de L. canopusi en aguas del Golfo de
+
+[FIGURE]
+n
+t
+o
+FIG. 1. Lensia canopusi. Nectóforo superior, ejemplar del Golfo de México, vista lateral. n: nectosaco. t: porción del tallo o eje. o: ostio.
+[/FIGURE]
+
+México eleva a 13 el número de especies del género en esta región del Atlántico Tropical Noroccidental. Es probable que la distribución de esta especie sea, como ocurre en la mayor parte de los sifonóforos tropicales y subtropicales, circumglobal (Alvariño, 1981)
+
+La especie fue recolectada originalmente en el estrato batimétrico 0-100 m; nuestros resultados coinciden con este registro, pues el nectóforo fue recolectado por arriba de los 50 m. Esto sugiere que L canopusi es posiblemente de hábitos epipelágicos.
+
+LITERATURA CITADA
+
+Alvariño, A. 1981. Siphonophora. In D. Boltovsko[illegible] (ed.), Atlas de Zooplancton del Atlántico Sudoccidental, pp. 383-441. I.N.I.D.E.P., Argentina.
+Mackie, G. O., P. R. Pugh, y J. E. Purcell. 1987. Si[illegible]phonophore biology. Advan. Mar. Biol. 24:97-262[illegible]
+Margulis, R. Y., y D. O. Alekseev. 1985. On the genu[illegible] Lensia Totton, 1932 (Siphonophora, Calycopho[illegible]rae). Zool. Zh. 64(1):5-14 (en ruso).
+Pugh, P. R. 1974. The vertical distribution of th[illegible] siphonophores collected during the Sond cruis[illegible] 1965. J. Mar. Biol. Ass. U.K. 54:25-90.
+Stepanjants, S. 1977. Siphonophora of the centr[illegible] part of the Pacific Ocean. Trans. P. P. Shirsho[illegible] Inst. Oceanol. 104:54-79 (en ruso).
+Suárez, E., y R. Gasca. 1991. Sifonóforos de Méxic[illegible] Biología y Ecología. Centro de Investigaciones d[illegible] Quintana Roo, México. 217 pp.
+
+[NOTE: in the reference list the [illegible] marks stand for characters lost off the clipped right edge of the scan; where a word is broken across two printed lines and both halves survive (e.g. "Sudoc" / "cidental", "Calycopho" / "rae") the halves have been joined as usual. "(Alvariño, 1981)" and "que L canopusi" are printed without a following period and without a point after "L" respectively.]

@@ -1,0 +1,23 @@
+[PAGE 4]
+
+[NOTE: Last page of the document. English translation, born-digital and fully legible; the folio "4" is centred at the head of the page and the lower half of the page is blank. The first two lines are the closing note of the Plate I legend, explaining P1 and P2; the plate itself is on the preceding page, and the note is left where it is printed rather than moved. Here the labels are set as "P1" and "P2" with full-size numerals, whereas the French original's legend uses subscripts. The reference list is set with a hanging indent, journal titles italic and volume numbers bold; each entry is kept on its own line. Printed as-is: "Bericht über eine nach Canarischen Inseln" (the French original has "nach den Canarischen Inseln"), "Wiss. For 1888" with a capital F, "Ueber den wechsel" with a lower-case w, "Die larvalen verhältnisse" with a lower-case v, "Medusan" for "Medusen", and "12 pl. 83 fig." with no comma between them.]
+
+4
+
+P1: protuberances of primary definitive nectophore; P2: protuberances of second definitive nectophore.
+
+On the other hand, it seems that the post-larva figured by Totton and attributed to Vogtia glabra corresponds to the stage of development of Hippopodius hippopus represented in Pl. I, fig. 2.
+
+The faculty for replacement of the nectophores and the morphological differences that follow amongst certain siphonophores can render their systematic study difficult without maintaining the animals in culture.
+
+Hippopodius hippopus is a species very frequently found in the surface waters of the Bay of Villefranche-sur-Mer. It has been utilised to gain knowledge of its larval and post-larval stages, which previously have not been established with absolute certainty. We hope that detailed studies of larval development will be able to be undertaken subsequently.
+
+References
+
+Chun, C. 1888a. Bericht über eine nach Canarischen Inseln im Winter 1887-88 ausgeführte Reise. S.B. Preuss. Akad. Wiss. For 1888, 1141-1173.
+Chun, C. 1888b. Die pelagische Tierwelt in grösseren Meerestiefen und ihre Beziehungen zu der Oberflächen fauna. Bibl. Zool. Stuttgart 1, 12-17, 1 pl.
+Chun, C. 1897. Über den Bau und die morphologische Auffassung der Siphonophoren. Verh. Dtsch. Zool. Ges. VII, 48-111, 29 text-figs.
+Chun, C. 1913. Ueber den wechsel der Glocken bei Siphonophoren. Ber. Sachs. Ges. (Akad.) Wiss. 65, 27-41, 8 fig.
+Metschnikoff, E. 1874. Studien über die Entwicklung der Medusan und Siphonophoren. Zeit. Wiss. Zool. 24, 15-83, 10 pl.
+Moser, F. 1924. Die larvalen verhältnisse der Siphonophoren in neuer Beleuchtung. Zoologica, Stuttgart 28, 1 (73), 1-52, 5 pl., 35 fig.
+Totton, A.K. 1954. Siphonophora of the Indian Ocean together with systematic and biological notes on related species from other oceans. Disc. Rep. 27, 1-161, 12 pl. 83 fig.

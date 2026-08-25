@@ -1,0 +1,19 @@
+[PAGE 163]
+
+[NOTE: English half of the bilingual paper; the figures cited here (Fig. 1-9) are printed in the Russian half and do not appear on this page. Scan is degraded and some commas print as bare dots.]
+
+From this data base the computer map of D.arctica finding was prepared using of the original WORLDMAP software (authors A. Lobanov and M. Dianov) (fig.2). This software permits to receive interactive indications of geographic coordinates and data on number of colony fragments of D. arctica for each particular observation point. It should be noted, that as new information becomes available in the data base, new points and accordingly new information about fragments and colonies in every new point will appear on the map.
+
+Previously data on the Sea of Japan were analyzed (108 samples). Using some statistical methods (15 original programs), such as the paired and multiple regression and correlation analysis, factor analysis and discriminant analysis, analysis of variance and contingency tables, these data were accepted for the improvement of the peculiarities of inhabitation and reproduction of this species and for understanding reasons of occurrence of the two morphological forms of anterior nectophores (Stepanjants and Lobanov, 1989). The standardized numerical values of different fragments and their sums in 1 cubic m. were analyzed. The transformation of the continuously changing factor values and the analyzed numbers into the number scales has been developed.
+
+The effect of such environmental factors as temperature and salinity, depth of finding, month, and time of the day was analyzed. The influence of these parameters on numerical content of all the colony fragments, all the nectophores, "wide" and "narrow" nectophores separately, as well as the number of generative fragments were examined.
+
+The variance analysis of the effect of the whole set of the above factors and pairs of factors on all the fragments and separate fragments shows that it is the season, as well as the combination of season, depth, temperature and salinity, that are the most influential parameters.
+
+The time of day does not influence the number of D.arctica fragments, which evidently testifies the absence of daily migration of this species.
+
+As is evident from Fig.3, the environmental dependence is more distinct for generative fragments than for nectophores. It means that reproduction of D.arctica colonies is occurring in a more limiting environmental conditions. Among nectophores, "wide" nectophores are more clearly dependent on the season and temperature than "narrow" ones. The latter are more eurybiotic.
+
+As is shown by the analysis of the contingency tables, the numerical criteria of dependency of the reproductive fragments on environmental factors are similar to those of the "wide" nectophores. It permits to associate the occurrence of "wide" nectophores with the beginning of the
+
+163

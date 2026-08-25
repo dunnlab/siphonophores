@@ -1,0 +1,1282 @@
+<<<PAGE pdf=1 file=page_001.txt>>>
+[PAGE 1: unnumbered]
+
+[NOTE: born-digital Elsevier opening page. It carries no printed folio — this
+journal paginates by article number, and the head line "Progress in Oceanography
+189 (2020) 102414" gives volume, year and article number rather than a page
+number. No printed square brackets occur anywhere on the page.]
+
+[RUNNING HEAD] Progress in Oceanography 189 (2020) 102414
+
+[FIGURE]
+Contents lists available at ScienceDirect
+
+Progress in Oceanography
+
+journal homepage: www.elsevier.com/locate/pocean
+[/FIGURE]
+
+[NOTE: the masthead band is flanked at left by the ELSEVIER publisher logo
+(printed word "ELSEVIER") and at right by a thumbnail of the
+journal cover; the only cover lettering legible at 300 dpi is the title
+"PROGRESS IN OCEANOGRAPHY". Remaining cover text is [illegible] at this
+resolution.]
+
+Footprints of Atlantification in the vertical distribution and diversity of gelatinous zooplankton in the Fram Strait (Arctic Ocean)
+
+[FIGURE]
+Check for updates
+[/FIGURE]
+
+Maciej K. Mańko^a,*, Marta Gluchowska^b, Agata Weydmann-Zwolicka^a
+
+^a University of Gdańsk, Institute of Oceanography, Department of Marine Plankton Research, Piłsudskiego Av. 46, 81-378 Gdynia, Poland
+^b Institute of Oceanology Polish Academy of Science, Department of Marine Ecology, Powstańców Warszawy 55, 81-712 Sopot, Poland
+
+A R T I C L E   I N F O
+
+Keywords:
+Jellyfish
+Ctenophores
+Atlantification
+Climate change
+Arctic
+
+A B S T R A C T
+
+Gelatinous zooplankton (GZ), here understood as pelagic cnidarians and ctenophores, are an important component of marine ecosystems. Their diversity and distribution reflect local hydrological settings especially well, thus allowing the development of biotic indices for studying climate-mediated changes in the world’s oceans. The effects of global warming are most pronounced in the Arctic Ocean and have been further accelerated by the strengthening inflow of relatively warm Atlantic waters (AtW) via the Fram Strait, referred to as Atlantification. Here, we use the GZ distribution to describe the current state of Atlantic water inflow into the Arctic Ocean and to discuss the future of this fragile ecosystem. For this purpose, we characterized the abundance, diversity, and demography of the GZ identified from vertically stratified samples (down to 1000 m) collected in the Fram Strait along two latitudinally parallel transects of varying influence of AtW. Overall, we identified 17 taxa, with Aglantha digitale, Dimophyes arctica and Mertensia ovum being the most abundant. We then contrasted our jellyfish and ctenophore data with both biotic and environmental ecosystem characteristics and analysed the associations between the GZ community and water mass distribution. We showed that the more abundant GZ community was found along the southern transect; that the sampling depth and bathymetric zone played the most important roles in structuring the GZ diversity; that water mass distribution affected GZ demography; and that AtW was dominated by A. digitale, that constituted 66% of the total GZ abundance. Our results, although temporarily limited, suggest that the Atlantification will promote the expansion of boreal species into the Arctic, and could lead to a less diverse, but more abundant GZ community in the future. In addition, we compare in detail the GZ community found in different water masses, at different depths, and in different bathymetric zones, and supported with literature data, discuss the future of the European Arctic under the scenario of increasing inflow of Atlantic water.
+
+1. Introduction
+
+Pelagic cnidarians and ctenophores, here referred to as gelatinous zooplankton (GZ), are integral components of marine food webs (Hays et al., 2018) and are equally important for the functioning of shallow and deep pelagic food webs (e.g., Choy et al., 2017). GZ themselves are versatile predators that feed on prey ranging from protists to fish (Purcell, 1997; Colin et al., 2005); despite their low energy density, they also constitute a food source of choice for a diverse array of predators (Hays et al., 2018). Jellyfish and ctenophores are also able to rapidly increase their population size in response to favourable environmental conditions and have been hypothesized to do so in response to anthropogenic stressors (Richardson et al., 2009; Duarte et al., 2013), periodically forming large population outbreaks, which are collectively referred to as jellyfish blooms (Mills, 2001). The notion of a globally increasing frequency of jellyfish blooms has been explored on numerous occasions (Condon et al., 2012), but it remains unsupported by robust global data. Instead, this phenomenon has been attributed to natural oscillations (Brodeur et al., 2008; Condon et al., 2013) or locally variable reporting efforts (Brotz et al., 2012) within certain oceanic regions, such as the polar seas (e.g., Pagès, 1997), which suffer from undersampling and a lack of long-term data sets.
+
+Data on the distribution of GZ taxa oftentimes comes from the fishery bycatch reporting (e.g., Decker et al. 2018), but this applies solely to larger scyphozoan jellyfish. Difficulties in the sampling of smaller and often more fragile taxa, like some hydromedusae, siphonophores and most notably ctenophores, which tend to disintegrate in plankton net samples when handled harshly (e.g., Raskoff et al., 2010),
+
+[FOOTNOTE] * Corresponding author.
+E-mail address: maciej.manko@ug.edu.pl (M.K. Mańko).
+
+https://doi.org/10.1016/j.pocean.2020.102414
+Received 27 August 2019; Received in revised form 28 June 2020; Accepted 31 July 2020
+Available online 07 August 2020
+0079-6611/ © 2020 Elsevier Ltd. All rights reserved.
+
+<<<PAGE pdf=2 file=page_002.txt>>>
+[PAGE 2]
+
+[NOTE: born-digital Elsevier two-column page. It carries a printed folio "2",
+centred at the foot; the running head gives the author line at left and the
+journal/volume/year/article-number line at right. No printed square brackets
+occur anywhere on this page, so every "[" here is a transcriber marker.]
+
+[RUNNING HEAD] M.K. Mańko, et al.
+[RUNNING HEAD] Progress in Oceanography 189 (2020) 102414
+
+and their convoluted taxonomy impede their correct identification and enumeration (Ronowicz et al., 2015). As a result, the actual diversity and distribution of the GZ tends to be poorly resolved even in more accessible regions (Majaneva and Majaneva, 2013) but more so in the deep ocean (Lindsay et al., 2004; Hosia et al., 2008).
+
+As the distribution of planktonic communities reflects the local environmental settings particularly well (see Hays et al., 2005 for a review), it is tempting to advocate their usage for monitoring climate-mediated changes occurring in the world’s oceans. This holds especially true for the most vulnerable areas of the globe, the polar regions. According to recent estimates, the water temperature has increased most rapidly in the Arctic Ocean and in sub-Arctic seas (IPCC, 2014), with the European Arctic warming at the most rapid pace (Walczowski and Piechura, 2007). This is most likely due to the strengthening and warming of the Atlantic waters inflow to the Arctic, the so-called “Atlantification” (Beszczynska-Möller et al., 2012; Polyakov et al., 2017). Atlantification has already had an impact on the biodiversity and functioning of the pelagic zone in the European Arctic (Wassmann et al. 2011), affecting species phenology (Gluchowska et al., 2017a; Weydmann et al., 2018) and food-web structure (Eriksen et al., 2017), and prompting the northward expansion of distribution ranges (Kraft et al., 2013; Weydmann et al., 2014). The lack of a solid diversity baseline, however, hampers any interpretation of the potential climate-mediated changes in the distribution and reproductive patterns of the GZ in the European Arctic. GZ were the focal group for only a handful of studies in this region (see Ronowicz et al. 2015 for a review) but were sometimes included in whole zooplankton assays (e.g., Błachowiak-Samołyk et al., 2007; Gluchowska et al., 2017b). Since these studies were biased towards the well-known and most abundant hard-bodied taxa (Gluchowska et al., 2017b) or relied largely on techniques that provided data of a low taxonomic resolution (such as the laser optical plankton counter; Basedow et al., 2018), little can be gleaned from them with regard to the biodiversity of GZ.
+
+Due to the less challenging sampling, fewer methodological constraints and obviously lower costs, studies of the GZ distribution are usually undertaken in the horizontal plane and rarely extend below the euphotic zone (e.g., Mańko et al. 2015). In the Arctic Ocean, the vertical distribution of GZ down to the mesopelagic zone has been characterized on only a few occasions (e.g., Raskoff et al., 2005; 2010), but these were either spatially limited to the Canadian Basin or were not directly focused on the GZ (e.g., Kosobokova and Hopcroft, 2010; Kosobokova et al., 2011; Smoot and Hopcroft, 2017).
+
+Global-scale analyses of the vertical distribution of the GZ have found that planktonic ctenophores and cnidarians are distributed not only according to the water mass characteristics but also according to the bottom topography (Raskoff et al., 2005; Hosia and Båmstedt, 2008; Raskoff et al., 2010; Mańko et al., 2015). GZ tend to aggregate in horizontal layers of varying thickness (Graham et al., 2001; Raskoff et al., 2005; Hosia and Båmstedt, 2008), which are often near discontinuities in the water column (Graham et al., 2001; Purcell et al., 2010; Trudnowska et al., 2016). This behaviour potentially enhances secondary production and trophic interactions (Purcell et al., 2014) or may be a simple response to physical cues (Graham et al., 2001; Frost et al., 2010). Additionally, GZ may occupy relatively narrow depth ranges, which often do not overlap between species (e.g., Lindsay and Hunt, 2005; Youngbluth et al., 2008). Raskoff et al. (2005, 2010), by studying the GZ in the Canadian Arctic, also demonstrated that their vertical distribution may reflect the higher-level taxonomy, with siphonophores and ctenophores being more numerously represented in shallow waters and medusae dominating in deep waters. Notably, the vertical distribution of jellyfish and ctenophores may vary seasonally (Hosia and Båmstedt, 2008; Bandara et al., 2016 and references herein) and may change due to diel vertical migrations (e.g., Pagès and Gili, 1991). However, in some cases, biotic interactions could be equally significant in structuring the distribution of GZ (see, Arai, 1992). There is evidence that some gelatinous predators follow their prey through the water column (Majaneva et al., 2013; Bandara et al., 2016), that different life cycle stages (e.g., eudoxids and polygastric colonies, in the case of siphonophores) can be vertically separated (Takahashi and Ikeda, 2006; Hosia and Båmstedt, 2008), or that their life cycles may limit dispersal with, for example, meroplanktonic taxa being represented more abundantly in neritic assemblages (Rodriguez et al., 2017).
+
+This study constitutes the first attempt to thoroughly characterize the vertical distribution of gelatinous zooplankton down to the mesopelagic zone in the Fram Strait (the European Arctic) and to disentangle its environmental and biotic drivers, thus providing a diversity baseline for further studies on the zooplankton distribution. Sampling along the two latitudinally parallel transects of varying hydrographic conditions and across the different bathymetric zones (shelf, slope, offshore, and exterior) was designed to investigate the influence of Atlantic water on the GZ community of the European Arctic.
+
+2. Materials and methods
+
+2.1. Sampling and data collection
+
+The samples were collected in early summer of 2012 (13–21 of July) along the two parallel latitudinal transects, which were the southern transect N (76°30′N) and the northern transect EB (79°N) (Fig. 1), west of Svalbard Archipelago on-board the RV Oceania (Institute of Oceanology, Polish Academy of Sciences). Each transect encompassed the following four zones, which were distinguished based on bathymetry, from east to west: shelf (N – 3 stations, EB – 1 station), slope (N – 3 stations, EB – 4 stations), offshore (N – 3 stations, EB – 2 stations), exterior (N – 3 stations, EB – 2 stations), totalling 21 stations (Fig. 1). The three westernmost zones (exterior, offshore, and slope) were, in some of the subsequent analyses, grouped under the term open ocean to facilitate their comparison to the shelf.
+
+Stratified vertical zooplankton samples were collected with a Multi Plankton Sampler (Hydro-Bios, Germany) with 0.180 mm mesh size gauze and a 0.25 m^2 square opening. Five fixed-depth strata, 0–25 m, 25–50 m, 50–200 m, 200–600 m, and 600–1000 m, were sampled at each station, with the exception of the shelf stations and those where the bottom was shallower (Table 1). The samples were fixed with 4% formaldehyde in a seawater solution buffered with borax immediately after collection and were stored until taxonomic analysis. The water temperature (°C) and salinity were simultaneously measured at each station using an SBE 911plus CTD probe (Sea-Bird Electronics, Inc., Bellevue, WA, USA) made up of duplicate SBE 3plus premium temperature sensors and SBE 4C conductivity sensors and a Digiquartz® pressure sensor.
+
+The water masses detected at each of the sampling sites were classified using temperature and salinity data averaged per depth stratum of zooplankton sampling. The characteristic T-S signatures of each water mass were adapted from Cottier et al. (2005), with Walczowski et al.’s (2012) modification of the S threshold for Atlantic water (S > 34.92) (Table 1).
+
+2.2. Sample processing
+
+Gelatinous zooplankton from the total zooplankton samples were identified to the lowest possible taxonomic level, enumerated and measured down to 0.01 mm under a NIKON SMZ800 stereomicroscope equipped with a calibrated ocular micrometer. The species abundance was then expressed as the number of individuals per 1000 m^3. This unit was chosen due to the frequent low abundance of GZ (see, e.g., Hosia et al. 2017). The species identification followed the key references on gelatinous zooplankton taxonomy, including those of Russel (1953), Kramp (1961), Totton (1965), Bouillon et al. (2006), and the species records (Ronowicz et al., 2015; Schuchert, 2019). For each species, the higher taxonomic ranks (i.e., order for medusae, suborder for
+
+[NOTE: source oddities transcribed as printed, not corrected: "Wassmann et al. 2011",
+"Ronowicz et al. 2015", "Mańko et al. 2015" and "Hosia et al. 2017" lack the comma
+before the year that most other citations on this page carry; "Raskoff et al., 2005;
+2010" uses a semicolon where the same authors' second date is elsewhere given as
+"Raskoff et al. (2005, 2010)"; "(see, Arai, 1992)" and "(see, e.g., Hosia et al. 2017)"
+carry a comma after "see"; "Russel (1953)" is printed with a single l. Superscripts are
+rendered here with "^": "0.25 m^2", "1000 m^3".]
+
+<<<PAGE pdf=3 file=page_003.txt>>>
+[PAGE 3]
+
+[NOTE: printed square brackets occur on this page and are the source's own, not
+transcriber markers. They are all in the right column: "abundance [ind. m^−3]" and
+"biomass of the zooplankton [mg m^−3]" in section 2.2, and "temperature [°C]",
+"transect [N, EB]" and "zone [shelf, slope, offshore, or exterior]" in section 2.3.
+Everywhere else on this page "[" is my marker. Superscripts are rendered with "^".]
+
+[RUNNING HEAD] M.K. Mańko, et al.
+[RUNNING HEAD] Progress in Oceanography 189 (2020) 102414
+
+[FIGURE]
+[NOTE: figure occupies the head of the page across both columns; the following is
+the printed lettering only, in reading order — top axis, left axis, in-map labels,
+scale bar, depth key, then the zones key below the frame.]
+20° W	10° W	0°	10° E	20° E	30° E	40° E	50° E
+76° N
+74° N
+72° N
+70° N
+Return Atlantic Current
+Transect EB
+Transect N
+South Cape Current
+West Spitsbergen Current
+N
+0	150	km
+> 0 m
+200 m
+600 m
+1000 m
+1500 m
+2000 m
+3000 m
+4000 m
+5000 m
+< 5000 m
+ZONES:	EXTERIOR	OFFSHORE	SLOPE	SHELF
+
+Fig. 1. Location of the zooplankton sampling in the western part of the Svalbard Archipelago, with the main ocean currents (after Beszczynska-Möller et al., 2011). Bathymetry data from the International Bathymetric Chart of the Arctic Ocean (Jakobsson et al., 2012).
+[/FIGURE]
+
+siphonophores and phylum for ctenophores) were also noted for the sake of comparison of the general abundance patterns.
+
+For the calycophoran siphonophores, the life cycle stage/colony fragment (eudoxid bracts and gonophore, anterior nectophore, and posterior nectophore) was also determined. The abundance of polygastric colonies equalled the number of anterior nectophores found. The abundance of eudoxids was determined as the number of eudoxid bracts found, since each eudoxid has only one eudoxid bract but could potentially have more than one gonophore (Carré and Carré, 1991). Since only in the case of Dimophyes arctica were both polygastric colonies and eudoxids found, whenever the relative abundance of this species was estimated, the sum of both the eudoxids and polygastric colonies of D. arctica was used. In the case of physonect siphonophores, the nectophores were counted and measured. The species abundance was expressed as the number of pneumatophores found; each colony has only one pneumatophore but can possess numerous nectophores; thus, this approach offers the most reliable estimate of the actual number of colonies (e.g., Hosia and Båmstedt, 2008). When only nectophores were found, as was the case for Rudjakovia plicata, the number of colonies was calculated based on an a priori assumption that the maximum nectophore count for a single colony of this species was 12. This assumption arose from a zoological examination of specimens collected by remotely operated vehicles, of which the longest colony bore 12 nectophores (unpublished data).
+
+The specimen measurements included bell height for the prolate hydromedusae (i.e., bullet shaped bell like that of Aglantha digitale) and pandeids, nectophore width for physonect siphonophores, nectophore/bract/gonophore height for calycophoran siphonophores and total body length in the case of ctenophores (e.g., Costello et al., 2008). Specimens of A. digitale were classified into three size classes based on bell height (BH) using the previously published size ranges for each class: juveniles 4–5 mm BH; intermediate > 5–11 mm; and mature > 11 mm (Takahashi and Ikeda, 2006). Although Takahashi and Ikeda’s (2006) data came from the subarctic Pacific, similar size ranges and diets of A. digitale in the north-eastern Atlantic (Pagès et al., 1996) and in the European Arctic (e.g., Zelickman, 1972) allow for a rough approximation of the similarity between the maturation sizes of this species in these regions. As gelatinous animals tend to shrink after fixation, the acquired measurements only approximate the actual sizes of the specimens and thus cannot serve as the basis for biomass calculation (Purcell, 1988; De Lafontaine and Leggett, 1989).
+
+The non-gelatinous zooplankton were identified to the lowest possible taxonomic level using the subsampling method (Harris et al. 2000), and these data have already been reported elsewhere (Gluchowska et al., 2017b). The species abundance was then used to calculate the zooplankton biomass using individual dry mass or weight-length regressions, as reported in Gluchowska et al. (2017b). Both the abundance [ind. m^−3] and biomass of the zooplankton [mg m^−3] were used as the environmental background for the subsequent analyses.
+
+2.3. Data handling and analysis
+
+The abundance data of the gelatinous zooplankton and of the other zooplankton were square root transformed prior to the analyses. To avoid the overrepresentation and production of meaningless similarity matrices, the samples with no GZ detected were omitted from the analyses. Data pre-processing and exploratory analyses were conducted in R (v. 3.3.2., R Core Team, 2016) using the tidyverse package (Wickham, 2019).
+
+The differences between the GZ data and the explanatory variables were tested with a series of uni- and multivariate permutational analyses of variance (PERMANOVAs) run with 999 permutations in R using the adonis function in the vegan package (Oksanen et al., 2007). To control for the familywise error rate resulting from multiple comparisons, the p values were adjusted with the Holm-Bonferroni method. The GZ data used included the GZ standing stocks (“abundance of GZ”) and GZ community composition (“community of GZ”) and the diversity indices (richness, equal to the species number; “inv. Simpson” – inverse Simpson diversity index) and life cycle stage composition of the two most abundant taxa, A. digitale and D. arctica. The explanatory variables were grouped into hydrographic (salinity and temperature [°C], which were both averaged for each sampled depth stratum), geographic (transect [N, EB], zone [shelf, slope, offshore, or exterior]) biotic (total abundance of zooplankton – “tot. abundance”, total biomass of zooplankton – “tot. biomass”), while the water mass types were tested individually. The collinearity of the explanatory variables was examined with the variance inflation factor (VIF; vegan package in R; Oksanen et al., 2007). Although none of the continuous variables examined have been shown to be collinear (VIF values < 5; Stine, 1995), it must be noted that the categorical variables were excluded from the
+
+[NOTE: source oddities transcribed as printed, not corrected: "Harris et al. 2000"
+lacks the comma before the year; "R (v. 3.3.2., R Core Team, 2016)" prints a period
+after "3.3.2" as well as the version's own final period; and "geographic (transect
+[N, EB], zone [shelf, slope, offshore, or exterior]) biotic (total abundance ..."
+has no comma between the closing parenthesis and "biotic", where the parallel list
+items elsewhere are comma-separated. Italics are not marked in this transcription:
+in the printed page "Dimophyes arctica", "D. arctica", "Rudjakovia plicata",
+"Aglantha digitale", "A. digitale", "a priori", "tidyverse", "adonis" and "vegan"
+are set in italic.]
+
+<<<PAGE pdf=4 file=page_004.txt>>>
+[PAGE 4]
+
+[NOTE: printed square brackets occur on this page and are the source's own, not
+transcriber markers: the table column heads "Latitude [°N]", "Longitude [°E]",
+"Sampled strata [m]", "Temperature [°C]" and "Salinity [PSU]". Everywhere else on
+this page "[" is my marker. Superscripts are rendered with "^".]
+
+[RUNNING HEAD] M.K. Mańko, et al.
+[RUNNING HEAD] Progress in Oceanography 189 (2020) 102414
+
+[TABLE]
+Table 1
+A. Sampling details with the detected water mass type encoded for each sampled depth stratum. Samples with no gelatinous zooplankton are marked with an asterisk.
+B. T-S characteristics of the water masses detected in the present study.
+
+A.
+
+[NOTE: in part A the water mass type of each depth-stratum cell is encoded only by
+the cell's fill colour, keyed by the coloured swatches in part B; no water-mass text
+is printed in those cells, so only the printed depth ranges are transcribed here.
+The "Transect" labels "N" and "EB" are each printed once, vertically centred against
+their block of rows; they are given below on the row where they are printed. Two
+cells span the IL3 and DL columns ("100-112*" for site N4P and "100-160*" for site
+N4) and are given once, in the IL3 position.]
+
+Transect	Zone	Site	Latitude [°N]	Longitude [°E]	Date	Sampled strata [m]
+						SL	IL1	IL2	IL3	DL
+	SHELF	N4P	76.5006	15.4977	10.07.2012	0-25	25-50	50-100	100-112*
+	SHELF	N4	76.4990	14.9988	10.07.2012	0-25	25-50	50-100*	100-160*
+	SHELF	N3P	76.5001	14.5014	11.07.2012	0-25	25-50	Missing	100-145*	145-210
+	SLOPE	N2	76.4924	13.0664	11.07.2012	0-25*	25-50*	Missing	Missing	Missing
+	SLOPE	N1P	76.4984	12.5196	11.07.2012	0-25*	25-50*	50-200	200-600	600-1000
+N	SLOPE	N1	76.4984	11.9982	11.07.2012	0-25*	25-50	50-200	200-600	600-1000
+	OFFSHORE	N-2	76.5032	8.9988	12.07.2012	0-25*	25-50*	50-200	200-600	600-1000
+	OFFSHORE	N-3	76.5033	8.4881	12.07.2012	0-25*	25-50*	Missing	200-600	600-1000
+	OFFSHORE	N-4	76.5046	8.001	12.07.2012	0-25*	25-50*	50-200	200-600	600-1000
+	EXTERIOR	N-9	76.5128	5.5398	13.07.2012	0-25	25-50*	50-200	200-600	600-1000
+	EXTERIOR	N-10	76.5135	5.0592	13.07.2012	0-25	25-50	50-200	200-600	600-1000
+	EXTERIOR	N-11	76.4967	3.6627	13.07.2012	0-25	25-50	Missing	200-600	600-1000
+	SHELF	EB2-2	78.8329	8.7363	21.07.2012	0-25	25-50*	50-100*	100-150	150-190
+	SLOPE	EB2-3	78.8401	8.4028	21.07.2012	0-25	25-50*	50-200	200-500	500-670
+	SLOPE	EB2-4	78.8339	8.0685	21.07.2012	0-25	25-50	50-200*	200-600	600-920
+	SLOPE	EB2-5	78.8328	7.5517	20.07.2012	0-25	25-50	50-200	200-600	600-1000
+EB	SLOPE	EB2-6	78.8324	7.0723	20.07.2012	0-25	25-50	50-200	200-600	600-1000
+	OFFSHORE	EB2-9	78.8215	5.5255	20.07.2012	0-25*	25-50*	50-200	200-600	600-1000
+	OFFSHORE	EB2-10	78.8339	5.0049	20.07.2012	0-25*	25-50*	50-200	200-600	600-1000
+	EXTERIOR	EB2-15	78.8335	0.0041	19.07.2012	0-25*	25-50	50-200*	200-600	600-1000
+	EXTERIOR	EB2-16	78.8321	-0.8469	19.07.2012	0-25	25-50	50-200*	200-600	600-1000
+
+B.
+
+Name	Abbreviation	Temperature [°C]	Salinity [PSU]
+Shelf Surface Water^1	SSW	> 1	< 34.00
+Polar Surface Water^1	PSW	> 1	< 34.00
+Atlantic Water	AtW	> 3	> 34.92
+Transformed Atlantic Water	TAW	< 3	> 34.92
+Intermediate Water	IW	> 1	34.00  to  34.92
+Arctic Water	ArW	< 1	< 34.92
+
+[FOOTNOTE] ^1 Although both the SSW and the PSW have the same T-S characteristics they can be distinguished by their different origin. While the SSW originates from the glacial melt (Cottier et al., 2005, Svendsen et al., 2002), the PSW forms in the open ocean during cooling and freshening of the Atlantic water (e.g., Beszczynska-Möller et al., 2011).
+[/TABLE]
+
+test as they tended to create or inflate the issue of multicollinearity (for theoretical considerations, see Wissmann et al., 2007).
+
+The influence of the environmental (hydrographic and geographic) and biotic factors on the gelatinous zooplankton was explored with ordination analyses performed in Canoco v.5 (Lepš and Šmilauer, 2003). The detrended correspondence analysis (DCA) was first run to test the length of the main gradient. The results of the DCA (gradient length of 6.1 SD) prompted the choice of the unimodal constrained canonical correspondence analysis (CCA) (Lepš and Šmilauer, 2003) as the most appropriate procedure. The CCA was run with unrestricted permutations (N = 1000) and the following explanatory variables: temperature, salinity, zooplankton abundance, zooplankton biomass, zone, transect and depth (as factors: DL – deep layer; IL3, IL2, IL1 – intermediate layers; and SL – shallow layer; for corresponding depths, see Table 1A). The CCA was supplemented with variation partitioning, where the species composition was explained by the three groups of variables: geographic (zone, depth, and transect), hydrographic (temperature and salinity) and biotic (zooplankton abundance and zooplankton biomass). Members of each group were filtered by a stepwise selection that tested the simple effects. The Holm-Bonferroni method was also used to correct the results of all significance tests performed in Canoco v.5.
+
+Analysis of similarity (ANOSIM) was performed in R (vegan package, Oksanen et al., 2007) to test the differences between GZ community (Bray-Curtis dissimilarity matrix) among different water masses. Then the strength of association between each species and each water mass type was evaluated with strassoc() function using IndVal.g statistic (De Cáceres and Legendre, 2009; De Cáceres et al., 2010), followed by computing the permutation p-value of the association with signassoc() function, both implemented in the R package indicspecies (De Cáceres and Legendre, 2009).
+
+3. Results
+
+3.1. Hydrography
+
+The environmental conditions of the investigated area were thoroughly described by Gluchowska et al. (2017b) and later analysed from
+
+[NOTE: source oddity transcribed as printed, not corrected: the Table 1 footnote
+separates its two citations with a comma, "(Cottier et al., 2005, Svendsen et al.,
+2002)", where the body text elsewhere uses a semicolon. Italics are not marked in
+this transcription: in the printed page "vegan", "strassoc()", "signassoc()" and
+"indicspecies" are set in italic, and "Missing" in Table 1A is set bold.]
+
+<<<PAGE pdf=5 file=page_005.txt>>>
+[PAGE 5]
+
+[NOTE: printed square brackets occur on this page and are the source's own, not
+transcriber markers: the Fig. 2 axis and colour-bar labels "[°C]" (set in the figure
+with a superscript letter o, transcribed below as "[^oC]"), "Depth [m]" and
+"Longitude [°E]". Everywhere else on this page "[" is my marker. Superscripts are
+rendered with "^"; the raised minus in the abundance unit is transcribed as
+"ind.·1000 m^−3" with a middle dot, as printed.]
+
+[RUNNING HEAD] M.K. Mańko, et al.
+[RUNNING HEAD] Progress in Oceanography 189 (2020) 102414
+
+[FIGURE]
+[NOTE: figure occupies the head of the page across both columns, in two rows of two
+panels. The following is the printed lettering only, in reading order. Station
+positions along the top of each panel are marked with unlabelled symbols keyed by
+the "Bathymetric zones" line below the panels.]
+Temperature
+Transect N (76^o30’N)	Transect EB (79^oN)
+[^oC]
+Depth [m]
+0	200	400	600	800	1000
+7.0
+6.0
+5.0
+4.0
+3.0
+2.0
+1.0
+0.0
+-1.0
+-2.0
+Salinity
+Transect N (76^o30’N)	Transect EB (79^oN)
+Depth [m]
+0	200	400	600	800	1000
+35.15
+35.10
+35.05
+35.00
+34.95
+34.90
+34.70
+34.00
+5	6	7	8	9	10	11	12	13	14	15
+Longitude [°E]
+0	1	2	3	4	5	6	7	8	9
+Longitude [°E]
+Bathymetric zones:	SHELF	SLOPE	OFFSHORE	EXTERIOR
+
+Fig. 2. Water salinity and temperature along the two transects (northern EB, southern N) down to 1000 m, with the marked bathymetric zones sampled. Source: Gluchowska M et al. (2017b) Variations in the structural and functional diversity of zooplankton over vertical and horizontal environmental gradients en route to the Arctic Ocean through the Fram Strait. PLoS ONE 12(2): e0171715. doi:https://doi.org//10.1371/journal.pone.0171715 - modified.
+[/FIGURE]
+
+a broader, multiyear perspective by Merchel and Walczowski (2018). Based on our data, the water temperature decreased with increasing distance from the slope towards the exterior, either throughout the water column (transect N) or only in the 0–50 m stratum (transect EB) (Fig. 2).
+
+The temperature of the deepest water (below 600 m) on average ranged from −0.27 °C (northern transect) to 0.11 °C (southern transect). When considering both transects and all depths, the water temperature ranged from −0.51 °C to 6.37 °C. The salinity was lower at the stations along transect EB compared with the stations along transect N, with the highest variation in salinity in the surface waters and the highest values within the layer spanning from 50 to 200 m. The water with the lowest salinity (33.61) was found in the surface layer of the exterior zone along transect EB, whereas the highest salinity (35.16) was detected in the waters from 25 to 50 m in depth above the slope along the southern transect (Fig. 2). The shelf stations in both transects were characterized by strongly differing conditions: those located along transect N remained under the influence of the cold Sørkapp (South Cape) Current, whereas more Atlantic conditions prevailed in the shallow sites above the shelf in transect EB (Fig. 2). Formation of the surface shelf water (SSW) was detected in the upper 25 m of the water column in the shelf stations, with the exception of station N3P were only Atlantic water (AtW) was found (Table 1B). The core of the West Spitsbergen Current (WSC) was located over the slope, extending as deep as 500 m in transect EB and 600 m in transect N. The sampling sites in the offshore zone were under the influence of the WSC offshore branch (characterized by weaker northward velocities) in transect N, and in EB, they were situated within a rotating structure that presumably arose as a consequence of the local topography. Vertical distribution of the water masses detected at the slope and offshore sampling sites was the same at both transects i.e., AtW occupied upper 200 m, Arctic water (ArW) was found below 600 m, and the transformed Atlantic water was squeezed between the two (Table 1B). The only exception was one of the offshore sites along transect EB (EB2-9) where, due to the presence of the rotating structure, ArW was brought to the 200–600 m depth stratum. Similar shallowing of ArW was documented for the sites of the exterior zone in transect N, where AtW was found only down to 50 m (25 m at N-11). Westernmost stations in transect EB (exterior zone) were under the influence of the Return Atlantic Current, which flows southward and was found between thin layer (25–50 m) of the intermediate water (IW) at the top, and the transformed Atlantic water (TAW) at the bottom (Fig. 2, Table 1). The IW formed as a result of mixing between the AtW and polar surface water (PSW) present in the top 25 m of the water column.
+
+3.2. General horizontal distribution patterns of gelatinous zooplankton
+
+Gelatinous zooplankton were present in 70 out of the 97 examined samples (see Table 1). In total 1928 individual specimens were identified and measured. The average abundance of all gelatinous zooplankton per station was significantly higher along southern transect N (305 ind.·1000 m^−3) than along transect EB (265 ind.·1000 m^−3) (Table 2, Supp. mat. 1). The difference in the average abundance was more pronounced for the shelf stations (N: 568 ind.·1000 m^−3; EB: 432 ind.·1000 m^−3), while the abundances averaged for all zones of the open ocean (i.e., slope, offshore, and exterior) were more consistent (N: 217 ind.·1000 m^−3; EB: 210 ind.·1000 m^−3) (Supp. mat. 1), but the differences between the zones were still statistically significant (Table 2).
+
+In total, 17 taxa of gelatinous zooplankton were identified, and the species richness for the open ocean zones was higher (12 taxa) than that for the shelf stations (8 taxa; Fig. 3). A. digitale constituted 41.94% of all GZ observed, while D. arctica and Mertensia ovum were the second and third most abundant species, contributing 25.43% and 19.07%, respectively, of all species found (Fig. 3). The lowest total abundance was found for two siphonophores, Marrus orthocanna and Crystallophyes amygdalina, each represented by a single colony, what accounts for 0.04% of all GZ found.
+
+Although A. digitale dominated in both transects, the numerical contributions of this species to the total abundance of GZ in each transect were different: 5451 ind.·1000 m^−3 (southern transect N) and 3689 ind.·1000 m^−3 (northern transect EB; Supp. mat. 3). The second most abundant species, D. arctica, reached relatively similar abundances in both transects (2684 ind.·1000 m^−3 in N; 2858 ind.·1000 m^−3
+
+[NOTE: source oddities transcribed as printed, not corrected: the Fig. 2 caption
+gives "Gluchowska M et al. (2017b)" with no comma after the initial and prints the
+DOI with a doubled slash, "doi:https://doi.org//10.1371/journal.pone.0171715 -
+modified."; the figure lettering sets the degree sign as a superscript letter o in
+"Transect N (76^o30’N)", "Transect EB (79^oN)" and "[^oC]", while the body text and
+the "Longitude [°E]" axis label use a true degree sign; the body text has "station
+N3P were only Atlantic water (AtW) was found" ("were" for "where") and "both
+transects i.e., AtW occupied" with no comma before "i.e.". Italics are not marked in
+this transcription: "A. digitale", "D. arctica", "Mertensia ovum", "Marrus
+orthocanna" and "Crystallophyes amygdalina" are set in italic on the page.]
+
+<<<PAGE pdf=6 file=page_006.txt>>>
+[PAGE 6]
+
+[NOTE: printed square brackets occur on this page and are the source's own, not
+transcriber markers: the Fig. 3 axis labels "Relative abundance [%]" and "Total
+abundance [ind.·1000 m^-3]", and "[%]" and "[ind.·1000 m^−3]" in the Fig. 3 caption.
+Everywhere else on this page "[" is my marker. Superscripts are rendered with "^".]
+
+[RUNNING HEAD] M.K. Mańko, et al.
+[RUNNING HEAD] Progress in Oceanography 189 (2020) 102414
+
+[TABLE]
+Table 2
+The results of the 2- and 3-way PERMANOVA test are reported as the pseudo-F value and the significance levels are marked as follows: ** p < 0.001 and * p < 0.05 (for full results see Supp. Mat. 2).
+
+[NOTE: the significance asterisks stand in their own unheaded columns, one to the
+right of each pseudo-F column; they are given below as separate tab-separated cells,
+empty where no asterisk is printed. "Residuals" and "Total" are printed indented and
+right-aligned in the row-label column, and their rows carry only a Df value.]
+
+	Df	Abundance of GZ		Community of GZ		Species richness		Inverse Simpson		A. digitale stage		D. arctica stage	
+Temperature	1	5.28	**	2.92	*	31.13	**	19.71	**	6.78	**	1.17	
+Salinity	1	1.98		0.52		1.43		0.01		3.66	**	1.41	
+Temperature × Salinity	1	3.59	**	0.94		2.01		2.11		3.22	*	4.13	**
+Residuals	65
+Total	68
+Zooplankton abundance	1	1.03		0.25		6.67	*	2.18		3.63	**	0.52	
+Zooplankton biomass	1	3.80	**	3.54	*	0.08		3.06	*	2.00	*	1.07	
+Zoop. abund. × Zoop. biom.	1	5.31	**	0.02		3.59		2.27		1.34		1.11	
+Residuals	65
+Total	68
+Zone	3	9.01	**	27.79	**	14.62	**	2.99	**	1.76	*	0.80	
+Depth	4	58.22	**	9.64	**	47.87	**	10.93	**	8.79	**	1.85	*
+Transect	1	21.09	**	6.74	*	2.70	*	0.19		0.66		0.59	
+Zone × Depth	9	3.08	**	8.93	**	5.62	**	2.27	*	1.24		1.52	
+Zone × Transect	3	3.42	**	10.91	**	10.89	**	2.31		2.43	**	2.61	*
+Depth × Transect	4	3.28	**	1.85		2.59	*	2.30		2.13	*	1.05	
+Zone × Depth × Transect	3	5.23	**	7.00	**	9.72	**	1.43		0.92		0.50	
+Residuals	30
+Total	57
+Water mass type	4	5.46	**	8.78	**	18.13	**	12.75	**	3.94	**	1.68	
+Residuals	64
+Total	68
+[/TABLE]
+
+in EB), while the large contribution of M. ovum to the average relative abundance resulted solely from its presence at the shelf stations (3153 ind.·1000 m^−3 in N; 1003 ind.·1000 m^−3 in EB; Supp. mat. 3). There were also species that were present in one transect but absent from the other. The taxa that were unique to transect N were Catablema vesicarium, Halitholus cirratus, Bougainvillia superciliaris, and Physophora hydrostatica, while for transect EB, these were C. amygdalina and M. orthocanna (Fig. 3). The species present only along the southern transect were found solely in the waters above the shelf.
+
+Three taxa were present in all zones along both transects: A. digitale, D. arctica and Beroe spp. (absent only from the exterior stations on transect EB); however, D. arctica was found at shelf stations only in a single sample collected from the waters above the bottom of transect N. Five taxa (Homoeonema platygonon, Trachymedusae indet., Muggiaea bargmannae[?¸] Diphyid eudoxid indet. and Rudjakovia plicata) could be characterized as having open ocean distributions since they were found at the slope, offshore and exterior stations and were absent from the shelf waters. Distribution of three taxa was restricted to a single zone: C. amygdalina and unidentified ctenophores were found only at the offshore, while M. orthocanna at the exterior stations.
+
+3.3. Vertical distribution of gelatinous zooplankton
+
+3.3.1. Abundance and diversity
+
+The vertical distribution of the gelatinous zooplankton abundance and diversity varied significantly both within the zones and between zones (Table 2). Above the shelf, the highest abundance of GZ was observed in the surface layer (0–25 m; transect N: 1911 ind.·1000 m^−3;
+
+[FIGURE]
+[NOTE: figure occupies the foot of the page across both columns, in five panels. The
+following is the printed lettering only, in reading order: the panel strip labels,
+the left axis, the right axis, the x axis, then the legend.]
+AVERAGE	EXTERIOR	OFFSHORE	SLOPE	SHELF
+Relative abundance [%]
+100
+75
+50
+25
+0
+Total abundance [ind.·1000 m^-3]
+10000
+7500
+5000
+2500
+0
+N	EB	N	EB	N	EB	N	EB	N	EB
+Transect
+Species
+Aglantha digitale
+Pantachogon haeckeli
+Homoeonema platygonon
+Trachymedusae indet.
+Catablema vesicarium
+Halitholus cirratus
+Bougainvillia superciliaris
+Crystallophyes amygdalina
+Dimophyes arctica
+Muggiaea bargmannae
+Diphyid eudoxid indet.
+Marrus orthocanna
+Physophora hydrostatica
+Rudjakovia plicata
+Beroe sp.
+Mertensia ovum
+Ctenophora indet.
+Trachymedusae
+Anthomedusae
+Calycophorae
+Physonectae
+Ctenophora
+
+Fig. 3. Depth-averaged relative abundances [%] of all taxa and higher taxonomic ranks, which were averaged over each transect and are shown separately for each bathymetric zone. Black dots represent the total abundance of gelatinous zooplankton [ind.·1000 m^−3], which is equal to the sum of the abundance of all species observed at particular transect and bathymetric zone.
+[/FIGURE]
+
+[NOTE: the mark flagged "[?¸]" after "Muggiaea bargmannae" in the second text
+paragraph is a comma-like glyph set detached from the preceding "e" and hanging below
+the baseline, unlike the ordinary commas in the same list; I read it as a cedilla-
+shaped mark (U+00B8) but cannot be certain whether it is a cedilla or a low-set
+italic comma, and no separator glyph other than this one appears at that position.
+Other source oddities transcribed as printed, not corrected: the Fig. 3 right axis
+prints the exponent of "m^-3" with a hyphen, whereas the caption and body text use a
+true minus sign in "m^−3"; the caption reads "at particular transect and bathymetric
+zone" without an article. Italics are not marked in this transcription: the species
+names, "A. digitale stage" and "D. arctica stage" in the Table 2 head, "Df", and the
+italic species names in the Fig. 3 legend are set in italic on the page, while
+"Trachymedusae indet.", "Diphyid eudoxid indet." and "Ctenophora indet." are set
+upright in that legend.]
+
+<<<PAGE pdf=7 file=page_007.txt>>>
+[PAGE 7]
+
+[NOTE: printed square brackets occur on this page and are the source's own, not
+transcriber markers: the Fig. 4 axis labels "Depth [m]" and "Abundance [log(ind.·1000
+m^-3)]", and "[log(ind.·1000 m^−3)]" in the Fig. 4 caption. Everywhere else on this
+page "[" is my marker. Superscripts are rendered with "^".]
+
+[RUNNING HEAD] M.K. Mańko, et al.
+[RUNNING HEAD] Progress in Oceanography 189 (2020) 102414
+
+transect EB: 1147 ind.·1000 m^−3; Supp. mat. 1). Then, the average abundance of gelatinous zooplankton decreased with depth until reaching its minimum in the water just above the bottom (Supp. mat. 1). A similar pattern was observed in the upper 200 m stratum in the exterior zone, but the average abundance of GZ below that depth suddenly increased, reaching an average of 309 ind.·1000 m^−3 (transect N) and 364 ind.·1000 m^−3 (transect EB) at depths of 200–600 m before gradually decreasing (Supp. mat. 1). In the water above the slope, the highest average abundance of GZ was found in the water that was 200–600 m deep along transect N, while in the case of transect EB, both the 200–600 m and 25–50 m water strata harboured GZ populations of similar abundance. No representatives of GZ were found in the upper 50 m of the water column in the offshore zone along either transect, while the highest average abundance in this zone was documented in the 200–600 m stratum (Supp. mat. 1). The abundance of GZ in the open ocean zones was the highest at depths of 200–600 m and decreased with depth; however, the average abundances in the deepest samples were still higher than in either of the upper layers (i.e., 0–25 m; 25–50 m; 50–200 m; Supp. mat. 1). This led to an overall higher average abundance of gelatinous zooplankton in the waters from 200 to 1000 m deep (transect N: 314 ind.·1000 m^−3; transect EB: 288 ind.·1000 m^−3; Supp. mat. 1) than from 0 to 200 m (transect N: 113 ind.·1000 m^−3; transect EB: 118 ind.·1000 m^−3; Supp. mat. 1).
+
+The open ocean and shelf zones harboured inverse diversity patterns, with more species-rich communities being present in the deeper open ocean layers and in the shallow water above the shelf (Fig. 4). The species classified as Anthomedusae were restricted to the shelf stations. Similarly, the ctenophores were present at high relative abundance in the shelf stations; however, this group was also found in small numbers in the shallow exterior waters and in the water layer from 200 to 600 m in all open ocean stations (Fig. 4). Trachymedusae had the highest relative abundance in the water layer from 25 to 50 m in all zones (shelf included) and in the water layer from 50 to 200 m in only the open ocean zones (Fig. 4). Then, the proportion of Trachymedusae decreased in favour of Calycophorae. Calycophoran siphonophores were also present in the surface (0–25 m) layer in the exterior and slope zones and in minute quantities in the deep shelf waters. Most of the physonect siphonophores identified were present in the deep water (> 200 m) in the open ocean zones, with the exception of P. hydrostatica that was found in the surface water over the shelf.
+
+Zonal partitioning of the vertical distribution, which was observed for higher taxonomic ranks, could also be discerned at the species level (Fig. 4). A. digitale was present throughout the water column in all bathymetric zones, while D. arctica predominated in the deeper layers of the open ocean and had a very limited vertical distribution above the shelf, being found there on only one occasion. Although both species were collected at most depths in the open ocean, there were depths with a clear numerical dominance of either species, with D. arctica prevailing in the deeper water (starting at depths of 200–600 m along transect EB and only in the deepest waters of transect N; Fig. 4). Differences in the vertical distributions of the same species between zones were identified for a few species; notably, M. bargmannae and R. plicata had a broader range of distribution in the offshore zone than in the exterior and slope zone. Most of the Trachymedusae were found only in the samples collected from depths exceeding 600 m. In contrast, Beroe spp. were present throughout the shelf water column and had a limited depth range in the slope and offshore zone (200–600 m) but penetrated shallower waters in the exterior zone (up to the surface).
+
+Of the taxa found in only a single bathymetric zone, C. vesicarium, H. cirratus, B. superciliaris and P. hydrostatica had vertical distributions that were restricted to the surface layers (0–25 m; 25–50 m; all being found in shelf zone; Fig. 4). The species unique to the open ocean zone were usually characteristic of the deeper water (M. orthocanna: 600–1000 m, exterior zone; C. amygdalina: 600–1000 m, offshore zone; Fig. 4).
+
+3.3.2. Demography
+
+Further examination of the vertical distribution of the two most abundant species, A. digitale and D. arctica, revealed that the different life cycle stages occupied different depths and zones and were present with significantly different frequencies in both transects (Table 2, Fig. 5).
+
+In the case of A. digitale, the large, mature specimens were restricted to deep open ocean water (overall > 200 m, but few were found in 25–50 m stratum in the exterior zone along EB, and > 50 m in the slope zone along the same transect), and some were found in the water 50–100 m deep at the shelf stations along transect N (Fig. 5, Table 2). The juveniles were mostly restricted to the upper 50 m of the water column; however, a small number of individuals of this life cycle stage were also identified in deeper waters. A. digitale was also present at the shelf stations, with only intermediate specimens identified from the
+
+[FIGURE]
+[NOTE: figure occupies the foot of the page across both columns, in a grid of panels.
+The following is the printed lettering only, in reading order: the column strip
+labels, the depth axis and its tick labels, the row strip labels, the x tick labels,
+the x axis label, then the legend.]
+EXTERIOR	OFFSHORE	SLOPE	SHELF
+Depth [m]
+0-25
+25-50
+50-200
+200-600
+600-1000
+0-25
+25-50
+50-100
+100-150
+150-bottom
+EB
+0-25
+25-50
+50-200
+200-600
+600-1000
+0-25
+25-50
+50-100
+100-bottom
+N
+0	5	10	15	20
+0	5	10	15	20
+0	5	10	15	20
+0	5	10	15	20
+Abundance [log(ind.·1000 m^-3)]
+Species
+Aglantha digitale
+Pantachogon haeckeli
+Homoeonema platygonon
+Trachymedusae indet.
+Catablema vesicarium
+Halitholus cirratus
+Bougainvillia superciliaris
+Crystallophyes amygdalina
+Dimophyes arctica
+Muggiaea bargmannae
+Diphyid eudoxid indet.
+Marrus orthocanna
+Physophora hydrostatica
+Rudjakovia plicata
+Beroe sp.
+Mertensia ovum
+Ctenophora indet.
+Trachymedusae
+Anthomedusae
+Calycophorae
+Physonectae
+Ctenophora
+
+Fig. 4. Log transformed abundance [log(ind.·1000 m^−3)] of all taxa identified and the higher taxonomic ranks, along the depth gradient, separated by bathymetric zones and transects (upper row – EB, lower row – N).
+[/FIGURE]
+
+[NOTE: the Fig. 4 x-axis label prints the exponent of "m^-3" with a hyphen, whereas
+the caption and body text use a true minus sign in "m^−3"; the same discrepancy
+occurs on page 6. Italics are not marked in this transcription: the abbreviated
+species names in the body text and the species names in the Fig. 4 legend are set in
+italic, while "Trachymedusae indet.", "Diphyid eudoxid indet." and "Ctenophora
+indet." are set upright in that legend. The Fig. 4 depth tick labels use a hyphen
+("0-25") where the body text uses an en dash ("0–25 m"), as printed.]
+
+<<<PAGE pdf=8 file=page_008.txt>>>
+[PAGE 8]
+
+[NOTE: printed square brackets occur on this page and are the source's own, not
+transcriber markers: the Fig. 5 axis labels "Depth [m]" and "Abundance [ind.·10
+m^-3]", and "[ind. ·10 m^−3]" in the Fig. 5 caption. Everywhere else on this page "["
+is my marker. Superscripts are rendered with "^".]
+
+[RUNNING HEAD] M.K. Mańko, et al.
+[RUNNING HEAD] Progress in Oceanography 189 (2020) 102414
+
+[FIGURE]
+[NOTE: figure occupies the head of the page across both columns, in a grid of panels.
+The following is the printed lettering only, in reading order: the column strip
+labels, the depth axis and its tick labels, the shelf panel's own axes, the x tick
+labels, the x axis label, then the legend.]
+EXTERIOR	OFFSHORE	SLOPE	SHELF
+Depth [m]
+0-25
+25-50
+50-200
+200-600
+600-1000
+0-25
+25-50
+50-200
+200-600
+600-1000
+0-25
+25-50
+50-100
+100-bottom
+0	5	10	15
+Stage:
+Aglantha digitale
+juvenile
+intermediate
+mature
+Dimophyes arctica
+eudoxid
+polygastric
+0	5	10	15
+0	5	10	15
+0	5	10	15
+0	5	10	15
+Abundance [ind.·10 m^-3]
+
+Fig. 5. Abundance [ind. ·10 m^−3] of the different life cycle stages of Aglantha digitale (upper row) and Dimophyes arctica (lower row) in all zones along, summed for both transects.
+[/FIGURE]
+
+northern transect samples, while both mature and juvenile jellyfish were observed in the samples from southern transect N (Fig. 5). The general size distribution trend was that the deeper the sample was collected, the larger the specimens were that were found (Fig. 5, Table 2), except for in the water layer from 200 to 600 m, where the largest specimens were observed.
+
+Most D. arctica observations came from deep water (> 200 m); however, small quantities of eudoxids were also identified from samples collected from the 50–200 m stratum in the offshore zone and from the 0–25 m stratum above the slope along transect EB and from the 0–25 m stratum in the exterior zone along transect N; very few were collected from the deep waters above the shelf along transect N (omitted in Fig. 5). The polygastric colonies of D. arctica occurred mostly in water of > 200 m deep, although in the surface samples (0–25 m) from the slope stations along transect EB, these colonies were equally as abundant as the eudoxids; however, the overall number of D. arctica in these samples was exceptionally low. All life cycle stages of this calycophoran appeared to be absent from the 25–50 m depth layer and in some zones also from 50 to 200 m (in all zones along transect N; Fig. 5). The enumeration of the two morphological components of eudoxids (bracts and gonophores), which were often found separately in the sample, revealed that in the case of D. arctica, the ratio of bracts:gonophores was 45:55 (Fig. 5). In case of Diphyid eudoxid indet., the proportion was 1:1, while the eudoxid stage of M. bargmannae remains undescribed and that of C. amygdalina was not found in the present study.
+
+3.4. Drivers of gelatinous zooplankton vertical distribution
+
+Based on the CCA model (p = 0.001), which was supported with variation partitioning (Fig. 6; Table 3), all tested explanatory variables explained 26.5% of the variation in gelatinous zooplankton abundance, with the geographic factors (zones, depths) accounting for most of the explanatory strength of the variables (Table 3). The factorial variable transect was excluded from the analysis, as its addition decreased the adjusted explained variation, and its effects were insignificant (p = 0.84). Relatively high explanatory power was attributable to the interplay between the groups of factors: 20.3% to the geographic and hydrographic (temperature, salinity) interactions, 14.2% to the hydrographic and biotic (zooplankton abundance and biomass) interactions and to the combined effect of all factors (22.7%; Table 3). Interestingly, when analysed separately, the hydrographic factors explained only 1.1% of the variation (Fig. 6).
+
+The CCA model supported the previous analyses (Table 2), indicating the existence of strong and statistically significant relationships between specific species and the analysed environmental variables. P. hydrostatica was associated with higher temperatures, which was similar to the association of the abundance of the juveniles of A. digitale. The distribution of the Beroe ctenophores was unexpectedly strongly correlated with the total abundance of zooplankton (Fig. 6), whereas the distribution of other species, such as the remaining Trachymedusae, was mostly explained by the increasing depth, potentially implying their avoidance of warmer surface waters (Fig. 6).
+
+3.5. Water mass type related community of gelatinous zooplankton
+
+Out of six water masses detected in the present study (Table 1) only five were incorporated in the subsequent analyses, as PSW was found only at two sites, at one of which there was no GZ, while at the other only few (143 ind.·1000 m^−3) juvenile A. digitale were present. Each of the analysed water masses, harboured a significantly different GZ community (ANOSIM, R = 0.23, p = 0.001). A series of PERMANOVAs have revealed that the GZ diversity, the abundance of all GZ, but also demography of A. digitale differed significantly between the water masses (Table 2). The most species rich GZ community was associated with the Arctic waters, followed by slightly less diverse community found in the intermediate water and the polar surface water (Table 4). In contrast, the GZ community found in the Atlantic waters comprised almost solely of A. digitale, that overall constituted c. 66% of all GZ
+
+[NOTE: source oddities transcribed as printed, not corrected: the Fig. 5 caption
+reads "in all zones along, summed for both transects", with the object of "along"
+missing; it prints a space in "[ind. ·10 m^−3]" where the axis label and body text
+print "ind.·1000" and "ind.·10" closed up; the Fig. 5 x-axis label prints the exponent
+of "m^-3" with a hyphen where the caption uses a true minus sign; and the body text
+reads "Each of the analysed water masses, harboured a significantly different GZ
+community" with a comma before the verb. Italics are not marked in this
+transcription: the species names, "Beroe", and the section headings 3.4 and 3.5 are
+set in italic on the page. The lower (Dimophyes arctica) row of Fig. 5 has no SHELF
+panel, which the body text notes as "omitted in Fig. 5".]
+
+<<<PAGE pdf=9 file=page_009.txt>>>
+[PAGE 9]
+
+[NOTE: printed square brackets occur on this page and are the source's own, not
+transcriber markers: "[ind.·1000 m^−3]" in the Table 4 caption, and
+"[ind.·1000 m^-3]" twice in the Table 4 column heads, and "[number of species]" in
+the Table 4 caption. Everywhere else on this page "[" is my marker. Superscripts are
+rendered with "^".]
+
+[RUNNING HEAD] M.K. Mańko, et al.
+[RUNNING HEAD] Progress in Oceanography 189 (2020) 102414
+
+[FIGURE]
+[NOTE: the figure occupies the head of the page across both columns. What follows is
+the printed lettering only — the y-axis end labels, then the labels within the plot
+frame in approximate reading order (top to bottom, left to right), then the x-axis end
+labels.]
+0.8
+-0.8
+Temperature
+Salinity
+P. hydrostatica
+IL1
+A. digitale juvenile
+B. superciliaris
+D. arctica posterior
+SLOPE
+IL2
+Beroe sp.
+Tot. abundance
+Trachymedusae indet.
+SL
+SHELF
+D. arctica anterior
+Ctenophora indet.
+A. digitale intermediate
+IL3
+OFFSHORE
+Diphyid eudoxid indet.
+A. digitale mature
+M. ovum
+EXTERIOR
+D. arctica eudoxid
+R. plicata
+DL
+H. cirratus
+H. platygonon
+M. bargmannae
+P. haeckeli
+C.amygdalina
+Tot. biomass
+M. orthocanna
+C. vesicarium
+-1.0
+1.0
+
+Fig. 6. The results of the canonical correspondence analysis (CCA). Ordination diagram showing the relationships between the abundances of the gelatinous taxa and significant environmental and biotic drivers.
+[/FIGURE]
+
+[TABLE]
+Table 3
+Partitioning of variation (p = 0.001) explained by three groups of factors in the CCA (Fig. 5).
+	Fraction	Members	Variation (adjusted)	% of explained	% of all	df	Mean square
+Geographic	a	Zone, Depth	0.408	35.3	9.3	8	0.0953
+Hydrographic	b	Temperature, Salinity	0.013	1.1	0.3	2	0.0528
+Biotic	c	Zooplankton abundance, zooplankton biomass	0.057	4.9	1.3	2	0.0716
+Combined	d	a × b	0.235	20.3	5.4	–	–
+	e	b × c	0.165	14.2	3.8	–	–
+	f	a × c	0.017	1.5	0.4	–	–
+	g	a × b × c	0.262	22.7	6.0	–	–
+		Total explained	1.158	100.0	26.5	12	0.1437
+[/TABLE]
+
+found in this water mass.
+
+Most GZ taxa studied showed affinity to more than one water mass (Table 5). Few species were found to share relatively high association index with more than 2, or even 3 water masses, yet even in such cases, either of the water masses always prevailed (Table 5). For example, all three life cycle stages of A. digitale were found to associate with waters of Atlantic origins, but each life cycle stage of this species favoured the particular water mass. Both the juvenile and mature A. digitale seemed to prefer AtW, whereas the intermediate specimens of this species dominated in TAW (Table 5). Non-Aglantha Trachymedusae were all found solely in ArW, as were the two siphonophores, C. amygdalina and M. orthocanna. Polygastric colonies of D. arctica appeared to prefer TAW, while the strongest association of this species eudoxids was found with the Arctic water.
+
+[TABLE]
+[NOTE: Table 4 and its caption are printed in the lower left column, immediately below
+the left-column portion of the preceding paragraph (which ends "For example, all"). It
+is placed here so that the paragraph running from the foot of the left column into the
+head of the right column is kept whole, as the protocol directs.]
+Table 4
+Summary statistics of GZ and Aglantha digitale abundance [ind.·1000 m^−3], and diversity of GZ community [number of species] within each water mass.
+	Abundance of GZ [ind.·1000 m^-3]		Abundance of A. digitale [ind.·1000 m^-3]			Number of species
+	Mean	SD	Mean	SD	% of all GZ	Max	Mean	SD
+SSW	1672.18	743.23	-	-	0.00	4	3.00	0.82
+AtW	250.55	387.44	85.88	260.77	66.01	3	0.65	0.76
+TAW	452.47	174.83	162.99	73.06	38.42	3	2.81	1.33
+IW	224.55	112.66	99.14	57.98	44.15	5	1.60	0.80
+ArW	401.88	188.13	75.13	98.23	18.69	8	3.89	1.74
+[/TABLE]
+
+Partitioning of distribution of distinct life cycle stages between different water masses was clear for A. digitale, but not for D. arctica (Fig. 7, Table 2). However, in the case of the latter, it can be deduced that the higher abundance of this species was associated with ArW (Fig. 7), presumably because of the eudoxids' proclivity to that particular water mass (Table 5). Whereas for A. digitale, juveniles, although present in all water masses (Fig. 7), clearly preferred warmer AtW (Table 5, Fig. 7), while the intermediate stage, though also occurring in the colder ArW and AtW, associated mostly with TAW.
+
+9
+
+[NOTE: source oddities transcribed as printed, not corrected: the Table 3 caption cites
+"(Fig. 5)" where the figure partitioned is Fig. 6; the Fig. 6 label "C.amygdalina" has
+no space after the initial, unlike every other abbreviated binomial on the figure; the
+Table 4 caption sets the exponent of "m−3" with a true minus sign while the two
+Table 4 column heads set it with a hyphen ("m-3"); missing values in the Table 4 A.
+digitale Mean and SD columns for SSW are printed as hyphens, whereas Table 3 prints its
+missing df and Mean square values as en dashes; and the body text prints "clear for A.
+digitale," with the comma inside the italic run. Italics are not marked in this
+transcription: the species names in the body text and in the Fig. 6 plot labels, the
+"df" column head in Table 3, and "Aglantha digitale" / "A. digitale" in the Table 4
+caption and column head are set in italic on the page. Colour is not marked: in Table 4
+the water-mass row labels SSW, AtW, TAW, IW and ArW sit in coloured cells, and the
+Fig. 6 lettering is in black, dark blue, orange, green and red; in the body text and
+table captions the cross-references ("Table 5", "Fig. 7", "Table 2", "Fig. 5") are set
+in blue as hyperlinks.]
+
+<<<PAGE pdf=10 file=page_010.txt>>>
+[PAGE 10]
+
+[NOTE: no printed square brackets occur on this page; every "[" in this file is my
+marker.]
+
+[RUNNING HEAD] M.K. Mańko, et al.
+[RUNNING HEAD] Progress in Oceanography 189 (2020) 102414
+
+[TABLE]
+Table 5
+Value of association index (IndVal.g) between GZ species and water mass types. Association index of value 0 not shown, as they correspond to no specimens of particular species detected in the tested water mass. Grey shading indicates the association with the highest significance. Significance levels: * p < 0.05; **p < 0.005.
+[NOTE: the table spans both columns at the head of the page. Empty cells are printed
+blank. Grey-shaded cells are marked below with a trailing "(shaded)".]
+	SSW	AtW	TAW	IW	ArW
+Aglantha digitale					
+juvenile		0.43* (shaded)	0.09	0.22	0.25
+intermediate		0.35	0.65** (shaded)	0.15	0.43
+mature		0.05** (shaded)	0.62**	0.31	0.42
+Trachymedusae indet.		0.09			0.49* (shaded)
+Homoeonema platygonon					0.51** (shaded)
+Pantachogon haeckeli					0.40* (shaded)
+Catablema vesicarium	0.58* (shaded)				
+Halitholus cirratus	0.43 (shaded)			0.43	
+Bougainvillia superciliaris	0.58* (shaded)				
+Crystallophyes amygdalina					0.23 (shaded)
+Dimophyes arctica					
+eudoxid		0.15*	0.58**		0.67** (shaded)
+polygastric		0.09	0.69** (shaded)		0.27
+Muggiaea bargmannae			0.07		0.73** (shaded)
+Diphyid eudoxid indet.			0.58** (shaded)		0.31
+Marrus orthocanna					0.23 (shaded)
+Physophora hydrostatica		0.20 (shaded)			
+Rudjakovia plicata			0.12		0.46* (shaded)
+Beroe spp.	0.85** (shaded)	0.08*	0.24	0.14	0.02**
+Mertensia ovum	0.96** (shaded)			0.13	
+Ctenophora indet.			0.26 (shaded)		
+[/TABLE]
+
+4. Discussion
+
+Here, we provide the first description of the vertical structuring of the GZ community down to the mesopelagic zone in the Fram Strait and characterize the statistically supported ordering of its biotic and environmental drivers. Our results indicated a prevailing role of water mass distribution in shaping of the local planktonic community, affecting the GZ diversity and the vertical structuring of their demography, suggesting susceptibility of the Arctic GZ to the Atlantification.
+
+4.1. Northward decrease in GZ abundance
+
+When considered all together, stations along the southern transect N harboured a more abundant community of the GZ (Fig. 3). Stronger influence of AtW along the transect N than along the transect EB (Fig. 2), could thus justify the claims of numerically richer boreal planktonic communities there (e.g., Hop et al., 2019). This notion was further supported by the statistically significant dependence of the GZ abundance on the water temperature and salinity and their interplay (Table 2, Fig. 6), but also on the water mass distribution (Table 2).
+
+Majority of the differences in the GZ abundance along the two transect was attributed to the shelf stations, whereas the GZ communities of the open ocean zones were relatively similar in size, though still more abundant community was detected along transect N. Surface waters in the shelf zone were classified as SSW (Table 1A), that in the case of transect N probably originated in the Barents Sea and got there via the Sørkapp Current, which flows northward along the southern shore of Svalbard (Swerpel, 1985), while in the transect EB comprised a mixture of the glacial meltwater and the AtW. Presence of this particular water mass explains why these waters were teeming with the typically Arctic ctenophore, M. ovum, (Fig. 3; Majaneva and Majaneva, 2013), while the different origin of the SSW could account for the differences in the abundance of other GZ taxa found there. Discovery of a thin layer of a relatively warm surface water above the shelf may also explain why A. digitale (mostly juveniles) was also particularly abundant there, as this species is often associated with higher temperatures (e.g., Haberlin et al., 2019). Disproportion in abundance of these two species between the two transects, and the occurrence of additional taxa along the transect N, are thus very likely explained by the varying influence of the Sørkapp Current, and the proximity to the core of the West Spitsbergen Current (Fig. 2).
+
+Outside of the shelf waters, that are known to host abundant planktonic assemblage (e.g., Sabatès et al., 1989, Graham et al., 2001; Coyle et al. 2008), GZ reached highest abundance in the transformed Atlantic water that originated in between of AtW and ArW (Table 1A, Cottier et al. 2005). Surprisingly, the AtW did not harbour the most abundant GZ community, but in turn had the highest contribution of a single species, A. digitale, to the abundance of all gelatinous taxa (c. 66%, Table 1A). Presence of a more abundant assemblage of GZ in ArW, when taking into account the patchiness of zooplankton (Trudnowska et al., 2016), could potentially be related to the unequal sampling efforts in AtW compared to ArW (52 and 19 samples, respectively).
+
+The third most abundant species (after A. digitale and M. ovum) the siphonophore D. arctica, had a relatively similar abundance along both transects, although it was absent from the shelf samples along the northern transect and was less abundant along the slope of transect N.
+
+10
+
+[NOTE: source oddities transcribed as printed, not corrected: in Table 5 the shaded
+(highest-significance) cell in the A. digitale "mature" row is AtW 0.05**, a much lower
+index than the unshaded TAW 0.62** in the same row, and in the Beroe spp. row the
+shaded cell is SSW 0.85** while ArW 0.02** is unshaded; the Table 5 caption reads
+"Association index of value 0 not shown, as they correspond to", with plural "they" for
+singular "index"; the body text prints "the typically Arctic ctenophore, M. ovum, (Fig.
+3; ...)" with a comma immediately before the opening parenthesis; the citation string
+"(e.g., Sabatès et al., 1989, Graham et al., 2001; Coyle et al. 2008)" mixes a comma and
+a semicolon as separators and omits the comma before the year in "Coyle et al. 2008",
+as does "Cottier et al. 2005"; "Majority of the differences in the GZ abundance along
+the two transect" prints singular "transect"; and "The third most abundant species
+(after A. digitale and M. ovum) the siphonophore D. arctica, had" has no comma or verb
+after the closing parenthesis. Italics are not marked in this transcription: the species
+names, "Beroe", "Ctenophora", the heading 4.1, and "via" are set in italic on the page,
+and in several places the following comma falls inside the italic run ("A. digitale,",
+"D. arctica,", "M. ovum,"). Colour is not marked: the cross-references and
+author-date citations ("Fig. 3", "Table 1", "Hop et al., 2019", etc.) are set in blue as
+hyperlinks, and the shaded Table 5 cells have a grey ground.]
+
+<<<PAGE pdf=11 file=page_011.txt>>>
+[PAGE 11]
+
+[NOTE: printed square brackets occur on this page and are the source's own, not
+transcriber markers: the Fig. 7 y-axis label "Abundance [ind.·10 m^-3]" and the
+Fig. 7 caption "Abundance [ind. · 10 m^−3]". Everywhere else on this page "[" is my
+marker. Superscripts are rendered with "^".]
+
+[RUNNING HEAD] M.K. Mańko, et al.
+[RUNNING HEAD] Progress in Oceanography 189 (2020) 102414
+
+[FIGURE]
+[NOTE: the figure occupies the head of the page across both columns. What follows is
+the printed lettering only — the y-axis label and its tick labels, the x-axis tick
+labels and label, then the two legends.]
+Abundance [ind.·10 m^-3]
+40
+30
+20
+10
+0
+SSW	AtW	TAW	IW	ArW	AtW	TAW	ArW
+Water mass
+Stage: Aglantha digitale
+Dimophyes arctica
+juvenile
+intermediate
+mature
+Stage
+eudoxid
+polygastric
+
+Fig. 7. Abundance [ind. · 10 m^−3] of different life cycle stages of Aglantha digitale and Dimophyes arctica in water masses detected in the present study.
+[/FIGURE]
+
+Due to its presumed bipolar biogeography (Stepanjants et al., 2006; but see Pugh and Gasca, 2009), the spatial distribution of our records of D. arctica matched the preference of this species towards colder waters (Figs. 4 and 6; Table 5). Unsurprisingly, the lower abundance of this siphonophore above the slope along the southern transect could be attributed to the presence of the warm core of the West Spitsbergen Current (Carstensen et al., 2019; Gluchowska et al., 2017b; Walczowski and Piechura, 2007). At first glance, the GZ community above the slope of EB seemed to have virtually double the abundance of GZ in comparison with that in the corresponding region of southern transect N. This, however, resulted purely from unequal sampling efforts (see Table 1A), and when the average abundance per sample was taken into account, the abundance of GZ was far more even, and the resulting contributions of the different species (A. digitale was more abundant along transect N, and D. arctica dominated along northern transect EB) fit our literature-based expectations (e.g., Licandro et al., 2015; Mańko et al., 2015).
+
+Our data revealed that the abundance of GZ decreased with increasing depth above the shelf, while in the open ocean, the vertical pattern of abundance was more intricate (Supp. mat. 1). In general, GZ were most abundant at the subsurface from 25 to 50 m, followed by the surface from 0 to 25 m; the abundance decreased from 50 to 200 m but reached a maximum at 200–600 m and then slightly decreased in the deepest layer. Similar to our case, Raskoff et al. (2010) studied GZ community in the Canada Basin and Chukchi Plateau and found that the lowest biomass was associated with shallow slopes and ridges. It has often been noted that the warmer Atlantic waters are bringing more diverse and abundant zooplankton communities to the Arctic Ocean (Hop et al., 2019) that can reach even the deep central regions of the Arctic (Kosobokova and Hirche, 2000). Although the abundance of zooplankton tends to generally decrease with increasing depth (e.g., in the NE Atlantic; Angel and Baker, 1982; however, not necessarily for the GZ, see e.g., Youngbluth et al., 2008), the pattern of the vertical distribution of zooplankton abundance in the Arctic can diverge from this assumption as a result of Atlantic inflow (Kosobokova and Hirche, 2009). The core of the WSC, which extends down to 500 m along transect EB and to 600 m along transect N, is usually characterized by the highest abundance of zooplankton, which remains fairly constant along the continental margin, though the contributions of different taxa change (Kosobokova and Hirche, 2009; Weydmann et al., 2014). As the vertical distribution of zooplankton may fluctuate seasonally, the advected biomass is also expected to vary within a year (Basedow et al., 2018). Additionally, the complex hydrological situation along the continental slope of Svalbard forces any prognoses on the advection of zooplankton to distinguish among the different branches of the core of the WSC, which may each bring distinct planktonic communities (Carstensen et al., 2019).
+
+4.2. Patterns of GZ diversity
+
+The pattern of GZ biodiversity established here exemplifies strong spatial and vertical structuring (Table 2, Figs. 4 and 5), with a more speciose community associated with colder, Arctic water and a rich assemblages associated with the shallow shelf waters, and the deepest waters in the open ocean zone (Fig. 4). We showed that geographic factors (zone and sampling depth) played the largest role in shaping the GZ diversity overall (Fig. 4), but also, that their diversity depended on the distribution of the water masses (Table 2). When considering GZ community separately for each of the water masses detected, ArW appeared to harbour the most diverse community (Table 4). This may however, be explained by the vertical extent of ArW (the deepest of the water masses found; Table 1A) that allowed to capture the typically mesopelagic species (like non-Aglantha Trachymedusae), absent from the shallower depth strata. Stations remaining under the influence of AtW were characterized by the lowest diversity of GZ, and the highest contribution of A. digitale to the GZ abundance (66.01% for AtW, 38.42% for TAW). Such a monospecific GZ community may be indicatory of the blooming potential of this species (see e.g., Pertsova et al., 2006) thus the strengthening of AtW inflow to the Arctic, may potentially render A. digitale more important for the polar pelagic ecosystems (e.g., Hop et al., 2006).
+
+The richer shelf community reflected the presence of meroplanktonic cnidarians, i.e., species possessing benthic polyps in their life cycle, such as Anthomedusae (Figs. 3 and 4), which in the case of our study were absent from the open ocean. There are however, anthomedusan taxa that can be found in deeper waters, further away from the shore where they overcome the lack of an abiotic substrate needed for polyps to develop with an alternative strategy in which polyps colonize living midwater organisms (see Lindsay et al., 2008 and reference therein). Interestingly, no representatives of Anthomedusae were found along the northern transect, presumably as a consequence of the differing environmental conditions that might have delayed the
+
+11
+
+[NOTE: source oddities transcribed as printed, not corrected: the Fig. 7 legend prints
+"Stage:" with a colon for Aglantha digitale but "Stage" without a colon for Dimophyes
+arctica; the y-axis label sets the exponent of "m-3" with a hyphen while the caption
+sets it with a true minus sign and adds spaces, "[ind. · 10 m^−3]"; the body text prints
+"a rich assemblages", "This may however, be explained", "There are however, an-
+thomedusan taxa" and "the strengthening of AtW inflow to the Arctic, may potentially
+render" with the comma displaced or the number disagreeing; "and reference therein"
+is printed singular; and the text says "D. arctica dominated along northern transect EB"
+where transect EB is called the northern transect but transect N the southern one
+throughout. Italics are not marked in this transcription: the species names, the
+figure-legend taxon names, "Aglantha" and the heading 4.2 are set in italic on the page,
+and in "along transect N, and D. arctica" the comma after "N" falls inside the italic
+run. Colour is not marked: the cross-references and author-date citations are set in
+blue as hyperlinks, and the Fig. 7 legend keys are coloured swatches (three blues for
+Aglantha digitale, yellow and red for Dimophyes arctica).]
+
+<<<PAGE pdf=12 file=page_012.txt>>>
+[PAGE 12]
+
+[NOTE: no printed square brackets occur on this page; every "[" in this file is my
+marker.]
+
+[RUNNING HEAD] M.K. Mańko, et al.
+[RUNNING HEAD] Progress in Oceanography 189 (2020) 102414
+
+release of medusae by the polyps (Boero et al., 2016), or because of an unequal sampling effort between the two shelf zones. The absence of B. superciliaris at the shelf stations of both transects may reflect more Atlantic-like water conditions, as this species is typically considered to be associated with cold water (Schuchert, 2007) or even to be indicative of Arctic waters (Mańko et al., 2015). A plausible explanation of this unequal representation of this Arctic species could also be based on the vulnerability of the medusae stage of B. superciliaris to higher temperature, or to the fact that medusae release in this species occurs only in waters 5–7 °C warm, as shown in the experimental work by Werner (1961).
+
+In the open ocean zone, a more diverse GZ community was found in the deepest depth stratum (Fig. 4). The vertical distribution of the calycophoran siphonophores and Trachymedusae were inversely proportional, with the former being more abundant in the waters deeper than 200 m, while the later, although also present in the deep waters, dominated in the shallow waters. The non-Aglantha Trachymedusae, except for the Trachymedusae indet., were found exclusively in the 600–1000 m depth stratum (Fig. 4). Comparing our vertical distribution data with similar work from other regions of the Arctic Ocean is hampered by the differences in the encountered diversity of the GZ community, as ranges of vertical distribution are species-specific. Studies in the Canadian Arctic and central Arctic Ocean have found that medusae often dominate the deep ocean diversity of GZ (e.g., Kosobokova and Hopcroft, 2010; Raskoff et al., 2010), or prevail just below the non-mixed layer (25 m; Raskoff et al., 2005). These studies have also documented that a bimodal numerical dominance of siphonophores occurs as a result of varying abundances of physonects and calycophorans, with the former peaking in shallower waters and the latter closer to the bottom (Raskoff et al., 2005, 2010). Our data did not support such a trend, as we identified only a small number of physonects, which in our case dominated the deepest sampling layer of the open ocean, and some were present in the surface waters above the shelf. Raskoff et al. (2010) commented that deep-sea ridges might be responsible for aggregating siphonophores, but no such topographic features were identifiable in our study area. Ctenophores are expected to constitute most of the epipelagic community of the Arctic gelatinous zooplankton (Raskoff et al., 2005; Purcell et al., 2010). With increasing depth, the contribution of the gelatinous zooplankton to the overall zooplankton abundance is also predicted to increase (Kosobokova and Hopcroft, 2010), which was demonstrated even for the Fram Strait (Gluchowska et al., 2017b). Our data agree with the expectations provided above of the high abundance of the epipelagic ctenophores (Fig. 4); however, contrary to the referenced studies from the Canadian Arctic (Raskoff et al., 2005; Purcell et al., 2010), the epipelagic zone of the open ocean region of the Eurasian Basin seems to be dominated by calycophoran siphonophores. This observation has to be treated cautiously, as the sampling and fixing methods employed in our study may have led to the sever underestimation of the ctenophore abundance.
+
+The number of GZ taxa documented in this study is consistent with that provided by similar research endeavours for corresponding regions and depths of the European Arctic (e.g., Zelickman, 1972; Licandro et al., 2015; Mańko et al., 2015). Minor differences in the GZ diversity could have resulted either from pronounced seasonality of some GZ taxa (Hosia and Båmstedt, 2007) or from the location/depth of sample collection. For example, when more shelf area was covered (e.g., in the eastern Barents Sea as reported in Mańko et al., 2015), more meroplanktonic and boreal taxa were found that were not detected here, such as Plotocnide borealis or Euphysa flammea. Likewise, when the deeper basins of the central Arctic Ocean were sampled, the diversity of GZ comprised, to a large extent, Trachymedusae and Narcomedusae (Raskoff et al., 2010; Kosobokova et al., 2011). Our results corroborated the dominance of the Arctic-boreal taxa in the Fram Strait (Ronowicz et al., 2015) and agreed with the prevalence of Trachymedusae in the open ocean stations (Fig. 4, Raskoff et al., 2005), however, we did not encounter any Narcomedusae. These hydromedusae are an integral yet understudied (Lindsay et al., 2017) component of the deep-sea ecosystems around the world (Robison, 2004; Raskoff et al., 2010); thus, their absence in this study may be surprising, especially since some species in this order have been previously found in the vicinity of Svalbard (Ronowicz et al., 2015; Mańko et al., 2015) or further south from this archipelago (Licandro et al., 2015).
+
+The distribution of siphonophore species identified here conformed to their assumed typical distribution. P. hydrostatica, although generally considered a typical warm-water species, has previously been recorded in the Nordic Seas (Zelickman, 1972; Mańko et al., 2015) as a result of the encroachment of Atlantic waters into the Arctic. The use of P. hydrostatica as an indicator of Atlantic waters has already been advocated by Naumov (1951), who connected the high abundance of this species along the shores of eastern Murmansk with the unprecedented progression of warm waters into the Barents Sea (Zelickman, 1972). We recorded this species only in the outermost station in shelf waters along southern transect N, that remain under constant influence of Atlantic waters. Two deep-sea species, M. orthocanna and R. plicata, have distribution ranges that are restricted to the Arctic and sub-Arctic waters, with M. orthocanna often referred to as a high-Arctic species (Andersen, 1981). The latter species is far more elusive due to its minute, inconspicuous nectophores, which shrink greatly upon fixation (Margulis, 1982). Therefore, supported by our results, it is justified to assume that R. plicata is far more abundant in Arctic waters than previously believed and that the scarcity of records is attributable to its incomplete description. We also identified two more calycophoran species, M. bargmannae and C. amygdalina, that were typical of deep, Arctic water (below 600 m, Fig. 4). Records of M. bargmannae are scarce, as this species is easily confused with D. arctica (e.g., Morita et al., 2017), but the work of Pugh et al. (1997) indicated that the vertical distribution of these two species does not entirely overlap, as their peaks in abundance occur at different depths. The presence of C. amygdalina over a relatively narrow depth range within the Arctic waters aligns with the suggestion of Pugh et al. (1997). These authors suggested that this species predominated in shallower waters in Antarctica, but in the northern Atlantic Ocean, it dominates from 600 to 900 m, which matched our observations (Fig. 4). During laboratory work, we also encountered a peculiar eudoxid (herein "Diphyid eudoxid indet.") that, based on the distinguishable morphological characters, could be assigned to the calycophoran family Diphyidae Quoy and Gaimard, 1827, but further identification was impossible. These specimens appeared to have their bracts and gonophores fused together, as is the case in the fuseudoxid stage of C. amygdalina, but the overall shape resembled that of the eudoxid stage of D. arctica, which in turn has separate gonophores and bracts. Since the eudoxid stage of M. bargmannae has not been formally described (though see Stepanjants, 1967), it is highly probable that our problematic eudoxids belong to this species. Final confirmation will, however, require molecular work.
+
+Taxonomic uncertainty also arose around the Beroe spp. records. Global ctenophore diversity is not well resolved (Podar et al., 2001) but is even less resolved in the Arctic (Majaneva and Majaneva, 2013). Due to the often overlapping distributions (Oliveira and Miggotto, 214)), inability to preserve fragile ctenophore tissue (Podar et al., 2001) and elusive morphological traits (Tamm and Tamm, 1993), classic morphology-based taxonomy is often inadequate to discriminate between closely related species using fixed specimens. Hence, we restricted our identification of Beroe spp. to the genus level. Discontinuity in the vertical records of Beroe spp. (Fig. 4) and in their spatial distribution across the hydrographic gradient may suggest that in our case, the community of Beroidae comprised two or more closely related species, which were most likely B. cucumis and B. abyssicola. Both species are found in the northern Atlantic and the Arctic Ocean and are known to share similar habitats (Raskoff et al., 2010; Knutsen et al., 2018). Vertical partitioning of the water column by congeners is well documented for planktonic communities (Laakman et al., 2009; Kosobokova and Hopcroft, 2010), which further corroborates our assumption of the
+
+12
+
+[NOTE: source oddities transcribed as printed, not corrected: the citation "(Oliveira
+and Miggotto, 214))" is printed with a three-digit year and a doubled closing
+parenthesis; "while the later, although also present in the deep waters" uses "later"
+for "latter"; "have led to the sever underestimation" prints "sever" for "severe";
+"Laakman et al., 2009" is spelled thus in the text (the reference list on a later page
+should be checked against it); and the running text calls transect N "southern transect
+N" here, consistent with p. 10 but not with p. 11's "northern transect EB". Italics are
+not marked in this transcription: the species and genus names ("B. superciliaris",
+"Aglantha", "P. hydrostatica", "M. orthocanna", "R. plicata", "M. bargmannae",
+"C. amygdalina", "D. arctica", "Beroe", "Plotocnide borealis", "Euphysa flammea",
+"B. cucumis", "B. abyssicola") are set in italic on the page, and in several places the
+following comma falls inside the italic run ("R. plicata,", "C. amygdalina,",
+"D. arctica,"). Colour is not marked: the cross-references and author-date citations are
+set in blue as hyperlinks. The degree sign in "5–7 °C" is printed as a small raised
+ring.]
+
+<<<PAGE pdf=13 file=page_013.txt>>>
+[PAGE 13]
+
+[NOTE: no printed square brackets occur on this page; every "[" in this file is my
+marker.]
+
+[RUNNING HEAD] M.K. Mańko, et al.
+[RUNNING HEAD] Progress in Oceanography 189 (2020) 102414
+
+presence of more than one Beroe species in the Fram Strait. Likewise, our identification of the remaining ctenophores as M. ovum, although highly probable, must acknowledge the potential for confusion of this species with other cydippid ctenophores that are also present in the coastal waters of Svalbard (Majaneva and Majaneva, 2013).
+
+Potential discrepancies in the number of species found in different regions of the Arctic Ocean, aside from the species distribution ranges, may very likely be attributed to methodological differences. Although below certain depths, planktonic communities are considered convergent to some extent (Robison, 2004; Vecchione et al., 2015), there may still be differences in the local diversity even among closely spaced sampling sites (see, e.g., Licandro et al., 2015 and this study), but these can be captured by applying diverse sampling methodologies (Hosia et al., 2017). Employing remotely operated vehicles (Raskoff et al., 2005; Youngbluth et al., 2008; Raskoff et al., 2010) allows for the detection of sparsely distributed large taxa, but in contrast with net-based studies, such an approach tends to overlook inconspicuous, minute species or elusive life cycle stages (Williams and Conway, 1981, Raskoff et al., 2005). Therefore, species missing from our report are possibly present in the Fram Strait; thus, to eliminate sampling bias from future endeavours, simultaneous deployment of various sampling tools should be prioritized. Furthermore, molecular techniques should be also considered when working with gelatinous zooplankton, as they can allow for circumventing the problem of fixation-related tissue disintegration, frequently occurring while working with more fragile taxa, like ctenophores (e.g., Hosia and Båmstedt, 2007).
+
+4.3. Demographically structured vertical distribution
+
+The distribution of the two most abundant species, A. digitale and D. arctica, was better resolved and easier to explain within the context of the local hydrological settings when their life cycle stages were taken into account (Fig. 5). Our dataset indicated strong vertical, bathymetric and water mass dependent structuring of both A. digitale and D. arctica abundance (Table 2., Figs. 5 and 7). Although distinguishing life cycle stages was straightforward in the case of D. arctica, dividing the population of A. digitale into stages of development was arbitrary and was based on previously published bell heights that may indicate sexual maturity (Takahashi and Ikeda, 2006). These should be interpreted carefully, as the correlation between bell height and gonad production exhibits some geographical variation (Russell, 1938, Williams and Conway, 1981, Pertsova et al., 2006). Ideally, the presence of gonads should be indicated, and their size should be measured to determine the sexual maturity of the specimen. However, this was impossible due to the long formalin storage of the specimens investigated here, which caused the gonads to deteriorate.
+
+The vertical distribution of the boreal jellyfish, A. digitale (Kosobokova et al., 2011), was tightly coupled with local hydrography and bathymetry (Table 2, Figs. 5 and 6). We corroborated that the mature, or at least the largest specimens, persisted in the deepest water layers, whereas the juveniles dominated the surface waters, with the sole exception of the exterior stations along the northern transect, where mature specimens were found at depths > 50 m (Fig. 5). This could be attributed to the presence of Return Atlantic Current, that might have carried along some individuals of A. digitale from neighbouring region. Williams and Conway (1981), in studying the population of this species in the NE Atlantic Ocean, showed a similar pattern of vertical distribution, with smaller specimens (up to 3 mm in bell height) dominating in the top 100 m, while larger jellyfish (bell height > 6 mm) were as deep as 500 m (though no sampling was conducted below 500 m). The most likely explanation of this seemingly general pattern was drawn from the dietary preferences of this species; A. digitale juveniles feed upon the protists or copepod nauplii that dominate the surface waters, while adults tend to predate on the larger copepods that are mostly found in deeper regions (Pagès et al., 1996, Colin et al., 2003). Interestingly, our data revealed the absence of A. digitale above the shelf along the northern transect, but this might have resulted from unequal sampling effort. However, Carstensen et al. (2019) also documented a northward decrease in A. digitale biomass. These authors argued that this trend could be explained either by the deeper distribution of A. digitale (as they sampled only the upper 200 m of the water column) or by dietary competition with Eukrohnia hamata. Pertsova et al. (2006) suggested that the onset of reproduction of this species begins when the surface temperature reaches 9–11 °C, at least in the White Sea. Even if reproduction of A. digitale in the Fram Strait is triggered at lower temperatures, the environmental conditions along the transect EB might still be too harsh for this species to spawn. Temperature has already been demonstrated as the main factor influencing body length (Nicholas and Frid, 1999) and the number of generations of this medusae, which can have as many as 5–6 generations per year in the English Channel (Russel, 1953) but only two in the colder Toyama Bay (Ikeda and Imamura, 1996). Although our data did not allow for determination of a number of generation per year of A. digitale in the Fram Strait, given the observed plasticity of this species' phenology, one might expect that the progressive intrusion of Atlantic waters might alter the current dogma pertaining to reproduction of this species, leading to the development of more than one generation, as was the case for one of the local copepod species (Weydmann et al., 2018). Additionally, A. digitale has been found in the stomach content of numerous fish (e.g., Onchorhynchus keta, Tsuruta, 1963), while experimental work by Runge et al. (1987) demonstrated that mackerel (Scomber scombrus) feeds preferentially on this hydromedusa. With both the predicted and already observable northern expansions of commercially important fish (Haug et al., 2017), an increase in A. digitale abundance may allow for the development of a sustainable population of these fish in polar waters.
+
+The pattern of the vertical distribution of D. arctica was not as straightforward in interpretation as was that of A. digitale. Our data demonstrated the numerical dominance of eudoxids in the local population of this species. D. arctica can at times reach high abundances in various ecosystems (e.g., Weddell Sea; Pugh et al., 1997) and can be evenly distributed in the water column (e.g., near Fuerteventura; Pugh, 1974). The few studies that analysed in depth the population structure of this species showed that eudoxids usually outnumber polygastric stages throughout the year, with a peak of eudoxid production late in the spring and in the summer (Korsfjord, Norway; Hosia and Båmstedt, 2008; but see Pagès and Kurbjeweit, 1994), and that eudoxids are usually more abundant in deeper depth strata (Mapstone 2009). Pugh et al. (1997) revealed the existence of a similar distribution pattern of D. arctica in the Weddell Sea, with the polygastric colonies dominating from 250 to 400 m and a more widespread distribution of eudoxids (down to 800 m). Additionally, the results of Pagès and Kurbjeweit (1994) and Pagès and Schnack-Schiel (1996), who studied GZ distribution in the Weddell Sea, showed a lack of eudoxids from the surface to 50 m. These authors argued that D. arctica avoided colder surface waters and concentrated near the thermocline in the vicinity of Antarctic Slope Front. All these observation, agree with our data (Figs. 4 and 5), as we identified a bulk of D. arctica distribution in the deepest strata sampled; we showed that eudoxids outnumbered polygastric stages; and that only a small population of D. arctica was present in the surface layer in the exterior zone of the southern transect N and in the slope of transect EB. The ratio of eudoxid bracts to gonophores found in this study, indicate that the eudoxids of this species are most likely able to produce more than one gonophore (Carré and Carré, 1991, Pugh et al., 1997). This has major ecological implications, as it translates to the high reproductive potential of D. arctica (Carré and Carré, 1991).
+
+4.4. Atlantic inflow and GZ community of the Fram Strait
+
+The results of our analyses, revealed that the abundance, diversity and demography of GZ community in the Fram Strait are strongly dependent on the distribution of the water masses (Tables 2, 4, and 5).
+
+13
+
+[NOTE: source oddities transcribed as printed, not corrected: "(Table 2., Figs. 5 and 7)"
+prints a period after "Table 2"; "Russell, 1938, Williams and Conway, 1981, Pertsova
+et al., 2006" and "Williams and Conway, 1981, Raskoff et al., 2005" and "Carré and
+Carré, 1991, Pugh et al., 1997" and "Pagès et al., 1996, Colin et al., 2003" separate
+citations with commas rather than semicolons; "Mapstone 2009" omits the comma before
+the year; "Russel, 1953" is spelled with one "l" here while "Russell, 1938" earlier in
+the same page has two; "Onchorhynchus keta" is printed thus (the accepted spelling is
+Oncorhynchus); "a number of generation per year" and "the number of generations of this
+medusae" are printed with the numbers disagreeing; "All these observation, agree with
+our data" and "The ratio of eudoxid bracts to gonophores found in this study, indicate
+that" and "The results of our analyses, revealed that" each print a comma before the
+verb; and "the number of generations of this medusae, which can have as many as 5–6
+generations per year" repeats "generations". Italics are not marked in this
+transcription: the species names, "Beroe", "Eukrohnia hamata", "Onchorhynchus keta",
+"Scomber scombrus", and the headings 4.3 and 4.4 are set in italic on the page, and in
+"D. arctica," the comma falls inside the italic run. Colour is not marked: the
+cross-references and author-date citations are set in blue as hyperlinks. The degree
+sign in "9–11 °C" is printed as a small raised ring. The apostrophe in "this species'
+phenology" is a right single quotation mark.]
+
+<<<PAGE pdf=14 file=page_014.txt>>>
+[PAGE 14]
+
+[NOTE: no printed square brackets occur on this page; every "[" in this file is my
+marker.]
+
+[RUNNING HEAD] M.K. Mańko, et al.
+[RUNNING HEAD] Progress in Oceanography 189 (2020) 102414
+
+The abrupt changes in the diversity of GZ between adjacent water masses have been shown in literature on numerous occasions (e.g., Graham et al., 2001; Hosia et al., 2008; Haberlin et al., 2019). They were usually attributed to various physical barriers (Graham et al. 2001), like shelf-breaks (Pagès and Schnack-Schiel, 1996; Guerrero et al., 2018) or fronts, a strong thermohaline gradients arising at the interface of distinct water bodies (Haberlin et al., 2019; Pagès et al., 2001).
+
+Recent findings show the strengthening and warming of the inflow of Atlantic water to the Arctic (Beszczynska-Möller et al., 2012; Polyakov et al., 2017), occurring even at the greater depths (Merchel and Walczowski, 2018). We demonstrated that the Atlantic water community of GZ was dominated by a boreal species, A. digitale (Table 4), whose demography was also tightly coupled with the distribution of warmer Atlantic water (Table 5, Fig. 7). This could indicate, that the Atlantification of the Arctic water would manifest in the dominance of this species further north, a trend that was already documented for some copepods occurring in the West Spitsbergen Current (Weydmann et al., 2014, 2018). For another highly abundant GZ species, D. arctica, warming of the Arctic water could translate to greater numbers of eudoxids produced, as this process seems to accelerate with increasing temperature (Carré and Carré, 1991), but also with the increasing food availability (Purcell, 1982; Dallot et al., 1988). Although this species was found to thrive in a broad range of temperatures (approximately 1.1–13.3 °C; Totton 1965), it was shown not to reproduce if the temperature exceeds 10 °C (Stepanjants, 1967). Therefore, it is also equally probable, that the Atlantification of the Arctic could limit the distribution range of this species only to the ArW.
+
+An interesting point in the discussion on the potential influence of the increasing Atlantification of the Arctic is the future of the shelf waters. When the Sørkapp Current (SC) flows northward along the western coast of Spitsbergen, it gains the heat from the adjacent West Spitsbergen Current (WSC), which enhances melting of the drifting sea ice in the SC (Saloranta and Haugan, 2004; Tverberg et al., 2014) and accelerates the formation of the SSW. We showed, that the SSW harboured the most abundant GZ community (Table 4), comprising species of Arctic origin (Table 5), numerically dominated by M. ovum. Increase in the SSW extent may thus lead to the development of an even more abundant assemblage of species adapted to thrive in these slightly less saline waters, like the mentioned ctenophore. It must be noted however, that the AtW is known to propagate onto the shelf and further into some of the Svalbard's fjords (e.g., Cottier et al., 2005). As recently shown by Nilsen et al. (2016), winter cyclones in the Fram Strait, through accelerating and widening of the West Spitsbergen Current, may force more AtW to spread along the shelf and within the fjords. Given the increasing density of winter cyclones in the region (Wickström et al., 2019), the striking differences in abundance of the shelf and open ocean GZ community might blur to some extent, with the shelf assemblage of GZ acquiring more of the Atlantic character.
+
+Although our interpretation of the influence of the Atlantification on the GZ community is well supported by the published data (e.g., Wassmann et al., 2011; Weydmann et al., 2014), presented here is only a snapshot of a diversity of GZ and its environmental and biotic drivers. The direct observations of the shifts in the GZ community diversity and distribution will require long-term dataset, that is currently still missing. Some caution in the interpretation of our results must also remain due to the potential timing bias. Although our sampling campaign was undertaken within a relatively narrow time window (two weeks), this still might have been long enough to capture phenological differences among the GZ at the two transects, leading to differences in their abundances (Søreide et al., 2010). We thus emphasize that although our data on the GZ spatial and vertical abundance conform to the expected summer distribution of zooplankton, and reveal a strong dependence on the Atlantic waters, further reasoning on the potential effects of the progression of Atlantification on the GZ community requires a long-term dataset.
+
+5. Conclusions
+
+This study constitutes the first diversity baseline for the vertical distribution of the gelatinous zooplankton in the Fram Strait (Arctic Ocean), which is the main pathway for Atlantic waters into the Arctic. The distributions of GZ abundance, diversity and demography were shaped by an intricate network of factors, of which sampling depth and bathymetric zone were the most important. These GZ community descriptors were also found to reflect particularly well the distribution pattern of water masses. Our data, although temporarily limited, allow for the prognosis that with the observable warming and strengthening of the Atlantic water inflow to the Arctic, referred to as Atlantification (Polyakov et al., 2017), the local GZ community of the Fram Strait will undergo significant remodelling. We showed that the GZ community found along the southern transect was more abundant and that the GZ associated with Atlantic waters was dominated by A. digitale, abundance of which constituted c. 66% of the abundance of all GZ. We also demonstrated that the GZ abundance peaked at the intermediate depths (200–600 m), that corresponded with the extent of the West Spitsbergen Current. Its northward flow was strongest above the continental slope, thus rendering this particular community prone to reaching farthest north. Furthermore, we also describe the GZ community found in other water masses, and supported with a literature data, we offer a plausible prognosis of their future, that further supports the notion of the significant impact of Atlantification on the GZ community.
+
+Declaration of Competing Interest
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+Acknowledgements
+
+We wish to express our sincere gratitude to all those who have participated in the demanding plankton sampling in the Fram Strait on board of R/V Oceania (Institute of Oceanology PAS). Special thanks are due to Emilia Trudnowska for the time and the jointed work during the cruise and in the lab. MKM thanks Sławomir Kwaśniewski and Jacob Carstensen for a helpful discussion on the water masses. Finally, we thank the anonymous reviewers for their helpful suggestions that allowed us to improve the manuscript.
+
+This study was supported by the Polish Ministry of Science and Higher Education project KongHau_ZOOM (No. W37/Svalbard/2012). Work of MKM was financed by the Polish Ministry of Science and Higher Education Diamond Grant DI2014 020344 and the University of Gdańsk program Research Projects for PhD students and early career scientists no. 538-6250-B104-18. The work of AWZ was supported by a grant no. 2017/27/B/NZ8/01056 from the National Science Centre, Poland, while MG participation was funded by a grant no. 2017/25/B/NZ8/01100 from the National Science Centre (Tax4Fun) and she was also supported by the Ministry of Science and Higher Education Outstanding Young Scientist Scholarship.
+
+Appendix A. Supplementary material
+
+Supplementary data to this article can be found online at https://doi.org/10.1016/j.pocean.2020.102414.
+
+References
+
+Andersen, O.G.N., 1981. Redescription of Marrus orthocanna (Kramp, 1942) (Cnidaria, Siphonophora). Steenstrupia 7, 293–307.
+Angel, M.V., Baker, A.C., 1982. Vertical distribution of the standing crop of plankton and micronekton at three stations in the Northeast Atlantic. Biol. Oceanogr. 2, 1–30. https://doi.org/10.1080/01965581.1982.10749451.
+
+14
+
+[NOTE: source oddities transcribed as printed, not corrected: "(Graham et al. 2001)" omits
+the comma before the year, while the same citation earlier in the sentence prints "Graham
+et al., 2001"; "Totton 1965" likewise omits the comma; "or fronts, a strong thermohaline
+gradients" and "This could indicate, that the Atlantification", "Therefore, it is also
+equally probable, that the Atlantification", "We showed, that the SSW harboured", "will
+require long-term dataset, that is currently still missing", "supported with a literature
+data", "a plausible prognosis of their future, that further supports", and "It must be
+noted however, that" are printed thus; "the increasing food availability" and "temporarily
+limited" (for "temporally") are as printed. Italics are not marked in this transcription:
+"A. digitale", "D. arctica", "M. ovum", "Marrus orthocanna" and the vessel name "Oceania"
+are set in italic on the page; in "D. arctica," (left column) and "A. digitale," (right
+column) the following comma falls inside the italic run. Colour is not marked: the
+author-date citations, cross-references ("Table 4", "Table 5", "Fig. 7"), the Appendix A
+DOI link, the whole Andersen 1981 reference entry, and the DOI URL of the Angel & Baker
+1982 entry are set in blue as hyperlinks. The degree sign in "1.1–13.3 °C" and "10 °C" is
+printed as a small raised ring. The apostrophe in "the Svalbard's fjords" is a right
+single quotation mark. The en dashes in "1.1–13.3", "200–600 m", "293–307" and "1–30" are
+printed as en rules; the hyphens in "shelf-breaks", "long-term", "Beszczynska-Möller" and
+in the grant number "538-6250-B104-18" are hyphens. The underscore in "KongHau_ZOOM" is
+printed as a low line. The two reference entries are set in a smaller face than the body
+text, each with a hanging indent.]
+
+<<<PAGE pdf=15 file=page_015.txt>>>
+[PAGE 15]
+
+[RUNNING HEAD] M.K. Mańko, et al.	Progress in Oceanography 189 (2020) 102414
+
+Arai, M.N., 1992. Active and passive factors affecting aggregations of hydromedusae: a review. Scientia Marina 56, 99–108.
+Bandara, K., Varpe, Ø., Søreide, J.E., Wallenschus, J., Berge, J., Eiane, K., 2016. Seasonal vertical strategies in a high-Arctic coastal zooplankton community. Mar. Ecol. Prog. Ser. 555, 49–54. https://doi.org/10.3354/meps11831.
+Basedow, S.L., Sundfjord, A., von Appen, W.-J., Halvorsen, E., Kwaśniewski, S., Reigstad, M., 2018. Seasonal variation in transport of zooplankton into the Arctic Basin through the Atlantic Gateway. Fram Strait. Front. Mar. Sci. 5, 194. https://doi.org/10.3389/fmars.2018.00194.
+Beszczynska-Möller, A., Woodgate, R.A., Lee, C., Melling, H., Karcher, M., 2011. A synthesis of exchanges through the main oceanic gateways to the Arctic Ocean. Oceanography 24, 82–99. https://doi.org/10.5670/oceanog.2011.59.
+Beszczynska-Möller, A., Fahrbach, E., Schauer, U., Hansen, E., 2012. Variability in Atlantic water temperature and transport at the entrance to the Arctic Ocean. 1997–2010. ICES J. Mar. Sci. 69, 852–863. https://doi.org/10.1093/icesjms/fss056.
+Błachowiak-Samołyk, K., Kwaśniewski, S., Dmoch, K., Hop, H., Falk-Petersen, S., 2007. Trophic structure of zooplankton in the Fram Strait in spring and autumn 2003. Deep-Sea Res. II 54, 2716–2728. https://doi.org/10.1016/j.dsr2.2007.08.004.
+Boero, F., Brotz, L., Gibbons, M.J., Piraino, S., Zampardi, S., 2016. Impacts and effects of ocean warming on jellyfish. In: Laffoley, D., Baxter, J.M. (Eds.), Explaining Ocean Warming: Causes, Scale, Effects and Consequences. UICN, Gland, Switzerland, pp. 213–237.
+Bouillon, J., Gravili, C., Pagès, F., Gili, J. M., and Boero, F. 2006. An introduction to Hydrozoa. Mémoires du Muséum national d’Histoire naturelle no. 194, Publications Scientifiques du Muséum, Paris.
+Brodeur, R.D., Decker, M.B., Ciannelli, L., Purcell, J.E., Bond, N.A., Stabeno, P.J., Acuna, E., Hunt Jr., G.L., 2008. Rise and fall of jellyfish in the eastern Bering Sea in relation to climate regime shifts. Prog. Oceanogr. 77, 103–111. https://doi.org/10.1016/j.pocean.2008.03.017.
+Brotz, L., Cheung, W.W.L., Kleisner, K., Pakhomov, E., Pauly, D., 2012. Increasing jellyfish populations: trends in large marine ecosystems. Hydrobiologia 690, 3–20. https://doi.org/10.1007/s10750-012-1039-7.
+Carré, C., Carré, D., 1991. A complete life cycle of the calycophoran siphonophore Muggiaea kochi (Will) in the laboratory, under different temperature conditions: ecological implications. Philos. Trans. Roy. Soc. Lond. B 334, 27–32. https://doi.org/10.1098/rstb.1991.0095.
+Carstensen, J., Olszewska, A., Kwaśniewski, S., 2019. Summer mesozooplankton biomass distribution in the West Spitsbergen Current (2001–2014). Front. Mar. Sci. 6, 202. https://doi.org/10.3389/fmars.2019.00202.
+Choy, C.A., Haddock, S.H.D., Robison, B.H., 2017. Deep pelagic food web structure as revealed by in situ feeding observations. Proc. Roy. Soc. B: Biol. Sci. 284, 20172116. https://doi.org/10.1098/rspb.2017.2116.
+Colin, S.P., Costello, J.H., Klos, E., 2003. In situ swimming and feeding behavior of eight co-occurring hydromedusae. Mar. Ecol. Prog. Ser. 253, 305–309. https://doi.org/10.3354/meps253305.
+Colin, S.P., Costello, J.H., Graham, W.M., Higgins III, J., 2005. Omnivory by the small cosmopolitan hydromedusa Aglaura hemistoma. Limnol. Oceanogr. 50, 1264–1268. https://doi.org/10.4319/lo.2005.50.4.1264.
+Condon, R.H., Graham, W.M., Duarte, C.M., Pitt, K.A., Lucas, C.H., Haddock, S.H.D., Sutherland, K.R., Robinson, K.L., Dawson, M.N., Decker, M.B., Mills, C.M., Purcell, J.E., Malej, A., Mianzan, H., Uye, S., Gelcich, S., Madin, L.P., 2012. Questioning the rise of gelatinous zooplankton in the world's oceans. Bioscience 62, 160–169. https://doi.org/10.1525/bio.2012.62.2.9.
+Condon, R.H., Duarte, C.M., Pitt, K.A., Robinson, K.L., Lucas, C.H., Sutherland, K.R., Mianzan, H.W., Bogeber, M., Purcell, J.E., Decker, M.B., Uye, S., Madin, L.P., Brodeur, R.D., Haddock, S.H.D., Malej, A., Parry, G.D., Eriksen, E., Quiñones, J., Acha, M., Harvey, M., Arthur, J.M., Graham, W.M., 2013. Recurrent jellyfish blooms are a consequence of global oscillations. Proceeding of National Academy of Sciences of the United States of America1 10, 1000–1005. https://doi.org/10.1073/pnas.1210920110.
+Costello, J.H., Colin, S.P., Dabiri, J.O., 2008. Medusan morphospace: phylogenetic constraints, biomechanical solutions, and ecological consequences. Invertebr. Biol. 127, 265–290. https://doi.org/10.1111/j.1744-7410.2008.00126.x.
+Cottier, F., Tverberg, V., Inall, M., Svendsen, H., Nilsen, F., Griffiths, C., 2005. Water mass modification in an Arctic fjord through cross-shelf exchange: The seasonal hydrography of Kongsfjorden, Svalbard. Journal of Geophysical Research 110, C12005. https://doi.org./10.1029/2004JC002757.
+Coyle, K.O., Pinchuk, A.I., Eisner, L.B., Napp, J.M., 2008. Zooplankton species composition, abundance and biomass on the eastern Bering Sea shelf during summer: The potential role of water-column stability and nutrients in structuring the zooplankton community. Deep-Sea Res. II 55, 1775–1791. https://doi.org/10.1016/j.dsr2.2008.04.029.
+Dallot, S., Goy, J., Carré, C., 1988. Peuplements de carnivores planctoniques gelatineux et structures productives en Mediterranee occidentale. Oceanol. Acta 9, 193–209 (in French).
+Decker, M.B., Robinson, K.L., Dorji, S., Cieciel, K.D., Barceló, D., Ruzicka, J.J., Brodeur, R.D., 2018. Jellyfish and forage fish spatial overlap on the eastern Bering Sea shelf during periods of high and low jellyfish biomass. Mar. Ecol. Prog. Ser. 59, 57–69. https://doi.org/10.3354/meps12273.
+De Cáceres, M., Legendre, P., 2009. Associations between species and groups of sites: indices and statistical inference. Ecology 90, 3566–3574. https://doi.org/10.1890/08-1823.1.
+De Cáceres, M., Legendre, P., Moretti, M., 2010. Improving indicator species analysis by combining groups of sites. Oikos 119, 1674–1684. https://doi.org/10.1111/j.1600-0706.2010.18334.x.
+De Lafontaine, Y., Leggett, W.C., 1989. Changes in size and weight of hydromedusae during formalin preservation. Bull. Mar. Sci. 44, 1129–1137.
+Duarte, C.M., Pitt, A.M., Lucas, C.H., Purcell, J.E., Uye, S., Robinson, K., Brotz, L., Decker, M.B., Sutherland, K.R., Malej, A., Madin, L., Mianzan, H., Gili, J.M., Fuentes, V., Atienza, D., Pagès, F., Breiburg, D., Malej, J., Graham, W.M., Condon, R.H., 2013. Is global ocean sprawl a cause of jellyfish blooms? Front. Ecol. Environ. 11, 91–97. https://doi.org/10.1890/110246.
+Eriksen, E., Skjoldal, H.R., Gjøsæter, H., Primicerio, R., 2017. Spatial and temporal changes in the Barents Sea pelagic compartment during the recent warming. Prog. Oceanogr. 151, 206–226. https://doi.org/10.1016/j.pocean.2016.12.009.
+Frost, J.R., Jacoby, C.A., Youngbluth, M.J., 2010. Behavior of Nemopsis bachei L. Agassiz, 1849 medusae in the presence of physical gradients and biological thin layers. Hydrobiologia 645, 97–111. https://doi.org/10.1007/978-90-481-9541-1_8.
+Gluchowska, M., Dalpadado, P., Beszczyńska-Möller, A., Olszewska, A., Ingvaldsen, R.B., Kwaśniewski, S., 2017a. Interannual zooplankton variability in the main pathways of the Atlantic water flow into the Arctic Ocean (Fram Strait and Barents Sea branches). ICES J. Mar. Sci. 74, 1921–1936. https://doi.org/10.1093/icesjms/fsx033.
+Gluchowska, M., Trudnowska, E., Goszczko, I., Kubiszyn, A.M., Błachowiak-Samołyk, K., Walczowski, W., Kwaśniewski, S., 2017b. Variations in the structural and functional diversity of zooplankton over vertical and horizontal environmental gradients en route to the Arctic Ocean through the Fram Strait. PLoS ONE 12, e0171715. https://doi.org/10.1371/journal.pone.0171715.
+Graham, W.M., Pagès, F., Hamner, W.M., 2001. A physical context for gelatinous zooplankton aggregations: a review. Hydrobiologia 451, 199–212. https://doi.org/10.1023/A:1011876004427.
+Guerrero, E., Gili, J.M., Maynou, F., Sabatès, A., 2018. Diversity and mesoscale spatial changes in the planktonic cnidarian community under extreme warm summer conditions. J. Plankton Res. 40, 178–196. https://doi.org/10.1093/plankt/fby001.
+Haberlin, D., Raine, R., McAllen, R., Doyle, T.K., 2019. Distinct gelatinous zooplankton communities across a dynamic shelf sea. Limnol. Oceanogr. 64, 1802–1818. https://doi.org/10.1002/lno.11152.
+Harris, R., Wiebe, P., Lenz, J., Skjoldal, H.-R., Huntley, M., 2000. ICES zooplankton methodology manual. Academic Press.
+Haug, T., Bogstad, B., Chierici, M., Gjøsæter, H., Hallfredsson, E.H., Høines, Å.S., Hoel, A.H., Ingvaldsen, R.B., Jørgensen, L.L., Knutsen, T., Loeng, H., Naustvoll, L.J., Røttingen, I., Sunnanå, K., 2017. Future harvest of living resources in the Arctic Ocean north of the Nordic and Barents Seas: a review of possibilities and constraints. Fish. Res. 188, 38–57. https://doi.org/10.1016/j.fishres.2016.12.002.
+Hays, G.C., Richardson, A.J., Robinson, C., 2005. Climate change and marine plankton. Trends Ecol. Evol. 20, 337–344. https://doi.org/10.1016/j.tree.2005.03.004.
+Hays, G.C., Doyle, T.K., Houghton, J.D.R., 2018. A paradigm shift in the trophic importance of jellyfish. Trends Ecol. Evol. 33, 874–884. https://doi.org/10.1016/j.tree.2018.09.001.
+Hop, H., Falk-Petersen, S., Svendsen, H., Kwasniewski, S., Pavlov, V., Pavlova, O., Søreide, J.E., 2006. Physical and biological characteristics of the pelagic system across Fram Strait to Kongsfjorden. Prog. Oceanogr. 71, 182–231. https://doi.org/10.1016/j.pocean.2006.09.007.
+Hop, H., Assmy, P., Wold, A., Sundfjord, A., Daase, M., Duarte, P., Kwaśniewski, S., Gluchowska, M., Wiktor, J.M., Tatarek, A., Wiktor, jr., Kristiansen, S., Fransson, A., Chierici, M., Vihtakari, M., 2019. Pelagic ecosystem characteristics across the Atlantic Water Boundary Current from Rijpfjorden, Svalbard, to the Arctic Ocean during summer (2010-2014). Frontiers in Marine Science 6, 181. https://doi.org/10.3389/fmars.2019.00181.
+Hosia, A., Falkenhaug, T., Baxter, E.J., Pagès, F., 2017. Abundance, distribution and diversity of gelatinous predators along the northern Mid-Atlantic Ridge: A comparison of different sampling methodologies. PLoS ONE 12, e0187491. https://doi.org/10.1371/journal.pone.0187491.
+Hosia, A., Båmstedt, U., 2007. Seasonal changes in the gelatinous zooplankton community and hydromedusa abundances in Korsfjord and Fanafjord, western Norway. Mar. Ecol. Prog. Ser. 351, 113–127.
+Hosia, A., Båmstedt, U., 2008. Seasonal abundance and vertical distribution of siphonophores in western Norwegian fjords. J. Plankton Res. 30, 951–962. https://doi.org/10.1093/plankt/fbn045.
+Hosia, A., Stemmann, L., Youngbluth, M., 2008. Distribution of net-collected planktonic cnidarians along the northern Mid-Atlantic Ridge and their associations with the main water masses. Deep-Sea Research Part II 55, 106–118. https://doi.org/10.1016/j.dsr2.2007.09.007.
+Ikeda, T., Imamura, A., 1996. Abundance, vertical distribution and life cycle of a hydromedusa Aglantha digitale in Toyama Bay, southern Japan Sea. Bull. Plankton Soc. Japan 43, 31–43.
+IPCC, 2014. Climate change 2014: Synthesis report. In: Pachauri R.K., Meyer L.A., Core Writing Team (Eds.), Contribution of working groups I, II and III to the fifth assessment report of the intergovernmental panel on climate change. Geneva, Switzerland: IPCC.
+Jakobsson, M., Mayer, L. A., Coakley, B., Dowdeswell, J.A., Forbes, S., Fridman, B., Hodnesdal, H., Noormets, R., Pedersen, R., Rebesco, M., Schenke, H.-W., Zarayskaya Y., Accettella, D., Armstrong, A., Anderson, R.M., Bienhoff, P., Camerlenghi, A., Church, I., Edwards, M., Gardner, J.V., Hall, J.K., Hell, B., Hestvik, O.B., Kristoffersen, Y., Marcussen, C., Mohammad, R., Mosher, C.D., Nghiem, S.V., Pedrosa, M.T., Travaglini, P.G., Weatherall, P., 2012. The International Bathymetric Chart of the Arctic Ocean (IBCAO) Version 3.0. Geophysical Research Letters, L12609, https://doi.org/10.1029/2012GL052219.
+Knutsen, T., Hosia, A., Falkenhaug, T., Skern-Mauritzen, R., Wiebe, P.H., Larsen, R.B., Aglen, A., Berg, E., 2018. Coincident mass occurrence of gelatinous zooplankton in Northern Norway. Front. Mar. Sci. 5, 158. https://doi.org/10.3389/fmars.2018.00158.
+Kosobokova, K., Hopcroft, R.R., Hirche, H.-J., 2011. Patterns of zooplankton diversity
+
+15
+
+[NOTE: page 15 is entirely reference list, two columns, no other matter. 48 entries
+in all. The first entry (Arai, M.N., 1992) begins fresh at the head of the left
+column and is complete on this page; the last entry (Kosobokova et al., 2011) is
+incomplete and continues onto page 16. The De Lafontaine, Y., Leggett, W.C., 1989
+entry runs from the foot of the left column into the head of the right column and
+has been joined into one line here.]
+
+[NOTE: NO printed square brackets occur anywhere on this page. Parenthetical matter
+in the reference list uses round parentheses throughout, e.g. "(in French)" in
+Dallot et al. 1988, "(Eds.)" in Boero et al. 2016 and IPCC 2014, "(Will)" in Carré
+& Carré 1991, "(Fram Strait and Barents Sea branches)" in Gluchowska et al. 2017a,
+and "(IBCAO)" in Jakobsson et al. 2012. Every square bracket in this file is a
+transcriber marker.]
+
+[NOTE: italics are not marked in this transcription (the protocol has no italic
+marker). Species names printed in italic on this page are: Muggiaea kochi (Carré &
+Carré 1991), Aglaura hemistoma (Colin et al. 2005), Nemopsis bachei (Frost et al.
+2010) and Aglantha digitale (Ikeda & Imamura 1996).]
+
+[NOTE: the list's own inconsistencies are preserved verbatim and are NOT transcriber
+errors. Recorded here so a later reader does not "fix" them:
+ - Bouillon et al. 2006: "Gili, J. M., and Boero, F. 2006." — a space inside the
+   initials "J. M.", the connective "and" before the last author (unique on this
+   page), and NO comma before the year.
+ - Condon et al. 2013: "of the United States of America1 10, 1000–1005." — a stray
+   digit 1 attached to "America", and the volume printed as "10".
+ - Condon et al. 2012: "world's oceans" uses a straight vertical apostrophe (U+0027),
+   whereas Bouillon et al. 2006 "d’Histoire" uses a typographic apostrophe (U+2019).
+ - Cottier et al. 2005: "https://doi.org./10.1029/2004JC002757." — a stray period
+   after "doi.org".
+ - Beszczynska-Möller is printed WITHOUT the Polish ń in both left-column entries
+   (2011, 2012), but WITH it — "Beszczyńska-Möller" — in Gluchowska et al. 2017a.
+ - Kwaśniewski is printed WITHOUT the ś in Hop et al. 2006 ("Kwasniewski"), but WITH
+   it everywhere else on the page (Basedow 2018, Błachowiak-Samołyk 2007,
+   Carstensen 2019, Gluchowska 2017a and 2017b, Hop 2019).
+ - Brodeur et al. 2008: "Acuna, E." printed without the tilde (cf. "Quiñones, J." in
+   Condon et al. 2013, which has one).
+ - Hop et al. 2019: "(2010-2014)" uses a hyphen, whereas Carstensen et al. 2019 uses
+   an en dash in "(2001–2014)".
+ - Hop et al. 2019: "Wiktor, jr.," — lower-case "jr." and no initial given for that
+   author.
+ - Jakobsson et al. 2012: "Mayer, L. A." with a space inside the initials, and
+   "Zarayskaya Y.," with NO comma between surname and initial.
+ - Boero et al. 2016: publisher printed "UICN" (not IUCN).
+ - Dallot et al. 1988: French title printed without accents — "Peuplements de
+   carnivores planctoniques gelatineux et structures productives en Mediterranee
+   occidentale".
+ - Journal names are abbreviated inconsistently: "Deep-Sea Res. II" (Błachowiak-
+   Samołyk 2007, Coyle 2008) vs "Deep-Sea Research Part II" (Hosia, Stemmann &
+   Youngbluth 2008); "Front. Mar. Sci." (Basedow 2018, Carstensen 2019, Knutsen
+   2018) vs "Frontiers in Marine Science" (Hop 2019); "Prog. Oceanogr." vs
+   "Oceanography"; "Journal of Geophysical Research" (Cottier 2005) vs "Geophysical
+   Research Letters" (Jakobsson 2012); "Scientia Marina" and "Hydrobiologia" and
+   "Bioscience" and "Ecology" and "Oikos" given in full.
+ - DOIs are present on most entries but ABSENT from: Arai 1992, Boero et al. 2016,
+   Bouillon et al. 2006, Dallot et al. 1988, De Lafontaine & Leggett 1989, Harris
+   et al. 2000, Hosia & Båmstedt 2007, Ikeda & Imamura 1996, IPCC 2014.
+ - Most DOI URLs are hyperlinked (printed in blue); three are printed in black text
+   and are not links: Condon et al. 2013, Cottier et al. 2005, Jakobsson et al. 2012.
+   Jakobsson et al. 2012 also uses a comma rather than a period before its URL
+   ("L12609, https://doi.org/...").
+ - Frost et al. 2010 carries a book-chapter-style DOI
+   (https://doi.org/10.1007/978-90-481-9541-1_8) for a Hydrobiologia article; this
+   was checked at high magnification and is exactly as printed.]
+
+[NOTE: whole entries are printed in blue (hyperlinked) rather than black on this
+page: Arai 1992, Boero et al. 2016, Dallot et al. 1988, De Lafontaine & Leggett
+1989, Harris et al. 2000, Hosia & Båmstedt 2007, and Ikeda & Imamura 1996. This is
+Elsevier's rendering of references without a resolvable DOI and carries no textual
+meaning; it is recorded only so a later reader is not surprised by it.]
+
+[NOTE: no uncertainty or illegibility markers were needed on this page. Every entry
+was read on a magnified crop; all diacritics (Ø, ø, æ, å, Å, ö, è, é, ó, ñ, ń, ł, ś)
+were verified individually rather than inferred.]
+
+<<<PAGE pdf=16 file=page_016.txt>>>
+[PAGE 16]
+
+[RUNNING HEAD] M.K. Mańko, et al.	Progress in Oceanography 189 (2020) 102414
+
+[NOTE: this page opens mid-entry. The first content line below is the tail of the entry begun at the foot of page 15, "Kosobokova, K., Hopcroft, R.R., Hirche, H.-J., 2011. Patterns of zooplankton diversity", which breaks across the page turn after the word "diversity". Only the continuation is transcribed here; the head of that entry is on page_015.txt.]
+
+through the depths of the Arctic’s central basin. Mar. Biodivers. 41, 29–50. https://doi.org/10.1007/s12526-010-0057-9.
+Kosobokova, K., Hopcroft, R.R., 2010. Diversity and vertical distribution of Mesozooplankton in the Arctic’s Canada Basin. Deep-Sea Research Part II 57, 96–110. https://doi.org/10.1016/j.dsr2.2009.08.009.
+Kosobokova, K.N., Hirche, H.J., 2009. Biomass of zooplankton in the eastern Arctic Ocean—a baseline study. Prog. Oceanogr. 82, 265–280. https://doi.org/10.1016/j.pocean.2009.07.006.
+Kosobokova, K.N., Hirche, H.J., 2000. Zooplankton distribution across the Lomonosov Ridge, Arctic Ocean: species inventory, biomass and vertical structure. Deep-Sea Research Part I 47, 2029–2060. https://doi.org/10.1016/S0967-0637(00)00015-7.
+Kraft, A., Nöthing, E.-M., Bauerfeind, E., Wildish, D.J., Pohle, G.W., Bathmann, U.V., Beszczyńska-Möller, A., Klages, M., 2013. First evidence of reproductive success in a southern invader indicates possible community shifts among Arctic zooplankton. Mar. Ecol. Prog. Ser. 493, 291–296. https://doi.org/10.3354/meps10507.
+Kramp, 1961. Synopsis of the medusae of the world. Journal of Marine Biological Association of UK 7–382. https://doi.org/10.1017/S0025315400007347.
+Laakman, S., Kochzius, M., Auel, H., 2009. Ecological niches of Arctic deep-sea copepods: Vertical partitioning, dietary preferences and different trophic levels minimize interspecific competition. Deep-Sea Research Part I 56, 741–756. https://doi.org/10.1016/j.dsr.2008.12.017.
+Lepš, J., Šmilauer, P., 2003. Multivariate analysis of ecological data using CANOCO. Cambridge University Press, Cambridge.
+Licandro, P., Blackett, M., Fischer, A., Hosia, A., Kennedy, J., Kirby, R.R., Raab, K., Stern, R., Tranter, P., 2015. Biogeography of jellyfish in the North Atlantic, by traditional and genomic methods. Earth Syst. Sci. Data 7, 173–191. https://doi.org/10.5194/essd-7-173-2015.
+Lindsay, D.J., Grossmann, M.M., Bentlage, B., Collins, A.G., Minemizu, R., Hopcroft, R.R., Miyake, H., Hidaka-Umetsu, M., Nishikawa, J., 2017. The perils of online biogeographic databases: a case study with the ‘monospecific’ genus Aegina (Cnidaria, Hydrozoa, Narcomedusae). Mar. Biol. Res. 13, 494–512. https://doi.org/10.1080/17451000.2016.1268261.
+Lindsay, D.J., Pagès, F., Corbera, J., Miyake, H., Hunt, J.C., Ichikawa, T., Segawa, K., Yoshida, H., 2008. The anthomedusan fauna of the Japan Trench: Preliminary results from in situ surveys with manned and unmanned vehicles. J. Mar. Biol. Assoc. United Kingdom 88, 1519–1539. https://doi.org/10.1017/S0025315408002051.
+Lindsay, D.J., Hunt, J.C., 2005. Biodiversity in midwater cnidarians and ctenophores: submersible-based results from deep-water bays in the Japan Sea and north-western Pacific. J. Marine Biol. Assoc. United Kingdom 85, 503–517. https://doi.org/10.1017/S0025315405011434.
+Lindsay, D.J., Furushima, Y., Miyake, H., Kitamura, M., Hunt, J.C., 2004. The scyphomedusan fauna of the Japan Trench: preliminary results from a remotely-operated vehicle. Hydrobiologia 530 (531), 537–547. https://doi.org/10.1007/s10750-004-2645-9.
+Majaneva, S., Majaneva, M., 2013. Cyddipid ctenophores in the coastal waters of Svalbard: is it only Mertensia ovum. Polar Biol. 36, 1681–1686. https://doi.org/10.1007/s00300-013-1377-6.
+Majaneva, S., Berge, J., Renaud, P.E., Vader, A., Stübner, E., Rao, A.M., Sparre, Ø., Lehtiniemi, M., 2013. Aggregations of predators and prey affect predation impact of the Arctic ctenophore Mertensia ovum. Mar. Ecol. Prog. Ser. 476, 87–100. https://doi.org/10.3354/meps10143.
+Mańko, M.K., Panasiuk-Chodnicka, A.A., Żmijewska, M.I., 2015. Pelagic coelenterates in the Atlantic sector of the Arctic Ocean – species diversity and distribution as water mass indicators. Oceanol. Hydrobiol. Stud. 44, 466–479. https://doi.org/10.1515/ohs-2015-0044.
+Mapstone, G.M., 2009. Siphonophora (Cnidaria: Hydrozoa) of Canadian Pacific waters. NRC Research Press, Ottawa, Ontario, Canada.
+Margulis, R.Y., 1982. A new siphonophore Rudjacovia plicata gen. n., sp. n., (Coelenterate, Hydrozoa) from the Polar Basin and some notes on other siphonophores. Zoologicheskii Zhurnal 61, 440–444.
+Merchel, M., Walczowski, W., 2018. Changes in the properties of deep and intermediate water masses in the Nordic Seas from 1997 to 2016. Ocean Sci. Discuss. https://doi.org/10.5194/os-2018-93.
+Mills, C., 2001. Jellyfish blooms: are populations increasing globally in response to changing ocean conditions? Hydrobiologia 451, 55–68. https://doi.org/10.1023/A:1011888006302.
+Morita, H., Toyokawa, M., Hidaka, K., Nishimoto, A., Sugisaki, H., Kikuchi, T., 2017. Spatio-temporal structure of the jellyfish community in the transition zone of cold and wamr currents in the northwest Pacific. Plankton Benthos Res. 12, 266–284. https://doi.org/10.3800/pbr.12.266.
+Naumov, D.V., 1951. Mass appearance of thermophilic siphonophores in plankton of the Barents Sea. Priroda, Moskwa 11, 1–62 (in Russian).
+Nicholas, K.R., Frid, C.L.J., 1999. Occurrence of Hydromedusae in the Plankton Off Northumberland (Western Central North Sea) and the Role of Planktonic Predator. J. Mar. Biol. Assoc. United Kingdom 79, 979–992. https://doi.org/10.1017/S0025315499001216.
+Nilsen, F., Skogseth, R., Vaardal-Lunde, J., Inall, M., 2016. A simple shelf circulation model—intrusion of Atlantic Water on the West Spitsbergen Shelf. J. Phys. Oceanogr. 46, 1209–1230.
+Oksanen, J., Kindt, R., Legendre, P., O’Hara, B., Henry, M., Stevens, H., 2007, The vegan package. Community ecology package 10, 631–637.
+Oliveira, O.M.P., Miggotto, A.E., 2014. First occurrence of Beroe forskalii (Ctenophora) in South American Atlantic coastal waters, with notes on the use of macrociliary patterns for beroid identification. Zootaxa 3779, 440–476. https://doi.org/ 10.11646/zootaxa.3779.4.5.
+Pagès, F., González, H.E., Ramon, M., Sobarzo, M., Gili, J.-M., 2001. Gelatinous zooplankton assemblages associated with water masses in the Humboldt Current System, and potential predatory impact by Bassia bassensis (Siphonophora: Calycophorae). Mar. Ecol. Prog. Ser. 210, 13–24.
+Pagès, F., Kurbjeweit, F., 1994. Vertical distribution and abundance of mesoplanktonic medusae and siphonophores from the Weddell Sea, Antarctica. Polar Biol. 14, 243–251. https://doi.org/10.1007/BF00239172.
+Pagès, F., Schnack-Schiel, S.B., 1996. Distribution patterns of the mesozooplankton, principally siphonophores and medusae, in the vicinity of the Antarctic Slope Front (eastern Weddell Sea). J. Mar. Syst. 9, 231–248.
+Pagès, F., 1997. The gelatinous zooplankton in the pelagic system of the Southern Ocean: a review. Annales de l’Institut Océanographique Paris 73, 139–158.
+Pagès, F., Gili, J.-M., 1991. Vertical distribution of epipelagic siphonophores at the confluence between Benguela waters and the Angola Current over 48 hours. Hydrobiologia 216 (217), 355–362. https://doi.org/10.1007/BF00026486.
+Pagès, F., González, H.E., González, S.R., 1996. Diet of the gelatinous zooplankton in Hardangerfjord (Norway) and potential predatory impact by Aglantha digitale (Trachymedusae). Mar. Ecol. Prog. Ser. 139, 69–77.
+Pertsova, N.M., Kosobokova, K.N., Prudkovsky, A.A., 2006. Population size structure, spatial distribution, and life cycle of the hydromedusa Aglantha digitale (O.F. Müller, 1766) in the White Sea. Okeanologiya 46, 249–258. https://doi.org/10.1134/S0001437006020093.
+Podar, M., Haddock, S.H.D., Sogin, M.L., Harbison, G.R., 2001. A molecular phylogenetic framework for the phylum Ctenophora using 18S rRNA genes. Mol. Phylogenet. Evol. 21, 218–230. https://doi.org/10.1006/mpev.2001.1036.
+Polyakov, I.B., Pnyushkov, A.V., Alkire, M.B., Ashik, I.M., Baumann, T.M., Carmack, E.C., Goszczko, I., Guthrie, J., Ivanov, V.V., Kanzow, T., Krishfield, R., Kwok, R., Sundfjord, A., Morison, J., Rember, R., Yulin, A., 2017. Greater role for Atlantic inflows on sea-ice loss in the Eurasian Basin of the Arctic Ocean. Science 356, 285–291. https://doi.org/10.1126/science.aai8204.
+Pugh, P.R., 1974. The vertical distribution of the siphonophores collected during the SOND Cruise 1965. J. Mar. Biol. Assoc. United Kingdom 45, 25–90.
+Pugh, P.R., Pagès, F., Boorman, B., 1997. Vertical distribution and abundance of pelagic cnidarians in the Eastern Weddell Sea, Antarctica. J. Mar. Biol. Assoc. United Kingdom 77, 341–360. https://doi.org/10.1017/S002531540007171X.
+Pugh, P.R., Gasca, R., 2009. Siphonophorae (Cnidaria) of the Gulf of Mexico. In: Felder, D. L., Camp, D.K. (eds.), Gulf of Mexico–Origins, Waters, and Biota. Biodiversity. Texas AandM Press, College Station, Texas pp. 395–402.
+Purcell, J.E., 1982. Feeding and growth of the siphonophore Muggiaea atlantica (Cunningham 1893). J. Exp. Mar. Biol. Ecol. 62, 39–54. https://doi.org/10.1016/0022-0981(82)90215-5.
+Purcell, J.E., 1988. Quantification of Mnemiopsis leidyi (Ctenophora, Lobata) from formalin-preserved plankton samples. Mar. Ecol. Prog. Ser. 45, 197–200.
+Purcell, J.E., 1997. Pelagic cnidarians and ctenophores as predators: Selective predation, feeding rates and effects on prey populations. Annales de l’Institut Océanographique de Paris 73, 125–137.
+Purcell, J.E., Hopcroft, R.R., Kosobokova, K.N., Whitledge, T.E., 2010. Distribution, abundance and predation effects of epipelagic ctenophores and jellyfish in the western Arctic Ocean. Deep-Sea Res. Part II 57, 127–135. https://doi.org/10.1016/j.dsr2.2009.08.011.
+Purcell, J.E., Decker, M.B., Breitburg, D.L., Broughton, K.J., 2014. Fine-scale vertical distributions of Mnemiopsis leidyi ctenophores: predation on copepods relative to stratification and hypoxia. Mar. Ecol. Prog. Ser. 500, 103–120. https://doi.org/10.3354/meps10741.
+Raskoff, K.A., Purcell, J.E., Hopcroft, R.R., 2005. Gelatinous zooplankton of the Arctic Ocean: in situ observations under the ice. Polar Biol. 28, 207–217. https://doi.org/10.1007/s00300-004-0677-2.
+Raskoff, K.A., Hopcroft, R.R., Purcell, J.E., Youngbluth, M.J., 2010. Jellies under ice: ROV observations from the Arctic 2005 Hidden Ocean Expedition. Deep-Sea Research Part II 57, 111–126. https://doi.org/10.1016/j.dsr2.2009.08.010.
+R Core Team. R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. 2016 URL https://www.R-project.org/.
+Richardson, A.J., Bakun, A., Hays, G.C., Gibbons, M.J., 2009. The jellyfish joyride: causes, consequences and management responses to a more gelatinous future. Trends Ecol. Evol. 24, 312–322. https://doi.org/10.1016/j.tree.2009.01.010.
+Robison, B.H., 2004. Deep pelagic biology. J. Exp. Mar. Biol. Ecol. 300, 253–272. https://doi.org/10.1016/j.jembe.2004.01.012.
+Rodriguez, C.S., Marques, A.C., Mianzan, H.W., Tronolone, V.B., Migotto, A.E., Genzano, G.N., 2017. Environment and life cycles influence distribution patterns of hydromedusae in austral South America. Mar. Biol. Res. 13, 659–670. https://doi.org/10.1080/17451000.2017.1280170.
+Ronowicz, M., Kukliński, P., Mapstone, G.M., 2015. Trends in the diversity, distribution and life history strategy of Arctic Hydrozoa (Cnidaria). PLoS ONE 10, e0120204. https://doi.org/10.1371/journal. pone.0120204.
+Runge, J.A., Pepin, P., Silvert, W., 1987. Feeding behavior of the Atlantic mackerel Scomber scombrus on the hydromedusa Aglantha digitale. Mar. Biol. 94, 329–333. https://doi.org/10.1007/BF00428238.
+Russell, F.S., 1938. The Plymouth offshore medusa fauna. J. Mar. Biol. Assoc. United Kingdom 22, 769–809. https://doi.org/10.1017/S0025315400012339.
+Russel, F.S., 1953. The Medusae of the British Isles. Cambridge University Press, Cambridge.
+Sabatès, A., Gili, J.-M., Pagès, F., 1989. Relationship between zooplankton distribution, geographic characteristics and hydrographic patterns off the Catalan coast (Western Mediterranean). Mar. Biol. 103, 153–159.
+Saloranta, T.M., Haugan, P., 2004. Northward cooling and freshening of the warm core of the West Spitsbergen Current. Polar Res. 23, 79–88.
+Schuchert, P., 2007. The European athecate hydroids and their medusae (Hydrozoa,
+
+16
+
+[NOTE: no printed square brackets occur anywhere on this page, so every bracketed item above is a transcriber marker.]
+
+[NOTE: the page is entirely reference list, set in two columns. The Pagès, F., González, H.E., Ramon, M., Sobarzo, M., Gili, J.-M., 2001 entry runs from the foot of the left column ("... 2001. Gelatinous") into the head of the right column ("zooplankton assemblages ..."); it is joined into one line here. The final entry, Schuchert, P., 2007, breaks after "(Hydrozoa," and continues at the head of page 17.]
+
+[NOTE: this page's own inconsistencies, transcribed as printed and NOT corrected: "Kramp, 1961." carries no initials, unlike every other entry; "Kosobokova, K.N., Hirche, H.J." (2009, 2000) spells the initials without the hyphen used in "Hirche, H.-J." on page 15; "Nöthing, E.-M." in the Kraft entry; "Laakman, S." (one n); "Cyddipid ctenophores" and the title ending "is it only Mertensia ovum." with a full stop where a question mark is expected, in Majaneva & Majaneva 2013; "Mesozooplankton" capitalised mid-title in Kosobokova & Hopcroft 2010; "and wamr currents" in Morita et al. 2017; "Oksanen ... 2007, The vegan package" has a comma, not a full stop, after the year; "https://doi.org/ 10.11646/zootaxa.3779.4.5" in Oliveira & Miggotto has a space after "doi.org/" and is set in black rather than as a live link; "Polyakov, I.B." (I.V. elsewhere in the literature); "Texas AandM Press" for Texas A&M; "Pugh, P.R., Gasca, R., 2009 ... Texas pp. 395–402" has no comma before "pp."; "https://doi.org/10.1371/journal. pone.0120204" in Ronowicz et al. has a space after "journal."; the same author is spelled "Russell, F.S., 1938" and "Russel, F.S., 1953" in consecutive entries; "R Core Team." is unsorted-looking (falls between Raskoff and Richardson) and places its year mid-entry as "2016 URL"; "Rodriguez, C.S." is unaccented. Seventeen of the fifty-five complete entries on this page carry no DOI at all (the incomplete Schuchert entry cannot be counted); "R Core Team." is among them, giving a plain project URL instead.]
+
+[NOTE: many entries are set in blue (live hyperlinks to the reference), others in black; this colour distinction is not represented in the transcription.]
+
+<<<PAGE pdf=17 file=page_017.txt>>>
+[PAGE 17]
+
+[RUNNING HEAD] M.K. Mańko, et al.	Progress in Oceanography 189 (2020) 102414
+
+[NOTE: this page opens mid-entry. The first content line below is the tail of the entry begun at the foot of page 16, "Schuchert, P., 2007. The European athecate hydroids and their medusae (Hydrozoa,", which breaks across the page turn after the comma following "Hydrozoa,". Only the continuation is transcribed here; the head of the entry is in page_016.txt and is deliberately not repeated.]
+
+Cnidaria): Filifera part 2. Rev. Suisse Zool. 114, 195–396. https://doi.org/10.5962/bhl.part.80395.
+Schuchert, P., 2019. World Hydrozoa Database. Accessed through: World Register of Marine Species at: www.marinespecies.org on 2019-04-15.
+Smoot, C.A., Hopcroft, R.R., 2017. Cross-shelf gradients of epipelagic zooplankton communities of the Beaufort Sea and the influence of localized hydrographic features. J. Plankton Res. 39, 65–78. https://doi.org/10.1093/plankt/fbw080.
+Søreide, J.E., Leu, E., Berge, J., Graeve, M., Falk-Petersen, S., 2010. Timing in blooms, algal food quality and Calanus glacialis reproduction and growth in a changing Arctic. Glob. Change Biol. 16, 3154–3163. https://doi.org/10.1111/j.1365-2486.2010.02175.x.
+Stepanjants, S.D., 1967. Siphonophora in the seas of the USSR and the northern part of the Pacific. Leningrad: Nauka. (in Russian).
+Stepanjants, S.D., Cortese, G., Kruglikova, S.B., Bjørklund, K.R., 2006. A review of bipolarity concepts: History and examples from Radiolaria and Medusozoa (Cnidaria). Mar. Biol. Res. 2, 200–241. https://doi.org/10.1080/17451000600781767.
+Stine, R.A., 1995. Graphical interpretation of variance inflation factors. The American Statistician 4, 53–56.
+Svendsen, H., Beszczynska-Moller, A., Hagen, J.O., Lefauconnier, B., Tverberg, V., Gerland, S., Ørbøk, J.B., Bischof, K., Papucci, C., Zajaczkowski, M., Azzolini, R., Bruland, O., Wiencke, C., Winther, J.-G., Dallmann, W., 2002. The physical environment of Kongsfjorden-Krossfjorden, an Arctic fjord system in Svalbard. Polar Res. 21, 133–166.
+Swerpel, S., 1985. The Hornsund fiord: water masses. Polish Polar Res. 6, 475–496.
+Takahashi, D., Ikeda, T., 2006. Abundance, vertical distribution and life cycle patterns of the hydromedusa Aglantha digitale in the Oyashio region, western subarctic Pacific. Plankton Benthos Res. 1, 91–96. https://doi.org/10.3800/pbr.1.91.
+Tamm, S.L., Tamm, S., 1993. Diversity of macrociliary size, tooth patterns, and distribution in Beroe (Ctenophora). Zoomorphology 113, 79–89. https://doi.org/10.1007/bf00403086.
+Totton, A.K., 1965. A synopsis of the Siphonophora. Trustees of the British Museum (Natural History), London.
+Trudnowska, E., Gluchowska, M., Beszczyńska-Möller, A., Błachowiak-Samołyk, K., Kwaśniewski, S., 2016. Plankton patchiness in the Polar Front region of the West Spitsbergen Shelf. Mar. Ecol. Prog. Ser. 560, 1–18. https://doi.org/10.3354/meps11925.
+Tsuruta, A., 1963. Distribution of plankton and its characteristics in the oceanic fishing grounds with special reference to their relation to fishery. J. Shimonoseki College of Fisheries 12, 13–214.
+Tverberg, V., Nøst, O.A., Lydersen, C., Kovacs, K., 2014. Winter sea ice melting in the Atlantic Water subduction area, Svalbard Norway. J. Geophys. Res.—Oceans 119, 5945–5967.
+Vecchione, M., Falkenhaug, T., Sutton, T., Cook, A., Gislason, A., Hansen, H.Ø., Heino, M., Miller, P.I., Piatkowski, U., Porteiro, F., Søiland, H., Bergstad, O.A., 2015. The effect of the North Atlantic Subpolar Front as a boundary in pelagic biogeography decreases with increasing depth and organism size. Prog. Oceanogr. 138, 105–115. https://doi.org/10.1016/j.pocean.2015.08.006.
+Walczowski, W., Piechura, J., 2007. Pathways of the Greenland Sea warming. Geophys. Res. Lett. 34, L10608. https://doi.org/10.1029/2007gl029974.
+Walczowski, W., Piechura, J., Goszczko, I., Wieczorek, P., 2012. Changes of the Atlantic Water properties: an important factor of the European Arctic marine climate. ICES J. Mar. Sci. 69, 864–869.
+Wassmann, P., Duarte, C.M., Agusti, S., Sejr, M.K., 2011. Footprints of climate change in the Arctic marine ecosystem. Glob. Change Biol. 17, 1235–1249.
+Werner, B., 1961. Morphologie und Lebensgeschichte, sowie Temperaturabhängigkeit der Verbreitung und des jahreszeitlichen Auftretens von Bougainvillia superciliaris (L. Agassiz) (Athecatae-Anthomedusae). Helgoländer Meeresun. 7, 206–237 (in German).
+Weydmann, A., Carstensen, J., Goszczko, I., Dmoch, K., Olszewska, A., Kwaśniewski, S., 2014. Shift towards the dominance of boreal species in the Arctic: Inter-annual and spatial zooplankton variability in the West Spitsbergen Current. Mar. Ecol. Prog. Ser. 501, 41–52. https://doi.org/10.3354/meps10694.
+Weydmann, A., Walczowski, W., Carstensen, J., Kwaśniewski, S., 2018. Warming of Subarctic waters accelerates development of a key marine zooplankton Calanus finmarchicus. Glob. Change Biol. 24, 172–183. https://doi.org/10.1111/gcb.13864.
+Wickham, H., Averick, M., Bryan, J., Chang, W., D'Agostino, L., McGowan, F., Romain, F., Grolemund, G., Hayes, A., Henry, L., Hester, J., Kuhn, M., Pedersen, T.L., Miller, E., Bache, S.M., et al., 2019. Welcome to the tidyverse. Journal of Open Source Software 4, 1686. https://doi.org/10.21105/joss.01686.
+Wickström, S., Jonassen, M.O., Vihma, T., Uotila, P., 2019. Trends in cyclones in the high-latitude North Atlantic during 1979–2016. Quart. J. Roy. Meteorol. Soc. https://doi.org/10.1002/qj.3707.
+Williams, R., Conway, D.V.P., 1981. Vertical distribution and seasonal abundance of Aglantha digitale (O.F. Müller) (Coelenterata: Trachymedusae) and other planktonic coelenterates in the northeast Atlantic Ocean. J. Plankton Res. 3, 633–643. https://doi.org/10.1093/plankt/3.4.633.
+Wissmann, M., Toutenburg, H., Shalabh, S., 2007. Role of categorical variables in multicollinearity in the linear regression model. J. Appl. Statist. Sci. 19, 1–34.
+Youngbluth, M., Sornes, T., Hosia, A., Stemmann, L., 2008. Vertical distribution and relative abundance of gelatinous zooplankton, in situ observations near the Mid-Atlantic Ridge. Deep-Sea Res. Part II 55, 119–125. https://doi.org/10.1016/j.dsr2.2007.10.002.
+Zelickman, E.A., 1972. Distribution and ecology of the pelagic hydromedusae, siphonophores and ctenophores of the Barents Sea, based on perennial plankton collections. Mar. Biol. 17, 256–264. https://doi.org/10.1007/BF00366301.
+
+17
+
+[NOTE: 28 reference lines are transcribed above — one continuation line completing the Schuchert 2007 entry begun on page 16, followed by 27 complete entries that begin on this page (Schuchert 2019 through Zelickman 1972). Sixteen lines fall in the left column and twelve in the right. The Vecchione et al. 2015 entry spans the column break — it begins at the foot of the left column ("Vecchione, M., Falkenhaug, T., Sutton, T., Cook, A., Gislason, A., Hansen, H.Ø., Heino,") and resumes at the head of the right column ("M., Miller, P.I., ..."); it is joined into a single line here.]
+
+[NOTE: this is the last page of the article. The reference list simply stops with the Zelickman, E.A., 1972 entry. Nothing follows it — no supplementary-data note, no copyright or licence line, no colophon, no advertisement, no "Uncited references" block. The only other mark on the page is the centred folio "17" at the foot, transcribed above.]
+
+[NOTE: the reference list ends roughly half-way down the page. The left column's last line sits at about 50% of the page height and the right column's at about 49%. The entire lower half of the page — both columns, from below those last lines down to the folio — is blank white paper with no printed matter of any kind. It is blank, not untranscribed.]
+
+[NOTE: no printed square brackets occur anywhere on this page. Every square bracket in this file is a transcriber marker.]
+
+[NOTE: inconsistencies in the printed list, preserved above exactly as set and catalogued here rather than corrected —
+ (1) The same author is spelled two ways on this one page: "Beszczynska-Moller, A." with no diacritics in the Svendsen et al. 2002 entry, but "Beszczyńska-Möller, A." with both in the Trudnowska et al. 2016 entry.
+ (2) Several other names lack the diacritics they normally carry: "Gluchowska, M." (Trudnowska et al. 2016; normally Głuchowska), "Agusti, S." (Wassmann et al. 2011; normally Agustí), "Sornes, T." (Youngbluth et al. 2008; normally Sørnes). Each was checked on a magnified crop; the letters are plain in the print.
+ (3) Stine, R.A., 1995 gives the volume as "The American Statistician 4, 53–56." — a bare "4". Verified on a magnified crop.
+ (4) Tsuruta, A., 1963 gives the page range as "12, 13–214." Verified on a magnified crop.
+ (5) DOI suffix capitalisation varies: lowercase in "https://doi.org/10.1007/bf00403086" (Tamm & Tamm 1993) and "https://doi.org/10.1029/2007gl029974" (Walczowski & Piechura 2007), but uppercase in "https://doi.org/10.1007/BF00366301" (Zelickman 1972).
+ (6) Journal names are abbreviated inconsistently: "Journal of Open Source Software", "The American Statistician" and "J. Shimonoseki College of Fisheries" are set out in full or near-full, while most others are abbreviated; "Helgoländer Meeresun." is an unusual truncation.
+ (7) Wickström et al. 2019 carries a DOI but no volume or page numbers, only "Quart. J. Roy. Meteorol. Soc." followed directly by the URL.
+ (8) The Wickham et al. 2019 author list is truncated with "et al.," in the middle of the entry, after fifteen named authors — the only entry on the page to do so.
+ (9) "Swerpel, S., 1985. The Hornsund fiord: water masses." uses the spelling "fiord", while Svendsen et al. 2002 in the same column uses "fjord".
+ (10) Tverberg et al. 2014 sets the journal as "J. Geophys. Res.—Oceans", with an em dash (measurably longer than the en dashes used in the page ranges).
+ (11) Winther's initials are set with a hyphen, "Winther, J.-G.", within the Svendsen et al. 2002 author list.]
+
+[NOTE: the apostrophe in "D'Agostino, L." (Wickham et al. 2019) is set as a straight vertical apostrophe, not a curly right single quotation mark. Checked at high magnification; transcribed above as U+0027.]
+
+[NOTE: as on the preceding reference pages, many entries are printed in blue rather than black — these are the live hyperlinks in the born-digital PDF. On this page the blue entries are Stine 1995, Svendsen et al. 2002, Swerpel 1985, Tsuruta 1963, Tverberg et al. 2014, Walczowski et al. 2012, Wassmann et al. 2011, Werner 1961 and Wissmann et al. 2007, plus the DOI URLs within otherwise black entries. Colour carries no textual content and is not marked up above.]
+
+[NOTE: several DOI URLs are broken across printed lines with no hyphen (e.g. "https://doi.org/10.5962/" / "bhl.part.80395"; "https://doi.org/10." / "1007/bf00403086"; "https://doi." / "org/10.1002/qj.3707"). These are line-wrap breaks only and have been closed up into continuous URLs; no interior space is present in any DOI on this page.]
+
+[NOTE: hyphens at line ends have been resolved as follows — "bi-polarity" → "bipolarity", "com-munities" → "communities", "dis-tribution" → "distribution", "en-vironment" → "environment", "fin-marchicus" → "finmarchicus", "mul-ticollinearity" → "multicollinearity", "re-lative" → "relative", "siphono-phores" → "siphonophores". The hyphens in "high-latitude" (Wickström et al. 2019) and "Mid-Atlantic" (Youngbluth et al. 2008) fall at line ends but are genuine compound hyphens and have been kept.]

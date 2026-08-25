@@ -1,0 +1,77 @@
+[PAGE 2: unnumbered]
+
+[NOTE: plate-only page; the scan is a coarse bilevel (CCITT 1-bit) image, which
+destroys the fine engraved script of the draughtsman's and engraver's credit
+lines at the foot of the plate. Those are marked [illegible] below; the figure
+numerals were checked individually at 900 dpi.]
+
+[NOTE: a short horizontal rule is printed across the upper left of the sheet,
+above the running head.]
+
+[RUNNING HEAD] Voyage de l'Astrolabe. – ZOOLOGIE.
+
+[RUNNING HEAD] ZOOPHYTES. – Pl. 1.
+
+[PLATE]
+ZOOPHYTES. – Pl. 1.
+
+Engraved figure numbers, in reading order (top band, left to right and top to
+bottom):
+
+2
+3
+1
+[?9]
+5
+4
+6
+7
+8
+
+Middle band:
+
+10
+14
+16
+17
+11
+13
+12
+15
+18
+
+Lower band:
+
+19
+21
+20
+22
+23
+24
+
+[NOTE: a very small unnumbered drawn object stands below figure 11.]
+
+[?Quoy ad vivum.] [NOTE: draughtsman's credit in engraved script at lower left of
+the plate. On this page the bilevel scan has broken up every letter and it is not
+readable even at 900 dpi; three word-shapes of the right lengths. The
+corresponding line on the next plate (Pl. 2, PDF p. 3) is legible enough to read
+"Quoy ad vivum f." and the shapes here match it minus the final "f."]
+
+[?Danvin sc.] [NOTE: engraver's credit in engraved script at lower right. Only
+"sc." is legible here; the name is inferred from the same line on Pl. 2, where a
+script capital D and about six letters can be made out]
+
+1	9	Physsophore blanche.	}	N.
+10	18	Physsophore intermédiaire.	}	N.
+[NOTE: the two lines above are joined by a single large brace at the right,
+followed by one italic "N." serving both lines]
+
+19	21	Physsophore australe.	}	N.
+22	24	Physsophore discoïde.	}	N.
+[NOTE: as above — one brace and one italic "N." serve both lines of this second
+group. The "N." of the right-hand group is very faint.]
+
+[?J. Tastu édit.] [NOTE: publisher's credit in minute type at the lower left
+corner of the sheet, below the legend; "Tastu" is fairly clear, the surrounding
+abbreviations are not]
+[/PLATE]

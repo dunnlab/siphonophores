@@ -1,0 +1,39 @@
+[PAGE 17]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+[FIGURE]
+0
+250
+Aug
+Nov
+count
+16000
+Depth (m)
+12000
+8000
+500
+4000
+750
+1000
+Jan	Feb	Mar	Apr	May	Jun	Jul	Aug	Sep	Oct	Nov	Dec
+FIGURE 13
+Depth distribution and seasonality of Nanomia septata sp. n. off the California coast based on 287 000 ROV annotations.
+[/FIGURE]
+
+Nanomia septata sp. n. has likely been mistakenly identified as both N. cara and N. bijuga in several publications from the North Pacific. This is definitely the case for the publications from which the sequences used in this study stem (Supplementary Table S1), as well as other studies that have used these specific sequences as N. bijuga. In particular, N. bijuga from the US west coast – here considered N. septata – has been used as a model organism in several evo-devo and other studies (e.g. Spencer, 1971; Siebert et al., 2011; Church et al., 2015; Siebert et al., 2015; Sutherland et al., 2019; Norekian and Meech, 2020). Where genetic data or suitable tissue is available, the identity of the Nanomia species in such papers can be checked by comparing with the COI and 16S sequences from the present study. It should be noted that N. septata sp. n. appears to occur in close proximity to several other species of Nanomia —with N. bijuga towards its southern range along the North American coast, with N. bijuga and the undescribed sp.1 in Japan, and with undescribed sp.2 also observed in the north-west Pacific—necessitating care when identifying specimens morphologically.
+
+One of the characters separating the Nanomia species is the presence and appearance of a proximal lipid droplet on the palpons (Table 1). Nanomia cara typically display prominent external droplets (Figure 7), while the N. bijuga proper do not have such lipid droplets (Figure 6). The hitherto unresolved taxonomy has caused confusion also in this matter. Church et al. (2015) questioned the validity of this character in separating N. cara and “N. bijuga” (in fact N. septata) and reported on a large, proximal lipid droplet creating a pronounced protrusion on the palpons of N. septata (as “N. bijuga”) in their histological study (see Figure 4 in
+
+Church et al., 2015). However, according to our observations, the lipid droplets in N. septata remain largely internal to the palpons (Figure 12), resulting in a slight protrusion in the proximal end of the palpon but never forming a conspicuous external body as in N. cara (Figure 7).
+
+The complex history and widespread distribution of Nanomia siphonophores renders any systematic treatment difficult. The generic name Nanomia was introduced by Agassiz, 1865 for N. cara collected off Massachusetts. The name, however, is actually preceded by both Cupulita Quoy and Gaimard, 1824 and Agalmopsis Sars, 1846, with Cupulita having priority. To add to the confusion, the description of Agalmopsis elegans Sars, 1846 was based on specimens of two species, currently known as N. cara and Agalma elegans (Sars, 1846). This would imply that not only the name Nanomia should be replaced with Cupulita, but also that the specific name cara should be suppressed by elegans (currently in use for another species in the same family: A. elegans). However, both N. cara and N. bijuga meet requirements of the International Code of Zoological Nomenclature article 23.9. on reversal of precedence, thus allowing us to retain them.
+
+The Pacific Nanomia species, which we describe here under the name N. septata sp. n., has been reported earlier as N. cara (e.g., Mackie, 1964), N. bijuga (e.g., Church et al., 2015) or simply as Nanomia (e.g., Mackie, 2002). To the best of our knowledge, the only Nanomia-like siphonophores with a type locality in the Pacific Ocean are Cupulita boodwich Quoy and Gaimard, 1824 and Anthemodes moseri Agassiz and Mayer, 1902 [currently synonymized with N. bijuga (Delle Chiaje, 1844)]. The former was collected from Port
+
+Frontiers in Marine Science	17	frontiersin.org
+
+[NOTE: Figure 13 fills the upper half of the page in a boxed panel; below it the page is two columns, transcribed left column then right column. The right column ends mid-sentence at "collected from Port".
+
+Inside the [FIGURE] block only text physically printed in the panel is given; the graphic is not described. Figure 13 is a single heat-map panel. Its printed text is the y-axis tick labels 0, 250, 500, 750 and 1000 down the left side, the rotated y-axis title "Depth (m)" beside them (printed reading bottom-to-top), two labels "Aug" and "Nov" set in white inside dark cells of the map, a legend at the right headed "count" with the tick labels 16000, 12000, 8000 and 4000 beside a graded bar, and the twelve month abbreviations Jan to Dec along the foot, given here on one line separated by tabs. The items are listed in approximate top-to-bottom order, so the rotated axis title and the legend entries interleave with the axis tick labels; no branch or cell association is implied.
+
+Presentation ligatures (fi, fl) are transcribed as the ordinary two-letter sequences. The dashes are as printed: en dashes with spaces in "west coast – here considered N. septata – has been used", and em dashes in "of Nanomia —with" (with a space before the em dash) and in "north-west Pacific—necessitating" (no spaces). The quotation marks around "N. bijuga" are printed as curly double quotation marks. "article 23.9. on reversal of precedence" is printed with a full point after "23.9". Running head and running foot elements are separated by tabs.]

@@ -1,0 +1,73 @@
+[PAGE 4: unnumbered]
+
+[NOTE: plate-only page; coarse bilevel (1-bit) CCITT scan at about 300 dpi, which
+is the native resolution of the source image, so the smallest engraved lettering
+(figure numerals and the locality parentheticals of the legend) cannot be
+resolved further by magnification.]
+
+[RUNNING HEAD] Voyage de l'Astrolabe. – ZOOLOGIE.
+
+[RUNNING HEAD] ZOOPHYTES – Pl. 3.
+
+[PLATE]
+ZOOPHYTES – Pl. 3.
+
+Engraved figure numbers, in reading order (top band left to right, then
+successive bands):
+
+1
+3
+2
+5
+7
+4
+6
+13
+[?9]
+8
+10
+16
+11
+14
+17
+12
+15
+19
+21
+20
+18
+23
+22
+
+[NOTE: the numeral read [?9] is a single ink blob about six pixels across,
+labelling the star-shaped figure in the middle band left of centre; its identity
+is inferred only from its position between 8 and 10 and from the legend's range
+8–12. Every numeral from 1 to 23 is accounted for on the sheet, which matches the
+five legend ranges (1–7, 8–12, 13–15, 16–18, 19–23).]
+
+[?A. G. Pretre pinx.] [NOTE: draughtsman's credit in fine engraved script at
+lower left. Only the terminal "pinx." is reasonably clear; two initials precede a
+name of about six letters beginning with a script capital P.]
+
+[?Fournier sc.] [NOTE: engraver's credit in engraved script at lower right; the
+terminal "sc." is clear, the name is about eight letters and is not resolvable
+letter by letter.]
+
+1	7	Stéphanomie triangulaire.	(I. du Cap Vert)
+8	12	Stéphanomie foliacée.	[illegible]
+13	15	Stéphanomie imbriquée.	[illegible]
+16	18	Stéphanomie heptacanthe.	[illegible]
+19	23	Stéphanomie ruche.	[?Iles du Cap Vert]
+
+[NOTE: the legend is set in two columns of two lines each (1–7 and 8–12 at left,
+13–15 and 16–18 at right) with the fifth line, 19–23, centred beneath them; it is
+transcribed above in numerical order. The locality parentheticals are in a
+minuscule small-capital fount; the one after "triangulaire" reads I. du Cap Vert,
+the one after "ruche" has the same word-shapes as Iles du Cap Vert, and the other
+three are solid runs of merged ink in which no individual letter can be made out.
+The second of them retains a visible hyphen and an accented capital, consistent
+with a hyphenated two-word name, but it is not readable.]
+
+[?J. Tastu édit.] [NOTE: minute type at the lower left corner of the sheet,
+below the legend]
+[/PLATE]

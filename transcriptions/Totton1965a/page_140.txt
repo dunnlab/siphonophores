@@ -1,0 +1,72 @@
+[PAGE 135]
+
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 10 PRAYIDAE	135
+
+Nectopyramis thetis Bigelow, 1911
+Text-figures 76, 77
+
+Polygastric phase
+
+Nectophore (text-fig. 76):   The face opposite to the hydroecium, which may be called the dorsal face, is triangular, as may be seen in Bigelow & Sears, (1937) figure 2. But as shown in my figure 37B (Totton, 1954) this face can be seen to curve over below the level of the lateral angles into the face surrounding the nectosac. The deep hydroecium extends for the whole length of the nectophore. The upper median branch of the somatocyst or pallial canal extends up nearly to the apical angle, and the descending branch extends beyond the nectosac. Just below the level of the 'central organ' at the deepest part of the hydroecium a pair of hydroecial canals is given off to right and left. Near the origin of each arises a right and left dorsal canal running out to the prominent dorso-lateral angles. The four radial canals of the nectosac arise separately from one another.
+
+[FIGURE]
+C4
+A
+C3
+O.c
+C.br.s.
+Gz
+N.spec
+C.long.
+
+B
+C3
+Go
+C.br.s.
+C.lat.
+C4
+O.c
+Gz
+C.lat.1
+C.ped
+C.long.
+N.spec.
+
+C3
+O.c
+C
+C4
+Gz
+C.br.s.
+C.lat.1
+N.spec.
+C.long.
+2.mm.	1	0
+
+FIG. 77.   Nectopyramis thetis Bigelow. Eudoxid phase from Scotia St. 363
+A, fore-shortened view from the dorsal end; B, lateral view; C, ventral view, × 5.5 (for abbreviations see text-fig. 76)
+(from Totton, 1954, fig. 36)
+[/FIGURE]
+
+Eudoxid phase
+
+(Text-fig. 77.)   This also has two lateral, angular prominences and an apical angle. There is a very prominent 'central organ', which probably represents the remains of the piece of stem cut off when the eudoxid separated. At any rate I have ascertained that this is the origin of the central organ in Rosacea plicata. The canal system follows the usual prayine pattern, and consists of a dorsal canal C3, with a short branch to the surface, a pair of hydroecial canals, from each of which arises a lateral canal passing to the lateral angles, and on the opposite side a ventral canal C4. The four radial canals of the asexual swimming bell arise separately from the pedicular canal, which continues a little way beyond the nectosac.
+
+Nectopyramis natans (Bigelow, 1911)
+Plate XXVII, figure 4
+
+Archisoma natans Bigelow, 1911b
+
+Polygastric phase
+
+Nectophore (text-fig. 78):   Only once recorded (Totton, 1954) the nectophore in general plan is not unlike those of species of Rosacea. But it is long-bow shaped, the hydroecium running the whole 2 cm of its length. It is pointed above, and truncated below. On the dorsal surface are three longitudinal ridges extending from the apex to the nectosac, which lies about a quarter of the total length above the truncate end. There is also a pair of lateral ridges extending the whole length. The simple
+
+[NOTE: text-fig. 77 stands between the "Polygastric phase" and "Eudoxid phase" sections and consists of three drawings side by side, A, B and C from left to right. Inside [FIGURE] the lettering of each drawing is listed in its own reading order down the drawing, A first, then B, then C, the three lists separated by blank lines, and the printed caption last. Drawing C carries a vertical scale bar lettered "2.mm." at the top, "1" at the middle tick and "0" at the foot; those three are given on one line separated by tabs.]
+
+[NOTE: superscripts: the "4" of "C4" and the "3" of "C3" wherever they are lettered on the three drawings, the "1" of "C.lat.1" on drawings B and C, and the "3" of "C3" and "4" of "C4" in the "Eudoxid phase" paragraph, are all printed as superscript numerals.]
+
+[NOTE: the drawn lettering is inconsistent between the three drawings and is transcribed as printed: drawing A letters the special nectophore "N.spec" without a final stop, drawings B and C "N.spec."; drawing B letters the gonophore "Go". "C.br.s." and "C.lat." carry final stops on the drawings where the key of text-fig. 76 gives them without. The scale-bar legend is printed "2.mm." — figure 2, full point, "mm", full point — verified at 10x.]
+
+[NOTE: numerals verified digit by digit: 1911 (heading), Text-figures 76, 77; text-fig. 76; Bigelow & Sears, (1937) figure 2 — the comma before the parenthesis is as printed; figure 37B; Totton, 1954; FIG. 77, Scotia St. 363, × 5.5, text-fig. 76, Totton, 1954, fig. 36; Text-fig. 77; 1911, Plate XXVII, figure 4; 1911b; text-fig. 78; 2 cm. The magnification "× 5.5" uses a low, on-baseline decimal point.]
+
+[NOTE: no printed square brackets occur on this page.]

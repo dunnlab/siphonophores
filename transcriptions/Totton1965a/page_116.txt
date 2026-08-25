@@ -1,0 +1,58 @@
+[PAGE 111]
+
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 10 PRAYIDAE
+
+acaule, Praya dubia, Rosacea plicata, Rosacea cymbiformis, Nectopyramis thetis and Nectopyramis diomedeae. The arrangement of species within the three sub-families is as follows:
+
+[TABLE]
+	Page
+1.	Sub-family i: Amphicaryoninae Chun, 1888	111
+	Genus Amphicaryon Chun, 1888	111
+	A. acaule Chun, 1888	112
+	A. peltifera (Haeckel, 1888)	112
+	A. ernesti Totton, 1954	113
+	Genus Maresearsia Totton, 1954	113
+	M. praeclara Totton, 1954	113
+
+2.	Sub-family ii: Prayinae Haeckel, 1888	114
+	i.	Genus Rosacea Quoy & Gaimard, 1827 (sensu Bigelow, 1911); Bigelow & Sears, 1937	115
+		R. plicata Quoy & Gaimard, 1827 (sensu Bigelow, 1911); Bigelow & Sears, 1937	116
+		R. cymbiformis (Chiaje, 1822)	118
+	ii.	Genus Praya Blainville, 1834	121
+		P. dubia (Quoy & Gaimard, 1833)	122
+		P. reticulata (Bigelow, 1911)	123
+		Genus Prayoides Leloup, 1934	124
+		P. intermedia Leloup, 1934	125
+	iii.	Genus Stephanophyes Chun, 1888	129
+		S. superba Chun, 1888	129
+	iv.	Genus Lilyopsis Chun, 1885	126
+		L. rosea Chun, 1885	126
+		L. gracilis (Fewkes, 1883)	127
+	v.	Genus Desmophyes Haeckel, 1888	127
+		D. annectens Haeckel, 1888	128
+
+3.	Sub-family iii: Nectopyramidinae Bigelow, 1911	130
+	Genus Nectopyramis Bigelow, 1911	130
+	N. thetis Bigelow, 1911	135
+	N. natans (Bigelow, 1911)	135
+	N. diomedeae Bigelow, 1911	131
+	N. spinosa Sears, 1952	137
+[/TABLE]
+
+Sub-family i: AMPHICARYONINAE Chun, 1888
+
+A characteristic feature of the eudoxid stage, in those species in which it is known, is the reduction of the bracteal canal-system to a pair of lateral hydroecial canals, the dorsal and ventral branches being absent. This reduction may be correlated with the reduction in mass of the bracts.
+
+The larval nectophore appears to be retained, and the first heteromorph one is reduced or vestigeal.
+
+Genus: AMPHICARYON Chun, 1888
+
+Type species: A. acaule Chun, 1888.
+
+The name Mitrophyes Haeckel (May, 1888a) has a few months priority over Amphicaryon Chun (November, 1888), but Amphicaryon should be entered on the list of nomina conservanda.
+
+Bigelow (1911b) defined the genus as 'Prayidae with two nectophores of very unequal size, the older one degenerating', but I believe that it is the younger of the two which is vestigeal. Bigelow said that as far as he knew Amphicaryon had not been recorded between 1888 and 1911, the date of publication of his 'Albatross' report. He included Mitrophyes peltifera as a doubtful synonym A. acaule.
+
+There are three known species.
+
+[NOTE: the contents list on this page is set with leader dots between each entry and its page number; the leaders are omitted here and columns separated by tabs. The "Page" heading above the number column is printed in italic. The indentation levels of the original list (sub-family / genus / species) are approximated by tabs.]

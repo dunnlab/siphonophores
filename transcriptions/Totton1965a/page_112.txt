@@ -1,0 +1,60 @@
+[PAGE 107]
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 9 FORSKALIIDAE	107
+
+The larger, oval, male gonophores are borne on a smaller extension of the base of another palpon. The two palpons whose bases give rise to the bunches of gonophores were found in my specimen to be almost opposite one another, some 2 mm from the stem, and to bear no palpacle. It is possible that the palpon carrying the male gonophores is in origin distal to the other palpon carrying the female gonophores. In that case the gonodendra of the two species would be essentially comparable in spite of the impression given by a first inspection.
+
+Milne Edwards (1841) figured this unique type of gonodendron in his plate 7, figure 1 (nat. size) and plate 9, figure 1 (twice nat. size). In both figures the globular bunches of female gonophores can be seen at the ends of bifurcated peduncles. The position of the bunches of male gonophores, however, is not so clearly indicated. Milne Edwards used the same term 'prolongements flabellaires' for both the peduncles of the bunches of female gonophores and for the palpacles of the palpons.
+
+The palpons themselves are vermiform and very active. They measure from 3–5 mm in length – perhaps ten times as much when fully extended. The terminal part of the lumen of a palpon contains a red liquid which is readily freed on disturbance and then colours the surrounding water blood-red. The nematocysts of the palpacles are arranged in numerous groups of 4–5. They are rounded and measure 0·005 mm in diameter.
+
+The canal system of the male gonophores consists of the usual four radials and a circular canal. The female ones frequently have four also, but just as frequently they are atrophied, branched or reticular. One, observed by Leuckart, had six radial canals, and one eight. He noticed pulsation only at the ostial ends of the gonophores, and doubted if they broke away to swim freely.
+
+[FIGURE]
+s
+B
+fl
+fl
+5 mm
+fl
+A
+2mm
+D
+E
+c.br
+s
+1mm
+C
+gz
+
+FIG. 59.   Forskalia leuckarti Bedot
+Bracts of Villefranche specimen 581. A, B, C, views from above; D, E, lateral views. A, B, D, E
+× 5; C, × 11
+c.br = bracteal canal; fl = flange; gz = gastrozooid; s = stem.
+[/FIGURE]
+
+The Villefranche specimen
+My observations on this specimen are as follows: The overall length of the retracted specimen is now 11 cm, and the diameter (maximum) of the upper spire of bracts 2·1 cm. The length of the nectosome is 3·4 cm, excluding the overlap of the upper part of the siphosome by the distal ends of the lower nectophores.
+
+The nectophores are arranged in a right-hand spiral of seven turns, each consisting of six or seven nectophores, whose maximum width at the ostium is 1·2 cm, and maximum depth 0·5 cm (see text-
+
+[NOTE: printed folio 107 at the outer (right) edge of the running head; PDF index 112, offset −5 holds. Single column; no footnote, no table, no signature mark. The page breaks off mid-word at "(see text-", continuing on the next page.
+
+No printed square brackets occur on this page; every bracket here is round, including "(nat. size)", "(twice nat. size)" and "(maximum)".
+
+MARK ON THE PRINTED PAGE: in the second line of the caption a fine, straight, horizontal stroke is drawn through the words "D, E," — beginning just left of the D and ending just past the second comma, at mid-letter height. Examined at 9x it is a uniform ruled line about one pixel-row thick at 300 dpi, sitting on top of the type rather than in it, and it does not extend to the neighbouring words; it reads as a deletion mark made on this copy, not as printed matter and not as any rule the compositor would set. The letters beneath remain fully legible and are transcribed as printed, "D, E,", without any attempt to act on the deletion. Compare the printed page's own "D, E" two words later, which is unmarked.
+
+Layout: the upper half of the page is four paragraphs of body text; then text-fig. 59 fills the middle, five grouped line drawings across the measure (A and C at the left with B above them, D in the centre, E at the right) together with three scale bars — one horizontal beneath B, one vertical between the left and centre groups, one horizontal beneath D. The caption follows, centred, in four lines of smaller type, its third line ("× 5; C, × 11") centred on its own. After a deep blank band of about two lines comes the italic side-heading "The Villefranche specimen", flush left and on its own line, and two further paragraphs. About a fifteenth of the page is blank at the foot.
+
+The items inside [FIGURE] before the caption are exactly the labels printed within the drawings and nothing else — the illustrations are deliberately not described. In reading order, top to bottom and left to right: "s" (upper right), the panel letter "B", "fl" (left), "fl" (right of B), "5 mm" (below the upper horizontal scale bar), "fl" (in the centre drawing), the panel letter "A", "2mm" (beside the vertical scale bar, printed rotated 90° so that it reads up the bar), the panel letters "D" and "E", "c.br" (left), "s" (right), "1mm" (below the lower horizontal scale bar), the panel letter "C", and "gz" (lower right). All are upright sans-serif, the panel letters capital and the leader labels lower case, most joined to the structure by a fine ruled line. Checked at 6x-9x. Total lettering: 5 panel letters (A, B, C, D, E), 3 scale legends, "fl" three times, "s" twice, and one each of "c.br" and "gz".
+
+The three scale legends are not spaced alike, and are transcribed as they read: "5 mm" with a clear space between figure and unit; "1mm" with none; and the rotated "2mm" with at most a hair space, which at 6x is narrower than the gap between its two m's — I read it as unspaced, but a reader wanting "2 mm" would not be contradicted by the image.
+
+Caption detail: "FIG." small capitals, old-style 59, full point, wide gap, italic "Forskalia leuckarti", roman "Bedot". The specimen is "Villefranche specimen 581" with no "No.", as in text-fig. 58. Both magnifications use a saltire multiplication cross, and the second line of views runs over so that "A, B, D, E" ends one line and "× 5; C, × 11" begins the next; the break is kept here because the third line is separately centred. In the key the abbreviations are italic and the explanations roman; "gz" is italic with a swash-tailed z.
+
+Type in the body: "The Villefranche specimen" is an italic side-heading standing on its own line. Italic elsewhere: "see" at the very end of the page. Single curly quotes round the French 'prolongements flabellaires', which is set roman. "palpacle" and "palpacles" are spelt so, as on pp. 101, 106.
+
+Punctuation: "from 3–5 mm in length – perhaps ten times as much" has a closed en-dash in the range and a spaced en-dash for the parenthetic remark, in the same line.
+
+Numerals verified digit by digit: 107; 2 mm; 1841, plate 7, figure 1, plate 9, figure 1; 3–5 mm, 4–5, 0·005 mm; FIG. 59, 581, × 5, × 11, 5 mm, 2mm, 1mm; 11 cm, 2·1 cm, 3·4 cm; 1·2 cm, 0·5 cm. Decimal points are raised middle dots and the zeros old-style, so "0·005" and "0·5" resemble "o·oo5" and "o·5"; "11" is two old-style ones. Ranges "3–5" and "4–5" use en-dashes.
+
+Stray marks, all scanning blemishes, distinct from the deletion stroke described above: a speck in the right margin level with "female gonophores" in the first paragraph, a speck below the upper scale bar to the right of "5 mm", a speck in the right margin level with the caption's third line, a speck in the far right margin level with drawing E, a speck low in the left margin below the last text line, and two specks in the blank band at the foot. None is printed matter.]

@@ -1,0 +1,1093 @@
+<<<PAGE pdf=1 file=page_001.txt>>>
+[PAGE 1: unnumbered]
+
+[NOTE: engraved title page of the atlas; all lettering is engraved, the two
+principal lines in shaded ornamental capitals. Page is heavily foxed.]
+
+[HANDWRITTEN] [illegible] [NOTE: a line of pencil/ink handwriting across the top
+edge, trimmed away by the binder — only the bottoms of the letters survive]
+
+[HANDWRITTEN] Rich [NOTE: upper right corner, pencil]
+
+VOYAGE
+
+DE LA CORVETTE
+
+L'ASTROLABE
+
+exécuté
+
+PENDANT LES ANNÉES 1826 – 1827 – 1828 – 1829
+
+sous le commandement
+
+DE
+
+M. JULES DUMONT D'URVILLE
+
+Capitaine de Vaisseau.
+
+ATLAS.
+
+[HANDWRITTEN] I / 235 [NOTE: written as a fraction, right margin beside
+"PENDANT LES ANNÉES"; roman I over 235]
+
+[FIGURE]
+[no caption; engraved oval vignette of a shore scene — a corvette and boats in a
+bay, a party of men drawn up on the beach, a chapel or tower and trees at right,
+mountains behind]
+[/FIGURE]
+
+Paris
+
+[NOTE: "Paris" is in ornamental engraved script within a calligraphic flourish]
+
+Publié par J. TASTU, Editeur.
+
+MDCCCXXXIII .
+
+[?L'écriture gravée sur acier par Hacq] [NOTE: engraver's credit line in minute
+type below the imprint; the scan of this page is low resolution (native image
+1266 × 1882 px) and this line is at the limit of legibility — word shapes fit
+the reading given but individual letters cannot be resolved]
+
+[HANDWRITTEN] N.º 4590 [NOTE: lower left, ink]
+
+[STAMP] UNIVERSIDAD CENTRAL · MUSEO DE CIENCIAS NATURALES · BIBLIOTECA J. B.
+[NOTE: violet oval library stamp at right, below "ATLAS."; impressed upside down
+(rotated 180°) relative to the page]
+
+<<<PAGE pdf=2 file=page_002.txt>>>
+[PAGE 2: unnumbered]
+
+[NOTE: plate-only page; the scan is a coarse bilevel (CCITT 1-bit) image, which
+destroys the fine engraved script of the draughtsman's and engraver's credit
+lines at the foot of the plate. Those are marked [illegible] below; the figure
+numerals were checked individually at 900 dpi.]
+
+[NOTE: a short horizontal rule is printed across the upper left of the sheet,
+above the running head.]
+
+[RUNNING HEAD] Voyage de l'Astrolabe. – ZOOLOGIE.
+
+[RUNNING HEAD] ZOOPHYTES. – Pl. 1.
+
+[PLATE]
+ZOOPHYTES. – Pl. 1.
+
+Engraved figure numbers, in reading order (top band, left to right and top to
+bottom):
+
+2
+3
+1
+[?9]
+5
+4
+6
+7
+8
+
+Middle band:
+
+10
+14
+16
+17
+11
+13
+12
+15
+18
+
+Lower band:
+
+19
+21
+20
+22
+23
+24
+
+[NOTE: a very small unnumbered drawn object stands below figure 11.]
+
+[?Quoy ad vivum.] [NOTE: draughtsman's credit in engraved script at lower left of
+the plate. On this page the bilevel scan has broken up every letter and it is not
+readable even at 900 dpi; three word-shapes of the right lengths. The
+corresponding line on the next plate (Pl. 2, PDF p. 3) is legible enough to read
+"Quoy ad vivum f." and the shapes here match it minus the final "f."]
+
+[?Danvin sc.] [NOTE: engraver's credit in engraved script at lower right. Only
+"sc." is legible here; the name is inferred from the same line on Pl. 2, where a
+script capital D and about six letters can be made out]
+
+1	9	Physsophore blanche.	}	N.
+10	18	Physsophore intermédiaire.	}	N.
+[NOTE: the two lines above are joined by a single large brace at the right,
+followed by one italic "N." serving both lines]
+
+19	21	Physsophore australe.	}	N.
+22	24	Physsophore discoïde.	}	N.
+[NOTE: as above — one brace and one italic "N." serve both lines of this second
+group. The "N." of the right-hand group is very faint.]
+
+[?J. Tastu édit.] [NOTE: publisher's credit in minute type at the lower left
+corner of the sheet, below the legend; "Tastu" is fairly clear, the surrounding
+abbreviations are not]
+[/PLATE]
+
+<<<PAGE pdf=3 file=page_003.txt>>>
+[PAGE 3: unnumbered]
+
+[NOTE: plate-only page; coarse bilevel (1-bit) scan, so the smallest engraved
+lettering is at the edge of legibility. Figure numerals were checked one by one
+at 800 dpi.]
+
+[RUNNING HEAD] Voyage de l'Astrolabe. – ZOOLOGIE.
+
+[RUNNING HEAD] ZOOPHYTES. – Pl. 2.
+
+[PLATE]
+ZOOPHYTES. – Pl. 2.
+
+Engraved figure numbers, in reading order:
+
+1
+[?5]
+4
+2
+[?3]
+11
+9
+8
+12
+7
+10
+15
+23
+22
+17
+18
+24
+25
+19
+13
+14
+16
+20
+21
+26
+
+[NOTE: the two numerals given as [?5] and [?3] are single digits about ten pixels
+across in the source scan. [?5] labels the small dark object in the upper middle
+of the plate, [?3] the crescent-shaped body below and right of it. Each could be
+read 3, 5 or 6.]
+
+[NOTE: the figure at the far left of the top band — a stem bearing two coiled,
+banded organs — carries no engraved numeral, although the legend below covers
+figures 1–6. No numeral 6 appears anywhere on the plate.]
+
+[?Quoy ad vivum f.] [NOTE: draughtsman's credit in engraved script at lower left;
+four word-shapes, letters not individually resolvable but the formula is clear]
+
+[?Danvin sc.] [NOTE: engraver's credit in engraved script at lower right; "sc."
+is legible, the name is a script capital (D or P) plus about five letters]
+
+1	6	Stéphanomie helianthe	}	N.
+7	12	Stephanomie mélon	}	N.
+[NOTE: brace-grouped — one large brace to the right of the two lines, with a
+single italic "N." serving both. Printed as shown: "helianthe" without an accent,
+"Stephanomie" without an accent in the second line, and no full stop after
+"mélon".]
+
+13	21	Stéphanomie hippopode .
+[NOTE: this line stands alone between the two braced groups, with no brace and no
+"N."]
+
+22	25	Stéphanomie à vrilles.	}	N.
+26		Stéphanomie en toit .	}	N.
+[NOTE: brace-grouped as above — one brace and one italic "N." for both lines.
+The second line has a single figure number, 26, in the first column only.]
+
+[?J. Tastu édit.] [NOTE: minute type at the lower left corner of the sheet]
+[/PLATE]
+
+<<<PAGE pdf=4 file=page_004.txt>>>
+[PAGE 4: unnumbered]
+
+[NOTE: plate-only page; coarse bilevel (1-bit) CCITT scan at about 300 dpi, which
+is the native resolution of the source image, so the smallest engraved lettering
+(figure numerals and the locality parentheticals of the legend) cannot be
+resolved further by magnification.]
+
+[RUNNING HEAD] Voyage de l'Astrolabe. – ZOOLOGIE.
+
+[RUNNING HEAD] ZOOPHYTES – Pl. 3.
+
+[PLATE]
+ZOOPHYTES – Pl. 3.
+
+Engraved figure numbers, in reading order (top band left to right, then
+successive bands):
+
+1
+3
+2
+5
+7
+4
+6
+13
+[?9]
+8
+10
+16
+11
+14
+17
+12
+15
+19
+21
+20
+18
+23
+22
+
+[NOTE: the numeral read [?9] is a single ink blob about six pixels across,
+labelling the star-shaped figure in the middle band left of centre; its identity
+is inferred only from its position between 8 and 10 and from the legend's range
+8–12. Every numeral from 1 to 23 is accounted for on the sheet, which matches the
+five legend ranges (1–7, 8–12, 13–15, 16–18, 19–23).]
+
+[?A. G. Pretre pinx.] [NOTE: draughtsman's credit in fine engraved script at
+lower left. Only the terminal "pinx." is reasonably clear; two initials precede a
+name of about six letters beginning with a script capital P.]
+
+[?Fournier sc.] [NOTE: engraver's credit in engraved script at lower right; the
+terminal "sc." is clear, the name is about eight letters and is not resolvable
+letter by letter.]
+
+1	7	Stéphanomie triangulaire.	(I. du Cap Vert)
+8	12	Stéphanomie foliacée.	[illegible]
+13	15	Stéphanomie imbriquée.	[illegible]
+16	18	Stéphanomie heptacanthe.	[illegible]
+19	23	Stéphanomie ruche.	[?Iles du Cap Vert]
+
+[NOTE: the legend is set in two columns of two lines each (1–7 and 8–12 at left,
+13–15 and 16–18 at right) with the fifth line, 19–23, centred beneath them; it is
+transcribed above in numerical order. The locality parentheticals are in a
+minuscule small-capital fount; the one after "triangulaire" reads I. du Cap Vert,
+the one after "ruche" has the same word-shapes as Iles du Cap Vert, and the other
+three are solid runs of merged ink in which no individual letter can be made out.
+The second of them retains a visible hyphen and an accented capital, consistent
+with a hyphenated two-word name, but it is not readable.]
+
+[?J. Tastu édit.] [NOTE: minute type at the lower left corner of the sheet,
+below the legend]
+[/PLATE]
+
+<<<PAGE pdf=5 file=page_005.txt>>>
+[PAGE 5: unnumbered]
+
+[NOTE: plate-only page; coarse bilevel (1-bit) CCITT scan at about 300 dpi, which
+is the native resolution of the source image. The engraved figure numerals are
+five to eight pixels tall, so several of them are solid ink blobs that further
+magnification cannot resolve; those are flagged individually below.]
+
+[RUNNING HEAD] Voyage de l'Astrolabe. – ZOOLOGIE.
+
+[RUNNING HEAD] ZOOPHYTES. – Pl. 4.
+
+[PLATE]
+ZOOPHYTES. – Pl. 4.
+
+Engraved figure numbers, in reading order (successive bands down the sheet, left
+to right within each band):
+
+1
+[?2]
+[?3]
+[?6]
+[?4]
+5
+7
+9
+11
+10
+8
+12
+16
+15
+17
+13
+14
+18
+20
+19
+23
+21
+22
+24
+26
+25
+27
+
+[NOTE: the four numerals flagged [?2], [?3], [?6] and [?4] are single-digit blobs
+in the top third of the sheet whose shape cannot be resolved; they are given from
+their position in the sequence and from the legend's ranges, not from a reading
+of the glyph. The remaining numerals were each checked at magnification. Numerals
+1 to 27 are all accounted for, matching the six legend ranges (1–6, 7–11, 12–17,
+18–20, 21–23, 24–27).]
+
+[?Quoy ad vivum p.t] [NOTE: draughtsman's credit in fine engraved script at lower
+left; three word-shapes and a superscript abbreviation, the individual letters
+are not resolvable]
+
+[?Fournier sc.] [NOTE: engraver's credit in engraved script at lower right; the
+terminal "sc." is clear, the name is about eight letters beginning with a script
+capital that could be C or F]
+
+1	6	Diphye Bory.	}
+7	11	Diphye calpé.	}	N.
+12	17	Diphye abyla.	}
+
+18	20	Diphye de Bass.	}
+21	23 .	Diphye capuchon.	}	N.
+24	27	Diphye cucubale.	}
+
+[NOTE: the legend is in two columns of three lines each, the left column headed by
+figures 1–6 and the right by 18–20. Each column has a single tall brace to the
+right of its three lines with one italic "N." serving all three. A stray full stop
+is printed after "23" in the right column. No locality parentheticals appear on
+this plate.]
+
+[?J. Tastu édit.] [NOTE: minute type at the lower left corner of the sheet, below
+the legend]
+[/PLATE]
+
+<<<PAGE pdf=6 file=page_006.txt>>>
+[PAGE 6: unnumbered]
+
+[NOTE: plate-only page; coarse bilevel (1-bit) CCITT scan at about 300 dpi, the
+native resolution of the source image. The engraved figure numerals are five to
+eight pixels tall; most were resolved at magnification, a few could not be and are
+flagged. The locality parentheticals of the legend are set in a minuscule
+small-capital fount and are only partly readable.]
+
+[RUNNING HEAD] Voyage de l'Astrolabe. – ZOOLOGIE.
+
+[RUNNING HEAD] ZOOPHYTES. – Pl. 5.
+
+[PLATE]
+ZOOPHYTES. – Pl. 5.
+
+Engraved figure numbers, in reading order (successive bands down the sheet, left
+to right within each band):
+
+6
+5
+4
+2
+3
+8
+7
+11
+10
+9
+13
+12
+15
+16
+14
+17
+18
+19
+20
+22
+23
+21
+24
+26
+25
+27
+28
+29
+30
+31
+32
+33
+36
+34
+35
+37
+38
+
+[NOTE: no numeral 1 could be found on the sheet. The star-shaped figure at the far
+left of the top band, which by the legend's first range (1–6) ought to be figure
+1, carries no legible numeral above it; the space is blank in this scan.]
+
+[?Quoy ad vivum pinx.] [NOTE: draughtsman's credit in fine engraved script at
+lower left; three word-shapes plus an abbreviation, individual letters not
+resolvable]
+
+[?Fournier sc.] [NOTE: engraver's credit in engraved script at lower right; the
+terminal "sc." is clear, the name is about eight letters]
+
+1	6	Diphye ennéagone.	[?(Dét. de Gibraltar)]
+7	11	Diphye cuboïde.	[?(Dét. de Gibraltar)]
+12	17	Diphye nacelle.	[?(Dét. de Gibraltar)]
+18	20	Diphye nacelle, var.	[illegible]
+
+21	23	Diphye tronquée.	[?(Océan Atlantique)]
+24		Diphye hispide.	[?(Océan Atlantique)]
+25	26	Diphye tétragone.	[?(Océan Atlantique)]
+27	(29)	Diphye à 3 dents	[?(Océan Atlantique)]
+
+34	36	Diphye douteuse.	[?(Nouv.-Hollande)]
+37	38	Diphye de Praga.	[?(Iles du Cap Vert)]
+30	31	Galéolaire austral.	[?(Océan Indien)]
+32	33	Galéolaire à 4 dents.	[?(Océan Indien)]
+
+[NOTE: the legend is set in three columns of four lines each and is transcribed
+above column by column, left column first. In the second column the fourth line
+reads "27" followed by "(29)" in parentheses, and a ring has been drawn round the
+parenthesised number by hand in ink or pencil; the two digits inside read 29 but
+are partly obscured by the ring. "Diphye à 3 dents" has no full stop after
+"dents". A small handwritten mark also stands just below "30" in the third
+column. No brace or italic "N." appears in this legend.]
+
+[?J. Tastu édit.] [NOTE: minute type at the lower left corner of the sheet, below
+the legend]
+[/PLATE]
+
+<<<PAGE pdf=7 file=page_007.txt>>>
+[PAGE 7: unnumbered]
+
+[NOTE: this page is not a scan of the plate itself but a colour photograph of the
+opened bound volume — the plate lies on the recto, the binding, fore-edge and the
+grey photographic backdrop are visible around it, and a digitiser's caption strip
+in modern sans-serif type runs across the foot of the image. The photograph is a
+low-resolution raster (826 x 1200 px for the whole spread), so although the
+plate's coloured engraving is clear enough to describe, almost none of its
+engraved lettering can be read: the running heads and the legend are recoverable
+word by word, but the individual figure numerals on the plate are three or four
+pixels across and are wholly illegible.]
+
+[NOTE: this is plate 1 of the series; the atlas pages are not bound in numerical
+order in this PDF, plates 2 to 5 having preceded it.]
+
+[RUNNING HEAD] Voyage de l'Astrolabe. – ZOOLOGIE.
+
+[RUNNING HEAD] ZOOPHYTES. – Pl. 1.
+
+[PLATE]
+ZOOPHYTES. – Pl. 1.
+
+[NOTE: the plate carries figure numerals beside each of its twenty-four figures —
+small pale numbers set above or beside the drawings — but not one of them can be
+resolved in this photograph. They are therefore not transcribed. The legend below
+implies the sheet runs from 1 to 24.]
+
+[?Quoy ad vivum] [NOTE: draughtsman's credit in engraved script at lower left,
+about three word-shapes; individual letters not resolvable]
+
+[?Fournier sc.] [NOTE: engraver's credit in engraved script at lower right; not
+resolvable letter by letter]
+
+1	9	Physsophore blanche	}	N.
+10	18	Physsophore intermédiaire.	}	N.
+
+19	21	Physsophore australe.	}	N.
+22	24	Physsophore discoïde.	}	N.
+
+[NOTE: the legend is in two columns of two lines each, each column closed by a
+single tall brace with one italic "N." serving both its lines. "Physsophore
+blanche" has no full stop.]
+
+[?J. Tastu édit.] [NOTE: minute type at the lower left corner of the sheet]
+
+[NOTE: a further line of minute type stands at the lower right corner of the
+sheet, below the legend; it is illegible.]
+[/PLATE]
+
+[NOTE: digitiser's caption strip printed across the foot of the page image, in
+modern sans-serif type on a grey ground, not part of the original sheet:]
+
+Harvard University - Ernst Mayr Library of the Museum of Comparative Zoology / Dumont d'Urville, Jules-Sebastien-Cesar. Voyage de la corvette l'Astrolabe :execute par ordre du roi, pendant les annees 1826-1827-1828-1829. Paris : J. Tastu, 1830-1835.
+
+<<<PAGE pdf=8 file=page_008.txt>>>
+[PAGE 8: unnumbered]
+
+[NOTE: as with the preceding page, this is a colour photograph of the opened bound
+volume rather than a scan of the plate — binding, fore-edge and grey photographic
+backdrop are visible, and a digitiser's caption strip in modern sans-serif type
+runs across the foot of the image. The photograph is a low-resolution raster
+(826 x 1200 px for the whole spread). The legend and running heads are recoverable
+word by word; the figure numerals on the plate are pale grey marks two or three
+pixels across and are wholly illegible.]
+
+[NOTE: this is plate 2 of the series, the same plate that appears as a bilevel
+scan earlier in this PDF.]
+
+[RUNNING HEAD] Voyage de l'Astrolabe. – ZOOLOGIE.
+
+[RUNNING HEAD] ZOOPHYTES. – Pl. 2.
+
+[PLATE]
+ZOOPHYTES. – Pl. 2.
+
+[NOTE: the plate carries about twenty-six figure numerals, one beside or above
+each drawing, but none can be resolved in this photograph and they are therefore
+not transcribed. The legend implies the sheet runs from 1 to 26.]
+
+[?Quoy ad vivum pinx.] [NOTE: draughtsman's credit in engraved script at lower
+left; word-shapes only, letters not resolvable]
+
+[?Fournier sc.] [NOTE: engraver's credit in engraved script at lower right; not
+resolvable letter by letter]
+
+1	6	Stéphanomie helianthe.	}
+7	12	Stephanomie mélon	}	N.
+
+13	21	Stéphanomie hippopode .
+
+22	25	Stéphanomie à vrilles.	}
+26		Stéphanomie en toit .	}	N.
+
+[NOTE: the legend has two braced groups of two lines each, one at the left and one
+at the right, each closed by a single brace with one italic "N." serving both its
+lines; the "13 21 Stéphanomie hippopode ." line stands unbraced in the centre,
+set slightly lower than the first line of each group. In this coloured impression
+the initial accent of "Stéphanomie" is visible in three of the five lines but not
+in "Stephanomie mélon", and "helianthe" carries no accent, matching what the
+bilevel scan of this plate shows.]
+
+[?J. Tastu édit.] [NOTE: minute type at the lower left corner of the sheet]
+
+[NOTE: a further line of minute type stands at the lower right corner of the
+sheet, below the legend; it is illegible.]
+[/PLATE]
+
+[NOTE: digitiser's caption strip printed across the foot of the page image, in
+modern sans-serif type on a grey ground, not part of the original sheet:]
+
+Harvard University - Ernst Mayr Library of the Museum of Comparative Zoology / Dumont d'Urville, Jules-Sebastien-Cesar. Voyage de la corvette l'Astrolabe :execute par ordre du roi, pendant les annees 1826-1827-1828-1829. Paris : J. Tastu, 1830-1835.
+
+<<<PAGE pdf=9 file=page_009.txt>>>
+[PAGE 9: unnumbered]
+
+[NOTE: colour photograph of the opened bound volume, as on the two preceding
+pages — binding, fore-edge and grey photographic backdrop visible, with a
+digitiser's caption strip in modern sans-serif type across the foot. The
+photograph is a low-resolution raster (826 x 1200 px for the whole spread), so the
+figure numerals on the plate, the two credit lines and the locality parentheticals
+of the legend are all illegible; only the running heads and the body of the legend
+can be read.]
+
+[NOTE: this is plate 3 of the series, the same plate that appears as a bilevel
+scan earlier in this PDF.]
+
+[RUNNING HEAD] Voyage de l'Astrolabe. – ZOOLOGIE.
+
+[RUNNING HEAD] ZOOPHYTES – Pl. 3.
+
+[PLATE]
+ZOOPHYTES – Pl. 3.
+
+[NOTE: the plate carries twenty-three figure numerals, one beside each drawing,
+but none can be resolved in this photograph and they are therefore not
+transcribed. The legend implies the sheet runs from 1 to 23.]
+
+[illegible] [NOTE: draughtsman's credit in engraved script at lower left; a
+two-line-high smudge of about four word-shapes, no letters resolvable]
+
+[illegible] [NOTE: engraver's credit in engraved script at lower right; not
+resolvable]
+
+1	7	Stéphanomie triangulaire.	[illegible]
+8	12	Stéphanomie foliacée .	[illegible]
+13	15	Stéphanomie imbriquée.	[illegible]
+16	18	Stéphanomie heptacanthe.	[illegible]
+19	23	Stéphanomie ruche.	[illegible]
+
+[NOTE: the legend is in two columns of two lines each (1–7 and 8–12 at left, 13–15
+and 16–18 at right) with the fifth line, 19–23, centred beneath them; it is
+transcribed above in numerical order. Each species name is followed by a locality
+parenthetical in a minuscule small-capital fount; at this resolution these are
+uniform grey smudges in which no letter can be made out. In this coloured
+impression the initial accent of "Stéphanomie" is visible in all five lines.]
+
+[?J. Tastu édit.] [NOTE: minute type at the lower left corner of the sheet]
+
+[NOTE: a further line of minute type stands at the lower right corner of the
+sheet, below the legend; it is illegible.]
+[/PLATE]
+
+[NOTE: digitiser's caption strip printed across the foot of the page image, in
+modern sans-serif type on a grey ground, not part of the original sheet:]
+
+Harvard University - Ernst Mayr Library of the Museum of Comparative Zoology / Dumont d'Urville, Jules-Sebastien-Cesar. Voyage de la corvette l'Astrolabe :execute par ordre du roi, pendant les annees 1826-1827-1828-1829. Paris : J. Tastu, 1830-1835.
+
+<<<PAGE pdf=10 file=page_010.txt>>>
+[PAGE 10: unnumbered]
+
+[NOTE: colour photograph of the opened bound volume, as on the three preceding
+pages — binding, fore-edge and grey photographic backdrop visible, with a
+digitiser's caption strip in modern sans-serif type across the foot. The
+photograph is a low-resolution raster (826 x 1200 px for the whole spread), so the
+figure numerals and the two credit lines on the plate are illegible; only the
+running heads and the body of the legend can be read.]
+
+[NOTE: this is plate 4 of the series, the same plate that appears as a bilevel
+scan earlier in this PDF.]
+
+[RUNNING HEAD] Voyage de l'Astrolabe – ZOOLOGIE
+
+[RUNNING HEAD] ZOOPHYTES. – Pl. 4.
+
+[PLATE]
+ZOOPHYTES. – Pl. 4.
+
+[NOTE: the plate carries twenty-seven figure numerals, one beside each drawing,
+but none can be resolved in this photograph and they are therefore not
+transcribed. The legend implies the sheet runs from 1 to 27.]
+
+[illegible] [NOTE: draughtsman's credit in engraved script at lower left; three
+word-shapes plus an abbreviation, no letters resolvable]
+
+[illegible] [NOTE: engraver's credit in engraved script at lower right; not
+resolvable]
+
+1	6	Diphye Bory	}
+7	11	Diphye calpé.	}	N.
+12	17	Diphye abyla.	}
+
+18	20	Diphye de Bass.	}
+21	23	Diphye capuchon.	}	N.
+24	27	Diphye cucubale.	}
+
+[NOTE: the legend is in two columns of three lines each, each column closed by a
+single tall brace to its right with one italic "N." serving all three of its
+lines. No locality parentheticals appear on this plate. At this resolution the
+final punctuation of each line is uncertain.]
+
+[?J. Tastu édit.] [NOTE: minute type at the lower left corner of the sheet]
+
+[NOTE: a further line of minute type stands at the lower right corner of the
+sheet, below the legend; it is illegible.]
+
+[NOTE: a faint blind-stamped or embossed oval device is visible in the lower part
+of the blank margin of the sheet, below the legend; no lettering in it can be
+read.]
+[/PLATE]
+
+[NOTE: digitiser's caption strip printed across the foot of the page image, in
+modern sans-serif type on a grey ground, not part of the original sheet:]
+
+Harvard University - Ernst Mayr Library of the Museum of Comparative Zoology / Dumont d'Urville, Jules-Sebastien-Cesar. Voyage de la corvette l'Astrolabe :execute par ordre du roi, pendant les annees 1826-1827-1828-1829. Paris : J. Tastu, 1830-1835.
+
+<<<PAGE pdf=11 file=page_011.txt>>>
+[PAGE 11: unnumbered]
+
+[NOTE: colour photograph of the opened bound volume, as on the four preceding
+pages — binding, fore-edge and grey photographic backdrop visible, with a
+digitiser's caption strip in modern sans-serif type across the foot. The
+photograph is a low-resolution raster (826 x 1200 px for the whole spread), so the
+figure numerals, the two credit lines and the locality parentheticals of the
+legend are illegible; only the running heads and the body of the legend can be
+read.]
+
+[NOTE: this is plate 5 of the series, the same plate that appears as a bilevel
+scan earlier in this PDF.]
+
+[RUNNING HEAD] Voyage de l'Astrolabe. – ZOOLOGIE.
+
+[RUNNING HEAD] ZOOPHYTES. – Pl. 5.
+
+[PLATE]
+ZOOPHYTES. – Pl. 5.
+
+[NOTE: the plate carries figure numerals beside each of its drawings, running to
+38 by the legend, but none can be resolved in this photograph and they are
+therefore not transcribed.]
+
+[illegible] [NOTE: draughtsman's credit in engraved script at lower left; three
+word-shapes plus an abbreviation, no letters resolvable]
+
+[illegible] [NOTE: engraver's credit in engraved script at lower right; not
+resolvable]
+
+1	6	Diphye ennéagone.	[illegible]
+7	11	Diphye cuboïde.	[illegible]
+12	17	Diphye nacelle.	[illegible]
+18	20	Diphye nacelle var.	[illegible]
+
+21	23	Diphye tronquée.	[illegible]
+24		Diphye hispide.	[illegible]
+25	26	Diphye tétragone.	[illegible]
+27	[?29]	Diphye à 3 dents	[illegible]
+
+34	36	Diphye douteuse.	[illegible]
+37	38	Diphye de Praga.	[illegible]
+30	31	Galéolaire austral.	[illegible]
+32	33	Galéolaire à 4 dents.	[illegible]
+
+[NOTE: the legend is set in three columns of four lines each and is transcribed
+above column by column, left column first. Each species name is followed by a
+locality parenthetical in a minuscule small-capital fount; at this resolution
+these are uniform grey smudges in which no letter can be made out. In the second
+column the fourth line reads "27" and a second number that appears to be 29; in
+this copy the number is not ringed and no parentheses can be seen around it,
+unlike the impression reproduced in the bilevel scan of this plate. No brace or
+italic "N." appears in this legend.]
+
+[?J. Tastu édit.] [NOTE: minute type at the lower left corner of the sheet]
+
+[NOTE: a further line of minute type stands at the lower right corner of the
+sheet, below the legend; it is illegible.]
+
+[NOTE: a faint blind-stamped or embossed oval device is visible in the blank
+margin of the sheet well below the legend; no lettering in it can be read.]
+[/PLATE]
+
+[NOTE: digitiser's caption strip printed across the foot of the page image, in
+modern sans-serif type on a grey ground, not part of the original sheet:]
+
+Harvard University - Ernst Mayr Library of the Museum of Comparative Zoology / Dumont d'Urville, Jules-Sebastien-Cesar. Voyage de la corvette l'Astrolabe :execute par ordre du roi, pendant les annees 1826-1827-1828-1829. Paris : J. Tastu, 1830-1835.
+
+<<<PAGE pdf=12 file=page_012.txt>>>
+[PAGE 12: unnumbered]
+
+[NOTE: hand-coloured impression of the engraved plate, scanned in colour from the
+sheet itself (cream laid paper, foxing spots, no binding or photographic backdrop
+visible and no digitiser's caption strip). This is a different impression of the
+same plate that appears as a bilevel scan earlier in this PDF; I have not looked
+at any transcription of that earlier page.]
+
+[NOTE: I had, before starting this page, read the existing gold-standard files for
+pages 10 and 11 of this same PDF in order to learn the house conventions for the
+plate legends. Those pages carry plates 4 and 5, not this plate, but the fact is
+recorded here because the same five plates recur through this PDF in three
+different renderings.]
+
+[RUNNING HEAD] Voyage de l'Astrolabe. – ZOOLOGIE.
+
+[RUNNING HEAD] ZOOPHYTES. – Pl. 1.
+
+[PLATE]
+ZOOPHYTES. – Pl. 1.
+
+[NOTE: the sheet carries about twenty-five separate drawings, each with an
+engraved figure numeral set just above or beside it. In this coloured impression
+the numerals are struck very lightly and stand at or below the resolution limit
+of the scan: magnified eightfold they break up into two or three pixels. Only a
+few could be read at all, and they are given below in reading order (left to
+right, top to bottom, band by band). Numerals I could not resolve are marked
+[illegible]; I have deliberately not filled them in from the ranges given in the
+legend.]
+
+first band:  [illegible]   [illegible]   [illegible]   [illegible]
+second band: [illegible]   [illegible]   [illegible]   [illegible]   [illegible]
+third band:  [?10]   [illegible]   [illegible]   [?17]   11
+fourth band: [illegible]   [illegible]   [illegible]   [illegible]
+fifth band:  [illegible]   [illegible]   [illegible]
+sixth band:  [?24]   22   [?23]
+
+[illegible] [NOTE: draughtsman's credit in engraved script at lower left, below
+the leftmost figure of the bottom band; four or five word-shapes, no letters
+resolvable]
+
+[illegible] [NOTE: engraver's credit in engraved script at lower right, on the
+same line as the draughtsman's credit; not resolvable]
+
+1	9	Physsophore blanche.	}	N.
+10	18	Physsophore intermédiaire.	}
+
+19	21	Physsophore australe.	}	N.
+22	24	Physsophore discoïde.	}
+
+[NOTE: the legend is set in two columns of two lines each and is transcribed
+above column by column, left column first. Each column is closed by a single tall
+brace to its right with one italic "N." serving both of its lines. No locality
+parentheticals appear on this plate. The second number of the last line is either
+24 or 25; 24 is the likelier reading and is given, but it is not certain.]
+
+[illegible] [NOTE: a line of minute type at the lower left corner of the sheet,
+level with the legend; on the plates elsewhere in this PDF this position carries
+the publisher's imprint, but here nothing can be read]
+
+[illegible] [NOTE: a further line of minute type at the lower right corner of the
+sheet, level with the legend; not resolvable]
+
+[NOTE: a small ink or printing mark stands in the blank paper at the extreme
+lower right corner of the sheet, below and outside the plate; it carries no
+readable lettering.]
+[/PLATE]
+
+<<<PAGE pdf=13 file=page_013.txt>>>
+[PAGE 13: unnumbered]
+
+[NOTE: hand-coloured impression of the engraved plate, scanned in colour from the
+sheet itself (cream laid paper, foxing spots, no binding or photographic backdrop
+and no digitiser's caption strip). This is a different impression of the same
+plate that appears as a bilevel scan earlier in this PDF; I have not looked at any
+transcription of that earlier page.]
+
+[RUNNING HEAD] Voyage de l'Astrolabe. – ZOOLOGIE.
+
+[RUNNING HEAD] ZOOPHYTES. – Pl. 2.
+
+[PLATE]
+ZOOPHYTES. – Pl. 2.
+
+[NOTE: an engraved figure numeral is set just above or beside each of the
+twenty-six or so separate drawings on the sheet; the legend below accounts for
+figures 1 to 26. Not one of these numerals can be read. The page image is a
+heavily compressed JPEG of a 600 ppi scan, and at that compression a numeral
+about a millimetre high resolves into two or three dark smears; magnifying it
+tenfold from the 600 ppi source adds no detail over the 300 ppi render. They are
+therefore all recorded as [illegible] rather than reconstructed from the ranges
+in the legend.]
+
+[illegible] [NOTE: about twenty-six engraved figure numerals, one to each
+drawing, none resolvable]
+
+[illegible] [NOTE: draughtsman's credit in engraved script at lower left, below
+the leftmost figure of the bottom band; four or five word-shapes ending in what
+may be an abbreviation, no letters resolvable]
+
+[illegible] [NOTE: engraver's credit in engraved script at lower right, on the
+same line as the draughtsman's credit; two word-shapes plus an abbreviation, not
+resolvable]
+
+1	6	Stéphanomie hélianthe.	}	N.
+7	12	Stéphanomie mélon	}
+
+13	21	Stéphanomie hippopode.
+
+22	25	Stéphanomie à vrilles.	}	N.
+26		Stéphanomie en [?toit].	}
+
+[NOTE: the legend is set in three columns and is transcribed above column by
+column, left column first. The outer columns have two lines each, closed by a
+single tall brace to the right with one italic "N." serving both lines; the middle
+column has a single line and no brace. No locality parentheticals appear on this
+plate. In the left column the first line ends with a full point and the second
+appears to have none. The last word of the final line is a four-letter word after
+"en" that I read as "toit" but cannot confirm; figure 26 is an arch- or
+roof-shaped bract, which is consistent, but the reading is flagged rather than
+asserted.]
+
+[illegible] [NOTE: a line of minute type at the lower left corner of the sheet,
+level with the legend; on the plates elsewhere in this PDF this position carries
+the publisher's imprint, but here nothing can be read]
+
+[illegible] [NOTE: a further line of minute type at the lower right corner of the
+sheet, level with the legend; not resolvable]
+[/PLATE]
+
+<<<PAGE pdf=14 file=page_014.txt>>>
+[PAGE 14: unnumbered]
+
+[NOTE: hand-coloured impression of the engraved plate, scanned in colour from the
+sheet itself (cream laid paper, foxing, no binding or photographic backdrop and no
+digitiser's caption strip). This is a different impression of the same plate that
+appears as a bilevel scan earlier in this PDF; I have not looked at any
+transcription of that earlier page.]
+
+[RUNNING HEAD] Voyage de l'Astrolabe. – ZOOLOGIE.
+
+[RUNNING HEAD] ZOOPHYTES. – Pl. 3.
+
+[PLATE]
+ZOOPHYTES. – Pl. 3.
+
+[NOTE: an engraved figure numeral is set just above each of the twenty-three or so
+separate drawings on the sheet; the legend accounts for figures 1 to 23. None of
+the numerals on the plate itself can be read: the page image is a heavily
+compressed JPEG and a numeral about a millimetre high dissolves into two or three
+smears. Rendering from the 600 ppi source rather than at 300 dpi adds no detail.
+They are recorded as [illegible] rather than reconstructed from the legend's
+ranges.]
+
+[illegible] [NOTE: about twenty-three engraved figure numerals, one to each
+drawing, none resolvable]
+
+[illegible] [NOTE: draughtsman's credit in engraved script at lower left; three
+word-shapes, the first two short and possibly initials, then a longer word and an
+abbreviation. No letters resolvable.]
+
+[illegible] [NOTE: engraver's credit in engraved script at lower right, on the
+same line; not resolvable]
+
+1	7	Stéphanomie triangulaire.	[illegible]
+8	12	Stéphanomie foliacée .	[illegible]
+
+[?13]	[?15]	Stéphanomie imbriquée.	[illegible]
+[?16]	[?18]	Stéphanomie heptacanthe.	[illegible]
+
+19	23	Stéphanomie [?ruche].	[illegible]
+
+[NOTE: the legend is set as two columns of two lines with a single further line
+centred beneath them, and is transcribed above in that order: left column, right
+column, then the centred line. Each species name is followed by a locality
+parenthetical set in a minuscule small-capital fount; at this resolution these are
+uniform grey smudges in which no letter can be made out, so each is marked
+[illegible]. The numerals in the right-hand column are of the same size as the
+species names but are not crisp enough to separate 3 from 5 or 6 from 8, so they
+are flagged. No brace and no italic "N." appears in this legend. The word after
+"Stéphanomie" in the centred line has five letters and I read it as "ruche", which
+would suit the honeycombed cylinder that is the largest figure of the bottom band,
+but the reading is not certain. In the second line "foliacée" is followed by a
+space before the full point, as transcribed.]
+
+[illegible] [NOTE: a line of minute type at the lower left corner of the sheet,
+below the legend; on other plates in this PDF this position carries the
+publisher's imprint, but here nothing can be read]
+
+[illegible] [NOTE: a further line of minute type at the lower right corner of the
+sheet, below the legend; not resolvable]
+[/PLATE]
+
+<<<PAGE pdf=15 file=page_015.txt>>>
+[PAGE 15: unnumbered]
+
+[NOTE: hand-coloured impression of the engraved plate, scanned in colour from the
+sheet itself (cream laid paper, heavy foxing and browning in the outer margins, no
+binding or photographic backdrop and no digitiser's caption strip).]
+
+[NOTE: this is plate 4, which occurs three times in this PDF — as a bilevel scan,
+as a photograph of the bound volume, and here. Before starting this batch of pages
+I read the existing gold-standard file for page 10, which is the photograph of
+this same plate, in order to learn the house conventions for the plate legends.
+The transcription below was nevertheless made from this page image; the fact is
+recorded because it means this page is not fully independent of page 10.]
+
+[RUNNING HEAD] Voyage de l'Astrolabe – ZOOLOGIE.
+
+[RUNNING HEAD] ZOOPHYTES. – Pl. 4.
+
+[PLATE]
+ZOOPHYTES. – Pl. 4.
+
+[NOTE: an engraved figure numeral is set just above each of the twenty-seven or so
+separate drawings on the sheet; the legend accounts for figures 1 to 27. None of
+the numerals on the plate itself can be read: the page image is a heavily
+compressed JPEG and a numeral about a millimetre high dissolves into two or three
+smears, and rendering from the 600 ppi source rather than at 300 dpi adds no
+detail. They are recorded as [illegible] rather than reconstructed from the
+legend's ranges.]
+
+[illegible] [NOTE: about twenty-seven engraved figure numerals, one to each
+drawing, none resolvable]
+
+[illegible] [NOTE: draughtsman's credit in engraved script at lower left; three
+or four word-shapes ending in an abbreviation, no letters resolvable]
+
+[illegible] [NOTE: engraver's credit in engraved script at lower right, on the
+same line; not resolvable]
+
+1	6	Diphye Bory	}
+7	11	Diphye calpé.	}	N.
+12	17	Diphye abyla.	}
+
+18	20	Diphye de Bass.	}
+21	23	Diphye capuchon	}	N.
+24	27	Diphye cucubale.	}
+
+[NOTE: the legend is in two columns of three lines each and is transcribed above
+column by column, left column first. Each column is closed by a single tall brace
+to its right with one italic "N." set against the middle line and serving all
+three. No locality parentheticals appear on this plate. The first line of each
+column and the middle line of the right column appear to end without a full point,
+as transcribed, but the final punctuation is at the edge of legibility throughout.]
+
+[illegible] [NOTE: a line of minute type at the lower left corner of the sheet,
+level with the legend; on other plates in this PDF this position carries the
+publisher's imprint, but here nothing can be read]
+
+[illegible] [NOTE: a further line of minute type at the lower right corner of the
+sheet, level with the legend; not resolvable]
+[/PLATE]
+
+<<<PAGE pdf=16 file=page_016.txt>>>
+[PAGE 16: unnumbered]
+
+[NOTE: engraved plate scanned in colour from the sheet itself (cream laid paper,
+browning and damp-staining in the margins, no binding or photographic backdrop and
+no digitiser's caption strip). Unlike plates 1 to 4 in this run of pages, this
+impression is essentially uncoloured — only two figures near the middle of the
+sheet carry any wash (a yellow strand and a red hook). The rectangular platemark
+is visible around the whole design.]
+
+[NOTE: this is plate 5, which occurs three times in this PDF — as a bilevel scan,
+as a photograph of the bound volume, and here. Before starting this batch of pages
+I read the existing gold-standard file for page 11, which is the photograph of
+this same plate, in order to learn the house conventions for the plate legends.
+The transcription below was nevertheless made from this page image; the fact is
+recorded because it means this page is not fully independent of page 11.]
+
+[RUNNING HEAD] Voyage de l'Astrolabe – ZOOLOGIE.
+
+[RUNNING HEAD] ZOOPHYTES. – Pl. 5.
+
+[PLATE]
+ZOOPHYTES. – Pl. 5.
+
+[NOTE: an engraved figure numeral is set just above each of the thirty-eight or so
+separate drawings on the sheet; the legend accounts for figures 1 to 38. None of
+the numerals on the plate itself can be read: the page image is a heavily
+compressed JPEG and a numeral about a millimetre high dissolves into two or three
+smears, and rendering from the 600 ppi source rather than at 300 dpi adds no
+detail. They are recorded as [illegible] rather than reconstructed from the
+legend's ranges.]
+
+[illegible] [NOTE: about thirty-eight engraved figure numerals, one to each
+drawing, none resolvable]
+
+[illegible] [NOTE: draughtsman's credit in engraved script at lower left; three or
+four word-shapes ending in an abbreviation, no letters resolvable]
+
+[illegible] [NOTE: engraver's credit in engraved script at lower right, on the
+same line; not resolvable]
+
+1	6	Diphye ennéagone.	[illegible]
+7	11	Diphye cuboïde.	[illegible]
+12	17	Diphye nacelle	[illegible]
+18	20	Diphye nacelle var.	[illegible]
+
+[?21]	[?23]	Diphye tronquée.	[illegible]
+[?24]		Diphye hispide.	[illegible]
+[?25]	[?26]	Diphye tétragone.	[illegible]
+[?27]	[?29]	Diphye à 3 dents	[illegible]
+
+34	36	Diphye douteuse.	[illegible]
+[?37]	[?38]	Diphye de Praya.	[illegible]
+[?30]	[?31]	Galéolaire austral.	[illegible]
+32	33	Galéolaire à 4 dents.	[illegible]
+
+[NOTE: the legend is set in three columns of four lines each and is transcribed
+above column by column, left column first. Each species name is followed by a
+locality parenthetical in a minuscule small-capital fount; magnified twentyfold
+these remain uniform grey smudges in which no letter can be made out, so each is
+marked [illegible]. No brace and no italic "N." appears in this legend. Several of
+the two-digit numerals are not crisp enough to separate 1 from 7 or 5 from 6 and
+are flagged; where the numeral is given unflagged both digits were legible. In the
+third line of the left column and the fourth of the middle column no full point is
+visible after the species name, as transcribed. Note that the third column runs
+34-36, 37-38, 30-31, 32-33 — the two Galéolaire lines follow the two Diphye lines
+even though their numbers are lower.]
+
+[illegible] [NOTE: a line of minute type at the lower left corner of the sheet,
+below the legend; on other plates in this PDF this position carries the
+publisher's imprint, but here nothing can be read]
+
+[illegible] [NOTE: a further line of minute type at the lower right corner of the
+sheet, below the legend; not resolvable]
+
+[STAMP] [illegible] [NOTE: a blind-stamped (embossed, uninked) oval device about
+two centimetres across, in the blank paper well below the legend and centred on
+the sheet. Its rim and some internal lettering can be made out as relief, but no
+letter can be read.]
+[/PLATE]

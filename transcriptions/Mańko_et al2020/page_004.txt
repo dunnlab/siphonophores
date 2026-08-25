@@ -1,0 +1,79 @@
+[PAGE 4]
+
+[NOTE: printed square brackets occur on this page and are the source's own, not
+transcriber markers: the table column heads "Latitude [°N]", "Longitude [°E]",
+"Sampled strata [m]", "Temperature [°C]" and "Salinity [PSU]". Everywhere else on
+this page "[" is my marker. Superscripts are rendered with "^".]
+
+[RUNNING HEAD] M.K. Mańko, et al.
+[RUNNING HEAD] Progress in Oceanography 189 (2020) 102414
+
+[TABLE]
+Table 1
+A. Sampling details with the detected water mass type encoded for each sampled depth stratum. Samples with no gelatinous zooplankton are marked with an asterisk.
+B. T-S characteristics of the water masses detected in the present study.
+
+A.
+
+[NOTE: in part A the water mass type of each depth-stratum cell is encoded only by
+the cell's fill colour, keyed by the coloured swatches in part B; no water-mass text
+is printed in those cells, so only the printed depth ranges are transcribed here.
+The "Transect" labels "N" and "EB" are each printed once, vertically centred against
+their block of rows; they are given below on the row where they are printed. Two
+cells span the IL3 and DL columns ("100-112*" for site N4P and "100-160*" for site
+N4) and are given once, in the IL3 position.]
+
+Transect	Zone	Site	Latitude [°N]	Longitude [°E]	Date	Sampled strata [m]
+						SL	IL1	IL2	IL3	DL
+	SHELF	N4P	76.5006	15.4977	10.07.2012	0-25	25-50	50-100	100-112*
+	SHELF	N4	76.4990	14.9988	10.07.2012	0-25	25-50	50-100*	100-160*
+	SHELF	N3P	76.5001	14.5014	11.07.2012	0-25	25-50	Missing	100-145*	145-210
+	SLOPE	N2	76.4924	13.0664	11.07.2012	0-25*	25-50*	Missing	Missing	Missing
+	SLOPE	N1P	76.4984	12.5196	11.07.2012	0-25*	25-50*	50-200	200-600	600-1000
+N	SLOPE	N1	76.4984	11.9982	11.07.2012	0-25*	25-50	50-200	200-600	600-1000
+	OFFSHORE	N-2	76.5032	8.9988	12.07.2012	0-25*	25-50*	50-200	200-600	600-1000
+	OFFSHORE	N-3	76.5033	8.4881	12.07.2012	0-25*	25-50*	Missing	200-600	600-1000
+	OFFSHORE	N-4	76.5046	8.001	12.07.2012	0-25*	25-50*	50-200	200-600	600-1000
+	EXTERIOR	N-9	76.5128	5.5398	13.07.2012	0-25	25-50*	50-200	200-600	600-1000
+	EXTERIOR	N-10	76.5135	5.0592	13.07.2012	0-25	25-50	50-200	200-600	600-1000
+	EXTERIOR	N-11	76.4967	3.6627	13.07.2012	0-25	25-50	Missing	200-600	600-1000
+	SHELF	EB2-2	78.8329	8.7363	21.07.2012	0-25	25-50*	50-100*	100-150	150-190
+	SLOPE	EB2-3	78.8401	8.4028	21.07.2012	0-25	25-50*	50-200	200-500	500-670
+	SLOPE	EB2-4	78.8339	8.0685	21.07.2012	0-25	25-50	50-200*	200-600	600-920
+	SLOPE	EB2-5	78.8328	7.5517	20.07.2012	0-25	25-50	50-200	200-600	600-1000
+EB	SLOPE	EB2-6	78.8324	7.0723	20.07.2012	0-25	25-50	50-200	200-600	600-1000
+	OFFSHORE	EB2-9	78.8215	5.5255	20.07.2012	0-25*	25-50*	50-200	200-600	600-1000
+	OFFSHORE	EB2-10	78.8339	5.0049	20.07.2012	0-25*	25-50*	50-200	200-600	600-1000
+	EXTERIOR	EB2-15	78.8335	0.0041	19.07.2012	0-25*	25-50	50-200*	200-600	600-1000
+	EXTERIOR	EB2-16	78.8321	-0.8469	19.07.2012	0-25	25-50	50-200*	200-600	600-1000
+
+B.
+
+Name	Abbreviation	Temperature [°C]	Salinity [PSU]
+Shelf Surface Water^1	SSW	> 1	< 34.00
+Polar Surface Water^1	PSW	> 1	< 34.00
+Atlantic Water	AtW	> 3	> 34.92
+Transformed Atlantic Water	TAW	< 3	> 34.92
+Intermediate Water	IW	> 1	34.00  to  34.92
+Arctic Water	ArW	< 1	< 34.92
+
+[FOOTNOTE] ^1 Although both the SSW and the PSW have the same T-S characteristics they can be distinguished by their different origin. While the SSW originates from the glacial melt (Cottier et al., 2005, Svendsen et al., 2002), the PSW forms in the open ocean during cooling and freshening of the Atlantic water (e.g., Beszczynska-Möller et al., 2011).
+[/TABLE]
+
+test as they tended to create or inflate the issue of multicollinearity (for theoretical considerations, see Wissmann et al., 2007).
+
+The influence of the environmental (hydrographic and geographic) and biotic factors on the gelatinous zooplankton was explored with ordination analyses performed in Canoco v.5 (Lepš and Šmilauer, 2003). The detrended correspondence analysis (DCA) was first run to test the length of the main gradient. The results of the DCA (gradient length of 6.1 SD) prompted the choice of the unimodal constrained canonical correspondence analysis (CCA) (Lepš and Šmilauer, 2003) as the most appropriate procedure. The CCA was run with unrestricted permutations (N = 1000) and the following explanatory variables: temperature, salinity, zooplankton abundance, zooplankton biomass, zone, transect and depth (as factors: DL – deep layer; IL3, IL2, IL1 – intermediate layers; and SL – shallow layer; for corresponding depths, see Table 1A). The CCA was supplemented with variation partitioning, where the species composition was explained by the three groups of variables: geographic (zone, depth, and transect), hydrographic (temperature and salinity) and biotic (zooplankton abundance and zooplankton biomass). Members of each group were filtered by a stepwise selection that tested the simple effects. The Holm-Bonferroni method was also used to correct the results of all significance tests performed in Canoco v.5.
+
+Analysis of similarity (ANOSIM) was performed in R (vegan package, Oksanen et al., 2007) to test the differences between GZ community (Bray-Curtis dissimilarity matrix) among different water masses. Then the strength of association between each species and each water mass type was evaluated with strassoc() function using IndVal.g statistic (De Cáceres and Legendre, 2009; De Cáceres et al., 2010), followed by computing the permutation p-value of the association with signassoc() function, both implemented in the R package indicspecies (De Cáceres and Legendre, 2009).
+
+3. Results
+
+3.1. Hydrography
+
+The environmental conditions of the investigated area were thoroughly described by Gluchowska et al. (2017b) and later analysed from
+
+[NOTE: source oddity transcribed as printed, not corrected: the Table 1 footnote
+separates its two citations with a comma, "(Cottier et al., 2005, Svendsen et al.,
+2002)", where the body text elsewhere uses a semicolon. Italics are not marked in
+this transcription: in the printed page "vegan", "strassoc()", "signassoc()" and
+"indicspecies" are set in italic, and "Missing" in Table 1A is set bold.]

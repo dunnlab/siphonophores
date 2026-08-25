@@ -1,0 +1,46 @@
+[PAGE 201]
+
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 14 SPHAERONECTIDAE	201
+
+Heteropyramis maculata. Good specimens of the maculate form are rarely taken, but are indistinguishable from the unspotted form except for the spots, which vary in number and opacity.
+
+Thalassophyes crystallina Moser, 1925
+
+? Heteropyramis maculata Moser, 1925
+
+A little known mid-water species. Records of more than sixty specimens were published by Totton (1954).
+
+Polygastric phase
+
+Anterior nectophore (text-fig. 136; see also Moser, 1925, Taf. 23, figs. 5, 6):   Hardly distinguishable from that of Heteropyramis maculata except for lack of spots. Pyramidal, five-ridged at apex. Hydroecium deep, with a pair of small incomplete ventro-lateral ridges. Nectosac, and somatocyst as in H. maculata.
+
+Posterior nectophore:   Not recorded. Indistinguishable from that of H. maculata.
+
+Eudoxid phase
+
+Not recorded. Indistinguishable from that of H. maculata except for absence of spots.
+
+Family 14: SPHAERONECTIDAE Huxley, 1859
+
+The family contains only one isolated genus of perhaps neotenic forms. Sphaeronectes Huxley, 1859.
+
+Bigelow (1911b) discussed a family Sphaeronectidae containing sub-families Sphaeronectinae, Muggiinae and Nectopyramidinae. In 1932 I suggested that this arrangement did not reflect natural relationships, and in 1937 Bigelow, in a joint paper with Dr. M. Sears adopted the suggestion that I there made. Bigelow (1911b) gave an excellent history of the genus and species.
+
+Genus: SPHAERONECTES Huxley, 1859
+
+Diplophysa Gegenbaur, 1853b (eudoxid phase)
+
+Type species: S. gracilis Claus, 1873.
+
+It was this beautiful and remarkable little 'monophyid' in which the stem was supposed to arise from the exumbral pole of the nectosac that gave rise to the medusoid theory of siphonophore evolution. The mesogloea of the nectophore of both species is soft and the exterior surface rather adhesive. They were both unusually abundant at Villefranche in the spring of 1962 when I preserved very successfully many specimens. I had previously been able to rear larvae (text-fig. 137A–D) and am of the opinion that the larval nectophore is not caducous but develops into the definitive one. The work needs repetition. Because of the resemblance in some respects between the larval, caducous nectophores of Prayids, Diphyids and perhaps other forms and those of Sphaeronectids, I suspect that Sphaeronectes is a neotenous form. But its relationships are not yet clear.
+
+Five differences between the nectophores of the two species were given on page 184 of Bigelow's (1911b) 'Albatross' Report. These are referred to under the descriptions of the species. In S. gracilis the apex of the somatocyst curves over towards the dorsal side. I am inclined to regard this phenomenon to be analogous with an early evolutionary stage of the condition found in most abylids and in Ceratocymba, though not in Bassia (see Totton, 1954, figs. 1, 2). In these abylids the main part of the somatocyst lies entirely on the dorsal side of the hydroecium.
+
+14
+
+[NOTE: the "14" standing alone at the foot of the page, at the left, is a printer's signature
+mark, not a folio. The query mark opening "? Heteropyramis maculata Moser, 1925" is printed
+bare, without square brackets; there are no printed square brackets on this page. The letters
+"ga" of "gave" in "Bigelow (1911b) gave an excellent history" are over-inked and look bolder
+than the surrounding text; a faint speck stands after "In S. gracilis" where there is no
+printed punctuation.]

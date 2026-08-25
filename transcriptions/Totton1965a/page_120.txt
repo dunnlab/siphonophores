@@ -1,0 +1,47 @@
+[PAGE 115]
+
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 10 PRAYIDAE	115
+
+in which the nectophores have branched somatocysts and the nectosacs have multiform radial canals. They form a genus for which Praia Blainville, 1834 is the prior name, and their names are P. dubia Blainville and P. reticulata (Bigelow, 1911b); (C) an odd species with simple somatocyst and multiform radial canals Prayoides intermedia Leloup, 1934; (D) an isolated species Stephanophyes superba Chun, 1888. It is the only calycophore to possess palpons and a second kind of cnidobattery (cnidosac), borne on the tentacle of the half-millimetre long, thick walled palpons, which appear singly or in groups of two or three on a single pedicel between the cormidia; (E) one or perhaps more species with a marked egg-shaped terminal dilation of the simple somatocyst as well as a relatively large, median, unpaired, egg-shaped or pyriform diverticulum of the bracteal canal-system of the eudoxid. Haecekl (1888a) introduced a new name for such a species, Desmophyes annectens. The first good description and figures of such a species were those of Kölliker (1853) and of Vogt (1854) for Praya diphyes; (F) there are left for consideration the little known species of Lilyopsis Chun. Some day it will have to be decided whether any of these should be grouped with (E) under Desmophyes.
+
+KEY TO GENERA OF PRAYINAE
+
+[TABLE]
+1.	Nectophores biserial. Reserve bells may be present	2
+	Nectophores in corona. Palpons present	Stephanophyes (p. 129)
+2.	Nectophores biserial, somatocyst simple	3
+	somatocyst branched	Praya (p. 121)
+3.	Nectophores biserial, somatocyst simple, at surface of hydroecium	4
+	somatocyst simple, prolonged into mesogloea	5
+4.	Nectophores biserial, somatocyst simple, at surface radial canals simple	Rosacea (p. 115)
+	radial canals branched	Prayoides (p. 124)
+5.	Nectophores biserial, somatocyst simple, in mesogloea eudoxids; with central organ	Desmophyes (p. 127)
+	eudoxids with asexual nectophore but no central organ	Lilyopsis (p. 126)
+[/TABLE]
+
+Genus: ROSACEA sensu Bigelow, 1911
+
+Praya Kölliker, 1853; Vogt, 1854 (non Praya Quoy & Gaimard, 1833)
+Eudoxella Haeckel, 1888b (for eudoxid)
+Huxleya Gravier, 1899
+
+Type species Rosacea plicata Quoy & Gaimard sensu Bigelow, 1911b.
+
+For the last fifty years the generic name Rosacea has been used, not in the sense in which its originators Quoy & Gaimard probably used it,* but for a better known species to which Bigelow (1911b) seems to have been the first to apply the name R. plicata Quoy & Gaimard, and to give a proper description. In order not to complicate further the very involved nomenclature of the Prayinae I propose that Rosacea shall continue in use in the sense of Bigelow, 1911b; and I designate R. plicata Quoy & Gaimard sensu Bigelow as its type species.
+
+Generic diagnosis
+Polygastric phase
+
+Prayines with a pair of large, smooth nectophores which may be replaced by reserve bells of slightly different shape. The simple somatocyst does not lie as a free canal in the mesogloea but forms the pallial canal on the dorsal wall of the hydroecium. The lateral radial canals of the nectosac are sinuous.
+
+Eudoxid phase
+
+The bract of the eudoxid is convex on the proximal and concave on the distal side and contains
+
+[FOOTNOTE] * Bigelow (1911b, p. 197) suggested that 'Lilyopsis diphyes' (sensu Praya diphyes Kölliker, 1853 and Vogt, 1854) was the same species as Rosacea plicata (Quoy & Gaimard, 1827). This is probably true, though their figure is a very poor one. The strict application of the law of priority, unless debarred by a time clause, would necessitate the new use of Rosacea for Desmophyes.
+
+[NOTE: the key is set with leader dots between each lead and its outcome; the leaders are omitted here and the two fields separated by a tab. "KEY TO GENERA OF" is printed in small capitals, "PRAYINAE" in bold capitals.]
+
+[NOTE: in lead 5 of the key a small raised mark — an apostrophe, a comma set too high, or an ink speck — stands between "mesogloea" and "eudoxids", with no space either side. It is not reproduced above.]
+
+[NOTE: the genus name is printed "Praia Blainville, 1834" in the second line of the first paragraph (elsewhere in the book "Praya"), and "Haecekl (1888a)" for Haeckel in the same paragraph. Both are transcribed as printed.]

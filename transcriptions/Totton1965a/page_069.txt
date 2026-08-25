@@ -1,0 +1,38 @@
+[PAGE 64]
+[RUNNING HEAD] 64	A SYNOPSIS OF THE SIPHONOPHORA
+
+[FIGURE]
+C.ped
+C.ped
+4.mm.
+C.rad.d.
+C.rad.v.
+C.rad.lat
+0
+A
+B
+
+FIG. 28.   Marrus orthocannoides Totton. Nectophores
+A, upper side; B, lateral view, × 6
+C.ped = pedicular canal; C.rad.d, C.rad.lat, C.rad.v = dorsal, lateral and ventral radial canals (from Totton, 1954, fig. 22).
+[/FIGURE]
+
+Pneumatophore:   Oblong, 6 mm length, 2 mm diameter.
+
+Nectosome:   14 mm × 2 mm; strongly contracted.
+
+Nectophores (text-fig. 28):   Lateral facets undivided by ridges. Lateral radial canals straight, not forming sigmoid loops. No muscle-free ad-axial wall. A pair of ridges divides the upper surface from the lateral facets. They bifurcate near the ostium. The nectophores are borne on the same side of the stem as the gastrozooids.
+
+Siphosome:   23 cm long, 3·7–4·6 mm diameter; stem strongly contracted.
+
+Bracts (text-fig. 29):   Thin and leaf-like, flanking the palpons up to 15 mm length × 8 mm broad, ovate, without marginal teeth, distal end thickened, obliquely truncate, attached along proximal two-thirds of length, so that bracteal canal is only one-third the length of bract. The canal ends in the middle of one margin of the terminal facet.
+
+Palpons:   Very numerous, slender, 9·2 mm length, 0·2 mm diameter, on short pedicels, close set in four or five longitudinal rows, each with a fine palpacle.
+
+Gonodendra:   Fine, 4·6 mm length, two or three per cormidium, bearing a dozen or more male gonophores on very short pedicels. The species is dioecious.
+
+Gonophores:   (Male), globular, up to 1·1 mm diameter.
+
+Gastrozooids and tentacles unknown.
+
+[NOTE: the folio 64 is at the outer (left) edge of the running head. Text-fig. 28 occupies the upper half of the page as two drawings, the large A at the left and B at the right. The lettering listed inside [FIGURE] above is all the text printed within the drawings, in approximate reading order: "C.ped" at the top of drawing A and a second "C.ped" at the top of drawing B; then in A the vertical scale bar lettered "4.mm." at the top and "0" at the foot, the labels "C.rad.d.", "C.rad.v." and "C.rad.lat" ranged down the right-hand side, and the panel letter "A"; and the panel letter "B" at the foot of the right-hand drawing. All the in-drawing lettering is hand-lettered in a sloping style. Note that the drawing letters the labels with a final stop ("C.rad.d.", "C.rad.v.") which the caption omits ("C.rad.d", "C.rad.v"); as printed. In the Palpons paragraph the punctuation after "on short pedicels" is a comma followed by a short horizontal stroke at x-height — either a broken semicolon or a stray ink mark; it is transcribed above as a plain comma. The "=" signs in the caption are printed as a double-stroke equals glyph.]

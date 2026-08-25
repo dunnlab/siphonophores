@@ -1,0 +1,60 @@
+[PAGE 147]
+
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 12 DIPHYIDAE	147
+
+[FIGURE]
+A
+
+B
+
+10mm.
+0
+
+C.rad.lat
+C.com.
+C.rad.d.
+Som.
+C.pa
+C.ped
+Pl.M.
+C
+
+FIG. 85.   Sulculeolaria biloba (Sars)
+Three anterior nectophores from the Celtic Sea (M.B.A. Plymouth), A, B, C
+C.com = commissural canal; C.pa = pallial canal; C.ped = pedicular canal; C.rad.d, C.rad.l, = dorsal and lateral radial canals; Pl.m = mouth-plate; Som = somatocyst (from Totton, 1954, fig. 49).
+[/FIGURE]
+
+[FIGURE]
+A
+
+C.pa
+k
+l
+H
+B
+
+C
+
+Vel.
+Pl.M.
+H
+D
+C.pa
+C.ped
+0	10mm.
+
+FIG. 86.   Sulculeolaria biloba (Sars). Posterior nectophore from the
+Celtic Sea
+A, C, dorsal and lateral view of the mouth-plate, × 2.5; B, ventrolateral view of the proximal end to show triangular articulating facets, × 3.5; D, lateral view, × 3.5
+C.pa = pallial  canal;  C.ped = pedicular  canal;  H = hydroecium; k–l = baso  ventral  sector;  Pl.m = mouth-plate;  Vel = velum (from Totton, 1954, fig. 51).
+[/FIGURE]
+
+[NOTE: this page carries no body text — only text-figures 85 and 86 with their captions. Text-fig. 85 occupies the upper half: three drawings of whole nectophores side by side, A, B and C from left to right, with a vertical scale bar standing between B and C and all the flag-lettering carried on the right-hand drawing C. Text-fig. 86 occupies the lower half: A at the top left, B and C side by side below it, and D, a large lateral view, across the width beneath them, with a horizontal scale bar at D's lower left. Inside each [FIGURE] the lettering is listed drawing by drawing in each drawing's own reading order, blank lines separating the drawings, then the printed caption.]
+
+[NOTE: scale-bar legends: text-fig. 85's bar is lettered "10mm." at the top and "0" at the foot, given here as two lines; text-fig. 86's bar is lettered "0" at the left end and "10mm." to its right, given here on one line separated by a tab. Both were verified at 12–14x.]
+
+[NOTE: the drawn lettering does not match the caption keys in punctuation, and each is transcribed as printed. Verified at 7–12x: drawing C of text-fig. 85 letters "C.rad.lat" with no final stop but "C.com." and "C.rad.d." with stops, and letters the mouth-plate "Pl.M." with a capital M, whereas the key gives "C.com", "C.rad.d", "C.rad.l" and "Pl.m". Drawing D of text-fig. 86 likewise letters "Pl.M." and "Vel."; the key gives "Pl.m" and "Vel". The key of text-fig. 85 lists "C.rad.l" where the drawing letters "C.rad.lat", and prints a stray comma in "C.rad.d, C.rad.l, = dorsal and lateral radial canals".]
+
+[NOTE: in text-fig. 86 the letters "k" and "l" flag the two ends of the baso-ventral sector on drawing B; the "l" is a lower-case letter L, not a figure one — it matches the "k–l" of the caption key. The drawing letters A, B, C, D and the abbreviations are all in the sloping hand-lettered face used throughout these plates.]
+
+[NOTE: numerals verified digit by digit: FIG. 85, Totton, 1954, fig. 49; FIG. 86, × 2.5, × 3.5, × 3.5, Totton, 1954, fig. 51; the scale legends "10mm." twice. The magnifications use saltire crosses with low, on-baseline decimal points. Extra-wide spaces occur throughout the key of text-fig. 86 (the caption is set to a narrow measure and word-spaced out); they are reproduced above as double spaces. No printed square brackets occur on this page.]

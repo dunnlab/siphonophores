@@ -1,0 +1,66 @@
+[PAGE 08]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+[FIGURE]
+ngz
+st
+FIGURE 4
+Nanomia bijuga pneumatophore and upper nectosome of live specimen from Villefranche-sur-Mer. ngz, nectosomal growth zone; st, stem. Scale bar 1 mm.
+[/FIGURE]
+
+first loop on proximal nectosac surface in mature nectophores, passing towards lower surface into second loop, also mostly on proximal surface, then forming third taller loop on latero-distal surface of nectosac, before inserting onto ostial ring canal at level of ostial process on distal nectosac surface (Figure 5). Both ascending and descending mantle canals present, with ascending mantle canal terminating on proximal side of thrust block, and descending mantle canal terminating at junction of proximal and lower
+
+surfaces of nectophore (Figure 5). Small bilobed mouthplate identified in all Peabody Atlantic nectophores, but absent from smaller Villefranche-sur-Mer nectophores. Red spot present on each side of ostium just below level of ostial processes on all Villefranche-sur-Mer nectophores, likely faded to white in Peabody Atlantic nectophores.
+
+Siphosome: Siphosomal stem of Peabody Atlantic specimen c. 10 mm in length, roughly 100 mm in the longest Villefranche-sur-
+
+[FIGURE]
+u-lr
+ar
+tb	lr
+ar
+v-lr
+u-lr
+amc
+u-lr
+urc
+pi
+lrc
+lr
+orc	aw
+v
+loc	dmc
+op
+l-lr
+l-lr
+mp
+u-lr
+ar
+ar
+lr
+lrc
+lrc
+v-lr
+urc
+lr
+orc
+op
+v
+loc
+l-lr
+u-lr
+amc
+aw
+urc	l-lr	v-lr
+lrc
+dmc
+loc
+FIGURE 5
+Composite illustration of mature Nanomia bijuga nectophore and bracts. Lateral, distal and proximal views. amc, ascending mantle canal; ar, auriculate ridge; aw, axial wing; dmc, descending mantle canal; loc, lower radial canal; lr, lateral ridge; l-lr, lower later ridge; lrc, lateral radial canal; op, ostial process; orc, ostial ring canal; tb, thrust block; u-lr, upper lateral ridge; urc, upper radial canal; v, velum; v-lr, vertical lateral ridge. 1 mm scale bar for bracts.
+[/FIGURE]
+
+Frontiers in Marine Science	08	frontiersin.org
+
+[NOTE: Physical order on the page: Figure 4 in a boxed panel at the head, then a short two-column text block (left column transcribed in full, then the right), then Figure 5 in a boxed panel filling the lower half. The paragraph beginning "first loop on proximal nectosac surface" continues text from the foot of page 07, and the right column breaks off mid-word at "Villefranche-sur-" at the foot of the page.
+
+Inside the [FIGURE] blocks only text physically printed in the panel is given; the illustrations themselves are not described. Figure 4 is a photograph carrying two printed leader labels, "ngz" and "st", and an unlabelled scale bar. Figure 5 contains five line drawings: three nectophore views across the top and two bracts below. The labels are transcribed drawing by drawing, left to right (lateral view, then the middle view, then the right-hand view), and within each drawing in approximate top-to-bottom order; where two labels sit level they are separated by a tab. Several abbreviations recur within and between drawings, so the same string appears more than once. The two bract drawings carry no lettering; between them is a plain scale bar with no printed value (the caption supplies "1 mm scale bar for bracts"). In the caption "l-lr, lower later ridge" is printed thus, without the "al" of "lateral". Presentation ligatures (fi, fl) are transcribed as the ordinary two-letter sequences. Running head and running foot elements are separated by tabs.]

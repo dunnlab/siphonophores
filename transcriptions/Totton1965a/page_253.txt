@@ -1,0 +1,43 @@
+[PAGE 253: unnumbered]
+
+[RUNNING HEAD] A SYNOPSIS OF THE SIPHONOPHORA
+
+PLATE X
+
+Nanomia bijuga (Chiaje)
+
+From Kawamura, 1910-11, plate 7, figures 1-10
+
+FIG. 1.	Whole animal, × 1⅓.
+FIGS. 2-4.	Nectophores, × 7.
+FIGS. 5, 6.	Bracts, × 7.
+FIG. 7.	Internodal bract, × 15.
+FIG. 8.	Young bract, × 15.
+FIG. 9.	Tentillum, × 15.
+FIG. 10.	Cormidia, × 2⅔.
+
+Agalma elegans (Sars), (1846), figures 11-17
+
+FIG. 11.	Whole animal, × ⅔.
+FIGS. 12, 13.	Nectophores, × 6.
+FIGS. 14, 15.	Bracts, × 4.
+FIG. 16.	Cormidium, without bracts, × 4.
+FIG. 17.	Tentillum, × 15.
+
+amp = ampulla; br = bract; brc = bracteal canal; cc = circular canal; cnb = cnidoband; dc = dorsal canal; fg = female gonophore; inv = involucre; lc = lateral canal; lh = lateral horn; mg = male gonophore; nc = nectophore; ns = nectosac; p = palpon; pl = palpacle; pn = pneumatophore; rc = radial canal; s = gastrozooid; st = peduncle; st.br = peduncular lamellae; t = tentacle; t.f = terminal filament; vc = ventral canal.
+
+[NOTE: caption leaf for PLATE X; the facing leaf (PDF page 254) is the plate itself. Unfoliated — no printed folio, no signature mark. "PLATE X" stands alone on its own centred line, with the first species name on a separate centred line below it, "Nanomia bijuga" in italic and "(Chiaje)" in roman.]
+
+[NOTE: the caption covers TWO species on one plate, each with its own centred heading and its own run of figures: "Nanomia bijuga (Chiaje)" with "From Kawamura, 1910-11, plate 7, figures 1-10" and figures 1-10, then "Agalma elegans (Sars), (1846), figures 11-17" and figures 11-17. The second heading has no separate source line; its source is given as the parenthesised "(1846)" within the heading. The caption block occupies roughly the middle third of the leaf, with the top third and the bottom third blank.]
+
+[NOTE: three magnifications are printed as vulgar fractions with the numerator over the denominator on one type body: "× 1⅓." in FIG. 1, "× 2⅔." in FIG. 10 and "× ⅔." in FIG. 11. They are transcribed above with the Unicode fraction characters ⅓ and ⅔; the printed forms are a one-piece fraction with a horizontal rule, and FIG. 1 sets the whole number 1 alongside it.]
+
+[NOTE: the closing paragraph is the key to the plate's lettering, set full measure across five printed lines and joined into one line above. Each abbreviation is italic and followed by a printed "=" sign. It contains 23 entries, and unlike the key on PDF page 251 no letter is defined twice. Two entries carry an internal full point, "st.br" and "t.f"; both are printed.]
+
+[NOTE: the abbreviations here do NOT match those of PLATE IX on the preceding caption leaf — this key uses br, brc, cnb, p, pl, pn, s, st, t.f where PLATE IX used b, bc, cn, pl, ple, p, sh/so, tp, ta. Printed as here; the two plates were keyed independently.]
+
+[NOTE: "FIG."/"FIGS." in each caption line is printed with a full-size F and small-capital following letters and is transcribed in full capitals. The multiplication signs are printed multiplication signs, not the letter x. "1910-11", "2-4", "1-10" and "11-17" are printed with en dashes.]
+
+[NOTE: no printed square brackets occur on this leaf, and no editorial query mark of any kind (neither the bare "?" convention of pp. 202-226 nor a bracketed one) appears here. The parentheses in "(Chiaje)", "(Sars)" and "(1846)" are round brackets, not square.]
+
+[NOTE: faint grey scan speckle covers the blank areas of the leaf throughout; a small comma-shaped speck sits alone in the blank space above the "PLATE X" heading and is not type.]

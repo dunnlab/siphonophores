@@ -1,0 +1,51 @@
+[PAGE 70]
+[RUNNING HEAD] 70	A SYNOPSIS OF THE SIPHONOPHORA
+
+Size:   10–45 cm long, according to state of contraction.
+
+Pneumatophore:   1·8–2·0 mm long, 1–2 mm diameter. Eight septa. Light brown pigment spots at apex, which is surrounded by port-wine coloured polygonal cells. A temporary apical opening may appear.
+
+Nectosome (text-fig. 32):   One-fifth of total length. Nectophores in two rows of eight to twenty-five each; square in shape when viewed from abaxial or axial sides; length of sides 2–3·5 mm, with ear-like upper corners (text-fig. 33). The nectophores are flattened from stem-side to ostial side, an important field-mark. The upper outer angles are sometimes cut off by a ridge (text-fig. 34).
+
+[FIGURE]
+gz6
+t
+6♂
+♀
+ps
+p
+♂
+5♀
+♂
+p
+4♂
+♀
+p
+3♀
+♂
+p
+2♂
+♀
+p
+1♀
+♂
+
+FIG. 35.   Nanomia bijuga (Chiaje)
+The whole internode shown in part in text-figure 36,
+× 15.6. The proximal part lies below. p = primary series
+palpons, or base from which a palpon has become detached; p.s = the first of a secondary series of palpons;
+t = tentacle; gz6 = gastrozooid (distal end cut off);
+♂, ♀ = male and female gonodendra.
+[/FIGURE]
+
+Siphosome:   Stem slender, highly contractile.
+
+Gastrozooids:   Twenty-four fully formed on stem 45 cm length, 3–6 mm in length. Cnidoband of tentilla 8 mm length, 2 mm diameter, in three coils, the upper half covered by an involucrum.
+
+Palpons:   Chun (1888a) gave a budding formula. There are six in a primary series, but others are budded subsequently. Arising from their bases are pairs of branching gonodendra (text-fig. 35).
+
+Gonophores:   Sexes alternate on each side of the pairs of gonodendra (text-fig. 36).
+
+Bracts: Two categories: (1) large single, at base of each gastrozooid, thin leaf-like with three con-
+
+[NOTE: printed folio 70 at the outer (left) edge of the running head; PDF index 75, offset −5 holds. Text-fig. 35 occupies the middle half of the page, between the "Nectosome" paragraph and the "Siphosome" paragraph, so it stands where it is placed above; its caption is set in a narrow measure centred under the drawing. The lettering listed inside [FIGURE] is exactly the hand-lettered text printed within the drawing, in reading order from the top of the drawing downwards, and nothing else; the illustration itself is not described. Where the printed lettering uses the astronomical/biological sex signs they are transcribed as the Unicode characters ♂ (male) and ♀ (female), matching the printed glyphs; in the drawing these are lettered immediately after the numeral of the series, so "6♂", "5♀", "4♂", "3♀", "2♂", "1♀" down the left side of the stem, with unnumbered ♂ and ♀ signs down the right side. "gz6" and "gz⁶" are the same label: in the drawing the 6 is hand-lettered raised, and in the type-set caption it is a superscript figure; superscripts cannot be represented in plain text and are written on the line here. In the caption the magnification is printed "× 15.6" with an ordinary baseline full stop, whereas all the measurements in the body text use a raised middot (1·8–2·0, 2–3·5); both are transcribed as printed. The "=" signs in the caption key are printed as a double-stroke equals glyph. In the caption the abbreviation is set "p.s" in italic, though the same label is lettered "ps" without a point inside the drawing; both are transcribed as they appear. In the last line "(1)" is the author's own parenthesised numeral, not a marker. No printed square brackets occur on this page. The page ends with the broken word "con-".]

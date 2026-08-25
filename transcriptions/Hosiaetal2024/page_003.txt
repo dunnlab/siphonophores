@@ -1,0 +1,27 @@
+[PAGE 03]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+[FIGURE]
+FIGURE 1
+Range of Nanomia nectophore shapes. Upper, lateral, distal and proximal views (left to right). From top to bottom: NE Atlantic N. cara (Totton, 1954), NE Pacific N. septata sp. n (Mapstone, 2009, as N. bijuga), and NW Pacific N. bijuga (Kawamura, 1911). Reproduced with permission of The Trustees of the Natural History Museum, London; Canadian Science Publishing; and the Zoological Society of Japan, respectively. These images are not covered by the terms of the Creative Commons license of this publication. For permission to reuse, please contact the relevant rights holder.
+[/FIGURE]
+
+Nanomia has recently been added by three investigations from Ireland, which have suggested that the species collected in Irish waters is N. bijuga, based on 18S molecular (Baxter et al., 2012) and morphological (Haberlin et al., 2016, 2019) characters. Baxter et al. (2012) go as far as to suggest that the species occurring in colder, temperate waters of the North Atlantic should generally be considered N. bijuga, rather than N. cara, as has been previously assumed. Similarly, Nanomia from the northeast Pacific have historically been referred to as both N. cara and, more recently, N. bijuga (see e.g. Mackie, 1964; Mapstone, 2009).
+
+This study began with a need to assign Nanomia specimens occurring in NE Atlantic waters, and Norway in particular, to the correct species. To resolve this issue, we have applied integrated molecular and morphological methods to study the diversity in the genus Nanomia. Nanomia nectophores with varying size and morphology were collected for examination and genetic barcoding from several locations in the NE Atlantic, the Mediterranean, and the Pacific Ocean. Collected specimens were sequenced for cytochrome oxidase I (COI) and 16S ribosomal RNA mitochondrial markers, both known to be suited for DNA barcoding and species delimitation in hydrozoans (Ortman et al., 2010; Zheng et al., 2014; Lindsay et al., 2015). Specimens from various locations, as well as available material from natural history collections, were examined in detail to uncover hitherto overlooked morphological differences. Phylogenetic analyses were performed on the obtained 16S and COI sequences together with Nanomia
+
+sequences received from collaborators or mined from GenBank and BOLD repositories, as well as other agalmatid sequences.
+
+2 Materials and methods
+
+2.1 Sampling
+
+Nanomia colonies and/or nectophores were sampled during several field campaigns using various plankton nets, by snorkeling, blue-water scuba diving, or remotely operated vehicles at several locations in the North Atlantic, the Arctic, the Mediterranean, the North and Central Pacific, and the Gulf of California. Additional nectophores and colonies were contributed by collaborators (Supplementary Table S1). While the exact procedure varied between sampling events, specimens for morphological examination were generally fixed in ~4% borax-buffered formalin in sea water, while nectophores for molecular work were photographically documented prior to being individually flash frozen or preserved in >96% ethanol.
+
+2.2 DNA extraction, amplification and sequencing
+
+Tissue fragments were taken from frozen or ethanol fixed specimens selected for molecular work. When dealing with loose
+
+Frontiers in Marine Science	03	frontiersin.org
+
+[NOTE: Figure 1 is a boxed illustration spanning the full width of the page above the two text columns, with the caption inside the box at its foot; it is transcribed first. The illustration is a 3x3 arrangement of line drawings of nectophores (a fourth drawing lies to the right of the first row, so the top row has four figures and the two lower rows three each in the printed arrangement); it carries no lettering, numbers, letters or scale bars of any kind — the caption is the only text — and nothing about the drawings is described here. Below the figure the page is two columns; the left column is transcribed in full, then the right, so the paragraph beginning "sequences received from collaborators" is the head of the right column and completes the sentence broken off at "together with Nanomia" at the foot of the left column. Section headings "2 Materials and methods", "2.1 Sampling" and "2.2 DNA extraction, amplification and sequencing" fall in the right column; the last is set on two printed lines ("2.2 DNA extraction, amplification" / "and sequencing") and is joined here. In the figure caption "sp. n" is printed without a point after the "n". Running head and running foot elements are separated by tabs. Presentation ligatures (fi, fl, ff) are transcribed as the ordinary letter sequences.]

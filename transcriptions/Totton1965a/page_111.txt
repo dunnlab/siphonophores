@@ -1,0 +1,44 @@
+[PAGE 106]
+[RUNNING HEAD] 106	A SYNOPSIS OF THE SIPHONOPHORA
+
+[FIGURE]
+C
+r.m
+r.m
+A
+B
+ns
+
+FIG. 58.   Forskalia leuckarti Bedot
+Nectophores and nectosacs of Villefranche specimen 581, sketched in situ, × 6. The aboral end of the stem is uppermost. A, part of a single nectophore; B, nectosacs of part of one turn of the nectosome; C, ostial view of one nectophore and (below) lateral view of a complete nectophore. ns = nectosac; r.m = rete mirabile.
+[/FIGURE]
+
+bracts appear to be all of one kind, namely laterally flattened and triangular in outline. The length of both the upper side and of the perpendicular outermost side is about 1 cm. These two sides are thicker than the hypotenuse which has a comparatively sharp edge. These peduncular bracts form mirror-image pairs. The bracteal canal lies close to the inner face, and makes a right-angle bend corresponding to the angle made by the two thick edges or facets. At this bend in the bracteal canal is given off a short branch inclined inwards and towards the angle. The photograph (Pl. XX, fig. 3) shows how these closely approximated angular bracts appear in optical section.
+
+Four or five large leafy bracts are attached to the stem cormidium and partially envelop the bases of the peduncles of the gastrozooids. There is a transition in shape from these towards the triangular bracts.
+
+Leuckart stressed the difficulty of forming an idea of the shape of the bracts.
+
+Gonodendra (text-fig. 60):   As in F. edwardsi the gonodendra are formed by a series of palpons, each budding successively from the base of its predecessor. The gonophores are borne on secondary protrusions from these bases.
+
+Leuckart (1854), like Milne Edwards (1841)* did not give a sufficiently precise description of the whole gonodendron-complex. I have been able to examine in detail only one gonodendron. It belonged to the complete specimen, No. 581, at Villefranche. Leuckart stated that there were up to four gonodendra between successive peduncles of gastrozooids. He deduced that they first appeared as a single pedunculate palpon with a simple palpacle. I reproduce (text-fig. 54) his drawing of an early growth-stage in F. edwardsi. That the primary palpon appears to bud from the gonodendron in the mature stage is only a question of relative growth. It can be seen at once that the mature gonodendron of F. leuckarti differs from that of F. edwardsi in that the basal extension of the simple palpon that bears the female gonophores is hypertrophied and overtops that bearing the male gonophores. It grows to a length of perhaps 30 mm, is probably highly contractile and is bifurcated at the distal extremity. There, each branch forms a globular terminal end, as shown in Milne Edwards's figure. They bear numerous female medusoid gonophores.
+
+[FOOTNOTE] * It must be remembered that Milne Edwards was giving the first specifically recognizable figure of any species of Forskalia.
+
+[NOTE: printed folio 106 at the outer (left) edge of the running head; PDF index 111, offset −5 holds. Single column; no table, no signature mark. The body text opens mid-sentence with "bracts appear to be all of one kind", continuing from the previous page.
+
+No printed square brackets occur on this page; every bracket here is round, including "(below)" and "(1841)" and the asterisk's parenthesis-free reference.
+
+Layout: text-fig. 58 fills the upper quarter of the page, three grouped line drawings (C upper left with a second, smaller drawing below it at A, and B occupying the right half), set full measure, with a four-line caption below in type smaller than the body. Then a deep blank band of about two lines, then the body text. The footnote sits at the foot, separated from the last text line by a blank line and with no printed rule above it; it is set in type smaller than the body and is indented, beginning with a raised asterisk. Its reference mark is the asterisk printed immediately after "(1841)" in the sixth paragraph, with no space. About a fifteenth of the page is blank below the footnote.
+
+The items inside [FIGURE] before the caption are exactly the labels printed within the drawings and nothing else — the illustrations are deliberately not described. In reading order, top to bottom: the panel letter "C", "r.m" at the upper right, "r.m" again at the left of the upper drawing, the panel letter "A", the panel letter "B", and "ns" at the lower right. All are upright sans-serif, the panel letters capital and the two leader labels lower case with an internal full point and no terminal point, each joined to the structure by a fine ruled line. Checked at 3x. Total lettering: 3 panel letters (A, B, C), 2 "r.m", 1 "ns"; there is no scale bar on this page, the scale being given as "× 6" in the caption.
+
+Caption detail: "FIG." small capitals, old-style 58, full point, wide gap, italic "Forskalia leuckarti", roman "Bedot". "in situ" is italic; "× 6" uses a saltire multiplication cross. The specimen is cited as "Villefranche specimen 581" with no "No." here, whereas the body text and the caption of text-fig. 57 both write "No. 581". In the key the abbreviations are italic and "rete mirabile" italic.
+
+Printed oddities preserved as printed. (1) The colon after the side-heading's parenthesis, "Gonodendra (text-fig. 60):", is set in italic although the parenthesis before it is roman — verified at 4.5x. (2) There is no comma after the footnote reference in "like Milne Edwards (1841)* did not give", so the parenthetic comparison is unclosed. (3) "palpacle" is spelt so here and on p. 101; it is not "palpocil". (4) "Milne Edwards's" takes 's after the s.
+
+Type in the body: italic side-heading "Gonodendra"; italic "F. edwardsi" (three times), "F. leuckarti", and in the footnote "Forskalia". "text-fig. 60" and "text-fig. 54" are lower-case roman. Author surnames are ordinary upper-and-lower case roman.
+
+Numerals verified digit by digit: 106; FIG. 58, 581, × 6; 1 cm, Pl. XX, fig. 3; text-fig. 60; 1854, 1841, No. 581, text-fig. 54; 30 mm. Note "1 cm" and "30 mm" are the only body measurements; "1" is the old-style figure one, easily mistaken for a small-capital I in this face.
+
+Stray marks, all scanning blemishes: a speck high in the left margin above the folio, a small dash in the far right margin level with the upper part of drawing B, a speck in the far right margin level with the middle of drawing B, a speck in the right margin level with the footnote, a speck in the left margin level with "mirror-image pairs", and two specks in the blank band below the footnote. None is printed matter.]

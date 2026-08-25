@@ -1,0 +1,49 @@
+[PAGE 07]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+[TABLE]
+TABLE 2	Summary of mean pairwise intra- and interspecific K2P distances (% ± SD) in COI and 16S for the five putative Nanomia species.
+		N. bijuga	N. cara	N. septata sp. n.	Sp. n. 1 Japan	Sp. n. 2 China	n
+COI	N. bijuga	2.4 ± 1.2					15
+	N. cara	18.8±0.4	0.2±0.2				34
+	N. septata sp. n.	17.5±0.5	17.3±0.2	0.3±0.2			20
+	Sp. n. 1 Japan	15.3±0.6	19.8±0.2	17.9±0.2	0.4±0.2		3
+	Sp. n. 2 China	19.3±0.4	16.8±0.2	15.5±0.2	19.6±0.2	0.0±0.0	5
+16S	N. bijuga	1.2 ± 0.9					10
+	N. cara	15.5±0. 3	0.1±0.2				21
+	N. septata sp. n.	11.6±0.2	13.2±0.2	0.3±0.3			12
+	Sp. n. 1 Japan	7.1±0.2	16.4±0.3	11.9±0.4	0.6±0.1		3
+	Sp. n. 2 China	11.7±0.1	13.7±0.1	7.9±0.1	12.7±0.1	0.0±0.0	2
+n is the number of sequences for the given species.
+Shading indicates 5% intervals starting at 0 (no shading).
+[/TABLE]
+
+3.2 Account of the species examined
+
+Genus Nanomia Agassiz, 1865.
+
+Diagnosis. Monoecious Agalmatidae with colony linear; pneumatophore with red apex and an apical pore; red/orange-rust pigment spots along stem and at proximal end of gastrozooids and some other zooids; nectosome dorsal; many nectophores when mature, with incomplete upper-lateral ridges, complete lateral and vertical-lateral ridges; nectosac of nectophore with axial processes, straight upper and lower radial canals and sinuous lateral radial canals; definitive tentilla of gastrozooid tentacles unicornuate, with incomplete involucrum and single terminal filament. Male and female gonodendra characteristically in pairs on either side of the palpons, alternating sides (Totton, 1965; Dunn and Wagner, 2006). Two types of bracts, one rectangular and more prismatic, other elongate with three distinct distal cusps; often with additional ectodermal cell patches.
+
+3.2.1 Nanomia bijuga (Delle Chiaje, 1844)
+
+Material examined is specified in Supplementary Table S1.
+
+Diagnosis. Longitudinal septa in pneumatophore indistinct; nectosome with red pigment spots. Nectophores flattened along proximal-distal axis when mature, parallel to stem axis, with red spot flanking ostium on each side; axial wings bent over onto proximal side, partly enclosing stem; shallow axial groove between wing bases in mature nectophores; auriculate ridge between upper-lateral ridge and lateral ridge; thrust block small and insignificant in all nectophores. Palpon without proximal lipid droplet.
+
+Barcode Index Number (BIN) in BOLD: AAX3682.
+
+Description
+
+Pneumatophore: 2.0 mm long (in largest preserved specimen), with red pigmented apex (Figure 4); some pneumatophores with faint longitudinal and transverse lines on surface, but no thick septal lines. Gas gland in lower third of pneumatophore.
+
+Nectosome: Typically, with small red pigment spots, patches or fine dots scattered over surface; some spots associated with
+
+nectophoral muscular lamellae on dorsal surface (Figure 4). Maximum nectosome length 230 mm in Villefranche-sur-Mer specimen.
+
+Nectophores: Up to 30 in the largest Pacific specimen observed from the Gulf of California, but commonly much fewer, e.g., 13 in a complete specimen from Villefranche. Surface ridges best displayed in young nectophores (Supplementary Figure S3), harder to discern in preserved mature nectophores. Young nectophores slightly flattened along upper-lower axis (Supplementary Figure S3); mature nectophores almost cubical in shape (Figure 5). Auriculate ridges between upper-lateral and lateral ridges, lying relatively close to ostium on distal surface of young nectophores (Supplementary Figure S3), nearer top of distal surface in mature nectophores (Figure 5). Thrust block small in all nectophores examined, at halfway point on proximal surface in young nectophores (not illustrated) and near top of proximal surface in mature nectophores, but with little width overall in proximal-distal plane (Figure 5). Axial groove in distal mid-line between axial wings in young nectophores (Supplementary Figure S3). Mature nectophores measuring max. 3.2 mm height x 3.2 mm width in Villefranche-sur-Mer specimens, max. 3.5mm height x 3.0 mm width in Peabody Atlantic material; with surface ridges comprising upper-lateral ridge from axial wing tip (on proximal side of nectophore) onto distal nectophore surface, terminating near distal mid-line; auriculate ridge on distal surface, connecting upper-lateral ridge with lateral ridge, and giving off blind-ending side branch; vertical-lateral ridge extending from upper-lateral ridge on upper proximal surface, passing down lateral nectophore surface and inserting on lower-lateral ridge halfway along course of latter; lower-lateral ridge originating at axial wing tip extending along lower-lateral border of nectophore and inserting on lower lateral border of ostium (Figure 5).
+
+Nectosac with radial canals issuing from the internal pedicular canal. Upper and lower radial canals following straight courses to ostial ring canal on distal surface; lateral radial canals each forming
+
+Frontiers in Marine Science	07	frontiersin.org
+
+[NOTE: Table 2 spans the full width at the head of the page, above the two text columns; it is transcribed first, then the left column in full, then the right column. Cells are separated by single tabs; empty cells (the upper right triangle of the distance matrix, and the two stub cells of the header row) appear as consecutive tabs. The table caption and the two footnote lines below the table are kept inside the [TABLE] block, where they are printed. In the caption the "±" is set as a plus sign above a short rule; it is transcribed as "±". In the body of the table "15.5±0. 3" is printed exactly so, with a space between "0." and "3". The group labels "COI" and "16S" are printed once each, vertically centred in a merged cell spanning their five rows; each is given on the first row of its group. Header cells "N. septata / sp. n.", "Sp. n. 1 / Japan" and "Sp. n. 2 / China" are each printed on two lines and joined here. Presentation ligatures (fi, fl) are transcribed as the ordinary two-letter sequences. "3.5mm" is printed without a space in the right column. The run-in headings ("Diagnosis.", "Material examined", "Pneumatophore:", "Nectosome:", "Nectophores:", "Barcode Index Number (BIN) in BOLD:") begin their paragraphs in print and are not on separate lines; the paragraph breaks used here follow the printed indentation. Running head and running foot elements are separated by tabs.]

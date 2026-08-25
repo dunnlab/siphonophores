@@ -1,0 +1,42 @@
+[PAGE 160]
+
+160	[RUNNING HEAD] A SYNOPSIS OF THE SIPHONOPHORA
+
+[FIGURE]
+1MM
+hy.t.
+·5MM
+A
+C
+hy.t.
+·5M[?M]
+B
+
+FIG. 95.   Lensia subtiloides (L. & v. R.). Polygastric phase, Gt. Barrier
+Reef
+A, anterior nectophore, × 22; B, posterior nectophore, × 32; C, ventral view of the proximal end of the posterior nectophore, × 23. hy.t = tooth at the apex of the right hydroecial fold (from Totton, 1932, fig. 32).
+[/FIGURE]
+
+12·5 m depth, especially from December to the middle of February, in water of comparatively low salinity inside the Barrier Reef.
+
+Polygastric phase
+
+Anterior nectophore (see Lens & van Riemsdijk, 1908, Pl. VII, fig. 59; and text-fig. 95):   Up to 5 mm in length and 2 mm deep, five ridged with shallow hydroecium and an oblique ovoid stalked somatocyst about 1·2 mm in length, the ovoid part varying from 0·54 to 0·66 mm in length, and from 0·23 to 0·28 mm in diameter. The loop of the lateral canals reaches within a distance of 0·20 mm from the anterior end of the nectosac and of 0·37 mm of the apex of the nectophore. The two halves of the mouth-plate are of almost equal size, rounded and slightly projecting below the base. The anterior wall of the hydroecium extends forward to the level of the ostium. The basal end of the dorsal ridge does not form a marked tooth-like projection.
+
+Posterior nectophore:   There is no projection of the nectosac anterior to the entry of the pedicular canal. There is a small tooth at the apex of the right hydroecial fold.
+
+Eudoxid phase
+
+(Text-fig. 96.)   There are no projections on the posterior margin of the bract. The phyllocyst is club-shaped.
+
+[NOTE: the upper two-thirds of the page is a single text-figure, text-fig. 95, three drawings (A at the left, C at the upper right and B at the middle right), with a five-line caption beneath set to about half the width of the type page. The lettering listed inside [FIGURE] is given top to bottom and left to right within a band: the vertical "1MM" scale bar at the upper left of drawing A; the "hy.t." label with a leader at the top of drawing C; the vertical "·5MM" bar to the left of drawing C; the letter A on drawing A; the letter C to the right of drawing C; the second "hy.t." label with a leader above drawing B; the vertical bar to the right of drawing B; and the letter B to the left of drawing B. Verified at 8–16x.]
+
+[NOTE: the scale bar beside drawing B is defective. It reads "·5M" followed by a small dot-sized mark where a second M would stand; at 14x the mark is too small and too round to identify as an M, but the corresponding bar beside drawing C in the same figure reads "·5MM" clearly. Transcribed "·5M[?M]" — the "[?M]" is my flagged reading of the defective sort, not printed brackets.]
+
+[NOTE: on the two bars lettered "1MM" and "·5MM" there is no space between the numeral and the small-capital "MM", unlike the "1 MM" bars of text-figs. 91–94; the numeral of "1MM" is a plain vertical stroke, and both "·5" labels open with a raised middle dot and no zero. Verified at 16x.]
+
+[NOTE: numerals verified digit by digit: 160; FIG. 95; × 22; × 32; × 23; Totton, 1932, fig. 32; 12·5 m; Lens & van Riemsdijk, 1908, Pl. VII, fig. 59; text-fig. 95; 5 mm; 2 mm; 1·2 mm; 0·54 to 0·66 mm; 0·23 to 0·28 mm; 0·20 mm; 0·37 mm; Text-fig. 96. Every decimal point in the body text is a raised middle dot and every zero is an old-style figure sitting at x-height, so "0·54", "0·66", "0·23", "0·28", "0·20" and "0·37" resemble "o·54" and so on; they are zeros, checked at 4x. "0·20 mm" retains its trailing zero as printed. The multiplication signs are saltire crosses.]
+
+[NOTE: "hy.t" in the caption key carries no final stop, against "hy.t." with one on both drawings; both are as printed, and the caption's "hy.t" is italic. The "=" in the caption key is an equals sign of two short parallel rules. "see" is italic. "FIG. 95." is small capitals with a full point after the number, and the species name is italic with the authority roman. The caption's first line breaks after "Gt. Barrier" with "Reef" centred alone on the second line; that break is preserved. No printed square brackets occur on this page.]
+
+[NOTE: two small stray ink marks stand well clear of the text in the outer right margin, one beside the figure and one below the last line, as on pages 156–159. Neither is a legible character.]

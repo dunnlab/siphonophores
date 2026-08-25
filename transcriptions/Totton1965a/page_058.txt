@@ -1,0 +1,47 @@
+[PAGE 53]
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 4 AGALMIDAE	53
+
+Key to species of AGALMA
+
+[TABLE]
+1.	Distal border of bract very thick, obliquely truncated and faceted. Nectosac Y-shaped, viewed from above (Pl. IX, figs. 3, 11)	okeni
+	Distal border of bract thin, not truncated	2
+2.	Bracts with three unarmed, longitudinal ridges; nectosac triangular, viewed from above	elegans (p. 54)
+	Bracts with from three to five armed longitudinal ridges and red pigment spots	haeckeli (p. 54)
+3.	Thick, oval, foliaceous bracts with red spots, two teeth on each side. Nectophores resembling those of okeni	clausi (p. 53)
+[/TABLE]
+
+Agalma okeni Eschscholtz, 1825
+Plate IX, figures 1–14; Plate XI, figure 3
+
+Crystallomia polygonata Dana, 1858; Chun, 1897; Kawamura, 1910/1911
+Agalma breve Huxley, 1859
+Crystallodes rigidum Haeckel, 1869
+Crystallodes vitrea Haeckel, 1888
+Crystallomia sp. Lens & van Riemsdijk, 1908, figs.
+
+A common species that occurs in the warmer regions of all three great oceans.
+
+The nectosome is a dodecagonal body slightly tapered above, where lies the small egg-shaped pneumatophore with reddish-brown pigment at its apex. Eight lamellae stretch from pneumatosaccus to pneumatocodon. The nectophores and other details were figured beautifully by Bigelow (1911b, Pl. 17) and by Kawamura (1910/1911) reproduced here on Plate IX, figures 1–14.
+
+Two types of nectophore are associated in plankton net hauls with the same kind of bracts and siphosome. One of these, which has two vertical ridges on the lateral facet on each side, is the mature form figured by Dana (1858) (Pl. IX, fig. 2). Nectophores produced in the early growth stages appear (see Totton, 1954, p. 54) to have only one ridge on each side (Pl. IX, fig. 10). To this type Kawamura (1910/1911) applied the name Crystallomia polygonata Dana.
+
+The animal may reach a length of 13 cm and a width of 2, have eighteen nectophores on each side and from five to fifteen cormidia according to age.
+
+Agalma haeckeli Bigelow, 1911
+
+Agalma eschscholtzii Hkl. 1888
+non A eschscholtzii, 1843
+
+Described and figured from a single, small specimen taken off Beligemma, Ceylon. Both description and figures are inadequate. As Bigelow (1911b) judged, this is not a well established species, but it is included here in the hope that someone will keep a look out for it.
+
+The only recorded characters that might be regarded as specific are ribs, from three to five in number, on the bracts, and the patchwork of reddish pigment that they bear.
+
+Agalma clausi Bedot, 1888
+
+Stephanopsis clausi Bedot, 1896
+Agalma sarsi Fewkes, 1881 (preocc. Kölliker, 1853). non A. elegans (Sars) 1846
+
+This species was well figured and described by Bedot (1888) from three specimens taken at Villefranche, near Nice. It has not been recorded since then. Possibly it has escaped observation there because there is no copy of Bedot's paper in the Villefranche Station library. This paper by Bedot provides, perhaps, the most detailed description of any species of Agalma. But the nectophores were not described or figured adequately, so that I feel that there must be some doubt about the distinctiveness of the species. In some ways it resembles A. okeni, though the bracts are different. A. clausi has foliaceous bracts with parallel rows of red glands or pigment spots. The animal reaches a length of 24 cm and the stem is stiff and not contractile. There are thirteen nectophores or so on each side. They 'are like those of A. elegans and A. okenii', Bedot said, although the nectophores of these two species are unlike one another.
+
+[NOTE: in the "Key to species of AGALMA" leader dots run from each lead to its right-hand entry; they are omitted above and a single tab substituted. The right-hand entries are set in bold italic. Lead 1's first option gives only "okeni" with no page reference, and no lead in the key directs the reader to "3" — both as printed. The species names in the section headings are bold italic; "AGALMA" in the key title is bold italic small capitals. "non A eschscholtzii, 1843" is printed with no full stop after "A". "Crystallodes vitrea" and "A. okenii" are printed thus. In the first line of key lead 1 there is a wider-than-normal space in "Distal border of  bract"; normal spacing is used above.]

@@ -1,0 +1,22 @@
+[PAGE 13]
+
+[NOTE: English translation, born-digital. Plate IV is a scan of a halftone plate from the French original, so its internal lettering (C.Sph.G., C.Sp., C.Sph.H., M., F.M., Ect. and the scale "10µ.") is the French original's while the caption beneath is the translator's English. Printed as-is in the text: "some spherical cells are differentiation in the hypostomial region" (for "se différencient"), "synthesise their secretions proportional to and according to their utilisation", and "are tinged in a variable way". The lettering is listed inside [PLATE] in reading order, top band then the row of labels along the foot.]
+
+[PLATE]
+10µ.
+C.Sph.G.
+C.Sp.
+C.Sph.H.
+M.
+F.M.
+Ect.
+
+Plate IV.
+Zone of transition between the hypostomial and gastric regions of a gastrozooid (longitudinal section).
+[/PLATE]
+
+cell is then reduced to its basal part containing the nucleus but it is sufficient in some hours for it to regain its normal aspect.
+
+After the spumous cells, some spherical cells are differentiation in the hypostomial region. They are much narrower than their predecessors (Pl. IV). Their small, median nucleus is provided with a large nucleolus, partitioning the cell into two regions. In the basal region, the cytoplasm is clear, very finely granulated, weakly staining. In contrast, at the apical pole, the cytoplasm is invaded by small, very numerous vesicles, arranged one against another, containing some particles of secretion. These oral, spherical cells are never emptied of their contents. They synthesise their secretions proportional to and according to their utilisation and are thus of the merocrine type.
+
+The middle region of the gastrozooid is characterised by the presence of spherical gastric cells. These cells, of relatively large size, have the shape of a cone or a knob according to the position that they occupy and the pressures that support them (Pl. IV). They have a quite reduced basal region, with dense cytoplasm surrounding the nucleus. Then the cells enlarge and show three very large particles of spherical secretions. These gastric cells are drained completely of their contents during the course of digestion and are tinged in a variable way according to the stage of elaboration of their secretions.

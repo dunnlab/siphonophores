@@ -1,0 +1,66 @@
+[PAGE 126]
+
+126	[RUNNING HEAD] A SYNOPSIS OF THE SIPHONOPHORA
+
+Genus: LILYOPSIS Chun, 1885
+
+I designate as type species Lilyopsis rosea Chun, 1885.
+
+Chun* included three species: (1) L. diphyes Vogt, L. diphyes Kölliker; (2) L. medusa Metschnikoff (? L. rosea Chun); and his new one (3) L. rosea Chun; L. diphyes of Vogt & Kölliker belongs to Desmophyes.
+
+The type species was founded on two polygastric specimens with eudoxids borne on the stems.
+
+We are very uncertain about the identity and morphology of species of this genus. No preserved specimens are known to exist, and the literature is very confused and descriptions and figures inadequate. A prolonged visit to Villefranche might enable a systematist to find specimens.
+
+Chun did not mention the somatocyst in his L. rosea but in L. medusa it is figured as being prolonged into the mesogloea.
+
+Lilyopsis rosea Chun, 1885
+
+Plate XXVII, figure 1
+
+'Praya diphyes Blainville' of Graeffe, 1860; non 'P. diphyes Blainville' of Vogt, 1852 (= Desmophyes annectens Hkl.)
+? Praya medusa Metschnikoff, 1870
+Lilyopsis diphyes Moser, 1917, 1924a
+
+Polygastric phase (Pl. XXVII, fig. 1)
+
+Up to three reserve bells may be present. Nectophores of equal size, wedge-shaped in side-view with conspicuous, large nectosacs, whose lateral radial canals are meandering. Somatocyst simple, prolonged into mesogloea of nectophore. Chun did not mention ostial tubercles or pigment spots. But Metschnikoff did.
+
+[FIGURE]
+c3
+gz
+A
+cn
+br
+go.♂
+n
+p
+p
+
+B
+gz
+br
+n
+t
+p
+
+C
+go
+br
+gz
+n
+
+FIG. 72. Lilyopsis rosea Chun. Eudoxid phase
+A, × 8.6, after Chun (1885); B, × 22, after Moser (1917); C, × 2.8, after Graeffe (1860)
+br = bract; c3 = dorsal bracteal canal; cn = cnidosac; go.♂ = male gonophore; gz = gastrozooid; n = asexual nectophore; p = pigment spot; t = vestigial tentacles.
+[/FIGURE]
+
+Eudoxid phase
+
+(Text-figs. 71, 72.) Six bracteal canals, but no pear-shaped 'central organ'. There is a large asexual nectophore with bright red pigment spots and tubercles on the ostial margin, whose radial canals arise in two pairs from the pedicular canal, and a bunch of small unisexual gonophores with reduced umbrellae. Male and female eudoxids occur on the same stem.
+
+[FOOTNOTE] * Chun (1891) said later on: 'Under the name Lilyopsis I included some Diphyids previously ascribed to Praya, characterized by the lack of sharp ridges on the rounded swimming bells and bracts, and by the occurrence of special swimming bells that ripen on the stem' (p. 559).
+
+[NOTE: the labels inside [FIGURE] are lettered on the three drawings (A left, B centre, C right) and are listed in reading order within each drawing. The "go.♂" label uses the printed male symbol, reproduced here as "♂", both on drawing A and in the caption. The "3" of "c3" is printed as a superscript. Drawing A carries two separate "p" labels. No other text is printed on the illustration.]
+
+[NOTE: the "?" opening the second synonymy line, and the "?" in "(? L. rosea Chun)" in the third paragraph, are printed and are the author's own queries. No printed square brackets occur on this page.]

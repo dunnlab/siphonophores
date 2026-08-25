@@ -1,0 +1,704 @@
+<<<PAGE pdf=1 file=page_001.txt>>>
+[PAGE 1: unnumbered]
+
+[NOTE: pp. 1–12 of this PDF are a born-digital typescript English translation of the paper, with the translator's and Totton's bracketed comments; the Japanese original follows later in the file.]
+
+Genus Agalma and Crystallomia
+by Tamiji Kawamura
+Dobutz, Z. Tokyo 22[23], 1-10, 1911 [No. 267]
+[pl. 16 of vol. 22 ?1910]
+[Who was "my senior Mr. Kawamura"?]
+
+The bracketed [..] and emboldened comments are Totton's marginalia.
+
+The following siphonophores belong to the family Agalmidae, suborder Physonectae, order Physophorae. The structural features of this family are as follows: the stem is long and cylindrical; the nectosome consists of nectophores in 2 rows; the bracts and palpons are situated on the cormidia; the cnidoband is spiral, either partially or wholly covered by an involucre.
+
+Although the Agalmidae include a large number of comparatively common siphonophores, there are, however, 2 or 3 genera with quite complex characteristics, not found in previous investigations among other members of the family. However, since the classification of a great many of the old genera is indefinite, and rather confusing the taxonomic characters of this family is no different from other families.
+
+Haeckel, in 1888, recorded 10 genera and 32 species of known siphonophores in the "Challenger" report but there must have been an exceedingly large number of species omitted from this report. Consequently, in 1895 Bedot contemplated the reclassification of this family. Also there are 2 or 3 other classifications by other investigators. We do not, of course, altogether lack some sort of taxonomy for the family at present. Yet, considerable difficulties are encountered because no accurate observation of Pacific species has been made for almost a half century, and the specimens caught on the various expeditions are not all sufficient for identification.
+
+Family Agalmidae can be divided into 2 subfamilies as follows:
+
+1. Subfamily Crystallominae
+The hard, short siphosome is surrounded by thick, muscular pyramidal bracts; and is almost the same length as the nectosome. The cnidoband is entirely enclosed by an involucre.
+
+2. Subfamily Anthemodinae.
+The siphosome is equipped with leaf-like or relatively flat bracts, is soft, and considerably longer than the nectosome. The cnidoband is partially enclosed by a bell-like involucre around its upper part.
+
+Among many siphonophores belonging to this family, observed by the author near Misaki, there were 5 species definitely identified upon close examination of their structure.
+
+Agalma okeni Eschscholtz and Crystallodes polygonata Dana belong to the first subfamily.
+
+Agalmopsis elegans Sars, Stephanomia amphitrides Huxley, and Cupulita picta delle Chiaje [Metschnikoff] are of the second sub-family.
+
+In the following only the first two species shall be discussed leaving others for a later date. For Agalma okeni the Japanese name "Yoraku Kurage" was used by my senior Dr. Kuwano, but Crystallomia polygonata [okeni] the author wishes to name, in Japanese, "Koyoraku Kurage" [Translator's note: "Ko..." signifies either a child or a baby in English] because of its general smallness although quite similar to the former.
+
+<<<PAGE pdf=2 file=page_002.txt>>>
+[PAGE 2: unnumbered]
+
+Genus AGALMA
+Bracts in 8 rows; 2 longitudinal ridges.
+Agalma okeni Eschscholtz. Plate 16, 1-8 [Vol. 22].
+
+This species very commonly occurs near Misaki especially in winter, and in early spring it occurs in large numbers. The body is cylindrical in shape, with rounded ends. Even the small ones attain the size of 8 cm in length, 2 cm in width, while the large ones sometimes exceed 13 cm in length and 3 cm in width. Seeing them float on the sea surface, it is obvious that they reach the surface when the water is calm but a slight sea makes them descend immediately. Generally, the main axis of the body is maintained diagonally but it may sometimes be perpendicular or horizontal.
+
+The body itself is divided into two parts - the upper part is the so-called nectosome and the lower is the siphosome. Through their centre, the axial stem is situated - which is generally in a straight line but occasionally found to be otherwise.
+
+The nectosome is a dodecagonal shaft slightly tapered toward one end, whose diameter is slightly less than that of the opposite end. It consists of a small pneumatophore at the apical end and 2 rows of nectophores (swimming bells) each row partially overlapping each other.
+
+The pneumatophore is a small egg-shaped bag almost twice as high as it is wide and contains reddish brown pigment at its apex. Within the pneumatophore, there is an air sac with 8 partitions giving the appearance of 8 stripes when seen from the outside. If a live specimen is observe, the pneumatophore is often draw into the nectosome by the vigorous contraction of the stalk.
+
+The nectophores bud out from the underside of the pneumatophore one over the other in an orderly manner. The extent of this growth downward is an indication of its age. If a nectophore is examined, it is seen to be bilaterally symmetrical, flattened upwards and downwards, while from the centre toward the rear [inside?] it becomes thinner like an oar.
+
+When observed from above or below the  nectophores resemble the bridge of a stringed instrument ("Koto - Jap. instru.). Both their upper and lower surfaces are large, and they are octagonal in outline. Along the centre of the upper side there is a slight depression forming a gutter running along the median line and on the underside an inconspicuous ridge both extending to the front side, and terminating above and below the opening of the nectosac. Both lateral surfaces of the nectophore are extremely narrow and two perpendicular ridges divide each surface into 3 smaller areas. That is, the forward and the centre parts are square and the terminal end is a triangle. The front (outer) side of the nectophore is small, almost square and the centre is round where the opening of the nectosac is situated around which a wide marginal membrane is found.
+
+The nectosac is comparatively small situated only in the front half of the nectophore and clearly divided into three parts, that is, a median cylindrical part and a pair of coelom-like pouches which branch out from the first part at right angles. The coelenteron growing from the stem, enters the gelatinous part of the nectophore in the median line - that is, at the base of the curve. This canal branches immediately into a pair of simple canals upward and downward while the main canal reached directly the apex of the nectosac by piercing through its gelatinous part. At this point the canal branches out into 4 radial canals. Of these, the superior and inferior radial canals run unbranched along the nectosac (The other canals) first coil on the upper wall of the nectosac and then turn toward the lower wall, finally reaching the mouth of the
+
+[NOTE: the opening quotation mark before "Koto - Jap. instru.)" is unpaired, and "observe" / "draw" appear thus (for "observed" / "drawn"); transcribed as printed.]
+
+<<<PAGE pdf=3 file=page_003.txt>>>
+[PAGE 3: unnumbered]
+
+nectosac. With this circular canal, it comes connected with both the superior and inferior canals.
+
+There has been a theory as to how the nectophore is attached to the stem. When the nectophore is separated from the stem, the attached part (lamella?) of the entire nectophore aligns on one side of the stem. Consequently, it has also been a commonly accepted fact that growth of nectophores in 2 rows is nothing more than the result of a twisting of the axis. This interpretation was accepted not only be Claus and Gegenbaur, but also by many other scientists and it is as yet a widely used definition in many books today. However, this theory was later learned to be erroneous. In 1897, Chun corrected this theory of constriction with his "Knospungsgesetz der Schwimmglocken" which states that the nectophore budding at the ventral side buds lateral to both sides [i.e. moves alternately from one side to the other], the stalk of the mature nectophore becomes the supporting lamella (Stielamella), a rectangular membrane, and bends at both ends, hence, its lateral alignments. Following this presentation of Chun's definition, Schneider offered a very strongly refuted interpretation but it was nothing more than a hypothesis without the proof of actual observations of a specimen. The facts that the stem of the nectosome is not at all twisted, and the growth of the supporting lamella (Stiellamella) [peduncular lamella] laterally from the ventral side to both left and right were easily verified by this author with 5 species of this family and the genus Physophora, and further these facts can be readily recognised when the living specimens are inspected. Thus, it is difficult to understand why such errors were never corrected during all these years. It is, therefore, sufficient to say that many records in the past in the field must have been similarly based on incorrect definitions of the specimens.
+
+As has been described previously, the nectophores bud one by one from directly below the pneumatophore. Therefore, if their young forms attach in a group at this point, are studied, the various stages of growth can be easily observed. Hence, it is possible to learn how they develop.
+
+Although this was known to Leuckart, Kölliker, Vogt and Claus etc. with various genera studied, in 1860 Claus further continued the study of this question with Stephanomia contorta.
+
+Our species of Agalma, too, has a multiple row of juvenile nectophores directly under the pneumatophore, therefore, this genus is a most ideal object in retracing the developmental stages of nectophores and generally coincides with what has already been described by other investigators. However, our species differ in one respect - that is, during the growth of the radial canal to left and right (this will be discussed later) it temporarily develops a sac-like inflated part [diverticulum]. Briefly describing it at this time, the author may say that the nectophore at first buds out from the stem like a nipple with ectoderm and endoderm. This process is shaped like a ball at first but shortly becomes flash-shaped as its basal part becomes constricted its terminal ectoderm layer forms a depression (groove) in which the buds of the bells (Glockenkern) are developed. The neck of the "flask" later becomes a longitudinally flat membrane (sac) then a supporting lamella (Stiellamella) which has been described already. The coelenteron within, gradually, connects the cavity between the stem and the nectophore and then the inflated part of the "flask" that constitutes the main part of the nectophore by taking a laterally symmetrical form as it is slowly pressed both upward and downward. Prior to this, a division of the central part becomes transparent and goes out through an opening while the ectoderm (outside layer) becomes, a so-called superior covering layer of the inside of the nectosac. The muscular wall of the nectosac develops from doubled endoderm by
+
+<<<PAGE pdf=4 file=page_004.txt>>>
+[PAGE 4: unnumbered]
+
+forming a depression because the growth of the nectophores (Glockenkern). As the space between these double layers gradually disappears when they heal together, a part of the nectosac grows into a circular canal and 4 radial canals of the nectophore. From this doubled endoderm toward the outer side - that is, between endoderm and ectoderm the gelatinous substance  is produced. This is most conspicuous at the sides of the base, and gradually spreads toward the other parts, finally lifting the ectoderm. The cells forming the ectoderm can be seen like a superior covering layer of beautiful paving stones in a young nectophore but such a condition cannot be seen when fully developed [sometimes]
+
+Of the 4 radial canals, the lateral ones develop an inflated section at the end of the "horns" of the nectosac [diverticulum]. The inflated part, at first, is large and long but gradually decreases in its circumference and length finally disappearing completely. Consequently, in a fully developed nectophore such an inflated section cannot be seen. However, with an ordinary specimen a trace of this growth can be easily seen, even with the naked eye, on several nectophores situated on the nectosome. [No connection or homology between these diverticula and the 'rete' in H. hippopus]
+
+This temporary growth of an inflated part, since it also has a bearing on the exterior shape of the nectophore, does not occur in the genus Crystallomia which has one less longitudinal ridge on the lateral side of the nectophore as compared with the genus Agalma. [!!!?]
+
+The growth of an inflated part on the radial canal has been made known by Eschscholtz as early as 1829. He, however, wrongly identified it as a part of the nectosac (of the nectophore). Aside from this observation this particular developmental stage in the entire siphonophore group has never been reported except in the genus Hippopodius [ventr. sinus]. In this genus the part forms the shape of a war-truncheon (see above) on the ventral radial canal, and it is a permanent organ while the same part in the genus Agalma is a temporary development. Now, if this question of the structural difference of these radial canals is to be stressed, the taxonomic classification is still further divided sometimes as either Monophyidae or Diphyidae. In any case, their structural characteristics, perhaps, may be similar to the inflation of the radial canal in the case of Agalma okeni.
+
+Toward the lower half of the body is the siphosome, consisting, according to our observations, 0f 5 to 15 connected cormidia. Each cormidium consists of a bract, a palpon, a siphon, a tentacle and a gonodendron. Of course, the lower the position of a cormidium the older it is. The siphosome as a whole is almost equal in length to the nectosome but slightly greater in width. But since the entire surface is covered with thick polygonal bracts, it can be safely said that neither the longitudinal nor the lateral dimension changes at all [passing from nectosome to siphosome]. It should be noted that since the stem (which is the axis of the body) twists 90° between the nectosome and siphosome without their ventral sides [? so that ventral sides are not aligned?] coming together [and so] the nectophores of the nectosome growing toward left and right meet the dorsal and ventral side of the siphosome respectively. [ NO twist. The growing points of nectosome and siphosome are on opposite sides of larva in Agalmids (see my large series of larvae of S. bijuga from Villefranche.] Generally, the width of the nectosome and the dimension between the dorsal and the ventral sides of the siphosome are greater. Consequently, this 90° twist in the stem makes their shapes ideally adapted to each other. Further, this structural characteristic seems to be significant in the locomotion of the animal.
+
+[NOTE: "0f 5 to 15 connected cormidia" is printed with a zero for the o of "of"; transcribed as printed. In the marginal comment "opposite" is underlined in the original.]
+
+<<<PAGE pdf=5 file=page_005.txt>>>
+[PAGE 5: unnumbered]
+
+The numerous thick, hard bracts which protrude at right angles to the stem closely surround the stem leaving practically no space between each other. They may vary in size but the shape  is always the same. They are oar-like or diagonally oblique drill-like. The end near the stem is a blunt wedge while the other ends in the form of a parallelogram as if  it was cut off. The external surface of the bract is divided into 4 small surfaces by ridges. With the exception of the centre ridge a still smaller space is formed at the lower end of each remaining ridge - in each case each area is slightly depressed. The upper side of the bract is raised as a whole, it has indistinct ridges along its arrow-like stem, dropping to right and left. The underside is very much like the upper, only often found to be saddle-like. Within the bract a small canal runs from the inner attachment along the median line on the underside and connects with the coelenteron by a tubular canal.
+
+In each cormidium there are usually 8 bracts, 4 each on the right and left. There manner of piling, too, is quite orderly and 8 rows of bracts are developed about the entire siphosome. For example, on the left side, the left end of the first row of bracts lies slightly over the right end of the second row of bracts - thus 3rd and 4th in order - those of the right contrast those of the let. Thus opposite rows are a mirror image of one another. Furthermore, the size of the bracts  increases from the dorsal side toward the ventral side.
+
+The bracts on the ventral side of the siphosome do not grow so closely as on the dorsal or lateral sides. Instead, between the lateral bracts there is a slight space through which palpons, tentacles and siphons are extruded.
+
+Rarely 9 bracts are found on a cormidium in which case the extremely small additional bract is developed on the dorsal side considerably later than the normal set. Chun has, however, recorded his finding of an internodal bract on an Agalma in the Atlantic Ocean. This specimen did not have a canal running through the bract and thus differs from this author's specimen. Furthermore, I have not yet seen a so-called "internodal bract" [i.e. no canal & dorsal] in either Agalma or Crystallomia.
+
+Up to the present, the manner in which siphonophore bracts attach themselves to the stem have been described in many different ways, but none of the descriptions are clear. For example, Haeckel (1888) in describing the Atlantic species of Crystallodes, stated that the inner end of the bract is pointed, by which it attaches itself to the stem, and even in other species it was similarly defined and also shown in the illustrations. Huxley (1859) on the other hand, insisted that in Stephanomia the bracts are attached by a triangular process, while Claus (1879) also reported the presence of very muscular stalk in Halistemma. Fewkes (1881), too, figures the growth of a somewhat similar part in Agalmopsis elegans. However, a discussion of this is omitted here.
+
+The author has definitely observed the presence of a fine muscular stalk on all 5 Japanese genera of Agalmidae examined. The position on the stem from which the petal-like forms develop is similar to the connecting lamella of the nectophore and the growth of laterally flat connecting lamella is like the pages of a book on both sides of the stem as can be seen when the 4 bracts are aligned on one side as is the case in Agalma. However, the bract and the connecting lamella attach themselves longitudinally along the stem but never by the pointed end of bracts as Haeckel described. Such a structural arrangement is easily understandable. If examined more closely under a magnifying glass, it can be easily seen without dissection.
+
+ The developmental stages of the bract are well known and have been described by such investigators as Claus and Agassiz for siphonophores in this family. But the findings of the author on these same species were not of as simple
+
+[NOTE: "There manner of piling" and "those of the let" are printed thus (for "Their" and "left"); transcribed as printed.]
+
+<<<PAGE pdf=6 file=page_006.txt>>>
+[PAGE 6: unnumbered]
+
+nature as had been reported. First of all, at the upper end of the siphosome many new cormidia grow one after another, so that bracts in various stages of development can always be seen on close examination. At first, the bract is vesicular with ectoderm and endoderm as is usual in any polyp and protrudes from the stem into the water. This bud is shaped like a nipple, but gradually extends to form a spindle. Later, the inner end develops a stalk with a pointed outer end. From this, as in nectophores a gelatinous substance develops rapidly in the inter-dermal space. Finally the mature form is reached. However, the growth of the gelatinous substance is not uniform. At first, the inner half of this spindle-shaped process attained a longitudinal form as it is pressed from right and left while the outer half gradually moves downward so that the process resembles long boots. The coelenteron in the developing bract spindle-like in form is connected with the stem through contact with the coelenteron of the supporting lamella on the inner side of the bract. Then, at the parts simulating the back and both sides of the foot part of this "boot", the growth of gelatinous substance becomes exceedingly vigorous but its "toes" appear to be cut off. This surface becomes divided into 6 smaller sections.
+
+In the development of a bract as in the case of a nectophore, the endoderm is lifted up as the gelatinous substance increases and the ectodermal cells arranged like paving stones sometimes attach themselves to the surface of the gelatinous substance. Furthermore, here and there are scattered wart-like processes with groups of nematocysts. By this time the size of the canal inside the bract is not uniform, inflating like a spindle near the outside. And the outer ectodermal later lining the coelenteron [??] can be seen very clearly. However, when the bract completes its growth, these inner and outer cells completely disappear without trace and the canal is thread-like. But the growth of the gelatinous substance is quite vigorous near the upper and lateral surfaces while weak on the lower side. Consequently, this canal runs near the under side of the bract. Finally, therefore, the pointed process present in the beginning is comparable to the lower and to the median line of the 3 longitudinal ridges seen from the outside.
+
+When all the bracts attached to the siphosome are removed, other individuals can be clearly seen among which the most numerous and conspicuous are the palpons.
+
+Located on the ventral side of the stem are the small, transparent, spindle-shaped palpons with extremely thin layers. These contract vigorously and have other movements. The pointed end is surrounded by numerous nematocysts and the small palpon filament grows from its base. This small filament is covered by many small bunches of nematocysts equally spaced. These have been observed on the tentacles of other siphonophores, but they have not been recognised on the palpon filament before insofar as the author is aware. in an earlier report, it is stated that "there is perhaps a palpon filament on various species of Agalma but it has not been possible to detect it so far". No one, as yet, has detected this growth [?] This is probably due to its extremely small size and in addition it is also very difficult to detect the presence of such a structure in a preserved specimen which may have lost it either partially or completely. Usually, the growth of the palpon and the palpon filament [is] horizontal and toward the ventral side, but this does not necessarily limit its development in other directions. The number of palpons on a cormidium does not ordinarily exceed 15, including both young and old individuals. However, the distribution of the palpons is more or less orderly, divided into 2 groups one group encircling the upper, right and left sides of the siphon while the others cover the similar sides of the male and female gonophores. Each cormidium has a slightly larger siphon, with a short stalk, a cylindrical basal part, a wide, easily expandable stomach and a proboscis able
+
+<<<PAGE pdf=7 file=page_007.txt>>>
+[PAGE 7: unnumbered]
+
+to open and close with the capacity to contract and expand readily. Inside of the stomach are 8 lines of hepatic ridges [English words used in text].
+
+The young siphons can be identified quite easily as they are, in the early stages of development most conspicuous with their processes common with the polypoid individuals. Then the ectoderm suddenly starts to grow, attaining its thickness, during which numerous nematocysts are seen to develop. Subsequently, after the completion of the basal part, the stomach and the proboscis are developed as the ectoderm and endoderm extend forward.
+
+A tentacle develops from the upper side of each siphon stalk, the tentacle is long and narrow with knots (tied parts) [nodes] equally spaced, from whose individual nodes lateral branches grow. Each lateral branch has a small elongated stalk, the cnidoband encased in an involucre, a terminal ampulla and two lateral horns. The cnidoband is a beautifully red colour, narrow felt-like part which turns 7 to 9 times in a spiral fashion. On this not only countless number of nematocysts are arranged but on the half near the base exceedingly large nematocysts are found attached along the sides. On the lateral horns, too, many small nematocysts are scattered and the  involucre is formed by an assemblage of colourless, transparent, polygonal cells.
+
+On the development of the cnidoband a more detailed discussion will be made with Physophora at a later date. However, at this time, a brief account of developmental stages of this particular genus will be given below. When a siphon gradually attains its length after budding, other slightly smaller long and slender buds can be seen growing at the base of this siphon, which is actually a tentacle on whose dorsal part found attached in a row are bead-like processes that subsequently become the lateral branches. As one of these processes grows into 3 different parts after attaining an elongated cylindrical shape the first part simply continues its growth in the original form finally becoming the stalk while the second part commences to hold numerous nematocysts on one side of its ectoderm, gradually bending into a spiral shape and finally forming a cnidoband in band-like fashion. The end of the third part longitudinally separates into 3 sections, the middle one becoming the terminal ampulla and the other two the lateral horns. However, the involucre is developed through the growth of the ectoderm developing near the first and the second parts, as it simply covers the cnidoband at first like a temple bell but later it encloses the cnidoband attaching itself between its original position and the 3 previously described terminal branches.
+
+Numerous male gonodendra develop a pair of male sexual gonophores on the ventral side of the stems. A mature male gonophore is spindle-shaped, 3 mm in length [check in original] 9 mm in width [check in original] and its short stalk is connected to the stalk of the male gonodendra. It is a complete medusoid individual in the spadix of which are found the sex cells, and on its external bell a part analogous to the umbrella, quadriradial and circular canals are situated, but it is extremely difficult to recognise these parts on a live specimen.
+
+A single female gonodendron on which female gonophores are attached is longer than the male gonodendron and on this numerous female gonophores are found, those at the end are most mature. The adult gonophore [gonodendron] is oblong (cylindrical) reaches a size of 21 mm in length and 1.2 mm in width, within which is a single coloured egg which develops on the stalk of the medusa - the coelenteron which, ordinarily should, passes through the stalk, becomes like mesh and encloses the egg. Like the male gonophores it has a quadriradial and circular canal. As far as the development is concerned it will be discussed at another time.
+
+<<<PAGE pdf=8 file=page_008.txt>>>
+[PAGE 8: unnumbered]
+
+Crystallomia
+
+6 rows of bracts; 2 longitudinal ridges [? one on each side] on the lateral surface of the nectophore.
+
+Crystallomia polygonata Dana [? juvenile form of A. okeni]
+Plate 16; Figs 1-12 [9-14], Vol. 22
+most common names given; [is this translation of Kawamura?]
+
+Agalma breve Huxley [1.8 cm. a juvenile specimen of A. okeni (only 1 vert. ridge on each lat. facet of nect.)]
+Crystallodes rigidum Haeckel
+Crystallodes vitrea Haeckel
+Stephanomia incisa Schneider
+Agalma pourtalesii A. Agassiz and Mayer
+Agalma virida Mayer
+(Translators remark: above names are referred to Japanese name.)
+
+This species does not occur as often as the previous species. The general shape is similar to Agalma okeni but smaller. The specimens studied by the author were approximately 5 to 8 cm in length and 1.5-2 cm in width. The species has one ridge on its [nectophore] lateral surface and two rows of nectophores constitute the nectosome forming an octagonal column.
+
+When the nectophore [nectosome] is observed from either the ventral or dorsal side, the smallness of the longitudinally running ridges in comparison to Agalma okeni can be easily recognised. These differences are extremely helpful in identification of the 2 siphonophores discussed herein.
+
+The various stages of growth are generally identical to the previous species and the only difference is that this species does not develop a temporary inflated part on the 2 lateral radial canals of the nectosac. Consequently, the inflated part is difficult [impossible] to detect even on the young nectophores at the apex of the nectosome. The siphon is formed with a group of 6 to 10 stems [?palpons] and the exterior surface of 6 rows of bract which encircle the siphosome are divided into 4 small areas by 3 ridges. However, 2 further divided areas of the surface as in the case of Agalma okeni is not common. The most outstanding distinction between these siphonophores is the differences in the structure of the tentacular lateral branches. With this species, the spiral turn of the cnidoband does not exceed more than 4 to 5 times and the terminal ampulla has a ciliary growth and the lateral horns do not reach the length of the terminal ampulla, having nematocyst only on one side. The number of palpons, too, is smaller in comparison with the previous species, generally not more than 10.
+
+The discussion in reference to the relation of these two species of siphonophores and of other genera of this family will be made later.
+
+<<<PAGE pdf=9 file=page_009.txt>>>
+[PAGE 9: unnumbered]
+
+[NOTE: full-page plate. The plate block is printed rotated 90° anticlockwise on the page (read by turning the page clockwise); the running head "PLATE IX" and the footline below the plate are set upright. Transcribed as if the plate were correctly oriented.]
+
+PLATE IX
+
+[PLATE]
+Figures 1-14.
+
+1. p n b t
+2. ns v
+3. tp ns
+4. bc
+5. [no lettering]
+6. bc
+7. fg mg sp plb bg
+8. tp cn th ta
+9. p n b t
+10. ns v
+11. ns
+12. bc
+13. so sh bg sp plb fg mg pl ple t
+14. tp cn th th ta
+[/PLATE]
+
+[Copied from Totton, 1965, Pl. IX]
+
+[NOTE: the figure lettering is engraved in a very small sloping italic; the readings above are of the letters that can be resolved at 300 dpi. In the plate's own orientation the figures run, left to right and top to bottom, roughly 1, 2, 3, 9, 10 / 7, 11, 12 / 8, 13, 14 / 6, 4, 5. Figure 5 carries no letter that I can see.]
+
+<<<PAGE pdf=10 file=page_010.txt>>>
+[PAGE 10: unnumbered]
+
+Legend to Plate 16, Vol. 22
+[This legend appears on p. 10 of Vol. XXIII]
+
+Agalma okeni Eschscholtz
+Fig. 1 Natural size seem from left. p. pneumatophore; b. bracts; t. tentacles. Small beads seen under pneumatophore are young nectophores.
+Fig. 2. Nectophore seen diagonally from above slightly to one side (x3 approximately). ns. nectosac; v. velum.
+Fig. 3. Young nectophore seen from above (x 3). ns. nectosac; lp. inflated (expanded) pouch-like part of the right and left radial canals. About this time, the median line of the upper side forms a groove (a depression) and at the same time the upper side becomes larger then the lower side. Consequently, both lateral sides can be seen from above.
+Fig. 4. Lateral view of bract (x 3). bc. bracteal canal.
+Fig. 5. Same seen from ridged side to the left (x 3).
+Fig. 6. Young bract seen diagonally from side (x 3). bc. bracteal canal. Black spots seen scattered on the surface are nematocysts.
+Fig. 7. Cormidium without bracts seen from the right (x 8). plb. bracteal lamellae; pl. palpons; ple. palpon filament; sp. siphon (stalk); bg. (siphon (basal part); sh. siphon (stomach); so. siphon (proboscis); t. siphon (tentacles); fg. female gonophore; mg. male gonophore.
+Fig. 8. The terminal cnidoband of a tentillum (x 15). tp. stalk; cn. cnidoband; the. involucre; ta. terminal ampulla; lh. lateral horns.
+
+Crystallomia polygonata Dana
+Fig. 9. (Natural size). Siphonophore seen from left. Symbols same as Fig. 1.
+Fig. 10. Nectophore seen diagonally from above, slightly to one side (x 3). Symbols same as Fig. 2.
+Fig. 11. Young nectophore seen from above (x 4).
+Fig. 12. Bract seen from outside (ridged side) (x 3).
+Fig. 13. Cormidium, seen from the right side, without bracts (x 8). Above and below the next cormidia are partially shown. Symbols same as Fig. 7.
+Fig. 14. Cnidoband on the end of tentilla. Symbols same as Fig. 8.
+
+[NOTE: "seem from left" in Fig. 1 and the unclosed parenthesis in "bg. (siphon (basal part)" are printed thus.]
+
+<<<PAGE pdf=11 file=page_011.txt>>>
+[PAGE 11: unnumbered]
+
+[NOTE: the upper two thirds of the page is a photographic reproduction of the text-figures of the Japanese original, with their original Japanese captions and katakana reference letters; over these a later hand (Totton) has written arabic figure numbers and roman letters a, b, c, d, e beside the katakana. The typed English legend below is upright. The katakana keys are small and blurred in this reproduction; readings marked [?] below.]
+
+[FIGURE]
+第七圖
+1
+2
+3
+4
+[/FIGURE]
+
+[FIGURE]
+第六圖
+腹側正中線	背側正中線	腹側正中線
+[/FIGURE]
+
+[FIGURE]
+第九圖
+1
+2	ハ	キ	イ	フ
+[/FIGURE]
+
+[FIGURE]
+第三圖
+[?ロ] [?ハ] [?ニ] — with Totton's a, b, c
+[/FIGURE]
+
+[FIGURE]
+第八圖
+1
+2
+[/FIGURE]
+
+[FIGURE]
+第四圖
+1
+2
+[/FIGURE]
+
+[FIGURE]
+第一圖
+甲	[?キ] a	[?カ] b	[?エ] c
+乙	[?キ] a	[?カ] b
+[/FIGURE]
+
+[FIGURE]
+第二圖
+1
+2
+[/FIGURE]
+
+[FIGURE]
+第十一圖  [Totton: 11]
+♂	♀	[?ホ]	[?カ]	[?タ]	[?ヲ]
+[/FIGURE]
+
+[FIGURE]
+第十圖  [Totton: 10]
+1
+2
+3	[?ヘ] c	[?ヒ] d	[?シ] e	[?シ] a	b
+[/FIGURE]
+
+[FIGURE]
+第十二圖  [Totton: 12]
+1
+2
+3
+[/FIGURE]
+
+[FIGURE]
+第十三圖  [Totton: 13]
+[?エ] a	[?セ] b	[?ヱ] [?セ] c	[?ホ] [?ヘ] d	[?カ] e
+[/FIGURE]
+
+[FIGURE]
+第五圖  [Totton: 5]
+[?エ] a	[?セ] b	[?ヱ] [?セ] c	[?ホ] [?ヘ] d	[?カ] e
+[/FIGURE]
+
+Legend for Vol. XXIII, Figs 1-13 [on p. 10]
+[? all figs except 10, 12, 13 appear from translation to refer to Agalma okeni. 10, 12, 13 refer (?) to Crystallomia polygonata]
+
+Fig. 1. Pneumatophore - side view and section. a. pneumatosac; b. septum; c. young nectophore.
+Fig. 2. Shows nectophore viewed from above and in lateral view.
+Fig. 3. a. stem; b. peduncular lamella; c. connection of coelenteron with nectophore.
+Fig. 4. Development of nectophore (shaded area gelatinous; hatched area endoderm).
+
+[NOTE: in the bracketed comment "except" is underlined in the original.]
+
+<<<PAGE pdf=12 file=page_012.txt>>>
+[PAGE 12: unnumbered]
+
+Fig. 5. Arrangement of individuals on cormidia. a. siphon; b. female gonophore; c. male gonophore; d. bracteal peduncular lamella; e. palpons.
+Fig. 6. Showing arrangement of the bracts.
+Fig. 7. Development of bracts.
+Fig. 8. Development of palpon and tentacle.
+Fig. 9. Development of siphons. a.; b.; c.; d.; (No translation).
+Fig. 10. Development of tentacle. a. lateral horn; b. terminal ampulla; c. stalk; d. involucre; e. nematocyst.
+Fig. 11. Male and female gonophores. a.; b.; c.; (No translation).
+Fig. 12. Development of nectophore (see No. 4).
+Fig. 13. Showing distribution of individuals on cormidia (refer to Fig. 5). a. siphons; b. female gonophore; c. male gonophore; d. bracteal peduncular lamella; e. palpon.
+
+<<<PAGE pdf=13 file=page_013.txt>>>
+[PAGE 13: unnumbered]
+
+[NOTE: Japanese scan begins here — from this page to the end the PDF reproduces the Japanese original (the journal 動物學雜誌), photographed from a bound copy, not the typed English translation of pp. 1-12.]
+[NOTE: vertical RTL type]
+
+[STAMP] MARINE BIOLOGICAL LABORATORY / LIBRARY / WOODS HOLE / MASS. [blue circular library stamp, upper left]
+
+明治四十四年發行
+
+動物學雜誌
+
+第二十三卷
+（自第二百六十七號
+至第二百七十八號）
+
+東京動物學會
+
+[STAMP] [blind-embossed circular seal at the foot of the page, largely illegible; the outer legend appears to read [?…OLOGICAL…]]
+
+<<<PAGE pdf=14 file=page_014.txt>>>
+[PAGE 1]
+
+[NOTE: vertical RTL type. The page is set in two horizontal tiers; the whole upper tier is read first, right to left, then the whole lower tier. The article title stands in the upper tier at the right and the byline in the lower tier below it. Transcribed in that reading order.]
+
+[RUNNING HEAD] 動物學雜誌第二百六十七號　（1）
+
+動物學雜誌　第二十三卷第二百六十七號　明治四十四年一月十五日發行
+
+論説
+
+●ヤウラククラゲとコヤウラククラゲ（第二十二卷第十六圖版附）
+
+理學士　川村多實二
+
+玆に述べんとする二種の管水母類は共に目Physophorae亞目Physonectae科Agalmidae（ヤウラククラゲ科）に屬するものなり、此科の特徴は、幹長くして圓筒狀、泳鐘部は二列の泳鐘よりなり、幹群に保護葉と感觸體とあり、觸手の刺胞叢は螺旋狀に卷きて半或は全部嚢を以て被はるゝこと之なり。
+
+ヤウラククラゲ科は比較的普通なる管水母類の多數を含める科なれば、其中二三の種に就て爲されたる研究には、他の管水母に多く其比を見ざる程細密なる者あり、然れ共古き屬種多く記載不完全なるが爲に此科の分類は、未だ紛亂の狀態にある事他の科に於けると大差なし。
+
+一千八百八十八年ヘッケルは『チヤレンジヤー』報告に於て、古來知られたる此科の管水母十屬三十二種を計上せるが、此時棄却せられたる種頗る多かりき、一千八百九十五年ブドーは此科の分類を新にせんと企畫せり。其他二三學者の此科の分類を云爲せしもの無きに非ざるも、太平洋種に就ては既に半世紀以上精密なる觀察の爲されたるものなく、各探檢船の取れる材料の如きは到底屬種を區別するに效無き有樣なれば、太平洋種の同定には尠からざる困難を感ずるなり。
+
+此の Agalmidae に二つの亞科を區別し得べし。
+
+1, Subfam.: Crystallominae（ヤウラククラゲ亞科）營養部（Siphosome の假譯）は肉厚き角錐形の保護葉によりて密に圍まれ、硬く短くして殆ど泳鐘部（Nectosome の假譯）と同長なり。刺胞叢は嚢により完全に包まる。
+
+2, Subfam.: Anthomodinae（シダレザクラ亞科）營養部は葉狀又は比較的扁平なる角錐形の保護葉を具へ、軟かに長くして泳鐘部よりも著く長し、刺胞叢は上部のみ鐘狀の被蓋を以て包まる。
+
+一
+
+[MARGIN] （論説）〇ヤウラククラゲとコヤウラククラゲ（川村）
+
+[NOTE: the roman-alphabet words are set in widely spaced type turned 90° within the vertical column; in "Siphosome" the medial s is faint. 「ヘッケル」and「ブドー」carry the vertical side-line used for personal names.]
+
+<<<PAGE pdf=15 file=page_015.txt>>>
+[PAGE 2]
+
+[NOTE: vertical RTL type. Two horizontal tiers; the whole upper tier is read first, right to left, then the whole lower tier.]
+
+[RUNNING HEAD] 明治四十四年一月十五日　（2）
+
+余が三崎近海に於て見たる此科の管水母中、明に其構造を檢し、種名を決定し得たるもの五種ありて、Agalma okenii ESCHSCHOLTZ, Crystallodes polygonata DANA は第一亞科に屬し、Agalmopsis elegans SARS, Stephanomia amphitridis HUXLEY, Cupulita picta DELLE CHIAJE は第二亞科に屬す。後三者に關しては他日を期し、玆に述ぶるは即ち前の二者なり。而して、Agalma okenii には既に先輩桑野理學士がヤウラク（瓔珞）クラゲの和名を命せられたれば、Crystallomia polygonata には、其ヤウラククラゲに似て稍々小なる點より、コヤウラククラゲの名を附せんと欲す。
+
+[NOTE: a printer's fleuron rule stands between the two paragraphs here.]
+
+○ヤウラククラゲ屬（Agalma）
+
+保護葉は八行に並列す、泳鐘側面には二箇の縱稜あり。
+
+ヤウラククラゲ
+
+Agalma okenii ESCHSCHOLTZ
+
+第二十二卷第十六版第一乃至第八圖、
+
+此種は三崎近海には最も普通なるものにして、殊に冬季及び初春の候に多し、體は兩端圓く終れる圓柱狀、小なるものにて長八セメ、幅二セメ、大なるものは長十三セメ、幅三セメを超ゆ、其海面に浮游するを見るに、水面靜なる時は全く表面に達せるも、少しく波立つ時は直ちに沈下す、通常體の主軸は斜に位置せるものなるが、時には垂直となり、又水平ともなる。
+
+體は上下の兩半に別ち得べし、上半は即ち泳鐘部にして、下半は營養部なり、兩部を貫いて體の中央に細き幹あり、泳鐘部の軸と營養部の軸とは通常一直線をなせども、稀に或角度をなせること無きにも非ず。
+
+泳鐘部は少しく一方向に扁壓せられたる十二角柱體にして、其短徑は長徑の半よりも少しく小なり。この部は頂端にある小なる氣胞と、相對して二行に並列せる泳鐘とよりなり、泳鐘は兩行交互に一部分重なり合へり。
+
+氣胞は小なる卵形の袋にして、其高さ殆幅の二倍、頂端は赤褐色の色素を有す。氣胞の内部には氣嚢あり、兩者の間の空隙には八枚の隔壁あるを以て、氣胞を外より見れば八條の線を見得可し。生ける動物に就て觀るに、氣胞は其柄部の活潑なる收縮によりて、急激に泳鐘部の中に引き込めらるゝことあり。
+
+泳鐘は氣胞の下に位する生長點より順次に芽出するものなれば、下に至るに從ひ其齡を增せり。今一箇の泳鐘を取りて驗するに、左右相稱にして、上下に甚扁平、且つ中央より後方に薄くなれること楔の如し。而し後方より深き彎入あるを以て、上又は下の面に對して之れを見れば琴柱に似たり。上下の面は大にして、八角形なる外廓
+
+二
+
+[MARGIN] （論説）〇ヤウラククラゲとコヤウラククラゲ（川村）
+
+[NOTE: emphasis dots (傍点) are printed beside 生長點, 芽出 and 下に至るに從ひ其齡を增せり in the last paragraph; the Latin genus and species names are set in italic and the authorities in small capitals.]
+
+<<<PAGE pdf=16 file=page_016.txt>>>
+[PAGE 3]
+
+[NOTE: vertical RTL type. Two horizontal tiers; the whole upper tier is read first, right to left, then the whole lower tier.]
+
+[RUNNING HEAD] 動物學雜誌第二百六十七號　（3）
+
+を有す、上面中央には輕き凹陷ありて、下面中央には輕度の凸隆あり、此凹陷と凸隆とは正中線を走る溝となりて前方に出で、泳嚢口の上下に至りて終る。泳鐘の兩側面は甚だ狹く、各は二條の縱稜によりて三箇の小面に分る、即ち前方及び中央の四角形なるものと、後方の三角形なるものとなり。泳鐘の前端面は小にして凡四角形、中央に圓形なる泳嚢の開口ありて、其所に廣き緣膜を見る。
+
+泳嚢は比較的小にして、僅に泳鐘の前半中に存す、明かに三部に分る、即ち正中線にある圓柱狀の部分と、之より分岐し且之と直角をなせる一對の盲嚢狀の部分なり。幹より來る腔管は泳鐘の後端正中線即ち彎入の底に當れる處にて泳鐘の寒天質に入り、直ちに上下に簡單なる枝管を出す、主管は寒天質を貫きて一直線に泳嚢の頂に達し、此所に於て四箇の放射管に分岐す、就中上下兩放射管は單に泳嚢壁に沿ひて正中線を走るのみなるが、左右兩側放射管は甚長くして先づ泳嚢盲嚢部の上壁を廻り更に下壁に轉じ、遂に泳嚢口に達し、環狀管によつて上下兩放射管と連結せらる。
+
+泳鐘が幹部に接着するに如何なる方法を以てせるかに就ては、古來行はれたる一説あり、凡て Physonectae の泳鐘を幹より取離したる時、全泳鐘の附着點は幹の一側に並ぶものにして此事は既に早くより知られたるを以て、泳鐘が二行に配列するは、全く軸が捩れるによるなりとの説早くより行はれ、クラウス、ゲーゲンバウルを初め、多くの學者皆之を信じ、今猶多くの書籍に用ゐらる。然れども此説は誤にして、千八百九十七年クーンが泳鐘の芽出規則（Knospungsgesetz der Schwimmglocken）を出して、腹側に芽出する泳鐘は交互に左右側の方に向ひて芽出するものにして、生長したる泳鐘の柄部は柄瓣（Stiellamella）と稱すべき薄き長方形の膜となりて左右に折れ曲れるが爲めに、泳鐘が左右側に並ぶなりと云ひ出し始めて古來の謬説たりし軸の回轉説は打ち破られたり、其後シュナイダーとクーンとの間に激しき論争ありしがシュナイダーの説は實物を離れたる空論に過ぎざりき、抑泳鐘部の幹が少しも捩れ居らざること、長方形の柄瓣（Peduncular lamella）が腹側より左右に向へることは、此科の五種及び Physophora 屬に於て余も確め得たるのみならず、生きたる動物を見れば、一目して明瞭なることにて、かゝる分り切りたる誤謬が何故に近年まで訂正せられざりしが、殆ど了解に苦しむ所なり、以て如何に古人の記載が不完全なる標本に據れるかを推知するに足らむ。
+
+前にも述べし如く、泳鐘は氣胞の直下より順次に芽出するものなれば、此部分に群り附着せる幼稚なる泳鐘を檢する時は發達の種々の程度に於けるものありて、泳鐘の發生方法を知ることを得べし。此事は既に種々の屬種に就きてロイカルト、ケリケル、フォグト、クラウス等
+
+三
+
+[MARGIN] （論　説）〇ヤウラククラゲとコヤウラククラゲ（川村）
+
+[NOTE: side emphasis rules (傍線) are printed beside 芽出規則, and beside the transliterated personal names クラウス、ゲーゲンバウル、クーン、シュナイダー、ロイカルト、ケリケル、フォグト; the Latin names Physonectae, Physophora, Knospungsgesetz der Schwimmglocken, Stiellamella and Peduncular lamella are set in italic.]
+
+<<<PAGE pdf=17 file=page_017.txt>>>
+[PAGE 4]
+
+[NOTE: vertical RTL type. Two horizontal tiers; the whole upper tier is read first, right to left, then the whole lower tier.]
+
+[RUNNING HEAD] 明治四十四年一月十五日　（4）
+
+が注意したる所なるが、殊にクラウスは一千八百六十年 Stephanomia contorta に於て詳細に之れを探究したり。我ヤウラククラゲに於ても氣胞の直下に附着せる幼泳鐘の數多く從つて泳鐘の發生經路を追蹤するに好都合なるが、大體に於て既に古人の云へる所に一致し、唯後に述ぶる所の左右放射管走行の中途に於て一時嚢狀の膨大部を生ずる點に於て異なれり。今其大略を述べんに、泳鐘は最初内外二層よりなれる乳首樣の突起として幹より芽出す、此突起初めは球狀なるが、間もなく其基部細くなりてフラスコの形をなすと共に、末端の外層は凹入して玆に芽核又は鐘核（Glockenkern）を作る。此フラスコの頸部に當れる處は、後には縱に扁平なる膜となりて、前に述べたる柄瓣となり、中にありし腔管は依然殘りて幹中と泳鐘との間の腔を連絡するなり、さて又泳鐘の主部分を作るべき部分即ちフラスコの膨大部に當れる所は、次第に上下に壓せられ左右相稱の形を取り、漸次成形の泳鐘に近き形となる。之より先き鐘核を構成せる組織に中心と外層の區別を生じ、中心部は次第に透明となり、外方に開口する口を通じて發出し、外層は殘りて所謂泳嚢内面の上覆層となるなり。泳嚢の筋肉に富める壁は鐘核の生じたる爲めに凹入して二重となりたる内層より生じ、此二重の間の空隙が、兩面の癒合によりて次第に消失するに當り、其一部分殘りて一箇の環管と四箇の泳鐘放射管となるなり。此二重の内層より外側即ち内層と外層との間には寒天質が發達するものなるが、先づ基部兩側に於て著甚にして、漸次他の部分にも及び、次第に外層を持ち上ぐることとなる。外層を作れる細胞は若き泳鐘にては立派なる敷石狀上覆層として見らるゝも、發達を遂げたるものにては之れを見ること難し。
+
+四箇の放射管中、左右兩側のものは其初期に於て、泳嚢盲嚢部の末端に當れる處にて、一箇の膨大部を生ず、此膨大は初めは太く且つ長きが、次第に其太さを減じ、次で其長さを減じ、遂には全く消失す、それ故發達を遂げたる泳鐘にては、此左右側放射管の膨大せることを見ざるも、通常の標本にては泳鐘柱の上方にある數箇の泳鐘にては、肉眼にてもよく其存在を認め得べし。尚此膨大を一時的に生ずることは、泳鐘の外形とも關係ある如く、後に述ぶるコヤウラククラゲの方にては、此膨大を見ることなきと同時に、泳鐘の側方に存する縱の稜は此ヤウラククラゲのよりも一つ少し。此泳鐘放射管の途中に膨大を生ずることは、既に千八百二十九年の昔に於てエシショルツが、本種に就て見たること明なるが、エシショルツは之れを泳鐘の泳嚢の一部分と誤認したり。此觀察を除きては、從來放射管の一部に膨大を生ずることは、全管水母中バテイクラゲ（本誌第二百六十四號參照）を除きては、決して報告せられたることなし。バテイクラゲのは腹側放射管の一部にありて軍扇狀をなせるが、之れは永久的器官にして、此ヤウラククラゲの場合には一時的の
+
+四
+
+[MARGIN] （論　説）〇ヤウラククラゲとコヤウラククラゲ（川村）
+
+[NOTE: side emphasis rules (傍線) are printed beside クラウス and エシショルツ; Stephanomia contorta and Glockenkern are set in italic.]
+
+<<<PAGE pdf=18 file=page_018.txt>>>
+[PAGE 5]
+
+[NOTE: vertical RTL type. Two horizontal tiers; the whole upper tier is read first, right to left, then the whole lower tier.]
+
+[RUNNING HEAD] 動物學雜誌第二百六十七號　（5）
+
+ものなり。因に放射管の異狀を求むれば、或 Monophyidæ 又は Diphyidæ に放射管の一部網目に分るゝことあり。是等も或はヤウラククラゲの場合の膨大と相同なるものならむか。
+
+之れより進んで體の下半即ち營養部に移らんとす、營養部は、保護葉、感觸體、營養體、觸手及び生殖叢より成れる幹群が、通常五箇乃至十五箇連續せるものにして、幹群は下に至る程老成せるものなること言ふ迄もなし、營養部全體としては、長さ略ぼ泳鐘部に同じく、幅は少しく之に超ゆ。而して、全面一樣に厚き多角形の保護葉によりて取圍まるゝ故、營養部が其長さ又は幅を變ずることと殆どなしと謂ひて可なり。而して玆に注意すべきことは、泳鐘部の腹面と營養部の腹面とは一致せずして、兩部の境界の處にて中軸なる幹が九十度捩れて居れるが故に、泳鐘部にて右側と左側とに向へる泳鐘が丁度夫々營養部の腹面と背面とに向へる樣になれり。一體泳鐘部は左右に幅廣く、營養部は背腹に廣きものなれば、九十度捩れて丁度其形が適合し居れり。尚此構造は動物の運動にも關係あるが如し。
+
+保護葉は厚く固くして、幹と直角に立ち、多數相密接して幹を圍み、其間に殆ど空隙を止めざる位に相接着適せり。其大さは種々なれども形は同一型にして、橈形（又は斜に角錐形と云ふべし）にして、内方幹に近き方の端は鈍く楔の刄の如くに終り、外端は切り取りたるが如き平行四邊形の面に終れり、而して前者は縱に長く、後者は寧ろ横に長き故、丁度、一箇の截頭方錐形を倒して一稜にて立たしめ之を上下に壓して稍々扁平ならしめ置き、其頭端を手に持ちて九十度ヒネリたるが如き形をなせるなり。さて保護葉の外面は三本の縱の稜によりて四箇の小面に區分せられ、中央の稜を除きて他の二稜の下端には更に一層小なる面一箇宛あり、各面皆多少凹形なり。保護葉の上面は全體として凸形なるが、保護葉の矢狀軸に沿ひて不著明ながら一本の稜を示し、左右に向つて低下せり。保護葉の下面も亦上面に似たるも、少し鞍狀をなせること多し。保護葉内には一本の細管ありて、内端より下面に至る間正中線に沿ひて表面に近く走れり、内端中央に於て一本の管によりて幹の腔管と交通せり。
+
+各幹群には左右側各四箇併せて八箇の保護葉あるを常とし、其重り方も規則正しく、全營養部の周圍に八行の保護葉が存在せり。例へば左側に於ては、第一行の保護葉の左の端は少しく、第二行の保護葉の右の端の上に重り、第三、第四皆此順序にして、右側のものは丁度左側の物に對稱して、物體と映像との關係に存せり。なほ保護葉は背側より腹側に至るに從ひ其大を增せり。營養部の腹側に於ては保護葉は背面又は左右側面に於ける如く密に接着せずして、左右の保護葉間に少許の隙間あり、感觸體、觸手、營養體等は此隙間より外に覗き出
+
+五
+
+[MARGIN] （論　説）〇ヤウラククラゲとコヤウラククラゲ（川村）
+
+[NOTE: Monophyidæ and Diphyidæ are set in italic, with the æ ligature as printed.]
+
+<<<PAGE pdf=19 file=page_019.txt>>>
+[PAGE 6]
+
+[NOTE: vertical RTL type. Two horizontal tiers; the whole upper tier is read first, right to left, then the whole lower tier.]
+
+[RUNNING HEAD] 明治四十四年一月十五日　（6）
+
+づるなり。
+
+稀に一幹群に對して九箇の保護葉あるとありて、此際には極少なる保護葉が背側に加はれるものにして、此保護葉は他の八箇よりも非常に遲れて生じたるものなり。クーンは大西洋に於てコヤウラククラゲに節間保護葉（Internodiale Deckstücke）なるものを見たるが、そは中に腔管の走り居らざるものなりしを以て、余の見たるものとは異れり、而して余はヤウラククラゲにてもコヤウラククラゲにても、未だ所謂節間保護葉を見たること無し。
+
+元來管水母の保護葉の幹に附着する方法に關しては、從來の報告の示す處甚だ區々なるのみならず、多くは明瞭に記載せず。ヘッケル（八十八年）大西洋のコヤウラククラゲ Crystallodes にて保護葉の内端尖りて、其尖端によりて幹に附着せりといひ、其他の屬種にても常にかく記載し圖示せり。ハックスレー（五十九年）は Stephanomia にて『三角形にして線條ある外層の突起』なるものありて保護葉を附着せしむと云ひ、クラウス（七十八年）も亦 Halistemma に於て筋肉に富める柄あることを述べたり。フェークス（八十一年）も亦之れに似たるものを Agalmopsis elegans の圖に於て夫れらしきものを畫けるも本文には記載せる所なし。余は日本産 Agalmidae の五屬に就て驗したるに、常に筋肉に富める立派なる柄部あるを見たり。其幹より瓣狀をなして出でたる處は、先きに述べたる泳鐘の柄と同じく、又ヤウラククラゲの場合の如く一側に四箇も保護葉が並べる時は、此縱に平たき柄瓣は幹の兩側に於て恰も書籍のページの如くに並び立てることを見たり。而して保護葉と此柄瓣とは正中線に沿ひて長く接著し、決してヘッケルの云ふ如く、保護葉の尖れる端の一點にて幹に附着せるものに非ず、此構造は一寸考へても然有るべく思はれ、又少しく精密に調査すれば別に切片にせずとも、廓大鏡下に容易に見られ得可きものなり。
+
+保護葉の發達順序は既にクラウス、アガシー等の人々が矢張此科の管水母にて見得たる處にして、よく知らる事なるが、余が本種に於て之れを追蹤することを得たる結果は從來報告せられたる如く簡單なるものに非ず、仍りて今少しくこれを述べんとす、營養部の上端に近き處は、新しき幹群が續々作り出さるゝ處なれば、此邊を注意すれば常に種々の發達程度にある保護葉を見ることを得可し。保護葉は最初他の水螅形箇蟲と同樣に、内外兩層よりなれる簡單なる膨らみが、幹より水平に突出するなり。此突起初めは乳首の如き形をなせるが、次第に長く延びて紡錘形となり、外端尖り内端には柄の如き部分を生ず之よりして泳鐘の場合と同樣に、内外兩層の中間に寒天質盛に發育して以て成形の保護葉を作るものなるが、寒天質の發育は凡ての側に於て一樣ならず、先づ紡錘形突起の内側の半分左右より壓せられて縱に長くなると同時
+
+六
+
+[MARGIN] （論　説）〇ヤウラククラゲとコヤウラククラゲ（川村）
+
+[NOTE: side emphasis rules (傍線) beside クーン、ヘッケル、ハックスレー、クラウス、フェークス、アガシー; Internodiale Deckstücke, Crystallodes, Stephanomia, Halistemma, Agalmopsis elegans and Agalmidae are set in italic. 内側 in the last column is set in bold.]
+
+<<<PAGE pdf=20 file=page_020.txt>>>
+[PAGE 7]
+
+[NOTE: vertical RTL type. Two horizontal tiers; the whole upper tier is read first, right to left, then the whole lower tier.]
+
+[RUNNING HEAD] 動物學雜誌第二百六十七號　（7）
+
+に外の半分は次第に下方に移行す、よつて突起は長靴の如き形となり、突起の中にある幹より引續きとなれる腔管も亦此の形に伴ひ、柄瓣中を走れる腔管はそれと保護葉内側の中央にて會合することとなる。次に長靴足背と兩側に相當する處に、寒天質發達急に盛となり、爪先に相當する處は崖の如く引き取りたる樣なる面を作り、之が又六箇の小面に區分せらるゝに至る。
+
+保護葉の發達に於ても泳鐘の場合と同じく、寒天質の發達と共に外層漸次持ち上げられて、外層を構成せる細胞は或時期に於ては敷石の如くに寒天質の上に並び附著せることあり、且つ所々に刺細胞の數箇集合して成れる疣狀の突起散在せるを見る。此頃には保護葉内の腔管も各所一樣の太さに非ずして、外方に近き所にて、紡錘狀に膨大し、且腔管を裏づけせる内層の上覆層も明らかに見ゆるものなるが、保護葉其發達を遂ぐる時は是等内外の細胞は凡て消失して其痕を止めざるに至り、腔管は一條の絲の如き管となる。而して寒天質の發達は突起の上面と兩側面に盛にして、下面に弱きが爲め此腔管は保護葉の下面に近く走る、從つて最初突起の尖端なりし處は本種の保護葉に於ては、外面に見る三條の縱稜中正中線にあるものの下端に當れるものなり。
+
+營養部より附着せる保護葉を全然取り去る時は、其他の箇蟲を明瞭に見ることを得可し。就中最も數多くして著しきものを感觸體とす。
+
+感觸體は幹の腹面に存し、細長き紡錘形にして、透明にして甚だ薄き壁を有し、伸縮其他運動活潑なり、先端は尖りて其所に數多の刺細胞を有す、其細き基部の上面より一本の細き感觸絲を出す。此絲は一面に小なる刺胞を有し且つ等距離に括れを有す、觸手が等距離の括れを有することは他の或管水母にて既に知られたるも、感觸絲が之を有することは、未だ全く報告せられたることなきが如し、加之ヤウラククラゲ科の管水母にては從來『感觸絲あるならんが見ること能はざりき』との報告あるのみにて、眞に之れを見たる人なきが如し、之れ本科の感觸絲は甚だ細きが上に、死したる標品にては脱離又は切斷して甚だ見難きを常とすればなるべし。通常感觸體及び感觸絲は腹面に向ひ、水平に延びて存するものなるが、時に他の方向に向へること無きに非ず。各幹群に於ける感觸體の數は十五箇以上なるを常とし老幼共に存するものとす、而して是等の感觸體の配置は稍規則正しくして、二群に分れ、一群は營養體の上面側及左右側を圍み、他の一群は雌雄生殖體の上側及左右側を被へり。
+
+各幹群には一箇の營養體ありて形頗大なり。短き柄部に次で、圓筒狀の基部、廣くして甚だ膨脹し易き胃部、開閉伸縮自在なる吻部あり。胃部の内面には八條の肝突起（Hepatic ridge）あり。
+
+營養體の幼きものも亦甚だ見易きものなり、營養體は
+
+七
+
+[MARGIN] （論　説）〇ヤウラククラゲとコヤウラククラゲ（川村）
+
+[NOTE: Hepatic ridge is set in italic.]
+
+<<<PAGE pdf=21 file=page_021.txt>>>
+[PAGE 8]
+
+[NOTE: vertical RTL type. Two horizontal tiers; the whole upper tier is read first, right to left, then the whole lower tier.]
+
+[RUNNING HEAD] 明治四十四年一月十五日　（8）
+
+其初め他の水螅形箇蟲と同樣なる突起にて顯れ、次で外層急激に發達增厚して其間に多數の刺細胞を含み、以て基部を形成し後其前方に内外層が延びて胃部及び吻部を作成する順序なり。
+
+各營養體の柄部上側より一本の觸手出づ。觸手は細く長く、等距離に括れありて、其關節の各より一本の側枝を出せり。側枝には細く長き柄と、卵圓形の被囊に包まれたる刺胞叢、及び一本の終末囊（Terminal ampulla）二本の側角（Lateral horns）の諸部分あり。刺胞叢は帶の如く細長くして美麗なる赤色を呈し、螺旋狀に七乃至九回轉せり。此部分には無數の刺細胞集合して整列せるのみならず、其基部に近き半分にては、側方に非常に大なる刺細胞附著整列せり。側角にも亦小き刺細胞の多數散在せるを見る。被囊は無色透明、多角形細胞の集合して作成せるものなり。
+
+刺胞叢の發達に關しては、他日 Physophora 屬を記述する時に其詳細を述ぶ可ければ玆には單に本種に於ける刺胞の發生順序を略記せんに營養體が芽出して漸次長大となる頃、既に其基部に他の之れより稍々小にして細長き芽の出でたるを見る可し、之れ即ち觸手にして、觸手背側に附着並列せる球形の小突起は其側枝となるべきものなり。さて此突起が次第に長くなりて圓筒狀となり、三箇の部分に分るゝに至る、其中第一の部分は單に其長さを增して遂に柄部となるものなるが、第二の部分は其一側の外層に多數の刺細胞を含有するに至り、次第に螺旋狀に屈曲して遂に帶狀の刺胞叢を形成す。第三の先端部は縱に三本に分れて遂に中央にある終末囊と其兩側にある側角と成る。而して被囊は第一部の第二部に近き端より出で來る外層の生長によりて作らるゝものにして、始めは梵鐘の如く刺胞叢を被へども後に全く之を包み、それと先端の三附屬物との境目に至りて附著するなり。
+
+多數の雄生殖體は幹の腹面に一對の雄生殖樹を成せり。雄生殖體の成長したるものは紡錘形にして、長さ三ミメ、幅九ミメに達し、短き柄を以て、生殖樹の柄に接續す。こは完全なる水母形箇蟲にして、生殖素存する處は水母の柄部に當り、外には傘に相當する部分ありて四放射管及一環管あれども、生の標本にては之れを認むること頗る難し。
+
+雌生殖體の附着して成せる單一の雌生殖樹は、雄生殖樹よりも長く、無數の雌生殖體玆に存在すれども、其末端に於けるもの最も老成せり。成長したる生殖體は長圓形にして、長さ二、一ミメ、幅一、二ミメに達す中に單一の色の卵を藏す、卵は水母の柄部に當れる處に生ずるものにして、元來柄部の中を通じ居る可き腔管は形を變じて網の目の如くになり。卵の外圍を包圍せり。傘部に四放射管一環管あること雄生殖體に同じ。雌雄兩生殖體の發生に關しては他日別に詳述することとせん。
+
+八
+
+[MARGIN] （論　説）〇ヤウラククラゲとコヤウラククラゲ（川村）
+
+[NOTE: Terminal ampulla, Lateral horns and Physophora are set in italic. The dimensions 長さ三ミメ、幅九ミメ are transcribed exactly as printed.]
+
+<<<PAGE pdf=22 file=page_022.txt>>>
+[PAGE 9]
+
+[NOTE: vertical RTL type. Two horizontal tiers; the whole upper tier is read first, right to left, then the whole lower tier.]
+
+[RUNNING HEAD] 動物學雜誌第二百六十七號　（9）
+
+○コヤウラククラゲ屬（Crystallomia）
+
+保護葉は六行に並列す、泳鐘側面には二箇の縱稜あり。
+
+[NOTE: a printer's fleuron rule stands between the paragraphs here.]
+
+コヤウラククラゲ
+
+Crystallomia polygonata DANA
+
+第二十二卷第十六版第九乃至第十四圖
+
+主なる異名
+
+Agalma breve HUXLEY.
+Crystallodes rigidum HAECKEL.
+Crystallodes vitrea HAECKEL.
+Stephanomia incisa SCHNEIDER.
+Agalma pourtalsii A. AGASSIZ et MAYER.
+Agalma virida MAYER.
+
+本種は前種程多からず、前種に似たるも形之よりも小にして、余の見たる標品にては、長さ五セメ、幅一、五セメより長八セメ、幅二セメ位なり。凡ての箇蟲は甚だ前種の場合に似たるを以て別に詳しく記載するの必要なからむ。
+
+コヤウラククラゲの泳鐘には其側面に一箇の稜あるのみなれば、泳鐘が二列に集まりて泳鐘部を作れる時、全體としては八角柱にして、腹面又は背面より泳鐘部を見る時、縱に走れる稜線がヤウラククラゲの場合よりも少なきことを認む、此區別は實際に於て兩種を區別するに最便なるものなりとす。
+
+泳鐘の發生順序は、大體ヤウラククラゲの場合に同じきも、唯異なれるは泳囊の左右側放射管の途中に於て一時的の膨大部を生ずることなく、從て泳鐘部の頂にある幼泳鐘を見るも毫も膨大部を認むること難きことなり。
+
+營養部は六乃至十箇の幹群より成れるを常とす、其外を圍める六行の保護葉は、外面に三本の稜ありて四箇の小面に分るゝもヤウラククラゲの場合に見る更に小なる二箇の面を見ざるを通常とす次に著しき差違は觸手側枝の構造にして、本種に於ては刺胞叢は螺旋狀に回轉することを四乃至五に過ぎず、又終末囊は細毛を有し側角は終末囊よりも長からずして、刺細胞を其一側にのみ含有せり感觸體はヤウラククラゲの場合よりも小さく其數も十箇内外に過ぎざるを常とす。
+
+本屬と前屬との關係及び本科諸屬の間の關係に就ては他日稿を改めて論ずることとせん。
+
+九
+
+[MARGIN] （論　説）〇ヤウラククラゲとコヤウラククラゲ（川村）
+
+[NOTE: ○コヤウラククラゲ屬 is set in bold; Crystallomia, Crystallomia polygonata, and the synonym binomials are set in italic, their authorities in small capitals.]
+
+<<<PAGE pdf=23 file=page_023.txt>>>
+[PAGE 10]
+
+[NOTE: vertical RTL type. Two horizontal tiers; the whole upper tier is read first, right to left, then the whole lower tier. The page carries two legend lists: 挿畫圖解 (text figures) and, after a vertical fleuron rule, 第二十二卷第十六版圖解 (the plate legend), which begins in the upper tier and continues in the lower.]
+
+[RUNNING HEAD] 明治四十四年一月十五日　（10）
+
+挿畫圖解
+
+第一圖　氣胞の側面及び斷面、キノ氣囊、カ隔壁、エ若き泳鐘。
+第二圖　上面より、側面より見て泳鐘の重り方を示す。
+第三圖　ミ幹、ヘ柄瓣、ク泳鐘に通ずる腔管。
+第四圖　泳鐘發生順序、横線を畫けるは内層、點を施せるは寒天質。
+第五圖　一幹群中の箇蟲配置を示す、エ營養體、シセ雌生殖叢、ユセ雄生殖叢、ホヘ保護葉柄瓣、カ感觸體。
+第六圖　保護葉の配列を示す。
+第七圖　保護葉發生順序。
+第八圖　感觸體及感觸絲發生。
+第九圖　營養體の發生順序、フ吻部、ヘ柄部、キ基部、イ胃部。
+第十圖　刺胞叢發生順序、ソカ側角、シユノ終末囊、ヘ柄部、ヒノ被囊、セソ刺胞叢。
+第十一圖　雌雄生殖體、ホカ放射管、カカ環管、タ卵。
+第十二圖　泳鐘發生順序（第四圖參照）。
+第十三圖　一幹群中の箇蟲配置を示す（第五圖參照）。
+
+[NOTE: a vertical printer's fleuron rule separates the two legend lists.]
+
+第二十二卷第十六版圖解
+
+第一——九圖ヤウラククラゲ
+
+第一圖　ヤウラククラゲ、自然大但營養部を左側面より見たる位置なり。p 氣胞、n 泳鍾 h 保護葉 t 觸手、p の下に二箇の小球を見るは泳鐘の幼きものなり。
+
+第二圖　一箇の泳鍾を斜に上横より見たるもの（約三倍）、ns 泳囊、v 緣膜。
+
+第三圖　幼き泳鍾を上面より見たるもの（三倍）ns 泳囊、tp 左右側放射管の一部が膨大して囊狀をなせる部分、此頃にては泳鍾の上面正中線は凹入せると同時に泳鍾の下面の方上面よりも大なる故、上より見れば、左右の側面も見らるゝなり。
+
+第四圖　一箇の保護葉を側方より見たるもの（三倍）、bc 保護葉内の腔管。
+
+第五圖　同右外方より見たるもの（三倍）。
+
+第六圖　幼き保護葉を斜に横より見たるもの（三倍）bc 腔管、表面に點在せる黒點は刺胞群なり。
+
+第七圖　一箇幹群の保護葉を除去して、其右側より見たるもの（八倍）、[?plb] 保護葉の柄瓣、pl 感觸體、[?ple] 感觸絲、sp 營養體柄部、bg 同上基部、sh 同上胃部、o 同上吻部、t 觸手、g 雌生殖體、mg 雄生殖體。
+
+第八圖　觸手側枝の末端に見る刺胞叢（十五倍）tp 柄部、cn 刺胞叢、th 被囊、ta 終末囊、lh 側角。
+
+第九——十四圖コヤウラククラゲ
+
+第九圖　コヤウラククラゲ（自然大）但營養部を左側より見たる位置なり。符號第一圖に同じ。
+
+第十圖　一箇の泳鍾を斜に上横より見たるもの、（約三倍）符號第二圖に同じ。
+
+第十一圖　幼き泳鍾を上方より見たるもの（四倍）。
+
+第十二圖　保護葉を外方より見たるもの（三倍）。
+
+第十三圖　一箇の幹群の保護葉を除去して、其右側より見たるもの（八倍）但し上下に隣れる幹群の一部分も少しく畫けり。符號は第七圖に同じ。
+
+第十四圖　觸手側枝の末端にある刺胞叢、符號は第八圖に同じ。
+
+一〇
+
+[MARGIN] （論　説）〇ヤウラククラゲとコヤウラククラゲ（川村）
+
+[NOTE: the kana labels in 挿畫圖解 are printed in small type and are faintly inked; they appear to be mnemonic abbreviations of the Sino-Japanese readings (キノ＝氣囊, カ＝隔壁, エ＝泳鐘/營養體 etc.). The plate legend uses the character 鍾 in 泳鍾 in several places where the body text uses 鐘; both are transcribed as printed. The Latin symbols are set in roman, rotated with the vertical line.]
+
+<<<PAGE pdf=24 file=page_024.txt>>>
+[PAGE 24: unnumbered]
+
+[NOTE: full-page colour plate, printed landscape as a double-page spread with a vertical fold down the centre; the sheet is reproduced in one PDF page. The only running text is the horizontal head at the top right, set right-to-left.]
+
+[RUNNING HEAD] 動物學雜誌第二十二卷第十六版
+
+[PLATE]
+Figures 1.–14. Lettering given figure by figure, each figure's labels in the order they stand round it.
+
+1.	p	n	b	t
+2.	v	ns
+3.	lp	ns
+4.	bc
+5.	[no lettering]
+6.	bc
+7.	plb	sp	mg	fg	pl	ple	bg	sh	so	t
+8.	tp	t	cn	th	ta	lh
+9.	p	n	b	pl	t	ple
+10.	v	ns
+11.	ns
+12.	bc
+13.	plb	sp	bg	sh	so	ple	pl	t	fg	mg
+14.	tp	cn	th	lh	ta
+
+[NOTE: all letter labels are set in lower-case italic; the figure numbers are roman followed by a full point. Figures 1, 8, 9, 13 and 14 carry vermilion colouring; no other lettering, signature, or printer's line appears on the sheet.]
+[/PLATE]
+
+<<<PAGE pdf=25 file=page_025.txt>>>
+[PAGE 25: unnumbered]
+
+[NOTE: vertical RTL type]
+
+[NOTE: full-page plate, the last leaf of the document. Monochrome line engraving on cream paper — no colour printing evident. There is no printed plate number, page number, running head or caption text anywhere on the sheet; the top and bottom margins are blank. The only type on the page is the thirteen figure designations, the sub-figure numerals, the three centre-line captions in 第六圖, and the katakana reference letters.]
+
+[NOTE: the thirteen figures are scattered over the sheet rather than set in tidy columns, so the reading order below is approximate: figures are given right-to-left and top-to-bottom by the position of their printed designation. Sub-figure numerals and reference letters are listed in their own top-to-bottom order within each figure.]
+
+[NOTE: most reference letters are set as one katakana with a second, smaller katakana-like glyph immediately below it, the leader line ending between the two (e.g. キ above ノ, ホ above ヘ). Both glyphs are recorded here as printed, joined by a hyphen; I have not decided whether each stacked pair is a single two-kana label or two separate labels for the two views set side by side.]
+
+[PLATE]
+第一圖 — 甲 ; キ-ノ ; カ ; エ ; 乙 ; キ-ノ ; カ
+第四圖 — 1. ; 2. ; 3.
+第二圖 — 1. ; 2.
+第五圖 — ス ; シ-セ ; ユ-セ ; ホ-ヘ ; カ ; ホ-ヘ
+第三圖 — ヒ ; ヘ ; ク
+第十圖 — 1 ; 2 ; 3 ; ヘ ; ヒ-ノ ; シ-ノ
+第六圖 — 腹側正中線 ; 背側正中線 ; 腹側正中線
+第八圖 — 1. ; 2.
+第十二圖 — 1 ; 2 ; 3
+第九圖 — 1. ; 2. ; ヘ ; キ ; イ ; フ
+第七圖 — 1 ; 2 ; 3 ; 4
+第十一圖 — ♂ ; ♀ ; ホ-カ ; タ ; カ
+第十三圖 — エ ; シ-セ ; ユ-セ ; ユ-セ ; ホ-ヘ ; カ
+[/PLATE]
+
+[NOTE: 第六圖 is the widest figure, a double row of lozenge-shaped bracts drawn across the top of the sheet, crossed by three vertical dashed lines; the captions 腹側正中線 / 背側正中線 / 腹側正中線 are set vertically beside those lines, left to right in that order as the sheet is viewed.]
+
+[NOTE: in 第十一圖 the second glyph of the ホ-カ pair is blotted and could be カ, オ or ケ — read here as カ by comparison with the unambiguous カ lower in the same figure. The lower pair of 第五圖 (ホ-ヘ, at the right of the figure) is very faintly printed.]

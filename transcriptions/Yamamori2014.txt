@@ -1,0 +1,169 @@
+<<<PAGE pdf=1 file=page_001.txt>>>
+[PAGE 1: unnumbered]
+[RUNNING HEAD] 南紀生物，56(2)：125-128，2014
+
+和歌山県田辺湾の海岸線付近の表層で
+水平曳き採取したクラゲ類相の月別変化
+
+山守　瑠奈*・久保田　信**
+
+Luna Yamamori and Shin Kubota: Monthly variation of medusa fauna by surface horizontal tow of plankton net at shore in Tanabe Bay, Wakayama, Japan
+
+はじめに
+
+和歌山県田辺湾は，温帯性種に加え黒潮により多種多様な生物が南方より運ばれ豊かな生物相を示す海域で，例えばクラゲ類では日本最多種数の約150種が記録されている（久保田，2012）。しかし，過去のクラゲの定量調査は田辺湾中央を横断する多数の地点で船上からネットの垂直曳きで行われており（久保田，2008；河村ら，2009），湾奥部では調査が詳細には実施されていなかった。
+
+そこで今回，田辺湾奥部2地点と湾口付近1地点において，海岸から表層水平曳きでクラゲ類を採取し，上記の先行研究で報告済みのクラゲ相と比較し，構成種や各種の月別変化に相違がないか調べたので報告する。
+
+材料と方法
+
+今回，田辺湾内3地点（図1）において1ヶ月に1度の間隔で，2013年2月から2014年2月までの12回（9月を除き，2月13日，3月13日，4月1日，4月28日，6月1-2日，7月7日，8月5-6日，10月13-14日，11月29-30日，12月23-24日，1月18-19日，2月14-15日），手製のプランクトンネット（目合0.2 mm，直径23.5 cm，長さ27 cmの円錐型）で表層水平曳きを行い，採取したクラゲの全個体を調査した。3定点は和歌山県西牟婁郡白浜町臨海に所在する京都大学瀬戸臨海実験所“北浜”の船着き場（A地点：33.692°N，135.341°E），田辺市長崎の岸壁（B地点：33.696°N，135.389°E），白浜町堅田漁協前の浮桟橋（C地点：33.683°N，135.377°E）で，構築物に沿って総曳網距
+
+[FIGURE]
+[NOTE: outline map of Tanabe Bay spanning both columns; latitude labels down the right edge, longitude labels along the bottom, three filled circles lettered A, B, C, a scale bar and three depth contours labelled with rotated type]
+35° 44' N
+43'
+42'
+35° 41' N
+A
+B
+C
+0	1km
+10m
+20m
+30m
+135° 18' E	19'	20'	21'	22'	23'	135° 24' E
+
+図1　クラゲ相調査（2013年）を実施した和歌山県西牟婁郡田辺湾の3地点
+[/FIGURE]
+
+[FOOTNOTE] *　〒606-8502 京都市左京区北白川追分町　京都大学農学部資源生物科学科
+[FOOTNOTE] **　〒649-2211 和歌山県西牟婁郡白浜町459　京都大学フィールド科学教育研究センター 瀬戸臨海実験所
+
+<<<PAGE pdf=2 file=page_002.txt>>>
+[PAGE 126]
+
+表1　京都大学瀬戸臨海実験所“北浜”の船着き場（地点A）において採集されたクラゲ類（2013年2月－2014年2月）
+
+[TABLE]
+Species	Japanese name	Order	Numbers of individuals collected / month	Total
+			2月	3月	4月	5月	6月	7月	8月	10月	11月#	12月#	1月#	2月#
+Dipurena ophiogaster	ジュズクラゲ	A	–	–	–	–	–	–	1	–	–	–	–	–	1
+Podocoryne minima	コツブクラゲ	A	–	–	–	–	1	42	4	–	–	–	–	–	47
+Proboscidactyla ornata	ミサキコモチエダクダクラゲ	A	–	–	–	1	1	1	–	–	–	–	–	–	3
+Abyla leuckarti	シカクハコクラゲ	S	–	–	–	–	–	–	–	1	–	–	–	–	1
+Diphyes bojani	トガリフタツクラゲ	S	–	–	1	–	–	2	–	–	–	–	–	–	3
+Diphyes chamissonis	タマゴフタツクラゲモドキ	S	–	3	–	–	–	–	–	–	–	–	–	–	3
+Diphyes contorta	ヨジレフタツクラゲ	S	–	1	–	–	–	–	–	–	–	–	–	–	1
+Diphyes diapar	フタツクラゲモドキ	S	–	1	–	–	–	–	–	–	–	–	–	–	1
+Aglaura hemistoma	ヒメツリガネクラゲ	T	2	–	–	–	–	–	–	–	–	–	–	–	2
+Liriope tetraphylla	カラカサクラゲ	T	–	7	–	1	3	3	–	16	–	–	–	–	30
+Solmundella bitentaculata	ヤジロベエクラゲ	N	–	2	–	–	–	–	–	–	2	–	–	–	4
+Solmaris rhodoloma	ニチリンクラゲ	N	–	1	–	–	–	–	–	–	–	–	–	–	1
+Haeckelia rubra?	フウセンクラゲモドキ？	C	–	7	1	–	–	–	–	–	–	–	–	–	8
+Total number of individuals collected			2	15	1	2	5	48	4	17	2	0	0	0	96
+[/TABLE]
+
+[FOOTNOTE] #は強風や降雨などの荒天。目内の順序はアルファベット順に従う。
+[FOOTNOTE] 刺胞動物門ヒドロクラゲ綱［A: Anthomedusae 花クラゲ目：N: Narcomedusae 剛クラゲ目：S: Siphonophorae 管クラゲ目：T: Trachymedusae 硬クラゲ目］
+[FOOTNOTE] 有櫛動物門有触手綱［C: Cydippida フウセンクラゲ目］
+
+表2　田辺市長崎の岸壁（地点B）において採集されたクラゲ類（2013年2月－2014年2月）
+
+[TABLE]
+Species	Japanese name	Order	Numbers of individuals collected / month	Total
+			2月	3月	4月	5月	6月	7月	8月	10月	11月	12月#	1月#	2月
+Dipurena ophiogaster	ジュズクラゲ	A	–	–	–	–	–	–	2	–	–	–	–	–	2
+Euphysa aurata	カタアシクラゲモドキ	A	–	–	72	–	–	–	–	–	–	–	–	–	72
+Podocoryne minima	コツブクラゲ	A	–	2	–	–	–	12	19	–	–	–	–	88	121
+Proboscidactyla ornata	ミサキコモチエダクダクラゲ	A	–	–	1	1320	9	1	–	–	–	–	–	9	1340
+Rathkea octopunctata	シミコクラゲ	A	16	–	–	–	2	–	–	–	–	–	–	–	18
+Turritopsis sp.	ベニクラゲ属の一種	A	–	–	–	1	–	–	–	–	–	–	–	–	1
+Clytia discoida	コザラクラゲ	L	–	–	–	–	1	2	–	–	–	–	–	–	3
+Obelia spp.	オベリアクラゲ属の一種	L	10	–	–	–	–	12	–	–	–	–	–	–	22
+Diphyes appendiculata	フタツクラゲ	S	–	–	–	–	–	1	–	–	–	–	–	–	1
+Diphyes chamissonis	タマゴフタツクラゲモドキ	S	–	–	–	–	–	–	–	1	–	–	–	–	1
+Muggiaea atlantica	ヒトツクラゲ	S	–	–	–	–	–	–	–	1	–	–	–	–	1
+Aglaura hemistoma	ヒメツリガネクラゲ	T	2	–	–	–	–	–	–	–	–	–	–	–	2
+Liriope tetraphylla	カラカサクラゲ	T	–	–	–	–	–	8	–	6	–	–	–	–	14
+Solmaris rhodoloma	ニチリンクラゲ	N	–	–	–	–	–	1	–	–	–	–	–	–	1
+Aurelia aurita ephyra larva	ミズクラゲのエフィラ幼生	Se	–	–	–	–	–	–	–	–	–	–	–	1	1
+Haeckelia rubra?	フウセンクラゲモドキ？	C	–	1	–	–	–	–	–	–	–	–	–	–	1
+Total number of individuals collected			28	3	73	1321	12	37	19	8	0	0	0	98	1599
+[/TABLE]
+
+[FOOTNOTE] #, A, S, T, N, Se, C は表1と同様.
+[FOOTNOTE] L: Leptomedusae 軟クラゲ目（刺胞動物門ヒドロクラゲ綱）. Se: Semaeostomeae 旗口クラゲ目（鉢虫綱）.
+
+[NOTE: the printed column totals do not equal the sum of the printed row values in either table — in both tables the 8月 column total omits the Dipurena ophiogaster entry, and in 表1 the 3月 and 4月 totals and the grand total omit the Haeckelia rubra? row. Transcribed exactly as printed.]
+
+<<<PAGE pdf=3 file=page_003.txt>>>
+[PAGE 127]
+
+表3　白浜町堅田漁協前の浮桟橋（地点C）において採集されたクラゲ類（2013年2月－2014年2月）
+
+[TABLE]
+Species	Japanese name	Order	Numbers of individuals collected / month	Total
+			2月	3月	4月	5月	6月	7月	8月	10月	11月#	12月#	1月#	2月#
+Bougainvillia sp.	エダクラゲ属の一種	A	–	–	–	–	1	–	–	–	–	–	–	–	1
+Dipurena ophiogaster	ジュズクラゲ	A	–	–	–	–	–	1	1	–	–	–	–	–	2
+Euphysa aurata	カタアシクラゲモドキ	A	–	–	2	–	–	–	–	–	–	–	–	–	2
+Podocoryne minima	コツブクラゲ	A	–	2	72	–	–	–	–	–	–	–	–	1	75
+Proboscidactyla ornata	ミサキコモチエダクダクラゲ	A	–	–	62	2	2	–	–	–	–	–	–	–	66
+Rathkea octopunctata	シミコクラゲ	A	–	–	–	–	–	–	–	–	1	–	–	–	1
+Clytia pentata	チギレコザラクラゲ	L	–	–	–	1	1	–	–	–	–	–	–	–	2
+Eucheilota paradoxica	コモチクラゲ	L	–	–	–	1	1	–	–	–	–	–	–	–	2
+Eucheilota sp.	コモチクラゲ属の一種	L	–	1	–	–	–	–	–	–	–	–	–	–	1
+Leptomedusae sp. juvenile	軟クラゲ目幼体	L	1	–	–	–	–	–	–	–	–	–	–	–	1
+Obelia spp.	オベリアクラゲ属の一種	L	–	–	–	–	–	–	–	4	–	–	–	1	5
+Diphyes chamissonis	タマゴフタツクラゲモドキ	S	1	–	–	–	–	–	–	1	–	–	–	–	2
+Liriope tetraphylla	カラカサクラゲ	T	–	–	–	–	–	–	–	32	–	–	–	–	32
+Solmaris rhodoloma	ニチリンクラゲ	N	–	–	–	–	–	–	1	–	–	–	–	–	1
+Aurelia aurita ephyra larva	ミズクラゲのエフィラ幼生	Se	57	–	–	–	–	–	–	–	–	–	–	–	57
+Total number of individuals collected			59	3	136	4	5	1	2	37	1	0	0	2	250
+[/TABLE]
+
+[FOOTNOTE] #, A, L, S, T, N, Se は表1と同様.
+
+離で31.5 m, 127.2 m, 126.6 m（各地点で一定距離を5往復）ネットを曳いた。採集したプランクトンは，予め氷冷濾過海水を少量入れたポリ容器の中で捕食等が起こらない様にし，生きた状態で半日以内にクラゲ類の同定と計数を行った（表1－3）。ただし，オベリアクラゲ類はクラゲ世代での同定が困難であるため複数種が存在している可能性があるが，1種としてカウントした。また，幼生や幼体は種レベルまでの同定ができなかった。尚，調査日を月1度に限定したため，荒天日であった場合にはクラゲ類が多く採取できなかった（表1－3：#印）。
+
+結果と考察
+
+1年間で計26種1945個体を採集した。各地点での種数と個体数は，A地点で13種96個体，B地点で16種1599個体，C地点で15種250個体であった。刺胞動物門ではヒドロ虫綱5目，鉢虫綱2目が，また，有櫛動物門では1目が確認された（表1－3）。
+
+1．出現クラゲ類の種構成
+
+今回，ヒドロクラゲ類において種数が最多だったのは花クラゲ目であり，1997年実施の田辺湾内沖合での垂直曳きの結果と一致した（久保田，2008）。花クラゲ目において採取個体数が最多だった種はミサキコモチエダクダクラゲであり，次いでコツブクラゲであった。これら2種はクラゲから無性芽をつくり急速に個体数を増すことが可能であり（Kawamura & Kubota, 2008），2001，2002及び2004年に実施された田辺湾中央部での垂直曳き調査で最多種として記録されている（河村ら，2009）。この先行調査によると，ミサキコモチエダクダクラゲとコツブクラゲの出現時期はともに6月から7月がピークであり，今回の5月から7月という結果とほぼ一致する。よって，これら2種の急激な大量出現は5月から7月にかけて，湾口と湾奥で同時に起こっている可能性が高い。
+
+今回，4月に多数のカタアシクラゲモドキがB地点で採集され，これまでに見られない記録となった（表2）。本種は2001，2002，および2004年に行われた垂直曳きによる調査では湾内外で1m²あたり10個体以下と少数ではあるが，2月から12月にかけて連続的に確認されている（河村ら，2009）。このことから，出現自体はほぼ一年を通して起こっていることがわかるが，湾内沿岸部では場所によっては著しい出現が認められると言える。
+
+2．出現種の個体数の月別変化
+
+今回の調査では，コツブクラゲが湾口A地点において6月から8月にかけて出現し，7月に最多数が採取され，湾奥C地点では4月に大量に出現した。この様な出
+
+<<<PAGE pdf=4 file=page_004.txt>>>
+[PAGE 128]
+
+現状況は2001，2002及び2004年に行われた垂直曳きによる過去の調査結果（1－10月の出現で，2－3月から数を増やし，6－7月に最多：河村ら，2009）と同じで，今回も湾奥ではその出現ピークが湾口より早かった。
+
+また，ミズクラゲはエフィラが湾奥C地点で採集されているので，湾奥部にそのポリプが生息していると考えられる。ミズクラゲがストロビレーションを引き起こす低温刺激は，実験室内では約2週間必要なので（Spangenberg, 1967），田辺湾の1月の低水温によってストロビレーションが誘発されていると考えられる。
+
+3．各調査地点での出現個体数
+
+今回のクラゲ類の採集個体数はB地点が最多で1599個体，C地点が250個体，A地点が96個体でこの順となり，種数に関してもB地点（16種），C地点（15種），A地点（13種）の順となった。ここで，A地点での総曳網距離は他の地点の約4分の1なので，採集個体数を単純に4倍すると366個体となり，多い順はB→A→Cとなる。従って，種数も個体数もB地点が最多と言える。
+
+一方，今回採集できた管クラゲ目に注目すると，A，B，C地点の順に種数と個体数が減少した（6種9個体→3種3個体→1種2個体）。このことから一般的に言われている様に，管クラゲ類は外洋性である。しかし，タマゴフタツクラゲモドキだけは湾奥C地点のみで，少数ながらも採集された（表1－3）。この結果は1997年の調査における結果（久保田，2008）と一致しており，この種は内湾を選好すると考えられる。
+
+参考文献
+
+Kawamura, M. & S. Kubota, 2008：Influences of temperature and salinity on asexual budding by hydromedusae Proboscidactyla ornata（Cnidaria: Hydrozoa: Proboscidactylidae）. J. Mar. Biol. Ass. U. K., 88, 1601-1606.
+
+河村真理子・上野俊士郎・久保田　信．2009：2001年，2002年および2004年に和歌山県田辺湾で採集された有クラゲ類および有櫛動物. 瀬戸臨海実験所年報，22，37-43.
+
+久保田　信．2008：和歌山県田辺湾で1997年の4月から9月までに採取された日本初記録種を含むヒドロクラゲ類（刺胞動物門，ヒドロ虫綱）. 瀬戸臨海実験所年報，21，40-48.
+
+————．2012：田辺湾は”宝の海”. 環境と健康，25，65-68.
+
+Spangenberg, D. B. 1967：Iodine induction of metamorphosis in Aurelia. J. Exp. Zool, 165, 441-449.
+
+[NOTE: lower half of the page is blank. Author surnames in the Latin-script references are printed in small capitals (KAWAMURA, KUBOTA, SPANGENBERG) and are transcribed here in ordinary capitalisation.]

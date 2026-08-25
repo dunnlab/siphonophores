@@ -1,0 +1,44 @@
+[PAGE 24]
+
+PLOS One
+
+75.	Kalyaanamoorthy S, Minh BQ, Wong TKF, von Haeseler A, Jermiin LS. ModelFinder: fast model selection for accurate phylogenetic estimates. Nat Methods. 2017;14(6):587–9. https://doi.org/10.1038/nmeth.4285 PMID: 28481363
+76.	Condamine T, Jager M, Leclère L, Blugeon C, Lemoine S, Copley RR, et al. Molecular characterisation of a cellular conveyor belt in Clytia medusae. Dev Biol. 2019;456(2):212–25. https://doi.org/10.1016/j.ydbio.2019.09.001 PMID: 31509769
+77.	Rozewicki J, Li S, Amada KM, Standley DM, Katoh K. MAFFT-DASH: integrated protein sequence and structural alignment. Nucleic Acids Res. 2019;47(W1):W5–10. https://doi.org/10.1093/nar/gkz342 PMID: 31062021
+78.	Patro R, Duggal G, Love MI, Irizarry RA, Kingsford C. Salmon provides fast and bias-aware quantification of transcript expression. Nat Methods. 2017;14(4):417–9. https://doi.org/10.1038/nmeth.4197 PMID: 28263959
+79.	Storer J, Hubley R, Rosen J, Wheeler TJ, Smit AF. The Dfam community resource of transposable element families, sequence models, and genome annotations. Mob DNA. 2021;12(1):2. https://doi.org/10.1186/s13100-020-00230-y PMID: 33436076
+80.	Flynn JM, Hubley R, Goubert C, Rosen J, Clark AG, Feschotte C, et al. RepeatModeler2 for automated genomic discovery of transposable element families. Proc Natl Acad Sci U S A. 2020;117(17):9451–7. https://doi.org/10.1073/pnas.1921046117 PMID: 32300014
+81.	Goubert C, Craig RJ, Bilat AF, Peona V, Vogan AA, Protasio AV. Correction: A beginner’s guide to manual curation of transposable elements. Mob DNA. 2022;13(1):15. https://doi.org/10.1186/s13100-022-00272-4 PMID: 35509054
+82.	Matsushima W, Planet E, Trono D. Ancestral genome reconstruction enhances transposable element annotation by identifying degenerate integrants. Cell Genom. 2024;4(2):100497. https://doi.org/10.1016/j.xgen.2024.100497 PMID: 38295789
+83.	Neuwald AF, Poleksic A. PSI-BLAST searches using hidden markov models of structural repeats: prediction of an unusual sliding DNA clamp and of beta-propellers in UV-damaged DNA-binding protein. Nucleic Acids Res. 2000;28:3570–80.
+84.	Eddy SR. HMMER: biosequence analysis using profile hidden Markov models. v3.3.2 (2020). http://hmmer.org/
+85.	Smit AFA, Hubley R, Green P. RepeatMasker Open-4.0 (2013-2015). http://www.repeatmasker.org
+86.	Schultz DT, Haddock SHD, Bredeson JV, Green RE, Simakov O, Rokhsar DS. Ancient gene linkages support ctenophores as sister to other animals. Nature. 2023;618(7963):110–7. https://doi.org/10.1038/s41586-023-05936-6 PMID: 37198475
+87.	Li Y, Gao L, Pan Y, Tian M, Li Y, He C, et al. Chromosome-level reference genome of the jellyfish Rhopilema esculentum. Gigascience. 2020;9(4):giaa036. https://doi.org/10.1093/gigascience/giaa036 PMID: 32315029
+88.	Guang A, Howison M, Zapata F, Lawrence C, Dunn CW. Revising transcriptome assemblies with phylogenetic information. PLoS One. 2021;16(1):e0244202. https://doi.org/10.1371/journal.pone.0244202 PMID: 33434218
+89.	Li H. Minimap2: pairwise alignment for nucleotide sequences. Bioinformatics. 2018;34(18):3094–100. https://doi.org/10.1093/bioinformatics/bty191 PMID: 29750242
+90.	Li H. New strategies to improve minimap2 alignment accuracy. Bioinformatics. 2021;37(23):4572–4. https://doi.org/10.1093/bioinformatics/btab705 PMID: 34623391
+91.	Danecek P, Bonfield JK, Liddle J, Marshall J, Ohan V, Pollard MO, et al. Twelve years of SAMtools and BCFtools. Gigascience. 2021;10(2):giab008. https://doi.org/10.1093/gigascience/giab008 PMID: 33590861
+92.	GitHub - nanoporetech/spliced_bam2gff. GitHub. https://github.com/nanoporetech/spliced_bam2gff Accessed 2024 November 21.
+93.	Köster J, Rahmann S. Snakemake-a scalable bioinformatics workflow engine. Bioinformatics. 2018;34(20):3600. https://doi.org/10.1093/bioinformatics/bty350 PMID: 29788404
+94.	Marçais G, Kingsford C. A fast, lock-free approach for efficient parallel counting of occurrences of k-mers. Bioinformatics. 2011;27(6):764–70. https://doi.org/10.1093/bioinformatics/btr011 PMID: 21217122
+95.	Ranallo-Benavidez TR, Jaron KS, Schatz MC. GenomeScope 2.0 and Smudgeplot for reference-free profiling of polyploid genomes. Nat Commun. 2020;11(1):1432. https://doi.org/10.1038/s41467-020-14998-3 PMID: 32188846
+96.	Vurture GW, Sedlazeck FJ, Nattestad M, Underwood CJ, Fang H, Gurtowski J, et al. GenomeScope: fast reference-free genome profiling from short reads. Bioinformatics. 2017;33(14):2202–4. https://doi.org/10.1093/bioinformatics/btx153 PMID: 28369201
+97.	Bolger AM, Lohse M, Usadel B. Trimmomatic: a flexible trimmer for Illumina sequence data. Bioinformatics. 2014;30(15):2114–20. https://doi.org/10.1093/bioinformatics/btu170 PMID: 24695404
+98.	Andrews S. FastQC: A Quality Control Tool for High Throughput Sequence Data. Babraham Bioinformatics. 2010. http://www.bioinformatics.babraham.ac.uk/projects/fastqc/
+99.	Jin J-J, Yu W-B, Yang J-B, Song Y, dePamphilis CW, Yi T-S, et al. GetOrganelle: a fast and versatile toolkit for accurate de novo assembly of organelle genomes. Genome Biol. 2020;21(1):241. https://doi.org/10.1186/s13059-020-02154-5 PMID: 32912315
+100.	Donath A, Jühling F, Al-Arab M, Bernhart SH, Reinhardt F, Stadler PF, et al. Improved annotation of protein-coding genes boundaries in metazoan mitochondrial genomes. Nucleic Acids Res. 2019;47(20):10543–52. https://doi.org/10.1093/nar/gkz833 PMID: 31584075
+101.	Hoang DT, Chernomor O, von Haeseler A, Minh BQ, Vinh LS. UFBoot2: Improving the Ultrafast Bootstrap Approximation. Mol Biol Evol. 2018;35(2):518–22. https://doi.org/10.1093/molbev/msx281 PMID: 29077904
+102.	Wood DE, Salzberg SL. Kraken: ultrafast metagenomic sequence classification using exact alignments. Genome Biol. 2014;15(3):R46. https://doi.org/10.1186/gb-2014-15-3-r46 PMID: 24580807
+
+PLOS One | https://doi.org/10.1371/journal.pone.0351247	July 2, 2026	24 / 25
+
+[NOTE: born-digital PLOS One typescript. The whole page is reference list, entries 75.–102., continuing from p. 23 and continued overleaf. Each numbered entry is kept on one line, in printed order, with a tab between the number and the entry text.
+
+PAGE FURNITURE: the PLOS One masthead and pictorial device at the head, and the running foot "PLOS One | https://doi.org/10.1371/journal.pone.0351247   July 2, 2026" with the page-number line "24 / 25" at the right; the foot's three elements are separated by tabs above. Printed, and so transcribed. There is no Crossmark stamp on this page.
+
+URLs broken across printed lines with no hyphen (refs 89 "…bioinformatics/  bty191", 90 "…bioinformatics/  btab705", 97 "https://doi.  org/10.1093/bioinformatics/btu170", 98 "http://www.bioinformatics.  babraham.ac.uk/projects/fastqc/", 102 "https://  doi.org/10.1186/gb-2014-15-3-r46") are joined as printed. End-of-line soft hyphens removed on joining in refs 76 ("medu-sae"), 80 ("ele-ment"), 82 ("inte-grants"), 93 ("bioinfor-matics") and 95 ("Com-mun.").
+
+Ref 84 ends with the URL "http://hmmer.org/" (trailing slash) and ref 85 with "http://www.repeatmasker.org" (no trailing slash); both as printed. Ref 85's date range is printed with a hyphen, "(2013-2015)". Ref 93 is printed "Snakemake-a scalable" with a hyphen. Ref 81's title begins "Correction: A beginner’s guide" with a typographic right single quote. Ref 92's entry begins "GitHub - nanoporetech/spliced_bam2gff." with a spaced hyphen.
+
+Bold is used for the reference numbers; italics for taxon names ("Clytia medusae", "Rhopilema esculentum") and for "de novo". Bold and italics are not marked. DOIs, PMIDs and URLs are printed as blue underlined hyperlinks; colour is not marked.]

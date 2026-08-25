@@ -1,0 +1,205 @@
+<<<PAGE pdf=1 file=page_001.txt>>>
+[PAGE 1: unnumbered]
+
+[NOTE: series cover / title page of the issue; the article's own title page follows.]
+
+SÉRIE I. — N.º 57
+
+MEMÓRIAS E ESTUDOS DO MUSEU ZOOLÓGICO DA UNIVERSIDADE DE COIMBRA
+
+(PUBLICAÇÃO SUBSIDIADA PELA JUNTA DE EDUCAÇÃO NACIONAL)
+
+REDACTORES
+
+DR. EUSÉBIO TAMAGNINI
+Professor catedrático e Director interino do Museu
+
+DR. J. G. DE BARROS E CUNHA
+Professor auxiliar
+
+A. F. DE SEABRA
+Naturalista
+
+[FIGURE]
+[NOTE: oval seal of the University of Coimbra; legend runs round the border, INSIGNIA down the left side, the middle word along the foot in inverted lettering, CONIMBRIC upward on the right side, the remainder of that word hidden behind the architecture.]
+INSIGNIA [?VNIVERSITATIS] CONIMBRIC[illegible]
+[/FIGURE]
+
+IMPRENSA DA UNIVERSIDADE
+COIMBRA, 1932
+
+<<<PAGE pdf=2 file=page_002.txt>>>
+[PAGE 2: unnumbered]
+
+Contribuïção para o conhecimento dos Coelenterados plânctónicos das Costas portuguesas
+
+POR
+
+ALBERTO CANDEIAS
+
+A nota que aqui apresentamos, pouco mais é do que a ordenação dos registos que conservamos, relativos aos coelenterados plânctónicos que procurámos identificar enquanto trabalhámos no «Aquário de Vasco da Gama». Com efeito, todos os organismos nêle tratados, à excepção de um, foram colhidos no decorrer das campanhas do navio «Albacora», em que tomámos parte. A publicação dessas notas, mesmo sem uma revisão dos exemplares perante uma bibliografia suficiente, a que desejariamos tê-los sugeitado mas que nos é, neste momento, impossível fazer, não obedece a outro fim que não seja o de não deixar completamente desaproveitado o material sôbre que elas versam.
+
+HYDROMEDUSAS
+
+Neoturris pileata (FORSKAL). — HARTLAUB, 1913, p. 362.
+
+Temos esta espécie registada, como tendo sido colhida à superfície, em Julho, entre as 23 e as 23h 1/2 ao sul do Cabo de S.ta Maria. Podemos porém afirmar que a colhemos também noutros pontos da Costa S. e W. de Portugal. Em todos os casos, nas pregas dos mesentérios existiam numerosos copépodos.
+
+Lizzia claparedei HAECKEL. Est. I, fig. 1. — HAECKEL, 1879, I, p. 82. Délage et Hérouard, 1901, II, 2.me partie, p. 50, fig. 34, p. 61.
+
+<<<PAGE pdf=3 file=page_003.txt>>>
+[PAGE 6]
+
+[RUNNING HEAD] Memórias e Estudos do Museu Zoológico
+
+Referimos a esta espécie alguns exemplares por nós colhidos em Agôsto de 1931 entre o Porto de Leixões e o molhe de Carreiros na Foz do Douro, e que pudemos examinar vivos.
+
+Dimensões variáveis entre 1mm e 2mm,5 de altura; superfície da gelêa com pequenas pontuações poriformes. Nalguns exemplares a exumbrela apresenta um esbôço de constricção aproximadamente à altura do fundo da cavidade umbrelar. Os oito bolbos ocelares são todos do mesmo tamanho. No exemplar mais perfeito que examinámos, de cada um de 2 bolbos radiais nascem 2 tentáculos; de todos os outros, apenas um tentáculo. Em outros exemplares em tudo idênticos àquele, de cada um dos bolbos radiais e interradiais nasce apenas 1 tentáculo. A cavidade gastro-vascular, espaçosa, tem a abertura armada de 4 tentáculos orais que nascem exactamente ao nível da extremidade do manúbrio. Todos os exemplares tinham o manúbrio em via de gemulação, e nalguns foi-me dado verificar a ordem por que os gomos aparecem e se distribuem (V. Délage et Hérouard, l. c.). A aparente assimetria na distribuïção dos tentáculos marginais, resultará porventura da perda acidental de alguns tentáculos radiais, e neste caso os nossos exemplares serão da espécie Lizzia claparédei, com que se assemelham muito, principalmente através da figura de Délage et Hérouard. Provém, como disse, de duas colheitas superficiais realizadas entre as 10h e as 10h 1/2 de 13 e 21 de Agôsto.
+
+Liriope cerasiformis LESSON, sensum ampl. MAAS. Est. I, figs. 2, 3, 4. Adultos. MAAS, 1893, p. 33, Taf. II, III. Jovens. BROWN, 1896, p. 495. V. HOFFEN, 1902, p. 79.
+
+Adultos. Entre os exemplares que referimos a esta espécie e a descripção que dela faz MAAS (l. c.) notámos apenas pequenas diferenças de muito menor importância do que as que caracterizam as espécies descriptas e separadas por aquele autor. Em primeiro lugar a forma dos canais centrípetos, terminados em ponta, segundo MAAS, terminam nos nossos exemplares antes como um dêdo de luva, aspecto que é também o representado por MAAS. Não verificámos uma diferença tão grande como a que aquele autor figura e faz notar,
+
+<<<PAGE pdf=4 file=page_004.txt>>>
+[PAGE 7]
+
+[RUNNING HEAD] Contribuïção para o conhecimento dos Coelenterados plânctónicos, etc.
+
+entre as dimensões do canal centrípeto mediano e as dos colaterais. Em segundo lugar as gónadas, foliáceas, não terminam na extremidade marginal tão agudamente como aquele autor as representa (Taf. II, figs. 5, 6), e são nos nossos exemplares um pouco mais desenvolvidas do que nos figurados por MAAS. Mas a localização das gónodas sôbre os canais radiais, o grau de convexidade e a espessura da umbrela, bem como a forma de flor campanulada do estômago quando contraído, são característicos, e por isso identificamos os nossos exemplares com Liriope cerasiformis. As dimensões dos exemplares que examinámos variam um pouco conservando-se sempre inferiores às dadas por MAAS.
+
+[TABLE]
+Largura da umbrela em milímetros. . .	11-12-13
+Altura da umbrela em milímetros . . .	9- 7- 7,5
+Comprimento do pedúnculo gástrico em milímetros. . . . . . . . . . . . .	8- 7- ?
+[/TABLE]
+
+Os nossos exemplares foram porém medidos muito tempo depois de conservados em formol a 3 %, e encontravam-se um pouco deformados, aproximando-se, porém, mesmo assim mais da espécie de LESSON do que de nenhuma outra de que tenhamos podido conhecer a diagnose. Os indivíduos adultos são freqüentes no verão, e foram por nós recolhidos em Sesimbra (Junho) e na costa sul do Algarve (Junho e Julho) (1).
+
+[FOOTNOTE] (1) Aqui aparecerão por vezes em abundância prodigiosa. Durante uma pesca feita de bordo do navio «Albacora» em Junho de 1926, com um arrasto de larvas PETERSEN, à superfície, durante aproximadamente, 15 minutos, o saco da rêde foi colhido para bordo túrgido de uma massa gelatinosa constituída por indivíduos do género Liriope, e que exalava um cheiro adocicado e enjoativo. Pouco tempo antes, uns pescadores de Olhão haviam relacionado a escacez de sardinha naquela zona com um certo «cheiro a pepino» que diziam notar no mar. Não é impossível que êste proviesse duma abundância excepcional destas pequenas medusas: a caracterização do cheiro feita pelos pescadores seria nesse caso correcta. Até que ponto porém uma invasão destes pequenos organismos constituirá motivo de abandono pela sardinha da zona em que se espalhe, é difícil de precisar. Tudo depende da densidade dessa invasão e do grau de sensibilidade daquela espécie às descargas dos nematocistos da medusa. A menos que a correlação, a existir, seja apenas indirecta e provenha antes de uma escacez de plâncton derivada de um consumo excepcional de que a medusa seja responsável.
+
+<<<PAGE pdf=5 file=page_005.txt>>>
+[PAGE 8]
+
+[RUNNING HEAD] Memórias e Estudos do Museu Zoológico
+
+Jóvens: Provenientes de Sesimbra e ali colhidos em Julho de 1929, examinámos alguns indivíduos jóvens de uma espécie do género Liriope que concordam perfeitamente com as descrições de BROWN (l. c.). Alguns mediam 1,67mm de diâmetro, o pedúnculo gástrico ainda não pendia na cavidade sub-umbrelar e a cavidade gastro-vascular, larga e rectangular abria-se no fundo da sub-umbrela e tinha os bordos da abertura marginada por uma orla espessada. A zona central dessa cavidade apresentava, quando vista pelo lado apical contôrno rectangular, de cujos quatro vértices partiam os canais radiais que se alargavam para a região marginal. Noutros indivíduos, claramente em uma fase mais adiantada do seu desenvolvimento (2,6mm de diâmetro por 1,6mm de altura) o pedúnculo gástrico já é bem distinto, ainda que curto, com a abertura bordada de lábios grossos, e a cavidade gastro vascular vista pelo lado apical apresenta mais pronunciadamente o aspecto cruciforme, com redução em extensão da região central rectangular. BROWN considera os seus exemplares como formas jóvens de Liriope apendiculata que, segundo MAAS, devemos considerar idêntica a L. cerasiformis LESSON, S. ampl. Os nossos exemplares serão, então, estádios jóvens desta espécie.
+
+Aglaura hemistoma PÉRON et LESSUEUR. — MAAS, 1898, p. 25, Taf. I, fig. 12, 13. Délage et Hérouard, 1901, p. 187, figs. 323, 325.
+
+Colhidos 2 exemplares de 2mm de altura, em Julho, em Sesimbra, por meio de pescas verticais entre 20m e a superfície.
+
+SCYPHOMEDUSAS
+
+Nausithoë punctata KOLLIKER. — V. HOFFEN, 1892, p. 13, Taf. III, figs. 8, 9.
+
+Colhidos 2 exemplares um pouco ao N do Cabo de S. Vicente em Março de 1926, às 21 horas, próximo da costa; 3 outros ao largo, ao Sul do Cabo de S.ta Maria, em Agôsto de 1926 às 13h 1/2, todos por meio de pescas superficiais.
+
+<<<PAGE pdf=6 file=page_006.txt>>>
+[PAGE 9]
+
+[RUNNING HEAD] Contribuïção para o conhecimento dos Coelenterados plânctónicos, etc.
+
+SIPHONOPHOROS
+
+Mitrophies peltifera HAECKEL. Est. I, fig. 5 — HAECKEL, 1888, p. 131, Pl. XXVIII.
+
+A maior parte dos exemplares que referimos a esta espécie apresentam a bráctea contraída e recolhida numa invaginação acidental do nectóforo; muito poucos apresentam a bráctea na sua posição normal. Dimensões muito variáveis, não excedendo 1cm na máxima largura. Os exemplares foram colhidos por 36º 37' N e 7º 57' W, às 13 horas do dia 9 de Agôsto de 1926.
+
+Muggiaea spiralis (BIGELOW) Est. I, fig. 6. — BIGELOW, 1918, p. 402.
+
+Idênticos ao exemplar que descrevemos e representámos já (1) examinámos algumas dezenas de exemplares de campânulas de calycophorae, sem que o aparecimento de qualquer campânula inferior que se lhe adaptasse viesse fazer supor que se tratava de um diphyideo. Se, pois, a nossa identificação daquele exemplar é correcta, podemos afirmar a existência de Muggiaea spiralis em Agôsto, ao largo da costa do Algarve (36º 37' N: 7º 57' W) donde provém os indivíduos referidos.
+
+Diphyes sieboldii KOLLIKER. Est. II, figs. 7, 7 a, 8. — KOLLIKER, 1853, p. 36, Taf. 11, figs. 1-8. HUXLEY, 1859, p. 34, Pl. 1, fig. 2 (Diphyes appendiculata). BIGELOW, 1918, p. 420.
+
+Já numa pequena nota anteriormente publicada (2) nos referimos e representámos campânulas superiores de exemplares provàvelmente desta espécie, mas que, pelas suas pequenas dimensões, eu supus não terem atingido ainda o seu desenvolvimento completo; tais exemplares que provinham
+
+[FOOTNOTE] (1) Note sur quelques Siphonophores calycophorae de Madère. Bull. de la Soc. Port. des Sc. Nat. X, 23, 1929.
+
+[FOOTNOTE] (2) L. c. p. 216, fig. 1. Aproveitamos a ocasião para aqui rectificarmos as duas formas incorrectas do nome específico ali usadas: D. Siboldi e D. Sieboldi em vez de D. Sieboldii.
+
+2
+
+<<<PAGE pdf=7 file=page_007.txt>>>
+[PAGE 10]
+
+[RUNNING HEAD] Memórias e Estudos do Museu Zoológico
+
+da Madeira estavam, de mais, em tão mau estado de conservação que não permitiam um reconhecimento seguro da sua estrutura e uma identificação definitiva. O mesmo não sucede com algumas dezenas de campânulas inferiores e superiores separadas, e de animais completos que colhemos em uma pesca superficial realizada em Junho de 1927 na Costa Sul do Algarve e que tivemos ocasião de examinar cuidadosamente. Em todos verificámos os caracteres que, segundo BIGELOW, caracterizam tão precisamente esta espécie, determinadamente a existência de apenas três arestas a definir o apex da campânula superior e a ausência de aresta dorsal que, nos nossos exemplares, nem mesmo na região basal conseguimos distinguir. A altura das campânulas superiores era, em média, de 15mm, e a das inferiores 11mm,5 incluindo a apófise. O exemplar completo que representamos tinha 20mm. Numa das campânulas inferiores separadas encontrava-se retido mecânicamente um exemplar de Calanoides brevicornis; na cavidade sub-umbrelar de uma outra campânula superior independente, encontrámos um exemplar de Saphirina.
+
+Proveniente de Sesimbra, e ali colhida em Julho, numa pesca vertical entre 20m e 10m, examinámos um exemplar de Eudoxia que corrrsponde bastante bem à representação de MOSER da Eudoxia de Diphyes Sieboldii.
+
+?Vogtia glabra BIGELOW. Est. II, figs. 9, 10. — BIGELOW, 1918, p. 407, Pl. 4, figs. 2-7.
+
+Entre os organismos obtidos numa pesca superficial, feita por 36º 37' N e 7º 57' W, em Agôsto, encontrámos alguns nectóforos isolados de Hippopodiidae cuja determinação não consideramos definitiva mas que pela sua conformação geral se aproximam muito das duas espécies: Hippopodius hippopus (FORSKAL) e Vogtia glabra BIGELOW. Da primeira espécie distinguem-se no entanto os nossos exemplares pela ausência das 4 proeminências dorsais, que bordam de muito perto a abertura do nectosaco (v. VOGT, 1854, Tab. 15, fig. 2); da segunda, pelo facto da proeminência apical não ser bem evidente. As duas proeminências dorso-laterais, não representadas na nossa fig. 9, por estarem de topo na posição em que o nectóforo é visto, são porém bem distintas na fig. 10. Não
+
+<<<PAGE pdf=8 file=page_008.txt>>>
+[PAGE 11]
+
+[RUNNING HEAD] Contribuïção para o conhecimento dos Coelenterados plânctónicos, etc.
+
+pudemos infelizmente observar a estrutura dos orgãos urticantes (que, segundo BIGELOW, são os únicos caracteres de valor na diferenciação dos dois géneros de Hippopodiidae), e daí tirar indicações que nos auxiliassem na identificação dos nossos exemplares.
+
+Em todo o caso, e a-pesar-de Hippopodius hippopus ser comum a todo o Atlântico Norte, enquanto Vogtia glabra provém de uma só estação no estreito da Flórida, sabido como as formas dêste grupo, pela sua natureza eminentemente pelágica são destinados a uma larga distribuïção, inclino-me mais para a identificação dos nossos exemplares com Vogtia glabra BIGELOW.
+
+Vila Real, Outubro, 1931.
+
+<<<PAGE pdf=9 file=page_009.txt>>>
+[PAGE 9: unnumbered]
+
+LEGENDA DAS GRAVURAS
+
+EST. I
+
+Fig. 1 — Lizzia claparédei.
+Fig. 2 — Liriope cerasiformis (adulta).
+Fig. 3 — Uma gonada de L. cerasiformes ampliada 10 vezes.
+Fig. 4 — Liriope cerasiformes (jóven).
+Fig. 5 — Mitrophyes peltifera.
+Fig. 6 — Muggiaea spiralis.
+
+EST. II
+
+Fig. 7 — Diphyes sieboldii.
+Fig. 7 a — Bractea destacada do estolon, incluindo os cormídios contraídos.
+Fig. 8 — Eudóxia de Diphyes sieboldii.
+Fig. 9 — Nectóforo de Vogtia glabra (?) vista pela face dorsal e um pouco obliquamente de baixo para cima.
+Fig. 10. — O mesmo visto lateralmente.
+
+<<<PAGE pdf=10 file=page_010.txt>>>
+[PAGE 10: unnumbered]
+
+[NOTE: full-page plate; the two-line heading at upper left is printed slightly askew, tilting up to the right.]
+
+MEMÓRIAS E ESTUDOS DO MUSEU ZOOLÓGICO
+DA UNIVERSIDADE DE COIMBRA	SÉR I. — N.º 57. Est. I.
+
+[PLATE]
+[NOTE: six line drawings inside a ruled frame; engraved figure numbers in reading order: 1 (upper left), 2 (upper right), 4 (middle left), 3 (middle right), 6 (lower left), 5 (lower right). No other lettering within the frame.]
+1
+2
+4
+3
+6
+5
+[/PLATE]
+
+A. CANDEIAS, des.	M. ABREU, grav.
+
+<<<PAGE pdf=11 file=page_011.txt>>>
+[PAGE 11: unnumbered]
+
+[NOTE: full-page plate; the two-line heading at upper left is printed slightly askew, tilting up to the right.]
+
+MEMÓRIAS E ESTUDOS DO MUSEU ZOOLÓGICO
+DA UNIVERSIDADE DE COIMBRA	SÉR. I. — N.º 57. Est. II.
+
+[PLATE]
+[NOTE: five line drawings inside a ruled frame; hand-lettered figure numbers, in reading order: 7 (upper left), 8 (upper right), 7a (centre), 9 (lower left), 10 (lower right). No other lettering within the frame.]
+7
+8
+7a
+9
+10
+[/PLATE]
+
+A. CANDEIAS, des.	M. ABREU, grav.

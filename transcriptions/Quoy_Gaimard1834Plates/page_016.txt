@@ -1,0 +1,79 @@
+[PAGE 16: unnumbered]
+
+[NOTE: engraved plate scanned in colour from the sheet itself (cream laid paper,
+browning and damp-staining in the margins, no binding or photographic backdrop and
+no digitiser's caption strip). Unlike plates 1 to 4 in this run of pages, this
+impression is essentially uncoloured — only two figures near the middle of the
+sheet carry any wash (a yellow strand and a red hook). The rectangular platemark
+is visible around the whole design.]
+
+[NOTE: this is plate 5, which occurs three times in this PDF — as a bilevel scan,
+as a photograph of the bound volume, and here. Before starting this batch of pages
+I read the existing gold-standard file for page 11, which is the photograph of
+this same plate, in order to learn the house conventions for the plate legends.
+The transcription below was nevertheless made from this page image; the fact is
+recorded because it means this page is not fully independent of page 11.]
+
+[RUNNING HEAD] Voyage de l'Astrolabe – ZOOLOGIE.
+
+[RUNNING HEAD] ZOOPHYTES. – Pl. 5.
+
+[PLATE]
+ZOOPHYTES. – Pl. 5.
+
+[NOTE: an engraved figure numeral is set just above each of the thirty-eight or so
+separate drawings on the sheet; the legend accounts for figures 1 to 38. None of
+the numerals on the plate itself can be read: the page image is a heavily
+compressed JPEG and a numeral about a millimetre high dissolves into two or three
+smears, and rendering from the 600 ppi source rather than at 300 dpi adds no
+detail. They are recorded as [illegible] rather than reconstructed from the
+legend's ranges.]
+
+[illegible] [NOTE: about thirty-eight engraved figure numerals, one to each
+drawing, none resolvable]
+
+[illegible] [NOTE: draughtsman's credit in engraved script at lower left; three or
+four word-shapes ending in an abbreviation, no letters resolvable]
+
+[illegible] [NOTE: engraver's credit in engraved script at lower right, on the
+same line; not resolvable]
+
+1	6	Diphye ennéagone.	[illegible]
+7	11	Diphye cuboïde.	[illegible]
+12	17	Diphye nacelle	[illegible]
+18	20	Diphye nacelle var.	[illegible]
+
+[?21]	[?23]	Diphye tronquée.	[illegible]
+[?24]		Diphye hispide.	[illegible]
+[?25]	[?26]	Diphye tétragone.	[illegible]
+[?27]	[?29]	Diphye à 3 dents	[illegible]
+
+34	36	Diphye douteuse.	[illegible]
+[?37]	[?38]	Diphye de Praya.	[illegible]
+[?30]	[?31]	Galéolaire austral.	[illegible]
+32	33	Galéolaire à 4 dents.	[illegible]
+
+[NOTE: the legend is set in three columns of four lines each and is transcribed
+above column by column, left column first. Each species name is followed by a
+locality parenthetical in a minuscule small-capital fount; magnified twentyfold
+these remain uniform grey smudges in which no letter can be made out, so each is
+marked [illegible]. No brace and no italic "N." appears in this legend. Several of
+the two-digit numerals are not crisp enough to separate 1 from 7 or 5 from 6 and
+are flagged; where the numeral is given unflagged both digits were legible. In the
+third line of the left column and the fourth of the middle column no full point is
+visible after the species name, as transcribed. Note that the third column runs
+34-36, 37-38, 30-31, 32-33 — the two Galéolaire lines follow the two Diphye lines
+even though their numbers are lower.]
+
+[illegible] [NOTE: a line of minute type at the lower left corner of the sheet,
+below the legend; on other plates in this PDF this position carries the
+publisher's imprint, but here nothing can be read]
+
+[illegible] [NOTE: a further line of minute type at the lower right corner of the
+sheet, below the legend; not resolvable]
+
+[STAMP] [illegible] [NOTE: a blind-stamped (embossed, uninked) oval device about
+two centimetres across, in the blank paper well below the legend and centred on
+the sheet. Its rim and some internal lettering can be made out as relief, but no
+letter can be read.]
+[/PLATE]

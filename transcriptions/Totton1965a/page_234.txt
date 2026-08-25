@@ -1,0 +1,120 @@
+[PAGE 230]
+
+[RUNNING HEAD] 230	INDEX
+
+Lensia—cont.
+	campanella, 165
+	challengeri, 166
+	conoidea, 162
+	cossack, 166
+	exeter, 176
+	fowleri, 174
+	grimaldi, 178
+	hardy, 173
+	havock, 175
+	hostile, 177
+	hotspur, 167
+	hunter, 164
+	leloupi, 161
+	lelouveteau, 172
+	meteori, 170
+	multicristata, 164
+	reticulata, 172
+	subtilis, 168
+	subtilis var. chuni, 170
+	subtiloides, 159
+	tottoni, 168
+
+Lilyopsis, 126
+	gracilis, 127
+	rosea, 126
+Lychnagalma, 73
+	utricularia, 73
+	vesicularia, 73
+
+Maresearsia, 113
+	praeclara, 113
+Marrus, 62
+	antarcticus, 62
+	orthocanna, 65
+	orthocannoides, 63
+Melophysa, 89
+	melo, 89
+Moseria, 66
+	convoluta, 66
+Muggiaea, 180
+	atlantica, 181
+	bargmannae, 183
+	delsmani, 183
+	kochi, 180
+
+Nanomia, 68
+	bijuga, 68
+	cara, 72
+Nectopyramis, 130
+	diomedeae, 131
+
+	natans, 135
+	spinosa, 137
+	thetis, 135
+
+Physalia physalis, 39
+Physophora, 83
+	hydrostatica, 83
+Praya, 121
+	dubia, 122
+	reticulata, 123
+Prayoides, 124
+	intermedia, 125
+Pyrostephos, 76
+	vanhoeffeni, 76
+
+Rhizophysa, 40
+	filiformis, 41
+	eysenhardti, 42
+Rhodalia, 9[?2]
+	miranda, 92
+Rosacea, 115
+	cymbiformis, 118
+	plicata, 116
+
+Sphaeronectes, 201
+	gracilis, 202
+	irregularis, 203
+Stephalia, 92
+	corona, 92
+Stephanophyes, 129
+	superba, 129
+Sulculeolaria, 143
+	angusta, 149
+	bigelowi, 152
+	biloba, 145
+	chuni, 150
+	monoica, 152
+	quadrivalvis, 143
+	turgida, 149
+
+Thalassophyes, 200
+	crystallina, 201
+
+Vogtia, 140
+	glabra, 142
+	pentacantha, 142
+	serrata, 142
+	spinosa, 140
+
+[NOTE: printed folio 230 = PDF page 234, offset printed = PDF - 4, the new offset established on the preceding page (PDF 233 = printed 229). Unlike printed p229, this page carries its folio at the head, in the outer (left) position, with the running head "INDEX" centred beside it; the two are on one line and are given together in the [RUNNING HEAD] field above, separated by a tab. No folio appears at the foot.]
+
+[NOTE: this is a two-column page. The full left column (Lensia—cont. . . . Nectopyramis diomedeae) is transcribed first, then the full right column (natans . . . Vogtia spinosa), in accordance with the protocol; they are not interleaved. The first three lines of the right column — "natans, 135", "spinosa, 137", "thetis, 135" — are further species of Nectopyramis, carried over from the foot of the left column; they are indented as sub-entries and are printed with no repeated genus catchline.]
+
+[NOTE: "Lensia—cont." at the head of the left column continues the Lensia entry from printed p229. "Lensia" is italic and "—cont." is roman, joined by an em rule with no spaces; printed as here.]
+
+[NOTE: all genus and species names are printed in italic, page-reference numbers in roman; sub-entries are indented one em and are given here with a single leading tab. The one part-roman line is "subtilis var. chuni, 170", where "var." is roman between two italic words.]
+
+[NOTE: alphabetical groups are separated by blank lines (breaks before Lilyopsis, before Maresearsia, before Nanomia, before Physalia, before Rhizophysa, before Sphaeronectes, before Thalassophyes and before Vogtia); the blank lines are preserved above. There are no letter headings.]
+
+[NOTE: no printed square brackets occur on this page, and no editorial query mark of any kind (neither the bare "?" convention of pp. 202-226 nor a bracketed one) appears here.]
+
+[NOTE: UNCERTAIN READING. In "Rhodalia, 9[?2]" the second digit of the page number is completely covered by a heavy black handwritten ink mark, roughly the shape of a "Z" with a trailing stroke, made by a reader over and to the right of the digit. Only the "9" is legible. "2" is offered as the likely reading because the sub-entry immediately below reads "miranda, 92" and Stephalia below it is also 92, but the digit itself cannot be read; a second opinion on this one character would be welcome. The [?2] is the transcriber's uncertainty flag, not a printed bracket.]
+
+[NOTE: printed as here, with the source's own inconsistencies: "Rhizophysa . . . eysenhardti" is placed after "filiformis" and so out of alphabetical order; "Marrus . . . orthocanna, 65" precedes "orthocannoides, 63"; "Maresearsia" (so spelled); "Muggiaea . . . kochi" (single i); "Lensia hardy", "havock", "hostile", "hotspur", "hunter", "cossack", "exeter" — Totton's ship-and-nickname epithets, printed lower-case in italic like the rest.]

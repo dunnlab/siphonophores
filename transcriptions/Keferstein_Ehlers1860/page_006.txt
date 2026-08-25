@@ -1,0 +1,15 @@
+[PAGE 258]
+
+[NOTE: Fraktur throughout except the Latin names "Agalma Sarsii", "rubrum", "Agalma minimum", "Ag. rubrum" and the catchword "Cy-" at the foot, which are set in roman. Long-s rendered as plain `s`. Line-end hyphens (Fraktur double hyphen) closed up; the roman hyphen after "Cy" at the foot is kept because the word continues on the next page. Letter-spaced (gesperrt) emphasis is not reproduced. No footnote on this page. The fraction printed as a raised 2 over a lowered 3 with a solidus is given here as "2/3". Clean 600 dpi bitonal scan; the right edge is trimmed very close and the last letter of several lines is clipped but still identifiable.]
+
+[NOTE: one uncertain word. In "dann tritt [?durch] völlige Umstülpung" the initial letter of "durch" is printed as a bare x-height hook with no ascender loop, unlike every other Fraktur d on the page; it reads as a c or a broken d. The remaining letters "urch" are clear. Recorded as a flagged reading rather than silently normalised.]
+
+— 258 —
+
+schensubstanz und umwächst von rechts und links her den Mantel, bis nur die Endlappen noch hervorragen, unter denen die schwächste Stelle bleibt, aus welcher der Nesselstrang hervorgeschleudert wird. Außer dem Mantel ist hier also noch eine Hülle hinzugekommen, die aus der Zwischensubstanz besteht, überzogen von einem Epithel der äußeren Haut.
+
+Bei Agalma Sarsii und rubrum sind große Verschiedenheiten zwischen den Nesselknöpfen der Jugendformen und denen der reifen Thier beobachtet und das Agalma minimum von Gräffe mit großer Wahrscheinlichkeit als ein Jugendzustand von Ag. rubrum erkannt.
+
+Die Entwicklung der Nesselkapseln in Zellen ist von Leydig bei Hydra entdeckt: bei den Siphonophoren ist das leicht zu verfolgen. Im Zelleninhalt differenzirt sich eine ovale Masse, an der man bald eine äußere Haut bemerkt; von einem Pol her bildet sich ein cylindrischer Hohlraum auf etwa 2/3 der Länge der Nesselkapsel und erhält eine besondere Haut — der spätere Stiel des Nesselfadens — und im übrigen noch soliden Theile differenzirt sich der Nesselfaden selbst. Beim Hervorschnellen des Fadens hebt sich von der Kapsel erst ein kleiner Deckel ab, dann tritt [?durch] völlige Umstülpung der Stiel hervor und aus diesem wird der Faden hervorgetrieben, nach dessen Austritt die Kapsel ein bedeutend geringeres Volum, wie vorher, hat.
+
+In Betreff der Entwicklung der Geschlechtsstücke, deren morphologische Uebereinstimmung mit der Medusengeneration der Hydroidpolypen man wohl als ausgemacht ansehen darf, erwähnen wir vorerst die Entwicklung einer Meduse aus einer Knospe, die wir wiederholt am Magen der Cy-

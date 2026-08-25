@@ -1,0 +1,41 @@
+[PAGE 155]
+
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 12 DIPHYIDAE	155
+
+For many years I have collected the smallest anterior nectophores I could find in an attempt to discover whether the definitive one develops directly from the larval one – as I suspect – or is a secondary heteromorph one. A successful breeding experiment would settle this important question. Moser (1925, p. 192) refers to it as the definitive 'Einglockenstadium'. This is Chun's (1892) D. picta.
+
+Posterior nectophore (see Huxley, 1859, Pl. 1, fig. 16C; Bigelow, 1911b, Pl. 10, fig. 1):   A useful criterion for distinguishing the posterior nectophore of D. dispar from that of D. bojani is the comparatively larger size of the dorsal tooth. The mouth-plate is thick, and the two hydroecial flaps remain separated, and do not form a closed canal as in Chelophyes spp. Lateral basal edges and lateral hydroecial teeth smooth.
+
+Eudoxid phase (Pl. XXXIII, fig. 3)
+
+(Text-fig. 91.)   About 7·5 mm long. Formerly identified with the Eudoxia lessonii of Eschscholtz (1825). For critical comments on this identification see Totton, 1932, page 346. The earliest recognizable figure is Huxley's (1859, Pl. III, fig. 6) of E. lessonii. The head-piece of the bract is 50% shorter than the neck-shield. The dorsal and sutural surfaces are nearly straight as seen from the side in optical section, and meet at an acute angle at the apex. The phyllocyst is broad at the base; tapers to an obtuse point above and has no lateral processes. It is equal in length to about two-thirds the distance from the apex of the bract to the apex of its basal cavity. The overall length of the bract is only a little less than the length of the asexual swimming bell. The relationship between the radial canals of this bell and the apex of its nectosac are constant (see my fig. op. cit.).
+
+For a detailed description see Totton, op. cit., page 348. All the gonophores of any single eudoxid are of one sex, but any two successively budded gonophores are mirror-images of one another.
+
+Diphyes bojani (Eschscholtz, 1829)
+Text-figure 92
+
+? Diphyes serrata Chun, 1888a, 1897b
+For remainder of synonymy see Moser, 1925, p. 208. (There are some errors in the page and figure numbers quoted.)
+
+This common species appears to be closely related to D. dispar though the bract of the eudoxid is very different. The best figures of the polygastric phase are: Bigelow, 1911b, plate 7, figures 2, 3; plate 9, figure 1; plate 10, figures 2, 3; and Moser, 1925, Taf. XIII, figure 1.
+
+Polygastric phase
+
+Anterior nectophore:   Up to 14 mm in length; symmetrically pyramidal, five ridged, with some variation in the arrangement at the apex (see Bigelow, 1911b, p. 252), slender, pointed at the apex, the ridges often expanded in the apical third of their length. The serrations of the ridges are variable. The nectosac gradually narrows towards its apex, which lies close to the apex of the nectophore. The hydroecium is pointed above and reaches nearly to one-third of the height of the nectosac. The somatocyst is fusiform. A pair of large dorso-basal and latero-basal teeth. The dorsal tooth is not as prominent as it is in D. dispar, and is usually smaller than the laterals. The dorsal side of the mouth-plate bears a more or less marked median vertical crest of small teeth, first mentioned by Gegenbaur (1859, p. 370) and figured by Bigelow (1918, Pl. 8, figs. 3, 4).
+
+Posterior nectophore:   Up to 10 mm in length. Slender, but resembling that of D. dispar, the two lateral flaps of the hydroecium separated. Lateral basal edges and lateral hydroecial teeth serrated.
+
+Eudoxid phase
+
+(Text-fig. 92.)   Characterized by its shield-like bract which lies in a plane parallel to the long axis of the large asexual swimming bell. The semi-annular phyllocyst of the young bract never develops
+
+[NOTE: numerals verified digit by digit: FAMILY 12 DIPHYIDAE, 155; Moser (1925, p. 192); Chun's (1892); Huxley, 1859, Pl. 1, fig. 16C; Bigelow, 1911b, Pl. 10, fig. 1; Pl. XXXIII, fig. 3; Text-fig. 91.; 7·5 mm; Eschscholtz (1825); Totton, 1932, page 346; Huxley's (1859, Pl. III, fig. 6); 50%; Totton, op. cit., page 348; (Eschscholtz, 1829); Text-figure 92; Chun, 1888a, 1897b; Moser, 1925, p. 208; Bigelow, 1911b, plate 7, figures 2, 3; plate 9, figure 1; plate 10, figures 2, 3; Moser, 1925, Taf. XIII, figure 1; 14 mm; Bigelow, 1911b, p. 252; Gegenbaur (1859, p. 370); Bigelow (1918, Pl. 8, figs. 3, 4); 10 mm; Text-fig. 92.]
+
+[NOTE: "Eschscholtz (1825)" in the Eudoxid phase paragraph and "(Eschscholtz, 1829)" in the species heading below it are both as printed; the 1825 was checked at 16x and is not 1829. In "Huxley, 1859, Pl. 1, fig. 16C" the plate number is a bare old-style 1. The zeros in "10", "50%", "208", "252", "370" and "348" are old-style figures at x-height. The decimal point of "7·5" is a raised middle dot.]
+
+[NOTE: two small stray ink marks stand in the lower margin below the text, towards the right — a short slanting stroke and, lower and to its right, a small hook. Neither is a legible character and neither is transcribable text; they are probably offset ink or a scanning artefact.]
+
+[NOTE: the "?" opening the synonymy line "? Diphyes serrata Chun, 1888a, 1897b" is the author's own query about the synonymy, printed as a bare question mark with no brackets round it. No printed square brackets occur on this page.]
+
+[NOTE: the dashes in "the larval one – as I suspect – or is a" are en rules. "'Einglockenstadium'" is printed in roman within single quotation marks. "see", "op. cit." and "op. cit.," are italic where they occur. The species heading is bold italic with the authority in roman parentheses; the two synonymy lines below it are set in smaller type with the taxon name italic. Paragraph-opening side-headings ("Posterior nectophore", "Anterior nectophore", "Eudoxid phase", "Polygastric phase") are italic, and are followed by a wide space where a colon is not printed.]

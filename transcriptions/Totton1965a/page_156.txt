@@ -1,0 +1,31 @@
+[PAGE 151]
+
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 12 DIPHYIDAE	151
+
+[FIGURE]
+C
+B
+1 MM
+0·25 MM
+1 MM
+1 MM
+1 MM
+D
+E
+A
+
+FIG. 90.   Sulculeolaria chuni (L. & v. R.). Polygastric phase
+A, anterior nectophore, Gt. Barrier Reef, × 15.5; B, posterior nectophore (apex damaged) Gt. Barrier Reef; C, ventro-lateral view of proximal part of the posterior nectophore from 6° 10′ N, 24° 5′ W, × 48; D, lateral view of the same, × 12.5; E, dorsal view of the mouth-plate of the same, × 17 (from Totton, 1932, fig. 20)
+[/FIGURE]
+
+[NOTE: the whole page above the caption is text-fig. 90 — five drawings (A–E) disposed irregularly over the page, with no body text at all. The lettering listed inside [FIGURE] is given top to bottom, and left to right within a band: "C" at the head of the large drawing at the upper left; "B" at the head of the drawing at the upper right; the "1 MM" scale bar standing to the right of B; the "0·25 MM" bar standing to the right of C; the "1 MM" bar at the right-hand edge above drawing A; the "1 MM" bar to the right of drawing E; the "1 MM" bar to the left of drawing D; then the drawing letters D (lower left), E (lower centre) and A (lower right). All verified at 4·5–14x.]
+
+[NOTE: on the four "1 MM" bars the numeral is a plain vertical stroke set very close to the small-capital "MM", with only a hair space between; a space is given here. On the "0·25 MM" bar the space before "MM" is wide and unambiguous. All five bars are vertical rules with a serif at each end.]
+
+[NOTE: numerals verified digit by digit: FIG. 90; × 15.5; 6° 10′ N, 24° 5′ W, × 48; × 12.5; × 17; Totton, 1932, fig. 20; 0·25 MM; 1 MM. The minute marks in "10′" and "5′" are single primes.]
+
+[NOTE: the decimal points of the caption's "15.5" and "12.5" are full stops on the baseline, whereas the decimal point of "0·25" in the figure lettering is a raised middle dot. Both are as printed, and match the same split on page 150. The multiplication signs are saltire crosses.]
+
+[NOTE: the authority is printed "(L. & v. R.)" here, with a space between the two initials, against "L. & v.R." without one on page 150. Both are as printed. "(apex damaged) Gt. Barrier Reef" carries no comma after the closing parenthesis, and the caption ends with no full point after "fig. 20)". "FIG. 90." is small capitals with a full point after the number.]
+
+[NOTE: no printed square brackets occur on this page.]

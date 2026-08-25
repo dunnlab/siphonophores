@@ -1,0 +1,58 @@
+[PAGE 3392]
+
+[NOTE: born-digital journal page, full measure. The last of the discussion (3.4),
+then the reference list 参考文献（References） entries [1]–[17] in a smaller serif
+face. No figures.]
+
+[NOTE ON PUNCTUATION: as on page 3, the journal sets punctuation with generous
+side-bearing so that a full-width mark is drawn as a narrow glyph inside a wide
+box. Marks that carry space on both sides are transcribed as the full-width forms
+（）， 。、：； and marks set tight against the preceding character with space only
+after are transcribed as the Latin forms , . : — this is the only evidence the
+image gives. In the serif reference list one and the same dash glyph, about the
+width of a digit, is used both for page ranges (199–212) and where a hyphen would
+be expected (Top–down, medusae–a summary); it is transcribed uniformly as an en
+dash. The shorter dash in the sans Chinese body text (广西-越南) is transcribed as
+a hyphen, and the long dash of 2003—2005 and 研究—— as an em dash.]
+
+[RUNNING HEAD] 3392	生 态 学 报	35 卷
+
+量明显减少。与拟细浅室水母相比，双生水母的适温范围较广。
+
+四叶小舌水母为大洋暖水种[31]，是秋季的绝对优势种，密集中心位于调查海域西部（盐度 31.8—32.3），秋季水母类的丰度与该种分布基本一致。该种在我国从黄海至南海均有分布，是东海[31]、厦门港[32]、台湾海峡[26]和南海北部[25]水螅水母类的优势种。许振祖[26]表明，四叶小舌水母具有广盐性，主要分布于混合水区或沿岸水边界的混合水区。秋季北部湾北部表层盐度 30.4—33.2，平均盐度 31.3，调查海域混合区范围为全年最广，为四叶小舌水母的生长提供了良好的条件。
+
+3.4	水母类群集结构特点
+
+综合聚类分析和 DCCA 分析的结果，北部湾北部水母类可分为等深线 20 m 以浅的低盐群集和等深线 20 m 以深的高盐群集，群集间有显著差异。低盐群集主要受广西-越南沿岸流的影响，高盐群集受沿岸流和外海水的共同影响，两群集的盐度分界基本在 32.5 左右。
+
+低盐群集: 主要分布于沿岸水域，其出现和数量变化主要受沿岸水的影响，根据水温的不同[29]，可分为沿岸暖温生态类群和沿岸暖水生态类型。低盐群集的代表种为沿岸暖水生态类型中管水母类的拟细浅室水母和双生水母，徐兆礼[30]认为这两种水母的分布可作为沿岸水影响的指标。该群集对本调查海域水母类的丰度变化起主导作用。
+
+高盐群集: 主要分布于外海水流经的区域（包括混合水区），其出现和数量变化主要受外海水的影响，秋季该群集分布于调查区的绝大部分海域，混合水区范围全年最大。代表种为四叶小舌水母和半口壮丽水母。林茂[27]认为这两种水母对暖流余脉有指示作用。此外巴斯水母、双小水母和长囊无棱水母均属于该类群。林茂[33]表明这 3 种水母是南海中部管水母类的常见种，张金标[34]指出巴斯水母和长囊无棱水母是受外海暖水影响的共有种。本次调查巴斯水母、双小水母和长囊无棱水母是高盐群集的特征种，可以认为对南海暖流进入北部湾有指示作用。
+
+参考文献（References）：
+
+[1]	Steele J H，Thorpe S A，Turekian K K. Marine Biology: A Derivative of the Encyclopedia of Ocean Sciences. 2nd ed. Burlington: Academic Press，2009.
+[2]	Graham W M，Pagès F，Hamner W M. A physical context for gelatinous zooplankton aggregations: a review. Hydrobiology，2001，155（1/3）：199–212.
+[3]	Mills C E. Jellyfish blooms: are populations increasing globally in response to changing ocean conditions? Hydrobiologia，2001，451（1/3）：55–68.
+[4]	Uye S. Blooms of the giant jellyfish Nemopilema nomurai: a threat to the fisheries sustainability of the East Asian Marginal Seas. Plankton and Benthos Research，2008，3（S1）：125–131.
+[5]	张芳，孙松，李超伦. 海洋水母类生态学研究进展. 自然科学进展，2009，19（2）：121–130.
+[6]	程家骅，李圣法，丁峰元，严利平. 东、黄海大型水母暴发现象及其可能成因浅析. 现代渔业信息，2004，19（5）：10–12.
+[7]	马喜平，凡守军. 水母类在海洋食物网中的作用. 海洋科学，1998，（2）：38–41.
+[8]	Greve W. The 1989 German Bight invasion of Muggiaea atlantica. ICES Journal of Marine Science，1994，51（4）：355–358.
+[9]	Purcell J E，Grover J J. Predation and food limitation as causes of mortality in larval herring at a spawning ground in British Columbia. Marine Ecology Progress Series，1990，59: 55–61.
+[10]	Schneider G，Behrends G. Top–down control in a neritic plankton system by Aurelia aurita medusae–a summary. Ophelia，1998，48（2）：71–82.
+[11]	单秀娟，庄志猛，金显仕，戴芳群. 长江口及其邻近水域大型水母资源量动态变化对渔业资源结构的影响. 应用生态学报，2011，22（12）：3321–3328.
+[12]	黄加祺，许振祖. 东山岛周围海域各类水母的分布. 台湾海峡，1996，15（4）：363–367.
+[13]	廖秀丽，李纯厚，杜飞雁，林钦，贾晓平. 2003—2005 年大亚湾水螅水母类生态研究. 海洋环境科学，2006，25（S1）：48–52.
+[14]	马喜平，高尚武. 渤海水母类生态的初步研究——种类组成、数量分布与季节变化. 生态学报，2000，20（4）：533–540.
+[15]	王真良. 黄海区水母类的生态研究. 黄渤海海洋，1996，14（1）：41–50.
+[16]	张芳，杨波，张光涛. 胶州湾水母类生态研究 Ⅱ. 优势种丰度的时空分布. 海洋与湖沼，2005，36（6）：518–526.
+[17]	马喜平，孙松，高尚武. 胶州湾水母类生态的初步研究 Ⅰ. 群落结构及其年季变化. 海洋科学集刊，2000，42: 91–99.
+
+[NOTE: in the reference list the bracketed entry number is separated from the entry
+by a wide space, transcribed here as a tab. "Hydrobiology" in [2] is printed thus,
+against "Hydrobiologia" in [3].]
+
+http: / / www.ecologica.cn
+
+?1994-2018 China Academic Journal Electronic Publishing House. All rights reserved.    http://www.cnki.net

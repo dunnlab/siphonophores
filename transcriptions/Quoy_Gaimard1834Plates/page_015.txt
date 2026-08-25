@@ -1,0 +1,59 @@
+[PAGE 15: unnumbered]
+
+[NOTE: hand-coloured impression of the engraved plate, scanned in colour from the
+sheet itself (cream laid paper, heavy foxing and browning in the outer margins, no
+binding or photographic backdrop and no digitiser's caption strip).]
+
+[NOTE: this is plate 4, which occurs three times in this PDF — as a bilevel scan,
+as a photograph of the bound volume, and here. Before starting this batch of pages
+I read the existing gold-standard file for page 10, which is the photograph of
+this same plate, in order to learn the house conventions for the plate legends.
+The transcription below was nevertheless made from this page image; the fact is
+recorded because it means this page is not fully independent of page 10.]
+
+[RUNNING HEAD] Voyage de l'Astrolabe – ZOOLOGIE.
+
+[RUNNING HEAD] ZOOPHYTES. – Pl. 4.
+
+[PLATE]
+ZOOPHYTES. – Pl. 4.
+
+[NOTE: an engraved figure numeral is set just above each of the twenty-seven or so
+separate drawings on the sheet; the legend accounts for figures 1 to 27. None of
+the numerals on the plate itself can be read: the page image is a heavily
+compressed JPEG and a numeral about a millimetre high dissolves into two or three
+smears, and rendering from the 600 ppi source rather than at 300 dpi adds no
+detail. They are recorded as [illegible] rather than reconstructed from the
+legend's ranges.]
+
+[illegible] [NOTE: about twenty-seven engraved figure numerals, one to each
+drawing, none resolvable]
+
+[illegible] [NOTE: draughtsman's credit in engraved script at lower left; three
+or four word-shapes ending in an abbreviation, no letters resolvable]
+
+[illegible] [NOTE: engraver's credit in engraved script at lower right, on the
+same line; not resolvable]
+
+1	6	Diphye Bory	}
+7	11	Diphye calpé.	}	N.
+12	17	Diphye abyla.	}
+
+18	20	Diphye de Bass.	}
+21	23	Diphye capuchon	}	N.
+24	27	Diphye cucubale.	}
+
+[NOTE: the legend is in two columns of three lines each and is transcribed above
+column by column, left column first. Each column is closed by a single tall brace
+to its right with one italic "N." set against the middle line and serving all
+three. No locality parentheticals appear on this plate. The first line of each
+column and the middle line of the right column appear to end without a full point,
+as transcribed, but the final punctuation is at the edge of legibility throughout.]
+
+[illegible] [NOTE: a line of minute type at the lower left corner of the sheet,
+level with the legend; on other plates in this PDF this position carries the
+publisher's imprint, but here nothing can be read]
+
+[illegible] [NOTE: a further line of minute type at the lower right corner of the
+sheet, level with the legend; not resolvable]
+[/PLATE]

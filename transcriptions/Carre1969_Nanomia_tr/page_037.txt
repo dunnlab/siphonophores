@@ -1,0 +1,30 @@
+[PAGE 16]
+
+[NOTE: English translation, born-digital and fully legible. No figures. The heads "EXPERIMENTATION" and "CONCLUSIONS" are centred in ordinary roman capitals, not bold. The numbered conclusions are set as a hanging-indent list; their line breaks are not preserved but the list items are. Printed as-is: "some buds of swimming bells of which the development has been followed", "the observations that we have reported ... establishes that" (singular verb with a plural subject), and "The larva then goes under the name siphonula". The list ends mid-sequence at item 4 and continues on the next page.]
+
+the proximal region of the stolon, appear some buds of swimming bells of which the development has been followed on some larvae and some young colonies collected in plankton samples. It forms at first a small ecto-endodermic evagination at the summit of which is isolated, at the expense of the ectoderm, a small, typically medusoid nodule (Fig. 7B), which develops into a functional nectophore (Pl. II, 6).
+
+At the same time of the development of the first swimming bells, one sees, on the distal part of the stolon, the budding of new cormidia pushing back the primary gastrozooid. One has then a young colony (Pl. II, 6).
+
+EXPERIMENTATION
+
+We have obtained numerous larvae of Nanomia bijuga, which have allowed us to attempt some classical experiments after the works of Teissier (1931).
+
+We have mechanically isolated, with the help of glass threads, some blastomeres of larvae at stages 2, 4, 8, and 16. In all cases, we have obtained a perfectly formed planula. In one of these experiments carried out on an eight blastomere stage, we obtained eight planulae of which seven had formed the outline of the pneumatophore and of the first larval tentacle before degenerating, probably due to lack of nutritive substances.
+
+On the other hand, we have divided in two some gastrulas and some young planulae. In all cases, there had been regulation.
+
+Finally, we have sectioned into anterior and posterior fragments of larvae showing the beginnings of the pneumatophore: the anterior regions have developed into a small siphonula without gastrozooid, which had degenerated; the posterior regions have outlined the differentiation of a primary gastrozooid but never differentiated a pneumatophore. It appears then that the possibilities of regulation are total up to the young planula and disappear at the moment of formation of the first buds.
+
+We have attempted to put in place some colour markers on the 2 blastomere stages, either at the animal pole, or at the vegetative pole, as a parcel of agar impregnated with neutral red. In the majority of cases, after 24 hours, the colour has diffused into the whole larva. In some planulae, we have observed a more intense coloration at the level of the endoderm of the anterior pole, but this result is too partial to allow us to establish the existence of a polarity in the eggs of siphonophores.
+
+On the margin of these experiments, the observations that we have reported on the segmentation and the mode of gastrulation establishes that the ectodermal material is situated at the periphery of the egg while the endodermic material is located in the deeper region.
+
+CONCLUSIONS
+
+The histological studies of the development of Nanomia bijuga have led us to the following conclusions:
+
+1.	The segmentation of the egg, total and equal, results in a sterroblastula;
+2.	Gastrulation is effected by primary delamination.
+3.	The gastrula is transformed into a planula by the formation of a continuous layer of endoderm at the anterior pole and on the ventral face of the larva;
+4.	The ectoderm at the anterior pole invaginates and isolates a small internal nodule of ectoderm, developing into the pneumatophore. The larva then goes under the name siphonula;

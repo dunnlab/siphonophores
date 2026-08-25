@@ -1,0 +1,34 @@
+[PAGE 3]
+
+[NOTE: English translation, born-digital and fully legible, but Figure 1 is a scan of the same raster as the figure on page 3 of the French original earlier in this PDF — the same illustration appears twice in the document, once in each half. The lettering inside the figure is therefore the French original's lettering, transcribed here as it physically appears. The caption below it is the translator's new English caption, set in the born-digital type. The caption's line breaks are centred; they are preserved only where semantically real.]
+
+[RUNNING HEAD] 3
+
+[FIGURE]
+[panel A, upper left; leaders:] Ect. / O. / End.
+A
+20 µ.
+
+[panel C, upper right; leaders:] V.G. / O. / End. / C.End
+C
+50 µ.
+
+[panel B, lower left; leader:] End.
+B
+20 µ.
+
+[panel D, lower right; leaders:] Ect. / O. / Vit. / C.End.
+D
+30 µ.
+
+Fig. 1. Differentiation of the female gonophores of Nanomia bijuga.
+A, B: transverse sections of the apical region of the young blastostyle, showing some oocytes pressed one against another (1), then separated by some endodermal cells (2). C: longitudinal section of a female blastostyle, in which the oocytes are beginning to make projections on the exterior. D: Section of an oocyte some hours later.
+[/FIGURE]
+
+SEGMENTATION AND GASTRULATION
+
+Fertilisation is carried out in seawater, after the release of the polar globules.
+
+Metschnikoff gave no details on the first stages of development of the egg of Nanomia bijuga, simply mentioning that all is the same as that for other siphonophores.
+
+Segmentation begins a dozen minutes after fertilisation. The first plane of cleavage is meridional and divides the egg into two equal blastomeres. The second, perpendicular to the first, is sometimes meridional, but most often equatorial. The

@@ -1,0 +1,20 @@
+[PAGE 465]
+[NOTE: previous reader's pencil annotation. Heavy pencil underlining, sometimes struck through the type rather than beneath it, runs across the second paragraph from 'Cheilostomata all the cystids of a colony always' to 'coelenterates. The remarkable' (six lines), and again in the fourth paragraph beneath '(rosette-shaped porous plates connecting the cavities of the zooids). There are no neural connections between the zooids' plus a line under the following line. A large pencil mark, a tall doubled vertical stroke or bracket, stands in the right-hand margin alongside those same two paragraphs; it carries no letters or words.]
+[RUNNING HEAD] DEVELOPMENT OF THE COLONIAL HABIT 465
+
+seasonal reconstruction of the organisation of separate zooids; that recontruction, however, cannot be regarded otherwise than as very radical.
+[NOTE: 'recontruction' is printed thus, broken as 're-contruction' across the line end; transcribed as printed.]
+
+Whereas in Cristatella (Phylactolaemata) the fusion of all cystids into a single body wall common to the whole colony has led to formation of a unique coenosarc, in Cheilostomata all the cystids of a colony always remain entirely separate. Because of the absence of a coenosarc the colony as a whole is composed of separate zooids, and thus differs markedly from colonies of polyps or Kamptozoa. The absence of a coenosarc has without doubt closed to most Bryozoa one of the paths to intensification of colonial individuality that is widely used by coelenterates. The remarkable development of polymorphism in Bryozoa, however, has enabled them to attain almost the same diversification of colony types as is found in hydroids.
+
+In Gymnolaemata the physiological integration of a colony is limited to primitive adaptations directed towards creation of uniformity of internal environment (rosette-shaped porous plates connecting the cavities of the zooids). There are no neural connections between the zooids, and their neural apparatuses are mutually independent (E. Marcus, 1926).
+
+Stenolaemata
+
+Stenolaemata (F. Borg, 1926) form colonies that are incrustational, discoid, massive, or branched, and in the constancy and regularity of zooid arrangement often similar to regular colonies of Cheilostomata. In some Stenolaemata the integration of colonies reaches high levels, as is shown in the development of radially-symmetrical forms, such as the colonies of Defrancia.
+
+The primary individual or oozooid of Stenolaemata is a hemispherical 'primary disc' (Fig. 211, A), has no polypide, and is therefore a kenozooid. The autozooids are of uniform structure throughout the whole order, and the colonies achieve diversification of structure by means of varying arrangements of autozooids.
+
+The most characteristic feature of colony-formation in Stenolaemata is their method of budding. Among them there is always a growth zone common to the whole colony; either it may be a unit or (when the colony is branched) a separate growth zone may develop at the tip of each branch. The common growth zone always contains a terminal membrane, at the margin of which growth takes place. Beneath the membrane there is an undivided common coelom. In Stenolaemata, therefore, there is always a region, undivided into separate cystids and actively growing, either at the ends of the branches or on the growing margin of the colony. As it expands septa develop in it, growing obliquely forward (Fig. 211, A); when one of the septa reaches the terminal membrane it separates off the cavity of a new cystid, which simultaneously acquires its own share of the terminal membrane. Later a polypide also forms in that new cystid.
+
+The whole of the above process may be regarded as a modification of the more primitive budding of Gymnolaemata. In the latter a new cystid is

@@ -1,0 +1,91 @@
+[PAGE 7]
+
+[NOTE: printed square brackets occur on this page and are the source's own, not
+transcriber markers: the Fig. 4 axis labels "Depth [m]" and "Abundance [log(ind.·1000
+m^-3)]", and "[log(ind.·1000 m^−3)]" in the Fig. 4 caption. Everywhere else on this
+page "[" is my marker. Superscripts are rendered with "^".]
+
+[RUNNING HEAD] M.K. Mańko, et al.
+[RUNNING HEAD] Progress in Oceanography 189 (2020) 102414
+
+transect EB: 1147 ind.·1000 m^−3; Supp. mat. 1). Then, the average abundance of gelatinous zooplankton decreased with depth until reaching its minimum in the water just above the bottom (Supp. mat. 1). A similar pattern was observed in the upper 200 m stratum in the exterior zone, but the average abundance of GZ below that depth suddenly increased, reaching an average of 309 ind.·1000 m^−3 (transect N) and 364 ind.·1000 m^−3 (transect EB) at depths of 200–600 m before gradually decreasing (Supp. mat. 1). In the water above the slope, the highest average abundance of GZ was found in the water that was 200–600 m deep along transect N, while in the case of transect EB, both the 200–600 m and 25–50 m water strata harboured GZ populations of similar abundance. No representatives of GZ were found in the upper 50 m of the water column in the offshore zone along either transect, while the highest average abundance in this zone was documented in the 200–600 m stratum (Supp. mat. 1). The abundance of GZ in the open ocean zones was the highest at depths of 200–600 m and decreased with depth; however, the average abundances in the deepest samples were still higher than in either of the upper layers (i.e., 0–25 m; 25–50 m; 50–200 m; Supp. mat. 1). This led to an overall higher average abundance of gelatinous zooplankton in the waters from 200 to 1000 m deep (transect N: 314 ind.·1000 m^−3; transect EB: 288 ind.·1000 m^−3; Supp. mat. 1) than from 0 to 200 m (transect N: 113 ind.·1000 m^−3; transect EB: 118 ind.·1000 m^−3; Supp. mat. 1).
+
+The open ocean and shelf zones harboured inverse diversity patterns, with more species-rich communities being present in the deeper open ocean layers and in the shallow water above the shelf (Fig. 4). The species classified as Anthomedusae were restricted to the shelf stations. Similarly, the ctenophores were present at high relative abundance in the shelf stations; however, this group was also found in small numbers in the shallow exterior waters and in the water layer from 200 to 600 m in all open ocean stations (Fig. 4). Trachymedusae had the highest relative abundance in the water layer from 25 to 50 m in all zones (shelf included) and in the water layer from 50 to 200 m in only the open ocean zones (Fig. 4). Then, the proportion of Trachymedusae decreased in favour of Calycophorae. Calycophoran siphonophores were also present in the surface (0–25 m) layer in the exterior and slope zones and in minute quantities in the deep shelf waters. Most of the physonect siphonophores identified were present in the deep water (> 200 m) in the open ocean zones, with the exception of P. hydrostatica that was found in the surface water over the shelf.
+
+Zonal partitioning of the vertical distribution, which was observed for higher taxonomic ranks, could also be discerned at the species level (Fig. 4). A. digitale was present throughout the water column in all bathymetric zones, while D. arctica predominated in the deeper layers of the open ocean and had a very limited vertical distribution above the shelf, being found there on only one occasion. Although both species were collected at most depths in the open ocean, there were depths with a clear numerical dominance of either species, with D. arctica prevailing in the deeper water (starting at depths of 200–600 m along transect EB and only in the deepest waters of transect N; Fig. 4). Differences in the vertical distributions of the same species between zones were identified for a few species; notably, M. bargmannae and R. plicata had a broader range of distribution in the offshore zone than in the exterior and slope zone. Most of the Trachymedusae were found only in the samples collected from depths exceeding 600 m. In contrast, Beroe spp. were present throughout the shelf water column and had a limited depth range in the slope and offshore zone (200–600 m) but penetrated shallower waters in the exterior zone (up to the surface).
+
+Of the taxa found in only a single bathymetric zone, C. vesicarium, H. cirratus, B. superciliaris and P. hydrostatica had vertical distributions that were restricted to the surface layers (0–25 m; 25–50 m; all being found in shelf zone; Fig. 4). The species unique to the open ocean zone were usually characteristic of the deeper water (M. orthocanna: 600–1000 m, exterior zone; C. amygdalina: 600–1000 m, offshore zone; Fig. 4).
+
+3.3.2. Demography
+
+Further examination of the vertical distribution of the two most abundant species, A. digitale and D. arctica, revealed that the different life cycle stages occupied different depths and zones and were present with significantly different frequencies in both transects (Table 2, Fig. 5).
+
+In the case of A. digitale, the large, mature specimens were restricted to deep open ocean water (overall > 200 m, but few were found in 25–50 m stratum in the exterior zone along EB, and > 50 m in the slope zone along the same transect), and some were found in the water 50–100 m deep at the shelf stations along transect N (Fig. 5, Table 2). The juveniles were mostly restricted to the upper 50 m of the water column; however, a small number of individuals of this life cycle stage were also identified in deeper waters. A. digitale was also present at the shelf stations, with only intermediate specimens identified from the
+
+[FIGURE]
+[NOTE: figure occupies the foot of the page across both columns, in a grid of panels.
+The following is the printed lettering only, in reading order: the column strip
+labels, the depth axis and its tick labels, the row strip labels, the x tick labels,
+the x axis label, then the legend.]
+EXTERIOR	OFFSHORE	SLOPE	SHELF
+Depth [m]
+0-25
+25-50
+50-200
+200-600
+600-1000
+0-25
+25-50
+50-100
+100-150
+150-bottom
+EB
+0-25
+25-50
+50-200
+200-600
+600-1000
+0-25
+25-50
+50-100
+100-bottom
+N
+0	5	10	15	20
+0	5	10	15	20
+0	5	10	15	20
+0	5	10	15	20
+Abundance [log(ind.·1000 m^-3)]
+Species
+Aglantha digitale
+Pantachogon haeckeli
+Homoeonema platygonon
+Trachymedusae indet.
+Catablema vesicarium
+Halitholus cirratus
+Bougainvillia superciliaris
+Crystallophyes amygdalina
+Dimophyes arctica
+Muggiaea bargmannae
+Diphyid eudoxid indet.
+Marrus orthocanna
+Physophora hydrostatica
+Rudjakovia plicata
+Beroe sp.
+Mertensia ovum
+Ctenophora indet.
+Trachymedusae
+Anthomedusae
+Calycophorae
+Physonectae
+Ctenophora
+
+Fig. 4. Log transformed abundance [log(ind.·1000 m^−3)] of all taxa identified and the higher taxonomic ranks, along the depth gradient, separated by bathymetric zones and transects (upper row – EB, lower row – N).
+[/FIGURE]
+
+[NOTE: the Fig. 4 x-axis label prints the exponent of "m^-3" with a hyphen, whereas
+the caption and body text use a true minus sign in "m^−3"; the same discrepancy
+occurs on page 6. Italics are not marked in this transcription: the abbreviated
+species names in the body text and the species names in the Fig. 4 legend are set in
+italic, while "Trachymedusae indet.", "Diphyid eudoxid indet." and "Ctenophora
+indet." are set upright in that legend. The Fig. 4 depth tick labels use a hyphen
+("0-25") where the body text uses an en dash ("0–25 m"), as printed.]

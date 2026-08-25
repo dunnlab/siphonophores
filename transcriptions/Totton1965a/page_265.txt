@@ -1,0 +1,43 @@
+[PAGE 265: unnumbered]
+
+[RUNNING HEAD] A SYNOPSIS OF THE SIPHONOPHORA
+
+PLATE XVI
+
+Lychnagalma utricularia (Claus)
+From Claus, 1879, plate 1, figures 1, 2, 5a, b, c, d, f
+
+FIG. 1.	Whole animal.
+FIG. 2.	Tentillum.
+FIG. 3.	Dorsal view of an upper nectophore (ventral view in Claus's terminology).
+FIG. 4.	Ventro-ostial view of a lower nectophore (lower and ventral view in Claus's terminology).
+FIG. 5.	Lateral view of same.
+FIG. 6.	Dorsal view of same (ventral view in Claus's terminology).
+FIG. 7.	Ventral view of an upper nectophore (dorsal view in Claus's terminology).
+
+All the following terms, except the last, are translations of those used by Claus: SK = lateral ridge; DK = dorsal ridge; VK¹ = medial-lateral ridge; VK² = ventro-lateral ridge; UK = lower ridge; TK = transverse ridge; KF = wedge-shaped process; Z = socket (for stem); DF = dorso-lateral facet; VG = dorsal radial canal.
+
+Pyrostephos vanhoeffeni Moser
+From Moser, 1925, plate 29, figures 1, 10, 11
+
+FIG. 8.	Reconstruction by Moser of a large specimen showing the nectosome (less the pneumatophore and nectophore) and part of the siphosome (less most of the bracts), × 2.
+FIG. 9.	Three gastrozooids, × 2.3.
+FIG. 10.	Part of the stem to show palpons, × 3.
+
+[NOTE: caption leaf for PLATE XVI; the facing leaf (PDF page 266) is the plate itself. Unfoliated — no printed folio, no signature mark. The caption block begins a little above the middle of the leaf and runs to about three-fifths of the way down; the whole upper third and the whole lower two-fifths are blank apart from scan speckle.]
+
+[NOTE: the layout, from the top of the caption block down. "PLATE XVI" stands alone on its own centred line in spaced full capitals. Then the first species heading, centred: "Lychnagalma utricularia" in italic and "(Claus)" in roman, with round brackets. Then its centred source line "From Claus, 1879, plate 1, figures 1, 2, 5a, b, c, d, f", in roman upper and lower case, printing "figures" in full and NOT as "FIGS.", and with no closing full point. Then figures 1-7 as a conventional two-column indented list. Then the key paragraph, set FULL MEASURE and flush left, running to three printed lines. Then the second species heading, centred: "Pyrostephos vanhoeffeni" in italic and "Moser" in roman, with no brackets and no closing full point. Then its centred source line "From Moser, 1925, plate 29, figures 1, 10, 11", again with no closing full point. Then figures 8-10 as a two-column indented list.]
+
+[NOTE: the caption covers TWO species and the key paragraph belongs only to the first. Figures 1-7 are Lychnagalma utricularia from Claus 1879; figures 8-10 are Pyrostephos vanhoeffeni from Moser 1925.]
+
+[NOTE: the key on this leaf is NOT the usual italic lower-case a, b, c list. It is a running prose sentence introducing German abbreviations in italic CAPITALS — SK, DK, VK¹, VK², UK, TK, KF, Z, DF, VG — each followed by a printed "=" sign and an English gloss, the glosses separated by semicolons. "VK¹" and "VK²" are printed with true SUPERSCRIPT arabic numerals 1 and 2 following the italic capitals, transcribed above with the Unicode superscripts ¹ and ². The sentence opens "All the following terms, except the last, are translations of those used by Claus:" — the exception being VG, the last entry, which is Totton's own. There is no key at all for figures 8-10.]
+
+[NOTE: several of the printed equals signs in the key paragraph are inked unevenly in this scan, the two strokes of unequal length or the upper stroke broken — notably in "DK =", "Z =" and "DF =" — but all ten are equals signs. The three magnifications in figures 8, 9 and 10 are printed with proper multiplication signs, ×, not with equals signs.]
+
+[NOTE: "FIG." in every entry is printed with a full-size F and small-capital IG followed by a full point, and is transcribed in full capitals. The tabs above stand for the printed space between "FIG. n." and the description. All numerals in the text are printed in old-style (text) figures, so that 1 has no upper serif, 2 sits on the line, 5, 7 and 9 have descenders and 0 is small; transcribed as ordinary digits. Every FIG. entry closes with a full point. Only FIG. 8 runs to two printed lines; its second line begins "phore and nectophore)", completing "pneumato-" broken at the end of the first line, and the line-break hyphen has been silently removed above to give "pneumatophore".]
+
+[NOTE: "Claus's" is printed with an apostrophe and a second s, and occurs four times, in the descriptions to figures 3, 4, 6 and 7. "Ventro-ostial", "dorso-lateral", "medial-lateral", "ventro-lateral" and "wedge-shaped" are printed with hyphens within a single line and the hyphens are therefore retained.]
+
+[NOTE: no printed square brackets occur on this leaf, and no editorial query mark of any kind appears here. The only brackets on the leaf are the round brackets in "(Claus)", "(ventral view in Claus's terminology)", "(lower and ventral view in Claus's terminology)", "(dorsal view in Claus's terminology)", "(for stem)", "(less the pneumatophore and nectophore)" and "(less most of the bracts)". Every square bracket above is a transcriber marker.]
+
+[NOTE: faint grey scan speckle covers the blank areas of the leaf throughout, more thinly than on the neighbouring caption leaves; a small dark comma-shaped mark lies in the left margin at about a fifth of the way down, and isolated specks stand in the blank lower half.]

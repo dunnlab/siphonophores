@@ -1,0 +1,39 @@
+[PAGE 88]
+[RUNNING HEAD] 88	A SYNOPSIS OF THE SIPHONOPHORA
+
+figured by Bigelow (1911b, Pl. 21, as Anthophysa rosea) and by Leloup (1941, Pl. 11). Bigelow shows the giant cells in the septa connecting the saccus to the pneumatocodon. The long morphologically longitudinal axis is tilted over to the ventral side. I suspect that there is a basal porus as in Physophora, because I saw a living specimen emitting bubbles amongst the bracts and palpons. Its presence has not been noted in spite of the fact that Chun, Bedot, Bigelow and Leloup have all cut sections of specimens. Gas production must be rapid because I saw the same living specimen sink and rise again to the surface half a dozen times. Ten minutes or so elapsed between sinking and rising again. The apical end is half covered on one side by the enlarged nectostyle.
+
+Bracts (text-fig. 48):   These arise from the excentric nectostyle by pedicels, on the two sides of which broad based muscular lamellae arise. In maturity the bases of these lamellae form eight or nine groups of six or seven each, the newly budded one being more apical than the older ones.
+
+The bracts themselves are capable of beating rhythmically in unison. I have seen them doing this when ascending to the surface, but particularly whilst being narcotized in magnesium chloride. They are three times as long as broad with a keel for attachment that is flattened laterally in the proximal part. The rest of the bract is flattened dorso-ventrally and convex on the upper side which bears seven inconspicuous longitudinal rows of nematocysts. The bracts form a complete corona and lie in several layers.
+
+Gastrozooids:   A protozooid marks the oral, anterior end. A young specimen may show only three or four gastrozooids, but in a specimen measuring 13 mm in length I counted eighteen. Their bases formed a line descending in a curve from the budding zone high up on the nectostyle towards and round the left and part of the broad underside. The curvature of this line in the growing zone is probably due to rapid, early hypertrophy. This occurs in most physonects, generally at the bases of all tentacles, especially in Physalia. The gastrozooids with their basigasters are of the usual Agalmid type. The tentacles have been described in great detail by Bedot (1904) and Bigelow (1911b). Bigelow decided that the trifid tentilla were of two main types, which he figured in his plate 20, figure 10 and plate 23, figure 4, an involucrate and a dendritic type, as described by Fewkes (1882) and by Haeckel (1888b). Bigelow said that some of Bedot's eight types were referable to stages of development of one type, and some to those of the other. My Villefranche specimen which measured about 1 cm in diameter, had seven tentacles and was carefully extended in magnesium chloride before fixation in formalin, bore five of the larger dendritic type of tentillum.
+
+The preserved expanded tentacles, now measure about 3 cm in length. In life they were perhaps twice as long. There are from twenty-five to thirty tentilla on each, at distances apart of from 1–1·5 mm each pedicel measuring from 2 to 3 mm in length. There is a long thickened terminal part of each tentacle which is free from tentilla (see Leloup, 1941, Pl. 1, fig. 3).
+
+The tentilla are of two kinds on this specimen. Each tentacle may bear one or two or none of the larger dendritic type (Pl. XVII, fig. 2; and see Bedot, 1904, Pl. 1, fig. 8δ). Those of the other involucrate type (Pl. XVII, fig. 3) are like those figured by Bedot on the same plate in figure 6β. Both are tricornuate.
+
+The 'pendant' (Bedot) or 'dorsal spur' (Haeckel) of the dendritic type was long (1·25 mm). I saw no intermediates between this delta type and the alpha type of Bedot's figure 4. But I agree with Bigelow in thinking that there are two main types of tentilla and not eight as suggested by Bedot. My view is that the form of the 'spur' is probably very variable, rather than that one form grows into another.
+
+[FIGURE]
+a
+b
+c
+
+FIG. 48.   Athorybia rosacea (Forskål)
+Bracts a, oblique view; b, inner side; c, side view (from Totton & Fraser, 1955, fig. 9 a-c), × 7.
+[/FIGURE]
+
+[NOTE: printed folio 88 at the outer (left) edge of the running head; PDF index 93, offset −5 holds. No printed square brackets occur on this page.
+
+Layout: the page is set full measure down to "...bore five of the larger dendritic type of tentillum." From there the lower half becomes two unequal columns — a narrow left column of text about two-thirds the full measure, and a narrow right column occupied entirely by text-fig. 48 and its caption. Following the protocol, the left column is transcribed complete (the four paragraphs from "The preserved expanded tentacles" to "into another.") and the right column, i.e. the figure and caption, follows after it; on the page they stand side by side, the figure beginning level with the paragraph "The preserved expanded tentacles" and the caption level with "not eight as suggested by Bedot".
+
+The three items inside [FIGURE] are exactly the three hand-lettered labels printed within the drawing and nothing else, in reading order: a bold lower-case "a" beside the left-hand object, "b" below the right-hand object, and "c" beside the lower object. There is no other lettering in the drawing, no panel number and no scale bar (the magnification × 7 is given in the caption). The illustration itself is deliberately not described. In the caption "FIG." is small capitals, "Athorybia rosacea" is italic, "(Forskål)" roman, and the multiplication sign in "× 7" is a saltire cross; the range in "fig. 9 a-c" is set with a short hyphen, not the en-dash used for numeric ranges elsewhere on the page.
+
+Greek letters are printed in the tentillum references and are transcribed as Greek: "fig. 8δ" (delta, verified at 2.8×) and "figure 6β" (beta, likewise verified). Where Totton names the same types in words two sentences later, "delta" and "alpha" are spelt out in italic Latin letters — "this delta type and the alpha type of Bedot's figure 4" — and are transcribed as spelt.
+
+Italic in the body: the side-headings "Bracts" and "Gastrozooids:", "porus", "Physophora", "Anthophysa rosea", "Physalia", "delta", "alpha", and "see" / "and see" inside the two parenthetic references. Single curly quotes enclose 'pendant' and 'dorsal spur' and the later 'spur'.
+
+Numerals verified digit by digit against 2.8×–3× crops: 1911b, Pl. 21, 1941, Pl. 11, text-fig. 48, 13 mm, 1904, 1911b, plate 20, figure 10, plate 23, figure 4, 1882, 1888b, 1 cm, 3 cm, 1–1·5 mm, 2 to 3 mm, 1941, Pl. 1, fig. 3, Pl. XVII, fig. 2, 1904, Pl. 1, fig. 8δ, Pl. XVII, fig. 3, figure 6β, 1·25 mm, figure 4, FIG. 48, 1955, fig. 9 a-c, × 7. Decimal points in "1·5" and "1·25" are raised middle dots and the rule in "1–1·5" is an en-dash. Note that "Pl. 11" (Leloup) is two ones and not "Pl. II"; it is set in arabic figures like "Pl. 21" and "Pl. 1" elsewhere, whereas Totton's own plate is cited in roman as "Pl. XVII".
+
+Stray marks, all scanning blemishes: faint specks in the left margin level with "XVII, fig. 2" and near the foot of the page, a speck in the right margin level with "longitudinal axis is tilted", a short dash-like fleck in the white space to the right of label "b" inside the figure area which is not printed lettering, and a small tick low in the left margin below the text.]

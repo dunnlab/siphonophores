@@ -1,0 +1,37 @@
+[PAGE 16]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+[FIGURE]
+A
+fg	gz
+mg
+st	tn
+br
+pa
+B	C
+in
+D	E
+pl
+FIGURE 12
+Siphosomal zooids of Nanomia septata sp. n. holotype. (A) Cormidium showing gastrozooid and groups of palpon with female and male gonodendra on alternate sides, (B) gastrozooid, (C) tentilla from a single tentacle, from youngest to oldest (left to right) in various stages of development, (D) female and male gonodendra on either side of a palpon, and (E) palpon with palpacle. br, bract; fg, female gonophore; gz, gastrozooid; in, involucrum; mg, male gonophore; pa, palpon; pl, palpacle; st, stem; tn, tentacle. Scale bars: 1 mm.
+[/FIGURE]
+
+patch. Lateral portion of a transverse ridge lined with larger cells. Bracteal canal originating on the proximal process and running nearly to the distal tip of the bract.
+
+Type B. Elongate, 6.3 mm long and 2.0 mm wide. Terminating with three cusps, each with a ridge running towards proximal portion of bract. Lateral ridges much shorter than the median ridge, and lined with distinct cells. Median ridge longer, running up to one third of bracts upper surface, not lined with any cells, and with distinct cell patches, one per side of the ridge. Bracteal canal started near the proximal process and run along the lower surface for the majority of bracts length.
+
+Gonodendra: Monoecious, with both male and female gonodendra attached at bases of individual palpons (Figure 12). Male gonophores elongate, white when immature, becoming orange upon maturation. Female gonophores small, oval, each with a single egg cell.
+
+Distribution
+
+Molecular identification confirmed the presence of Nanomia septata in the North Pacific, from California up to Vancouver in the east, as well as from Japanese waters in the west. Nanomia septata is extremely abundant in the eastern North Pacific, spanning from the surface to 550m, based on 287 000 ROV annotations gathered over a 30-year period (Figure 13). The mean number of specimens observed on each ROV dive was 234, with a maximum of 3997. The bulk of the sightings occur at daytime-depths between 200 and 450 m. Although depth data were primarily obtained during the day the distribution is not constant since Nanomia undergo diel vertical migration, to maximize overlap with their predominant prey of krill (Choy et al., 2017). N. septata are most abundant between August and November, and there is a potential seasonal shift during development, since the depth of occurrence increases from August to November (Figure 13).
+
+Remarks
+
+Frontiers in Marine Science	16	frontiersin.org
+
+[NOTE: Figure 12 fills the upper two thirds of the page in a boxed panel; below it the page is two columns, transcribed left column then right column. The first paragraph continues the sentence broken off at the foot of page 15 ("with a distinct cell" / "patch"). Both columns end with an italic run-in heading on its own line, "Distribution" at the foot of the left column and "Remarks" at the foot of the right.
+
+Inside the [FIGURE] block only text physically printed in the panel is given; the photographs are not described. Figure 12 is five photographs on a black ground, lettered A (a wide panel across the top), then B and C side by side, then D and E side by side, each letter printed in white at the panel's top left corner. The white leader labels are transcribed panel by panel in the order A, B, C, D, E and within each panel in approximate top-to-bottom order; where labels sit level they are separated by a tab. Panel A carries fg, gz, mg, st, tn, br and pa; B carries none; C carries in; D carries none; E carries pl. Each panel carries a plain white scale bar with no printed value (the caption supplies "Scale bars: 1 mm").
+
+Presentation ligatures (fi, fl) are transcribed as the ordinary two-letter sequences. "550m" is printed without a space before the "m", while "450 m" elsewhere in the same paragraph has one; "287 000" is printed with a space as the thousands separator. "bracts upper surface" and "bracts length" are printed without apostrophes. Running head and running foot elements are separated by tabs.]

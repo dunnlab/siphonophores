@@ -1,0 +1,43 @@
+[PAGE 256: unnumbered]
+
+[PLATE]
+PLATE XI
+
+1.
+
+3.
+pn.
+nect.
+tr.
+p.
+br.
+go.
+pa.
+f
+p.
+t
+f.
+t.pr.
+
+2.
+[/PLATE]
+
+[NOTE: this leaf is entirely occupied by PLATE XI. Its caption, with the key to the abbreviations, is on the facing leaf, PDF page 255; no caption text is repeated here. The plate is printed portrait on a portrait leaf and needs no rotation; every figure number and reference letter reads upright.]
+
+[NOTE: "PLATE XI" is set in bold full capitals in the top right corner of the leaf, above and clear of the plate block, in the ordinary text orientation. It is the only text on the leaf that is not part of the plate.]
+
+[NOTE: the plate is made up of three separate blocks. Figures 1 and 2 are half-tone photographic blocks, forming a narrow column down the left third of the plate: figure 1 a rectangular block at the top, figure 2 a rectangular block at the bottom, the two overlapping in a stepped notch about three-fifths of the way down. Figure 3 is a line block filling the right two-thirds of the plate for its whole height. Figures 1 and 2 carry NO lettering at all — only their numerals, printed solid black in a plain sans-serif face on the light grey of the photograph, near the block's upper left corner — and are listed above with their number alone. Figure 3's numeral is in the same black sans-serif face, standing in the white of the line block. All the reference letters on the plate belong to figure 3.]
+
+[NOTE: the figure numbers are not in layout order down the leaf. Scanning top to bottom and left to right, "1" comes first (top left of the upper photograph), then "3" (top right, high in the line block), then "2" (upper left of the lower photograph, about three-fifths of the way down). The [PLATE] block above follows that reading order, so figure 3's letters are listed between figures 1 and 2.]
+
+[NOTE: figure 3's reference letters are engraved in small italic and joined to the structures they name by long dotted leaders; they stand outside the drawing, in two vertical files down the left and right sides of it. They are listed above in top-to-bottom order regardless of side: pn. (left), nect. (right), tr. (right), p. (left), br. (right), go. (right), pa. (right), f (left), p. (right), t (left), f. (right), t.pr. (right). Twelve letters in all. Note that p. and f each occur twice.]
+
+[NOTE: the reference letters on this plate are printed WITH a trailing full point — "pn.", "nect.", "tr.", "p.", "br.", "go.", "pa.", "f.", "t.pr." — unlike the letters on PLATES IX-X, which carry none. Two of the twelve are transcribed above without a point, the "f" at mid-left and the "t" at lower left, because at 300 dpi the first dot of the leader sits where a full point would be and the two cannot be separated; the "f." at mid-right, whose leader starts further away, plainly has one. It is likely that all twelve carry the point.]
+
+[NOTE: "t.pr." carries an internal full point as well as a trailing one, agreeing with the key on the facing caption leaf, which prints "t.pr".]
+
+[NOTE: the ten letters of the key on PDF page 255 are br, f, go, nect, p, pa, pn, t, t.pr, tr — all ten are used on the plate, and none is used that is not in the key.]
+
+[NOTE: there is no printed folio, no running head and no printer's signature mark on this leaf. The half-tone blocks reproduce with visible grain and with several dark blotches in the background of figure 2 that are photographic, not type. Isolated grey specks occur in the white margins.]
+
+[NOTE: no printed square brackets and no editorial query marks appear on this leaf. The only square brackets above are transcriber markers.]

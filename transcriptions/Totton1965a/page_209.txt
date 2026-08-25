@@ -1,0 +1,44 @@
+[PAGE 204]
+
+204	[RUNNING HEAD] A SYNOPSIS OF THE SIPHONOPHORA
+
+Family 15: ABYLIDAE L. Agassiz, 1862
+
+Abylidae L. Agassiz, 1862; Haeckel 1888b; Totton, 1932; 1954
+Abylinae Lens & v. Riemsdijk, 1908; Bigelow, 1911b; Moser, 1925; Sears, 1953
+
+There is a smaller anterior nectophore whose hydroecial cavity is closed in on the ventral side to form a tube that opens below. Also a larger, posterior, heteromorph, definitive nectophore, whose apophysis fits into the hydroecial tube (Enneagonum is an exception).
+
+As Bigelow (1911b) pointed out the genera fall into two main groups, which I believe to be natural, based on the shape of the anterior nectophore. The posterior nectophore is not such a good guide.
+
+In one sub-family, Abylinae, the anterior nectophore has as a rule, a rectangular apical facet. In the other sub-family Abylopsinae there is no apical facet, but a ridge, formed by the junction of two lateral facets (text-fig. 153).
+
+The genera and species were very usefully reviewed with explanatory figures by Dr. Mary Sears in 1953. Into her revision she introduced a number of what I venture to consider to be confusing new synonyms for isolated and what appear to be pathological specimens. They seem to me to have suffered accidents in their development. On this account and with all respect to Dr. Sears, to whom I at once communicated my detailed comments, I have relegated them where possible to synonymy. Similar phenomena are well known to entomologists who adopt the same procedure. Abylids seem to occur abundantly, and so far we have not often depended on isolated specimens for our knowledge of species. The apparent freakishness of the specimens referred to is unlike the type of specific differentiation and variation that we have seen so far. It is, in my view, of a pathological rather than genetic kind.
+
+In all abylids except Bassia, the somatocyst has curved over to  occupy a position on the ventral side of the hydroecium. What appears to be the commencement of development of such an arrangement can be seen in Sphaeronectes gracilis. Sphaeronectes, therefore, may possibly be a proto-Abylid, or perhaps a neotenic form.
+
+The five genera appear to be natural groups, and nowadays are easily distinguishable.
+
+Sub-family i: ABYLINAE L. Agassiz, 1862 s.str.
+
+Cymbonectinae Haeckel, 1888b (partim); L. & v. R., 1908
+Diphyabylinae Lens & v. R., 1908
+Ceratocymbinae Moser, 1925
+Abylinae Totton, 1932; 1954
+
+Abylidae, in the anterior nectophore of which there is as a rule a rectangular apical facet (see text-fig. 147a). I have restricted this sub-family to the genera Abyla and Ceratocymba.
+
+Genus: CERATOCYMBA Chun, 1888
+
+Cymba Quoy & Gaimard, 1827
+Nacella Blainville, 1830
+Diphyabyla Lens & van Riemsdijk, 1908
+Pseudocymba Sears, 1953
+
+Type species: Ceratocymba sagittata (Quoy & Gaimard, 1827).
+
+The chief diagnostic characteristics of this genus, as I stated in 1954, are that the eudoxid is a 'cymba' and the posterior nectophore has left and right dorso-lateral ridges terminating on the lateral teeth. There is a short median-dorsal ridge terminating in the dorsal tooth. The ventro-lateral facet of the anterior nectophore is not divided by a horizontal ridge as it is in Abyla (see text-fig. 147a).
+
+[NOTE: the sub-family number in "Sub-family i: ABYLINAE" is a lower-case roman i, as printed.
+"Haeckel 1888b" in the first synonymy line is printed without a comma after the surname. There
+are no printed square brackets on this page.]

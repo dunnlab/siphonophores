@@ -1,0 +1,126 @@
+<<<PAGE pdf=1 file=page_001.txt>>>
+[PAGE 944]
+[NOTE: three-column page of book reviews in Science. In the PDF the pages are out of physical order: this scanned review page is PDF p1, the second scanned page is PDF p2, and the publisher's cover sheet is PDF p3. The page begins mid-word — the first column opens with "zuela," (the tail of "Venezuela"), continuing a review from the preceding page.]
+[NOTE: a watermark is printed vertically (rotated 90°) down the right-hand side of the third column; it reads "Downloaded from https://www.science.org at Yale University on [?May 08], 2026." — the date is heavily overprinted on this page (it is legible as "May 08, 2026" in the same watermark on p. 945). It overprints the last one or two characters of most lines in the third column, so line-terminal punctuation there is uncertain.]
+
+zuela," an essay in volume 3, discusses the various phytogeographical regions and climatic conditions and gives detailed descriptions of each locality where the actual material described and illustrated in these volumes has been collected.
+
+"Variations within a species," in the fourth volume, has 12 line drawings that present a visual explanation of the taxonomical problems involved in interpreting the diversity of form and structure within populations; these drawings will be most useful to the orchid hobbyist. In the table of contents of this volume there is a cumulative list of all of the new species and new taxonomic combinations proposed in the series.
+
+The illustrations on the book jackets of the four volumes are excellent color photographs that regrettably are not included in the text: Huntleya lucida (vol. 1); Sobralia yauaperyensis (vol. 2); Lueddemannia pescatorei (vol. 3); and the bizarre Coryanthes biflora (vol. 4).
+
+Notwithstanding the fact that the authors were some 2000 miles apart, that the publisher was in England, that the printer was in Holland, and that the whole of the editorial work was done by correspondence, there are remarkably few typographical errors. The four volumes are beautifully printed on excellent paper, and they are very attractively priced at $20 each; volume 1 contains 448 pages; volume 2, 348 pages; volume 3, 348 pages; and volume 4, 344 pages.
+
+This is one of the best compendiums of its kind published in years, and it will be an indispensable reference work for botanical institutions and university and public libraries, as well as for anyone who has an interest in plants and in orchids in particular. The authors plan to include at least two additional volumes in the series.
+
+HERMAN R. SWEET
+Department of Biology,
+Tufts University
+
+[NOTE: new article begins here: Ornithology]
+
+Ornithology
+
+The day is past when books devoted to the birds of a state constituted important advances in our knowledge of North American ornithology, but such volumes still serve a useful function, chiefly at the local level, and it is understandable that there is a public response to them which justifies the work and expense involved in their publication. Birds of Colorado, vols. 1 and 2 (Denver Museum of Natural History, Denver, Colo., 1965. 927 pp., $35), by Alfred M. Bailey and Robert J. Niedrach, are sumptuous large tomes that will certainly rank high among the "state ornithologies." The authors have every qualification required for their task; both have had many years of field and museum acquaintance with Colorado birds; both are ardent observers and photographers; both are intimately familiar with the state and with its avifauna.
+
+With its great diversity of habitats and terrain, from the eastern prairies at less than 3500 feet above sea level to the rugged peaks of the Rocky Mountains, more than 50 of which rise to more than 14,000 feet, Colorado offers a wonderful variety of ecological areas for its bird life, which includes some 439 species, or, with subspecies, 503 kinds in all. For each of these, the authors have given well condensed summary accounts that include recognition characters, range (in general and, in greater detail, in Colorado); arrival and departure dates for migrants; life histories of breeding species; and, in some cases, discursive accounts of personal experiences.
+
+Any lavishly illustrated work, such as this, is a picture book as well as a text. The present work contains 124 plates by 23 artists, some of whom are relatively little known to the bird-book-buying public—John A. Crosby, A. Kreml, D. F. Landau, D. L. Malick, R. A. Parks, O. O. Rice, C. L. Ripper, and W. Trimm, for example. More than 700 individual birds of 420 species are shown on the plates in these volumes, and, as might be expected, owing to the different artistic techniques used, some plates will appeal more than others to individual readers. By and large, bird illustrators are not particularly good landscape painters, and I consider the plates with the least pictorial effects the most pleasing. On some plates that attempt to show detailed backgrounds the birds seem almost like "cut-outs" pasted over the background.
+
+In addition to the annotated discussions of each of the birds, there are short introductory accounts of bird distribution, migration, orientation, and longevity; a longer account of the state of Colorado, its rivers, topography, life zones, and plant associations; and a detailed account of the history of Colorado ornithology from its beginnings in 1776 down to 1930, at which time Bailey and Niedrach began their work.
+
+Although the regular edition sells for $35, 200 autographed sets are offered at $100. The authors and the Denver Museum are to be congratulated on an impressive and authoritative work, one that gives every indication of serving as a reliable reference source for a long time to come.
+
+HERBERT FRIEDMANN
+Los Angeles County Museum,
+Los Angeles, California
+
+[NOTE: new article begins here: Treatise on the Siphonophora]
+
+Treatise on the Siphonophora
+
+Dawydoff once wrote that the siphonophores were the hardest of all animals to preserve, and anyone who has witnessed the disintegration of one of these delicate colonial hydrozoans, either in the process of capture or subsequently in the formalin bath, will be impressed with the truth of this statement. Not only does the colony disintegrate but the separated parts usually undergo severe distortion, and it is the gelatinous nectophores and bracts, taxonomically the most important parts, which suffer most. To create order out of these chaotic relics the specialist must have inexhaustible patience, learning, intuition, and a firsthand knowledge of the living animals he is trying to reconstruct. A. K. Totton is one of the few who possess these qualifications, and he has now provided his crowning contribution to the subject, the first modern synopsis on the order—A Synopsis of the Siphonophora [British Museum (Natural History), London, 1965. [?320] pp., £11]. Totton was assisted by H. E. Bargmann.
+
+[NOTE: the third digit of the page count in the bracketed publication details above ("[?320] pp.") is overprinted by the watermark; it reads as "320", which is also what the publisher's cover sheet (PDF p3) prints.]
+
+Where Paul Kramp's Synopsis of the Medusae of the World (1961) is essentially a catalog based on a card-index system, Totton's synopsis is a book written in clear prose and illustrated with numerous photographs and drawings. It starts with a historical review (16 pp.) consisting of valuable commentaries on the work of T. H. Huxley, Haeckel, Bigelow, and others. Next follow sections that deal with gross morphology, reproduction, and phylogeny (13 pp. in all), followed by a note on parasites, a section on terminology, and then the core of the work, the classification and systematics sections (184 pp.). The chief innovation in the classification is the establishment of the Clausophyidae as a separate
+
+944	SCIENCE, VOL. 152
+
+<<<PAGE pdf=2 file=page_002.txt>>>
+[PAGE 945]
+[NOTE: three-column page of book reviews in Science; the first column continues the review of Totton's Synopsis of the Siphonophora begun on p. 944. Two further, unrelated reviews begin on this page.]
+[NOTE: a watermark is printed vertically (rotated 90°) down the right-hand side of the third column; it reads "Downloaded from https://www.science.org at Yale University on May 08, 2026." It overprints the last one or two characters of many lines in the third column, so line-terminal punctuation there is uncertain.]
+
+family. The Chondrophora (Velella, Porpita, and Porpema) are not included, as they are not considered to be siphonophores. Totton's genus Lensia (1932) has flourished, and 22 species are listed under it. (Two more have since appeared.)
+
+According to Totton the polyp was originally a "juvenile" form, growing into an "adult" medusa. Although I do not object to this view, I feel that it is misleading to call present-day polypoids "juveniles." Other criticisms can be made. It is regrettable that a section on distribution was not included. Totton is no histologist, as Fig. 43 shows, and one may wonder if histological criteria, such as the forms and dimensions of nematocysts, have not been unjustly neglected. The treatment of Pterophysa on pages 14 and 43 seems to be contradictory. Complete synonymies are not given, and this increases the user's dependence on certain earlier works. Finally, I would have preferred fewer illustrations of crumpled, preserved nectophores and more comparative drawings (diagrams if necessary) showing key species differences as they appear in the living animals.
+
+But these are small criticisms seen in relation to the magnitude of the achievement which this book represents.
+
+G. O. MACKIE
+Department of Zoology,
+University of Alberta,
+Edmonton, Canada
+
+[NOTE: new article begins here: Neuropsychology]
+
+Neuropsychology
+
+W. T. Liberson has performed a service to neuropsychology in translating and editing J. S. Beritoff's Neural Mechanisms of Higher Vertebrate Behavior (Little, Brown, Boston, 1965. xvi + 384 pp., $15). Although I cannot judge the accuracy of the translation, the text is idiomatic and, despite the intricacy of some of the arguments, generally clear.
+
+The values of the book are two. First, it provides a summary of four decades of Russian neuropsychology which is not readily available to most English-speaking persons. Second, Beritoff's theoretical synthesis of data from conditioned reflex experiments, neurophysiology, and neuroanatomy merits serious consideration even though his terminology may grate on some American ears. We are not used, for example, to the idea of "image-driven behavior" which depends not only upon internal and external stimuli but also upon "an emergence of concrete images of vitally important objectives which originated this behavior."
+
+Beritoff retains the Pavlovian concepts of cortical inhibition and facilitation, but he differs with his predecessor on a number of points, particularly in his localization of "external inhibition" in subcortical centers and of "internal inhibition" in the cerebral cortex. Stellate cells of the third and fourth cortical layers are stated to be particularly important in coordinating complex patterns of behavior through feedback of axonic collaterals on cell bodies and dendrites.
+
+Beritoff discusses the formation of temporary neural connections, primarily in terms of Kapper's principle of neurobiotaxis. He seems to believe that memories are encoded by a pattern of functional connections between neurons at synapses. The currently popular ideas of a molecular coding mechanism for memory is not mentioned in the book.
+
+Beritoff's approach to the study of behavior is completely alien to the black-box orientation, and one can argue that his neurological theorizing is premature. For example, his ideas on image formation should certainly be modified by the work of Hubel and Wiesel on response of single neurons to specific aspects of visual stimuli. His schematic diagrams of cerebral organization are ingenious, but the evidence for their validity is highly indirect.
+
+But, though it is unlikely that Beritoff's theory will survive as a detailed blueprint, his book will interest many who are trying to understand the mechanisms of information-processing in the mammalian brain.
+
+JOHN L. FULLER
+Jackson Laboratory,
+Bar Harbor, Maine
+
+[NOTE: new article begins here: The New Plant Morphology]
+
+The New Plant Morphology
+
+In recent years, so-called "classical plant morphology" has been widely criticized for its overly strict adherence to concepts of homology derived largely from the study of living angiosperms and for its reluctance to consider the organography and relationships of vascular plants as a whole. The most recent and certainly the most comprehensive critique of generally accepted morphological ideas is the highly original and spirited book Fundamentals of Phytomorphology (Ronald, New York, 1966. 243 pp., $10) by A. D. J. Meeuse of the University of Amsterdam. Although the author obviously hopes that his treatise will aid University students to become acquainted with the ideas of the "New Morphology," the book is certainly not written for the beginner but demands for its understanding a comprehensive background in comparative morphology, anatomy, taxonomy, and paleobotany. Even then, sophisticated readers will find Professor Meeuse's style rather turgid and very often excessively prolix and argumentative. These difficulties are increased by the fact that each of the 20 chapters in the book is a more or less "independent" essay which results in considerable and needless repetition of subject matter and arguments.
+
+The first nine chapters deal with a series of rather broad topics such as a contrast between the "Old" and "New" morphology, phytomorphological "schools" and traditions, the concept of homology, and the problem of distinguishing between "lines and levels" in phylogenetic discussions. The remainder of the volume is largely concerned with a critical comparison between the classical and the "New" interpretations of ovules, carpels, and stamens. The final chapter includes a useful summary of the author's view of the phylogenetic relations between cycadopsid gymnosperms and angiosperms. The latter are considered to have arisen polyphyletically "by way of a number of parallel evolutionary lines which were most probably already separated in early Mesozoic epochs and, in the initial phases of their independent evolution, still at the 'gymnospermous' (i.e. chlamydospermous-Bennettitalean) level of organization." The volume concludes with a useful bibliography and with well-prepared author, subject, and plant-name indexes.
+
+Although the strict limitations of this brief review preclude any detailed analysis of Meeuse's rather iconoclastic views on morphology, it should be emphasized that his rejection of the widely held interpretation of stamens and carpels as "sporophylls" is perhaps the dominant theme throughout his book. In his own words "the villain of the piece is the 'sporophyll' concept" and the "wild goose chase for angiosperm ancestors with the postulated sporophylls" has impeded progress in all aspects of phylogenetic morphology.
+
+Meeuse wryly complains that the originators of novel concepts for the "New Morphology" have been treated
+
+13 MAY 1966	945
+
+<<<PAGE pdf=3 file=page_003.txt>>>
+[PAGE 3: unnumbered]
+[NOTE: born-digital publisher cover sheet, placed last in the PDF although it belongs before the two scanned review pages. Mostly white space; a red "Science / AAAS" logo block at the head, and a watermark printed vertically (rotated 90°, reading bottom-to-top) down the right margin.]
+
+[FIGURE]
+Science
+AAAS
+[/FIGURE]
+
+Treatise on the Siphonophora: Synopsis of the Siphonophora. A. K. Totton, assisted by H. E. Bargmann. British Museum (Natural History), London, 1965. 320 pp., £11.
+
+G. O. Mackie
+
+Science 152 (3724), .  DOI: 10.1126/science.152.3724.944.b
+
+View the article online
+https://www.science.org/doi/10.1126/science.152.3724.944.b
+Permissions
+https://www.science.org/help/reprints-and-permissions
+
+[MARGIN] Downloaded from https://www.science.org at Yale University on May 08, 2026
+
+Use of this article is subject to the Terms of service
+
+Science (ISSN 1095-9203) is published by the American Association for the Advancement of Science. 1200 New York Avenue NW, Washington, DC 20005. The title Science is a registered trademark of AAAS.
+
+1966 by the American Association for the Advancement of Science

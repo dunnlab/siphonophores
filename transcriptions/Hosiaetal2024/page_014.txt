@@ -1,0 +1,38 @@
+[PAGE 14]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+Etymology: specific name septata (f.) is latin for having a septum or being septate, with reference to the conspicuous longitudinal septa in the pneumatphore of fixed specimens of the species.
+
+Authorship: Recommended citation “Mapstone, Mańko, Martell, Haddock & Hosia in Hosia et al., 2024”.
+
+Material examined is specified in Supplementary Table S1.
+
+Yale Peabody Museum specimen with catalogue number YPM IZ 111054 is designated as holotype and YPM IZ 35043 as paratype (see Supplementary Table S1).
+
+Diagnosis. Pneumatophore with < 14 conspicuous longitudinal septa; nectosome with orange pigment (in live material). Nectophores flattened along proximal-distal axis when mature, parallel to stem axis, with prominent pigmentation of ostial region in living colonies; axial wings bent over on proximal side, partly enclosing stem; no auriculate ridge connecting upper-lateral ridge with lateral ridge; thrust block small and insignificant in all nectophores. Palpons with elongate palpacle, lipid droplet inconspicuous if present.
+
+Barcode Index Number (BIN) in BOLD: ACL8638.
+
+Description
+
+Pneumatophore: Pneumatophore up to 5 mm long, apex with red pigment, outer wall typically with 12-13 conspicuous longitudinal septa from apex to base (Figure 10); gas gland pinkish in Vancouver Island pneumatophores.
+
+Nectosome: With prominent orange pigmentation in living animal (Figure 10), and nectophores budding off dorsally; 11 fully developed nectophores were found with the holotype (Figure 10, a single nectophore detached prior to taking picture).
+
+Nectophores: Young and mature nectophores of holotype in good condition. In distal view young nectophores 2.25 x 2.25 mm, mature nectophores 5.0 mm x 4.5 mm (max height x width); young nectophores with axial wings tall in distal view and separated by deep cleft (Figure 10); mature nectophores with axial wings shorter in distal view, separated by a shallower cleft (Figure 11); axial wings folded inwards on proximal side of nectophore, touching in Peabody Pacific specimen or not touching in other material (not illustrated). Outer surface smooth in all Peabody Pacific nectophores, with ridges easily discerned, but courses best illustrated in composite drawings from several mature nectophores (Figure 11). Incomplete upper-lateral ridges originating at axial wing tip, passing upwards and outwards to
+
+[FIGURE]
+A
+B
+C
+FIGURE 10
+Nanomia septata sp. n. (A) nectosome (live holotype), (B) pneumatophore (holotype after fixation), scale bar 500 μm and (C) young nectophore (paratype), distal view, scale bar 1 mm.
+[/FIGURE]
+
+Frontiers in Marine Science	14	frontiersin.org
+
+[NOTE: Two text columns at the head of the page (left column transcribed in full, then the right), then Figure 10 in a boxed panel filling the lower half. The right column ends mid-sentence at "passing upwards and outwards to".
+
+Inside the [FIGURE] block only text physically printed in the panel is given; the photographs are not described. Figure 10 is three photographs: A is a tall panel down the left side, with B above C to its right, each letter printed in white at the panel's top left corner. No panel carries any leader label; B and C each carry a plain white scale bar with no printed value (the caption supplies the values). Presentation ligatures (fi, fl) are transcribed as the ordinary two-letter sequences.
+
+"pneumatphore" in the Etymology paragraph is printed thus, without the "o"; "latin" is printed lower case. "Mańko" carries a printed acute accent on the n (precomposed Latin small letter n with acute). The quotation marks around the recommended citation are printed as curly double quotation marks. "μm" in the figure caption is the printed micro sign. Running head and running foot elements are separated by tabs.]

@@ -1,0 +1,56 @@
+[PAGE 99]
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 9 FORSKALIIDAE	99
+
+[FIGURE]
+r
+x
+A
+n
+n
+
+r
+r
+r
+B
+n
+n
+
+1mm
+
+C
+r
+r
+n
+x
+
+D
+f
+n
+x
+
+FIG. 52.   Forskalia edwardsi Kölliker
+A young nectophore of a Villefranche specimen. A, B, ostial and side views; C, D, upper and under side of the same
+f = fold; n = patch of nematocysts; r = system of ridges; x = lemon-yellow spot.
+[/FIGURE]
+
+penultimate and therefore more proximal palpon. It is almost incredible that the very elongate process that carries the two bunches of female gonophores is nothing but a protuberance from the peduncle of a proximal palpon, but that is the conclusion at which I have arrived: a conclusion that enables me to see a common pattern of budding of palpons and gonophores in those physonects in which these individuals have been studied.
+
+There is always a tendency for palpons to bud repetitively and successively from the bases of their predecessors. In Forskalia edwardsi there is, as far as I have been able to discover, a single primary palpon (text-fig. 54). From its base when fully grown, buds a succession of smaller ones to form the gonodendron-complex. In F. leuckarti I have not been able to check the arrangement, but Leuckart (1854) described what appears to be an arrangement of up to four such groups. He used the terms 'Zwilling– und Drillingstaster' for such successions of palpons.
+
+Kawamura (1954) published a paper in a journal which appears not to be taken in England, which contains a description and figures of an alleged new species F. misakiensis. The description and figures especially those of the bracts are not very detailed. I list it as a species inquirenda.
+
+[NOTE: printed folio 99 at the outer (right) edge of the running head; PDF index 104, offset −5 holds. Single column. No footnotes, no table, no signature mark. The page opens mid-sentence with "penultimate and therefore more proximal palpon", continuing from the previous page.
+
+No printed square brackets occur on this page; every bracket here is round.
+
+Layout: text-fig. 52 fills the upper three-fifths of the page, four line drawings in two rows (A top left, B top right, C lower left, D lower right) set full measure, with a vertical scale bar standing in the left margin between the two rows. The caption is centred below the drawings, in type smaller than the body. Body text occupies only the lower quarter of the page, three paragraphs, with about a tenth of the page blank at the foot. Because the figure stands above the text rather than beside it, the [FIGURE] block is placed first, before the body text, in printed reading order.
+
+The items inside [FIGURE] before the caption are exactly the hand-lettered labels printed within the drawings and nothing else — the illustration itself is deliberately not described. They are grouped by panel, in panel order, and within each panel in reading order (top to bottom, left to right): panel A — "r" (leader to the upper left), "x" (leader from the top), the panel letter "A", then "n" at the right and "n" below; panel B — three "r" labels along the top, the panel letter "B", then "n" and "n" at the right; the scale bar — "1mm", printed rotated 90° so that it reads down the bar, with no space between figure and unit; panel C — the panel letter "C", two "r" labels at the right, "n" at the lower left, "x" at the foot; panel D — the panel letter "D", "f" at the right, "n" at the lower left, "x" at the foot. Panel letters are upright sans-serif capitals; the leader labels are upright sans-serif lower case, and each is joined to the structure by a fine ruled line. All were checked at 2.5x–3.5x. Total lettering: 4 panel letters, 6 "r", 7 "n", 3 "x", 1 "f", 1 "1mm".
+
+Caption detail: "FIG." is small capitals followed by the old-style numeral 52 and a full point, then a wide gap, then italic "Forskalia edwardsi" and roman "Kölliker". The second caption line ends "upper and under side of the same" with no full point printed after "same" — verified at 3x — and the third line is the letter key, in which the italic letters f, n, r, x are each followed by a spaced equals sign and separated by semicolons. In the key the letters are italic, whereas the panel references "A, B" and "C, D" in the line above are roman capitals.
+
+Type in the body: italic "Forskalia edwardsi", "F. leuckarti", "F. misakiensis", and "species inquirenda". "text-fig. 54" is lower-case roman, hyphenated, as elsewhere in this document. The German phrase is enclosed in single curly quotes and is set roman: 'Zwilling– und Drillingstaster', with an en-dash closed up to "Zwilling" and a space before "und", exactly as printed. Author surnames (Leuckart, Kawamura) are ordinary upper-and-lower case roman.
+
+Numerals verified digit by digit: 99; FIG. 52; text-fig. 54; 1854; 1954. Note that the figure on this page is number 52 while the text refers forward to text-fig. 54.
+
+Stray marks, all scanning blemishes: a speck above the running head near the centre, specks in the left and right margins level with the top row of drawings, a small double fleck at the left of the caption's first line, a curved fleck and a comma-like fleck in the right margin level with the lower drawings, a speck in the right margin level with "individuals have been studied", and scattered specks in the blank band at the foot. None is printed matter.]

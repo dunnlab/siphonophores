@@ -1,0 +1,60 @@
+[PAGE 113]
+
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 10 PRAYIDAE	113
+
+[FIGURE]
+A
+C.pa2
+C.pa1
+Gz
+Ns.obs
+C.rad.lat
+C.rad.d.
+Gz
+C.rad.lat
+C.rad.v
+1.m.m.
+
+B
+N.larv
+C.pa1
+N.vest.
+C.pa.2
+C.rad.d.
+Ns.obs
+Gz
+0
+1.m.m.
+
+FIG. 63. Amphicaryon ernesti Totton
+Polygastric phase. Two views of the holotype specimen from 'Discovery' St. 2648, × 16
+C.pa1, C.pa2 = pallial canals; C.rad.d, C.rad.lat, C.rad.v = dorsal, lateral and ventral canals; Gz = gastrozooid; Ns.obs = obsolescent nectosac; N.larv = larval nectophore; N.vest = vestigial nectophore (from Totton, 1954, fig. 44).
+[/FIGURE]
+
+Amphicaryon ernesti Totton, 1954
+
+Polygastric phase
+
+The vestigial nectophore is not embraced by the larger one (text-fig. 63) whose lateral radial canals are branched in the proximal region. The former entrance to the vestigial nectosac lies at some distance from the surface, but is connected by a fine strand of tissue. Its ventral radial canal becomes a network covering the ventral wall of the nectosac, and its lateral radial canals have disappeared, leaving only the dorsal radial canal.
+
+The known distribution was given by me in 1954.
+
+Eudoxid phase—unknown.
+
+Genus: MARESEARSIA Totton, 1954
+
+Monotypic genus for M. praeclara Totton, 1954.
+
+A new genus was erected for the large amphicaryonine described below because it seemed to differ more from all three known species of Amphicaryon than they did from one another. The genus was named after Dr. Mary Sears who has, with Dr. Bigelow, done so much work on siphonophores. The name Searsia was preoccupied and Dr. Sears graciously agreed to the present name. This dedication was unfortunately omitted in 1954.
+
+Maresearsia praeclara Totton, 1954
+
+Plate XXI, figures 2–5
+
+Polygastric phase
+
+The smaller nectophore is still functional, though its nectosac is smaller than that of the larger nectophore (text-fig. 64). There is some branching of the radial canals of both nectophores. The
+
+[NOTE: the labels inside [FIGURE] are hand-lettered on the two drawings (A left, B right) and are listed in reading order for each drawing; the "1" and "2" in the C.pa labels are printed as superscripts, both on the drawings and in the caption. The bar scales carry "1.m.m." (drawing B also has a "0" at the left end of its bar). No other text is printed on the illustrations.]
+
+[NOTE: a stray vertical ink stroke, apparently a pen mark on the original, crosses the caption between the "e" and the "rnesti" of "ernesti" and continues down into "specimen" on the following line. The printed reading is "ernesti".]

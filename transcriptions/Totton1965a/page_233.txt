@@ -1,0 +1,130 @@
+[PAGE 229]
+
+INDEX OF GENERA AND SPECIES
+
+Abyla, 208
+	bicarinata, 211
+	carina, 210
+	haeckeli, 210
+	ingeborgae, 211
+	peruana, 215
+	schmidti, 212
+	tottoni, 214
+	trigona, 208
+Abylopsis, 216
+	eschscholtzi, 218
+	tetragona, 216
+Agalma, 52
+	clausi, 53
+	elegans, 54
+	haeckeli, 53
+	okeni, 53
+Amphicaryon, 111
+	acaule, 112
+	ernesti, 113
+	peltifera, 112
+Angelopsis, 95
+	dilata, 95
+	globosa, 95
+Apolemia, 45
+	uvaria, 45
+Archangelopsis, 96
+	typica, 96
+Athorybia, 86
+	rosacea, 87
+
+Bargmannia, 82
+	elongata, 82
+Bassia, 219
+	bassensis, 219
+Bathyphysa, 42
+	conifera, 43
+	japonica, 44
+	sibogae, 43
+
+Ceratocymba, 204
+	dentata, 207
+	intermedia, 206
+	leuckarti, 205
+	sagittata, 206
+Chelophyes, 185
+	appendiculata, 185
+	contorta, 187
+Chuniphyes, 194
+	moserae, 196
+	multidentata, 194
+Clausophyes, 192
+	galeata, 194
+	ovata, 193
+
+Cordagalma, 61
+	cordiformis, 61
+Crystallophyes, 197
+	amygdalina, 197
+Cystonectae: spp. inquirendae, 43
+
+Desmophyes, 127
+	annectens, 128
+Dimophyes, 184
+	arctica, 184
+Diphyes, 152
+	antarctica, 157
+	bojani, 155
+	chamissonis, 156
+	dispar, 153
+Dromalia, 96
+	alexandri, 96
+
+Enneagonum, 220
+	hyalinum, 221
+Epibulia, 44
+	chamissonis, 44
+	ritteriana, 44
+Erena, 73
+	richardi, 74
+Eudoxia macra, 191
+Eudoxoides, 188
+	mitra, 188
+	spiralis, 189
+
+Forskalia, 97
+	cuneata, 109
+	edwardsi, 100
+	formosa, 108
+	leuckarti, 102
+	misakinensis, 109
+	tholoides, 108
+
+Halistemma, 56
+	amphytridis, 60
+	cupulifera, 58
+	rubrum, 56
+	striata, 59
+Heteropyramis, 199
+	maculata, 199
+Hippopodius, 139
+	hippopus, 139
+
+Lensia, 158
+	achilles, 171
+	ajax, 179
+
+229
+
+[NOTE: FOLIO OFFSET DISCONTINUITY. This page prints the folio 229 (centred at the foot, below the type), whereas the preceding PDF page 232 printed 227. The offset therefore changes here from printed = PDF - 5 (which held for PDF pages 6-232) to printed = PDF - 4, because printed p228 — the blank verso following the end of the REFERENCES — is absent from the scan. This is the first page of the index and the first page at the new offset.]
+
+[NOTE: the folio 229 sits centred at the foot of the page, not at the head; there is no running head and no printer's signature mark on this page.]
+
+[NOTE: this is a two-column page. The full left column (Abyla . . . Clausophyes ovata) is transcribed first, then the full right column (Cordagalma . . . Lensia ajax), in accordance with the protocol; they are not interleaved. The two columns are alphabetically continuous: the right column resumes at Cordagalma where the left column left off at Clausophyes.]
+
+[NOTE: all genus and species names in the index are printed in italic; the sub-entries (species epithets) are indented one em under their genus and are transcribed here with a single leading tab. Page-reference numbers are in roman. The one exception to the all-italic setting is "Cystonectae: spp. inquirendae, 43", where "Cystonectae" is roman and only "spp. inquirendae" is italic; printed that way.]
+
+[NOTE: alphabetical groups are separated by blank lines in the printed index (a break before B, before C, before D, before E, before F, before H and before L); the blank lines are preserved above. There is no bold letter heading of any kind — the blank line is the only division.]
+
+[NOTE: no printed square brackets occur on this page, and no editorial query mark of any kind (neither the bare "?" convention of pp. 202-226 nor a bracketed one) appears here.]
+
+[NOTE: a heavy black vertical ink stroke, apparently a pen mark by a reader, crosses the line "eschscholtzi, 218" immediately after the final "i" and before the comma. The printed word is "eschscholtzi" (so spelled in the source, not "eschscholtzii"); the stroke obscures no letter.]
+
+[NOTE: a small dark hair-like scan artefact lies against the initial "E" of "Erena, 73" and just below it; the word is legible.]
+
+[NOTE: printed as here, with the genus-gender mismatches of the source not corrected: "Amphicaryon . . . peltifera", "Angelopsis . . . dilata", "Halistemma . . . rubrum" / "cupulifera" / "striata", "Forskalia . . . cuneata". "Abyla carina" (not carinata) and "Abyla bicarinata" are separate entries as printed.]

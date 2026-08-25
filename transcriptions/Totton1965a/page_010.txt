@@ -1,0 +1,25 @@
+[PAGE 5]
+[RUNNING HEAD] HISTORICAL REVIEW OF THE CHIEF WORKS ON THE ORDER	5
+
+published his large monograph of the gymnoblastic hydroids, in which he made much use of Huxley's terminology. Thus these two pioneers were working on Hydrozoa at about the same time and benefiting from one another's work. Allman's (1871) monograph is, of course, of equal value in studying the early history of any cnidarian, including that of the Siphonophora.
+
+Huxley's fourth section dealt briefly with interesting historical facts: Cuvier's generic name Diphyes, and how he thought the two nectophores were two temporarily united animals, possibly in copulation; the setting-up by Eschscholtz (1829) of the group name Siphonophorae and three family names, Diphyidae, Physophoriadae and Velellidae; and the proposal by Leuckart to substitute the name Calycophoridae for Diphyidae (invalid since there is no generic name Calycophora). Huxley realized, as did Sars, Vogt, and Leuckart, that special generic and specific names for eudoxid phases (which he called diphyozooids) were provisional, and would be suppressed in the course of further investigation. Then followed a summary of the classification and descriptions of the eighteen species of calycophoran siphonophores.
+
+The fifth section dealt with the history of physonect and cystonect literature. As Huxley pointed out the systematic arrangement of these groups is beset with difficulties, which are partly due to the nature of the animals themselves, but still more to the confusion introduced by the mistakes of systematists. He mentioned the three distinct Mediterranean species dealt with by Forskål (1775) and four by Péron and Lesueur (1807), including Stephanomia uvaria Lesueur (?) 1811. He then recalled how Eschscholtz (1829) separated the last species and made a new genus, Apolemia, for it; united Physophora rosacea Forskål and Rhizophysa heliantha Q. & G. as Athorybia rosacea; changed the generic name of Forskål's Rhizophysa filiformis to Epibulia (thinking it must have had nectophores) and separated it from Péron's Rhizophysa planestoma, with which it is probably identical; and restricted the genus Physophora.
+
+Huxley then recalled how Lamarck (1835-45) reunited Péron's R. planestoma and Forskål's P. filiformis as Rhizophysa filiformis, but in error included Forskål's P. rosacea (= Athorybia); set up the new physophorid genus Agalma; and wrongly included Quoy & Gaimard's Hippopodius, Discolabe (= Physophora) and Physalia in the family Physophoridae. Huxley eulogized Eschscholtz and said that his work was far ahead of Quoy & Gaimard, Lesson and de Blainville, the first two of whom he said introduced the most lamentable confusion.
+
+Huxley next mentioned that the work of Milne Edwards (1841) and Sars (1846) inaugurated a new epoch in the study of siphonophores. Huxley succeeded in disentangling the 'Agalmopsis' confusion of Sars and saw that Sars was dealing with two separate forms. This led him to restrict the name Agalma to forms whose tricornuate tentilla had a median sac and two lateral filaments, and to establish the new generic name of Halistemma for forms with unicornuate tentilla.
+
+He then gave a systematic arrangement of the 'Physophoridae', i.e. Physonectae, Cystonectae and Disconantha, which appeared to him to be in accordance 'with our present knowledge'. The siphonophores were placed in six families, 'Apolemiadae, Stephanomiadae, Physophoriadae, Athorybiadae, Rhizophysiadae and Physaliadae'. Of the sixteen species listed under these families he then dealt systematically with eight physonects and two cystonects, as well as with the disconanths, Velella and Porpita. Subsequent changes in nomenclature result in the following list of siphonophores discussed and figured by Huxley:
+
+[TABLE]
+TABLE I
+Modern names	Huxley's names
+A. Calycophorae
+Diphyes dispar (Cham. & Eysen.)	D. dispar, Eudoxia lessonii (Esch.)
+D. bojani (Esch.)	Eudoxia bojani (Esch.)
+D. chamissonis (Huxley)	D. chamissonis sp.n.
+[/TABLE]
+
+[NOTE: in the last table row the two parenthesis glyphs around 'Huxley' are heavily over-inked blots, apparently a hand emendation; their exact printed form is uncertain.]

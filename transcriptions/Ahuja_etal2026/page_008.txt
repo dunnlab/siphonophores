@@ -1,0 +1,167 @@
+[PAGE 8]
+
+PLOS One
+
+[FIGURE]
+A
+
+Siphonophorae
+Hydrozoa
+Medusozoa
+Anthozoa
+
+Nanomia septata
+Physalia physalis
+Hydractinia symbiolongicarpus
+Hydra vulgaris
+Rhopilema esculentum
+Nematostella vectensis
+
+1	2	3	4	5	6	7	8
+
+3	5	8	10	1	2	6	4	9	7
+
+1	2	6	15	10	5	8	7	13	9	4	12	11	3	14
+
+9	14	12	15	6	3	2	11	10	5	8	7	1	4	13
+
+5	9	10	19	3	20	15	14	6	18	11	12	1	2	21	13	16	4	7	8	17
+
+5	1	11	8	14	6	10	15	12	4	7	3	2	13	9
+
+C1	L	Ea	J1	M	K	I	O1	F	Eb	O2	H	G	J2	A1a	C2	P	A1b	B1	D	A2
+		Qa			Qb	Qd		Qc	R	B2	B3		N
+
+B
+
+0	833	1508	2094	2617	3135	3611	4052	4483	4876	5213	5539	5863	6149	6416	6597
+
+P. physalis
+
+Chr8
+Chr5
+Chr10
+Chr4
+Chr9
+Chr6
+Chr1
+Chr2
+Chr3
+Chr7
+
+6597
+6207
+5630
+5195
+4659
+4075
+2840
+1707
+661
+296
+0
+
+Chr8	Chr5	Chr9	Chr10	Chr12	Chr4	Chr11	Chr3	Chr13	Chr1	Chr6	Chr7	Chr2	Chr14	Chr15
+
+H. symbiolongicarpus
+
+C
+
+0	811	1471	2048	2563	3052	3524	3990	4411	4798	5169	5524	5840	6120	6376	6550
+
+N. septata
+
+Chr6
+Chr5
+Chr2
+Chr7
+Chr4
+Chr1
+Chr3
+Chr8
+
+6550
+5861
+4968
+4075
+3311
+2509
+1484
+671
+0
+
+Chr8	Chr5	Chr9	Chr10	Chr4	Chr11	Chr12	Chr3	Chr13	Chr1	Chr6	Chr2	Chr14	Chr15
+
+H. symbiolongicarpus
+
+D
+
+0	954	1773	2202	2454	3323	3782	4230	4551	4863	5078
+
+N. septata
+
+Chr8
+Chr7
+Chr3
+Chr2
+Chr4
+Chr6
+Chr5
+Chr1
+
+5078
+4553
+3966
+3333
+2639
+2009
+1501
+800
+0
+
+Chr6	Chr2	Chr4	Chr3	Chr1	Chr5	Chr9	Chr10	Chr8	Chr7
+
+P. physalis
+
+E
+
+Hydrozoa	Siphonophorae
+
+Nanomia septata
+n=8, ~1.7Gb
+
+Physalia  physalis
+n=10, ~3.3Gb
+
+Hydractinia symbiolongicarpus
+n=15, ~0.48Gb
+
+Hydra vulgaris
+n=15, ~0.8Gb
+
+consolidation	additional rearrangements
+
+p-value cutoffs
+p > 0.05
+p <= 0.05
+
+Fig 3. Syntenic transitions towards Nanomia septata karyotype. A. Ribbon plot of Nanomia septata and other cnidarians with chromosomes below. Chromosome labels with their accession numbers can be found in S7 Table. B-D. Oxford dot plots (ODP) of pairwise hydrozoan comparisons. B. ODP of
+[/FIGURE]
+
+PLOS One | https://doi.org/10.1371/journal.pone.0351247	July 2, 2026	8 / 25
+
+[NOTE: A whole-page figure (Fig 3, panels A-E, plus a boxed p-value key) with the first two lines of its caption at the foot; the caption continues on page 9. There is no body text on this page.
+
+Inside [FIGURE] only text physically printed on the page is transcribed: panel letters, the clade-box and taxon labels of the two cladograms, every chromosome numeral printed on the six ribbon rows of panel A, the coloured letter/number boxes printed beneath panel A, the axis titles, axis tick numbers and chromosome names of the three dot plots, the panel E annotations and its two key entries, and the boxed p-value key. No description of the illustrations is given; the ribbons, the dot-plot points, the small black animal silhouettes beside several axis titles, and the coloured yellow and red tick marks on the panel E tree carry no printed text of their own.
+
+Panel A, reading order as transcribed: the panel letter; then the four clade-box labels in the order printed (Siphonophorae at the top right of the pink box, Hydrozoa in the blue box, Medusozoa in the salmon box, Anthozoa in the tan box at the foot); then the six taxon names top to bottom; then the six ribbon rows top to bottom, each row's chromosome numerals given left to right separated by tabs. The rows correspond, top to bottom, to the six taxa in the same order (8, 10, 15, 15, 21 and 15 numerals respectively). Rows are separated by blank lines.
+
+The coloured label boxes printed below panel A are laid out as a row of blocks, several of which are two deep. They are transcribed as two tab-separated lines, upper row then lower row, with tabs holding the columns; the blocks in printed left-to-right order are: C1 | L, Ea | J1 over Qa | M | K | I, O1 | F, Eb over Qb | O2 over Qd | H | G, J2 | A1a | C2, P over Qc, R | A1b, B1 over B2, B3 | D | A2 over N.
+
+For each of panels B, C and D the printed matter is given in this order: panel letter; the top x-axis tick numbers left to right (tab separated); the rotated y-axis title; the y-axis chromosome labels top to bottom; the right-hand y-axis tick numbers top to bottom; the bottom x-axis chromosome labels left to right (tab separated); the x-axis title. Panel B's bottom axis carries 15 chromosome labels and panel C's carries 14, as printed - the two dot plots share the same x-axis species but not the same printed label set.
+
+In panel E "Physalia  physalis" is printed with a conspicuously wide gap between the two words (about two spaces); transcribed with two spaces as printed. The genome sizes are printed "n=8, ~1.7Gb", "n=10, ~3.3Gb", "n=15, ~0.48Gb", "n=15, ~0.8Gb", with no spaces around the equals signs and none after the tildes - unlike the body text on page 7, which prints "n = 10" with thin spaces. The p-value key is set in a monospaced face with wide letterspacing, "p > 0.05" and "p <= 0.05" (a two-character "<=", not a "≤"); rendered here with single spaces.
+
+PAGE FURNITURE: the PLOS One masthead and pictorial device at the head, and the running foot "PLOS One | https://doi.org/10.1371/journal.pone.0351247   July 2, 2026" with the page-number line "8 / 25" at the right; the foot's three elements are separated by tabs above. Printed, and so transcribed. There is no Crossmark stamp on this page.
+
+The figure DOI line for Fig 3 is not on this page; it falls after the rest of the caption on page 9. "Fig 3." and "Syntenic transitions towards Nanomia septata karyotype." are printed bold, and taxon names italic; bold and italics are not marked. "S7 Table" is a blue hyperlink; colour is not marked. "B-D." in the caption is printed with a plain hyphen. Diacritics: none on this page. All the small rotated axis labels and the ribbon-row numerals were checked at 4.5-9x magnification; no reading was left uncertain.]

@@ -1,0 +1,26 @@
+[PAGE 2: unnumbered]
+[NOTE: born-digital English translation of the Spanish note on PDF p1. Single column, no running head, no page number, no illustration; the English caption of Fig. 1 stands orphaned at the foot of the page, the figure itself being on p1. Lower third of the page is blank.]
+
+First Record of Lensia canopusi Stepanjants (Cnidaria: Siphonophora) in the Atlantic Ocean
+
+Rebeca Gasca and Eduardo Suárez
+
+`Lensia Totton is one of the most diverse genres of siphonophores; More than 40 species have been described spanning tropical latitudes, warm and cold (Stepanjants, 1977; Mackie et al., 1987). Margulis and Alekseev (1985) recognize 32 species in the genus, including eight subspecies and one variety. According to Pugh (1974), the genus is common in the epipelagic strata (0-200 m), although it has meso- and bathypelagic representatives (400-2000 m).
+
+According to Suárez and Gasca (1991), in the area of the Gulf of Mexico and the Western Caribbean the following 12 species of Lensia have been recorded: L. conoidea Kefferstein & Ehlers, L. multicristata Moser, L. campanella Moser, L. cossack Totton, L. challengeri Totton, L. hotspur Totton, L. subtilis Chun, L. meteori (Leloup), L. achilles Totton, L. lelouveteau Totton, L. reticulata Totton and L. fowleri Bigelow.
+
+In samples collected in waters of the Gulf of Mexico, the presence of L. canopusi Stepanjants was determined. This species has only been collected in equatorial waters of the Western Pacific (Stepanjants, 1977).
+
+The zooplankton samples analyzed here were collected during the CIRCAM I cruise, carried out in January 1991 in the southern waters of the Gulf of Mexico, by the Secretary of the Navy of Mexico, in the B/O "Justo Sierra." Oblique trawls of 0-50 m were carried out in 37 sampling locations, using a standard net with a square mouth with 0.45 m per side and a filter layer of 0.5 mm. At station 27 (20°24.7N; 95°16.3'W), a superior nectophore of L. canopusi was found. The temperature in this locality was 23.4 ° C, and the salinity of 36.32‰; the sampling was nocturnal (11:15 pm).
+
+The referred species is easily distinguishable by the absence of somatocyst (part of the gastric cavity that stores nutritive substances) in the superior nectophore (asexual swimming medusoid), as described by Stepanjants (1977) (Fig. 1). Otherwise, the general structure is similar to other Lensia species, such as L. hotspur Totton or L. cossack Totton, although in both the somatocyst is conspicuous (Margulis & Alkseev, 1985). In our specimen of the superior nectophore of L. canopusi, the radial channels are not clearly observed; they also don't stand out in the original description. In other species, such as L. achilles Totton and L. challengeri Totton, the radial canals are also inconspicuous.
+
+The finding of L. canopusi in the waters of the Gulf of Mexico brings the number of species of the genus to 13 in this region of the Northwest Tropical Atlantic. It is probable that the distribution of this species is, as in most tropical and subtropical siphonophores, circum-global (Alvariño, 1981)
+
+The species was originally collected in the bathymetric stratum 0-100 m; our results coincide with this record, since the nectophore was collected above 50 m. This suggests that L. canopusi is possibly epipelagic in habit.
+
+[FIGURE]
+FIG. 1. Lensia canopusi. Upper nectophore, specimen from the Gulf of Mexico, side view. n: nectosac. t: portion of the stem or axis. or: ostio.
+[/FIGURE]
+
+[NOTE: the first body line begins with a stray backtick, "`Lensia". The station coordinates are printed here as "(20°24.7N; 95°16.3'W)" — no minute mark after 24.7, and 16.3 where the Spanish page prints 10.3. The temperature is set with spaces, "23.4 ° C". The caption's last label is printed "or: ostio." (the Spanish caption has "o: ostio").]

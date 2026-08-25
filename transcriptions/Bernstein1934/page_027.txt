@@ -1,0 +1,56 @@
+[PAGE 27: unnumbered]
+
+[NOTE: full-page fold-out plate, printed landscape and reproduced sideways in the scan; transcribed here as if correctly oriented. The sheet was scanned in two overlapping strips and there is a visible vertical seam a little to the right of station 11, where a few characters are covered by the overlap. A dark gutter shadow runs down the left edge and partly obscures the initial letters of the species names in the upper two thirds of the column.]
+
+[TABLE]
+1931 г.	№№ станций	1	2	3	7	8	11	12	13	14	15	16	17	18	19	22
+	Местоположение	76°55′ N, 70°03′ E	77°15′ N, 70 05 E	77°32′ N, 70 05 E	78°54′ N, 70 14 E	78°56′ N, 72°10′ E	78°22′ N, 73°40′ E	78°08′ N, 73°47′ E	77°53′ N, 73 45 E	77°39′ N, 74°00′ E	77°26′ N, 74 04 E	76°10′ N, 74°10′ E	77°25′ N, 76°00′ E	77°42′ N, 76° E	77°54′ N, 76° E	77°33′ N, 71°40′ E
+	Дата	0ʰ—4ʰ 2 IX	8ʰ—9ʰ 2 IX	15ʰ—16ʰ 2 IX	11ʰ—12ʰ 4 IX	23ʰ—1ʰ30ᵐ 4—5 IX	13ʰ—14ʰ15ᵐ 6 IX	20ʰ—22ʰ10ᵐ 6 IX	3ʰ 7 IX	11ʰ 7 IX	15ʰ30ᵐ 7 IX	22ʰ—24ʰ 7 IX	6ʰ30ᵐ—8ʰ15ᵐ 8 IX	12ʰ45ᵐ 8 IX	19ʰ 8 IX	3ʰ45ᵐ 10 IX
+	Горизонты в метрах	500—200 | 200—100 | 100—50 | 50—25 | 25—0 | Сетка Корн 15—0	475—0	320—0 | 15—0	450—0	480—350 | 350—250 | 250—150 | 150—87 | 87—62 | 62—37 | 37—17 | 17—0	375—245 | 250—175 | 175—125 | 125—62 | 62—37 | 37—17 | 17—0	420—250 | 250—175 | 175—125 | 125—87 | 87—62 | 62—37 | 37—17 | 17—0 | Сетка Корн 10—0	Сетка Корн 25—0	303—0 | 303—250 | 250—175 | 175—125 | 125—87 | 87—62 | 62—17 | 17—0	Сетка Корн 15—0 | 75—0	220—125 | 125—87 | 87—62 | 62—37 | 37—17 | 17—0 | 220—0	211—125 | 125—87 | 87—62 | 62—17 | 17—0 | Сетка Корн 15—0	Сетка Корн 15—0	290—0	270—0 | 275—175 | 175—125 | 125—62 | 62—37 | 37 – 17 | 17—0
+
+Sarsia princeps
+Sarsia flammea
+Catablema vesicarium
+Rathkea octopunctata
+Mitrocomella polydiademata
+Homoeonema platygonon
+Aglantha digitale
+Aeginopsis laurentii
+Diphyes arctica
+Arachnactis bournei
+Beroe cucumis
+Mertensia ovum
+Sagitta bipunctata
+Krohnia hamata
+Polychaeta larvae
+Calanus finmarchicus
+Calanus hyperboreus
+Pseudocalanus elongatus
+Microcalanus pygmaeus
+Spinocalanus abyssalis
+Gaïdius tenuispinus
+Euchaeta norvegica
+Euchae'a glacialis
+Scolecithricella minor
+Metridia longa
+Heterorhabdus norvegicus
+Oithona similis
+Oncaea borealis
+Microsetella atlantica
+Gastropoda juv.
+Lamellibranchiata juv.
+Limacina helicina
+Clione limacina
+Ophiopluteus
+Echinopluteus
+Fritillaria borealis
+Fritellaria polaris
+Oikopleura labradoriensis
+Oikopleura vanhoeffeni
+[/TABLE]
+
+Условные обозначения: — единично, = мало, ≡ порядочно, ≣ много, ≣ очень много, S массовое количество, + орга[illegible]м присутствовал, но количество его не определялось.
+
+[NOTE: the body of the table is a 39-row × 67-column matrix of abundance symbols. The symbols are not letters but stacks of 1 to 5 short horizontal rules (per the legend: 1 rule = единично, 2 = мало, 3 = порядочно, 4 = много, 5 = очень много), plus S and +. Most cells are blank. At the 300 dpi of this render the rules are roughly one pixel apart and the four- and five-rule symbols cannot be told apart cell by cell, so the matrix is NOT transcribed cell by cell here rather than filled with guesses. This page needs a second pass at higher resolution for the matrix; all lettered content of the page (corner cell, four header rows, the 39 row labels, and the legend) is transcribed above.]
+
+[NOTE: "Fritellaria polaris" is printed thus in the row labels, beside "Fritillaria borealis" in the row above. In "Euchae'a glacialis" the t of "Euchaeta" is printed as an apostrophe-like mark — transcribed as printed. In the legend the seam of the two scan strips falls inside "организм"; only "орга" and the final "м" survive. "Сетка Корн" is the reading of the recurring narrow columns; the final letter is a [?н].]

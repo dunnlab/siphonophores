@@ -1,0 +1,38 @@
+[PAGE 19]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+circumglobally in warm waters (N. bijuga proper), (2) eastern and western North Pacific (N. septata sp. n.), (3) Chinese waters, and (4) Japanese waters. While we here describe N. septata sp. n. to represent the molecularly and morphologically distinct north Pacific lineage, we currently lack material to describe the morphological characteristics of the two putative Nanomia species recorded from Chinese and Japanese waters. Interestingly, Lo et al. (2013) also reported finding two species of Nanomia in waters surrounding Taiwan: One positively identified as N. bijuga, and another one that could be assigned to neither N. bijuga nor N. cara.
+
+The N. bijuga proper clade, as delimited by the phylogenetic analyses, also shows geographically structured, hitherto undescribed intraspecific genetic variation (Supplementary Figures S1, S2). This is not surprising, considering the species’ circumglobal distribution and likely low gene flow between populations. Resolving the population genetics of N. bijuga and concluding whether the morphological characters show consistent regional differences requires further study of multiple specimens from across the geographic range of species.
+
+Our study still lacks data from major oceanic regimes where Nanomia are known to occur. Observations attributed to N. bijuga have also been recorded from several locations in the Southern Pacific (pers. obs.) and Atlantic, as well as the Indian Ocean and the Red Sea (Alvariño, 1971; Pugh, 1999). Due to the surprising genetic diversity revealed within the genus, further integrated molecular and morphological analyses are necessary to resolve the taxonomy of Nanomia, including describing the putative species recorded from Chinese and Japanese waters, as well as to improve our understanding of the biogeography of the genus. Interestingly, our data suggest both intraspecific differentiation of geographically distant populations, as well as adjacent or overlapping species distributions within the genus in both Atlantic and Pacific waters.
+
+The current study employs COI and 16S sequences for the purpose of species delimitation. The observed genetic distances between the species of Nanomia resolved by the molecular analyses are relatively large (Table 2), and the 16S data suggest that the genus may in fact not be monophyletic (Figure 3), albeit with low support. However, while good at separating between species, COI and 16S alone are not sufficient for reconstructing phylogenies. Until the remaining Nanomia species have been described, and a robust phylogeny including all the putative species has been inferred using a larger set of genetic markers, we refrain from suggesting changes to accepted nomenclature.
+
+5 Conclusion
+
+In this study, we have applied integrated morphological and molecular methods to delimit species in the genus Nanomia. We find that Nanomia septata sp. n. occurring in the NE Pacific warrants establishment as its own species, based on both molecular and morphological evidence. We provide a first description of Nanomia septata sp. n., as well as accounts of the observed N. bijuga and N. cara material for comparison. We also
+
+observed two additional genetic lineages of Nanomia from the West Pacific Ocean, but do not currently have material to examine the morphology of these species to formally describe them. Also lacking are both morphological and molecular data from Nanomia from the South Atlantic and regions of the Pacific Ocean, as well as the Indian Ocean, where the genus is also known to occur. Obtaining a comprehensive picture of the diversity of the genus Nanomia requires examination of further material from these regions. Nevertheless, the occurrence of several species of Nanomia occurring in close proximity to each other raises interesting questions regarding speciation processes in the pelagic realm. Comparable integrated studies on other widespread species and genera are likely to reveal further unexplored diversity within the order Siphonophorae.
+
+Data availability statement
+
+The datasets presented in this study can be found in online repositories. The names of the repository/repositories and accession number(s) can be found in the article/Supplementary Material.
+
+Ethics statement
+
+Ethical approval was not required for the study involving animals in accordance with the local legislation and institutional requirements because study focuses on cnidarian plankton.
+
+Author contributions
+
+AH: Conceptualization, Data curation, Funding acquisition, Investigation, Resources, Visualization, Writing – original draft, Writing – review & editing. LM: Conceptualization, Data curation, Formal analysis, Funding acquisition, Investigation, Resources, Visualization, Writing – original draft, Writing – review & editing. MKM: Conceptualization, Funding acquisition, Investigation, Visualization, Writing – original draft, Writing – review & editing. SHDH: Resources, Visualization, Writing – review & editing. DH: Resources, Visualization, Writing – review & editing. GMM: Conceptualization, Data curation, Investigation, Resources, Visualization, Writing – original draft, Writing – review & editing.
+
+Funding
+
+The author(s) declare financial support was received for the research, authorship, and/or publication of this article. The present study was funded by the Norwegian Biodiversity Information Centre through the Norwegian Taxonomy Initiative projects NorHydro (14-18-70184240) (LM) and HYPNO (48-14-70184233) (AH, LM) in collaboration with the Norwegian Barcode of Life (NorBOL), by grants from the National Science Centre, Poland: 2018/29/N/NZ8/01305 (MKM) and 2019/32/T/
+
+Frontiers in Marine Science	19	frontiersin.org
+
+[NOTE: Two-column page with no figures; the left column is transcribed in full, then the right. The first paragraph continues the sentence broken off at the foot of page 18 ("occurring in (1)" / "circumglobally in warm waters"), and the right column ends mid-way through a grant number at "2019/32/T/".
+
+Presentation ligatures (fi, fl, ff) are transcribed as the ordinary letter sequences. "the species’" carries a printed right single quotation mark as its possessive apostrophe. "Alvariño" carries a printed tilde on the n. En dashes are printed throughout the Author contributions section ("Writing – original draft", "Writing – review & editing"). The grant number "HYPNO (48-14-70184233)" is broken across two printed lines after "48-14-" and is joined here keeping that hyphen, since it is part of the number and not a word-division hyphen. The section headings "Data availability statement", "Ethics statement", "Author contributions", "Funding" and "5 Conclusion" are printed larger and in the journal's blue. Running head and running foot elements are separated by tabs.]

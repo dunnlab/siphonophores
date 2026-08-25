@@ -1,0 +1,199 @@
+<<<PAGE pdf=1 file=page_001.txt>>>
+[PAGE 1: unnumbered]
+
+[NOTE: volume title page of the Göttinger "Nachrichten" for 1860, not part of the Keferstein & Ehlers article itself. Fraktur throughout. Long-s rendered as plain `s`. The display lines are set letter-spaced (gesperrt); the spacing is emphasis, not orthography, and is not reproduced. The compound joins in "Georg-Augusts-Universität" and "Univ.-Buchdruckerei" are printed with the Fraktur double hyphen (Doppelbindestrich) and are given here as a single hyphen. A short tapered rule is printed between "Nebst Register." and the imprint. Clean bitonal scan; a light scatter of speckle over the whole leaf.]
+
+Nachrichten
+
+von der
+
+Georg-Augusts-Universität
+
+und der
+
+Königl. Gesellschaft der Wissenschaften
+
+zu Göttingen.
+
+Vom Jahre 1860.
+
+Nr. 1—29.
+
+Nebst Register.
+
+Göttingen,
+gedruckt in der Dieterichschen Univ.-Buchdruckerei.
+(W. Fr. Kästner.)
+
+<<<PAGE pdf=2 file=page_002.txt>>>
+[PAGE 254]
+
+[NOTE: first page of the article. Fraktur throughout except the Latin species name "Physophora hydrostatica" and the abbreviations "Dr.", "I.", "X.", "etc.", "cfr.", "p." in the footnote, which are set in roman (antiqua). Long-s rendered as plain `s`. Line-end hyphens (printed as the Fraktur double hyphen) are closed up; the compound hyphen at the very foot of the page is kept, since the word continues on the next page. Display lines and many emphasised words in the body are letter-spaced (gesperrt); the spacing is emphasis, not orthography, and is not reproduced. A short rule separates the text from the footnote. Clean 600 dpi bitonal scan, trimmed close on the right so several lines end within a millimetre of the edge, but nothing is lost.]
+
+[NOTE: "außeren" in the first paragraph is transcribed as printed — the letter-spaced setting "a u ß e r e n" carries no umlaut, although the same authors write "äußern" three lines later.]
+
+— 254 —
+
+Herr Hofrath Rudolph Wagner legte vor den folgenden:
+
+Auszug aus den Beobachtungen über die Siphonophoren von Neapel und Messina angestellt im Winter 1859/60 von Dr. Wilhelm Keferstein und Ernst Ehlers in Göttingen.
+
+I. Bau der Siphonophoren.
+
+Alle Theile der Siphonophoren werden von zwei aus Zellen bestehenden Häuten, einer außeren und einer inneren, gebildet, zu denen an einzelnen Theilen noch eine Zwischensubstanz hinzukommt, welche nicht aus Zellen besteht, structurlos ist und als das Ausscheidungsproduct der beiden Zellenhäute angesehen werden muß¹). Diese Grundorganisation läßt sich sowohl bei den jüngsten und einfachsten Gebilden, als bei dem allercomplicirtesten Nesselknopf nachweisen und der wahre Bau wird bei den zusammengesetzteren Theilen erst klar, wenn man sich ihre Entstehung aus zwei Bildungshäuten als leitendes Moment dienen läßt.
+
+Der äußern Haut allein kommt die Eigen-
+
+[FOOTNOTE] 1) Nachdem wir im Januar 1860 diese Grundorganisation entdeckt und auch brieflich nach Deutschland gemeldet hatten, sehen wir nach unserer Rückkehr, daß Prof. C. Claus schon vor uns dieselbe Beobachtung angestellt hat (cfr. dessen vorzügliche Abhandlung „Ueber Physophora hydrostatica etc. in Siebold und Kölliker Zeitschr. für wiss. Zoologie. Bd. X. Heft 3. April 1860), und machen deßhalb auf die Priorität in keiner Beziehung Anspruch, überdies da sich auch bei Leuckart (Siphonoph. von Nizza. in Archiv f. Naturgeschichte 1854. I. p. 369. Note) sehr richtige Angaben über diese Verhältnisse finden.
+
+[NOTE: the opening low double quotation mark before "Ueber" is never closed on this page; transcribed as printed.]
+
+<<<PAGE pdf=3 file=page_003.txt>>>
+[PAGE 255]
+
+[NOTE: Fraktur throughout except the Latin names "Physophora Philippii" and "Physalia", set in roman. Long-s rendered as plain `s`. Line-end hyphens (Fraktur double hyphen) closed up; the suspension hyphen in "Schwimm- und Deckstücke" is real and kept. Letter-spaced (gesperrt) emphasis is not reproduced. A short rule separates the text from the footnote.]
+
+[NOTE: the leaf is heavily over-inked down the whole left margin, so the first word of almost every line is a solid blot. In every case the word could be recovered from its surviving outline together with the syllable it completes from the previous line, and none is marked uncertain; but a second reader should check this column. The one reading that rests partly on sense is "obgleich" in line 3, whose initial letter is a filled disk that could be read as a capital O — lowercase is taken because the preceding line ends in a comma.]
+
+— 255 —
+
+schaft zu in ihren Zellen Nesselkapseln zu bilden und sie hat mehr den Charakter einer bloßen Decke, obgleich auch die Geschlechtsproducte in ihr bereitet werden. In der inneren Haut bilden sich Muskelfasern, elastische Bänder, Drüsenzellen u s w. Aus der Zwischensubstanz bestehen bei weitem zum größten Theil die festeren und elastischen Gebilde, wie die Schwimm- und Deckstücke, die Schwimmglocken der Geschlechtsstücke, die dickere Region des Stammes; während bei den übrigen Organen ihr Auftreten auf dünne Lamellen beschränkt ist, oder sie auch ganz fehlt.
+
+Während wir in Betreff des Baus des Luftsacks der von Leuckart gegebenen Darstellung anhangen, bemerken wir, daß die Physophora Philippii im Stande ist willkürlich aus ihrem Luftsack Luft austreten zu lassen. Von dieser schönen Siphonophore hatten wir außer mehreren kleineren zwei sehr große und kräftige Exemplare, die drei Tage in unseren Gläsern lebendig blieben, und bei diesen sahen wir alsbald wie sehr häufig eine Menge Luftblasen aus dem Luftsack entleert wurden, besonders wenn man das Thier reizte oder festzuhalten suchte, als ob es sich dadurch die Flucht erleichtern wollte. Am untern Theil des Luftsacks entstand dann eine ringförmige Einschnürung, ein Theil der Luft wurde dadurch in das obere Ende des Stammes gedrängt und gelangte dort gleich über den jüngsten Knospen der Schwimmstücke nach außen. Am abgeschnittenen Stammende konnte man unter dem Simpler an der angegebenen Stelle diese Oeffnung in Form einer Einziehung der Haut erkennen ¹).
+
+[FOOTNOTE] 1) Also ganz ähnlich wie bei Physalia.
+
+<<<PAGE pdf=4 file=page_004.txt>>>
+[PAGE 256]
+
+[NOTE: Fraktur throughout except the Latin genus name "Abyla" and the author name "(Claus)", which are set in roman. Long-s rendered as plain `s`. Line-end hyphens (Fraktur double hyphen) closed up. Letter-spaced (gesperrt) emphasis is not reproduced. No footnote on this page. Clean 600 dpi bitonal scan; the right edge is trimmed close but nothing is lost.]
+
+[NOTE: the printing is inconsistent about the umlaut in "äußer-": "die äußere Haut" and "der äußeren und inneren Haut" carry it, but "eine Verdickung der außeren Haut" and "des spateren Schwimmsacks" are set without it. Both are transcribed as printed. The word "spateren" is broken at the line end as "spa-" and its "a" plainly has no umlaut, while "später" three words later does.]
+
+— 256 —
+
+Die Entwicklung der Schwimmstücke haben wir bei allen uns vorgekommenen Siphonophoren, mit Ausnahme von Abyla wo wir es versäumten, beobachtet und sie überall dieselbe gefunden. An der einfach kolbenförmigen aus jenen zwei Bildungshäuten bestehenden Knospe, verdickt sich die äußere Haut an der Spitze und treibt so die innere zu einer Rückeinstülpung vor sich her, bis vom früheren centralen Hohlraum nur ein ringförmiger Raum übrig bleibt, der aber endlich bis auf das Ringgefäß und die vier Radiärkanäle ausgefüllt wird. Im „Knospenkern“ (Claus) der also eine Verdickung der außeren Haut ist, bildet sich nun der Hohlraum des spateren Schwimmsacks und von ihm existirt später nichts mehr, als die Epithelauskleidung dieses. Zwischen der äußeren und inneren Haut am Umfang des Schwimmstücks beginnt sich nun die structurlose Zwischensubstanz abzulagern und überwiegt bald die Masse der äußeren und inneren Haut von deren ersterer am reifen Schwimmstück nur die Epithelbekleidung noch gebildet wird, während die Wände des Gefäßsystems und die Muskulatur des Schwimmsacks von der inneren Haut zusammengesetzt werden.
+
+Der Bau und die Entwicklung der Deckstücke ist ganz wie bei den Schwimmstücken, nur mit den daraus entspringenden Veränderungen, daß bei ihnen keine Schwimmhöhle gebildet wird.
+
+Die drei Abtheilungen der Polypen, Basalstück, Magen Rüssel, werden durch das verschiedene Massenverhältniß der äußeren und inneren Haut charakterisirt. Am Basalstück verdickt sich die äußere Haut gewaltig und in ihren Zellen entstehen viele große Nesselkapseln, die aber nie zur Reife gelangen. An der Uebergangsstelle des Basalstücks in
+
+<<<PAGE pdf=5 file=page_005.txt>>>
+[PAGE 257]
+
+[NOTE: Fraktur throughout except the Latin names "Forskalia", "Rizophysa", "Agalma Sarsii", "Physophora Philippii" and "Listing", which are set in roman. Long-s rendered as plain `s`. Line-end hyphens (Fraktur double hyphen) closed up. Letter-spaced (gesperrt) emphasis is not reproduced. No footnote on this page. As on page 255 the left margin is over-inked and the first word of many lines is a blot; all were recoverable. The 600 dpi bitonal scan is otherwise clean.]
+
+[NOTE: several printer's errors on this page are transcribed as printed, not corrected — "Siphonophoreh" for "Siphonophoren" (the final letter is unmistakably the Fraktur h, with its right-hand descending tail, not n); "beschaftigt" and "glockenformiger" without their umlauts; "das Centralkanals" for "des Centralkanals"; and "Nesselkop es" for "Nesselkopfes", where the f has simply dropped out of the forme, leaving a blank the width of a letter.]
+
+[NOTE: the term in parentheses at "stets linke ([?Cäotrope] Listing;" is uncertain in its first letter only. The capital is the rounded Fraktur C/E glyph and is plainly not the Fraktur L standing immediately beside it in "Listing"; the rest of the word reads "äotrope" without difficulty. Recorded as printed rather than emended.]
+
+— 257 —
+
+den Magen bildet eine plötzliche Verdickung der inneren Haut die ringförmige Falte, die hier den Abschluß der Körperhöhle gegen den Magen bewirkt. Am Magen und Rüssel ist die äußere Haut nur ein dünner Ueberzug, während im ersteren die innere Haut besonders dick ist und jene reihenweis gestellten Hohlräume enthält, deren umgebende Zellen wohl den Verdauungssaft absondern.
+
+Die Entwicklung der Nesselknöpfe an den Fangfäden, die wir bei allen uns vorgekommenen Siphonophoreh genau beobachteten, hat uns lange beschaftigt, doch müssen wir wegen des Spezielleren auf die Abhandlung selbst verweisen. Die Spiralwindungen des Nesselstrangs und Endfadens sind stets linke ([?Cäotrope] Listing; also wie bei der rechten Schraube der Technik), während der Stamm selbst bei Forskalia und Rizophysa rechts gewunden ist. Die aus der innern Haut bestehenden Wände das Centralkanals werden neben dem Nesselstrang zu dem System der elastischen Bänder, während sie im Endfaden zu der so wirksamen Muskulatur sich umbilden. Bei Agalma Sarsii wächst vom Stielende her über den Nesselstrang ein glockenformiger Mantel, der also eine Bildung der äußeren Haut ist. In einem Stadium der Entwicklung gleichen die Nesselknöpfe von Physophora Philippii denen von Agalma Sarsii, da sie auch diesen Mantel haben, dann aber bekommt das Stielende an einer Seite eine Aussackung und wächst ganz am Mantel entlang, während sich das Ende des Nesselstrangs in die Höhe hebt so daß zuletzt der zweilappige Endfaden am oberen Theil des Nesselkop es hervorkommt. Darauf bildet sich zwischen den Bildungshäuten jener Stielaussackung die structurlose Zwi-
+
+<<<PAGE pdf=6 file=page_006.txt>>>
+[PAGE 258]
+
+[NOTE: Fraktur throughout except the Latin names "Agalma Sarsii", "rubrum", "Agalma minimum", "Ag. rubrum" and the catchword "Cy-" at the foot, which are set in roman. Long-s rendered as plain `s`. Line-end hyphens (Fraktur double hyphen) closed up; the roman hyphen after "Cy" at the foot is kept because the word continues on the next page. Letter-spaced (gesperrt) emphasis is not reproduced. No footnote on this page. The fraction printed as a raised 2 over a lowered 3 with a solidus is given here as "2/3". Clean 600 dpi bitonal scan; the right edge is trimmed very close and the last letter of several lines is clipped but still identifiable.]
+
+[NOTE: one uncertain word. In "dann tritt [?durch] völlige Umstülpung" the initial letter of "durch" is printed as a bare x-height hook with no ascender loop, unlike every other Fraktur d on the page; it reads as a c or a broken d. The remaining letters "urch" are clear. Recorded as a flagged reading rather than silently normalised.]
+
+— 258 —
+
+schensubstanz und umwächst von rechts und links her den Mantel, bis nur die Endlappen noch hervorragen, unter denen die schwächste Stelle bleibt, aus welcher der Nesselstrang hervorgeschleudert wird. Außer dem Mantel ist hier also noch eine Hülle hinzugekommen, die aus der Zwischensubstanz besteht, überzogen von einem Epithel der äußeren Haut.
+
+Bei Agalma Sarsii und rubrum sind große Verschiedenheiten zwischen den Nesselknöpfen der Jugendformen und denen der reifen Thier beobachtet und das Agalma minimum von Gräffe mit großer Wahrscheinlichkeit als ein Jugendzustand von Ag. rubrum erkannt.
+
+Die Entwicklung der Nesselkapseln in Zellen ist von Leydig bei Hydra entdeckt: bei den Siphonophoren ist das leicht zu verfolgen. Im Zelleninhalt differenzirt sich eine ovale Masse, an der man bald eine äußere Haut bemerkt; von einem Pol her bildet sich ein cylindrischer Hohlraum auf etwa 2/3 der Länge der Nesselkapsel und erhält eine besondere Haut — der spätere Stiel des Nesselfadens — und im übrigen noch soliden Theile differenzirt sich der Nesselfaden selbst. Beim Hervorschnellen des Fadens hebt sich von der Kapsel erst ein kleiner Deckel ab, dann tritt [?durch] völlige Umstülpung der Stiel hervor und aus diesem wird der Faden hervorgetrieben, nach dessen Austritt die Kapsel ein bedeutend geringeres Volum, wie vorher, hat.
+
+In Betreff der Entwicklung der Geschlechtsstücke, deren morphologische Uebereinstimmung mit der Medusengeneration der Hydroidpolypen man wohl als ausgemacht ansehen darf, erwähnen wir vorerst die Entwicklung einer Meduse aus einer Knospe, die wir wiederholt am Magen der Cy-
+
+<<<PAGE pdf=7 file=page_007.txt>>>
+[PAGE 259]
+
+[NOTE: a solid black smear (scan/ink defect) runs down the inner margin of the type block and covers the first one to three characters of almost every line of the main paragraph. Where the visible remainder of the word makes the covered letters certain they are supplied silently; where they are not determinate the word is flagged.]
+
+[illegible]a pusilla Gegenbaur beobachteten, obwohl wir [?unsere] Bemerkungen über Medusen einer anderen Arbeit vorbehalten. Die Entwicklung ist genau [?so] wie sie oben für die jüngeren Zustände der Schwimmstücke angegeben ist, wie auch die beiden Bildungshäute dieselbe Verwendung finden. Nachdem aber der Schwimmsack gebildet ist, erheben sich im Grunde desselben die beiden Häute zu einer neuen Vorstülpung, die sich endlich an ihrer Spitze öffnet und den Magen darstellt. Die Entwicklung der Geschlechtsstücke der Siphonophoren geht nun grade auf dieselbe Weise vor sich und in der äußeren Haut des klöppelförmigen Magens bilden sich die Geschlechtsproducte. Bei Velella öffnet sich dieser Magen an seiner Spitze und die Geschlechtsstücke sind wahre Medusen (Gegenbaur), während bei den Calycophoriden und den männlichen Geschlechtsstücken der meisten Physophoriden diese Oeffnung nicht eintritt, die Geschlechtsstücke aber sonst gerade wie Medusen gebildet sind und frei herum schwimmen können. Auf dem niedersten Zustand der Entwicklung bleiben die traubenförmeg zusammensitzenden weiblichen Geschlechtsstücke der Physophoriden stehen, denn hier bildet sich nicht einmal eine Schwimm[?h]ohe, sondern die Glocke, oft mit einem unregelmäßigen Canalsysteme, umschließt dicht das einzige Ei und öffnet sich nur an ihrer Spitze, um das reife Ei befruchten und dann heraustreten zu lassen.
+
+[NOTE: the first word of the page completes a word broken at the foot of p. 258, which ends "am Magen der Cy-"; on this page only the final "…a" of that name survives beside the smear, preceded by one tall letter (t or l) that cannot be separated from the smear. "traubenförmeg" is printed thus. The last word of the paragraph's penultimate clause is printed "Schwimm=" at the end of one line and, on the next, a smear followed by clearly formed "ohe," with no umlaut and no "l" (checked at 30x) — the expected "höhle", which the same authors print in full on p. 260, is not what stands here, so only the smeared letter is supplied and flagged.]
+
+II. Die beobachteten Siphonophoren.
+
+Abyla pentagona (Q. et G). Eschsch.
+Diphyes Sieboldii Köll.
+Diphyes turgida Gegenb.
+Diphyes conoidea sp. nov.
+
+[NOTE: the four species in this list carry no numbers, although the list continues on p. 260 with "5. Diphyes ovata sp. nov."]
+
+<<<PAGE pdf=8 file=page_008.txt>>>
+[PAGE 260]
+
+Schwimmstücke schlank, das vordere zugespitzt, im Ganzen von der Form derjenigen von D. Sieboldii. Am hinteren Schwimmstück eine Rille für den Austritt des Stammes, deren Wände hinten sich zu zwei gleich langen Spitzen verlängeren. Der Fortsatz des vorderen Schwimmstücks an dem das hintere befestigt ist, solide und kurz, viel höher als lang. Das hintere Schwimmstück umfaßt eine rundliche Vorwölbung jenes Fortsatzes, so daß die Zusammenfügung ähnlich wie bei D. quadrivalvis wird. — Deckstücke trichterförmig. — Stämme eingeschlechtlich. — Neapel.
+
+5. Diphyes ovata sp. nov.
+
+Schwimmstücke eiförmig, ohne Kanten und Spitzen. Das vordere hat oben hinten eine tiefe Einsenkung zur Aufnahme des hinteren Schwimmstücks, die Schwimmhöhle ist lang und eng, so daß im Schwimmstück ein großer Theil solide bleibt. Ein gefäßartiger Saftbehälter läuft bis in die Spitze. — Das hintere Schwimmstück hat an seiner Unterseite eine tiefe Rille, Lappen am Ende fehlen. Vorne auch ein kleiner Saftbehälter. — Deckstücke sattelartig, ähnlich denen von Praya. — Die Glocken der Geschlechtsstücke mit einer dicken, auch unten vorspringenden Längsrippe. — Messina.
+
+6. Diphyes quadrivalvis (Lesueur) Gegenb.
+7. Praya cymbiformis (d.Ch.) Leuck.
+8. Praya filiformis (d. Ch.) K u. E. (= P. Diphyes Aut.
+
+Schwimmstücke fast gleich groß, das etwas kleinere liegt in einer flachen Einsenkung des größeren, und auch dies nur mit seinem oberen Theile, während unten die Schwimmstücke auseinander stehen. Der Saftbehälter endet in jedem Schwimmstück mit einer runden Blase. Deckstücke nieren-
+
+[NOTE: "verlängeren" is printed thus. In entry 8 the parenthesis opened at "(= P." is never closed: the line ends "(= P." and the next line reads only "Diphyes Aut." The last word of the page, "nieren-", is broken at the foot and continues on p. 261; the hyphen is kept here because the page ends.]
+
+<<<PAGE pdf=9 file=page_009.txt>>>
+[PAGE 261]
+
+[NOTE: the black inner-margin smear seen on p. 259 returns over the upper half of this page and hides the first one to three characters of many lines. Restorations that the visible remainder makes certain are supplied silently; the rest are flagged.]
+
+förmig, an der einen Seite herzförmig und nicht in zwei Lappen gespalten. Glocken der Geschlechtsstücke kegelförmig, ohne alle Kanten.
+
+9. Hippopodius gleba (Forsk.) Leuck.
+10. Vogtia pentacantha Köll.
+11. Apolemia uvaria (Lesueur) Eschsch.
+12. Agalma rubrum C. Vogt
+
+Als eine Jugendform möchten wir hierher das von Ed. Gräffe als Agalma minimum beschriebene [illegible]osen ziehen, da wir in Messina wiederholt eine [?kleine] Siphonophore beobachteten, deren jüngere Polypen Fangfäden wie Ag. rubrum hatten während die älteren solche trugen wie sie Gräffe bei seinem Ag. minimum beschreibt.
+
+13. Agalma Sarsii Köll.
+14. Forskalia contorta (Edw.) Leuck.
+15. Forskalia ophiura (d. Ch.) Leuck.
+16. Forskalia Edwardsii Köll.
+
+Schwimmstüde keilförmig, das scharfe Ende breit abgestutzt. Der Stamm macht weite rechte (dexiotrope) Spiralwindungen. Polypen auf langen Stielen, die über viermal so lang sind als sie selbst und auch die Taster stets an Länge übertreffen. Nesselknöpfe mit 1½ bis 2 Windungen ihres nur blaßrothen Nesselstrangs. Stämme von 2—3 Fuß Länge mit einer gewaltigen Fülle von Deckstücken. — Messina sehr häufig.
+
+17. Forskalia formosa sp. nov.
+
+Schwimmstücke am hintern Ende durch einen tiefen Einschnitt in zwei Lappen getheilt, von denen der eine stets länger wie der andere ist. Stamm mit sehr deutlichen Spiralwindungen. Polypen auf kurzen Stielen, welche die Länge des Polypen nicht viel übertreffen und stets viel kürzer als die Taster sind. Taster sehr lang wurmförmig. Nesselknöpfe mit 2½—3 Windungen des
+
+[NOTE: "förmig" at the head of the page completes "nieren-" broken at the foot of p. 260. "Schwimmstüde" is printed thus, with a plain Fraktur d where "Schwimmstücke" is meant. The word marked [illegible]osen is a single word whose first two or three letters are under the smear: what survives is unmistakably "oſen" (one long s), and no German neuter noun in "-osen" fits the sentence, so nothing is supplied. In "(dexiotrope)" the "e" is blotted and the "x" is faint but has the descender that distinguishes Fraktur x from r. The page ends mid-sentence on "des"; no hyphen is printed.]
+
+<<<PAGE pdf=10 file=page_010.txt>>>
+[PAGE 262]
+
+[NOTE: on this page the ink smear lies along the outer (right) margin and thickens or blots the last one or two characters of several lines; no reading is lost except the line-end hyphen of "Stammerwei-terung".]
+
+brennend rothen Nesselstrangs. Stämme bis 2 Fuß lang, stets von sehr zartem Aussehen. Messina ziemlich selten.
+
+18. Physophora Philippii Köll.
+
+Unterscheidet sich von der Ph. hydrostatica von Nizza dadurch, daß hier die Polypen an kurzen Stielen sitzen und daß an den eiförmigen Nesselknöpfen jederseits oben ein Seitenlappen sitzt. —
+
+Bei jungen Exemplaren ist die Stammerweiterung ein Stück einer linken Spirale, bei älteren verwischt sich diese Spiralwindung mehr und sie ist fast sackförmig — An den Tastern stets ein Tastfaden.
+
+Vom Luftaustritt aus dem Luftsack ist oben berichtet.
+
+19. Athorybia rosacea (Forsk.) Eschsch.
+20. Rhizophysa filiformis (Forsk.) Lam.
+21. Physalia caravella Eschsch.
+
+Nach Spiritusexemplaren dieser Art und der Ph. utriculus muß man den großen Luftsack auch hier wie den erweiterten Stamme ansehen dessen weitester Theil noch Andeutungen eines Stücks einer linken Spiralwindung zeigt und die Anhänge trägt, die nach der einen Seite hin an Alter zunehmen. Der Kamm der Luftblase würde der Gegend des Stammes entsprechen, wo die Schwimmstücke stehen müßten, und nimmt man das Loch oben im Luftsack hinzu, so hat man eine sehr große Uebereinstimmung mit dem Bau einer jungen Physophora, die noch ohne Schwimmstücke ist.
+
+22. Velella spirans (Forsk.) Lam.
+23. Porpita mediterranea Eschsch.
+
+[NOTE: a short horizontal rule is printed centred below entry 23; the rest of the page is blank.]

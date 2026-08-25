@@ -1,0 +1,35 @@
+[PAGE 130]
+
+130	[RUNNING HEAD] A SYNOPSIS OF THE SIPHONOPHORA
+
+gastrozooid, or occasionally close to the reduced gastrozooids or (?) palpons. The radial canals of the gonophores take zig-zag courses to the ring canal and give off small lateral branches. Two or three male cormidia alternate with two or three female ones. There are some small red tubercles in the region of the circular canal of the asexual nectophore.
+
+Palpons (Pl. XXVI, figs. 1, 3): Between successive stem-groups are found the characteristic reduced, mouthless gastrozooids or (?) palpons, growing singly or two or three to a single pedicel. They are thick walled, 0·5 mm in length, and bear heteromorph tentacles.
+
+Because Stephonophyes superba has so seldom been recorded, Chun's account and figures have hardly been checked. It is worth remembering that Schneider (1899, p. 24) criticized Chun's figures of the cnidosacs. Schneider, who seems to have mistakenly thought S. superba and Praya dubia were the same species, denied the presence of Chun's lateral giant cells, and gave a different interpretation of them, and the structure of the cnidosac. The cnidosacs in the two species S. superba and P. dubia resemble each other basically in structure, as do those of most prayids, so that Schneider's comments are still valid.
+
+Sub-family iii: NECTOPYRAMIDINAE Bigelow, 1911
+
+A small group of four abberant prayines, the nectophores of which instead of being smoothly rounded bear ridges, angles and serrations.
+
+I include them in a single genus Nectopyramis Bigelow 1911a.
+
+Genus: NECTOPYRAMIS Bigelow, 1911
+
+Archisoma Bigelow, 1911b
+
+Type species: Nectopyramis thetis Bigelow, 1911a.
+
+Four very distinct, aberrant, prayine species N. thetis, N. diomedeae, N. natans and N. spinosa are included in a single genus Nectopyramis. This seems to be a better arrangement than recognition of three or four genera. Nectopyramis as originally defined had for fifty years contained a second species diomedeae, and natans was at that time made the type species of a genus Archisoma Bigelow. N. spinosa Sears, 1952, was originally described and figured rather inadequately by Moser (1925) as Hippopodius cuspidatus. But it is not closely related to species of Hippopodius.
+
+Polygastric phase
+
+Nectophores of species of Nectopyramis are always taken singly, suggesting that only one nectophore – the larval one – is developed, except in N. spinosa where two types of nectophore are developed. One represents the caducous larval bell, and the other is a heteromorph definitive nectophore. Instead of being smoothly rounded as in other prayines there are in this phase in species of Nectopyramis, ridges, angles and serrations, or both together.
+
+The somatocyst differs in the four species. In natans and spinosa it is simple, as in species of Rosacea. In thetis and diomedeae it branches, complexly in diomedeae, but there is a common basic pattern of branching in these two. It does not resemble the patterns of branching in the species of Praya and Stephanophyes. In 1954 I suggested what this pattern was like, but a textual error crept into the proof which was not corrected. It concerns the 'flagging' of a figure and made nonsense of the text. On page 84 of my 'Discovery' Report of that year, line 14 contained the words: 'C.pa2, a right and left 'dorsal' canal C.pa3, C.pa.2 . . .' For C.pa2 read C.pa1, referring to the accompanying text figure 39A on page 85.
+
+[NOTE: in the last paragraph the numerals of "C.pa2", "C.pa3", "C.pa.2", "C.pa2" and "C.pa1" are all printed as superscripts; the third of these is printed "C.pa.2", with an extra full stop before the superscript, and is transcribed as printed.]
+
+[NOTE: "Stephonophyes superba" is printed thus in the third paragraph (elsewhere "Stephanophyes"); "abberant" in the Nectopyramidinae paragraph is likewise as printed.]
+
+[NOTE: "0·5 mm" is printed with a raised, mid-height decimal point, reproduced here as "·". The two "(?)" in the text are the author's own printed queries; no printed square brackets occur on this page.]

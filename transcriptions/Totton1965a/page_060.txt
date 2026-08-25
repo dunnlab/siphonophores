@@ -1,0 +1,40 @@
+[PAGE 55]
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 4 AGALMIDAE	55
+
+[FIGURE]
+1MM
+0
+Nec.
+Pn
+Bg
+Pr.Z
+T. larv.
+Pal
+A
+N
+Pn
+N
+Nec
+Gz.3
+Pr.Z
+Pal
+Gz.2
+B
+1MM.
+0
+
+FIG. 19.   Agalma elegans (Sars). 'Athorybia' larvae
+A, an early larva, × 62, showing bracts (coloured blue), bracteal canals (red), and the first of a ring of palpons; B, an early stage in metamorphosis, × 16. That side of the upper end which carries the pneumatophore has elongated to carry the latter above the ring of coronal bracts. Two nectophores have developed and are functional. The protozooid has taken up a latero-terminal position leaving the second gastrozooid at the end
+
+Pn = pneumatophore; N = nectophore; T.larv = larval tentacle; Gz2, 3 = secondary gastrozooids; Nec = nectostyle; Bg = basigaster; Pal = palpon; Pr.Z = protozooid (from Totton, 1956, figs. 2, 6).
+[/FIGURE]
+
+[FIGURE]
+FIG. 20.   Agalma elegans (Sars)
+A juvenile specimen × 11. Nectosome and siphosome have elongated in opposite directions. The nectostyle can still be seen opposite to the pedicel of the first nectophore. Note the small size of the protozooid. Definitive (secondary) stem bracts coloured green. Tentacles not shown except for part of the larval one of the protozooid (from Totton, 1956, fig. 9).
+
+3MM.
+0
+[/FIGURE]
+
+[NOTE: this page carries no body text — it is entirely occupied by two text-figures and their captions. FIG. 19 occupies the upper half of the page as two drawings side by side, A on the left and B on the right, each with its own vertical scale bar; the labels listed inside the first [FIGURE] above are all the text printed within those drawings, in reading order (panel A first, then panel B), and are hand-lettered. The scale bar of panel A is lettered "1MM" at the top and "0" at the foot, that of panel B "1MM." and "0"; the "1" is a bare hand-drawn vertical stroke and "MM" is in small capitals. FIG. 19's caption runs the full page width for its first six lines, then the abbreviation block that ends it is set as a narrow left-hand column because the FIG. 20 illustration occupies the right-hand side of the lower half of the page; the FIG. 20 caption sits below it in the same narrow left column, with the drawing to its right. Per protocol the left column is given in full before the right. The vertical scale bar beside the FIG. 20 drawing is lettered "3MM." at the top and "0" at the foot; these are the only characters printed in that illustration. The "=" signs in the FIG. 19 abbreviation block are printed as a double-stroke equals glyph, and in "Pal = palpon" and "Pr.Z = protozooid" they are set tight against the abbreviation without spaces.]

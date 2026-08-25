@@ -1,0 +1,51 @@
+[PAGE 150]
+
+150	[RUNNING HEAD] A SYNOPSIS OF THE SIPHONOPHORA
+
+[FIGURE]
+e
+k
+2.mm.
+1
+0
+Prom
+[?s]
+Prom.
+Som:
+C
+A
+B
+Nch.
+
+FIG. 89.   Sulculeolaria angusta Totton. Polygastric phase
+A, B, lateral and dorsal views of the posterior nectophore, 'Discovery' St. 1586; C, lateral view of the anterior nectophore, Gulf of Aden, × 8.5
+Nch = notch in the mouth-plate; Prom = prominence on mouth-plate; Som = somatocyst (from Totton, 1954, fig. 53).
+[/FIGURE]
+
+Sulculeolaria chuni (Lens & van Riemsdijk, 1908)
+Text-figure 90
+
+Galeolaria chuni L. & v.R., 1908
+Galetta chuni, Totton 1932, text-fig. 20
+
+Easily distinguishable by its possession of a long somatocyst and a thin emarginate lamella in the posterior nectophore.
+
+Polygastric phase
+
+Anterior nectophore:   Up to about 6 mm in length × 3 mm deep, without ostial teeth, with a long somatocyst (4 mm × 0·3 mm). There are no commisural canals.
+
+Posterior nectophore:   Up to 9 mm long × 2·75 mm deep, with thin emarginate mouth-plate or basal lamella, up to 25 mm long × 2·75 mm wide. There are no dorso-lateral ridges.
+
+Eudoxid phase – not identified.
+
+[NOTE: the upper 55 per cent of the page is occupied by text-fig. 89, three drawings side by side (A, B, C), with its caption set beneath. The lettering listed inside [FIGURE] is given in the order it is met reading the drawings left to right and top to bottom: "e" and "k" are small italic letters at the head of drawing A, unexplained in the caption; then the vertical scale bar standing to the left of A, lettered "2.mm." at the top, "1" at the middle tick and "0" at the foot; then A's "Prom" (no stop) and B's "Prom." (with stop); "Som:" on C; the drawing letters A, B, C; and "Nch." beneath B. All verified at 5–20x.]
+
+[NOTE: the mark transcribed "[?s]" sits at the left end of the dashed leader running to "Prom." on drawing B. It is a small italic letter in the same hand as "e" and "k"; "s" is my best reading, but it could be a numeral 5 or a "z", and it may be a stray drawing stroke rather than lettering.]
+
+[NOTE: numerals verified digit by digit: FIG. 89; 'Discovery' St. 1586; × 8.5; Totton, 1954, fig. 53; (Lens & van Riemsdijk, 1908); Text-figure 90; L. & v.R., 1908; Totton 1932, text-fig. 20; 6 mm × 3 mm; 4 mm × 0·3 mm; 9 mm × 2·75 mm; 25 mm × 2·75 mm.]
+
+[NOTE: the decimal point in the caption's "8.5" is a full stop sitting on the baseline, whereas the decimal points in the body text ("0·3", "2·75") are raised middle dots. Both verified at 14–20x; the difference is as printed. All the multiplication signs are saltire crosses. The zero of "0·3 mm" is an old-style figure at x-height, so the group resembles "o·3"; it is a zero.]
+
+[NOTE: "commisural" is printed with one s, as on page 149. "up to 25 mm long" for the basal lamella of a nectophore given as "up to 9 mm long" is as printed; the numeral was checked at 10x and is 25, not 2·5.]
+
+[NOTE: "FIG. 89." is small capitals with a full point after the number. The species heading is bold italic with the authority in roman parentheses; the two synonymy lines are set smaller with the taxon names italic. "Nch", "Prom" and "Som" in the caption key are italic and carry no stops there, against the stops on the drawings. The dash in "Eudoxid phase – not identified." is an en rule. No printed square brackets occur on this page.]

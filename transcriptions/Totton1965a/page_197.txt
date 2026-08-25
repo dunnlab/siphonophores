@@ -1,0 +1,34 @@
+[PAGE 192]
+
+192	[RUNNING HEAD] A SYNOPSIS OF THE SIPHONOPHORA
+
+Eudoxid phase
+
+(Text-fig. 130.)   The length overall is about 3·2 mm.
+
+Bract:   1·25 mm long, with a rounded conical tip. Headpiece small. In optical section the headpiece and the neck-shield resemble those of D. bojani. The sutural surface is in a groove, its edges tending to overlap one another.
+
+Gonophore:   2·5 mm long. Two dorso-lateral and two ventro-lateral canals. Two slight rounded ridges overlie the dorsal pair. There are two closely opposed hydroecial folds, one deeper than the other. Neither mouth-plate nor teeth present. Proximal end rounded and not articulating with the bract. From 14–16 eggs. The tip of the gonophore is deeply pigmented.
+
+Family 13: CLAUSOPHYIDAE Fam.n.
+
+Clausophyinae Bigelow, 1913
+Heteropyramidinae Moser, 1925
+Chuniphyinae Moser, 1925; Totton, 1954
+Thalassophyinae Moser, 1925
+Crystallophyinae Moser, 1925
+
+There are only about half-a-dozen midwater species altogether in these five sub-families.
+
+Moser's classification and theorizing appear to me to be very unsound. Her Heteropyramidinae and Thalassophyinae, each based on a single species which will probably prove to be one and the same, she placed – the former in queer company – in distant parts of her systematic arrangement. She still retained the old idea of classification according to the number and relative position of nectophores, using the categories Monophyidae, Diphyidae – Tribus Superpositae, Tribus Intermediae and Tribus Oppositae – and Polyphyidae. I am setting up the family Clausophyidae for her Diphyidae Tribus Intermediae and her Heteropyramidinae, all of which seem to be more closely related to one another than to the Diphyidae. One distinguishing morphological character of the Clausophyidae is the possession of a somatocyst by the posterior nectophore, as well as by the anterior one. Another is that, in species whose eudoxid phase is known, there are two longitudinal horns or branches of the phyllocyst lying in the neck-shield of the bract.
+
+Genus: CLAUSOPHYES Lens & van Riemsdijk, 1908
+
+At one time it was thought (see Chun, 1897b) that Clausophyes formed a link connecting the two families Prayidae and Diphyidae, but Bigelow (1913, p. 71) pointed out that Clausophyes was really an offshoot of the Diphyidae. He reached this conclusion chiefly because the anterior and posterior nectophores of C. galeata were unlike, and also because, the somatocyst of the posterior nectophore was structurally like that of the anterior one in being a special organ deeply embedded in the gelatinous substance, whereas in the Prayids he maintained that it was merely a slightly thickened extension of the canal system. I fear that the second reason may not be valid, but it seems reasonable to maintain a special sub-family for those diphyids with a somatocyst in the posterior nectophore. It seems to be probable that the anterior nectophore of the Clausophyidae is the larval one retained, so that it is understandable that the first definitive heteromorph one the posterior nectophore develops a somatocyst, though those of abylids do not. The Clausophyidae seem to be more primitive than the abylids.
+
+Only two species of Clausophyes have been described. They appear to be distinguished chiefly by the character of the distal margin of the posterior nectophores and of the size of the basal end of the right-hand hydroecial fold. For evidence of the existance of a third see Totton (1954, p. 133). The present state of their specific diagnoses is unsatisfactory.
+
+[NOTE: in the first sentence of the "Genus: CLAUSOPHYES" paragraph the genus name is set
+"Clausophyes" with the first six letters in italic and "phyes" in roman — "Clausophyes"
+— apparently a wrong-fount sort; it is given as an ordinary word here. "existance" in the
+last paragraph is as printed.]

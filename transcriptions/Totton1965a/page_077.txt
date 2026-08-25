@@ -1,0 +1,38 @@
+[PAGE 72]
+[RUNNING HEAD] 72	A SYNOPSIS OF THE SIPHONOPHORA
+
+[FIGURE]
+B
+A
+R.ap.-lat.
+C.radlat
+R.vert.lat.
+Nem.p.ect
+C
+C.rad.lat
+0	[illegible] mm
+
+FIG. 37.   Nanomia cara (A. Agassiz)
+Nectophores from an Irish specimen. A, B, C, upper, abaxial and lateral views, × 12
+C.rad.lat = lateral radial canal; Nem.p.ect = ectodermal patch of nematocysts; R.ap.lat = apico-lateral ridge; R.vert.lat = lateral vertical ridge (from Totton, 1954, fig. 19).
+[/FIGURE]
+
+Nanomia cara A. Agassiz, 1865
+Plate XIV, figures 1–6
+
+Agalmopsis elegans Sars, 1846 (partim: non form B = Agalma elegans)
+Stephanomia cara Metschnikoff, 1874; Bigelow, 1911b
+Halistemma elegans Claus, 1878
+Nanomia cara Fewkes, 1880a; Totton, 1954
+Cupulita sarsii Haeckel, 1888b; Browne, 1900
+Cupulita cara Haeckel, 1888b; Romer, 1901; Vanhoeffen, 1906
+
+This little known unicornuate species was beautifully figured by its discoverer G. O. Sars in 1846 as Agalmopsis elegans, which name has since been restricted to a species, part of the tricornuate tentacle of which was included by Sars as 'form B' (see Pl. XIV, figs. 7, 8)
+
+The species can be distinguished from N. bijuga by its nectophores (text-fig. 37) but to what extent the two species differ in other respects has not been determined.
+
+Sars's specimen measured 51·5 cm in length, for 10·6 cm of which the nectosome accounts. The nectophores are flattened somewhat in the horizontal plane, whilst those of N. bijuga are compressed in the vertical one. The largest of Sars's specimens had fourteen or fifteen pairs of nectophores.
+
+An analysis of the animal's locomotion, together with some good figures was published by G. O. Mackie in January 1964.
+
+[NOTE: printed folio 72 at the outer (left) edge of the running head; PDF index 77, offset −5 holds. Text-fig. 37 occupies the upper half of the page: three drawings, A at the upper left, B at the upper right, C below B at the right, with its caption centred beneath. The items listed inside [FIGURE] are exactly the hand-lettered text printed within the drawings, in reading order (B and the panel letter A at the top, then the leader labels round drawing C, then the scale bar), and nothing else; the illustrations are not described. Two of the hand lettered labels need comment. (i) The upper of the two radial-canal labels on drawing C reads "C.radlat" as printed: at 14× magnification no point is discernible between "rad" and "lat", whereas the second, lower-right label on the same drawing is unmistakably "C.rad.lat" with a clear point, as is the type-set key in the caption. The upper label is transcribed as it appears rather than normalised to match. (ii) The scale bar below drawing C is lettered "0" at its left end and "mm" at its right end, with a character immediately before "mm" that has printed as broken fragments only and cannot be read; it is recorded as [illegible]. The bar carries two intermediate tick marks. A single tab separates the two ends of the scale label above. In the caption key the abbreviations are set in italic and the "=" signs are printed as a double-stroke equals glyph; note that the caption gives "R.ap.lat" and "R.vert.lat" while the drawing letters them "R.ap.-lat." and "R.vert.lat.", with a hyphen and terminal points respectively — both forms are transcribed as they occur. The first body paragraph ends "figs. 7, 8)" with no full stop after the closing parenthesis; printed thus. Decimal points in the measurements are raised middots (51·5, 10·6). No printed square brackets occur on this page; the parenthesis "(partim: non form B = Agalma elegans)" in the synonymy uses round brackets.]

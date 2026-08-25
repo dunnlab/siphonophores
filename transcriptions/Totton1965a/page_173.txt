@@ -1,0 +1,54 @@
+[PAGE 168]
+
+168	[RUNNING HEAD] A SYNOPSIS OF THE SIPHONOPHORA
+
+[NOTE: page layout — full-measure text at the head, then a middle band in which text-figure
+103 with its caption occupies a narrow left column and the Lensia subtilis text occupies the
+right column, then full-measure text again at the foot. Per protocol the middle band is given
+left column first (the figure), then right column. Two lines of the head block also set two
+items side by side across the measure; these are given with tab separators.]
+
+Lensia tottoni Daniel, A. & Daniel, R., 1963
+Text-figure 103
+
+Polygastric phase
+
+Anterior nectophore (text-fig. 103):   Closely resembling that of L. hotspur, but with the following differences: The lateral ridges do not meet the ostium. The baso-ventral ridges are not quite so oblique as in L. hotspur, but almost at right angles to the ventrals. Only five specimens were recorded, but in all of them the base of the somatocyst lay well below the baso-ventral ridges, so that there was no hydroecium.	Posterior nectophore:   Not known.	Eudoxid phase – not identified.
+
+I feel some doubt about the validity of this species, but the authors have not sent me specimens to check.
+
+[FIGURE]
+0	1mm
+
+FIG. 103.   Lensia tottoni Daniel & Daniel.
+Polygastric phase, Bay of Bengal
+Lateral view of the anterior nectophore, × 2
+(after Daniel & Daniel, 1963).
+[/FIGURE]
+
+Lensia subtilis (Chun, 1886)
+Text-figure 104, 105
+
+Monophyes irregularis Chun, 1885
+Monophyes gracilis Chun, 1885
+Diphyes subtilis Chun, 1886
+
+A very abundant species at Villefranche, characterized when alive at all stages and in both phases by its yellow pigment.
+
+Polygastric phase
+
+Anterior nectophore (see Chun, 1885, Taf. II, fig. 3; Moser, 1925, Taf. IV, figs. 5–8; and text-fig. 104): Length up to 11 mm. Four longitudinal folds(inwards) divide the external surface when contracted into a dorsal, a pair of lateral and a ventro-longitudinal fold (uncrested ridges). The divided mouth-plate is small, each half being rounded distally. The basal, articular facet is oblique to the long axis, and is rounded off ventrally into the ventral facet. The best field-mark is the globular, long-stalked somatocyst. The stalk, in Mediterranean specimens, measures only 0·025 mm in diameter. The nectophore-bud often found at the base of the stem is probably the bud of an anterior nectophore replacement. It can grow from bud to active nectophore in 12 hours.
+
+Posterior nectophore (see Chun, 1885, Taf. II, fig. 5, as Monophyes gracilis):   About same length as anterior one, truncate proximally and five-ridged. The hydroecial cavity shallows out distally, where there is an inconspicuous, rounded mouth-plate. The lateral radial canals are sigmoid and not looped.
+
+Eudoxid phase
+
+Bract (text-fig. 105C–E): Length little more than 1 mm, rounded, with shallow basal cavity. Phyllocyst short, club-shaped.
+
+Gonophore (text-fig. 105A, B):   About 2·25 mm long. Hydroecial folds in proximal part only. Tip of manubrium yellow in colour (a useful field mark when making breeding experiments with diphyids in this region). The female gonophore bears twenty or thirty eggs. The gonophores become detached and swim freely.
+
+[NOTE: in "Four longitudinal folds(inwards)" there is no space between "folds" and the
+opening parenthesis, and the final "s" of "folds" is set heavier than the surrounding type
+and touches the parenthesis; it is nonetheless clearly an "s". In "rounded off ventrally
+into the ventral facet" the word "the" carries a short stray ink stroke across the ascender
+of the "h", as it does elsewhere in this signature; the word is clearly "the".]

@@ -1,0 +1,39 @@
+[PAGE 154]
+
+154	[RUNNING HEAD] A SYNOPSIS OF THE SIPHONOPHORA
+
+two parts [nectophores] of the animal. There is also another lower cavity [nectosac] in the near half [anterior nectophore] of which the aperture, notched [toothed] at the point of junction of the two parts, forms a peg [dorsal tooth] at their union.' Bory's figures make the identity of his animal quite certain.
+
+Polygastric phase
+
+Anterior nectophore (text-fig. 8):   Up to 35 mm length (see Lens & van Riemsdijk, 1908, Pl. VIII, fig. 63; also Bigelow, 1919, p. 341). Laterally compressed with five longitudinal ridges, the dorsal ones serrated, with a prominent reflexed dorsal tooth, larger than the laterals; ventral contour more convex than the dorsal one. The aperture of the hydroecial cavity is large and quadrilateral, occupying more than two-thirds of the basal width. The lateral edges are cut off very obliquely from the ventral side down to the mouth-plate, which according to Huxley is formed by two very broad quadrate overlapping wings (septal plates'). Huxley gives the following proportions for an inch long nectophore: Length 1, depth 11/24, thickness 1/4.
+
+The hydroecium extends for about half the length of the nectophore. The somatocyst is narrow and sub-cylindrical and does not extend so far as the upper caecal extremity of the nectosac. The nectosac is wide and sub-cylindrical for most of its length, but towards the apex the lumen is suddenly occluded, leaving the narrow apical loop of the dorsal radial canal.
+
+The peduncular (nectocalycine) canal descends vertically from the base of the somatocyst to a point near the circular canal so that the ventral radial canal is very short (see Huxley, 1859, Pl. V, fig. 3). Dorsal side of mouth-plate not denticulate but smooth.
+
+[FIGURE]
+1 MM
+
+FIG. 91.   Diphyes dispar (Chamisso & Eysenhardt)
+Eudoxid phase, Gt. Barrier Reef. Lateral view, × 13
+(from Totton, 1932, fig. 21).
+[/FIGURE]
+
+[FIGURE]
+1 MM
+
+FIG. 92.   Diphyes bojani
+(Eschscholtz)
+Eudoxid phase, Gt. Barrier Reef. Lateral view, × 16 (from Totton, 1932, fig. 22).
+[/FIGURE]
+
+[NOTE: printed square brackets are the author's own on this page and are not transcriber markers. Five occur, all in the first paragraph, which continues the glossed translation of Bory begun on page 153: "[nectophores]" after "two parts", "[nectosac]" after "another lower cavity", "[anterior nectophore]" opening the second line, "[toothed]" after "notched", and "[dorsal tooth]" after "forms a peg". The closing single quotation mark after "union." ends the quotation opened on page 153.]
+
+[NOTE: the lower half of the page carries two text-figures side by side, each with its own caption set to the width of its own half: text-fig. 91 in the left half and text-fig. 92 in the right half. Following the protocol for column layout, the whole of the left figure and its caption is given first, then the whole of the right one. Text-fig. 92's caption begins higher on the page than text-fig. 91's. Each figure has a single vertical scale bar lettered "1 MM" at its top, the numeral a plain vertical stroke set very close to the small-capital "MM"; fig. 91's bar stands at the upper left of its drawing, fig. 92's at the lower left of its drawing. Line breaks within the captions are preserved as printed.]
+
+[NOTE: "depth 11/24, thickness 1/4" — both are printed as stacked fractions with a horizontal rule. The "thickness" one is a single 1-over-4 sort. The "depth" one is set from two adjacent fraction sorts whose rules abut, giving numerator "11" over denominator "24"; at 24x a hairline break is visible between the two rules, so the setting could also be described as a "1/2" sort immediately followed by a "1/4" sort. I transcribe the printed appearance, numerator 11 over denominator 24, as "11/24", and flag the ambiguity rather than resolve it. "Length 1" is a bare old-style 1.]
+
+[NOTE: numerals verified digit by digit: text-fig. 8; 35 mm; Lens & van Riemsdijk, 1908, Pl. VIII, fig. 63; Bigelow, 1919, p. 341; Huxley, 1859, Pl. V, fig. 3; FIG. 91, × 13, Totton, 1932, fig. 21; FIG. 92, × 16, Totton, 1932, fig. 22. "text-fig. 8" is a single digit 8, checked at 5x, and is not 88 or 89. The multiplication signs are saltire crosses.]
+
+[NOTE: "(septal plates')" carries a closing single quotation mark after "plates" with no opening one — as printed. "see" is italic in both "(see Lens & van Riemsdijk" and "(see Huxley". "FIG. 91." and "FIG. 92." are small capitals with a full point after the number; the species names in both captions are italic and the authorities roman in parentheses.]

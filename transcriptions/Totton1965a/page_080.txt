@@ -1,0 +1,21 @@
+[PAGE 75]
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 4 AGALMIDAE	75
+
+[FIGURE]
+s.m.f
+c.horn
+5mm
+
+FIG. 38.   Erenna richardi Bedot
+Reconstruction of a nectophore from 'Discovery' St. 2061, S. Tropical Atlantic, × 3·5.
+s.m.f = muscle free strip; c.horn = horn canal
+[/FIGURE]
+
+[FIGURE]
+5mm
+
+FIG. 39.   Erenna richardi Bedot
+Upper view of a nectophore, 'Discovery' St. 4255.
+[/FIGURE]
+
+[NOTE: printed folio 75 at the outer (right) edge of the running head; PDF index 80, offset −5 holds. This page carries no body text at all — only the two text-figures and their captions. The items listed inside each [FIGURE] block are exactly the text printed within the drawings and nothing else; the illustrations are not described. Text-fig. 38 (upper half of the page) carries only two hand-lettered leader labels, "s.m.f" and "c.horn", and a horizontal scale bar at the lower left lettered "5mm" above the bar. Text-fig. 39 (lower half) carries no lettering except a horizontal scale bar at its lower left lettered "5mm" below the bar; it has no panel letters and no leader labels. In fig. 38's caption the magnification is printed "× 3·5." with a raised middot as the decimal point followed by a sentence-closing full stop — verified at 18× magnification that the two dots differ in height. The "=" signs in the caption key are printed as a double-stroke equals glyph, and the abbreviations "s.m.f" and "c.horn" are set in italic there. Station numbers verified digit by digit: St. 2061 and St. 4255. No printed square brackets occur on this page.]

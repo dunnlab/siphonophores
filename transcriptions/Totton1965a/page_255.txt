@@ -1,0 +1,39 @@
+[PAGE 255: unnumbered]
+
+[RUNNING HEAD] A SYNOPSIS OF THE SIPHONOPHORA
+
+PLATE XI
+
+Agalma elegans (Sars)
+
+Figures 1, 2.	Post-larvae, preserved, from Villefranche
+
+FIG. 1.	To show the nectostyle (centre left), upward growth of the nectosome and the larval-type tentilla of the protozooid.
+
+FIG. 2.	To show the nectostyle, commencement of the upward growth of the nectosome and the larval-type tentilla of the protozooid.
+
+Agalma okeni Esch.
+
+From Chun, 1897, figure 18
+
+FIG. 3.	Whole animal, × 1½ approx.
+
+br = bract; f = palpacles; go = gonophores; nect = nectophores; p = gastrozooids; pa = palpons; pn = pneumatophore; t = tentacles; t.pr = tentacle of protozooid; tr = stem (of nectosome).
+
+[NOTE: caption leaf for PLATE XI; the facing leaf (PDF page 256) is the plate itself. Unfoliated — no printed folio, no signature mark. The caption block sits low on the leaf, occupying roughly the band from a third of the way down to a little past the middle; the whole upper third and the whole lower two-fifths are blank apart from scan speckle.]
+
+[NOTE: the caption covers TWO species on one plate, each with its own centred heading: "Agalma elegans (Sars)" (in italic, with "(Sars)" in roman) with the sub-heading "Figures 1, 2.   Post-larvae, preserved, from Villefranche" and figures 1 and 2; then "Agalma okeni Esch." (italic species name, roman "Esch.") with its own source line "From Chun, 1897, figure 18" and figure 3. Unlike the second heading on PDF page 253, this one has a separate source line and no parenthesised date.]
+
+[NOTE: "PLATE XI" stands alone on its own centred line in spaced full capitals. The sub-heading prints "Figures" in full, in roman upper and lower case, not as "FIGS."; the individual caption lines print "FIG." with a full-size F and small-capital "IG.", transcribed in full capitals. The tabs above stand for the printed spaces.]
+
+[NOTE: the FIG. 1 and FIG. 2 entries are not tabular but full-measure prose, each running to two printed lines with the second line set flush left (hanging indent); they are joined into one line each above, with the hyphens of "larval-type" retained because they are printed hyphens within the word, not line-break hyphens. FIG. 2's second printed line does begin after a genuine end-of-line hyphen in "larval-/type", which has been closed up to "larval-type" — the hyphen is kept because "larval-type" is hyphenated in FIG. 1 within a single line.]
+
+[NOTE: the magnification in FIG. 3 is printed as a one-piece vulgar fraction with the whole number alongside, "× 1½ approx."; it is transcribed with the Unicode fraction character ½. The multiplication sign is a printed multiplication sign, not the letter x.]
+
+[NOTE: the closing paragraph is the key to the plate's lettering, set full measure across two printed lines and joined into one line above. Each abbreviation is italic and followed by a printed "=" sign, several of which are printed slightly high or broken in this scan. It contains 10 entries, and no letter is defined twice. One entry carries an internal full point, "t.pr"; it is printed. Note that "p" here means gastrozooids, whereas on PLATE X (PDF pages 253-254) "p" meant palpon and "s" the gastrozooid — this plate was keyed independently.]
+
+[NOTE: the numerals in "Figures 1, 2", "1897", "figure 18", "FIG. 1", "FIG. 2", "FIG. 3" and "1½" are printed in old-style (text) figures throughout, so that 1 has no upper serif and 8 is small; transcribed as ordinary digits.]
+
+[NOTE: no printed square brackets occur on this leaf, and no editorial query mark of any kind appears here. The parentheses in "(Sars)", "(centre left)" and "(of nectosome)" are round brackets, not square. The only square brackets above are transcriber markers.]
+
+[NOTE: faint grey scan speckle covers the blank areas of the leaf throughout.]

@@ -1,0 +1,60 @@
+[PAGE 131]
+
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 10 PRAYIDAE	131
+
+[FIGURE]
+B
+6
+5
+4
+3
+1
+2
+
+A
+5
+6
+4
+1
+3
+2
+
+C
+6
+5
+1
+3
+4
+2
+
+D
+5
+4
+2
+3
+
+FIG. 73. Stephanophyes superba Chun. Eudoxid phase, × 50
+Growth stages of bracts of eudoxids to show the identities of the bracteal canals and the homologies with those of other prayid bracts shown in text-figure 74. The numbers are those of Chun's terminology (see table V, p. 123). A, young bract from stem-group immediately proximal to B, × 60; B, stem-group from proximal part of a young specimen, × 60; C, preserved bract, × 4; D, stem-group, slightly magnified.
+[/FIGURE]
+
+The pattern of branching of the somatocyst, common to N. thetis and N. diomedeae, and indeed to all prayids, though some branches are lost (text-fig. 74) here and there, is as follows: Near the centre or apex of the hydroecial cavity are given off right and left dorsal (or lateral) branch-canals, each of which in turn sends a branchlet called the right and left hydroecial canals (C.h.r, C.h.l) to the flank of the hydroecium. In N. thetis these hydroecial canals are simple and symmetrical, but not in N. diomedeae, where they are strangely twisted. In addition median branches are developed in N. diomedeae – Bigelow's C.pa1 and C.pa2 (see Bigelow, 1911b, Pl. 1, fig. 1). These do not appear in the nectophore of N. thetis.
+
+The four radial canals of the nectosac in species of Nectophyramis arise separately, but this phenomenon does occur in other prayines. There is a tendency towards reduction of the nectosac and stem, especially in N. spinosa. This is accompanied by an increase in the relative amount of mesogloea, indicating that specimens float passively.
+
+Eudoxid phase
+
+This is dealt with in detail in the specific descriptions (pp. 134–138).
+
+Nectopyramis diomedeae Bigelow, 1911
+
+Plate XXIII, figure 5; Text-figure 75
+
+The shape of the hydroecium and its slit-like ostium in the polygastric phase of this species resembles that found not only in larval prayines and amphicaryonines but also in hippopodiids. The tentilla, too, are of peculiar structure, resembling the larval type found in Physonectae. All this suggests that the species is neotenic. However, it has developed the most complex pattern of somatocyst-branching found in any prayid.
+
+Only sixteen polygastric specimens have ever been recorded. No two of them look quite alike probably due to various degrees of shrinkage of the mesogloea. It is estimated that they live at a depth of from 650 m to 1600 m or so.
+
+[NOTE: the labels inside [FIGURE] are lettered on the four drawings (B upper left, A upper centre, C upper right, D lower centre) and are listed in reading order within each drawing. They are numerals only, apart from the drawing letters. No other text is printed on the illustration.]
+
+[NOTE: "species of Nectophyramis" is printed thus in the second paragraph of text (elsewhere "Nectopyramis"); transcribed as printed.]
+
+[NOTE: the numerals of "C.pa1" and "C.pa2" in the first paragraph of text are printed as superscripts. No printed square brackets occur on this page.]

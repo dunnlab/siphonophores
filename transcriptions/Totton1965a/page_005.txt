@@ -1,0 +1,48 @@
+[PAGE vii]
+
+CONTENTS
+
+[TABLE]
+	Page
+PREFACE	v
+INTRODUCTION	1
+HISTORICAL REVIEW OF THE CHIEF WORKS ON THE ORDER
+General	3
+Huxley	3
+Haeckel	6
+Lens & van Riemsdijk	13
+Bigelow	14
+Moser	15
+Garstang	15
+Leloup	16
+GROSS MORPHOLOGY	20
+REPRODUCTION	29
+PHYLOGENY	30
+PARASITES	33
+TERMINOLOGY	33
+CLASSIFICATION	36
+SYSTEMATIC SECTION: Description of families, genera and species	39
+Sub-order I	CYSTONECTAE	39
+Family 1	Physaliidae	39
+,, 2	Rhizophysidae	40
+Sub-order II	PHYSONECTAE	44
+Family 3	Apolemiidae	45
+,, 4	Agalmidae	51
+,, 5	Pyrostephidae	76
+,, 6	Physophoridae	83
+,, 7	Athorybiidae	86
+,, 8	Rhodaliidae	91
+,, 9	Forskaliidae	96
+Sub-order III	CALYCOPHORAE	110
+Family 10	Prayidae	110
+,, 11	Hippopodiidae	138
+,, 12	Diphyidae	142
+,, 13	Clausophyidae	192
+,, 14	Sphaeronectidae	201
+,, 15	Abylidae	204
+REFERENCES	222
+INDEX OF GENERA AND SPECIES	229
+PLATES	following p. 230
+[/TABLE]
+
+vii

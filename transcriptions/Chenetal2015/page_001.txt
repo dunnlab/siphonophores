@@ -1,0 +1,35 @@
+[PAGE 1: unnumbered]
+[NOTE: the journal's typesetting inserts visible spaces inside numbers and abbreviations (e.g. "61. 6%", "10. 5846", "http: //www. ecologica. cn") and around Latin/digit runs embedded in Chinese. These spaces are transcribed as printed rather than normalised. Han characters are given in the simplified forms printed.]
+
+[RUNNING HEAD] 第 35 卷第 10 期	生 态 学 报	Vol. 35，No. 10
+[RUNNING HEAD] 2015 年 5 月	ACTA ECOLOGICA SINICA	May，2015
+
+DOI: 10. 5846/stxb201307011812
+
+陈颖涵，林元烧，郑连明，曹文清. 北部湾北部水母类群集结构与数量分布. 生态学报，2015，35( 10) : 3382-3393.
+Chen Y H，Lin Y S，Zheng L M，Cao W Q. The assemblage and abundance distribution of jellyfish in northern Beibu Gulf. Acta Ecologica Sinica，2015，35( 10) : 3382-3393.
+
+北部湾北部水母类群集结构与数量分布
+
+陈颖涵，林元烧*，郑连明，曹文清
+厦门大学海洋与地球学院，厦门　361005
+
+摘要: 根据“908”专项北部湾 2006—2007 年四个季节的调查数据，分析了北部湾北部( 20°N 以北海域) 水母类的种类组成、数量分布、优势种和群集结构特征及其环境影响因子。该区共记录水母类 4 类 125 种，分别为水螅水母类 99 种、管水母类 17 种、钵水母类 4 种和栉水母 5 种; 以沿岸暖水种为主，占本区水母总种数的 61. 6%，其次是大洋暖水种，占 37. 6%，沿岸暖温种仅占 0. 8%。种数季节变化呈单峰型，夏季 83 种，冬季 56 种，秋季和春季各 49 种，四季均以水螅水母类为主。周年丰度变化呈单峰型，夏季( 943. 0 个/m³) > 春季( 572. 4 个/m³) > 冬季( 548. 2 个/m³) > 秋季( 427. 6 个/m³)。拟细浅室水母、双生水母、球型侧腕水母、四叶小舌水母、半口壮丽水母、两手筐水母、异摇篮水母、双小水母、单囊美螅水母、疣真囊水母、半球美螅水母、六幅和平水母、八囊摇篮水母、刺胞真囊水母、黑球真唇水母、端粗范式水母和细颈和平水母共 17 种全年出现，为四季种; 其中，前 7 种为四季优势种，优势度( Y) 分别为 0. 25、0. 19、0. 09、0. 08、0. 05、0. 03 和 0. 03，各季节的优势种演替模式不尽相同。依据水母种类和数量分布情况，北部湾北部水母类可划分 2 个群集: 栖息在受沿岸流影响的 20 m 以浅的低盐群集，代表种有拟细浅室水母和双生水母等; 栖息在受外海水影响的 20 m 以深的高盐群集，代表种有四叶小舌水母、半口壮丽水母和两手筐水母等。海流与水团的消长是影响水母类群集结构和水平分布格局的重要影响因素。
+
+关键词: 水母类; 种类组成; 数量分布; 群集结构; 北部湾北部
+
+The assemblage and abundance distribution of jellyfish in northern Beibu Gulf
+
+CHEN Yinghan，LIN Yuanshao*，ZHENG Lianming，CAO Wenqing
+College of Ocean and Earth Science，Xiamen University，Xiamen 361005，China
+
+Abstract: The assemblage structure and abundance distribution of jellyfish were studied based on the samples of Beibu Gulf during 4 seasons in 2006—2007. The environmental factors that probably affected the number of species，abundance and assemblage structure were analyzed. The study showed that a total of 125 jellyfish species were identified，which belongs to 4 assembleges，they were Hydromedusae，Siphonophora，Scyphomedusae and Ctenophore. Hydromedusae was the dominant assemblege，accounted for 79. 2% of the total species. The species number of jellyfish varied seasonally，there was 83 in summer，which was the highest among 4 seasons，followed by winter，autumn and spring，the species number were 56，49 and 49. The 20 meters deep of water could be considered as the boundary according to the horizontal distribution of jellyfish species，the species number of the above was more than the under. There were three ecological groups of the jellyfish，the neritic warm-water group such as Lensia subtiloides，Diphyes chamissonis and Pleurobrachia globosa was the dominant group，accounted for 61. 6% of total species，followed by the high-temperature oceanic group，occupied 37. 6%，Liriope tetraphylla，Aglaura hemistoma and Solmundella bitentaculata were belonged to this group，and there was only one neritic low-temperature specie identified，that was Ocyropsis crystallina. The abundance of jellyfish varied seasonally，was highest
+
+[FOOTNOTE] 基金项目: 我国近海海洋综合调查与评价专项 ( 908-01-ST09)；海洋公益项目“东南沿海半封闭海湾生态系统对人类活动干扰的响应评价、生态重构技术及示范”( 201005012)；国家自然科学基金( 41006078)
+[FOOTNOTE] 收稿日期: 2013-07-01;　　网络出版日期: 2014-05-30
+[FOOTNOTE] * 通讯作者 Corresponding author. E-mail: yslin@ xmu. edu. cn
+
+http: //www. ecologica. cn
+
+[NOTE: grey CNKI watermark line at the very foot of the page; the leading character is rendered as a question mark in place of a copyright sign]
+?1994-2018 China Academic Journal Electronic Publishing House. All rights reserved.    http://www.cnki.net

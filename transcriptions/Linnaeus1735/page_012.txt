@@ -1,0 +1,301 @@
+[PAGE 12: unnumbered]
+[NOTE: this is the large single-sheet "Regnum Animale" table of the Systema Naturae. The PDF splits the broadsheet across two pages; this page is the LEFT portion. The engraved display title is itself split at the break: only "CAROLI LINNÆI" falls on this page.]
+[NOTE: three class tables stand side by side across the sheet (I. QUADRUPEDIA, II. AVES, III. AMPHIBIA). They are transcribed here one after the other, full left column first, per protocol; they are read across the sheet in the original.]
+[NOTE: in each class table the ORDINES column is set rotated 90° (reading bottom-to-top, i.e. rotated counter-clockwise); it is transcribed below as read, in its row position.]
+[NOTE: the column headings "Ordines. Genera. Characteres Generum. Species." are printed at the FOOT of the QUADRUPEDIA table, not at its head; they are given below in the printed position.]
+[NOTE: within a cell that runs to several printed lines, the line breaks are kept and continuation lines begin with a tab so that column association is preserved. Columns are separated by single tabs.]
+[NOTE: table continues onto page 13.]
+
+CAROLI LINNÆI
+
+[TABLE]
+I. QUADRUPEDIA.
+Corpus hirſutum.	Pedes quatuor.	Feminæ viviparæ , lactiferæ.
+
+ANTHROPO-MORPHA.	Homo.	Noſce te ipſum.	H {	Europæus albeſc.
+Dentes primores 4. utrinque: vel nulli.			{	Americanus rubeſc.
+			{	Aſiaticus fuſcus.
+			{	Africanus nigr.
+	Simia.	ANTERIORES.	POSTERIORES.	Simia cauda carens.
+		Digiti	5. . . . . . 5.	Papio.	Satyrus.
+		Poſteriores anterioribus ſimiles.	Cercopithecus.
+			Cynocephalus.
+	Bradypus.	Digiti	3. vel 2. . . 3.	Ai.	Ignavus.
+			Tardigradus.
+
+FERÆ.	Urſus.	Digiti	5. . . . . . 5.	Scandens.	Urſus.
+Dentes primores 6. utrinque: intermedii longiores: omnes acuti.		Mammæ 4. ( Ald. )	Coati Mrg.
+Pedes multifidi, unguiculati.		Calcaneis inſiſtit. Pollex extus poſitus.	Wickhead Angl.
+	Leo.	Digiti	5. . . . . 4.	Scandens.	Leo.
+		Mammæ 2. ventrales.
+		Lingua aculeata.
+	Tigris.	Digiti	5. . . . . 4.	Scandens.	Tigris.
+		Mammæ 4 umbilicales.	Panthera.
+		Lingua aculeata.
+	Felis.	Digiti	5. . . . . 4.	Scandens.	Felis.
+		Mammæ 8. ſc. 4. pect. 4. abdom.	Catus.
+		Lingua aculeata.	Lynx.
+	Muſtela.	Digiti	5. . . . . 5.	Scandens.	Martes.
+		Dentes molares 4. utrinque.	Zibellina.
+			Viverra.
+			Muſtela.
+			Putorius.
+	Didelphis.	Digiti	5. . . . . 5.	Philander. Poſſum.
+		Mammæ 8. intra burſulam abdomin.
+	Lutra.	Digiti	5. . . . . 5.	Palmipes.	Lutra.
+	Odobænus.	Digiti	5. . . . . 5.	Palmipes.	Roſſ. Morjus.
+		Dentes intermedii ſuperiores longiſſ.
+	Phoca.	Digiti	5. . . . . 5.	Palmipes.	Canis marinus.
+		Mammæ duæ umbilicales.
+	Hyæna.	Digiti	4. . . . . . 4.	Hyæna Veter.
+		Collum ſuperne jubatum.	Vivam Londini nuper vidit & deſcripſit ARTED.
+		Cauda brevis.
+	Canis.	Digiti	5. . . . . 4.	Canis.
+		Mammæ 10. ſc. 4. pect. 6. abdom.	Lupus.
+			[?Squillachi.]
+			Vulpes.
+	Meles.	Digiti	5. . . . . 5.	Taxus.
+		Ungues medii digitis ipſis longiores.	Zibetha.
+		Corpus ſuperne albicat: inferne nigricat.
+	Talpa.	Digiti	5. . . . . 5. anteriores maximi.	Talpa.
+	Erinaceus.	Digiti	5. . . . . 5.	Echinus terreſtris.
+		Spinis vel lorica ſquamoſa munitus.	Armadillo.
+	Veſpertilio.	Digiti	5. . . . . 5.	Veſpertilio.
+		Pes anticus in alam expanſus.	Felis volans Seb.
+		Mammæ 2. pectorales.	Canis volans Seb.
+			Glis volans Seb.
+
+GLIRES	Hyſtrix.	Aures humanæ.	Corpus ſpinoſum.	Hyſtrix.
+Dentes primores 2. utrinque.
+Pedes multifidi.
+	Sciurus.	Digiti	4. . . . . 5.	Sciurus.
+		Cauda longiſſima lanigera.	. . . volans.
+	Caſtor.	Digiti	5. . . . . 5.	palmipes poſtice.	Fiber.
+		Cauda horizontalis , plana , nuda.
+	Mus.	Digiti	4. . . . . 5.	Rattus.
+		Cauda teres , ſquamoſa , hirſuta.	Mus domeſticus.
+			.  . brachiurus.
+			.  . macrourus.
+			Lemures.
+			Marmota.
+	Lepus.	Digiti	5. . . . . 4.	Lepus.
+		Cauda breviſſima , villoſa.	Cuniculus.
+	Sorex.	Digiti.	5. . . . . 5.	Sorex.
+		Dentes canini adſunt.
+
+JUMENTA.	Equus.	Mammæ 2. inguinales.	Equus.
+Dentes primores incerti, obtuſi.		Pedes integri.	Aſinus.
+canini exerti , validi.			Onager.
+			Zebra.
+	Hippopotamus.	Mammæ 2 inguinales ( Ariſt. )	Equus marinus.
+		Pedes quadrifidi.
+	Elephas.	Mammæ 2. pectorales.	Elephas.
+		Pedes 5. callis inſtructi.	? Rhinoceros.
+	Sus.	Mammæ 10. abdominales.	Sus.
+		Pedes biungulati : raro ſimplices.	Aper.
+			Porcus.
+			Barbyrouſſa.
+			Tajacu.
+
+PECORA.	Camelus.	Cornua nulla.	Dromedarius.
+Dentes primores inferiores tantum : Superiores nulli.			Bactrianus.
+Pedes ungulati.			Glama.
+			Pacos.
+	Cervus.	Cornua annua , primum piloſa,	Camelopardalis.
+		ſolida , ab apice creſcentia.	Caprea.
+		plurimis ramoſa : feminis rara.	Axis.
+			Cervus.
+			Platyceros.
+			Rheno. Rangifer.
+			Alces.
+	Capra.	Cornua ſurſum verſa.	Hircus.
+		erecta , ſcabra.	Ibex.
+			Rupicapra.
+			Strepſiceros.
+			Gazella.
+			Tragelaphus.
+	Ovis.	Cornua retrorſum flexa	Ovis vulgaris.
+		intorta , rugoſa.	.  . Arabica.
+			.  . Africana.
+			.  . Angolenſis.
+	Bos.	Cornua antrorſum verſa.	Bos.
+		lunulata , lævia.	Urus.
+			Biſon.
+			Bubalus.
+
+Ordines.	Genera.	Characteres Generum.	Species.
+[/TABLE]
+
+[TABLE]
+II. AVES.
+Corpus plumoſum.	Alæ duæ.	Pedes duo.	Roſtrum oſſeum.
+Feminæ oviparæ.
+
+ACCIPITRES.	Pſittacus.	Digiti pedis antici 2.	poſtici 2.	Pſittacus.
+Roſtrum uncinatum.
+	Strix.	Digiti pedis antici 3.	poſticus 1.	Bubo.	Otus.
+		quorum extimus retrorſum flexilis.	Noctua.	Ulula.
+	Falco.	Digiti pedis antici 3.	poſticus 1.	Aquila.	Vultur.
+			Buteo.	Falco.
+			Cyanopus.	Milvus.
+			Lanius.	Pygargus.
+			Niſus.	Tinnunculus.
+
+PICÆ.	Paradiſæa.	Pennæ 2. longiſſimæ , ſingulares ,	Manucodiata.
+Roſtrum ſuperne compreſſum, convexum.		nec alis , nec uropygio infixæ.	Avis Paradiſiaca.
+	Coracias.	Pes 4dact. Rectrices exteriores gradatim	Pica.
+		breviores.
+	Corvus.	Pes 4dact. Rectrices æquales.	Corvus.	Cornix.
+			Monedula.	Lupus.
+			Glandaria.	Caryocatactes.
+	Cuculus.	Digiti pedis antici 2.	poſtici 2.	Cuculus.
+		Roſtrum læve.	Torquilla ſ. Junx.
+	Picus.	Digiti pedis antici 2.	Picus niger.
+		Roſtrum angulatum.	. . . viridis.
+			. . . varius.
+	Certhia.	Pes 4dact. Roſtr. gracile incurvum.	Certhia.
+	Sitta.	Pes 4dact.  Roſtr. triangulare.	Picus cinereus.
+	Upupa.	Pes 4dact.  Caput plumis criſtatum.	Upupa.
+	Iſpida.	Pes 4dact. cujus digitus extimus medio	Iſpida.
+		adnectitur tribus articulis.	Merops.
+
+MACRORHYN-CHÆ.	Grus.	Caput criſtatum.	Grus.
+Roſtr. longiſſ. acut.
+	Ciconia.	Ungues plani , ſubrotundi.	Ciconia.
+	Ardea.	Unguis medius inferne ſerratus.	Ardea.
+
+ANSERES.	Platelea.	Roſtr. depreſſo-planum , apice ſubrot.	Platea.
+Os dentato-ſerratum.
+	Pelecanus.	Roſtr. depreſſum , apice unguiculato ,	Onocrotalus.
+		inferne burſa inſtructum.
+	Cygnus.	Roſtr. conico-convexum.	Olor.	Elder.
+			Anſer.	Anſ. Bernicla.
+	Anas.	Roſtr. conico-depreſſum.	Anas fera.	Glaucium.
+			Boſchas.	A. Domeſt.
+			Penelope.	Querquedula.
+	Mergus.	Roſtr. cylindriforme , apice adunco.	Mergus.
+			Merganſer.
+	Graculus.	Roſtr. conicum , apice adunco.	Carbo aquat.
+			Graculus aquat.
+	Colymbus.	Roſtr. ſubulatum. Pedes infra æquilibr.	Colymbus.	C. minim.
+			Podiceps.	Arctica.
+	Larus.	Roſtr. ſubulatum. Pedes in æquilibr.	Cataracta.	Larus.
+			Sterna.	Piſcator.
+
+SCOLOPACES.	Hæmatopus.	Pes 3dact.  Roſtri apex compreſſus.	Pica marina.
+Roſtrum cylindraceo-teretiuſculum.
+	Charadrius.	Pes 3dact.  Roſtri apex teres.	Pluvialis.
+			Hiaticula.
+	Vanellus.	Pes 4dact.  Roſtrum digitis brevius.	Capella.
+		Caput pennato criſtatum.
+	Tringa.	Pes 4dact.  Roſtrum digitis brevius.	Tringa.	Ocrophus.
+		Caput ſimplex.	Pugnax.	Gallinula.
+	Numenius.	Pes 4dact.  Roſtrum digitis longius.	Gallinago.	Limoſa.
+			Arquata.	Recurviroſtra.
+	Fulica.	Pes 4dact.  Digiti membranis aucti.	Gallinula aquatica.
+		Caput carnoſo-criſtatum.
+
+GALLINÆ.	Struthio.	Pes 2dact. abſque poſtico.	Struthio-camelus.
+Roſtrum conico-incurvum.
+	Caſuarius.	Pes 3dact. abſque poſtico.	Emeu.
+		Caput galea & palearibus ornatum.
+	Otis.	Pes 3dact. abſque poſtico.	Tarda.
+		Caput ſimplex.
+	Pavo.	Pes 4dact. Caput corolla pennac. orn.	Pavo.
+	Meleagris.	Pes 4dact.  Frons papilla.  Gula mem-	Gallopavo.
+		branâ unicâ longitudinali in-
+		ſtructa.
+	Gallina.	Pes 4dact. Frons membrana ſerrata.	Gallina.
+		Gula membr. duplici longitud. inſt.
+	Tetrao.	Pes 4dact. Supercilia papilloſa nuda.	Phaſianus.
+			Urogallus.	Tetrao.
+			Bonaſia.	Lagopus.
+			Perdix.	Coturnix.
+
+PASSERES.	Columba.	Roſtr. rectum , ad baſin furfuraceum.	Columba.	Turtur.
+Roſtrum conico-attenuatum.		Nares oblongæ , membranula ſuperne	Palumbus.	Oenas.
+		inſtructæ.
+	Turdus.	Roſtr. parum convexum.	Turdus.
+		Plumæ roſtri baſin tegunt.	Merula.
+	Sturnus.	Roſtr. rectum ſubteres.	Sturnus.
+		Lingua bifida cornea.
+	Alauda.	Unguis digiti poſtici digitis ipſis longior.	Alauda.
+	Motacilla.	Roſtr. gracile.  Fauces nigricant.	Motacilla.	Oenanthe.
+		Lingua apex bifidus laceratus.	Merula aquatica.
+	Luſcinia.	Roſtr. gracile rectum.	Luſcinia.	Ficedula.
+		Lingua apex bifidus laceratus.	Erithacus.	Troglodytes.
+			Carolina Rudb.
+	Parus.	Roſtr. gracile.	Parus.	P. caudatus.
+		Lingua apex truncatus , 4 ſetis in-	.  . criſtatus.
+		ſtructus.
+	Hirundo.	Roſtr. gracile , ad baſin depreſſum ,	Hirundo.
+		minimum : rictu ampliſſimo.	Caprimulgus.
+	Loxia.	Roſtr. craſſum , magnum , breve , cur-	Coccothrauſtes.
+		vum , undique convexum.	Loxia.	Pyrrhula.
+	Ampelis.	Roſtr. craſſum , rectum.	Garrulus Bohem.
+		Remigum apices nonnulli membra-
+		nacei.
+	Fringilla.	Roſtr. craſſum.	Fringilla.	Carduelis.
+		Maxilla utraque alteram ſinu quodam	Emberiza.	Spinus.
+		ad baſin recipit.	Paſſer.
+[/TABLE]
+
+[TABLE]
+III. AMPHIBIA.
+Corpus nudum, vel ſquamoſum.	Dentes molares
+nulli : reliqui ſemper.	Pinnæ nullæ.
+
+SERPENTIA.	Teſtudo.	Corpus quadrupedium , caudatum,	Teſtudo teſſulata.
+		teſta munitum.	. . . terreſtris.
+			. . . marina.
+			Lutaria.
+	Rana.	Corpus quadrupedium , cauda de-	Bufo.
+		ſtitutum , ſquamis carens.	Rana arborea.
+			.  . aquatica.
+			.  . Carolina.
+	Lacerta.	Corpus quadrupedium , caudatum,	Crocodilus.
+		ſquamoſum.	Allegator.
+			Cordylus.
+			Draco volans.
+			Scincus.
+			Salamandra aq.
+			.  . terreſtris.
+			Chamæleo.
+			Seps.
+			Senembi Mrg.
+	Anguis.	Corpus apodum , teres , ſquamo-	Vipera.
+		ſum.	Cæcilia.
+			Aſpis.
+			Caudiſona.
+			Cobras de Cabelo.
+			Anguis Æſculapii.
+			Cenchris.
+			Natrix.
+			Hydrus.
+[/TABLE]
+
+AMPHIBIORUM Claſſem ulterius continuare noluit benignitas Creatoris ; Ea enim ſi tot Generibus , quot reliquæ Animalium Claſſes comprehendunt , gauderet; vel ſi vera eſſent quæ de Draconibus , Baſiliſcis , ac ejuſmodi monſtris [illegible] τε[?symbol: 7-shaped Greek ligature]ραλόγοι fabulantur , certè humanum genus terram inhabitare vix poſſet.
+
+[NOTE: two glyphs stand at the end of the line after "monſtris" — the first like α or ο, the second hook-topped with a descender (ς or ζ) — which I cannot read with confidence; marked [illegible]. In the Greek word that follows, the third glyph is a "7"-shaped ligature I cannot resolve; the remaining glyphs read τε…ραλόγοι.]
+
+PARADOXA.
+
+HYDRA corpore anguino , pedibus duobus , collis ſeptem, & totidem capitibus, alarum expers, aſſervatur Hamburgi , ſimilitudinem referens Hydræ Apocalypticæ à S. JOANNE CAP. XII. & XIII. deſcriptæ. Eaque tanquam veri animalis ſpeciem plurimis præbuit, ſed falſo. Natura ſibi ſemper ſimilis plura capita in uno corpore nunquam produxit naturaliter. Fraudem & artificium , cum Ipſi vidimus , dentes Ferino-muſtelini , ab Amphibiorum dentibus diverſi , facillime detexerunt.
+
+RANA-PISCIS s. RANÆ IN PISCEM METAMORPHOSIS valdè paradoxa eſt , quum Natura mutationem Generis unius in aliam diverſæ Claſſis non admittat. Ranæ , ut Amphibia omnia , pulmonibus gaudent & oſſibus ſpinoſis. Piſces ſpinoſi , loco pulmonum , branchiis inſtruuntur. Ergo legi Naturæ contraria foret hæc mutatio. Si enim piſcis hic inſtructus eſt branchiis , erit diverſus à Rana & Amphibiis. Si verò pulmones , erit Lacerta : nam toto cælo à Chondropterygiis & Plagiuris differt.
+
+MONOCEROS Veterum , corpore equino , pedibus ferinis; cornu recto , longo , ſpiraliter intorto , Pictorum figmentum eſt. MONODON Artedi ejuſmodi cornu gerit , cæteris verò partibus multum differt.
+
+PELECANUS roſtro vulnus infligens femori ſuo , ut emanante ſanguine ſitim pullorum levet, fabuloſè ab Iiſdem traditur. Anſam fabulæ dedit ſaccus ſub gula pendulus.
+
+SATYRUS caudatus , hirſutus , barbatus , humanum referens corpus , geſticulationibus valde deditus , ſalaciſſimus, Simiæ ſpecies eſt , ſi unquam aliquis viſus fuit. Homines quoque Caudati , de quibus recentiores peregrinatores multa narrant , ejuſdem generis ſunt.
+
+BOROMETZ s. AGNUS SCYTHICUS plantis accenſetur , & agno adſimilatur ; cui caulis alterius plantæ è terra erumpens umbilicum intrat ; idemque ſanguine præditus à feris devorari temerè dicitur. Eſt autem artificioſe ex radicibus Filicinis Americanis compoſitus. Naturaliter autem eſt Embryo Ovis allegoricè deſcriptus , qui omnia data habet attributa.
+
+PHOENIX , Avis ſpecies, cujus unicum in mundo individuum , & quæ decrepita ex ferali buſto , quod ſibi ex aromatibus ſtruxerat, repueraſcere fabuloſè fertur , felicem ſubitura prioris vitæ periodum. Eſt verò PALMA DACTYLIFERA. vid. Kæmpf.
+
+BERNICLA s. ANSER SCOTICUS & CONCHA ANATIFERA è lignis putridis in mare abjectis naſci à Veteribus creditur. Sed fucum impoſuit Lepas interaneis ſuis penniformibus , & modo adhærendi , quaſi verus ille anſer Bernicla inde oriretur.
+
+DRACO corpore anguino, duobus pedibus , duabus alis, Veſpertilionis inſtar, eſt Lacerta alata , vel Raja per artem monſtroſe ficta , & ſiccata.
+
+AUTOMA MORTIS Horologii minimi ſonitum edens in parietibus , eſt Pediculus pulſatorius dictus, qui ligna perforat, eaque inhabitat.

@@ -1,0 +1,49 @@
+[PAGE 7]
+[RUNNING HEAD] HISTORICAL REVIEW OF THE CHIEF WORKS ON THE ORDER	7
+
+[TABLE]
+TABLE II
+Haeckel's classification	Modern equivalent
+Class Siphonophora	Order Siphonophora
+	Order Calyconectae	Sub-order Calycophorae
+		Sub-order Monogastricae	Eudoxid phase of species of
+	Families: Diphyidae pro parte
+	Abylidae p.p.
+	Prayidae p.p.
+	Sphaeronectidae p.p.
+
+		1st Family Eudoxidae
+			1st Sub-family Diplophysidae	Eudoxid phase of species of
+	Families: Diphyidae p.p.
+	Prayidae p.p.
+	Sphaeronectidae p.p.
+
+			2nd Sub-family Aglaismidae	Eudoxid phase of species of
+	Family: Abylidae p.p.
+
+		2nd Family Ersaeidae	Eudoxid phase of species of
+	Family: Diphyidae p.p.
+
+	Sub-order Polygastricae
+		3rd Family Monophyidae	Polygastric phase of species of
+	Families: Diphyidae p.p.
+	Abylidae p.p.
+	Prayidae p.p.
+	Sphaeronectidae p.p.
+
+		4th Family Diphyidae	Polygastric phase of species of
+	Families: Diphyidae p.p.
+	Abylidae p.p.
+	Prayidae p.p.
+
+		5th Family Desmophyidae	Polygastric phase of species of
+	Family: Prayidae p.p.
+
+		6th Family Polyphyidae	Family: Hippopodiidae
+[/TABLE]
+
+Let us first consider the Calycophorae = Calyconectae Haeckel (see Table II). Following Lesson (1843), whom he said could not distinguish the natural groups critically, Haeckel made two sub-orders, the Monogastricae, for some forms which we now call the eudoxids or monogastric phases, and the Polygastricae, for those we now call the polygastric phases of the same animals, although as long ago as 1853 two men, Gegenbaur and Leuckart, independently had discovered the connection between the two phases, and although Haeckel himself had listed them on page 102 of his report.
+
+If we now pass to the next systematic part of Haeckel's classification we find less difficulty in his treatment of the Physonectae, although he had the fixed idea that the pneumatophore represented the umbrella of a medusa – his Medusome Theory – and the reiteration of this hypothesis makes the descriptions difficult to follow unless it is disregarded.
+
+He erected a special order, Auronectae, for forms that are now regarded as members of the physonect family Rhodaliidae, and of the eight families of his Physonectae the first two must be regarded with great caution: Circalia stephanomia (Circaliidae) has not been seen again – it might conceivably be a young Rhodaliid – and Athoria larvalis (Athoriidae) appears to be of very doubtful authenticity because of the sub-umbrella cavities said to be present at the tips of the bracts. Haeckel made the same claim for the bracts of the 'Athorula' larva of Agalma elegans; this has been dealt with by Garstang (1946), the so-called subumbrella or nectosac being merely a pocket of nematocysts, as anyone can see who examines this common larva. Athoria larvalis has not been seen again, and

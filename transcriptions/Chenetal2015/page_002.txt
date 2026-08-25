@@ -1,0 +1,20 @@
+[PAGE 3383]
+[RUNNING HEAD] 10 期	陈颖涵　等: 北部湾北部水母类群集结构与数量分布	3383
+
+in summer，followed by spring，winter and autumn. The abundance in the northwest of the studied area was higher，and the northern of Weizhou Island was lower，basiclly less than 10. 0 ind/m³. There were 17 seasonal species which appeared the whole year，7 of them were dominant species，Lensia subtiloides，Diphyes chamissonis，Pleurobrachia globosa and Liriope tetraphylla were the most important. Lensia subtiloides got the largest abundance in summer，made contributions to 40. 4% of the sum. Diphyes chamissonis´ abundance was large in spring and winter，occounted for 36. 3% and 32. 6% of the sum in each season. The abundance of Liriope tetraphylla in autumn occupied 36. 7% of the sum，was far more than the other three seasons. Pleurobrachia globosa´ abundance in 4 seasons changed not much compared to the 3 mentioned species，was largest in summer，occupied 12. 2% of the sum. The assemblage of jellyfish in northern Beibu Gulf was analyzed based on the effect of 10 factors，they were deeper ( D, m) ，surface temperature ( Ts,℃) ，middle temperature ( Tm, ℃) ，bottom temperature ( Tb, ℃) ，surface salinity ( Ss) ，middle salinity ( Sm) ，bottom salinity ( Sb) ，surface chlorophll a ( Chas，mg/m³) ，middle chlorophll a ( Cham，mg/m³) and bottom chlorophll a ( Chab，mg/m³) . Though the results showed details difference in 4 seasons，it could be divided into two groups，the low-salinity group ( lower than 20 m) and high-salinity group ( deeper than 20 m) formed northern Beibu Gulf jellyfish assemblage structure. The low-salinity group was mainly affected by the coastal current from Guangxi to Vietnam，this group had two types depended on temperature，they were the neritic low-temperature type and the neritic warm-water type. The high-salinity group was mainly affected by the seawater. The environmental factors varied during four seasons. Currents and water masses were the main factors on jellyfish assemblage and abundance distribution.
+
+[NOTE: in the list of factors the letters s, m, b after T, S and Cha are printed as subscripts (T_s, T_m, T_b, S_s, S_m, S_b, Cha_s, Cha_m, Cha_b) and the italic variable letters D, T, S are italic; transcribed here as plain inline characters.]
+
+Key Words: jellyfish species; composition; abundance distribution; assemblage structure;northern Beibu Gulf
+
+水母类( jellyfish) 作为胶质类浮游动物( gelatinous zooplankton) 的一大类群，包括水螅水母类( Hydromedusae) 、管水母类( Siphonophora) 、立方水母( Cubomedusae) 、钵水母类( Scyphomedusae) 和栉水母类( Ctenophore) [1]，种类多，数量大，是海洋浮游动物的重要类群之一。近年来，水母的爆发已成为全球海洋关注的热点[2-5]，我国东海北部和黄海海区的水母爆发有加剧的趋势[6]。水母食性较广，几乎无选择地摄食一切可获得的浮游生物[7]，当其数量剧增时，会对生物群落产生显著影响[8-10]，改变海洋生物群落结构和生态系统的能量传递机制，从以硅藻→甲壳类浮游动物→鱼类转变为以甲藻→原生动物和微型浮游动物→水母为主的传递方式，引起了海洋生态体制的转换[11]，部分能量从原来的鱼类传递到水母类，影响了渔业产量和渔业资源的可持续利用，造成经济和生态损失。我国学者已对不同海域的水母类进行了种类组成、数量分布与群落结构[12-16]等许多相关研究。由于水母在某些半封闭海湾的生态作用尤为突出，是影响浮游动物种群数量和鱼类补充量的重要因子[17]，而北部湾是我国东南海域重要的半封闭海湾，其优良的环境和丰富的生物资源是环北部湾社会、经济、人口等发展的重要支撑，因此有必要对北部湾的水母类进行生态学研究。有关北部湾水母类的调查研究。许振祖[18]介绍了海南岛及邻近海域的水螅水母类的种类，包括花水母目、软水母目、硬水母目、筐水母目和管水母目共 52 种水母，记录了[19]北部湾花水母亚纲 6 新种; 郭东晖等[20]进行了夏、冬两季北部湾水母类的生态研究，共记录 4 类 187 种，种类数夏季高于冬季，主要优势种为拟细浅室水母和双生水母，杜飞雁等[21]报道了北部湾 67 种栉水母类的种类记录，并记录主辐特古水母( Tregoubovia perradialis sp. nov. ) 、泡真囊水母( Euphysora vacuola sp. nov. ) 和波腺侧丝水母( Helgicirrha sinuatus sp. nov. ) 3 新种。本文利用国家“908”专项的调查资料，对该海域水母类的种类组成、数量分布和群集结构特征进行分析，为进一步探讨北部湾生态系统结构与功能提供研究资料。
+
+[NOTE: the bracketed reference numbers above are printed as superscripts.]
+
+1　材料与方法
+
+本文材料系国家“908”专项北部湾综合调查专项( 908-01-ST09) 于 2006 年夏季( 7 月 15 日—8 月 7 日) 、冬季( 12 月 25 日—翌年 1 月 22 日) 、2007 年春季( 4 月 12 日—5 月 1 日) 和秋季( 10 月 14 日—11 月 15 日) 在
+
+http: //www. ecologica. cn
+
+?1994-2018 China Academic Journal Electronic Publishing House. All rights reserved.    http://www.cnki.net

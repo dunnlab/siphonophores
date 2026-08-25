@@ -1,0 +1,85 @@
+[PAGE 3389]
+
+[NOTE: born-digital journal page. The 冬季 row of Table 1 (begun on the previous
+page) runs across the head, with the table's column headings repeated above it;
+then Fig. 9, a 2 x 2 block of station maps; then full-measure body text to the foot.
+Punctuation convention as described on page 3.]
+
+[RUNNING HEAD] 10 期	陈颖涵　等: 北部湾北部水母类群集结构与数量分布	3389
+
+[TABLE]
+[NOTE: continuation of Table 1 from the previous page; the column headings are
+reprinted but the table number and caption are not.]
+
+群集 Assemblages	Ⅰ		Ⅱ		Ⅲ
+季节 Seasons	主要种 Main species	特有种 Unique species	主要种 Main species	特有种 Unique species	主要种 Main species	特有种 Unique species
+
+冬季 Winter	Clytia folleata		Diphyes chamissonis	Diphyes chamissonis
+			Aglaura hemistoma	Aglaura hemistoma
+			Lensia subtiloides	Lensia subtiloides
+			Pleurobrachia globosa	Pleurobrachia globosa
+			Nanomia bijuga	Nanomia bijuga
+			Euphysora verrucosa	Euphysora verrucosa
+				Liriope tetraphylla
+				Solmundella bitentaculata
+[/TABLE]
+
+[NOTE: in the printed cell "Solmundella bitentaculata" is broken over two lines;
+joined here. The Ⅲ columns are empty for 冬季.]
+
+[FIGURE]
+[NOTE: Fig. 9 — four station maps in a 2 x 2 block, each showing the same forty
+sampling stations as filled circles with their labels, joined by coloured lines
+that mark the cluster membership; a small key box at the lower left of each panel.
+Coastlines only, no shading. Latitude scale at the left of each panel, longitude
+scale below the lower pair only.]
+
+[NOTE: the station labels are identical in all four panels. Listed once here, in
+reading order (top to bottom, left to right):]
+
+B14	B21	B28	B07	B12	B19	B26	B34	B40	B05	B10	B17	B24	B32	B38	B03	B30	B15	B22	B29	B36	B35	B01	B08	J01	J03	J05	J07	J08	J10	J12	J15	J16	J17	J19	J21	J23	J30	J26	J28
+
+[NOTE: panel 1, upper left]
+22°N	21°	20°
+春季
+海南岛
+Ⅰ	Ⅱ	[NOTE: key, a red rule against Ⅰ and a green rule against Ⅱ]
+
+[NOTE: panel 2, upper right]
+22°N	21°	20°
+夏季
+海南岛
+Ⅰ	Ⅱ	Ⅲ	[NOTE: key, red / blue / green rules]
+
+[NOTE: panel 3, lower left]
+22°N	21°	20°
+108°	109°	110°	111°E
+秋季
+海南岛
+Ⅰ	Ⅱ	[NOTE: key, red / green rules]
+
+[NOTE: panel 4, lower right]
+22°N	21°	20°
+108°	109°	110°	111°E
+冬季
+海南岛
+Ⅰ	Ⅱ 1	Ⅱ 2	[NOTE: key, red / pale green / dark green rules. The second and
+third entries really are "Ⅱ" followed by a space and an arabic 1 or 2, not Ⅲ.]
+
+审图号: GS(2014)1797号	[NOTE: set once, below the lower right panel]
+
+图 9	北部湾北部水母类丰度-站位聚类及群落结构的划分
+Fig. 9	Non-metric multidimensional scaling of dominant species and Community Classification of jellyfish in northern Beibu Gulf
+[/FIGURE]
+
+水母，其中双生水母和球型侧腕水母等 7 种水母为该群集的特有种，在图中低温低盐和高温高盐区域均有分布，说明该群集受沿岸流和外海水共同影响的混合性特点。此外双生水母离原点较近，说明其生态适应性较广。
+
+夏季: 群集 Ⅰ 分布在雷州半岛-广西沿岸海域，群集 Ⅱ 包括 B26、B30 和 J10 测站，群集 Ⅲ 分布在远岸海域（图 9）。Anosim 分析结果表明群集间的差异极显著（R = 0.596，P = 0.001）。
+
+SIMPER 分析表明，群集 Ⅰ 的主要种为球型侧腕水母、拟细浅室水母、锡兰和平水母（Eirene ceylonensis）和短腺和平水母（Phialucium benga），其中锡兰和平水母基本只分布在群集 Ⅰ，位于 DCCA 排序图（图 10）低温低盐区域，说明该群集受沿岸流影响；群集 Ⅱ 的主要种为双小水母（Nanomia bijuga）、双生水母和两手筐水母，其中长囊无棱水母（Sulculeolaria chuni）和双小水母基本只分布在群集 Ⅱ，位于图中高温高盐区域，说明该群集主要受外海水影响；群集 Ⅲ 的主要种为拟细浅室水母、双生水母、异摇篮水母（Cunina peregrina）、四叶小舌水母和半口壮丽水母，其中异摇篮水母为该群集的特有种，位于图中高温高盐区域，表明该群集所在海区受外
+
+[NOTE: the text breaks off mid-sentence at the foot of the page.]
+
+http: / / www.ecologica.cn
+
+?1994-2018 China Academic Journal Electronic Publishing House. All rights reserved.    http://www.cnki.net

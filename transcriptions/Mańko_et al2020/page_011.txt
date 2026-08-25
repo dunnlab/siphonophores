@@ -1,0 +1,61 @@
+[PAGE 11]
+
+[NOTE: printed square brackets occur on this page and are the source's own, not
+transcriber markers: the Fig. 7 y-axis label "Abundance [ind.·10 m^-3]" and the
+Fig. 7 caption "Abundance [ind. · 10 m^−3]". Everywhere else on this page "[" is my
+marker. Superscripts are rendered with "^".]
+
+[RUNNING HEAD] M.K. Mańko, et al.
+[RUNNING HEAD] Progress in Oceanography 189 (2020) 102414
+
+[FIGURE]
+[NOTE: the figure occupies the head of the page across both columns. What follows is
+the printed lettering only — the y-axis label and its tick labels, the x-axis tick
+labels and label, then the two legends.]
+Abundance [ind.·10 m^-3]
+40
+30
+20
+10
+0
+SSW	AtW	TAW	IW	ArW	AtW	TAW	ArW
+Water mass
+Stage: Aglantha digitale
+Dimophyes arctica
+juvenile
+intermediate
+mature
+Stage
+eudoxid
+polygastric
+
+Fig. 7. Abundance [ind. · 10 m^−3] of different life cycle stages of Aglantha digitale and Dimophyes arctica in water masses detected in the present study.
+[/FIGURE]
+
+Due to its presumed bipolar biogeography (Stepanjants et al., 2006; but see Pugh and Gasca, 2009), the spatial distribution of our records of D. arctica matched the preference of this species towards colder waters (Figs. 4 and 6; Table 5). Unsurprisingly, the lower abundance of this siphonophore above the slope along the southern transect could be attributed to the presence of the warm core of the West Spitsbergen Current (Carstensen et al., 2019; Gluchowska et al., 2017b; Walczowski and Piechura, 2007). At first glance, the GZ community above the slope of EB seemed to have virtually double the abundance of GZ in comparison with that in the corresponding region of southern transect N. This, however, resulted purely from unequal sampling efforts (see Table 1A), and when the average abundance per sample was taken into account, the abundance of GZ was far more even, and the resulting contributions of the different species (A. digitale was more abundant along transect N, and D. arctica dominated along northern transect EB) fit our literature-based expectations (e.g., Licandro et al., 2015; Mańko et al., 2015).
+
+Our data revealed that the abundance of GZ decreased with increasing depth above the shelf, while in the open ocean, the vertical pattern of abundance was more intricate (Supp. mat. 1). In general, GZ were most abundant at the subsurface from 25 to 50 m, followed by the surface from 0 to 25 m; the abundance decreased from 50 to 200 m but reached a maximum at 200–600 m and then slightly decreased in the deepest layer. Similar to our case, Raskoff et al. (2010) studied GZ community in the Canada Basin and Chukchi Plateau and found that the lowest biomass was associated with shallow slopes and ridges. It has often been noted that the warmer Atlantic waters are bringing more diverse and abundant zooplankton communities to the Arctic Ocean (Hop et al., 2019) that can reach even the deep central regions of the Arctic (Kosobokova and Hirche, 2000). Although the abundance of zooplankton tends to generally decrease with increasing depth (e.g., in the NE Atlantic; Angel and Baker, 1982; however, not necessarily for the GZ, see e.g., Youngbluth et al., 2008), the pattern of the vertical distribution of zooplankton abundance in the Arctic can diverge from this assumption as a result of Atlantic inflow (Kosobokova and Hirche, 2009). The core of the WSC, which extends down to 500 m along transect EB and to 600 m along transect N, is usually characterized by the highest abundance of zooplankton, which remains fairly constant along the continental margin, though the contributions of different taxa change (Kosobokova and Hirche, 2009; Weydmann et al., 2014). As the vertical distribution of zooplankton may fluctuate seasonally, the advected biomass is also expected to vary within a year (Basedow et al., 2018). Additionally, the complex hydrological situation along the continental slope of Svalbard forces any prognoses on the advection of zooplankton to distinguish among the different branches of the core of the WSC, which may each bring distinct planktonic communities (Carstensen et al., 2019).
+
+4.2. Patterns of GZ diversity
+
+The pattern of GZ biodiversity established here exemplifies strong spatial and vertical structuring (Table 2, Figs. 4 and 5), with a more speciose community associated with colder, Arctic water and a rich assemblages associated with the shallow shelf waters, and the deepest waters in the open ocean zone (Fig. 4). We showed that geographic factors (zone and sampling depth) played the largest role in shaping the GZ diversity overall (Fig. 4), but also, that their diversity depended on the distribution of the water masses (Table 2). When considering GZ community separately for each of the water masses detected, ArW appeared to harbour the most diverse community (Table 4). This may however, be explained by the vertical extent of ArW (the deepest of the water masses found; Table 1A) that allowed to capture the typically mesopelagic species (like non-Aglantha Trachymedusae), absent from the shallower depth strata. Stations remaining under the influence of AtW were characterized by the lowest diversity of GZ, and the highest contribution of A. digitale to the GZ abundance (66.01% for AtW, 38.42% for TAW). Such a monospecific GZ community may be indicatory of the blooming potential of this species (see e.g., Pertsova et al., 2006) thus the strengthening of AtW inflow to the Arctic, may potentially render A. digitale more important for the polar pelagic ecosystems (e.g., Hop et al., 2006).
+
+The richer shelf community reflected the presence of meroplanktonic cnidarians, i.e., species possessing benthic polyps in their life cycle, such as Anthomedusae (Figs. 3 and 4), which in the case of our study were absent from the open ocean. There are however, anthomedusan taxa that can be found in deeper waters, further away from the shore where they overcome the lack of an abiotic substrate needed for polyps to develop with an alternative strategy in which polyps colonize living midwater organisms (see Lindsay et al., 2008 and reference therein). Interestingly, no representatives of Anthomedusae were found along the northern transect, presumably as a consequence of the differing environmental conditions that might have delayed the
+
+11
+
+[NOTE: source oddities transcribed as printed, not corrected: the Fig. 7 legend prints
+"Stage:" with a colon for Aglantha digitale but "Stage" without a colon for Dimophyes
+arctica; the y-axis label sets the exponent of "m-3" with a hyphen while the caption
+sets it with a true minus sign and adds spaces, "[ind. · 10 m^−3]"; the body text prints
+"a rich assemblages", "This may however, be explained", "There are however, an-
+thomedusan taxa" and "the strengthening of AtW inflow to the Arctic, may potentially
+render" with the comma displaced or the number disagreeing; "and reference therein"
+is printed singular; and the text says "D. arctica dominated along northern transect EB"
+where transect EB is called the northern transect but transect N the southern one
+throughout. Italics are not marked in this transcription: the species names, the
+figure-legend taxon names, "Aglantha" and the heading 4.2 are set in italic on the page,
+and in "along transect N, and D. arctica" the comma after "N" falls inside the italic
+run. Colour is not marked: the cross-references and author-date citations are set in
+blue as hyperlinks, and the Fig. 7 legend keys are coloured swatches (three blues for
+Aglantha digitale, yellow and red for Dimophyes arctica).]

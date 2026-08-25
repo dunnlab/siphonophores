@@ -1,0 +1,55 @@
+[PAGE 162]
+
+162	[RUNNING HEAD] A SYNOPSIS OF THE SIPHONOPHORA
+
+Eudoxid phase – unknown.
+
+Like L. subtiloides it is found in water of comparatively low salinity, inshore. Locality: Near Cape Lopez, Gulf of Guinea ('Discovery' Station 277).
+
+A very similar but larger species (anterior nectophore up to 10 mm long) is to be described shortly. It occurs commonly in coastal waters off Vancouver, B.C. The somatocyst is spindle shaped and distended. The ostial end of the prominent lateral ridge turns distad. (see fig. 98). [HANDWRITTEN] dorsad
+
+These three species all occur in coastal waters, and appear to be closely related.
+
+[FIGURE]
+A
+B
+Som.
+H
+0.	1mm.
+1.m.m.
+
+FIG. 97.   A, Lensia leloupi Totton. Polygastric phase anterior nectophore, 'Discovery' St. 277, × 16. The ostial end of the lateral ridge, though scarcely visible, reaches the ostium without turning distad. [HANDWRITTEN] [?dorsad] B, Lensia subtiloides (L. & v. R.) Polygastric phase, Great Barrier Reef, anterior nectophore, × 18. H = hydroecium; Som = somatocyst (from Totton, 1954, fig. 55C, D).
+[/FIGURE]
+
+[FIGURE]
+FIG. 98.   Lensia sp. aff. leloupi Totton
+Lateral view of the anterior nectophore from the coasts of British Columbia, × 5 (after Bigelow (1913) as Diphyes truncata).
+[/FIGURE]
+
+Lensia conoidea (Kefferstein & Ehlers, 1860)
+Plate XXXI, figure 11; text-figure 99A
+
+Diphyes conoidea Kefferstein & Ehlers, 1860, 1861
+Diphyes truncata Sars, 1846 non D. truncata Quoy & Gaimard, 1827
+Lensia truncata Totton, 1932
+Lensia conoidea Bigelow & Sears, 1937
+
+Well known since 1846. The name truncata has been used sometimes uncritically for other small Diphids. Moser (1925, p. 154) wrongly cited as synonymous Diphyes fowleri Bigelow, D. subtiloides Lens & van Riemsdijk and D. sieboldii Lochman, 1914 (= Chelophyes appendiculata). Great caution is needed, therefore, in the use of published lists of synonyms of this species. This is an easily recognizable species first well described and figured as Diphyes sp. by Stuwitz (1836) from dead specimens taken in Christianiafjord in May 1835. Sars (1846) gave a wrong reference to this paper.
+
+Polygastric phase
+
+Anterior nectophore (text-fig. 99A; see also Bigelow & Sears, 1937, fig. 33):   It reaches a length of 20 mm, is of firm substance and has five longitudinal ridges. The distal end of the dorsal ridge is prolonged on to a small lip or projection distal to the general level of the ostium. The base was well
+
+[NOTE: this page carries two manuscript corrections in the same hand, in dark ink. In the third paragraph of the body text the printed word "distad" is struck through with a single horizontal stroke and "dorsad" is written in the margin to its right, after "(see fig. 98).". In the caption of text-fig. 97 the printed "distad" is likewise struck through and "dorsad" written immediately after it, running into the right margin. The struck-through printed word is kept in place in both, followed by the manuscript word in a [HANDWRITTEN] marker. The marginal "dorsad" beside the body text is clearly legible at 8x; the one in the caption is smeared where it crosses the strike-through, so it is given as "[?dorsad]" — the same word in the same hand is my reading, but I cannot read every letter of it.]
+
+[NOTE: the middle third of the page carries two text-figures side by side: text-fig. 97, two drawings (A and B) with their scale bars and a seven-line caption, occupying the left two-thirds; and text-fig. 98, a single larger drawing with a five-line caption, occupying the right third. Following the protocol for column layout each figure is given whole, left before right. Text-fig. 98's drawing begins higher on the page than text-fig. 97's and its caption lower.]
+
+[NOTE: text-fig. 97's lettering, given top to bottom and left to right: the letter A at the head of drawing A; the letter B at the head of drawing B; "Som." with a leader at the upper right of drawing B; "H" with a leader at the lower right of drawing B; then the two horizontal scale bars beneath the drawings. The bar under A is lettered "0." at its left end and "1mm." at its right, given here on one line separated by a tab, as the protocol directs for a lettered bar. The bar under B is lettered "1.m.m." at its right end only, with nothing at the left. All the drawing lettering is in a sloped script hand. Text-fig. 98's drawing carries no lettering at all. Verified at 16x.]
+
+[NOTE: the bar under A reads "1mm." with no stops between the letters, whereas the bar under B reads "1.m.m." with a stop after each; both as printed, and both differ from the "2.m.m." of text-fig. 88 and the "2.mm." of text-fig. 89.]
+
+[NOTE: numerals verified digit by digit: 162; 'Discovery' Station 277; 10 mm; fig. 98; FIG. 97, 'Discovery' St. 277, × 16, × 18, Totton, 1954, fig. 55C, D; FIG. 98, × 5, Bigelow (1913); (Kefferstein & Ehlers, 1860); Plate XXXI, figure 11; text-figure 99A; Kefferstein & Ehlers, 1860, 1861; Sars, 1846; Quoy & Gaimard, 1827; Totton, 1932; Bigelow & Sears, 1937; since 1846; Moser (1925, p. 154); Lochman, 1914; Stuwitz (1836); May 1835; Sars (1846); text-fig. 99A; Bigelow & Sears, 1937, fig. 33; 20 mm. The zeros throughout are old-style figures at x-height, so "10", "20", "1860" and "1846" read as "1o", "2o" and so on; they are zeros. The multiplication signs are saltire crosses.]
+
+[NOTE: "Kefferstein" is printed with a double-f ligature in both the species heading and the first synonymy line, checked at 16x; it is not the "Keferstein" spelling used elsewhere in this monograph. "Diphids" is spelled without a y. "Christianiafjord" is one word. The "=" in "(= Chelophyes appendiculata)" and in the fig. 97 caption key are equals signs of two short parallel rules.]
+
+[NOTE: the dash in "Eudoxid phase – unknown." is an en rule. "'Discovery'" is in roman within single quotation marks in both the text and the caption. "see also" is italic. "Locality:" and "Anterior nectophore (…):" carry a thin space before the colon in the printing, not reproduced here. The species heading is bold italic with the authority in roman parentheses; the four synonymy lines are set in smaller type with the taxon names italic, and their line breaks are preserved. No printed square brackets occur on this page.]

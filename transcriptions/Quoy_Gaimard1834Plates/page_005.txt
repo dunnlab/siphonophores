@@ -1,0 +1,77 @@
+[PAGE 5: unnumbered]
+
+[NOTE: plate-only page; coarse bilevel (1-bit) CCITT scan at about 300 dpi, which
+is the native resolution of the source image. The engraved figure numerals are
+five to eight pixels tall, so several of them are solid ink blobs that further
+magnification cannot resolve; those are flagged individually below.]
+
+[RUNNING HEAD] Voyage de l'Astrolabe. – ZOOLOGIE.
+
+[RUNNING HEAD] ZOOPHYTES. – Pl. 4.
+
+[PLATE]
+ZOOPHYTES. – Pl. 4.
+
+Engraved figure numbers, in reading order (successive bands down the sheet, left
+to right within each band):
+
+1
+[?2]
+[?3]
+[?6]
+[?4]
+5
+7
+9
+11
+10
+8
+12
+16
+15
+17
+13
+14
+18
+20
+19
+23
+21
+22
+24
+26
+25
+27
+
+[NOTE: the four numerals flagged [?2], [?3], [?6] and [?4] are single-digit blobs
+in the top third of the sheet whose shape cannot be resolved; they are given from
+their position in the sequence and from the legend's ranges, not from a reading
+of the glyph. The remaining numerals were each checked at magnification. Numerals
+1 to 27 are all accounted for, matching the six legend ranges (1–6, 7–11, 12–17,
+18–20, 21–23, 24–27).]
+
+[?Quoy ad vivum p.t] [NOTE: draughtsman's credit in fine engraved script at lower
+left; three word-shapes and a superscript abbreviation, the individual letters
+are not resolvable]
+
+[?Fournier sc.] [NOTE: engraver's credit in engraved script at lower right; the
+terminal "sc." is clear, the name is about eight letters beginning with a script
+capital that could be C or F]
+
+1	6	Diphye Bory.	}
+7	11	Diphye calpé.	}	N.
+12	17	Diphye abyla.	}
+
+18	20	Diphye de Bass.	}
+21	23 .	Diphye capuchon.	}	N.
+24	27	Diphye cucubale.	}
+
+[NOTE: the legend is in two columns of three lines each, the left column headed by
+figures 1–6 and the right by 18–20. Each column has a single tall brace to the
+right of its three lines with one italic "N." serving all three. A stray full stop
+is printed after "23" in the right column. No locality parentheticals appear on
+this plate.]
+
+[?J. Tastu édit.] [NOTE: minute type at the lower left corner of the sheet, below
+the legend]
+[/PLATE]

@@ -1,0 +1,60 @@
+[PAGE 91]
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 8 RHODALIIDAE	91
+
+[FIGURE]
+3mm
+2
+1
+0
+A
+F.d-l.
+R.d-l
+C
+E
+0
+3.mm
+B
+C.radd.
+C.rad.lat
+C.rad.lat
+D
+
+FIG. 50.   Melophysa melo Q. & G. Nectophores × 7
+A, C, viewed from the upper side; B, D, from the ostial side; E, from the left side. A, from Bermuda, Beebe Coll.;
+B, 'Discovery' St. 692; C, D, E, 'Discovery' St. 1580
+C.rad.lat = lateral radial canal; C.rad.d = dorsal radial canal; F.d–l = dorso-lateral fold; R.d–l = dorso-lateral ridge (from Totton, 1954, fig. 7).
+[/FIGURE]
+
+Family 8: RHODALIIDAE Haeckel, 1888
+
+Angelidae Lens & van Riemsdijk, 1908
+
+Physonects in which an enlarged homologue of the pneumatochone or basal, gas secreting area of the pneumatosaccus protrudes on one side at the junction between the pneumatophore and the corm to form a characteristic structure, the aurophore. The nectosome and siphosome form a globular corm below the large pneumatophore. Both nectophores and bracts are developed, the simple sac-like nectophores forming a corona of one or more rows. The cormidia are borne on prominences. The zone of proliferation of the cormidia lies opposite to the aurophore.
+
+The correct interpretation of the so-called aurophore was made by Lens & van Riemsdijk (1908) and by Bigelow (1911b).
+
+The family name Angelidae Fewkes used by Lens & van Riemsdijk is unfortunate on nomenclatural grounds, as Bigelow (1911b) pointed out, for Angela,* Lesson (1843), is a synonym of Athorybia and is not as closely related as Fewkes supposed to his Angelopsis. Bigelow reviewed the family very thoroughly in his 'Albatross' report (1911b). Since then, very little additional material has been found. For this reason it seems to be unnecessary to summarize the review, which itself should be consulted.
+
+When more specimens have been studied, it may be decided that Rhodalia, Stephalia, Stephonalia, and Angelopsis are congeneric.
+
+It is difficult to extract from the descriptions of generally imperfect specimens of rhodaliidae what
+
+[FOOTNOTE] * Stechow (1921) published a new name Anga for Angela, Lesson, 1843 (preoccupied by Serville, 1839 for Orthoptera). This would have necessitated writing Angiidae for Angelidae sensu Fewkes.
+
+[NOTE: printed folio 91 at the outer (right) edge of the running head; PDF index 96, offset −5 holds. No printed square brackets occur on this page.
+
+Layout: text-fig. 50 occupies the top half of the page, full measure, as five outline drawings in two rows — three in the upper row (lettered A, C, E from left to right) and two in the lower row (B at the left, D at the centre) — with the four-line caption centred beneath. The family heading, the family synonym line, the diagnosis and four further paragraphs follow, and a footnote keyed by an asterisk sits at the foot below a blank gap. There is no rule between text and footnote.
+
+The seventeen items inside [FIGURE] are exactly the hand-lettered characters printed within the drawing and nothing else; the illustration is deliberately not described. They are grouped panel by panel, since the two rows interleave vertically and a strict left-to-right sweep would separate a scale from its panel. Upper row: the vertical scale bar standing to the left of panel A is lettered "3mm" above its top tick, then "2" and "1" against intermediate ticks and "0" at the foot, with one further unlabelled tick between "2" and "3mm"; the panel letter "A" sits at the lower left of the first drawing; "F.d-l." is at the upper right with a broken leader running down-left into the drawing, and "R.d-l" at the lower right with a similar leader; "C" is at the lower left of the middle drawing and "E" at the lower right of the third. Lower row: the horizontal scale bar under panel B is lettered "0" at its left end and "3.mm" above its right end, with two intermediate ticks, and "B" stands to the right of that scale; "C.radd." is at the upper right of panel D with a long broken leader, "C.rad.lat" at the right of panel D preceded by a broken leader, a second "C.rad.lat" at the left of panel D followed by a leader, and "D" at the lower right of that drawing.
+
+Three printed inconsistencies between the hand-lettered labels and the printed legend, all preserved as lettered. (1) The label in the drawing is "C.radd." — C, point, r, a, d, d, point, verified at 10× — whereas the legend spells the same abbreviation "C.rad.d". (2) "F.d-l." in the drawing carries a final point and uses a plain hyphen; the legend has "F.d–l" with no final point and an en-dash. (3) "R.d-l" in the drawing has a hyphen and no final point; the legend has "R.d–l" with an en-dash. The two "C.rad.lat" labels in the drawing agree with the legend and carry no final point. All the drawing's lettering is a sloped hand-drawn sans-serif; the hand-lettered numeral "1" on the vertical scale is drawn as a short slanted stroke with a detached dot below it and so resembles an exclamation mark at low magnification — at 10× it is the same hand's "1", matching the "1" that opens "3mm" above it, and it is transcribed as 1.
+
+Caption type: "FIG." is small capitals, "Melophysa melo" italic, "Q. & G." roman, and "× 7" uses a saltire multiplication cross. In the legend line the abbreviations "C.rad.lat", "C.rad.d", "F.d–l" and "R.d–l" are bold italic, the definitions roman, and each "=" is printed as a double-stroke equals glyph. The caption's first three lines are centred and the fourth wraps to a flush-left continuation.
+
+Numerals verified digit by digit: × 7, St. 692, St. 1580, 1954, fig. 7; then Family 8, 1888, 1908; 1908, 1911b, 1843, 1911b, 1911b; and in the footnote 1921, 1843, 1839. Note "St. 1580" is four figures and "St. 692" three, checked separately at 3.5×; and that Bigelow is cited three times as "1911b" with the letter suffix each time.
+
+Italic in the text: "Angelidae" in the synonym line, "Angela", "Athorybia", "Angelopsis" (twice), "Rhodalia", "Stephalia", "Stephonalia"; in the footnote "Anga", "Angela" and "sensu" are italic while "Angiidae" and "Angelidae" are roman. The family heading is roman "Family 8:" with a thin space before the colon, then bold "RHODALIIDAE" in capitals, then roman "Haeckel, 1888". "Stephonalia" is spelt with an "o" in the second syllable where "Stephalia" precedes it in the same list — printed so, verified at 2.5×, and not corrected. Single curly quotes enclose 'Albatross' and both occurrences of 'Discovery'.
+
+The asterisk in the text stands immediately after "Angela," — that is, after the comma — and is matched by the asterisk opening the footnote.
+
+Stray marks, all scanning blemishes: specks in the right margin level with panel E, with "of the pneumatosaccus protrudes", with "and Angelopsis are congeneric" (two, close together) and below the footnote; a speck in the left margin level with "The family name Angelidae"; and faint flecks in the top margin. None is printed matter.]

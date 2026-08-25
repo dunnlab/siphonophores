@@ -1,0 +1,28 @@
+[PAGE 140]
+
+140	[RUNNING HEAD] A SYNOPSIS OF THE SIPHONOPHORA
+
+There is a large rete of unknown function in the ventral radial canal of recently budded nectophores, which is smaller in size or invisible in older ones. In its endoderm are found very striking multilobate nuclei (see Münter, 1912). The lateral radial canals arise from the dorsal radial canal near the upper margin of the nectosac, and are not easily seen in preserved material, owing to the rolling-up of the margin of the nectosac, unless the specimen has been treated with magnesium chloride. The mesogloea is sensitive to stimulation, upon which it may become opalescent in colour, with a subsequent return to its normal transparency. This blanching is accompanied by luminescence, a phenomenon demonstrated to me by G. O. Mackie at Villefranche in 1964. Each nectophore as it grows in the hydroecium of its predecessor does a 180° turn on its long axis.
+
+Gastrozooid and Tentacle:   The gastrozooid is borne by a short pedicel; about as long as a nectophore, with a sub-spherical basigaster. The tentacle is very long with a long terminal filament. Tentillum long with ellipsoidal cnidosac (see Haeckel, 1888b, Pl. 29, fig. 8; Bigelow, 1918, Pl. 7, figs. 6, 7). The cnidoband is curved round till its apical end lies near the base. On each side lie four large ensiform cnidocysts.
+
+Gonophores, both male and female, arise from a point on the stem close to the pedicels of the gastrozooids. At maturity they break away and swim freely. In my own experiments, the female gonophores always swam directly downwards, indicating that the early stages of development take place in deep water. None of my many attempts to fertilize the eggs have been successful. Only Metschnikoff (1874) has achieved this. The manubria of the gonophores protrude freely from the ostia of the little medusae, which of course represent the adult phase of the animal.
+
+Genus: VOGTIA Kölliker, 1853
+
+For the history of the use of this generic name see Bigelow, 1918, pages 403–5. Bigelow maintains that species of this genus differ from the only species of Hippopodius in having an early growth stage of the cnidoband of the tentillum saccus in which it is coiled up. This is admittedly an almost universal phenomenon. In H. hippopus the earliest growth-stage depicted by Bigelow (1918, Pl. 7, fig. 6) is also almost universally found. But in H. hippopus the cnidoband is too short to coil up before it takes on its mature form. In my view this is a minor matter of degree and not one of generic importance.
+
+Though Schneider and Moser both justifiably united Vogtia with Hippopodius, I am retaining Vogtia in order not to confuse further those who have to search the literature. There are four species. Bigelow & Sears (1937) defined their use of the name Vogtia. But in V. pentacantha there are sometimes spines around the base of the median dorsal prominence, so that the facets are not entirely smooth. There is a good deal of variation in the amount and kind of spinosity from specimen to specimen, and probably from the first to the last of a series of nectophores budded by any one specimen.
+
+Vogtia spinosa Kefferstein and Ehlers, 1861
+V. pentacantha Bigelow, 1918, plate 4, figure 1 (non V. pentacantha Kölliker, 1853)
+
+A species with angular nectophores and spines on the facets as well as on the ridges. Organization is characteristic of all hippopodiids.
+
+Definitive nectophores (text-fig. 81, 3):   Short pentagonal prisms, the largest about 20 mm broad. The gelatinous tubercles or spines occur closely crowded not only on the ridges but on the lateral and dorsal facets. The oldest nectophores may be lacking spines. In young nectophores the rete in the ventral radial canal covers most of the upper surface of the nectosac, but later on in growth it decreases in size and may form two lateral wings (see Bigelow 1911b, Pl. 15, fig. 9). The nectosac is relatively large.
+
+[NOTE: the authority of Vogtia spinosa is printed "Kefferstein and Ehlers, 1861", with two f's and spelt out "and"; verified at 5.5x. Elsewhere in the monograph the surname is set in small capitals; here it is upper and lower case.]
+
+[NOTE: numerals verified digit by digit: Münter, 1912; 1964; 180°; Haeckel, 1888b, Pl. 29, fig. 8; Bigelow, 1918, Pl. 7, figs. 6, 7; Metschnikoff (1874); Kölliker, 1853; Bigelow, 1918, pages 403–5; Bigelow (1918, Pl. 7, fig. 6); Bigelow & Sears (1937); Kefferstein and Ehlers, 1861; Bigelow, 1918, plate 4, figure 1; Kölliker, 1853; text-fig. 81, 3; 20 mm; Bigelow 1911b, Pl. 15, fig. 9. "pages 403–5" is an en-dash range abbreviated thus.]
+
+[NOTE: "VOGTIA" in the genus heading and "Vogtia spinosa" in the species heading are printed in bold italic; the synonymy line below the species heading is set smaller, with "non" italic. The side-headings "Gastrozooid and Tentacle:", "Gonophores", "Definitive nectophores" are italic, as are "rete" and "tentillum saccus" in the body. "Bigelow 1911b" in the last paragraph is printed without a comma before the date, unlike the other Bigelow citations on the page. No printed square brackets occur on this page.]

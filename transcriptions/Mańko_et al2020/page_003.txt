@@ -1,0 +1,65 @@
+[PAGE 3]
+
+[NOTE: printed square brackets occur on this page and are the source's own, not
+transcriber markers. They are all in the right column: "abundance [ind. m^−3]" and
+"biomass of the zooplankton [mg m^−3]" in section 2.2, and "temperature [°C]",
+"transect [N, EB]" and "zone [shelf, slope, offshore, or exterior]" in section 2.3.
+Everywhere else on this page "[" is my marker. Superscripts are rendered with "^".]
+
+[RUNNING HEAD] M.K. Mańko, et al.
+[RUNNING HEAD] Progress in Oceanography 189 (2020) 102414
+
+[FIGURE]
+[NOTE: figure occupies the head of the page across both columns; the following is
+the printed lettering only, in reading order — top axis, left axis, in-map labels,
+scale bar, depth key, then the zones key below the frame.]
+20° W	10° W	0°	10° E	20° E	30° E	40° E	50° E
+76° N
+74° N
+72° N
+70° N
+Return Atlantic Current
+Transect EB
+Transect N
+South Cape Current
+West Spitsbergen Current
+N
+0	150	km
+> 0 m
+200 m
+600 m
+1000 m
+1500 m
+2000 m
+3000 m
+4000 m
+5000 m
+< 5000 m
+ZONES:	EXTERIOR	OFFSHORE	SLOPE	SHELF
+
+Fig. 1. Location of the zooplankton sampling in the western part of the Svalbard Archipelago, with the main ocean currents (after Beszczynska-Möller et al., 2011). Bathymetry data from the International Bathymetric Chart of the Arctic Ocean (Jakobsson et al., 2012).
+[/FIGURE]
+
+siphonophores and phylum for ctenophores) were also noted for the sake of comparison of the general abundance patterns.
+
+For the calycophoran siphonophores, the life cycle stage/colony fragment (eudoxid bracts and gonophore, anterior nectophore, and posterior nectophore) was also determined. The abundance of polygastric colonies equalled the number of anterior nectophores found. The abundance of eudoxids was determined as the number of eudoxid bracts found, since each eudoxid has only one eudoxid bract but could potentially have more than one gonophore (Carré and Carré, 1991). Since only in the case of Dimophyes arctica were both polygastric colonies and eudoxids found, whenever the relative abundance of this species was estimated, the sum of both the eudoxids and polygastric colonies of D. arctica was used. In the case of physonect siphonophores, the nectophores were counted and measured. The species abundance was expressed as the number of pneumatophores found; each colony has only one pneumatophore but can possess numerous nectophores; thus, this approach offers the most reliable estimate of the actual number of colonies (e.g., Hosia and Båmstedt, 2008). When only nectophores were found, as was the case for Rudjakovia plicata, the number of colonies was calculated based on an a priori assumption that the maximum nectophore count for a single colony of this species was 12. This assumption arose from a zoological examination of specimens collected by remotely operated vehicles, of which the longest colony bore 12 nectophores (unpublished data).
+
+The specimen measurements included bell height for the prolate hydromedusae (i.e., bullet shaped bell like that of Aglantha digitale) and pandeids, nectophore width for physonect siphonophores, nectophore/bract/gonophore height for calycophoran siphonophores and total body length in the case of ctenophores (e.g., Costello et al., 2008). Specimens of A. digitale were classified into three size classes based on bell height (BH) using the previously published size ranges for each class: juveniles 4–5 mm BH; intermediate > 5–11 mm; and mature > 11 mm (Takahashi and Ikeda, 2006). Although Takahashi and Ikeda’s (2006) data came from the subarctic Pacific, similar size ranges and diets of A. digitale in the north-eastern Atlantic (Pagès et al., 1996) and in the European Arctic (e.g., Zelickman, 1972) allow for a rough approximation of the similarity between the maturation sizes of this species in these regions. As gelatinous animals tend to shrink after fixation, the acquired measurements only approximate the actual sizes of the specimens and thus cannot serve as the basis for biomass calculation (Purcell, 1988; De Lafontaine and Leggett, 1989).
+
+The non-gelatinous zooplankton were identified to the lowest possible taxonomic level using the subsampling method (Harris et al. 2000), and these data have already been reported elsewhere (Gluchowska et al., 2017b). The species abundance was then used to calculate the zooplankton biomass using individual dry mass or weight-length regressions, as reported in Gluchowska et al. (2017b). Both the abundance [ind. m^−3] and biomass of the zooplankton [mg m^−3] were used as the environmental background for the subsequent analyses.
+
+2.3. Data handling and analysis
+
+The abundance data of the gelatinous zooplankton and of the other zooplankton were square root transformed prior to the analyses. To avoid the overrepresentation and production of meaningless similarity matrices, the samples with no GZ detected were omitted from the analyses. Data pre-processing and exploratory analyses were conducted in R (v. 3.3.2., R Core Team, 2016) using the tidyverse package (Wickham, 2019).
+
+The differences between the GZ data and the explanatory variables were tested with a series of uni- and multivariate permutational analyses of variance (PERMANOVAs) run with 999 permutations in R using the adonis function in the vegan package (Oksanen et al., 2007). To control for the familywise error rate resulting from multiple comparisons, the p values were adjusted with the Holm-Bonferroni method. The GZ data used included the GZ standing stocks (“abundance of GZ”) and GZ community composition (“community of GZ”) and the diversity indices (richness, equal to the species number; “inv. Simpson” – inverse Simpson diversity index) and life cycle stage composition of the two most abundant taxa, A. digitale and D. arctica. The explanatory variables were grouped into hydrographic (salinity and temperature [°C], which were both averaged for each sampled depth stratum), geographic (transect [N, EB], zone [shelf, slope, offshore, or exterior]) biotic (total abundance of zooplankton – “tot. abundance”, total biomass of zooplankton – “tot. biomass”), while the water mass types were tested individually. The collinearity of the explanatory variables was examined with the variance inflation factor (VIF; vegan package in R; Oksanen et al., 2007). Although none of the continuous variables examined have been shown to be collinear (VIF values < 5; Stine, 1995), it must be noted that the categorical variables were excluded from the
+
+[NOTE: source oddities transcribed as printed, not corrected: "Harris et al. 2000"
+lacks the comma before the year; "R (v. 3.3.2., R Core Team, 2016)" prints a period
+after "3.3.2" as well as the version's own final period; and "geographic (transect
+[N, EB], zone [shelf, slope, offshore, or exterior]) biotic (total abundance ..."
+has no comma between the closing parenthesis and "biotic", where the parallel list
+items elsewhere are comma-separated. Italics are not marked in this transcription:
+in the printed page "Dimophyes arctica", "D. arctica", "Rudjakovia plicata",
+"Aglantha digitale", "A. digitale", "a priori", "tidyverse", "adonis" and "vegan"
+are set in italic.]

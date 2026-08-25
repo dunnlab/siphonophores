@@ -1,0 +1,908 @@
+<<<PAGE pdf=1 file=page_001.txt>>>
+[PAGE 1: unnumbered]
+
+[STAMP] G. O. MACKIE
+[HANDWRITTEN] Casey Dunn
+
+[NOTE: faint bleed-through of text from the facing/reverse leaf is visible in the lower half of the page, reading approximately "PRINCIPLES OF COMPARATIVE ANATOMY OF INVERTEBRATES" with a partly legible line below it (possibly beginning "VOLUME I"); this is not printed on this leaf itself and is not transcribed as this page's content.]
+
+<<<PAGE pdf=2 file=page_002.txt>>>
+[PAGE 2: unnumbered]
+
+W. N. Beklemishev
+
+PRINCIPLES OF
+COMPARATIVE ANATOMY
+OF INVERTEBRATES
+
+VOLUME 1	PROMORPHOLOGY
+
+Translated by Dr J. M. MacLennan
+Edited by Dr Z. Kabata
+
+OLIVER & BOYD
+	EDINBURGH
+
+[NOTE: faint bleed-through of body-text paragraphs from the facing/reverse leaf is visible across the lower two-thirds of the page; it is not printed on this leaf and is illegible enough that it is not transcribed.]
+
+<<<PAGE pdf=3 file=page_003.txt>>>
+[PAGE 3: unnumbered]
+
+[NOTE: faint mirrored bleed-through of the title-page text is visible near the top of the page (reading, upside-down/mirrored, approximately "PRINCIPLES OF / COMPARATIVE ANATOMY / OF INVERTEBRATES" and, further down, "Translated by Dr J. M. MacLennan / Edited by Dr Z. Kabata" and "OLIVER & BOYD / EDINBURGH"); this is not printed on this leaf and is not transcribed as this page's own content.]
+
+Standard Book Number: 226-04175-1
+Library of Congress Catalog Card Number: 70-97749
+
+OLIVER AND BOYD LTD, EDINBURGH
+THE UNIVERSITY OF CHICAGO PRESS
+
+This is a translation of the 3rd (1964) edition of ОСНОВЫ СРАВНИТЕЛЬНОЙ АНАТОМИИ БЕСПОЗВОНОЧНЫХ Vol. 1 by В. Н. Беклемишев published by NAUKA, Moscow
+
+05 001835 3 Vol 1
+05 002111 7 Vol 2
+Vols 1 and 2 combined 05 002189 3
+
+© English translation Oliver and Boyd 1969
+All English language rights reserved
+
+No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means—electronic, mechanical, photocopying, recording or otherwise—without the prior permission of the Copyright Owner and the Publisher. The request should be addressed to the Publisher
+
+Printed in Great Britain by
+The University Press, Aberdeen
+
+<<<PAGE pdf=4 file=page_004.txt>>>
+[PAGE 4: unnumbered]
+
+Chapter XI	COLONIES OF BILATERIA AND
+	GENERAL PRINCIPLES OF
+	DEVELOPMENT OF THE
+	COLONIAL HABIT IN
+	MULTICELLULAR
+	ANIMALS
+
+[NOTE: faint bleed-through of body text from the facing/reverse leaf is visible near the top of the page; it is not printed on this leaf and is not transcribed. Several phrases in the body text below are underlined in pencil by a previous reader: "growth beyond the limits of the individual is the rule in them rather than the exception, and therefore"; "the biont is as a rule an individual and not a colony. Nevertheless very many of the lower Bilateria still possess the faculty of"; and "are always temporary" continuing to "formations".]
+
+1. PRELIMINARY REMARKS
+
+With the slight development of individual integration in sponges and Cnidaria, growth beyond the limits of the individual is the rule in them rather than the exception, and therefore asexual reproduction and the formation of colonies are extremely widespread. Bilateria in general stand at a higher level of integration, and among them the biont is as a rule an individual and not a colony. Nevertheless very many of the lower Bilateria still possess the faculty of asexual reproduction, and sometimes also of colony formation. In them coloniality may take very complex forms. In this chapter we shall first survey the chief types of colonies of Bilateria, and then by comparing them with sponge and coelenterate colonies we shall try to determine the chief features of the development of coloniality among all multicellular animals.
+
+All cases of coloniality among Bilateria may be divided, according to the general appearance and nature of the colonies, into five physiognomic types: (i) linear colonies of worms; (ii) sacciform and reticular colonies of tissue parasites; (iii) branching colonies of sessile animals; (iv) ascidian colonies; and (v) free-swimming colonies of salps and Doliolida (W. Beklemishev, 1950).
+
+2. LINEAR COLONIES
+
+Colonies of linear type are characteristic of several flatworms and annelids. They partly resemble the strobilae of coelenterates, and also show some analogy to the chains of the parasitic infusorians, Anoplophryidae. Such colonies are always temporary, and comparatively rarely lead to complex formations. Colonies of linear type are found in no animals at a higher organisational level than the most homonomous of annelids.
+
+In Chapter VI we have discussed cases of formation of linear colonies (chains or strobilae) in turbellarians, and hypotheses about the strobilar nature of tapeworms and annelids. Independently of solution of the problem of the origin of the segmented body of annelids, we can certainly observe among these animals formation of linear colonies whose components are not segments but multisegmented annelid individuals. Such colonies are found among oligochaetes (families Aeolosomatidae, Naididae)
+
+<<<PAGE pdf=5 file=page_005.txt>>>
+[PAGE 450]
+
+[HANDWRITTEN] [?rapid prod'n of new individuals by budding]
+
+[RUNNING HEAD] COMPARATIVE ANATOMY OF INVERTEBRATES
+
+and polychaetes (family Syllidae, order Nereimorpha), in the latter occurring in more complex colonies as well as linear colonies.
+
+The development of coloniality among oligochaetes is parallel to its development in turbellarians: it arose from asexual reproduction by architomy, which occurs in many oligochaetes, and is particularly clearly shown in the family Lumbriculidae. In Naididae and Aeolosomatidae architomy is replaced by paratomy; regeneration of a new head together with new larval segments for the last zooid, and simultaneously of a new anal lobe for the first zooid, takes place before the division of the worm into halves, and thus temporary chains are formed consisting of two, four, or eight zooids. In some cases (e.g. in Chaetogaster, family Naididae) the zooids are all uniform, as in chains of Turbellaria, differing only in age and stage of development; they all grow in length and each of them, on reaching a certain size, forms a new regeneration zone, predetermining the location of later divisions. In other cases (e.g. in Stylaria) only the first zooid divides, so that the youngest daughter zooid is always attached to its rear end, while the oldest daughter forms the rear end of the chain. Among flatworms we find that system in cestode strobilae. Finally, there are intermediate cases in oligochaetes (biserial division of Nais barbata) in which the first daughter, as well as its mother, has the power of division. That method of chain-formation is unknown in flatworms.
+
+Chain-formation in Naididae, as in turbellarians, is always due to a lag of the continual-division process behind the growth of individuals in length and behind the formation of regeneration zones. With the onset of the period of sexual reproduction the formation of new regeneration zones ceases, division continues, and the chains break down altogether into separate individuals, in which only then does the development of the genital apparatus begin. In general, oligochaete chains are purely temporary formations almost without colonial individuality.
+
+In Syllidae also the starting-point of coloniality is usually architomy, here due to epitoky and in many cases replaced by paratomy. In a typical case (Autolytus or Myrianida, Fig. 204, A) chains of zooids are formed similar in structure and origin to those of Stylaria, but differing in marked dimorphism: the first maternal individual is asexual and the daughters sexual. The number of zooids in syllid chains is sometimes large (up to 30 in Myrianida), but here also the chain is a purely temporary aggregation and coloniality remains rudimentary.
+
+Formation of temporary colonies by syllids may take place by budding as well as by division. In that case an anal lobe of a daughter zooid may develop as a bud on segments of the body as well as a growth zone, and then it forms new segments the foremost of these later being reconstructed and giving rise to a head end. In Trypanosyllis budding is concentrated near the rear end of the maternal zooid, and a whole bunch of very short sexual zooids of varying age is formed there, from which the older ones gradually break off and swim away.
+
+In Syllis ramosa (Fig. 204, B), which parasitises the sponge Aulochone
+
+<<<PAGE pdf=6 file=page_006.txt>>>
+[PAGE 451]
+
+[RUNNING HEAD] DEVELOPMENT OF THE COLONIAL HABIT	451
+
+lilium, buds are formed along the whole length of the body, some of them giving rise to sexual individuals that break off and others forming the rear ends of syllids of normal type, so that a complexly-branched colony with one head and numerous rear ends develops. Such branching is the reverse of that of branched colonies of polyps and other sessile animals, which have numerous mouths and a single foot. The unique colony type of S. ramosa is possible, evidently, because of the parasitic mode of life of this species, whereby one mouth can feed an entire body with complex ramifications.
+
+[FIGURE] Fig. 204. Linear colonies of annelids.
+A—Myrianida fasciata (Nereimorpha Syllidae), asexual individual with chain of 29 zooids, which break off and change into free-swimming sexual individuals (after Malaquin). B—part of a colony of Syllis ramosa: part of the stem of the colony with parapodia, with the gut showing through, and two buds, the upper of which consists only of the rear end of the future zooid, the lower being a sexual individual ready to break off, packed with ova (only part of it shown) (after MacIntosh).
+[/FIGURE]
+
+[NOTE: a few faint pencil marks (small strokes/squiggles) appear in the lower right of the figure area, apparently unrelated marginalia; illegible.]
+
+3. SACCIFORM AND BRANCHED COLONIES OF TISSUE PARASITES
+
+Whereas linear colonies are characteristic of several worms that live freely or are parasitic within the gut cavity of their hosts, the colonies of Syllis
+
+31
+
+<<<PAGE pdf=7 file=page_007.txt>>>
+[PAGE 452]
+
+[RUNNING HEAD] COMPARATIVE ANATOMY OF INVERTEBRATES
+
+[NOTE: the words "Polypodium hydriforme" below are underlined in pencil by a previous reader, with the underline continuing as a short squiggle beneath the following line.]
+
+ramosa introduce us to a new type of colony—sacciform or branched colonies of tissue parasites.
+
+Colonies of this type are found sporadically in widely differing groups of Bilateria: in cestode larvae, in crustaceans (Cirripedia Rhizocephala), with polyembryony in Chalcididae (Hymenoptera), and in Bryozoa. Among coelenterates a similar type of structure, in similar living conditions, is found in colonies of Polypodium hydriforme (Hydrozoa) from sterlet ovaries (A. Lipin, 1910).
+
+[FIGURE] Fig. 205. Sacciform and branched colonies of tissue parasites.
+A—Cysticercus longicollis, larva of Taenia crassiceps (Cyclophyllidea), a cysticercus with a large number of daughter cysts (from Korschelt and Heider). B—larva (staphylocyst) of Hymenolepis cantaniana (Cyclophyllidea) (from Skryabin and Matevosyan).
+[/FIGURE]
+
+Among cestodes asexual reproduction occurs in a number of forms at the cysticercus stage. Leading an interstitial mode of life, the pleurocercoids in some forms of Pseudophyllidea acquire the power of growth 'beyond individual limits' and form branched colonies, consisting of flat cords (sparganum), which give rise to several scolexes after they arrive in the gut of the definitive host. In Cyclophyllidea there often occur many-headed larvae of coenurus, echinococcus, or polycercus type, which are essentially sacciform colonies. If the daughter cysts are invaginated outside, instead of inside, the mother cyst, as in Cysticercus longicollis (larva of Taenia crassiceps), a sacciform-branched colony results (Fig. 205, A). A somewhat similar type of sacciform-branched colony of sporocysts is formed by the sporocysts of Leucochloridium paradoxum (family Brachylaimidae) and some other Digenea.
+
+All the colonies of this group are formed by animals that are simplified on account of tissue-parasitism or a similar mode of life; in particular, they have no mouth and obtain food through the integument. In these conditions a branched type of colony denotes more intensive exploitation of the host by the parasite, whereas a sacciform colony denotes slower development and consequently slower metabolism. Generally there are all possible transitions between sacciform and branched types of colonies of tissue parasites, and the difference between them is purely quantitative—in the extent of development of external body surface.
+
+<<<PAGE pdf=8 file=page_008.txt>>>
+[PAGE 453]
+
+[RUNNING HEAD] DEVELOPMENT OF THE COLONIAL HABIT	453
+
+[NOTE: pencil marks by a previous reader: a short underline beneath the word "flies" at the start of the second line of the second paragraph, and, in the last paragraph, a wavering pencil underline running beneath the second half of the first line (from about "for development of colonies is the" to the end of the line, ending in a small upward tick) and beneath the whole of the following line, its left end dipping under the first words of the line after.]
+
+Some larvae of Cyclophyllidea form true branched colonies. The young larva (staphylocyst) of Hymenolepis scalaris (a parasite of rodents) forms during its growth a system of branching stolons that penetrate the tissues of the intermediate host (a myriapod); several stems arise from the stolons, bearing cysticercoid heads (K. Skryabin and E. Matevosyan, 1945) (Fig. 205, B). The stolons represent the coenosarc of the colony; both stolons and stems are products of the rear section of the larva, the tail (cercomere). The rough resemblance between such colonies and some hydroid colonies arises from the similar outline of the original solitary forms. This similar outline consists in division of the body into a differentiated, physiologically and morpho-physiologically dominant head and a slightly differentiated aboral or caudal end. Such division is a necessary prerequisite for the development of true stolons and of the type of colony structure associated with them.
+
+The formation of 'colonies' of rhizocephalic crustaceans and chalcid flies provides exceptional instances of asexual reproduction among arthropods, which as a rule are incapable even of regeneration of anything more than appendages. It is true that in the case of chalcid flies (Chalcididae, Proctotrypidae) we are dealing with polyembryony, which occurs even among mammals. In polyembryony the possibility of asexual reproduction of individuals and of colony-formation is evidently due to the more extensive potentialities of cells in the early stages of development at which these processes take place.
+
+We cannot include the asexual reproduction of Rhizocephala under the heading of polyembryony, as it occurs at a much later stage of the life cycle, during the metamorphosis of the cypris-like larva. The possibility of asexual reproduction arises there because of great simplification in the organisation of the parasite and an unusual method of metamorphosis. As a result of metamorphosis a membrane develops from the larva, covering the gut of the host and usually giving rise to a single parasite, but sometimes (Peltogaster socialis) not one but several nodules form on the membrane, each of which develops into a separate animal. In another Rhizocephala species—Thompsonia—the same multiple formation of individuals takes place as in P. socialis, but all the individuals remain united by means of a single root system: a colony thus arises, consisting of sacciform individuals joined together by a system of stolons.
+
+Typical polyembryony occurs in Bryozoa of the order Stenolaemata. The ova of these develop within a brood chamber in the trophoblast, in conditions very like those of tissue parasitism. A morula-like primary embryo is formed by cell-division and later expands into an irregularly-lobate, branched colony, which gradually gives off small rounded buds until finally the whole colony is broken up into a large number of such secondary embryos. Later each of these develops into a single larva.
+
+In all these cases the ecological basis for development of colonies is the need for fuller utilisation of the host, which is satisfied in different ways in different parasites, e.g. by paedogenetic reproduction of digenetic trematodes within molluscs.
+
+<<<PAGE pdf=9 file=page_009.txt>>>
+[PAGE 454]
+
+[RUNNING HEAD] 454	COMPARATIVE ANATOMY OF INVERTEBRATES
+
+4. COLONIALITY IN KAMPTOZOA AND PODAXONIA
+
+Among sessile colony-forming animals, Bryozoa, Kamptozoa, and Pterobranchia procure food by means of water currents created by the cilia of the tentacles; ascidians filter water through their gill lattice, the water entering through the mouth and leaving through the cloacal aperture. The first three groups show some analogy to polyps, which also procure food by means of tentacles; and ascidians resemble sponges, which like them filter water through the mass of the body. These apparently superficial similarities in the method of procuring food still have some significance, since sponges also have something in common with ascidians in the method of colony-formation, just as polyps have with 'Bryozoa' in the broad physiognomic sense of that word.
+
+(a) KAMPTOZOA
+
+Among Kamptozoa members of the family Loxosomatidae are single: they are capable of asexual reproduction (budding on the calyx), but with only temporary formation of Hydra-type colonies. Neither in size nor in
+
+[FIGURE] Fig. 206. Colonies of Kamptozoa.
+A—Ascopodaria. B—Pedicellina echinata. C—longitudinal section through shoot of colony of Urnatella gracilis. 1—zooid; 2—buds; 3—diaphragms separating sections of stolon from each other and from zooids (from Korschelt and Heider).
+[/FIGURE]
+
+[NOTE: the figure itself carries the engraved letters A, B and C and the numerals 1, 2, 3, 2, 3 as leader labels.]
+
+complexity of structure do individuals of Loxosomatidae surpass zooids of colonial families. Other Kamptozoa form permanent colonies: in them buds always arise on the stem, which very often forms stolons.
+
+Stolons here, as in hydroids, are extensions of the stem and usually spread over the substrate, forming a so-called rhizome. In several forms separate individuals are budded off directly on the spreading stolons (Ascopodaria (Fig. 206, A), Myosoma) and in such cases colonies arise similar to those of Leucosolenia among calcareous sponges or of Tubularia
+
+<<<PAGE pdf=10 file=page_010.txt>>>
+[PAGE 455]
+
+[RUNNING HEAD] DEVELOPMENT OF THE COLONIAL HABIT	455
+
+[NOTE: a single straight vertical pencil line, about 4 cm long, stands in the right-hand margin beside the last three lines of the first paragraph (from "podial colonies of Hydrozoa Athecata" to "(L. Silén, 1950)."). No handwriting accompanies it.]
+
+among hydroids. In other cases buds form not only on the stolons but also on the stems of individuals rising above the substrate, and then branched shoots with terminal zooids and monopodial branching develop (Urnatella, Arthropodaria, etc.). Such colonies remind one of the monopodial colonies of Hydrozoa Athecata. There are evidently no neural links between the separate zooids of the colony, since mechanical contact with a zooid of Pedicellina causes it alone to react (L. Silén, 1950).
+
+The types of Kamptozoa colonies are therefore very similar to the more primitive types of hydroid colonies.
+
+(b) PHORONOIDEA
+
+The first indications of coloniality in the phylum Podaxonia are found in Phoronoidea. After settling on a favourable substrate the young Phoronis gives rise by transverse division (architomy) to a whole community densely populating the object (e.g. a shell valve or a dead oyster). In P. kowalevskii,
+
+[FIGURE] Fig. 207. Incipient coloniality in Phoronoidea.
+A—community of North Atlantic Phoronis ovalis formed by 'perforating' architomy; individuals arising: 1—from front half of autotomising maternal individual; 2—from its rear half; 3—newly-formed transverse septum in tube, and beside it newly-formed tube-opening (after Harmer). B—Brazilian Phoronis cf. ovalis, budding: 1—stomach; 2—gut; 3—connecting branch between gut of maternal individual and that of bud. C—temporary colony of six zooids (after E. Marcus).
+[/FIGURE]
+
+[NOTE: the caption is set as a block to the left of the figure; the figure itself carries the engraved letters A, B and C and the leader numerals 1, 3, 2 (in A), 2, 1, 3 (in B) and 2, 1.]
+
+found in the Bay of Naples, architomic division takes place in autumn; the incomplete individuals so formed pass the winter in a state of quiescence, and only in spring are individuals of normal structure formed by regeneration of the missing parts; sexual reproduction takes place in summer, i.e. there is an annual life cycle, similar to the annual cycles of true colonial animals. In the architomy of P. ovalis (S. Harmer, 1917) the individual that is created from the front section and regenerates the rear half of the body inherits the front end of the maternal tube and separates it from the part occupied by the rear individual by means of a transverse septum. The rear individual makes a new outlet beside the septum and builds a new outlet tube above it (Fig. 207, A). As the result of a series of such divisions a single system of tubes is formed, consisting of thecae separated by septa,
+
+<<<PAGE pdf=11 file=page_011.txt>>>
+[PAGE 456]
+
+[NOTE: the top margin above the running head carries a pencil annotation in a previous reader's hand, running the full width of the page. Its left-hand words are cut through by the trimmed page edge and cannot be read. It appears to be a schematic classification of colony types, the right-hand pair being bracketed together.]
+
+[MARGIN] [HANDWRITTEN] [illegible] / [illegible]    Temporary [?bud] [?colonies]    Permanent { [?monomorphic] [?polymorphic]
+
+[RUNNING HEAD] 456	COMPARATIVE ANATOMY OF INVERTEBRATES
+
+somewhat similar to the coenoecia of Cephalodiscus but still more primitive; the individuals are connected only by the tubes in which they dwell, i.e. by appropriately-moulded secretions. Finally, the Brazilian P. ovalis (is it identical with the European?) reproduces by budding as well as by transverse division (Fig. 207, B, C). The budding often produces temporary colonies, as in hydroids. These colonies may have up to six heads. Buds are often formed on the ampulla, and more rarely on the anterior, muscular part of the metasoma. The body wall of a bud is formed from the body wall of the mother, and the gut of the bud from the gut of the mother (E. du Bois-Reymond Marcus, 1949). These facts, too, slightly reduce the distance between Phoronoidea and Bryozoa.
+
+(c) BRYOZOA
+
+Bryozoa are a purely colonial class, whose characteristics include numerous features of individual simplification in which they differ from Phoronoidea. The simplification is due to colonial life and the consequent small size of the separate zooids. Only one solitary bryozoan is known, Monobryozoon ambulans, described by A. Remane (1936) from the Amphioxus sands of the shore of the island of Heligoland, but its solitary mode of life is certainly secondary and has resulted from reduction of coloniality, as in Loxosoma or Boreohydra.
+
+We have seen above, both in the structure of zooids and in their adaptations to a sessile mode of life (see Chap. V), a considerable degree of mutual independence among the three main groups of Bryozoa. The development of coloniality also takes individual paths in each of them, and therefore we must discuss them separately.
+
+Phylactolaemata
+
+The order Phylactolaemata, which includes most freshwater Bryozoa, has a number of features more primitive than those of other Bryozoa, the majority of which affect individual structure: colonies of Phylactolaemata have a high degree of fusion of cystids—a sign of high integration. In budding, a polypide is first formed near the maternal polypide, on its oral side (Fig. 208, A). As the young polypide grows there is corresponding growth of the wall of the maternal individual, and to some extent separation of the cystid of the daughter animal from it. The inter-cystid walls are most completely developed in Fredericella, in which they are pierced by pores, as in Stenolaemata.
+
+In all other Phylactolaemata the septa are more or less undeveloped; in Cristatella all that remains of them is mesodermal septae not reaching the basal side of the colony.
+
+On metamorphosis the Phylactolaemata larva produces a cystid, on which two polypides are later budded off simultaneously, lying symmetrically back to back (Fig. 208, C). The stage of a solitary sessile individual has thus dropped out of the ontogenesis.
+
+[NOTE: a small pencil smudge lies over the last three letters of "metamorphosis" in the final paragraph, and a short pencil tick stands above the line just to the right of the heading "Phylactolaemata".]
+
+<<<PAGE pdf=12 file=page_012.txt>>>
+[PAGE 457]
+
+[RUNNING HEAD] DEVELOPMENT OF THE COLONIAL HABIT	457
+
+Typically colonies of Phylactolaemata are formed of pseudomonopodial shoots that radiate over the substrate, with the apical ends of the separate zooids bent away from the substrate (Plumatella, Fig. 208, A; Fredericella). Crust-like colonies of these species are formed by adherence and fusion of the spreading shoots. If the zooids raised above the substrate stand in a dense mat and also fuse together, compact forms such as Alcyonella are
+
+[FIGURE] Fig. 208. Colonies of Phylactolaemata.
+A—end of branch of a colony of Plumatella fungosa, diagrammatic; a, b, b₁, b₂, c, c₁, c₂, d—buds in order of formation; 1—tentacular sheath; 2—lophophore cavity; 3—ganglion; 4—hind-gut; 5—stomach; 6—cardial fold; 7—oesophagus; 8—pharynx; 9—epistome; 10—anterior part of coelom; 11—statoblasts, located on mesenteric cord (funiculus) (after Braem). B—colony of Cristatella mucedo, diagrammatic cross-section: 1—brown bodies; 2—functioning polypides; 3—budding zone; 4—foot; 5—ovary; 6—withdrawn polypide; 7—testis (after P. G. Svetlov). C—the same, beginning of colony-formation as a result of metamorphosis of larva: 1—two primary polypides; 2—buds giving rise to more members of the colony; 3—larval tissues in process of resorption (from Yu. I. Polyanskii).
+[/FIGURE]
+
+[NOTE: the figure occupies the middle two thirds of the page and the caption is set beneath it. The drawings themselves carry engraved lettering: in A the letters ds, c, c1, c2, b, b2, b1, a and the leader numerals 11, 9, 10, 8, 7, 6, 5, 1, 2, 3, 4; in B the numerals 2, 1, 7, 6, 5, 3, 4; in C the numerals 1, 2, 3; and the part letters A, B and C. In A the subscript figures of the bud letters are printed on the line (c1, c2, b1, b2), not as subscripts as in the caption.]
+
+<<<PAGE pdf=13 file=page_013.txt>>>
+[PAGE 458]
+
+[RUNNING HEAD] 458	COMPARATIVE ANATOMY OF INVERTEBRATES
+
+[NOTE: this is the most heavily annotated page of the extract. A previous reader has written in pencil in the left margin, has drawn a long curved vertical line down the left margin beside the whole of the second paragraph (from "majority of Bryozoa" to "part of the common body wall of the colony"), and has underlined many phrases in pencil, freehand and wavering. A short zigzag pencil stroke also crosses the folio "458" at the head of the page.]
+
+[MARGIN] [HANDWRITTEN] [illegible: 3 lines]
+
+[NOTE: the marginal writing runs diagonally up the left edge at roughly 45°, in three short lines, in very faint pencil; nothing in it can be read with confidence. The only fragments that resolve at all are a word ending "[?...]unti" and, after it, an opening bracket followed by "[?continu...]".]
+
+developed. Complete fusion of cystids produces colonies of Cristatella type—an elongated biradiate cake with a flat muscular sole and a growth zone on the periphery.
+
+Colonies of Cristatella (Fig. 208, B, C) differ from colonies of the great majority of Bryozoa in their mobility: they crawl by means of the sole. As in other groups of animals, mobility of the colony at once produces a need for higher integration. A Cristatella colony is in fact a compact whole with a regular biradiate shape; complete fusion of the cystids leads to development of a locomotor musculature and a neural plexus common to the whole colony, making locomotion in response to external stimuli possible. A common colonial coelom ensures uniformity of the internal environment of the colony. The colony is able to reproduce as such by transverse fission; it has the capacity to restore its shape after injury; in brief, it is a real organic individual (P. Svetlov, 1935). As for the separate zooids, the cystids have completely lost their individuality and become part of the common body wall of the colony. The polypides differ in no way from those of other Phylactolaemata, each of them representing the front end of the body and the complex of internal organs of a relatively-perfect bilaterally-symmetrical animal.
+
+[NOTE: within that paragraph the pencil underlines run beneath, in order: "mobility: they crawl by"; "of the"; "for higher integration"; "with a regular biradiate shape"; "locomotor musculature and a neural plexus"; "the whole colony,"; "ensures uniformity"; "transverse fission; it has"; "after injury;"; "in brief, it is a real organic individual (P. Svetlov, 1935). As for the separate"; "cystids have completely lost their individuality and become"; and "part of the common body wall of the colony."]
+
+Polymorphism appears in Phylactolaemata only in the existence of oecia, which here are modified polypides. They are formed from young buds that remain in the earliest stage of development, and after formation of an ovum they are transformed into simple epithelial sacs, from which the larva later emerges directly to the exterior.
+
+Gymnolaemata
+
+[HANDWRITTEN] [?not] [?fused] — [?more] [?indep]
+
+[NOTE: that pencil phrase is written on the same line as the heading "Gymnolaemata", to the right of it.]
+
+All marine Bryozoa, i.e. Stenolaemata and Gymnolaemata, differ from Phylactolaemata in having polypides of much simpler structure, which denotes a definite step towards suppression of their individuality by that of colonies. On the other hand their cystids are generally not fused together, and in that respect the zooids are more independent than in most Phylactolaemata. The larvae of Stenolaemata and Gymnolaemata, on attachment, almost always produce a single zooid, whose method of development may be regarded as necrotic metamorphosis. At a certain stage of their life, therefore, marine Bryozoa are solitary sessile animals, and in that respect coloniality is less dominant in them than in Phylactolaemata.¹ The first individual (the founder of the colony) is called an oozooid or ancestrula. The latter name is due to the fact that in Gymnolaemata that individual often has some primitive features as compared with the other members of the colony—the blastozooids. Since the oozooid usually possesses no sexual products, the life cycle of Stenolaemata and Gymnolaemata must be regarded as an alternation of generations—to be precise, metagenesis.
+
+[NOTE: in that paragraph the pencil underlines run beneath "towards suppression"; "individuality by that of"; "colonies."; "cystids"; "not fused together,"; and "and in that respect the zooids are more independent than in most".]
+
+[FOOTNOTE] ¹ In some species of Membranipora, however, the larva produces two ancestrulae simultaneously during metamorphosis (D. Atkins, 1955), i.e. here too coloniality extends to the very beginning of imaginal life.
+
+<<<PAGE pdf=14 file=page_014.txt>>>
+[PAGE 459]
+
+[RUNNING HEAD] DEVELOPMENT OF THE COLONIAL HABIT	459
+
+Among marine Bryozoa, Gymnolaemata colonies are distinguished by extreme diversity of structure, attained partly by polymorphism of the zooids but mainly by diversity in their arrangement. Because of that diversity we must dwell only on the most general features of types of colonial structure, passing over many interesting types.
+
+L. Silén (1944) believes the most primitive type of Gymnolaemata colonies to be Labidostomella colonies, in which a number of shoots rise from the frontal side of the hemispherical ancestrula and form tubular zooids, with a subterminal aperture slightly shifted towards the frontal side; on the other hand, the place of bud-formation is slightly shifted towards the basal side of the cystid (Fig. 209, A). In shape and the relative arrangement of the ancestrula and the other zooids Labidostomella resembles the original type of Stenolaemata colonies (see below). In the suborder Ctenostomata (order Gymnolaemata), in members of the section Carnosa (e.g. Flustrella, Alcyonidium) the zooids retain their tubular shape, straightness, and terminal aperture, but have changed from frontal to lateral budding;¹ for that reason their colonies form thick incrustations of cystids standing parallel to each other. In members of the section Stolonifera (e.g. Farella repens) the ancestrula gives rise by lateral budding to spreading segmented stolons consisting of simplified zooids (kenozooids), from which arise erect feeding zooids possessing terminal apertures.
+
+The primary type of colony in the suborder Cheilostomata is a spreading incrustational colony formed by lateral budding, with the zooids' apertures shifted to the frontal side. In Cheilostomata frontal budding produces specialised zooids almost exclusively: kenozooids, avicularia (see below), etc.
+
+Colonies of Electra catenulata type (Fig. 209, B) are very primitive, with terminal and lateral budding, the only connection being that between the maternal and the daughter zooids. The cystids are separated by simple septa, on which are located rosette-shaped plates pierced by pores. Through these pores uniformity of the internal environment is attained by exchange of matter between the zooids.
+
+A more usual type of continuous, not reticulated, incrustational colony is represented by Electra pilosa. The ancestrula forms three buds, one terminal and two lateral; each lateral bud forms three more, so that the colony soon begins to grow in all directions. Later most of the individuals produce only terminal buds, so that radially-diverging rows develop, on which branches are formed here and there without any order. The rows of growing zooids lie closely side by side, being arranged quincuncially, i.e. the rear half of each zooid always adjoins the side of the front half of its neighbour (Fig. 209, C). The zooids in different rows are separated by double septa, but the cavities of their cystids also communicate with each other by porous plates. Such incrustational colonies have very little
+
+[FOOTNOTE] ¹ In the description of Gymnolaemata colonies 'lateral budding' is the name given to formation of buds on the sides of the cystid of the maternal zooid; 'terminal budding' is formation of buds on the front edge of the cystid, and 'frontal budding' is formation of buds on the frontal side, where the aperture is located.
+
+[HANDWRITTEN] Some degree [?of] internal [?continuity]
+
+[NOTE: that pencil phrase is written in two lines in the blank lower quarter of the page, below the footnote, sloping slightly upward to the right.]
+
+[NOTE: pencil marks by a previous reader elsewhere on the page: a faint underline beneath "(kenozooids)," and a fainter one beneath "from which arise erect feeding zooids possessing terminal apertures."; in the Electra catenulata paragraph, underlines beneath "pores.", beneath "uniformity", beneath "of the internal environment is attained by", and beneath "exchange of matter between the zooids."; and two short curved vertical pencil strokes in the right-hand margin beside those last three lines. Faint underlining also touches "specialised zooids almost exclusively" and "(see below)" in the Cheilostomata paragraph.]
+
+<<<PAGE pdf=15 file=page_015.txt>>>
+[PAGE 460]
+
+[RUNNING HEAD] 460	COMPARATIVE ANATOMY OF INVERTEBRATES
+
+regularity of structure; the place of origin of branches and their course depend largely on the configuration of the substrate.
+
+In those Bryozoa in which the disc rises above the substrate the colony becomes plate-shaped, fan-shaped, or lobate, e.g. in Flustra. In these colonies the courses of and the intervals between the rows are just as irregular as in spreading types, but at the edges the method of formation of the colony as a whole takes effect, restricting the growth of the colony in certain directions and determining the shape of its disc.
+
+[FIGURE] Fig. 209. Structure of Gymnolaemata colonies.
+A—Labidostomella gisleni: left—branch of colony, arising together with other branches from the ancestrula, view from basal side; right-lateral view of branch; areae are visible (after Silén). B—Electra catenulata, part of colony. C—Electra pilosa, diagram of arrangement of zooids in colony. D—Menipea ternata, part of colony, example of a regular branched colony of Cheilostomata. 1—area; 2—aperture; 3—fornix, a plate raised above the area and serving to protect it; 4—lateral distal avicularia; 5—joint between internodes; 6—spines—outgrowths of cuticle of cystids (from Beklemishev).
+[/FIGURE]
+
+[NOTE: the drawings carry the engraved part letters A, B, C and D and, in D, the leader numerals 4, 1, 6, 2, 3, 5, 1, 4 and 6.]
+
+A third type comprises branched regular colonies such as Menipea (Fig. 209, D) or Scrupocellaria. All their branches usually consist of several rows of zooids with their apertures turned in the same direction, to the frontal side of the colony. Such branched colonies of Cheilostomata are doubtless derived from plate-like colonies. They are, in fact, discoid colonies with a much-dissected, and therefore branched, disc. The colonies rising above the substrate, each of whose branches consists of a single row of zooids, very often are merely the extreme members of series of gradually-narrowing lobes of discoid colonies.
+
+<<<PAGE pdf=16 file=page_016.txt>>>
+[PAGE 461]
+
+[RUNNING HEAD] DEVELOPMENT OF THE COLONIAL HABIT	461
+
+A very important feature of definite or regular colonies is the existence of a single plan for an entire species, determining the direction of the zooid rows, the branching points, and the relative positions, numbers, and shapes of the zooids composing each internode (S. Harmer, 1923, 1926, etc.). In its constancy and regularity the development of regular colonies resembles such processes as the mosaic cleavage of worms and molluscs. The constancy of composition and plan of these colonies certainly indicates considerable development of the colonial habit, albeit in a single direction. The degree of regularity of colonies attained by Bryozoa is found elsewhere only in some graptolites.
+
+The colonies of the tropical Conescharellinidae—conical, discoid, or calyciform—are very interesting; one of them, developing from an ancestrula that settled on a grain of sand, lies freely on the sea-bottom, like some colonies of Madreporaria; others (Conescharellina, Flabellopora) are suspended by chitinous threads from sea-weeds, like the colonies of many graptolites of the order Graptoloidea. A colony of Conescharellina has fairly-well-developed radial symmetry (L. Silén, 1947).
+
+Polymorphism of zooids also reaches a high level in Gymnolaemata, and in particular in Cheilostomata. The most widely-distributed zooid types among Cheilostomata are the following:
+
+1. Autozooids—normal individuals with a well-developed polypide and normally-developed aperture and operculum, usually capable of forming sex products. All other zooids, which have partly or wholly lost the functions of feeding and sexual reproduction, are combined under the name of heterozooids. Apart from these negative characteristics, however, the different classes of heterozooids have nothing in common. They include the following:
+
+2. Avicularia (Fig. 210, A, B), with a greatly-reduced polypide and a hypertrophied operculum converted into a grasping organ; without sex organs. Vibracula are a variant of avicularia.
+
+3. Kenozooids, without any trace of polypide, aperture, or operculum, or (with a few exceptions) musculature (Fig. 210, D). A kenozooid is an individual consisting of a single cystid having purely mechanical (supporting, attaching, defensive, etc.) functions in the colony. Often spines on the frontal side of zooids are regarded not as simple cuticular outgrowths but as kenozooids.
+
+4. Oecia or ovicelli. As a rule, each Cheilostomata zooid capable of reproduction bears an oecium at its upper edge, above the aperture. A typical oecium consists of two parts, external and internal (Fig. 210, A, C). The external part is formed on the distal-frontal edge of the cystid of an autozooid in the form of two processes, which grow together into a double-walled disc. It grows, bends, and forms a helmet-shaped vesicle; its external wall is covered with a calcareous cuticle, and its internal wall is membranous; the vesicle has an aperture opening to the exterior. The internal part of the oecium is a thin-walled invagination of the wall of the cystid opening into the helmet cavity; it possesses a retractor muscle.
+
+<<<PAGE pdf=17 file=page_017.txt>>>
+[PAGE 17: unnumbered]
+
+[NOTE: full-page landscape plate; to read it the page must be turned 90° clockwise (the printed matter runs bottom-to-top in the file's portrait page box). The scanned image is larger than the page box, so content is lost on both sides of the plate as printed: the left-hand part of figure A is cut away at one edge, and every line of the caption block is cut off at the other. The lost words are marked [illegible]; nothing has been reconstructed. There is no running head and no printed folio.]
+
+[NOTE: the plate carries no letterpress other than the caption. The drawings themselves carry the engraved part letters A, B, C and D, the lower-case letters a, b, c, d beside the four stages of C and the two stages of D, and the leader numerals 2, 3, 5, 6, 4 (in A, some cut off), 2, 3, 2, 3, 1, 3, 1 (in B), and 1, 2, 2, 2 (in D).]
+
+[FIGURE]
+Fig. 210. Polymorphis[illegible]
+Gymnolaem[illegible]
+A—avicularium of De[illegible]
+rayana (original): 1—[illegible]
+zooid, bearing aviculari[illegible]
+side; 2—stalk of avic[illegible]
+movable jaw (opercu[illegible]
+part of another zooid, [illegible]
+5—oecium; 6—spines. [illegible]
+sifera, part of colony [illegible]
+full 'cormidia'. Each c[illegible]
+an autozooid with its [illegible]
+spines, a lateral prox[illegible]
+(1), an oecium (2), an[illegible]
+cularium (3); the dra[illegible]
+parts of three more au[illegible]
+oecia. C—transfer of [illegible]
+from maternal autozoo[illegible]
+Callopora; four stages[illegible]
+shown: a—the ovum i[illegible]
+the cystid and the p[illegible]
+drawn; b—the polypid[illegible]
+the ovum has entered i[illegible]
+polypide has apposed i[illegible]
+tentacular pore to the[illegible]
+oecium, and the ovum[illegible]
+cavity of the oecium; c[illegible]
+the cavity of the oeciu[illegible]
+pide is half-withdrawn[illegible]
+its aperture; 3—operc[illegible]
+D—Scruparia chelata,[illegible]
+from the dorsal side[illegible]
+growing on the main [illegible]
+(a and b) arise; from [illegible]
+the zooids composin[illegible]
+autozooids (1) or ken[illegible]
+(after Silén).
+[/FIGURE]
+
+[NOTE: the caption's line breaks have been kept because the loss occurs at the end of every line; the running text cannot be reconstituted from what survives.]
+
+<<<PAGE pdf=18 file=page_018.txt>>>
+[PAGE 463]
+
+[RUNNING HEAD] DEVELOPMENT OF THE COLONIAL HABIT	463
+
+[NOTE: three tiny pencil marks stand at the extreme left edge of the page, level with the seventh line of the first paragraph, with the last line of the first paragraph, and with the third line of the second paragraph. Each is cut through by the trimmed edge and only a fragment survives; nothing can be read.]
+
+The cavity of the oecium does not communicate with that of the cystid. In Callopora the ovum, after fertilisation in the coelom of the mother, enters the apical part of the extended polypide, which apposes the orifice of its coelomoduct (intertentacular organ) to the aperture of the oecium and deposits the ovum there. The ovum undergoes cleavage there and a larva develops, which later emerges to the exterior through the aperture of the oecium. The structure of oecia is fairly varied in detail; sometimes they are withdrawn inside the autozooid that bears them, e.g. in Flustra. It is in fact difficult to decide whether an oecium is a simplified individual or a product of differentiation of the cystids of an autozooid. In this connection Bryozoa colonies present us with the same problems that we find in the study of hydroid colonies, where it is very difficult to decide whether a certain formation (blastostyle, dactylozooid, spine) is an individual or an organ.
+
+Avicularia are divided according to their point of origin on the maternal body into terminal, distal-lateral, proximal-lateral, and frontal. Terminal avicularia are more primitive than the others and differ less from autozooids. They occupy independent positions in the colony, reaching its basal side with their basal sides, and they usually participate in budding, giving rise to ordinary autozooids. They are usually smaller than autozooids. Sometimes they possess rudimentary polypides. Flustra, for instance, has terminal avicularia (L. Silén, 1935).
+
+Other types of avicularia lie on the surface of autozooids, are incapable of budding, and are reduced to the role of appendages to the autozooid that bears them. Such, for instance, are the classic avicularia of Bugula or Dendrobaenia (Fig. 210, A). We may discuss different types of avicularia using the family Scrupocellariidae as an example. In a typical case a full cormidium there consists of the following kinds of individuals: (i) an autozooid, bearing all the other individuals; (ii) an oecium; (iii) a lateral-distal avicularium (it is formed as a distal-lateral bud, i.e. it is the first member of a new lateral row that does not develop further); (iv) a lateral-basal vibraculum, budded laterally on the autozooid; such budding is unusual in the formation of autozooids, but occurs when rows of zooids do not touch each other and their side walls are free; the lateral-basal vibraculum also, therefore, is the first member of a new row that does not develop further; (v) a frontal avicularium; budding of autozooids on the dorsal side occurs very rarely, but is found, for instance, in Scruparia chelata (Fig. 210, D), in which the dorsal daughter autozooids are turned with their dorsal sides to the dorsal side of the mother. Accordingly the dorsal avicularia that are homologous with them in location (e.g. in Scrupocellaria scabra) have jaws (opercula) oriented, as it were, in the opposite direction to those of the mother. On the basis of this comparison the frontal avicularia also may be regarded as the first members of rows that do not develop further.
+
+Vibracula are a special class of avicularia and differ in the fact that the movable jaw (operculum) is extended into a long whip-like appendage,
+
+<<<PAGE pdf=19 file=page_019.txt>>>
+[PAGE 464]
+[RUNNING HEAD] 464 COMPARATIVE ANATOMY OF INVERTEBRATES
+
+and the process opposed to it (the immovable jaw of the beak) is undeveloped.
+
+In regular colonies avicularia and vibracula are located in strictly-defined places, forming (together with autozooids) their own kind of cormidia, as in Scrupocellariidae. In foliate colonies such as Flustra the avicularia are also located in more or less definite places, most often at the points where rows branch off.
+
+Kenozooids are very diversified, and, apart from negative characteristics such as lack of a polypide, an aperture, etc., their various forms have nothing in common. They include segments of rhizoids and stolons, small cells of the attachment-plate of Retepora, marginal kenozooids of many Flustra, supporting kenozooids of stalks, some spines, etc.
+
+As well as typical kenozooids there are intermediate forms: if the margin of an incrustational colony of Electra pilosa loses contact with the substrate, new buds grow into long curved sacs with undeveloped polypides and apertures—semi-kenozooids, used to search for a substrate. But as soon as a substrate is found they are divided by septa and develop into rows of autozooids; they are merely a temporary modification of autozooids, resulting from a check to their differentiation caused by lack of contact with the substrate (E. Marcus, 1926).
+
+In some Cheilostomata cases of polymorphism affecting only autozooids occur, e.g. division of autozooids into larger (so-called type B autozooids) and smaller (type A) in Steganoporella. In Tripostega (family Hippothoidae, section Ascophora) there are, besides autozooids, dwarf heterozooids lacking sex products but possessing polypides. In Hippothoë hyalina there are asexual feeding individuals and also male and female individuals, the latter with oecia. The sexual zooids have an operculum and a vestigial polypide, which still retains tentacles.
+
+The appearance of specialised sexual individuals, basic and general among hydroids, is therefore only sporadic in Bryozoa and occurs independently in separate groups; individuals specialised as brood pouches occur much more often.
+
+The phenomenon of alternation of polypides is characteristic of all Gymnolaemata: from time to time a polypide dies off while the cystid remains alive and gives rise to a new polypide. The remains of the old polypide enter the gut of the new one as a 'brown body' and are gradually resorbed. In all Gymnolaemata that have a coelomoduct (intertentacular organ), e.g. in Electra, polypides possess it only during sexual reproduction. At the end of that period there is mass replacement of polypides; the newly-formed polypides are incapable of sexual reproduction and have no coelomoduct, and the colony enters on a period of intensified budding. Before the next period of sexual reproduction these asexual polypides in turn die off and are replaced by new sexual polypides possessing coelomoducts (F. Borg, 1947). Since in this case only the polypides are replaced and the cystids remain, we cannot speak of seasonal dimorphism of the zooids of the colony; the above phenomenon may rather be regarded as
+
+<<<PAGE pdf=20 file=page_020.txt>>>
+[PAGE 465]
+[NOTE: previous reader's pencil annotation. Heavy pencil underlining, sometimes struck through the type rather than beneath it, runs across the second paragraph from 'Cheilostomata all the cystids of a colony always' to 'coelenterates. The remarkable' (six lines), and again in the fourth paragraph beneath '(rosette-shaped porous plates connecting the cavities of the zooids). There are no neural connections between the zooids' plus a line under the following line. A large pencil mark, a tall doubled vertical stroke or bracket, stands in the right-hand margin alongside those same two paragraphs; it carries no letters or words.]
+[RUNNING HEAD] DEVELOPMENT OF THE COLONIAL HABIT 465
+
+seasonal reconstruction of the organisation of separate zooids; that recontruction, however, cannot be regarded otherwise than as very radical.
+[NOTE: 'recontruction' is printed thus, broken as 're-contruction' across the line end; transcribed as printed.]
+
+Whereas in Cristatella (Phylactolaemata) the fusion of all cystids into a single body wall common to the whole colony has led to formation of a unique coenosarc, in Cheilostomata all the cystids of a colony always remain entirely separate. Because of the absence of a coenosarc the colony as a whole is composed of separate zooids, and thus differs markedly from colonies of polyps or Kamptozoa. The absence of a coenosarc has without doubt closed to most Bryozoa one of the paths to intensification of colonial individuality that is widely used by coelenterates. The remarkable development of polymorphism in Bryozoa, however, has enabled them to attain almost the same diversification of colony types as is found in hydroids.
+
+In Gymnolaemata the physiological integration of a colony is limited to primitive adaptations directed towards creation of uniformity of internal environment (rosette-shaped porous plates connecting the cavities of the zooids). There are no neural connections between the zooids, and their neural apparatuses are mutually independent (E. Marcus, 1926).
+
+Stenolaemata
+
+Stenolaemata (F. Borg, 1926) form colonies that are incrustational, discoid, massive, or branched, and in the constancy and regularity of zooid arrangement often similar to regular colonies of Cheilostomata. In some Stenolaemata the integration of colonies reaches high levels, as is shown in the development of radially-symmetrical forms, such as the colonies of Defrancia.
+
+The primary individual or oozooid of Stenolaemata is a hemispherical 'primary disc' (Fig. 211, A), has no polypide, and is therefore a kenozooid. The autozooids are of uniform structure throughout the whole order, and the colonies achieve diversification of structure by means of varying arrangements of autozooids.
+
+The most characteristic feature of colony-formation in Stenolaemata is their method of budding. Among them there is always a growth zone common to the whole colony; either it may be a unit or (when the colony is branched) a separate growth zone may develop at the tip of each branch. The common growth zone always contains a terminal membrane, at the margin of which growth takes place. Beneath the membrane there is an undivided common coelom. In Stenolaemata, therefore, there is always a region, undivided into separate cystids and actively growing, either at the ends of the branches or on the growing margin of the colony. As it expands septa develop in it, growing obliquely forward (Fig. 211, A); when one of the septa reaches the terminal membrane it separates off the cavity of a new cystid, which simultaneously acquires its own share of the terminal membrane. Later a polypide also forms in that new cystid.
+
+The whole of the above process may be regarded as a modification of the more primitive budding of Gymnolaemata. In the latter a new cystid is
+
+<<<PAGE pdf=21 file=page_021.txt>>>
+[PAGE 466]
+[RUNNING HEAD] 466 COMPARATIVE ANATOMY OF INVERTEBRATES
+[NOTE: the whole page above the caption is occupied by Fig. 211, in five lettered panels. The caption breaks off at the foot of the page and continues on the facing page.]
+
+[FIGURE]
+[NOTE: lettering printed on the illustration itself, panel by panel. Panel A: 5, 4, 4, 4, 4, 3, 3, 2, 1. Panel B: 2, 1. Panel C: no lettering other than the panel letter. Panel D: c, 7, 8, 6, b, 5, 9, a, 10, 4, 3, 2, 1. Panel E: 5, IV, III, 2, 3, V, 1, 4, 2, I, 1, II.]
+Fig. 211. Structure of Stenolaemata colonies.
+
+A—beginning of formation of Berenicea patina colony: young colony (in this species, of incrustational type), view from basal side. 1—round original disc (primary individual); 2-4—zooids (numbered in order of age); 5—common colonial growth zone not divided by septa. B—Diplosolen obelia, part of colony (incrustational type) with gonozooid. Besides autozooids there are numerous small nanozooids. The gonozooid is of irregular shape; its upper wall is broken to show its narrow proximal part (1), which does not differ from the proximal parts of the autozooids; 2—the distal, tubular part of the gonozooid, with aperture. C—Crisia denticulata, part of colony with several autozooids and one female gonozooid. D—Lichenopora, diagrammatic longitudinal section through part of colony: 1—
+
+[continued opposite
+[/FIGURE]
+
+<<<PAGE pdf=22 file=page_022.txt>>>
+[PAGE 467]
+[RUNNING HEAD] DEVELOPMENT OF THE COLONIAL HABIT 467
+
+formed by evagination of the wall of one of the old cystids and immediately becomes separated from the cavity of the maternal zooid by a septum, after which a polypide is formed in it. Thus all three processes—formation of an evagination, of a septum, and of a polypide—are closely linked together and lead to formation of separate, individualised zooids. In Stenolaemata the growth process outstrips the other processes, and therefore a growth zone develops with constant growth at one end while the processes of formation of septa and of separate zooids take place at the other end.
+
+This method of budding is certainly a long step forward in the development of colonial individuality. There is some analogy among coelenterates in, for instance, colonies of the thecate hydroids (Sertulariidae, etc.), in which a terminal growth zone is found not only on the hydrorhiza stolon but also on the vertical stem (hydrocaulon).
+
+In most Stenolaemata the cavities of mature zooids are entirely separate and communicate with each other only by pores. In two families, however (Horneridae and Lichenoporidae), further integration of the colony has taken place. When new zooids are formed in these families the septum that separates the coelom of a new individual from the common cavity of the growth zone does not reach the terminal membrane and is not attached to it. The coeloms of all the individuals therefore remain in communication with the common colonial or hypostegal coelom (Fig. 211, D). A peculiar organisation develops: the basal wall of the colony (in the incrustational Lichenopora) and all the interzooidal walls remain single, as in other Stenolaemata, while the free walls of the cystids are double.
+
+The double wall consists of the following layers, starting at the outside: (i) cuticle; (ia) outer calcareous layer (only in Hornera violacea); (ii) ectoderm of the outer wall, or gymnocyst; (iii) mesoderm of the gymnocyst; (iv) hypostegal (common colonial) coelom; (v) mesoderm of the inner wall, or of the cryptocyst (outer layer); (vi) ectoderm of the cryptocyst (outer layer); (vii) calcareous layer of the cryptocyst; (viii) ectoderm of the cryptocyst (inner layer); (ix) mesoderm of the cryptocyst (inner layer); then comes the coelom of the zooid.
+
+The gymnocyst is the common covering of the colony; at the edges of the aperture it becomes entirely transformed into the terminal membrane, while the outer layers of the cryptocyst bend round the edges of the calcareous tube and pass into the inner lining of the latter. Around the aperture the hypostegal cavity communicates with the coelom of the zooid. The cryptocyst forms the wall of the cystid, partly shutting off its cavity from the cavities of adjacent cystids and from the hypostegal cavity.
+
+[FIGURE]
+[NOTE: continuation, below a horizontal rule at the foot of the page, of the caption to Fig. 211 begun on the facing page; there is no figure on this page.]
+primary disc; 2—basal plate of colony, formed by the cryptocyst; 3—common colonial growth zone; 4—common colonial (hypostegal) coelom; 5—zooids (their polypides, except for the vestibula, are not shown); 6—alveoli formed by subdivision of colonial coelom; 7—terminal membrane; 8—vestibulum of polypide; 9—gymnocyst (only the cuticle is shown, not the ectoderm or the mesoderm); 10—cryptocyst; a, b, and c—three successive stages of formation of alveoli (after Borg). E—formation of an ovicell in colony of Lichenopora verrucaria (after Harmer): I-V—first zooids of colony; 1—apertures of oecia; 2—brown body; 3—embryophore; 4—aperture of ovicell; 5—roof of ovicell.
+[/FIGURE]
+
+32
+[NOTE: '32' at the foot is a printer's signature mark, not a folio.]
+
+<<<PAGE pdf=23 file=page_023.txt>>>
+[PAGE 468]
+[RUNNING HEAD] 468 COMPARATIVE ANATOMY OF INVERTEBRATES
+
+Double walls (gymnocyst and cryptocyst) are found also in several Cheilostomata, but there they are formed separately within each zooid, so that the hypostegal coelom remains strictly individual and no common colonial coelom develops. In Cheilostomata, therefore, the doubling of the cystid walls is a mere complication of individual structure and does not affect the degree of integration of the colony. On the other hand, in the two above-mentioned families of Stenolaemata the development of a common colonial covering (gymnocyst) and a common colonial hypostegal coelom is a substantial step towards colonial integration.
+
+Polymorphism is fairly well developed in Stenolaemata colonies. We find there the following classes of zooids: (i) autozooids; (ii) gonozooids; (iii) nanozooids; and (iv) kenozooids. Division into autozooids and gonozooids is primary and general. A few words about the others will suffice.
+
+As already mentioned, the primary individuals (oozooids) of all Stenolaemata have the kenozooid type of structure. Other widespread types of kenozooids in the family Crisiidae are, first, cylindrical rhizozooids, which form root filaments and spreading stolons, and, secondly, spine-like zooids, which terminate lateral branches. In other families there are supporting kenozooids contained in attachment-discs or serving as mechanical elements in erect stalks. In some families, e.g. Lichenoporidae, there are no kenozooids at all, unless one counts oozooids as such.
+
+The capacity to form kenozooids apparently arose independently in Gymnolaemata and in Stenolaemata.
+
+Nanozooids are known with certainty only in some species of the genus Diplosolen (family Diastoporidae) (Fig. 211, B). They are slender tubules, one-third the diameter of autozooids of the same species. The polypide of a nanozooid has normally-developed musculature and a single tentacle, as in the siphonozooids of some Octocorallia (see p. 100); their gut is vestigial, and they have no gonads (F. Borg, 1926). In the colonies nanozooids alternate regularly with autozooids and are present in equal numbers. Their role is unknown. Analogy with the nematophores of hydroids suggests itself (Fig. 37, D).
+
+The primary sex cells of Stenolaemata, both male and female, multiply in the growth zone of the colony, and their offspring enter the polypides formed there. Male sex products can develop in any autozooid, but female sex cells degenerate on entering an ordinary autozooid. Only in certain parts of the colony does an ovum entering a polypide become fertilised and give rise to an embryo. In that case the polypide degenerates, changing into a brown body, and the cystid expands into a gonozooid (oecium). A pregnant female polypide always first reaches a high level of development and usually even begins to feed.
+
+A mature gonozooid is distinguished from an autozooid by its inflated shape and often very large size. In Crisiidae it is moderately inflated and has a regular flask-like shape with a narrow neck (Fig. 211, C). In other families (Fig. 211, B) it is often of irregular shape and considerable size. Within the gonozooid is a feeding syncytium surrounded by a membranous
+
+<<<PAGE pdf=24 file=page_024.txt>>>
+[PAGE 469]
+[NOTE: previous reader's pencil marks. In the last paragraph a pencil line underscores 'separate from the' and a second stroke runs along the top of 'colonies of Hydra' and of 'Loxosoma' on the next line, with a small tick in the right-hand margin beside 'or'. Two very small pencil specks stand in the outer left margin, one beside 'the gonozooid, and the larvae emerge' and one beside 'regularly mushroom-shaped'; neither forms a letter or word.]
+[RUNNING HEAD] DEVELOPMENT OF THE COLONIAL HABIT 469
+
+sac; within the syncytium the processes of growth of the primary morula-like embryo, and formation of a large number of secondary embryos from it, take place. Typical polyembryony therefore occurs here. As the larva matures the membranous sac adheres to the terminal membrane of the gonozooid, and the larvae emerge to the exterior through an opening formed there.
+
+In the family Lichenoporidae the membranous sac intrudes into the colonial (hypostegal) coelom, partly filling it; that expansion is due to partial resorption of the wall (cryptocyst) of the gonozooid. The brood pouch of Lichenoporidae is therefore only partly homologous with that of other families: in the latter it is formed from the membranous sac and the cystid of the gonozooid, but in Lichenoporidae from the membranous sac of the gonozooid located in the cavity of the colonial coelom.
+
+On the whole, Lichenopora colonies are highly integrated; they are regularly mushroom-shaped (Fig. 211, E) and give rise to a single viable ovum and a single large central oecium, which occupies the common colonial coelom and produces a large number of larvae by polyembryony. In Lichenopora we have the only instance in the whole animal kingdom of a high degree of colony-integration being attained not by a mobile mode of life but by centralisation of the reproductive function and concentration of it in a single central brood organ.
+
+Possession of well-individualised and greatly-developed female gonozooids and possession of colonial growth zones are, therefore, the most important features in the formation of Stenolaemata colonies, and the combination of these features makes them unique.
+
+5. COLONIES OF PTEROBRANCHIA AND GRAPTOLITES
+
+Among the genera of modern Pterobranchia, Atubaria (so far as is known) does not reproduce asexually or form colonies. Individuals of most species of Cephalodiscus have a short stolon and bud off daughter zooids that separate from the mother; they form only incipient colonies of Hydra or Loxosoma type. The tendency to form such aggregates of individuals joined together is most marked in C. gracilis. In C. sibogae the separate zooids remain in somatic (tissue) connection with each other, forming permanent colonies. Individuals of Cephalodiscus do not live independently in the water (as does Atubaria, which clings by the tail to a plant or a hydroid colony), but live in the cavities of coenoecia of fairly complex structure (Fig. 212, D). The coenoecia are products of secretion by glandular epithelium of the cephalic shields of separate individuals. In different species of Cephalodiscus a coenoecium consists of branched or unbranched, creeping or erect thick stalks with separate or common room for individual zooids; these zooids adhere by the ends of their stalks, but may crawl and move to the exterior by means of their cephalic shields. In some species a colony includes equal numbers of males and females; in others, e.g. in C. nigrescens, there are also hermaphrodites. Sometimes a coenoecium
+
+<<<PAGE pdf=25 file=page_025.txt>>>
+[PAGE 470]
+[RUNNING HEAD] 470 COMPARATIVE ANATOMY OF INVERTEBRATES
+
+is a dense mass of close-set filaments over which individuals of the community crawl (C. inaequatus). In view of the fact that in most species the separate individuals are not organically joined together, many authors do not regard such communities as colonies. The communities of Cephalodiscus, however, are the first step towards the colonies of Rhabdopleura and
+
+[FIGURE]
+[NOTE: lettering printed on the illustration itself, in approximate reading order. Panel A: no lettering besides the panel letter. Panel B: a, b, a, c, 1, 1, d, 12, 9, a, 2, 11, 8, 3, 3, 5, 7, 4, 10, 5, 6, 5, 6, 4, 3. Panel C: 4, 3, 7, 6, 8, 2, 5, 1. Panels D and E: no lettering besides the panel letters.]
+Fig. 212. Colony of graptolites (Graptolithoidea).
+
+A—fusellar structure of theca of Cephalodiscus (Orthoecus) densus (after Kozlowski). B—part of colony of Rhabdopleura normanni (diagrammatic): a—autothecae with contracted zooids; b—autotheca with zooid protruding; c—lateral branch of colony; d—terminal branch of colony; 1—closed end of growing branch; 2—terminal bud (stolozooid); 3—young bud; 4—hibernating bud; 5—stolothecae; 6—septa between stolothecae; 7—stolon, covered with black cuticle; 8—the same, young part, without cuticle; 9—foot (stem) of autozooid; 10—the same, much shortened; 11—part of autotheca spreading over substrate; 12—free-rising part of autotheca (after Shchepot'ev, from Kozlowski). C—one of commencing stages of formation of colony of Dendrograptus communis (Dendroidea): sicula (theca of primary founder-zooid of colony), with first stolozooid, formed by perforation budding: 1—attachment disc; 2—prosicula; 3—metasicula (the two parts of theca of primary autozooid); 4—aperture of metasicula; 5—internal part of primary stolotheca; 6—external part of primary stolotheca; 7—aperture of primary stolotheca; 8—place of perforation of wall of prosicula of primary stolozooid (after Kozlowski). D—coenoecium of Cephalodiscus inaequatus (after Andersson). E—coenoecium of Dictyonema cervicorne (Dendroidea) (after Bulmann, from Kozlowski).
+[/FIGURE]
+
+<<<PAGE pdf=26 file=page_026.txt>>>
+[PAGE 471]
+[NOTE: a single small pencil tick stands in the outer left margin beside 'thecae of separate autozooids rise above the substrate'; it forms no letter or word. The figure interrupts the text, which resumes below it.]
+[RUNNING HEAD] DEVELOPMENT OF THE COLONIAL HABIT 471
+
+Palaeozoic graptolites, and their coenoecia often show a close resemblance to those of graptolites.
+
+Rhabdopleura forms intricately-branched colonies consisting of creeping stolons, irregularly dichotomously branched, from which the tubular thecae of separate autozooids rise above the substrate (Fig. 212, B). At the ends of the stolons there are immature terminal zooids. The stolons are covered with thin chitinoid cuticle and enclosed in cylindrical tubes produced by a secretion of the terminal zooids. Young buds appear on the stolon at some distance from its actively-growing end. The zooids
+
+[FIGURE]
+[NOTE: the lettering printed on the illustration consists of the letters a, b and c each carrying a subscript numeral, plus the panel letters A-D. The labels are small and closely overlapping, so the order given here is approximate. Panel A: a4, b5, a3, c5, c4, a4, b4, a4, c4, b4, a2, b3, c3, a3, b3, a1, a2, c2, b2. Panel B: a4, c4, b4, a3, b3, c3, a2, a1, b2, c2, c1. Panel C: a4, c4, a3, a2, c3, a1, c2, c1. Panel D: a5, c4, a4, c3, a3, c2, a2, c1.]
+Fig. 213. Diagrams illustrating similarity in structure of coenoecia of graptolites of order Dendroidea and Rhabdopleura.
+
+A—end of branch of Dendrograptus colony. B—the same, but for clarity all the thecae are drawn in one plane. C—the same, but with bizooids omitted. D—diagram of structure of shoot of Rhabdopleura colony. a—autothecae; b—bithecae; c—stolothecae; chitinous deposits, which in Rhabdopleura fix the black stolon to the wall of the stolotheca, are visible. The numerals denote the numbers of the triads to which the zooids belong (after Kozlowski).
+[/FIGURE]
+
+developing on it secrete transverse septa, so that each bud is in a separate section of the stolon (stolotheca). Later the zooid perforates the external tube with a round aperture and builds its own cylindrical theca above its margins. From time to time one of the buds formed, instead of developing into an autozooid, halts its development and becomes transformed into a terminal zooid, and its stolon begins to grow longer. The stolon thus becomes bifurcated. Sooner or later the terminal zooid may develop into an autozooid, and in that case growth of the stolon in that direction ceases. Rhabdopleura autozooids are of three kinds—male, female, and asexual individuals (A. Schepotieff, 1906, 1907). In addition, some of the buds formed along the stolon do not develop, become filled with reserve matter, and form the so-called hibernating zooids (hibernacula). In Rhabdopleura there is the same kind of alternation of zooids as in Bryozoa and hydroids.
+
+<<<PAGE pdf=27 file=page_027.txt>>>
+[PAGE 472]
+[NOTE: in this page's last long paragraph the numerals in the parenthetical labels (b4), (c4), (c3) and (a4) are printed as subscripts; they are written here on the line.]
+[RUNNING HEAD] 472 COMPARATIVE ANATOMY OF INVERTEBRATES
+
+Graptolites, usually referred to as the class Graptolithoidea, are fossil colonial animals known from the Cambrian to the Carboniferous. They are often included among hydroids or Bryozoa, but both of these views are based on very general analogies and never seemed convincing. A. Schepotieff (1905) was the first to suggest that graptolites are closely related to Pterobranchia. His arguments, however, were unsuccessful. For instance he wrongly equated the 'virgula' (an outgrowth of the theca of the primary individual of specialised graptolites) to the black stolon of Rhabdopleura. On that account his views found no support for a long time, and only comparatively recently were confirmed by R. Kozlowski (1947, 1948).
+
+The resemblance of graptolites to Pterobranchia is shown primarily in their microstructure: the thecae of Cephalodiscus, the tubes of Rhabdopleura, and the thecae of graptolites are constructed of coalesced fusellar sections (fusella). The shape of the thecal apertures, the shape of the various outgrowths, and their construction from fusella in different species of Cephalodiscus and graptolites often show considerable similarity (Fig. 212). In the structure and development of their colonies graptolites are, however, closest to Rhabdopleura. As R. Kozlowski has demonstrated, the basis of graptolite colony consists of a stolon, usually covered with a thin chitinous cuticle and enclosed, as in Rhabdopleura, within a row of stolothecae; all the zooids of the colony are budded off on the stolon. The stolon is unknown (probably because it had no cuticle) only in the order Graptoloidea. The method of growth and the order of branching vary in different orders of graptolites, and in this respect Palaeozoic graptolites differ no more from Rhabdopleura than they do among their own orders. The Ordovician Rhabdopleuroides expectatus (R. Kozlowski, 1961) brings Rhabdopleuroidea still closer to Palaeozoic graptolites.
+
+The order Dendroidea, which occupies a central position among graptolites, had regular colonies whose growth followed Wiman's law (Fig. 213, A, B). On entering a newly-formed stolotheca the stolon immediately gave off three branches: the middle one was long, reaching the aperture of the stolotheca, and the two lateral ones were short. On one lateral branch there arose a bizooid, which secreted a bitheca (b4) of comparatively small size around itself; on the other branch there apparently arose a new terminal zooid, or stolozooid, which secreted a new stolotheca (c4). The maternal stolozooid was located on the middle branch of the stolon; it arose on its own stalk from the old theca (c3) and, developing into an autozooid, built its own autotheca (a4). In this way each stolotheca contained a branching node that gave rise to the next triad—autotheca, bitheca, and stolotheca. Both the bithecae and the stolothecae were formed alternately to right and left on successive autothecae, and thus the colony maintained approximately rectilinear growth. In contrast to the monopodial shoots of Rhabdopleura, Dendroidea had a sympodial mode of growth. The shoots bifurcated when a second stolotheca, instead of a bitheca, was formed in a triad.
+
+A clear difference between colonies of Dendroidea and of Rhabdopleura
+
+<<<PAGE pdf=28 file=page_028.txt>>>
+[PAGE 473]
+[NOTE: a single small pencil tick stands in the outer left margin beside 'differences between Dendroidea and modern Pterobranchia almost'; it forms no letter or word.]
+[RUNNING HEAD] DEVELOPMENT OF THE COLONIAL HABIT 473
+
+consisted in possession by the former of bizooids as well as of autozooids and terminal zooids (stolozooids); in some orders of graptolites, however, bizooids were also absent. Moreover, if we agree with Kozlowski that the autothecae were occupied by females and the bithecae by males the differences between Dendroidea and modern Pterobranchia almost vanish, since the latter also have sexual dimorphism, although in them it does not affect the structure of the thecae.
+
+A second difference between the two groups concerns the method of colonial growth; as has been stated, the growth of Rhabdopleura is monopodial and that of Dendroidea sympodial. That, however, is a difference that may occur within the confines of a single order: in Hydrozoa Leptolida we have seen colonies with monopodial growth and terminal zooids as in Rhabdopleura (e.g. Eudendrium, see Fig. 34, A) and also colonies with sympodial growth as in Dendroidea (e.g. Obelia, see Fig. 34, C). Other orders of graptolites (Graptoloidea, Tuboidea, etc.) have their own laws of growth, sometimes differing no less from that of Dendroidea than the latter does from that of Rhabdopleura.
+
+At first glance the most important difference is in the nature of budding: perforation budding in Rhabdopleura and apertural budding in graptolites. The first bud formed on the stalk of a siculozooid, however, the founder of a colony of Dendrograptus, perforates the theca (sicula) of the siculozooid in order to construct its own theca above the hole (Fig. 212, C), as do the zooids of Rhabdopleura. Perforation budding is therefore not unknown in graptolites. It results, in fact, from the very organisation of colonial Pterobranchia: if buds are formed from the stem of the maternal zooid, which is turned towards the bottom of the theca, their most direct path to the exterior lies through a perforation in the thecal wall, which we see happening in Rhabdopleura or in the sicula of graptolites. In the later stages of development of colonies of Dendrograptus or other Dendroidea, because of the limited period of activity of the terminal zooid and the movement of the branching node nearer to the aperture of the stolotheca the buds become able to emerge through the aperture of the stolotheca and therefore perforation budding is replaced by apertural budding. Here also, however, at the places of emergence of two lateral buds the margins of the aperture form indentations—the vestiges of perforation apertures. In one way or another, perforation budding is another unusual phenomenon common to Rhabdopleura and graptolites and unknown in other colonial animals (if we exclude the 'perforation architomy' of Phoronis ovalis, see above).
+
+All the above remarkable similarities, especially the fusellar structure of the thecae, the character of the stolons, and the perforation budding, leave no doubt that graptolites are very close to Pterobranchia and belong to the phylum Hemichorda (Kozlowski). In fact, there is no feature that would enable us to exclude Graptolithoidea from Pterobranchia. If the tubes of Rhabdopleura had been originally found in the Palaeozoic they would certainly have been included among graptolites. It is difficult to
+
+<<<PAGE pdf=29 file=page_029.txt>>>
+[PAGE 474]
+[RUNNING HEAD] 474 COMPARATIVE ANATOMY OF INVERTEBRATES
+
+offer any objection to the inclusion of graptolites and Pterobranchia in a single class.
+
+Graptolites are a large group, and their colonies are very diversified. Among primitive forms standing at a level of coloniality scarcely higher than that of Rhabdopleura, there are many with more highly-developed polymorphism of individuals (possessing bizooids) and regularity of colonies. Besides the creeping and incrustational colonies of Stolonoidea, Camaroidea, and a number of Tuboidea, there were dendritic colonies growing on hard substrates (Dendroidea, etc.), colonies suspended by filaments (nemata) from sea-weeds (many Graptoloidea), and planktonic swimming colonies. Some of the latter, e.g. Diplograptus, were so complex and integrated that they were formerly compared to siphonophore colonies.
+
+6. COLONIES OF ASCIDIANS
+
+Among ascidians we find, besides solitary forms, two kinds of colonies that to a certain extent resemble Pterobranchia colonies: colonies with creeping (or erect) stolons, and others with semi-independent zooids enclosed in a common tunic. The first type (Fig. 214, C) includes Clavellina colonies constructed like those of Leucosolenia (Spongia Calcarea), of Tubularia (Leptolida Athecata), and of Ascopodaria (Kamptozoa), and Perophora colonies (Fig. 214, D) of branching (monopodial) type, which present the same kind of striking exceptions among ascidians as the branched colonies of Sympagella do among sponges.
+
+Incrustational or massive colonies with zooids embedded in a common mantle-jelly are much more characteristic of ascidians. Budding takes place by very diverse and sometimes very complex methods (e.g. that of Didemnidae, P. Brien and P. Breede, 1948); but the bud always separates within the jelly and does not remain where it is formed, but moves to its final location through the mass of the tunic.
+
+In some ascidians the bud finally breaks out to the surface, to which its oral and cloacal orifices also open, independently of the similar orifices of other individuals (e.g. Distoma). In other cases only the mouth opens directly to the exterior, while the cloacal orifice opens into a cloaca common to several zooids (Fig. 214, A, E), either directly (e.g. in Botryllidae) or through efferent canals that are sometimes fairly long; the buds, ceasing to be arranged around the common cloaca, are pushed out of the circle and, opening independently to the surface, give rise to a new common cloaca and a new circle of zooids. In this way cormidia, consisting of a circle of zooids grouped around a common cloaca, develop in colonies of synascidia. Sometimes these cormidia attain a high level of integration, e.g. in Botryllidae, where the order of formation, movement, and arrangement of members of the cormidium is remarkably complex and regular. Integration both of the whole colony and of the separate cormidia of Botryllus is intensified because of the presence and regularity of their colonial vascular system.
+
+<<<PAGE pdf=30 file=page_030.txt>>>
+[PAGE 475]
+[RUNNING HEAD] DEVELOPMENT OF THE COLONIAL HABIT 475
+[NOTE: the page carries no body text; it is wholly occupied by Fig. 214 in five lettered panels and its caption.]
+
+[FIGURE]
+[NOTE: lettering printed on the illustration itself, in approximate reading order. Panel A: 8, 7, 6, 5, 1, 3, 1, 4, 2, 2, 9, 10, 11, 12, 13. Panel B: b4, b3, b2, 9, 10, O2, b5, O3, O4, b6, O5, b7. Panel C: 6, 7, 4, 8, 1, 9, 16, 12, 13, 17, 16, 15, 14, 11. Panels D and E: no lettering besides the panel letters.]
+Fig. 214. Forms of ascidian colonies.
+
+A—part of section through one of the cormidia of a Botryllus colony. B—young (18 days old) colony of Diplosoma gelatinosa: o2-o5—zooids of first generation, budded directly on oozooid; b2-b7—zooids of second generation, budded on blastozooids. C—beginning of formation of a Clavellina colony, oozooid with stolon and two buds. D—shoot of colony of Perophora hutchisoni with buds of various ages (from Korschelt and Heider). E—Polyclinium constellatum, surface view of part of colony: the numerous zooids are united by their cloacal canals to the common cormidial cloacae (from Huus). 1—cloacae of separate zooids; 2—their outlets into common cloaca of cormidium; 3—outlet of common cloaca; 4—cerebral ganglion; 5—cerebral gland; 6—oral siphon; 7—branchial sac; 8—endostyle; 9—tunic; 10—its vessels; 11—young buds; 12—gut; 13—stomach; 14—buds (blastozooids); 15—root processes of stolon; 16—epicardial tubes, i.e. processes of the mid-gut of the oozooid, from which the endodermal organs of the blastozooids are formed; 17—heart.
+[/FIGURE]
+
+<<<PAGE pdf=31 file=page_031.txt>>>
+[PAGE 476]
+[RUNNING HEAD] 476 COMPARATIVE ANATOMY OF INVERTEBRATES
+
+Each cormidium is encircled by an annular vessel with which two vessels from each zooid communicate (being extensions of the subendostylic and subintestinal sinuses, see Vol. 2, Chap. VIII); each of these vessels plays the roles of afferent and efferent vessel alternately, depending on the direction of the heart's action. The vascular systems of the separate cormidia maintain connection with each other, and thus a vascular system common to the whole colony develops.
+
+In colonies of Botryllus each individual arises through atrial budding and remains united to the maternal zooid for a long time, if not for life, and united also through it to the other members of the colony by means of slender stalks. In most synascidia that connection is absent and the zooids are connected only by the common tunic in which they are embedded. Many forms, e.g. in Polyclinidae, also lack a common vascular apparatus.
+
+In several synascidia, therefore, the organic connection between individuals that is usually regarded as characteristic of a true colony is restricted to community in the tunic, which is secreted by the epidermis: something intermediate between cuticle and secretion, but inhabited by cells and often traversed by vessels (see Vol. 2, Chap. II). The separate individuals—at least young buds—may migrate within the mass of the tunic. Their relationships are unique, especially if one remembers appendicularians, which secrete a similar massive tunic and separate from it by processes similar to moulting, and live in its canals as in thecae (Vol. 2, Fig. 17). Thence it is only a short step to the coenoecia of Cephalodiscus, also formed of epidermal secretions, in the canals of which these animals live. Of course the coenoecia of Cephalodiscus may also be compared to the tubes of annelids and other such dwellings; but the relationship of Cephalodiscus to tunicates enables us to ask whether the composition of its coenoecium is a distant prototype of their tunics, and its collective life in family coenoecia a prototype of the colonial habit of most tunicates.
+
+Returning to ascidians, we must point out that coloniality arises independently in a number of groups in this class; that together with highly-colonial forms, in which budding begins even in the larval stage, there are many solitary forms; that the effect of coloniality on separate zooids is shown mainly in decrease in size and in some insignificant modifications and simplifications of organisation. Polymorphism is rudimentary and is shown, first, in the sterility of some individuals (usually oozooids) and, secondly, in the presence of undeveloped buds that store reserve matter and hibernate. In ascidian colonies integration is very slight, and often the individuality of cormidia is much more evident. Only rarely do massive colonies of ascidians assume a more-or-less-regular, indefinitely-multiradiate form (e.g. Colella), as happens in sponges.
+
+7. MOBILE COLONIES OF THALIACEA
+
+These include Pyrosomata (or Luciae), Salpae (or Desmomyaria), and Doliolida (or Cyclomyaria). Pyrosomata form colonies that are similar in
+
+<<<PAGE pdf=32 file=page_032.txt>>>
+[PAGE 477]
+[NOTE: previous reader's pencil annotation. A long vertical pencil rule runs down the outer left margin beside the third paragraph, from 'also in the co-ordination of its movements' to 'to it.'; pencil underlining marks 'transmits the stimulus' and 'marginal zooids to the diaphragm,' and runs on under 'and muscle' at the start of the next line. In the right-hand margin, level with 'bringing them into motion' and the line below it, stand two pencil question marks; a few tiny pencil specks lie below them.]
+[RUNNING HEAD] DEVELOPMENT OF THE COLONIAL HABIT 477
+
+principle to ascidian colonies. Separate individuals arising by budding are united only by a common tunic, and each bud takes its own place by migrating through the mass of the tunic. In most species (Pyrosomata Ambulata, G. Neumann, 1913) the buds travel by means of phorocytes. In some species the buds remain at the place of formation, being united to the maternal individual by stolons for a long time and dispersing only to the extent that the stolons grow within the mass of the tunic (Pyrosomata Fixata, G. Neumann, 1913; genus Propyrosoma, O. Ivanova-Kazas, 1961).
+
+In Pyrosomata colonies all the zooids are uniform; only the primary founder (oozooid) is infertile and the first four of its offspring form only spermatozoa, whereas the rest are hermaphrodites. The chief difference from colonies of sessile ascidians is in the strict regularity of the colony, which has the shape of a hollow cylinder, open at one end and roofed over at the other (Fig. 215, A). The free edge possesses a movable diaphragm; there the youngest individuals are located, through transportation of buds by phorocytes, and there the growth of the colony is concentrated.
+
+Apart from the general regularity of the colony, its integration is shown also in the co-ordination of its movements, which is achieved in a unique way in the absence of muscular, vascular, or neural links between individuals; mechanical fibres of the tunic extend from one zooid to another and are attached to the ends of the arcuate cloacal muscle in the body of each, bringing them into motion.
+[HANDWRITTEN] ? ?
+By means of the fibres of the tunic, contraction of the muscles of one zooid pulls another zooid and transmits the stimulus to it. Pallial bloodvessels run from the marginal zooids to the diaphragm, and muscle fibres by which the diaphragm is moved develop in the walls of these vessels. In zooids that have lost connection with the margin of the colony these vessels are reduced. All the zooids are independent of one another with regard to feeding and reproduction.
+
+In salps and doliolids the development of colonies is associated with alternation of generations.
+
+In salps (Desmomyaria) the asexual oozooid is provided with a stolon, from which a chain of sexual individuals develops. At first the members of the chain are organically united by the stolon, but mature sections of the chain that break away from the stolon consist of zooids that have lost the stolonic connection and are joined together only by mutually-adherent attachment papillae. They swim as a 'colonial' generation, but actually their coloniality is scarcely evident. Both anatomically and physiologically the connection between the zooids is very slight. It is rather a 'solitary' salp with its budding stolon, which represents a colony, but it is a colony of incipient type, such as Myrianida (family Syllidae, order Nereimorpha) or the strobilae of Gonactinia (Fig. 31). The structure of colonies of the sessile salps Octacnemidae is not well enough known to merit discussion.
+
+The colonies of Doliolum (Cyclomyaria)—one of the most fantastic of marine creatures—are of exceptional interest.
+
+On its ventral side the oozooid of Doliolum has a filamentous stolon, which at an early stage begins to bud off minute 'pre-buds'. At the base
+
+<<<PAGE pdf=33 file=page_033.txt>>>
+[PAGE 33: unnumbered]
+[NOTE: full-page landscape plate. The PDF page carries /Rotate 270 and the page renders in landscape; it must be turned 90 degrees clockwise to be read. There is no running head and no printed folio on the page.]
+[NOTE: the scan image extends beyond the page box on both sides, so the plate is physically amputated at both ends and the missing text cannot be recovered. At the right-hand end every line of the caption is cut off mid-word or mid-phrase; the loss is marked [illegible] below and is NOT reconstructed. At the left-hand end all but a narrow sliver of panel A is cut away, leaving only its leader labels 1, 2 and 3 and a fragment of the drawing; the panel letter A itself is not visible.]
+
+[PLATE]
+[NOTE: lettering surviving on the illustration. Panel A (sliver at the amputated left edge): 1, 2, 3. Panel B: B, 1, 6, 7, 8, 9, 10, 11.]
+Fig. 215. Structure[illegible]
+colony.
+
+A—longitudinal sectio[illegible]
+ony. B—part of colony[illegible]
+fied). 1—oral append[illegible]
+of colony; 3—zooids;[illegible]
+5—its orifice; 6—phosp[illegible]
+7—cloaca; 8—stolon; 9[illegible]
+10—fibrous strands of t[illegible]
+tendons for arcuate mu[illegible]
+11—common tunic of[illegible]
+Delage and Hérouard).
+[/PLATE]
+
+<<<PAGE pdf=34 file=page_034.txt>>>
+[PAGE 479]
+[NOTE: previous reader's pencil marks in the outer left margin: a small tick beside '216, C). From the moment of appearance' and a long vertical rule lower down, alongside the left-hand part of panel A of the figure. Neither forms a letter or word.]
+[RUNNING HEAD] DEVELOPMENT OF THE COLONIAL HABIT 479
+
+of the stolon numerous large amoeboid cells, phorocytes, are clustered: they lie along the stolon and immediately grasp the pre-buds as they separate off. The phorocytes carry the pre-buds in twos or threes to the dorsal outgrowth of the mother (Fig. 216, A) and there deposit them in regular order. The pre-buds, after settling in lateral rows, divide and become attached, and each gives rise to a spoon-shaped gastrozooid (Fig. 216, C). From the moment of appearance of the latter the maternal
+
+[FIGURE]
+[NOTE: lettering printed on the illustration itself, in approximate reading order. Panel A: 1, 5, 2, 4, 1, 3, 1. Panel B: 1, 2, 3, 4, 7, 5, 6. Panel C: 1, 2, 9, 8, 3, 4, 7, 5, 6. Panel D: 1, 2, 9, 8, 7, 4, 3, 10, 6.]
+Fig. 216. Cormogeny and colony structure in Doliolum.
+
+A—wandering bud: 1—phorocyte; 2—mesoderm; 3—ectoderm; rudiments of epithelium: 4—pharyngeal, 5—cloacal. B—rear part of body of oozooid (asexual maternal founder of colony): 1—pericardium; 2—stolon; 3-4—wandering buds, moving to the ventral (3) and dorsal (4) sides of animal; 5—lateral zooids (future gastrozooids); 6—medial zooids (future phorozooids with groups of buds—future 'replacing' and sexual pre-buds—at their bases); 7—wandering buds on dorsal outgrowth. C—gastrozooid of Doliolum mülleri: 1—cephalic ganglion; 2—gill slits; 3—posterior duct; 4—gut; 5—heart and pericardium; 6—foot; 7—endostyle; 8—pharynx; 9—arc of ciliated epithelium. D—phorozooid of Doliolum mülleri: 10—buds of sexual individuals; other figures have same denotations as in C (from Korschelt and Heider).
+[/FIGURE]
+
+<<<PAGE pdf=35 file=page_035.txt>>>
+[PAGE 480]
+[NOTE: this page carries extensive pencil annotation by a previous reader: one line of handwriting across the head of the page above the running head, three separate clusters of handwriting down the outer left margin, and pencil underlining in three places in the text. The left-margin handwriting runs off the left edge of the scanned area, so the opening letters of those lines are cut away, and the hand is loose; readings are given only where they are reasonably clear and the rest is marked [illegible]. Underlining occurs beneath 'Food moves by diffusion' and 'the mother' in the first paragraph, beneath 'free-swimming' in the third, and beneath 'of the behaviour of cellular elements in the morphogenesis of a multicellular animal, and the problem of the stimuli' in the fourth.]
+
+[HANDWRITTEN] no direct connections via [?canals]
+
+[RUNNING HEAD] 480 COMPARATIVE ANATOMY OF INVERTEBRATES
+
+[MARGIN]
+[HANDWRITTEN] [illegible][?lacenta]
+[HANDWRITTEN] [illegible] food
+[HANDWRITTEN] [illegible]
+[/MARGIN]
+
+individual—the oozooid—loses its gut and gill and ceases to be a feeding member of the colony, retaining the role of the colony's locomotor apparatus. Food moves by diffusion from a gastrozooid into the blood of the mother through closely-apposed parts of the epithelium of each of them, which forms a kind of placenta; in the same way the food is transmitted from the mother to the rest of the colony.
+
+[MARGIN]
+[HANDWRITTEN] [illegible]-colony
+[HANDWRITTEN] [illegible]
+[HANDWRITTEN] [illegible]
+[/MARGIN]
+
+When the pre-buds settle in medial rows they are arranged in groups. In each group one bud changes into a phorozooid and the others into its 'deputy' and into sexual pre-buds. The phorozooid grows into a Doliolum-like individual, on whose stalk a sexual pre-bud settles. Together with the latter the phorozooid breaks off and thenceforth lives independently, and the nearest 'deputy' takes its place. A mature colony thus consists of permanent members—oozooid and gastrozooids—and temporary members—phorozooids and sexual pre-buds. The colony is of 'monarchic' type, but with marked polymorphism and considerable independence of the subordinate zooids.
+
+[MARGIN]
+[HANDWRITTEN] [illegible: 3 lines of loose cursive, partly cut off at the scanned page edge, with a long pencil stroke leading to the word 'free-swimming' in the text]
+[/MARGIN]
+
+After breaking away the phorozooid swims freely in the sea, and the sexual pre-bud on it divides and forms several gonozooids, so that a small free-swimming colony is formed. On maturity the gonozooids in turn separate from their phorozooid and thenceforth lead the life of independent solitary sexual individuals.
+
+Everything here is extraordinary—the remarkable polymorphism of the colony; its high integration, with relative independence of the separate individuals; the close physiological connection, without true organic unity. But the most surprising feature is the transportation of pre-buds by phorocytes, which deposit them in groups in strictly regular order. Here we have an unusually striking example of a phenomenon very common but too often overlooked—the role of the behaviour of cellular elements in the morphogenesis of a multicellular animal, and the problem of the stimuli determining the movement and final location of cells—the builders of an organism—is placed clearly before us.
+
+8. CONCLUSIONS ON THE TYPES OF COLONIES OF METAZOA
+
+Among coelenterates the only analogues of the linear colonies of worms are the strobilae of Anthozoa and Scyphozoa; in both cases the colony arises through paratomy; in both cases separating individuals reach sexual maturity sooner or later (Discomedusae, Syllidae). A difference is that the strobilae of worms (except cestodes) are free-moving; ecologically they have very little in common with the strobilae of Gonactinia or Discomedusae. Therefore there is no similarity in their external appearance. Among Protozoa the nearest analogue of linear colonies of worms is the chains of the parasitic infusorian Anoplophrya (Holotricha Astomata, Fig. 91, D).
+
+The sacciform and branched colonies of tissue parasites arise through the need for fuller exploitation of the host; the sacciform shape is retained
+
+<<<PAGE pdf=36 file=page_036.txt>>>
+[PAGE 481]
+[NOTE: previous reader's pencil marks in the outer left margin only: small ticks beside 'many others.', beside 'Kamptozoa and Rhabdopleura stand at the same level' and the line below it, a short vertical rule beside 'Even in Bryozoa, however, there is often a tendency to form branched / colonies that externally resemble', and a further short vertical rule near the foot of the page below the last paragraph. None forms a letter or word, and there is no underlining on this page.]
+[RUNNING HEAD] DEVELOPMENT OF THE COLONIAL HABIT 481
+
+when development is slow, but with more intensive metabolism and rapid growth filamentous or branched colonies develop. An analogue of colonies of this type among coelenterates is Polypodium hydriforme (an endoparasite of the sterlet), and among Protozoa, Myxosporidia (Neosporidia) and many others.
+
+Among sessile colonial Bilateria, Bryozoa, Kamptozoa, and Pterobranchia show a distant resemblance to polyps in their food-procuring organs. The types of colony-formation in these classes also show some points of resemblance to types of polyp colonies. That resemblance is most striking in Kamptozoa and Rhabdopleura, which resemble hydroids especially in the external division of the body: in these cases both the morphological and the ecological prerequisites are similar, and so are the colony types. With regard to development of coloniality, however, both Kamptozoa and Rhabdopleura stand at the same level as only the most primitive hydroids. As for the relatives of Pterobranchia, graptolites, the external resemblance of their colonies to those of hydroids is so close that for a long time they were classified as Hydrozoa.
+
+Bryozoa differ from hydroids in not being differentiated into a head and a stalk. Therefore their colony-formation principles differ from those of hydroids, these principles varying greatly in different orders of Bryozoa. Even in Bryozoa, however, there is often a tendency to form branched colonies that externally resemble the most usual types of branched colonies of hydroids—a feature evidently associated with the procurement of food by means of tentacles.
+
+Polymorphism in Bryozoa, as in hydroids, begins with differentiation into sexual and asexual individuals, but in Bryozoa specialised brooding individuals appear more often than actual gonozooids. In Stenolaemata and Gymnolaemata the reduced zooids that perform various mechanical functions compensate for their lack of a coenosarc. Finally, the existence of unique types of zooids—nanozooids, avicularia, and vibracula—is a manifestation of a very high type of polymorphism, reminiscent of the most polymorphic hydroid colonies.
+
+The colonial brood pouches of Lichenoporidae (Stenolaemata) show some analogy to the corbulae of Aglaophenia (Leptolida Thecaphora) and other polyzoic brooding organs of hydroids. The typical assemblages of polymorphic zooids of Bugula or Retepora (Gymnolaemata) have their formal parallel in the cormidia of Millepora (Leptolida Athecata). In other words, all the principal directions of development of colonial individuality found in sessile hydroids occur also in Bryozoa. The extreme types of colonial integration around a central oecium found in Stenolaemata have no analogues among hydroids, and are one of the peaks in development of colonial individuality not attained by the latter.
+
+In their fusion of cystids and in their polypides belonging to a common colonial cystid some Phylactolaemata rather resemble Octocorallia, with their dissociation between ectoderm and endodermal canals in the coenosarc and with their zooids budding off from the common colonial coenosarc.
+
+<<<PAGE pdf=37 file=page_037.txt>>>
+[PAGE 482]
+[NOTE: previous reader's pencil marks in the outer left margin: a long vertical rule, hooked at its lower end, spanning the paragraph beginning 'Finally, there are striking analogies' from that first line down to 'zooids). We have seen (Chap. III)', together with three small ticks beside 'Finally', beside 'zooids is very complex' and beside 'carrying sexual individuals'. None forms a letter or word, and there is no underlining on this page.]
+[NOTE: the numeral 1 after 'Volvox' in the seventh paragraph is a superscript footnote reference, keyed to the numbered footnote at the foot of the page.]
+[RUNNING HEAD] 482 COMPARATIVE ANATOMY OF INVERTEBRATES
+
+The strict biradiate symmetry of Cristatella colonies (Phylactolaemata) shows the role of mobility in the development of regular symmetry in colonies—a linkage we see also in coelenterates and tunicates.
+
+Among Protozoa a number of analogies to the branched colonies of sessile Metazoa are shown by, for example, the colonies of Vorticella (Peritricha) and of some Suctoria.
+
+In their method of procuring food (filtering water through the body) ascidians show some analogy to sponges, and that analogy is well reflected in the structure of their colonies. In both groups incrustational or massive colonies predominate; on the other hand, stolonic colonies of the Leucosolenia (sponge) and Clavellina (ascidian) type and branched colonies of the Sympagella (sponge) and Perophora (ascidian) type are exceptional in both groups. In both groups the immediate components of colonies are often complexes grouped around excurrent orifices—cloacal orifices common to several individuals in ascidians and oscula in sponges. In both groups polymorphism of individuals is absent—totally in sponges and almost totally in ascidians.
+
+Finally, there are striking analogies between planktonic tunicates (especially Doliolum) and siphonophores. The division of labour by the zooids is very complex, especially if one bears in mind the great differences in the whole structure of the zooids. In both cases there are locomotor individuals (bell, oozooid), feeding individuals (gastrozooids), individuals carrying sexual individuals (blastozooids in siphonophores and phorozooids in Doliolum), and sexual individuals (medusoids and gonozooids). We have seen (Chap. III) that in Siphonophora Calycophorida cormidia separate from the colony, carrying with them sexual zooids and living as independent bionts (eudoxiae and ersaeae); the separating phorozooids of Doliolum behave in the same way. The separating and, ultimately, fully-independent gonozooids of Doliolum have their analogues in the medusoids of Disconantae, known under the name of chrysomitra (e.g. in Velella).
+
+The dominant role of the oozooid in Doliolum colonies gives them a 'monarchical' character, like the colonies of Siphonophora Disconantae.
+
+The hollow, monaxonic-heteropolar colonies of Pyrosomata, with a rosette of four zooids at one pole and an orifice at the other, have no analogues among other colonies of Metazoa, but resemble Volvox 1 colonies in all other features. That resemblance also occurs to a surprising extent in a number of other details (e.g. rotary quadriradiate symmetry in the arrangement of zooids at the beginning of colony-formation, etc.).
+
+We thus see that there are many types of colony (cormus) structure common to groups of Metazoa far removed from each other. That community of structure is based both on organisational analogies between comparable groups (e.g. division of the body into head and stalk) and on ecological similarities (e.g. method of procuring food). When both the
+
+[FOOTNOTE] 1 See A. A. Zakhvatkin (1949, 1956) for a review of the structure and development of Volvox colonies.
+
+<<<PAGE pdf=38 file=page_038.txt>>>
+[PAGE 483]
+[NOTE: previous reader's pencil annotation. A vertical pencil rule stands in the right-hand margin beside the latter part of paragraph (b), from 'If, however, the whole community is formed' to 'certainly deserves the name of'. Pencil underlining marks 'rudiments of coloniality' in paragraph (b) and 'matter between' in paragraph (c). Three lines of pencil handwriting are written across the blank foot of the page, to the right of the signature mark; the hand is loose and the readings below are uncertain.]
+[RUNNING HEAD] DEVELOPMENT OF THE COLONIAL HABIT 483
+
+organisational and the ecological prerequisites are present, similarity in colony structure may be considerable even in forms whose individuals are very different in other respects (e.g. Hydrozoa Athecata and Kamptozoa). The abundance of such convergences points to the very regular course of development of coloniality in Metazoa.
+
+As we have seen, there are also many surprising analogies in types and methods of colony-formation between Metazoa and Protozoa.
+
+9. CONCLUSIONS ON THE METHODS OF DEVELOPMENT OF DEGREES OF COLONIALITY
+
+Comparing colony-formation in sponges, coelenterates, and Bilateria, we find the formation of colonies progresses in three main ways: (i) by weakening of the individuality of the zooids; (ii) by intensification of the individuality of the colony (cormus); and (iii) by development of cormidia.
+
+(a) WEAKENING OF THE INDIVIDUALITY OF ZOOIDS
+
+The degree of individuality of zooids is determined by the degree of their independence with regard to the higher whole, and the degree of their dominance over their own parts. This problem has many aspects, which we shall take in order.
+
+1. The reciprocal organic connection between the zooids in a colony. It shows the following series of steps:
+
+(a) organic connection is absent: the unity of the higher whole is based only on co-ordination of behaviour, whereas co-ordination of metabolism and structural formation (if such exists) arises only as an indirect result of co-ordination of behaviour; this type of organisation (for instance, a 'community' of Hymenoptera) is not generally regarded as a colony;
+
+(b) union of individuals exists, but only by means of their 'dwellings', which are wholly or partly formed by their secretions or cuticles. By itself, without other signs of integration, union of animals by means of formations secreted by them is not sufficient evidence of coloniality. Thus we cannot regard the attachment of acorn barnacles or oysters as forming a colony. If, however, the whole community is formed by the asexual reproduction of one original individual, as happens with Phoronis ovalis or Cephalodiscus, we may see there the rudiments of coloniality. The tunic in which the zooids of synascidia are embedded ensures more intimate union of them than does the coenoecium of Cephalodiscus, and a community of synascidia certainly deserves the name of 'colony' even when the separate zooids are not connected by either stolons or bloodvessels;
+
+(c) union of zooids takes place by apposition of epithelial placentas (salps, Doliolum); in Doliolum, but not in chains of salps, these placentas are used for intensive exchange of matter between the members of the colony;
+
+33
+[NOTE: '33' at the foot is a printer's signature mark, not a folio.]
+
+[HANDWRITTEN] [?However] [?plaques] [illegible]
+[HANDWRITTEN] Salps mediate
+[HANDWRITTEN] [?behavioural] signals
+
+<<<PAGE pdf=39 file=page_039.txt>>>
+[PAGE 484]
+[NOTE: previous reader's pencil marks. In the outer left margin: two small ticks beside 'of Madreporaria (Fig. 46) or the oscula', a dot beside 'others remain permanently connected', and, lower, a short vertical rule beside '(colonies of Octocorallia, Stenolaemata, etc.)' together with two loose strokes at the extreme left edge. Pencil underlining marks '5. Short life of individuals' and runs on under 'replacement' in the following line. None of the marginal marks forms a letter or word.]
+[RUNNING HEAD] 484 COMPARATIVE ANATOMY OF INVERTEBRATES
+
+(d) the union of zooids is organic, by means of special organs for that purpose (this is usually combined with union of type (b)). For instance, zooids in Bryozoa colonies are joined by mesoderm and usually also by ectoderm, whereas the endodermal organs of different zooids are always entirely separate;
+
+(e) all the principal body layers of each zooid pass directly into the corresponding layers of the other members of the colony (all colonies of coelenterates);
+
+(f) the zooids are completely fused together, so that only separate organs of them retain independence (e.g. the pharynxes in the meandering colonies of Madreporaria (Fig. 46) or the oscula with adjoining efferent canals in colonies of sponges).
+
+2. Permanence of links between zooids. Besides temporary colonies, which are merely stages in the process of asexual reproduction (Hydra, Loxosoma, Microstomum, etc.), there are permanent colonies from which only members of a certain definite category become separated, while the others remain permanently connected (e.g. colonies of hydroids, from which young medusae separate), or from which no members at all separate (colonies of Octocorallia, Stenolaemata, etc.). If we regard cestode strobilae as cormi we shall find among them all transitions from temporary colonies with early-separating members to fully-permanent colonies from which no members separate.
+
+3. Decrease in size and simplification of structure of zooids as compared with members of related free-living species: Actiniaria-Madreporaria, Phoronoidea-Bryozoa, solitary ascidians-synascidia. From this point of view it is very probable that Hydra, Loxosoma, and Monobryozoon are secondarily-solitary forms, since neither in size nor in organisation do they surpass their colonial relatives in any way.
+
+4. Incompleteness of structure of zooids, occurring when a coenosarc exists, and expressed in the fact that separate zooids lack the parts that are replaced by the coenosarc, e.g. the absence of a foot in polyps and in colonial Kamptozoa. An analogous situation exists in linear colonies even without a coenosarc, e.g. absence of the front end of the body in the proglottides of tapeworms, etc.
+
+5. Short life of individuals as compared with long life of the colony: in all permanent colonies replacement of zooids usually develops through the complete dying-off of some zooids and their subsequent replacement by new ones, or through partial degeneration (e.g. degeneration of polypides in Bryozoa) with subsequent regeneration of the dead parts.
+
+This phenomenon is well marked in hydroids (degeneration of hydranths), in Kamptozoa (shedding of heads), in Bryozoa (formation of brown bodies), in Rhabdopleura, and in synascidia.
+
+6. Polymorphism. The development of several kinds of zooids as the result of division of labour within a common colonial whole is, on the one hand, a manifestation of intensification of colonial individuality, and as such is discussed below. On the other hand, polymorphism is also a
+
+<<<PAGE pdf=40 file=page_040.txt>>>
+[PAGE 485]
+[NOTE: previous reader's pencil marks in the outer left margin only: a short vertical rule beside 'the influence of the colony, e.g. the bilateral symmetry', a second beside 'depending on their location in the colony.', and a longer one beside the paragraph beginning '8. Dissolution of zooids', running from 'bodies become subject more' to 'with their characteristic separation of ectoderm'. None forms a letter or word, and there is no underlining on this page.]
+[NOTE: the numeral 1 after 'Anthozoa' in the third paragraph is a superscript footnote reference, keyed to the numbered footnote at the foot of the page.]
+[RUNNING HEAD] DEVELOPMENT OF THE COLONIAL HABIT 485
+
+consequence of weakening of zooid individuality, the subjection of the morphogenesis of the zooid to factors pertaining to the colonial whole.
+
+One of the most typical manifestations of polymorphism as a suppressor of zooid individuality is the loss by some zooids of the faculty of sexual reproduction. In Rhabdopleura colonies we find sterile zooids together with males and females. In Gymnolaemata all heterozooids have lost the faculty of sexual reproduction, and in the family Hippothoidae so also have some autozooids. In Stenolaemata most autozooids produce male sex products, but only specialised gonozooids produce female sex products. In hydroids the hydranths have totally lost the faculty of sexual reproduction, which is possessed only by the medusoid individuals. In some Octocorallia (Anthomastus, Corallium, Paragorgia) sex products almost always develop in siphonozooids.
+
+Polymorphism is clearly shown in sessile colonies of Hydrozoa, Stenolaemata, Gymnolaemata, many graptolites, and planktonic colonies of Siphonophora and Doliolida. It is less marked in Octocorallia, Phylactolaemata, and Rhabdopleura. It is totally absent in other Anthozoa 1 (except Octocorallia), in Kamptozoa, and in sponges, and almost absent in synascidia. In some cases of polymorphism the suppression of zooid individuality is very obvious, e.g. in the kenozooids of Bryozoa with their extremely simplified organisation.
+
+7. Subjection of the shape of zooids, particularly their symmetry, to the influence of the colony, e.g. the bilateral symmetry of the zooids of Antipatharia (Anthozoa) or of the hydranths of Sertulariidae (Hydrozoa), depending on their location in the colony.
+
+8. Dissolution of zooids resulting from the fact that sections of their bodies become subject more to the co-ordinating influence of the colonial whole than to the influence of the zooids themselves. Siphonantae present a typical example of total dissolution of zooids (see pp. 93-96). Partial dissolution, beginning with the aboral end and ceasing before it reaches the physiologically and morphologically dominant head, is seen in Octocorallia with their characteristic separation of ectoderm from endoderm in the region of the coenosarc and their formation of a system of canals (solenia) from the endoderm of the coenosarc.
+
+Loss of the circular arrangement of tentacles around the pharynx and their replacement by paired longitudinal rows in the meandering colonies of Madreporaria (Fig. 46, A) present another instance of 'dissolution' of individuals in colonies, subjection of their organs to the structural plan not of the individuals but of the colonial whole.
+
+(b) INTENSIFICATION OF THE INDIVIDUALITY OF THE COLONY
+
+Intensification of the individuality of the colony takes many forms.
+
+1. Formation of a coenosarc and its developing role. Formation of a coenosarc is possible when there is a steep physiological gradient (in Child's
+
+[FOOTNOTE] 1 See, however, footnote to page 99, re dimorphism in Madrepora durvillei.
+
+<<<PAGE pdf=41 file=page_041.txt>>>
+[PAGE 486]
+[NOTE: previous reader's pencil annotation. Three short handwritten notes are written in the outer left margin, sloping steeply upward, beside the paragraph beginning '2. Creation of colonial organs'; the third is very faint. Pencil underlining marks 'the corbula of Aglaophenia (Fig.' and runs on under 'examples of coenosarcal' in the following line.]
+[NOTE: the numeral 1 after 'sense' in the first line is a superscript footnote reference, keyed to the numbered footnote at the foot of the page.]
+[RUNNING HEAD] 486 COMPARATIVE ANATOMY OF INVERTEBRATES
+
+[MARGIN]
+[HANDWRITTEN] pneumatophore
+[HANDWRITTEN] ? bracts
+[HANDWRITTEN] [?Polyzooic] [?organ]
+[/MARGIN]
+
+sense 1) in the bodies of the members of a colony with division into physiologically dominant and subordinate parts (head-stalk in polyps, polypide-cystid in Bryozoa, thorax-abdomen in the ascidians Clavellinidae, trunk-stem in Kamptozoa and Pterobranchia, and trunk-cercomere in cestode larvae).
+
+The original role of the coenosarc was provision of an organic connection and exchange of matter between zooids. As its role increased new individuals budded from the coenosarc and a common colonial growth zone was formed. Finally, differentiation of organs and apparatuses common to the colony took place from the coenosarc: the coenosarcal attachment-organs of many coelenterates, the skeletal formations of many Anthozoa, the creeping sole of Cristatella, the hypostegal brood pouch of Lichenopora. Unusual complexity and diversity are found in the circulatory apparatus of Octocorallia formed by the endodermal canals (solenia) of the coenosarc. The musculature and neural plexus of the solenia also form the locomotor and neural apparatuses of Pennatularia. It is not quite clear whether we can include the 'kidney' and 'liver' of Velella among coenosarcal organs; the structure of Disconantae colonies gives more grounds for suggesting that these organs are formed from the gastrovascular apparatus of the gastrozooid. The tracheae of Velella, without any doubt, do not belong to the coenosarc, since they are formed from the pneumatophore, which in Disconantae is an organ of the gastrozooid.
+
+2. Creation of colonial organs. The needs of the large body of a colony cannot usually be satisfied by the functions of the organs of ordinary zooids, and it creates larger colonial organs either by specialisation and strengthening of the functions of separate zooids (polymorphism), by creation of organs involving a number of zooids, or by creation of coenosarcal organs. Typical examples of unilateral strengthening of the functions of separate zooids are presented by the siphonozooids of Octocorallia (Fig. 48), the dactylozooids and gastrozooids of Athecata (Fig. 37, B), the female gonozooids of Stenolaemata, etc. A typical example of a polyzoic organ is the corbula of Aglaophenia (Fig. 37, C). We have already mentioned examples of coenosarcal organs.
+
+3. Creation of colonial apparatuses, and physiological integration of the colony. The most important characteristic of true colonies of Metazoa is possession of a common colonial circulatory apparatus. A certain degree of uniformity of the internal environment is one of the chief signs of the existence of coloniality. We may say that without exchange of matter between living zooids there is no colony. That is why a cluster of Balanus or of mussels is not a colony.
+
+In typical colonies of hydroids or Bryozoa the internal environment is trophic, excretory, and incretory. The degree of efficiency of the linking action of the internal environment, however, depends on the level of
+
+[FOOTNOTE] 1 C. M. Child (1911) established the presence of a physiological gradient in the bodies of many animals, i.e. arrangement of the parts of the body in a definite topographical succession with a gradual fall in the intensity of metabolism.
+
+<<<PAGE pdf=42 file=page_042.txt>>>
+[PAGE 487]
+[NOTE: no pencil marks or marginalia on this page. The numeral 1 after 'stimuli.' in the third paragraph is a superscript footnote reference, keyed to the numbered footnote at the foot of the page.]
+[RUNNING HEAD] DEVELOPMENT OF THE COLONIAL HABIT 487
+
+organisation of the circulatory apparatus (see Vol. 2, Chap. VIII) and therefore is capable of considerable advancement. Unfortunately our knowledge of the degree of functional efficiency of the circulatory apparatuses of various coelenterates, Bryozoa, and synascidia is insufficient for precise comparison.
+
+The neural system of colonial animals has been still less studied, but it is certain that a single colonial neural apparatus is far from being universal. Among Octocorallia transmission of stimuli from one zooid to another has been proved for Pennatularia and some Gorgonaria (e.g. Eunicella), and recently also for a number of other forms (G. Horridge, 1956a, b); the transmission takes place mainly through the ectodermal neural system of the solenia described by N. Kassianow (1908). The transmission of stimuli from one zooid to another has been demonstrated also in some Madreporaria. There are neural cells in the coenosarc of hydroids, but their physiological function is not clear. In many Bryozoa that have been studied in this connection the neural plexuses of cystids do not as a rule communicate with each other; only Cristatella has indubitably a common colonial neural plexus. Apparently neural connections between zooids are lacking also in Kamptozoa colonies (L. Silén, 1950).
+
+Formation of a common colonial neural apparatus takes place mainly in mobile and semi-mobile colonies (Siphonophora, Pennatularia, Cristatella), but with the exception of tunicates. In Doliolum the formation of a common colonial neural apparatus is impossible because of the weakness of the organic links between the zooids, and is unnecessary because of the 'monarchical' nature of the colony, in which all locomotor functions are entirely vested in the oozooid. In Pyrosomata also there are no neural connections between the zooids, but co-ordination of their movements is attained by the unique mechanism described above. In no group of colonial Metazoa, however, has the stage of formation of colonial nerve centres been reached, and also there are no common colonial receptors of distant stimuli.1 In any case the example of the neural system shows us that maximum integration of a colony is attained under the influence of the requirements imposed upon it by a mobile mode of life. The high integration of Pyrosoma and Doliolum colonies is further evidence of that fact. Analogy with the first stages of the evolution of multicellular animals suggests itself. L. A. Zenkevich (1944) is certainly correct in asserting that the main stimulus to body integration of Metazoa was a mobile mode of life. Activity is a main factor in biological progress (see Chap. X and Vol. 2, Chap. III). Sluggish activity, even of mobile colonies, is the chief reason for the poor centralisation of their neural apparatus.
+
+[FOOTNOTE] 1 Receptors of distant stimuli (see Vol. 2, Chap. IV) are also rare in the separate zooids of colonial animals, being formed exclusively in mobile forms and mainly at the lower levels of development of coloniality (eyes in salps, eyes and statocysts in members of temporary colonies of budding hydromedusae, various organs in members of linear colonies of worms, etc.). An exception is the highly-integrated colonies of Pyrosomata, the zooids of which also possess eyes.
+
+<<<PAGE pdf=43 file=page_043.txt>>>
+[PAGE 488]
+[NOTE: no pencil marks or marginalia on this page.]
+[RUNNING HEAD] 488 COMPARATIVE ANATOMY OF INVERTEBRATES
+
+Other colonial apparatuses also acquire a centralised structure only in exceptional cases. These include the supporting apparatus of Pennatularia, the female sexual apparatus of Lichenoporidae (Stenolaemata) and the secretory and digestive apparatuses of Siphonophora Disconantae, if we regard the latter formations as belonging to the colony as a whole and not to a single gastrozooid.
+
+On the whole we may say regarding the last two points that the organological differentiation of colonies is often at a high level, and sometimes higher than the organological differentiation of individuals of the same group, which is especially true of coelenterates. This is not surprising when we consider that the level of organological differentiation is to a certain extent a function of body size. On the other hand, the centralisation of functioning and the creation of unified, complexly-differentiated colonial apparatuses advance much more slowly, mainly affecting only the function of internal transport but also extending to some degree to other systems of organs, chiefly in mobile colonies.
+
+4. Regulation of the general structural plan and of the development of colonies, manifested in: (i) creation and subsequent refinement of a law of growth and branching affecting the whole colony, and sometimes (e.g. in Octocorallia) also regulation of the internal structure of the colony; (ii) development of a shape and configuration of the colony characteristic of a given species, expressed in limitation of the growth of the colony in certain directions, as we have seen in the leaf-shaped colonies of Bryozoa; (iii) development of regular colonies, with strictly-determined sequence of formation, position and number of zooids (in some Bryozoa); and finally, (iv) development of regular symmetry in the colony, mostly in mobile forms (Siphonophora, Pennatularia, Cristatella, Pyrosomata, Doliolida) but also occasionally in sessile forms (some Bryozoa, synascidia, sponges, and graptolites).
+
+5. Oligomerisation of monotypic elements in a colony. Decrease in the number of monotypic elements (oligomerisation) is one of the methods and indications of integration of an organic individual (V. Dogiel, 1954). An example is the decrease in the number of bells in colonies of Siphonophora Calycophorida (cf. Fig. 40, C).
+
+6. Complexity in the ontogenesis of a colony (cormogeny). This is manifested chiefly in the development of differences between the various generations of zooids in the colony. Most commonly a number of peculiar features occur in the founder of the colony (oozooid), e.g. in marine Bryozoa (the ancestrula of Gymnolaemata, the primary disc of Stenolaemata), in graptolites (siculozooid), and in some hydroids (e.g. Staurocoryne, Fig. 15). The oozooid of ascidians is distinguished by being incapable of sexual reproduction. In some hydroids (e.g. Stomotheca) and in Siphonophora Siphonantae the oozooid stage drops out of the development altogether, as the larva is transformed directly into an impersonal section of the coenosarc; it is also lacking in Phylactolaemata and some Gymnolaemata, where the larva produces a cystid from which two polypides are budded off
+
+<<<PAGE pdf=44 file=page_044.txt>>>
+[PAGE 489]
+[RUNNING HEAD] DEVELOPMENT OF THE COLONIAL HABIT
+
+at the same time. In Pyrosomata the oozooid is quite sterile sexually; ts first four vegetative offspring have only testes, whercas all the subsequent zooids are hermaphrodites. At the beginning of colony-formation in some groups of graptolites and Pennatularia, zooids appear of types (bizooids, siphonozooids) that do not recur in the further development of the colony. In the most complex colonies of Octocorallia, Siphonophora, Bryozoa, graptolites, and Doliolida the development of the colony (cormogeny) is a most complex process, during which different types of zooids succeed one another in a definite order, various organs common to the whole colony gradually appear, and the laws of budding and growth of the colony undergo successive changes.
+
+[NOTE: the second line of the page is printed "ts first four vegetative offspring" — the initial "i" of "its" is absent from the page. "whercas" on the same line is printed with a "c" where "whereas" would have "e".]
+
+7. Successive extension of coloniality through phases of the life cycle. In view of the fact that all colonial animals reproduce sexually as well as asexually, their life cycles also contain a solitary phase. Only at a definite stage of development does the solitary animal begin asexual reproduction and give rise to a colony. In comparing closely-related forms we sometimes find that in one of them asexual reproduction begins at an earlier stage than in others, and thus coloniality affects a larger part of the life cycle. There are examples of this among Hydrozoa—Siphonophora Siphonantae as compared with Disconantae; among Bryozoa—Phylactolaemata and some Gymnolaemata as compared with Stenolaemata and the great majority of Gymnolaemata; and, we may suppose, Diplosoma as compared with the majority of other synascidia (W. Salensky, 1894).
+
+8. The capacity of colonies for reproduction and regeneration. The capacity of colonies to reproduce and give rise directly to new colonies is apparently not very rare. Cristatella colonies, on increasing in length beyond certain limits, divide transversely and give rise to new colonies. The 'colonies' of the Rotatoria Conochilus divide in the same way (A. Kolisko, 1939). Among Bryozoa, the fruticose colonies of Crisiidae (Stenolaemata) produce stolons on which secondary discs may develop, forming rhizoids like a true oozooid and, like it, giving rise to a new fruticose colony. Such reproduction of colonies by stolonic budding also occurs in other Bryozoa (some Cheilostomata); similar examples may be found among coelenterates.
+
+[NOTE: a thin pencil vertical line stands in the left margin beside the lines "Among Bryozoa … giving rise to a new fruticose colony"; it carries no text.]
+
+We may speak of regeneration of colonies in cases where the colony has a regular shape. This phenomenon has been studied by P. G. Svetlov (1935) in Cristatella, but probably could be observed in a number of other colonial animals.
+
+(c) DEVELOPMENT OF CORMIDIA
+
+Cormidia, 'colonies within colonies', often develop as a complication of colonial structure. Their existence may be regarded as a step in the development of coloniality, although it is only partly a manifestation of the strengthening of basic colonial individuality.
+
+Cormidia are groupings of individuals regularly recurring within a cormus, united for joint fulfilment of a certain function. Depending on
+
+<<<PAGE pdf=45 file=page_045.txt>>>
+[PAGE 490]
+[RUNNING HEAD] 490	COMPARATIVE ANATOMY OF INVERTEBRATES
+
+the function to be fulfilled, cormidia are either specialised or generalised; the latter are cormidia in the narrow sense of the word.
+
+A specialised cormidium is a polyzoic organ fulfilling one special function; an example is the corbula of Aglaophenia and other kinds of proliferous shoots of Thecaphora.
+
+Generalised cormidia, or cormidia in the narrow sense of the word, are assemblages of variously-differentiated zooids, which together partly fulfil most of the vital functions of the colony and therefore are 'colonies within colonies'. They include the cormidia of Hydrocorallia (Leptolida Athecata) and of Siphonophora Siphonantae, assemblages of autozooids, oecia, and various avicularia in Scrupocellariidae and some other Cheilostomata, etc.
+
+A certain analogy to true generalised cormidia is presented by groupings of identical zooids, resembling one another in the arrangement of their components and recurring frequently in a colony. These include the 'cormidia' of Botryllidae and other synascidia (in the literature on ascidians called 'systems' or 'coenobia'), the petals of Pennatularia, the branches in pinnate colonies of hydroids or Octocorallia, the shoots or internodes in 'regular' Bryozoa colonies, etc.
+
+The individuality of cormidia is generally subordinate, and they remain as secondary structural units within the colony. In only two cases do we see the emancipation of cormidia that separate from the colony and become independent bionts, in Siphonophora Calycophorida and in Doliolida. It is a curious fact that in each case we have free-swimming, planktonic colonies.
+
+On the whole the formation of cormidia is of relatively secondary importance in the development of coloniality in Metazoa. The dual process of weakening of zooid individuality and strengthening of cormus individuality is of first importance. How far does that process go? The great majority of Metazoa cormi known to us do not pass beyond the upper limits of colonial organisation, do not cease to be colonies, do not become individuals of a higher order. The upper limits of coloniality are approached to a certain extent only by Siphonophora and (if we accept van Beneden's theory) by tapeworms.
+
+[NOTE: lower half of the page is blank.]

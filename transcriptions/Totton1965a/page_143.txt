@@ -1,0 +1,41 @@
+[PAGE 138]
+
+138	[RUNNING HEAD] A SYNOPSIS OF THE SIPHONOPHORA
+
+[FIGURE]
+c3
+B
+br
+c.hy.l
+c4
+gz
+h
+n
+2mm
+
+A
+r8
+r.p.h
+r.b
+
+FIG. 80.   Nectopyramis spinosa Sears
+A, Polygastric phase; schematic ostial view of the larval type nectophore to show the pattern of ridges; B, Eudoxid phase, hitherto unknown. Reconstruction of an eudoxid found in association with specimens of the polygastric phase at 31° 00.5′ N, 116° 37.5′ W, off the Mexican coast (Tebble coll.), × 16
+br = bract; c3 = apical canal; c4 = posterior canal; c.hy.l = left hydroecial canal; gz = gastrozooid; h = hydroecium; n = asexual nectophore; r.b = buccal ridge; r8 = figure-of-eight ridge; r.p.h = perihydroecial ridge.
+[/FIGURE]
+
+part is conical. The bracteal canal system is like that found in Rosacea species except that no spur canals are formed. There are two hydroecial canals running obliquely down one or either side of the dorsal wall of the hydroecial cavity. From the left-hand one of these arises the dorsal canal C3 that does not send a branchlet to the surface, and there is present the usual ventral canal C4. The gastrozooid has a dark ring of pigment near the mouth; and the tentilla are well preserved. There is an asexual swimming bell. The small gonophores have long pedicels and mostly bear half-a-dozen large eggs.
+
+Family 11, HIPPOPODIIDAE Kölliker, 1853
+
+Hippopodiinae Kölliker, 1853
+Polyphyidae Chun, 1882; Haeckel 1888b
+
+Diagnosis:   Calycophorae which may have a succession of up to twelve or more bells present at once, instead of the usual two. The stem is retracted up amongst the bells. In all species spines or protuberances are present at some stage, whether these are three serrations only as in V. serrata or two low protuberances as in V. glabra, but they tend to be less conspicuous in the later stages. In the ventral radial canal there is in young growth stages a large rete mirabile (dilation) which is smaller and perhaps absent in older ones. The cleft below the nectosac through which the muscular lamella
+
+[NOTE: text-fig. 80 occupies the upper half of the page and consists of two drawings: B, the larger, at the upper right, and A, smaller, at the lower left, with B's scale bar at the lower right. Inside [FIGURE] B's lettering is listed first, in its own reading order down the drawing and ending with the scale-bar legend "2mm", then A's lettering, then the printed caption. The lettering of this figure is set in an upright sans-serif face, unlike the hand-lettered sloping labels of text-figs. 74–79.]
+
+[NOTE: the numerals of "c3", "c4" and "r8" on the drawings and in the caption key, and of "C3" and "C4" in the body paragraph, are printed as superscripts. On the drawings the raised numeral is set with a visible space before it — "c 3", "c 4", "r 8" — which is not reproduced here.]
+
+[NOTE: the position given in the caption is printed "31° 00.5′ N, 116° 37.5′ W", with degree signs and prime marks and low, on-baseline decimal points; the zeros of "00.5" are old-style and sit at x-height, so the group resembles "oo.5" in this face. Verified digit by digit at 4.5x, as were: FIG. 80, × 16; 1853 twice, 1882, 1888b.]
+
+[NOTE: "HIPPOPODIIDAE" in the family heading is printed in bold capitals; "Hippopodiinae" and "Polyphyidae" in the two synonymy lines are italic. Kölliker's name carries a diaeresis. No printed square brackets occur on this page.]

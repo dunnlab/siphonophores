@@ -1,0 +1,119 @@
+[PAGE 262: unnumbered]
+
+[PLATE]
+PLATE XIV
+
+1.
+[?a]
+[?d]
+[?b]
+[?b]
+[?c]
+[?c]
+[?b]
+[?b]
+[?f]
+[?i]
+[?g]
+[?f]
+[?f]
+[?i]
+[?f]
+[illegible]
+[illegible]
+
+7.
+[?a]
+[?b]
+[?c]
+[?d]
+[?e]
+
+8.
+[?a]
+[?b]
+[?c]
+[?d]
+[illegible]
+[illegible]
+
+Tab. 5.
+
+9.
+
+3.
+[?a]
+[?e]
+[?d]
+[?g]
+[?h]
+[?f]
+[?f]
+[?b]
+[?h]
+[?a]
+[?e]
+
+2.
+[?e]
+[?b]
+[?a]
+[?c]
+[?d]
+[?e]
+[?h]
+[?h]
+[?b]
+[?h]
+[?c]
+[?d]
+[?h]
+[?g]
+[?e]
+[?e]
+
+5.
+[?a]
+[?b]
+[?c]
+[?d]
+
+6.
+[?a]
+[?b]
+[?c]
+[?d]
+
+4.
+[?a]
+[?b]
+[?b]
+
+10.
+
+11.
+[/PLATE]
+
+[NOTE: this leaf is entirely occupied by PLATE XIV. Its caption, with a separate key for each figure, is on the facing leaf, PDF page 261; no caption text is repeated here. The plate is printed portrait on a portrait leaf and needs no rotation.]
+
+[NOTE: "PLATE XIV" is set in bold full capitals in the top right corner of the leaf, above and clear of the plate, in the ordinary text orientation. It is the only text on the leaf outside the blocks.]
+
+[NOTE: "Tab. 5." is engraved in ITALIC, with a full point after "Tab" and another after the numeral, in the top right corner INSIDE the large line block — it is part of the reproduced original, the plate number of Sars's own plate 5 of 1846, carried over with the engraving. It is not a marker of mine and not part of the British Museum plate numbering. It sits at about 0.64 of the leaf's width and 0.11 of its height. Reading order across the leaf puts it between figure 8 and figure 9, and that is where it is listed above.]
+
+[NOTE: the plate is assembled from four blocks. (i) A large reproduced LINE block occupying the upper two-thirds of the plate and about three-quarters of its width, carrying figures 1-8 and the "Tab. 5." inscription — this is Sars's 1846 plate re-photographed down. (ii) A tall narrow half-tone photographic block down the upper right, carrying figure 9 alone, printed as a light subject against a very dark ground. (iii) A half-tone block at the lower left carrying figure 10. (iv) A half-tone block at the lower right carrying figure 11. Figures 9, 10 and 11 carry NO lettering at all, only their numerals, and are listed above with their number alone.]
+
+[NOTE: the figure numbers are NOT in layout order, and the numbers were added by the British Museum in a heavy sans-serif face over the reproduced engraving. Positions as fractions of the leaf's width and height: 1 at (0.31, 0.12); 7 at (0.51, 0.12); 8 at (0.56, 0.12); 9 at (0.85, 0.13); 3 at (0.18, 0.15); 2 at (0.43, 0.16); 5 at (0.37, 0.32); 6 at (0.44, 0.32); 4 at (0.18, 0.34); 10 at (0.12, 0.71); 11 at (0.87, 0.85). The [PLATE] block above follows that reading order — top to bottom, left to right within a band — so the numerical sequence is broken. The numerals carry no following full point; the points in the [PLATE] block are mine, added only to separate the entries.]
+
+[NOTE ON THE REFERENCE LETTERS — READ THIS BEFORE USING THEM. Every reference letter on figures 1-8 belongs to Sars's original engraving, is in small ITALIC lower case, and has been reduced with the rest of the block to roughly a third of its original size. On the scan each letter stands about five to eight pixels high. The embedded page image is 2550 x 3222 at 300 ppi, which is the native resolution of the source file, so no more detail can be had by re-rendering; contrast stretching and magnification to 12-15x were used for the readings above. EVERY reading is therefore flagged with [?], and the two on figure 1 and the two on figure 8 that resisted even that are given as [illegible]. The bracketed forms above are transcriber uncertainty markers, NOT printed brackets. No letter above was inferred from the key on the facing caption leaf; the readings are from the marks on the plate alone, and where they happen to agree with the key that is a check, not their source.]
+
+[NOTE: the letters within each figure are listed above in top-to-bottom order, left and right sides interleaved by height, since the letters stand free in the white of the engraving on both sides of each subject and are joined to it by very fine ruled leaders. Counts found per figure: figure 1, seventeen marks; figure 2, sixteen; figure 3, eleven; figure 4, three; figure 5, four; figure 6, four; figure 7, five; figure 8, six. Figures 9, 10 and 11, none.]
+
+[NOTE: SECOND OPINION WANTED. The letter inventories of figures 1, 2 and 3 should be treated as INCOMPLETE as well as uncertain. Those three figures are large, their letters are scattered over a wide field of fine line work at very low contrast, and while the plate was swept in overlapping tiles at 6x and the letter fields then re-examined at 12-15x, marks in the darker and busier passages may have been missed. Figures 4 to 8 are small and isolated and their inventories are believed complete. A reader with a better scan should re-do figures 1, 2 and 3 from scratch.]
+
+[NOTE: figure 5 and figure 6 each carry exactly four letters in the same arrangement, one above the swelling and three beside and below it; figure 7 five and figure 8 six, in a closely similar arrangement, which is consistent with the caption leaf's statement that figures 7 and 8 repeat figures 5 and 6's lettering with two additions. Figure 4 carries three marks, one at the top and two down the right side, where the caption gives it only two letters — so one letter is used twice on that figure, or one of the three marks is not a letter.]
+
+[NOTE: figure 9's block is very dark; the numeral "9" is reversed out WHITE at its top right. All the other numerals on the leaf are printed solid black. Figure 10's block carries two long fine curved lines crossing the specimen and a small pale ring at the upper left, both photographic and neither carrying text; figure 11's block shows several separate objects but only the single numeral at its lower right.]
+
+[NOTE: there is no printed folio, no running head and no printer's signature mark on this leaf. Isolated grey specks occur in the white of the line block and in the margins; a small comma-shaped speck lies just right of figure 8, and a distinct dark round blot a little below it, and neither is type.]
+
+[NOTE: no printed square brackets and no editorial query marks appear on this leaf. Every square bracket above is a transcriber marker.]

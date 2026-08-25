@@ -1,0 +1,48 @@
+[PAGE 20]
+
+PLOS One
+
+et al. (2022) vs. Hydractinia symbiolongicarpus chromosomes. B. ODP of ancestral linkage groups from Schultz et al. (2023) vs. Hydractinia symbiolongicarpus chromosomes. C. ODP of ancestral linkage groups from Simakov et al. (2022) vs. Nanomia septata chromosomes. D. ODP of ancestral linkage groups from Schultz et al. (2023) vs. Nanomia septata chromosomes. E. ODP of ancestral linkage groups from Simakov et al. (2022) vs. Physalia physalis. F. ODP of ancestral linkage groups from Schultz et al. (2023) vs. Physalia physalis.
+(PNG)
+
+S8 Fig. CO1 Nanomia phylogram. Includes CO1 sequences from Nanomia genomes presented in the paper as well as CO1 sequences from NCBI.
+(PNG)
+
+S9 Fig. Genomescope fit models for 1 representative Nanomia sample per group in the phylogeny, including Nanomia septata, Nanomia bijuga, Nanomia cara and Nanomia sp. 1.
+(EPS)
+
+S10 Fig. Nanomia specimens mapped using two separate transcriptome references to look at variance. A. Nanomia septata samples mapped against Nanomia septata Iso-seq transcriptome reference, displaying two distinct clusters, one cluster from Washington and the other from California. B. Nanomia bijuga samples mapped against Nanomia bijuga Iso-seq transcriptome reference showing samples falling into multiple distinct clusters, including a cluster of Atlantic specimens + Mediterranean, a cluster of Hawaiian+ GoC and 2 GoC samples that are more varied than the others. C. Map of all Nanomia specimen collection spots colored by population. Map made with Natural Earth (public domain) using R with packages sf (v1.1) and rnaturalearth (v4.1).
+(PNG)
+
+S11 Fig. Nanomia sample coverage statistics. A. The percent reads of Nanomia samples that are not classified as contamination, all falling >80%. B. The total reads for each Nanomia specimen. C. The total number of mapped reads against the Nanomia septata genome.
+(PNG)
+
+Acknowledgments
+
+We thank the Yale Center for Genome Analysis and Keck Microarray Shared Resource at Yale University for providing the necessary PacBio sequencing services and Illumina sequencing services. We also thank Lourdes Rojas and Eric Lazo-Wasem from the Invertebrate division at the Yale Peabody Museum for their help and support. PhyloPic of P. physalis is from: https://www.phylopic.org/images/6872620a-34e1-4744-b536-a5b5437b9097/physalia-physalis Illustration by Noah Schlottman (2013), photo by Casey Dunn (2005). Illustration under CC BY-SA 3.0 license. No further modifications were made.
+
+Author contributions
+
+Conceptualization: Casey W. Dunn.
+
+Data curation: Namrata Ahuja, Darrin T. Schultz, Dalila Destanović, Natasha Picciani, Casey W. Dunn.
+
+Formal analysis: Namrata Ahuja, Darrin T. Schultz, Dalila Destanović, Samuel H. Church, Koto Kon-Nanjo, Tetsuo Kon, Oleg Simakov, Casey W. Dunn.
+
+Funding acquisition: Casey W. Dunn.
+
+Investigation: Namrata Ahuja, Darrin T. Schultz, Natasha Picciani, Koto Kon-Nanjo, Tetsuo Kon, Maciej K. Mańko, Oleg Simakov, Casey W. Dunn.
+
+PLOS One | https://doi.org/10.1371/journal.pone.0351247	July 2, 2026	20 / 25
+
+[NOTE: Single-column page. It opens with the tail of the S7 Fig caption continuing from page 19 ("...ancestral linkage groups from Simakov" / "et al. (2022) vs. Hydractinia symbiolongicarpus"), finishes the Supporting information list, then carries the bold headings "Acknowledgments" and "Author contributions". The author-contribution entries are a list, one role per entry with a bold role label; their line breaks are semantically real and are kept, and the printed hanging-indent continuation lines within an entry are joined into a single line. The page ends with a complete entry.
+
+PAGE FURNITURE: the PLOS One masthead and pictorial device at the head, and the running foot "PLOS One | https://doi.org/10.1371/journal.pone.0351247   July 2, 2026" with the page-number line "20 / 25" at the right; the foot's three elements are separated by tabs above. Printed, and so transcribed. There is no Crossmark stamp on this page.
+
+Words broken across a printed line by a soft hyphen have been joined and the hyphen removed, per the protocol: "Nanomia" (printed "Nano-" / "mia", in bold italic), "specimens" (printed "spec-" / "imens"), "contamination" (printed "con-" / "tamination"). One surname is broken at a real hyphen and keeps it: "Lazo-Wasem" (printed "Lazo-" / "Wasem"). Other real hyphens kept: "Iso-seq", "Kon-Nanjo", "CC BY-SA", and all the hyphens inside the PhyloPic UUID.
+
+Diacritics on this page, all precomposed and checked at 12-20x magnification: "Destanović" twice (ć, U+0107, c with acute) and "Mańko" (ń, U+0144, n with acute). No base letter plus separate accent was used.
+
+Spacing preserved as printed: "specimens + Mediterranean" is printed with thin spaces on both sides of the plus sign while "Hawaiian+ GoC" a few words later has none before it and a space after; both are as printed, rendered here with ordinary spaces. In the Acknowledgments the URL is followed directly by "Illustration by Noah Schlottman" with only a space and no punctuation; as printed. ">80%" is printed closed up.
+
+Caption titles and role labels are bold, with italic genus names within them in bold italic; taxon names elsewhere are italic. Bold and italics are not marked. The PhyloPic URL is printed in a blue underlined hyperlink colour; colour is not marked.]

@@ -1,0 +1,2512 @@
+<<<PAGE pdf=1 file=page_001.txt>>>
+[PAGE 1: unnumbered]
+
+[NOTE: front cover of the binding, not a printed page. Brown-and-white marbled paper boards with vellum spine and vellum corner-pieces; a gilt-tooled black leather label is inlaid in the centre. The text below is the gold-stamped lettering of that label.]
+
+CAROLI LINNÆI
+
+SYSTEMA NATURÆ.
+
+EDITIO PRINCEPS.
+
+<<<PAGE pdf=2 file=page_002.txt>>>
+[PAGE 2: unnumbered]
+
+[NOTE: title page. Letterspaced display capitals throughout; the letterspacing is not reproduced here.]
+
+[HANDWRITTEN] [pencil, upper right margin] LINNEANA
+[HANDWRITTEN] FOLIO
+[HANDWRITTEN] QK91
+[HANDWRITTEN] [?.L39]
+[HANDWRITTEN] 1735
+[NOTE: a faint circular blind/embossed stamp lies immediately left of the pencil shelfmark at the top right; its lettering is [illegible].]
+
+CAROLI LINNÆI, SVECI,
+
+DOCTORIS MEDICINÆ,
+
+SYSTEMA NATURÆ,
+
+SIVE
+
+REGNA TRIA NATURÆ
+
+SYSTEMATICE PROPOSITA
+
+PER
+
+CLASSES, ORDINES,
+
+GENERA, & SPECIES.
+
+[STAMP] MISSOURI BOTANICAL GARDEN.
+
+[NOTE: double rule across the page here.]
+
+O JEHOVA! Quam ampla ſunt opera Tua !
+Quam ea omnia ſapienter feciſti !
+Quam plena eſt terra poſſeſſione tua !
+
+Pſalm. CIV. 24.
+
+[HANDWRITTEN] [pencil, at left, just above the lower double rule] Soulsby 39
+
+[NOTE: double rule across the page here.]
+
+LUGDUNI BATAVORUM,
+
+Apud THEODORUM HAAK, MDCCXXXV.
+
+[NOTE: single rule across the page here.]
+
+EX TYPOGRAPHIA
+
+JOANNIS WILHELMI DE GROOT.
+
+[NOTE: single rule across the page here.]
+
+<<<PAGE pdf=3 file=page_003.txt>>>
+[PAGE 3: unnumbered]
+
+OBSERVATIONES
+IN
+REGNA III. NATURÆ.
+
+1. Si opera Dei intueamur , omnibus ſatis ſuperque patet , viventia ſingula ex ovo propagari , omneque ovum producere ſobolem parenti ſimillimam. Hinc nullæ ſpecies novæ hodienum producuntur.
+
+2. Ex generatione multiplicantur individua. Hinc major hocce tempore numerus individuorum in unaquaque ſpecie , quam erat primitus.
+
+3. Si hanc individuorum multiplicationem in unaquaque ſpecie retrograde numeremus , modo quo multiplicavimus ( 2 ) prorſus ſimili , ſeries tandem in unico parente deſinet , ſeu parens illo ex unico Hermaphrodito ( uti communiter in Plantis ) ſeu e duplici, Mare ſcilicet & Femina ( ut in Animalibus pleriſque ) conſtet.
+
+4. Quum nullæ dantur novæ ſpecies ( 1 ); cum ſimile ſemper parit ſui ſimile ( 2 ); cum unitas in omni ſpecie ordinem ducit ( 3 ), neceſſe eſt , ut unitatem illam progeneratricem , Enti cuidam Omnipotenti & Omniſcio attribuamus , Deo nempe , cujus opus Creatio audit. Confirmant hæc mechaniſmus , leges , principia , conſtitutiones & ſenſationes in omni individuo vivente.
+
+5. Individua ſic progenita , in prima & tenerrima ætate , omni prorſus notitia carent , ac omnia ſenſuum externorum ope ediſcere coguntur. Ex Tactu conſiſtentiam objectorum primario ediſcunt ; Guſtu particulas fluidas ; Odoratu volatiles ; Auditu corporum remotorum tremorem ; & demum Viſu corporum lucidorum figuram ; qui ultimus ſenſus , præ ceteris , maxima voluptate animalia afficit.
+
+6. Si univerſa intueamur , Tria objecta in conſpectum veniunt , uti α ) remotiſſima illa corpora Cæleſtia ; β ) Elementa ubique obvolitantia ; γ ) fixa illa corpora Naturalia.
+
+7. In Tellure noſtra , ex tribus prædictis ( 6 ), duo tantum obvia ſunt ; Elementa nempe , quæ conſtituunt ; & Naturalia illa ex elementis conſtructa , licet modo , præter creationem & leges generationis , inexplicabili.
+
+8. Naturalia ( 7 ) magis ſub ſenſus ( 5 ) cadunt quam reliqua omnia ( 6 ), ſenſibuſque noſtris ubivis obvia ſunt. Quæro itaque quamobrem Creator hominem , ejuſmodi ſenſibus ( 5 ) & intellectu præditum , in globum terraqueum locaverit , ubi nihil in ſenſus incurrebat præter Naturalia , tam admirando & ſtupendo mechaniſmo conſtructa ? anne ob aliam cauſam , quam ut Obſervator Artificem ex opere pulcherrimo admiraretur & collaudaret ?
+
+9. Omnia , quæ in uſus hominum cedunt , ex Naturalibus hiſce cuncta deſumuntur ; hinc œconomia mineralis ſeu Metallurgia ; vegetabilis ſeu Agricultura & Horticultura ; Animalis ſeu Res pecuaria , Venatus , Piſcatura. Verbo; fundamentum eſt omnis Oeconomiæ , Opificiorum , Commerciorum , Diætæ , Medicinæ &c. Ex iis homines in ſtatu ſano conſervantur , a morboſo præſervantur , & ab ægroto reſtituuntur , ita ut delectus horum ſumme neceſſarius ſit. Hinc ( 8. 9. ) neceſſitas Scientiæ naturalis per ſe patet.
+
+10. Primus eſt gradus ſapientiæ res ipſas noſſe ; quæ notitia conſiſtit in vera idæa objectorum ; objecta diſtinguuntur & noſcuntur ex methodica illorum diviſione & convenienti denominatione ; adeoque Diviſio & Denominatio fundamentum noſtræ Scientiæ erit.
+
+11. Qui in Scientia noſtra Variationes ad Species proprias , Species ad Genera naturalia , Genera ad familias referre neſciunt , & tamen Scientiæ hujus Doctores ſeſe jactitant , fallunt & falluntur. Omnes enim , qui naturalem vere condiderunt Scientiam , hæc tenere debuerunt.
+
+12. Naturaliſta ( Hiſtoricus Naturalis ) audit , qui partes Corporum Naturalium viſu ( 5 ) bene diſtinguit , & omnes has , ſecundum trinam differentiam , recte deſcribit nominatque. Eſtque talis Lithologus , Phytologus vel Zoologus.
+
+13. Scientia Naturalis eſt diviſio ac denominatio illa ( 10 ) corporum Naturalium , ab ejuſmodi Naturaliſta ( 12 ) judicio inſtituta.
+
+14. Corpora Naturalia in Tria Naturæ Regna dividuntur : Lapideum nempe , Vegetabile & Animale.
+
+15. Lapides creſcunt. Vegetabilia creſcunt & vivunt. Animalia creſcunt , vivunt & ſentiunt. Hinc limites inter hæcce Regna conſtituta ſunt.
+
+16. In hac Scientia deſcribenda & illuſtranda plurimi omni ſua ætate laborarunt ; quantum vero jamjam obſervatum & quantum adhuc reſtat , curioſus Luſtrator facile ipſe inveniat.
+
+17. Exhibui heic Conſpectum generale Syſtematis corporum Naturalium , ut Curioſus Lector ope Tabulæ hujus Geographicæ quaſi , ſciat, quo iter ſuum in ampliſſimis his Regnis dirigat , plures namque Deſcriptiones addere ſpatium , tempus , & occaſio retardarunt.
+
+18. Methodo nova , maximam partem propriis autopticis obſervationibus fundata , in ſingulis partibus uſus fui , probe enim didici pauciſſimis obſervationes quod attinet , facile credendum eſſe.
+
+19. Si Curioſus Lector fructum aliquem hinc percipiat , illum Celebratiſſimo in Belgio Botanico D. D. JOH. FRED. GRONOVIO , nec non Dno. ISAC. LAWSON , Doctiſſimo Scoto , tribuat ; Illi enim Auctores mihi fuerunt ut breviſſimas haſce tabulas & obſervationes cum Erudito Orbe communicarem.
+
+20. Si comperiar hæcce Illuſtri & Curioſo Lectori grata fore , propediem plura , ſpecialiora & magis limata , Botanica imprimis , a me expectabit.
+
+Dabam Lugduni Batavorum
+1735. Julii 23.
+
+CAROLUS LINNÆUS.
+M. D.
+
+<<<PAGE pdf=4 file=page_004.txt>>>
+[PAGE 4: unnumbered]
+
+[NOTE: broadsheet table, left half. The display title is split across the page break — this page carries only "CAROLI LINNÆI"; the rest of the title is on page 5. The whole table continues onto page 5.]
+[NOTE: two tables stand side by side on this half-sheet: "I. PETRÆ" (left) and "II. MINERÆ" (right). The MINERÆ heading itself is cut by the page edge and continues on page 5.]
+[NOTE: the column headings of the left table are printed at the FOOT of the table, not the head; they are transcribed below in the position where they appear. In order they head: the rotated ordinal column (Ordines), the genus-name column (Nom. generic.), the italic generic-character column (Characteres generici.), the wide specific-difference column (Differentiæ specificæ Auctoris.), the italic synonym column (Synonyma.) and the Fraktur Swedish column (Nom. Svecica.).]
+[NOTE: the "Ordines" entries are set rotated 90° (read bottom-to-top up the left edge of each block); they are transcribed here as ordinary words.]
+[NOTE: strong mirror-image show-through from the verso is visible over the whole sheet, especially behind the title band and in the blank areas of the right-hand table; it has been ignored.]
+[NOTE: a sign recurring in the MERCURIALIA block, transcribed below as "[?symbol: double bar]", is two short horizontal bars one above the other, the lower one with a downward notch at its middle. It always follows ∇F or ∇R. It has not been identified and is not guessed at.]
+
+CAROLI LINNÆI
+
+[TABLE]
+I. PETRÆ	sunt Lapides SIMPLICES, qui Metallurgis dicuntur Bergarter.
+	conſtant particulis tantummodo ſimilaribus.
+
+[Ordines] 1. APYRI in igne docimaſtico vix deſtructibiles.
+
+Aſbeſtus.	Conſtat Fibr. pappoſis intertextis.
+	Aſbeſtus natans, ſolido-flexilis.	Suber montanum.	[?Bergkork.]
+	A natans fibroſo-coriaceus.	Aluta montana.	Bergläder.
+	A ponderoſus fiſſilis.	Caro foſſilis.	Bergkiöt.
+
+Amiantus.	Fibris parallelis.
+	A fibris capillaceis flexilibus tenacibus.	Linum incombuſtibile.	Berglin.
+	A fibris capillaceis flexilibus fragilibus.	Alumen plumoſ. offic.	Bergfiun.
+	A fibris ſetoſis rigidis.	Amiantus immaturus.	[?Gallflas.]
+	A fibris anguloſis rigidis.	Pſeudo-amiantus.	Omogen Amiant.
+
+Ollaris.	Fibris ſparſis.
+	O fibris acceroſis friabilibus.	Lebetum Lapis.	Tälgſten.
+	O fibris aceroſis rigidis.	Aceroſus Lapis.	[?Sådſlag.]
+	O fibris e centro radiatis.	Radians Lapis.	Stiernſlag.
+	O fibris faſciculatim inflexis.	Toroſus Lapis.	[?Folk.]
+
+Talcum.	Membranis carnoſis, inæqualis ſuperficiei.
+	T durum craſſum, cortice nitido.	Corneus Lapis.	Hornſten.
+	T durum coriaceum.	Tunicatus Lapis.	[?Skirſlag.]
+	T friabile molliuſculum.	Talcum offic.	Hwit Talk.
+	T friabile fragile membranaceum.	Talcum aureum.	Guld-talk.
+
+Mica.	Membranis ſquamoſis, æqualis ſuperficiei.
+	M particulis impalpabilibus.	Sterile nigrum.
+	M particulis ſqvamoſis.	Mica vulgaris.	Skimmer.
+	M particulis membranaceis fiſſilibus.	Vitrum Moſcoviticum.	Kattguld.
+	M particulis ſqvamoſis & membr. mixtis.		[?Bunda.]
+	M particulis priſmaticis immixtis.
+
+[Ordines] 2. CALCARII igne docimaſtico uſti & Aquâ rigati, in farinam reducuntur.
+
+Schiſtus.	Fragmentis fiſſilibus.
+	S cinereus.	Fiſſilis inutilis.	[?grå ſkifvernen.]
+	S nigricans friabilis.	Fiſſilis vulgaris.	Lös ſkifver.
+	S niger duriuſculus.	Fiſſilis Lapis.	Tafle-ſkifver.
+	S niger durus clangoſus.	Ardeſia tegularis.	Tak-ſkifver.
+
+Spatum.	Fragm. rhomboidalibus.
+	S fiſſile, lamellis dehiſcentibus.	Spatum lamellatum.
+	S compactum, opacum nitidum.	Spatum vulgare.	Tärningſten.
+	S compactum pellucidum.	Cryſtallus Iſlandica.
+
+Marmor.	Fragmentis incertis.
+	§. Rudia ſunt, quæ polituram vix ullam admittunt.
+	M rude.	Calcarius Lapis.	Kalkſten.
+		Variat infinite.
+	M rude, venis qvartzoſis rubris.	Vena hæmatica.
+	§. Nitida ſunt marmora, quæ polituram aſſumunt arte.
+	M nitidum album.	Marmor album.	Hwit marmer.
+	M nitidum rubrum.	Marmor rubrum.	Röd marmer.
+	M nitidum atrum.	Lydius Lapis.	Proberſten.
+	M nitidum, coloribus mixtis.	Marm. variegatum.	[?Spräkletmarmer.]
+	M nitidum, coloribus alternis.	Marm. Polyzonias.
+	M nitidum, coloribus picturam referens.	Marm. Florentinum.	Florentinſten.
+	M nitidum vireſcens, maculis nigris.	Serpentinus Lapis.	Serpentinſten.
+	M nitidum cœruleum, maculis albicantibus.	Lazulus Lapis.	Lazulſten.
+	§. Fugacia ſunt, quæ particulis nitidis interlucentibus gaudent.
+	M fugax opacum.	Gypſum.	Gips.
+	M fugax ſubdiaphanum.	Alabaſtrum.	Alabaſter.
+
+[Ordines] 3. VITRESCENTES igne docimaſtico uſti in vitrum liqueſcunt.
+
+Cos.	Fragmentis granulatis opacis.
+	C particulis inæqualibus rigidis.	Arenarius Lapis.	Sandſten.
+	C particulis æqualibus friabilibus.	Coticula.	Slippſten.
+	C aquam filtrans.	Filtrum.
+
+Silex.	Fragmentis convexis & concavis ſubdiaphanis.*
+	Generis hujus differentias	Pyromachus.	Flinta.
+	vel	Calcedonius.	Calcedon.
+	variationes reales,	Jaſpis.	Jaſp.
+	licet è colore deſumtas,	Carneolus.	Carneol.
+	addat,	Malachites.	Malachit.
+	qui poteſt;	Turcheſia.	Turcos.
+	Ego non ....	Sardius.	Sard.
+		Achates.	Agat.
+
+Qvartzum.	Fragmentis angulatis acutis pellucidis.
+	Q aqueo-album.	Qvartzum.	Kiſſel.
+	Q luteum.	Pſeudo-Topazius.	deſſe alle
+	Q rubrum.	Pſeudo-Rubinus.	Kallas
+	Q purpureum.	Pſeudo-Amethiſtus.	O-ächta
+	Q cœruleum.	Pſeudo-Saphirus.	eller
+	Q viride.	Pſeudo-Smaragdus.	Omogne
+	Q viridi-cœruleum.	Pſeudo-Beryllus.	ädle ſtenar.
+[NOTE: the seven Swedish words above are set as a single legend "deſſe alle Kallas O-ächta eller Omogne ädle ſtenar." bracketed by two large braces spanning the seven Qvartzum rows.]
+
+* Obſ. Silicis ſub nomine quidam Quartzum, quidam vero Pyromachum, ut veteres intelligunt & nos. A quibuſdam ad calcareos, ab aliis autem ad vitreſcentes refertur, Nos cum Bromelio huc retulimus.
+
+Ordines	Nom. generic.	Characteres generici.	Differentiæ ſpecificæ Auctoris.	Synonyma.	Nom. Svecica.
+[/TABLE]
+
+[TABLE]
+II. MINERÆ	ſunt Lapides COMPOSITI
+	conſtant Petrâ particulis
+[NOTE: this heading is cut off by the right edge of the page and continues on page 5.]
+
+[Ordines] 1. SALIA in aqua ſolubilia & ſapida ſunt. ſimpliciter compoſita ſæpe occurrunt.
+
+Nitrum.	in igne fremens,
+	Figura priſmatica hexaëdra,
+	Acidum eſſentiale.
+
+Muria.	in igne crepitans,
+	Figura teſſulata hexaëdra,
+	Alcalino-acidum.
+
+Alumen.	in igne ſpumans, metallo deſtitutum,
+	Figura teſſulata octaëdra,
+	Acidum purum.
+
+Vitriolum.	in igne ſpumans, metallo imprægnatum,
+	Figura rhomboidea dodecaëdra.
+	Acidum purum.
+
+[Ordines] 2. SULPHURA in Igne fumantia & odorata ſunt. Decompoſita ſæpe occurrunt.
+
+Electrum.	Fumus odore ſuavi, colore fuſco.
+
+Bitumen.	Fumus odore triſti, colore atro.
+
+Pyrites.	Fumus od. acutiſſimo, col. luteo, ſapore ſalſo, princip. acido [?symbol: circle with an upright bar and a rightward arm inside]
+
+Arſenicum.	Fumus od. alliaceo, col. albo, ſapore dulci, princip. alcalino.
+
+[Ordines] 3. MERCURIALIA igne fuſa, depurata & nitida evadunt. Supradecompoſita communiter occurrunt.	Igne fuſa dicuntur Metalla.
+
+Hydrargyrum.	in △ᵉ mox volatile,	metallo fluido,	∇F[?symbol: double bar] à [?symbol: circle with an upright bar and a rightward arm inside][?ᵗᵉ].
+
+Stibium.	in △ᵉ ſenſim avolans,	metall. fragili,	vitro fulvo.
+
+Zincum.	in △ᵉ flagrans,	metall. molli,	∇F[?symbol: double bar] calc. ♋
+	cineribus albis,	tenaci.
+	flamma viridi.
+
+Viſmutum.	in △ᵉ facile liqueſcens,	metall. teſſulato,
+		fragidiuſculo.
+
+Stannum.	in △ᵉ facile liqueſcens,	metall. tenaci.	vitro albo.
+
+Plumbum.	in △ᵉ facile liqueſcens,	metall. tenaci.	vitro flavo.
+
+Ferrum.	in △ᵉ difficillime liqueſc.	met. duriſſimo,	∇F[?symbol: double bar] [?symbol: circle with a cross above]°. vitro nigro.
+			[?symbol: small circle with a circumflex above]-°.
+
+Cuprum.	in △ᵉ difficulter liqueſc.	met. duro,	∇F[?symbol: double bar] ♂.
+
+Argentum.	in △ᵉ commode liqueſc.	metal. firmo,	∇F[?symbol: double bar] ♀•.
+	indeſtructibile.	tenaci,	[?symbol: circle with horizontal bar].
+		albo.
+
+Aurum.	in △ᵉ commode liqueſc.	metall. firmo,	∇R[?symbol: double bar] [?symbol: circle with horizontal bar]□+
+	indeſtructibile,	tenaci,	☿°.
+	— etiam [?symbol: circle with a cross above]ⁱᵒ.	luteo.
+[/TABLE]
+
+[NOTE: table continues onto page 5.]
+
+<<<PAGE pdf=5 file=page_005.txt>>>
+[PAGE 5: unnumbered]
+
+[NOTE: broadsheet table, right half; it continues the sheet begun on page 4. The display title is split across the page break — page 4 carries "CAROLI LINNÆI", this page carries "REGNUM LAPIDEUM."]
+[NOTE: two tables stand side by side on this half-sheet. The left one is the right-hand continuation of the "II. MINERÆ" table begun on page 4 (its heading is completed at the head of this page, and it carries only the specific-difference, synonym and Swedish columns; the Ordines, genus-name and generic-character columns are on page 4). The right one is a complete table, "III. FOSSILIA".]
+[NOTE: table continues from page 4.]
+[NOTE: in the left (MINERÆ) table each specific difference is prefixed by the chemical/planetary sign of its genus. Signs identified with confidence are given as Unicode (☉ ☽ ☿ ♀ ♂ ♃ ♄); the four salt signs at the head of the table and the zinc and bismuth signs are not identified and are described instead.]
+[NOTE: the "Ordines" entries of the FOSSILIA table are set rotated 90° (read bottom-to-top up the left edge of each block); they are transcribed here as ordinary words.]
+[NOTE: mirror-image show-through from the verso is visible over the whole sheet; it has been ignored.]
+[NOTE: neither table on this page carries column headings at head or foot.]
+
+REGNUM LAPIDEUM.
+
+[TABLE]
+	qvi Metallurgis Svecis dicuntur	Malmarter
+	peregrinis imprægnatâ.
+[NOTE: this is the completion of the "II. MINERÆ ſunt Lapides COMPOSITI / conſtant Petrâ particulis" heading begun on page 4.]
+
+[?symbol: circle with vertical bar] humoſum.	Terra nitroſa.	Salpetterjord.
+[?symbol: circle with vertical bar] qvartzoſum album.	Cryſtallus montana.	Bömiſk ſten.
+[?symbol: circle with vertical bar] qvartzoſum luteum.	Topazius.	Topaz.
+[?symbol: circle with vertical bar] qvartzoſum rubrum.	Rubinus.	Rubin.
+[?symbol: circle with vertical bar] qvartzoſum purpureum.	Amethiſtus.	Ametiſt.
+[?symbol: circle with vertical bar] qvartzoſum cœruleum.	Sapphirus.	Saphir.
+[?symbol: circle with vertical bar] qvartzoſum viride.	Smaragdus.	Smaragd.
+[?symbol: circle with vertical bar] qvartzoſum viridi-cœruleum.	Beryllus.	Beryll.
+[?symbol: circle with vertical bar] ſiliceum? (vel unde?)	Adamas.	Demant.
+[?symbol: circle with vertical bar] ſpatoſum acutum utrinque.	Spatum cryſtallinum.	Spat-chryſtall.
+[?symbol: circle with vertical bar] ſpatoſum truncatum utrinque.	Cryſtallus plumbifer.	Bly-chryſtall.
+[?symbol: circle with vertical bar] ſpatoſum, fragmentorum angulis oppoſitis.	Selenites.	Spegelſten.
+[?symbol: circle with vertical bar] marmoreum fœtidum.	Suillus Lapis.	Orſten.
+
+[?symbol: circle with horizontal bar] aqvæ marinæ.	Sal marinum.	Spanſkt Salt.
+[?symbol: circle with horizontal bar] aqvæ fontanæ.	Sal fontanum.	Lyneburgs Salt.
+[?symbol: circle with horizontal bar] ſolidum foſſile.	Sal gemmæ.	Berg-Salt.
+
+[?symbol: plain circle] nudum.	Alumen plumoſum.	Gedigen Alun.
+[?symbol: plain circle] ſchiſti.	Fiſſilis aluminaris.	Alun-Skifwer.
+
+[?symbol: circle with cross inside] ferri viride.	Vitriolum martis.	Kopparot.
+[?symbol: circle with cross inside] cupri cœruleum.	Vitriolum cyprinum.	Blåſten.
+
+E ſolidum.	Succinum var. col.	Bernſten.
+E tenax.	Ambra griſea.	Amber.
+[NOTE: the initial of these two rows is worn; it is read as E (for Electrum, the genus on page 4), but F cannot be excluded.]
+
+B fluidum album, ignem attrahens.	Naphtha.	Berg-Balſam.
+B liqvidum fuſcum nudum.	Petroleum.	Berg-olia.
+B liqvido-tenax nudum.	Maltha.	Berg-tiära.
+B ſolido-tenax nudum.	Aſphaltus.	Berg-bek.
+B ſolidum nudum.	Gagas.	Jord-bek.
+B ſolidum in ſchiſto.	Carbo foſſilis.	Sten-kohl.
+
+P nudus.	Sulphur nativum.	Gediget Swafvel.
+P micaceus.	Auripigmentum.	Operiment.
+P ferri flavus, figurâ varia.	Pyrites ♂ᵗⁱˢ var. fig.	Jernkies.
+P cupri fulvus.	Pyrites ♀ᵗⁱˢ	Kopparkies.
+P cupri vitreſcens.	Minera ♀ dura.	♀ Hårdmalm.
+P cupri qvartzoſus.	Minera ♀ qvartzoſa.	- - Hårdſlag.
+P cupri-cotaceus.	Minera ♀ arenacea.	- - Sandmalm.
+P cupri ſaturatiſſimus, petram tegens.	Minera ♀ mollis.	- Blötmalm.
+P cupri particulis impalpabilibus.	Minera ♀ chalybeata.	- - Stålſlag.
+P cupri fulvo-fuſcus.	Minera ♀ hepatica.	- - Lefverſlag.
+P cupri in apyro.	Minera ♀ tenax.	- Segmalm.
+P cupri in ollari aceroſo rigido.	Minera ♀ aceroſa.	- - Sådſlag.
+
+A argentei coloris.	Pyrites arſenicalis.	Watnkies.
+A vitro rubro.	Cobaltum.	Cobolt.
+A vitro cœruleo.	Saffera.	Saffle cobolt.
+A ollaris aceroſi rigidi.	Cobaltum rubrum.	Coboltblomma.
+
+☿ petra varia veſtitum.	Minera mercurii.	Qvilſilfvermalm.
+☿ rubro-tinctorium.	Cinnabaris nativa.	Berg-Cinnober.
+
+♁ ſtriato-fibroſum.	Minera Antimonii.	Spiſſglasmalm.
+♁ lamellato-ſqvamoſum.	Refuſius.	Klang.
+♁ micæ ſqvamoſæ & membranaceæ mixtæ.
+
+[?symbol: small circle with a circumflex above] fertile petroſum violaceum.	Minera Zinci.	Spiautermalm.
+[?symbol: small circle with a circumflex above] fertile petroſo-vitriolaceum?	Lapis atramentarius.
+[?symbol: small circle with a circumflex above] ſterile terreum.	Calaminaris.	Galmeja.
+[?symbol: small circle with a circumflex above] ſterile micaceum? an hujus loci?	Molybdæna.	Blyerts.
+
+[?symbol: open loop resembling a small script v with a curled tail] arſenici, colore fugaci.	Cobaltum Viſmuti.	Wiſſmutmalm.
+
+♃ petrâ veſtitum.	Minera ſtanni vulg.	Svitter.
+♃ polyedron irregulare nigrum.	Min. ♃. polyedra.	Zingraupen.
+♃ polyedron regulare purpuraſcens.	Granatus (ſœpius).	Granat.
+
+♄ particulis teſſulatis contiguis.	Galena teſſulata.	Terningmalm.
+♄ particulis teſſulatis ſparſis granulatis.	Miner. ♄ⁱ granulata.	Grofgrynig m.
+♄ particulis pulverulentis ſparſis nitidis.	Miner. ♄. punctata.	Grangniſtrig glans.
+♄ particulis pulverulentis ſparſis fugacibus.	Miner. ♄. colore fugaci.	Skyggmalm.
+♄ nitri ſpatoſi utrinq; truncati, viride.	Miner. ♄. cryſtallina.	Bly chryſtall.
+
+♂ ſulphure non adulteratum.	Min. martis optima.	Ren jernmalm.
+♂ - arſenico imprægnatum.		Kallbräkt malm.
+♂ - pyrite imprægnatum.		Rödbräkt malm.
+♂ petræ vitreſcentis, pauperrimum.		Torſten.
+♂ petræ vitreſcentis, dives.		Blandſten.
+♂ nudum octaëdron.	Ferrum purum (verè)	Gediget jern.
+♂ teſſulatum, fere nudum.	Ferrum ſub-purum.	Rent jern.
+♂ fracturis nitidum.	Min. ♂ᵗⁱˢ ſpecularis.	Spegel malm.
+♂ ferrum & mundi polos reſpiciens.	Magnes.	Magnet.
+♂ ollaris è centro radiati Zincei, extus puculati.	Magneſia.	Brunſten.
+♂ amianti anguloſi rigidi.	Hæmatites.	Blodſten.
+♂ amianti rigidi, extus puculati.	Nucleus hæmatitidis.	Glaskopf.
+
+♀ nudum teſſulatum.	Cuprum nativum.	Gedigen Koppar.
+♀ nudum informe præcipitatum.	Cuprum præcipitatum.	Præcipiterad ♀.
+♀ cœruleum.	Cuprum Lazureum.	Koppar-Lazur.
+♀ violaceum.	Cuprum vitrei coloris.	Kopper-glas.
+
+☽ nudum.	formâ varia.	Argentum nativum.	Gediget Silfver.
+☽ malleabile incanum.	Miner. ☽ vitri color.	Glasmalm.
+☽ ſubdiaphanum rubeſcens, ad candelam liqueſc.	Miner. ☽ cornu col.	Hornmalm.
+☽ rubeſcens.	Miner. ☽ rubra.	Rödgylden.
+☽ fragile albidum.	Miner. ☽ alba.	Liusgylden.
+
+☉ nudum.	Aurum nativum.	Gediget Guld.
+☉ marmoris nitidi cœrulei, maculis albicantibus.	Min. ☉ Lazurea.	Guld-Lazur.
+☉ in mercuriali alio paraſiticum.	Min. ☉ mixta.	Guld-malm.
+[/TABLE]
+
+[TABLE]
+III. FOSSILIA	ſunt Lapides AGGREGATI, qvi à Svecis dicuntur	Gruſarter.
+	conſtant particulis petroſis vel mineralicis mixtis.
+
+[Ordines] 1. TERRÆ particulis pulverulentis conſtant.
+
+Glarea.	conſtat	Particulis ſcabris, fragile diſtinctis.	G tenuiſſima, flatu aeris volitans.	Glarea mobilis.	Qvellen-
+				G farinacea apyra.	Arena ſterilis.	Mo.
+				G argillacea apyra mixta.	Terra adamica.
+[NOTE: the Swedish column here reads "Qvellen-" on the first row and "Mo." on the second; it may be the single hyphenated word "Qvellen-Mo." broken across two rows.]
+
+Argilla.		Particulis lubricis, tenaciter cohærentibus.	A apyra.	Argilla gallica.	Eldfaſt Lehr.
+				A calcarea nivea.	Argilla nivea.	Bleke.
+				A vitreſcens, vitro ſubdiaphano.	Porcellana.	Porſellin-Lehr.
+				A vitreſcens teſſulata.	Argilla figulina.	Kruko-Lehr.
+				A vitreſcens rudis.	Argilla vulgaris.	Blå-Lehr.
+				A vitreſcens impalpabilis.	Bolus.	Terra Sigillata.
+
+Humus.		Vegetabili vel animali deſtructo.	H animalis, conchæ lævis oblongæ.	Humus conchacea.	Helſing-mylla.
+				H vegetabilis communis.	Humus atra.	Swart-mylla.
+				H vegetabilis paluſtris pura.	Lutum.	Dy.
+				H vegetabilis paludoſa, radicibus mixta.	Turfa.	Torf.
+
+Arena.		Lapidis cujuſcunque pulvere.	A qvartzoſa.	Arena riparia.	Strandſand.
+				A petroſa, vix palpabilis æqvalis.	Arena boraria.	Skurſand.
+				A mixta & inæqvalis.	Sabulum.	Grus.
+				A micacea ſquamoſa.	Arena aurea l. argent.	Glitterſand.
+				A ferrea atra.	Ar. atra fluviatilis.	Jernſand.
+				A aurea rubra.	Ar. aurifera.	Guldſand.
+
+Ochra.		Mercuriali quodam, a vitriolo ſuo ſoluto.	O ferri lutea.	Ochra flava.	Kiöllerfärg.
+				O ferri lutea argentifera.	Ochra argentea.	Gilbe.
+				O cupri cœrulea.	Chryſoc. ſ. cœrul. mont.	Bergblått.
+				O cupri viridis.	Viride montanum.	Berggrönt.
+
+Marga.		Terra aliqva (argillacea ſœpius) indurata.	M rubra ſolidiuſcula.	Rubrica.	Rödkrita.
+				M alba ſolido-friabilis.	Creta alba.	Krita.
+				M luteo-alba ſolido-friabilis.	Terra tripolitana.	Trippel.
+				M cinerea ſolida.	Lithomarga.	Siöſkum.
+				M nivea friabiliſſima.	Agaricus mineralis.	Lac lunæ offic.
+
+[Ordines] 2. CONCRETA particulis terreſtribus coalita ſunt.
+
+Pumex.	generatur	In elemento Igneo.	P Vegetabilium ater.	Fuligo.	Soot.
+				P Pyritæ cinereus.	Pumex.	Pimpſten.
+				P Terræ cinereus.
+				P Cupri ruber.
+				P Argillæ cinereus.
+
+Stalactites.		In elemento Aëreo.	S argillæ calcareæ.	Incruſtatio.	Droppſten.
+				S calcis nitroſæ.	Nitrum calcareum.
+				S qvartzi.
+
+Tophus.		In elemento Aqveo.	T glareæ farinaceæ.	Luſus argillaceus.	Näckbröd.
+				T arenæ mixtæ, ferro imprægnatæ.	Min. ♂ aren. flava.	Sandmalm.
+				T humi paluſtris ochraceo-ferreæ.	Min. ♂ paludoſa.	[?Orke.] Myrmalm.
+				T humi lacuſtris ochraceo-ferreæ.	Min. ♂ lacuſtris.	Siömalm.
+
+Saxum.		In elemento Terreo.	S micaceum puculatum granuloſum.	Molaris Lapis.	Murkſten.
+				S micaceum longitudinaliter fiſſile.		[?Stälſten.]
+				S qvartzoſo-micaceum impalpabile, granis ſpataceis.	Porphyrius Dalk.	Fyrſten.
+				S ſpatoſum rubrum.	Sax. Alandicum.	Alandſten.
+				S qvartzoſum album, mica nigra maculatum.	Sax. Angermannic.	Angermanſten.
+				S micaceo-corneum, granulis nigris puculatum.	Sax. alpino-Lapponic.	Lapſk Fiellſten.
+				S cotaceum compactum albicans.	Sax. alpino-Dalekarl.	Dalſk Fiellſten.
+
+Ætites.		Intra naturale Lapideum.	Æ embryone lapilluloſo libero.	Ætites.	örnſten.
+				Æ embryone lapilluloſo adnato.	Pſeudo ætites.
+				Æ embryone terreſtri libero.	Geodes.	Skallerſten.
+
+Tartarus.		Intra natur. Vegetabile.	T vini.	Tartarus.	Winſten.
+				T cereviſiæ.	Fermentum.	Giäſt.
+
+Calculus.		Intra naturale Animale.	C ſalivæ dentium.	Tartarus dentium.	Tandgrus.
+				C gaſtrici animalium pecorum.	Ægagropila.	Tyre.
+				C Bilis cyſtidis.	Calc. felleus.	Gallſten.
+				C urinæ humanæ.	Calc. nephriticus.	Menniſkioſten.
+				C urinæ Simiarum, Caprorum &c.	Bezoarticus Lap.	Bezoar. off.
+				C inſecti Aſtaci.	Oculi cancrorum.	Kräfte-ſten.
+				C vermis conchæ.	Margarita.	Pärla.
+
+[Ordines] 3. PETRIFICATA ſimulacrum Vegetabilis vel Animalis impreſſum oſtendunt.
+
+Graptolithus.		Petrificatum picturâ aſſimilans.	G lineis mappam geographicam referens.	Lapis geographicus.
+				G prœlia, urbes, rudera vel ſimilia referens.	Lapis ruderatus.
+				G nemora, arbores, plantasve referens.	Dendrites.
+				G plantam Fucum referens.	Phycites.
+				G ſtellas & puncta radiata referens.	Pſeudo-aſtroïtes.
+				G circulos intra circulos referens.	Concha anomia.
+				G puncta informia referens.	Stigmites.	Punctularia.
+
+Phytolithus.		Petrificatum Vegetabilis	Ph ligni.	Lithoxylon.	Petrificert träd.
+				Ph folii.	Phytobiblion.
+				Ph ſeminis.	Piſolithus.
+				Ph rami.	Pſeudo-corallium.
+
+Helmintholithus.	Petrificatum Vermis.	H Lumbrici.	Entrochus.
+				H Meduſæ.	Aſteria columnaris.
+				H Echini.	Echinites.	Davids ſlongſten.
+				H Echini ſpinæ.	Belemnites.	Lap. Lyncis offic.
+				H Echini articuli ſpiniferi.	Judaicus Lapis.
+				H Patellæ?	Nummus Brattinburgenſis Stobæi.
+				H Patellæ aut conchæ hinc planæ, inde gibbæ.	Hyſterolithus.	Käringtand.
+				H Conchæ ſubrotundæ.	Conchites.
+				H Conchæ hinc planæ, inde gibbæ.	Pectinites.
+				H Conchæ lamellatæ.	Oſtracites.
+				H Conchæ oblongæ.	Muſculites.
+				H Cochleæ ſpira laterali.	Cochlites.
+				H Cochleæ ſpira centrali.	Nerites.
+				H Nautili recti.	Orthocerotes.	Gotlandſpik.
+				H Nautili rotundati.	Nautilites.
+				H Nautili compreſſi.	Cornu ammonis.
+
+Entomolithus.	Petrificatum Inſecti.	E cancri.	Aſtacus petrific.
+
+Ichthyolithus.	Petrificatum Piſcis.	I incertæ vel certæ, totalis vel part. ſpeciei.	Ichthyolithus.
+				I dentis carchariæ.	Gloſſopetra.
+				I ovorum.	Oolithus.	Romſten.
+				I oſſis palatini.	Bufonites.
+
+Amphibiolithus.	Petrificatum Amphibii.	A Angvis.	Serpens petrif.
+				A Lacertæ.
+				A Ranæ.
+				A Teſtudinis.
+
+Ornitholithus.	Petrificatum Avis.	O totalis, certi vel incerti generis.	Avis petrifacta.
+				O partialis.
+
+Zoolithus.	Petrific. Qvadrupedis	Z totalis certi vel incerti animalis.	Qvadrupes petrif.
+				Z oſſium.	Oſſa foſſilia.	Mammotovacoſt.
+[/TABLE]
+
+[STAMP] MISSOURI BOTANICAL GARDEN
+[NOTE: red circular library stamp, printed over the blank part of the Phytolithus/Helmintholithus block in the FOSSILIA table, about two thirds of the way down the page.]
+
+[NOTE: the table ends here; page 6 is a separate sheet, "OBSERVATIONES IN REGNUM LAPIDEUM", not a continuation of this table.]
+
+<<<PAGE pdf=6 file=page_006.txt>>>
+[PAGE 6: unnumbered]
+
+[NOTE: single broadsheet page of prose, not a table. Mirror-image show-through of the table on the other side of the sheet is visible behind the type, especially in the title band and in the blank lower third; it has been ignored.]
+
+OBSERVATIONES
+IN
+REGNUM LAPIDEUM.
+
+1. Primogenitas Terras tantummodo Glaream & Argillam nominamus, e quibus, Elementorum ope, totum Regnum Lapideum exiſtimamus eſſe productum. Hinc reliqui Lapides temporis, a Creatione præterlapſi, progenies ſunt.
+
+2. Generatio Lapidum Simplicium & Aggregatorum per appoſitionem particularum externam fit; & ſi hi principio aliquo Minerali, forte ſalino, in humore quodam ſoluto, imprægnantur, Compoſiti dicuntur. Hinc generatio in Regno Lapideo nulla ex ovo. Hinc nulla humorum per vaſa circulatio, ut in reliquis Naturæ Regnis.
+
+3. Petram omnem, vix ullâ exceptâ, e Terris originem ducere extra controverſiam eſt. e. gr. ex Humo vegetabili paluſtri Schiſtus, e Glarea Cos, ex Argilla Marmor.
+
+4. Petra cum fuerit imprægnata materiâ aliquâ, reſpectu ad Simplices, peregrinâ, Minera dicitur. Petra vel Minera comminuta Terra nominatur; ſed non vice verſâ. Terra mixta ſi concreſcat Concretum dicitur. Petrificata ſœpius ex Argilla in Calcem mutata oriuntur, paucis tamen exceptis.
+
+5. Saxa, Lapides vulgatiſſimos, rupium & montium plerorumque baſes, in Principio non creata fuiſſe docent partes illorum conſtituentes; nec omnes in Diluvio generatos fuiſſe, confirmat frequens autopſia illorum Saxorum, quæ indies producuntur. Si enim particulæ eorum conſtitutivæ probe examinentur, Arenæ proprietates, in locis adjacentibus vel ſubjectis obviæ, monſtrant.
+
+6. Qvartzum, e quo originem duxerit, maxime dubitarunt Mineralogi. Hinc ſummus Mineralogus Excell. HENCKEL: O Silex! Silex! quis te generavit? Omne Qvartzum eſſe petram paraſiticam docet autopſia; generatur enim in cavo aliorum lapidum & inde excreſcit. Ex Aqua itaque in fiſſuris lapidum retenta, exhalationibus lapideis imprægnata, forte etiam ab aëre adjuta, in ſuperficie lapidis excreſcere incipit, & continuo augetur. Ita generari putamus. In fluido Aqueo primam peractam fuiſſe generationem docent vegetabilia ſœpius incluſa obſervata.
+
+7. Nitrum Qvartzi noſtrum, ſeu Cryſtallum, Qvartzum eſſe docent proprietates omnes, exceptâ duritie & figurâ; figuram obtinet ipſiſſimam veriſſimamque Nitri; ſine dubio itaque Nitro aquæ primordiali lapidum admiſto adſcribenda ſit; duritiem etiam ſuam a ſale hocce obtinuiſſe veroſimile videtur.
+
+8. Gemmæ itaque pretioſæ pellucidæ, a Nitro Qvartzi, non ut veræ ſpecies, ſed ut variationes, colore tantum diſtinctæ differunt. Hinc vanus qui has tanti æſtimat; ſtultus qui in medicina exhibet.
+
+9. Humus omnis è vegetabili vel animali deſtructo oritur. Hinc quotidie augetur, ſed longa die etiam in ſpeciem Arenæ tranſit.
+
+10. Vitriola cum duo tantum naturalia obſervamus, hinc duplices tantum Pyritas & totidem recenſemus Ochras, quarum generator eſt Vitriolum; verum in his contrario modo.
+
+11. Petrificata plurium Auctorum recentiorum deliciæ & Sirenes, ad tot genera quot ſpecies ſunt, redacta fuere, eodem prorſus modo quo Hortulani ſuas plantas diſponunt, qui tot ſpecies Tuliparum, Hyacinthorum, Anemonum &c. quot ſunt horum variationes, fingunt. Ad ſeptem tamen genera reduci poſſunt omnia Petrificata, nec plura poſſibilia ſunt, adeoque ſtudii minus fructuoſi limites potius coarctari, quam ampliari debent.
+
+12. Lithophyta ad Regnum Vegetabile, non autem Lapideum, pertinere, docet figura, ſtructura, generatio & analogia.
+
+13. Artificiales lapides omnes merito excludimus, ut Cerauniam, Boracem, Armoniacum, Vitriola factitia &c. e. gr. Vitriolum Plumbi ſeu Saccharum Saturni, per conſequens Ochram plumbi ſeu Ceruſſam, &c.
+
+14. Apyros dixi illos lapides, qui diutiſſime vi ignis reſiſtunt & conficiendis inſtrumentis Chemicis maxime idonei ſunt. Nihil tamen in tota rerum natura, ne Argentum quidem & Aurum ignis ſummi, ſpeculo cauſtico producti, vehementiam eludere poteſt.
+
+[NOTE: the lower third of the page is blank.]
+
+<<<PAGE pdf=7 file=page_007.txt>>>
+[PAGE 7: unnumbered]
+
+[NOTE: broadsheet page, complete in itself. It is a bracket diagram (dichotomous key) read left to right: a rotated master label at the far left, then successive columns of divisions joined by braces, ending in the 24 numbered classes in the right-hand column. It is transcribed here column by column, left to right, with the printed brace structure described rather than drawn.]
+[NOTE: the Greek etymologies are set in a small italic Greek fount. The ending -ος is printed with the customary "ος" ligature (a curled omicron-sigma); it is transcribed here as ος. Breathings and accents are at the limit of legibility at this resolution and are given as they appear.]
+[NOTE: mirror-image show-through from the verso is visible over most of the sheet; it has been ignored.]
+
+[?HANDWRITTEN] 4
+[NOTE: a small faint mark in the top right corner of the sheet, read as a "4"; it may be a printed signature/folio mark rather than manuscript. Very indistinct.]
+
+CLAVIS SYSTEMATIS SEXUALIS.
+
+Flos eſt plantarum gaudium.
+
+- - - Sic planta propagat!
+
+[NOTE: rotated label, set 90° up the far left edge of the diagram, bracketing the whole:]
+NUPTIÆ PLANTARUM
+Actus generationis incolarum Regni Vegetabilis.
+Floreſcentia.
+
+[NOTE: first division — two members braced together:]
+
+PUBLICÆ.
+Nuptiæ coram totum mundum viſibilem apertè celebrantur.
+Flores unicuique viſibiles ſunt.
+
+CLANDESTINÆ.
+Nuptiæ clam inſtituuntur.
+Flores, oculis noſtris nudis vix conſpiciuntur.
+[NOTE: a broken rule runs from CLANDESTINÆ across the page to class XXIV, CRYPTOGAMIA.]
+
+[NOTE: second division — subdivisions of PUBLICÆ:]
+
+MONOCLINIA.
+Mariti & Uxores uno eodemque Thalamo gaudent.
+Flores omnes hermaphroditi ſunt, & ſtamina cum piſtillis in eodem flore.
+
+DICLINIA. à δὶς bis & κλίνη Lectus, Thalamus.
+Mariti ſeu feminæ diſtinctis thalamis gaudent.
+Flores maſculini vel feminini in eadem ſpecie.
+[NOTE: a broken rule runs from DICLINIA across the page to classes XXI–XXIII, MONOECIA, DIOECIA and POLYGAMIA.]
+
+[NOTE: third division — subdivisions of MONOCLINIA:]
+
+DIFFINITAS.
+Mariti inter ſe non cognati ſunt.
+Stamina nullâ ſuâ parte connata inter ſe ſunt.
+
+AFFINITAS.
+Mariti propinqui & cognati ſunt.
+Stamina cohærent vel inter ſe invicem aliqua ſua parte, vel cum piſtillo.
+[NOTE: a broken rule runs from AFFINITAS across the page to classes XVI–XX, MONADELPHIA to GYNANDRIA.]
+
+[NOTE: fourth division — subdivisions of DIFFINITAS:]
+
+INDIFFERENTISMUS.
+Mariti nullam ſubordinationem inter ſe invicem obſervant.
+Stamina nullam accuratam proportionem longitudinis inter ſe invicem habent.
+
+SUBORDINATIO.
+Mariti certi reliquis præferuntur.
+Stamina duo ſemper reliquis breviora ſunt.
+
+[NOTE: right-hand column — the 24 classes. The class number stands in the outer margin; it is given here at the end of the class heading line.]
+
+MONANDRIA. à μόνος unicus, & ἀνὴρ maritus.	I.
+Maritus unicus in matrimonio.
+Stamen unicum in flore hermaphrodito.
+
+DIANDRIA.	II.
+Mariti duo in eodem conjugio.
+Stamina duo in flore hermaphrodito.
+
+TRIANDRIA.	III.
+Mariti tres in eodem conjugio.
+Stamina tria in flore hermaphrodito.
+
+TETRANDRIA.	IV.
+Mariti quatuor in eodem conjugio.
+Stamina quatuor in eodem flore cum fructu.
+Obſ. Si Stamina 2 proxima breviora ſunt, referatur ad Cl. 14.
+
+PENTANDRIA.	V.
+Mariti quinque in eodem conjugio.
+Stamina quinque in flore hermaphrodito.
+
+HEXANDRIA.	VI.
+Mariti ſex in eodem conjugio.
+Stamina ſex in flore hermaphrodito.
+Obſ. Si ex his Stamina 2 oppoſita breviora, pertinet ad Cl. 15.
+
+HEPTANDRIA.	VII.
+Mariti ſeptem in eodem conjugio.
+Stamina ſeptem in flore eodem cum piſtillo.
+
+OCTANDRIA.	VIII.
+Mariti octo in eodem thalamo cum femina.
+Stamina octo in eodem flore cum piſtillo.
+
+ENNEANDRIA.	IX.
+Mariti novem in eodem thalamo cum femina.
+Stamina novem in flore hermaphrodito.
+
+DECANDRIA.	X.
+Mariti decem in eodem conjugio.
+Stamina decem in eodem flore cum piſtillo.
+
+DODECANDRIA.	XI.
+Mariti duodecim in eodem conjugio.
+Stamina duodecim in flore hermaphrodito.
+
+ICOSANDRIA. ab εἴκοσι viginti & ἀνὴρ.	XII.
+Mariti viginti communiter, ſæpe plures, raro pauciores.
+Stamina (non receptaculo) calicis lateri interno adnata.
+
+POLYANDRIA. à πολὺς & ἀνὴρ.	XIII.
+Mariti viginti & ultra in eodem cum femina thalamo.
+Stamina à 15 ad 1000 in eodem, cum piſtillo, flore.
+
+DIDYNAMIA. à δὶς, bis, & δύναμις potentia.	XIV.
+Mariti quatuor, quorum 2 longiores, & 2 breviores.
+Stamina quatuor, quorum 2 proxima longiora ſunt.
+
+TETRADYNAMIA.	XV.
+Mariti ſex, quorum 4 longiores in flore hermaphrodito.
+Stamina ſex, quorum 4 longiora, 2 autem oppoſita breviora.
+
+MONADELPHIA. à μόνος unicus, & ἀδελφὸς frater.	XVI.
+Mariti, ut fratres, ex una baſi proveniunt.
+Stamina filamentis in unum corpus coalita ſunt.
+
+DIADELPHIA.	XVII.
+Mariti è duplici baſi, tamquam è duplici matre, oriuntur.
+Stamina filamentis in duo corpora connata ſunt.
+
+POLYADELPHIA.	XVIII.
+Mariti ex pluribus, quam duabus, matribus orti ſunt.
+Stamina filamentis in tria, vel plura, corpora coalita.
+
+SYNGENESIA. à σὺν ſimul, & γέννησις generatio.	XIX.
+Mariti cum genitalibus fœdus conſtituerunt.
+Stamina antheris (raro filamentis) in cylindrum coalita.
+
+GYNANDRIA. à γυνὴ femina, & ἀνὴρ maritus.	XX.
+Mariti cum feminis monſtroſe connati.
+Stamina piſtillis (non receptaculo) inſident.
+
+MONOECIA. à μόνος unicus, & οἰκία domus.	XXI.
+Mares habitant cum fem. in eadem domo, ſed diverſo thalamo.
+Flores maſculini & feminini in eadem planta ſunt.
+
+DIOECIA.	XXII.
+Mares & feminæ habitant in diverſis thalamis & domiciliis.
+Flores maſculini in diverſa planta, à femininis naſcuntur.
+
+POLYGAMIA. à πολὺς, & γάμος Nuptiæ.	XXIII.
+Mariti cum uxoribus & innuptis cohabitant in diſtinctis thal.
+Flores Hermaphrodit. & maſculini l. femin. in eadem ſpecie.
+
+CRYPTOGAMIA. à κρυπτὸς occultus, & γάμος Nuptiæ.	XXIV.
+Nuptiæ clam celebrantur.
+Florent intra fructum, vel parvitate oculos noſtros ſubterfugiunt.
+
+[NOTE: prose at the foot of the sheet, running the full width below the diagram:]
+
+ORDINES à Feminis ſeu piſtillis, ut claſſes à Maribus ſeu ſtaminibus, deſumuntur; in Claſſi Syngeneſiæ autem à cæteris parum differunt Ordines. e. gr.
+
+MONOGYNIA, Digynia, Trigynia, Tetragynia &c. à γυνὴ femina, præpoſitis numeris græcis μόνος, δὶς, τρεῖς, τέσσαρες. &c.
+
+i. e. Piſtillum 1. 2. 3. 4. &c. Numerus hic piſtilli deſumitur à Baſi ſtyli; ſi ſtylus autem deficiat, à numero Stigmatum calculus fit.
+
+MONOGAMIA conſtat multis nuptiis, conjugia pura contrahentibus.
+
+i. e. multis floſculis ſtaminibus & piſtillis inſtructis. Flores ejuſmodi maximam partem vulgò Compoſiti dicuntur.
+
+POLYGAMIA. ubi thalami vere nuptorum diſcum occupant, & ambitum cingunt thalami meretricum maritis deſtitutarum, ut a maritis uxoratis fecundentur.
+
+i. e.; ubi floſculi Hermaphroditi diſcum occupant, & marginem cingunt floſculi feminini, ſtaminibus deſtituti, idque triplici modo:
+
+α. SUPERFLUA dicitur, cum feminæ maritatæ fertiles ſunt, ac familiam propagare queunt; adeo ut meretricum auxilium videatur ſuperfluum.
+
+i. e. cum flores diſci Hermaphroditi ſtigmate inſtruuntur & ſemina proferunt, flores quoque feminini radium conſtituentes ſimiliter ſemina ferunt.
+
+β. FRUSTRANEA dicitur, cum feminæ maritatæ fertiles ſunt & ſpeciem propagare queunt; Meretrices autem ob defectum vulvæ, veluti caſtratæ, imprægnari nequeunt.
+
+i. e. cum flores diſci Hermaphroditi ſtigmate inſtruuntur & ſemina proferunt, floſculi verò radium conſtituentes, quum ſtigmate careant, ſemina proferre nequeunt.
+
+γ. NECESSARIA dicitur, cum feminæ maritatæ, ob genitalium labem & vulvæ defectum ſteriles, familiam propagare nequeunt; meretricibus autem à maritis feminarum fecundatis, uxorum locum ſupplentibus, ſobolemque læte propagantibus.
+
+i. e. cum flores Hermaphroditi ob defectum ſtigmatis piſtilli, ſemina perficere nequeunt; floribus autem femininis in radio ſemina perfecta proferentibus.
+
+<<<PAGE pdf=8 file=page_008.txt>>>
+[PAGE 8: unnumbered]
+[NOTE: left half of a broadsheet table (Regnum Vegetabile) that continues onto page 9; the display title itself is split across the break — this half reads "CAROLI LINNÆI"]
+[NOTE: table continues onto page 9]
+[NOTE: the class columns each carry order names (MONOGYNIA, DIGYNIA, ...) printed sideways, rotated 90°, in a narrow ruled strip at the left edge of the column; they are given below in the first tab-column]
+
+CAROLI LINNÆI
+
+[TABLE]
+A.
+MONANDRIA.
+Stamen Unicum.
+MONOGYNIA.	Hippuris. Limnopeuce. V.
+	Canna. Cannacorus T.
+DIGYNIA.	Coriſpermum I.
+	    Stellaria D.
+
+[NOTE: boxed insert set inside column A, between the Monandria and Diandria blocks — the author-abbreviation key]
+AUCTORES Syſtematici allegati.
+A.	Acta Pariſienſ. Tourn.
+B.	BOERHAAVE.
+Bx.	Buxbaum.
+C.	CÆSALPINUS.
+D.	DILLENIUS.
+G.	Gronovius, qui multas mecum communicavit plantas peregrinas, e quibus nova genera adpoſui.
+H.	Heicherus.
+Hs.	Heiſterus.
+I.	Juſſieu.
+K.	Knautius fil.
+M.	Michelius.
+Mg.	MAGNOL.
+Mr.	Martyn.
+Pl.	Plumier.
+Pn.	Pontedera.
+Rj.	RAJUS.
+Rp.	Ruppius.
+Rv.	RIVINUS.
+S.	Scheuchzer.
+T.	TOURNEFORTIUS.
+V.	Vaillantius.
+VI.	100. Vide Hexandriam Hexagyniam, Ubi VI. 100. Aliſm: Damaſon. poſui, id eſt: Damaſonium Tournefortii, eſt ejuſdem generis cum Aliſma in Hexand. Polygynia.
+*	Indicat plantarum flores, a me hactenus non examinatos, ſed à fida Auctorum deſcriptione vel Figura heic inſertos.
+†	Nova genera a me conſtituta.
+
+B.
+DIANDRIA.
+Stamina Duo.
+MONOGYNIA.	α FLOS REGULARIS.
+	Olea.
+	Liguſtrum.
+	Jaſminum.
+	Syringa. Lilac T.
+	Veronica.
+	    Saliunca. Bx.
+	    Beccabunga. Rv.
+	    Veronicella. Hs.
+	    Veronicaſtrum. Hs.
+	Circæa.
+	β. FL. IRR. ANGIOSP.
+	Utricularia. Lentibularia R.
+	Pinguicula.
+	Morina T. *
+	Lathræa *. Clandeſtina T.
+	Ecbolium Rv. Adhatoda T.
+	Bignonia T. Gelſemin. Rv.
+	γ. FL. IRR. GYMNOSP.
+	Roſmarinus.
+	Lycopus. T.
+	Salvia T.
+	    Horminum T.
+	    Sclarea T.
+
+C.
+TRIANDRIA.
+Stamina Tria.
+MONOGYNIA.	α. CALICE VIX ULLO.
+	Valeriana T.
+	    Phu Rp.
+	    Valerianella T.
+	Boerhaavia V.
+	β. CALICE PERIANTHIO.
+	Tamarindus *.
+	Banniſteria *. † Soneri-ila.
+	Cneorum. Chamælea T.
+	γ. CALICE SPATHA.
+	Crocus.
+	Gladiolus.
+	Antholyza †.
+	Iris T.
+	    Xiphium T.
+	    Siſyrinchium T.
+	    Hermodactylus T.
+	Rumpſia. †
+	Commelina Pl.
+	δ. CALICE GLUMA.
+	Cyperus.
+	Scirpus.
+	Eriophorum. Linagroſtis T.
+DIGYNIA.	α. GLUMOSI SPICATI.
+	Hordeum.
+	Triticum.
+	Secale.
+	Phalaris.
+	Alopecurus.
+	Phleum †. Gr. typhoides.
+	Lolium †.
+	Nardus †. Gr. Sparteum.
+	β. GLUMOSI PANICULATI.
+	Panicum.
+	Milium.
+	Briza †.
+	Agroſtis †.
+	Bromus †.
+	Feſtuca †.
+	Avena.
+	γ. PERIANTHIO INSTR.
+	Polyſporon †.
+	    Morocarpus Rp.
+TRIGYNIA.	Montia M. Cameraria D.
+	Tillæa M. *.
+
+D.
+TETRANDR.
+Stamina Quatuor.
+MONOGYNIA.	α. CALICE COMMUNI.
+	Protea. Lepidocarpod. B.
+	    Conocarpodendron B.
+	    Hypophyllocarpod. B.
+	Dipſacus.
+	Scabioſa.
+	    Sueciſa Kn.
+	Knautia. Lychni-ſcabioſ. B.
+	β. STELLATÆ Rj.
+	Gallium.
+	Aparine.
+	Aſperula.
+	    Rubeola.
+	Houſtonia †. G.
+	Sherardia D. Dillenia Hs.
+	Spermacoce D. *
+	Crucianella.
+	Rubia.
+	γ. VARII.
+	Plantago.
+	    Coronopus. T.
+	    Pſyllium T.
+	Sarcocolla †.
+	Catisbea † G.
+	Centunculus D. *.
+	Lippia *.
+	Camara Pl. Morobatind. V.
+	Vitex.
+	Poterium. Sanguiſorba Rp.
+	Epimedium.
+	Avicennia †. Oepata HM.
+	Tithoua †. Phytolac. ſp. T.
+	Cornus.
+	    Meſomora Rudb.
+	    Oſſea Rv. Virg. ſang. D.
+	Evonymus.
+	Ptelea. Frut. Virg. trif. D *
+	Ixora † Schetti HM.
+	δ INCOMPLETI.
+	Alchemilla.
+	Elæagnus.
+	Mimoſa.
+	§ VI. 1 Conv. Unifolium D.
+DIGYNIA.	Hypecoon.
+	Bocconia Pl. *.
+	Cuſcuta.
+	    Baſella HM. B.
+TETRAGYNIA.	Ilex. Aquifolium T.
+	Caſſina †.
+	Potamogeton.
+	§. V. 5. Lin. Radiola D.
+
+E.
+PENTANDRIA.
+Stamina Quinque.
+MONOGYNIA.	α. FL. IMPERFECTI.
+	Herniaria.
+	Paronychia *.
+	Blitum.
+	Vitis.
+	Perſicaria VI. 2.
+	Glaux.
+	Rhamnus T. Cervi ſpina XXII 4.
+	    Frangula T.
+	    Alaternus T.
+	    Paliurus T.
+	β. PETAL. I. SEMINA 4.
+	Anchuſa. Bugloſſum T.
+	Cynogloſſum.
+	    Lappula Rp.
+	Lithoſpermum.
+	    Pſeudo-Anchuſa H.
+	Myoſotis D. Scorpiurus Kn.
+	Heliotropium.
+	Pulmonaria.
+	Symphytum T. Conſolida Rv.
+	Lycopſis. Echioides D.
+	Aſperugo.
+	Borrago.
+	Cerinthe.
+	γ. PETAL. I. SEMIN. 2.
+	Phyllis. Bupleuroides B.
+	δ. PETAL. I. SEMIN. I.
+	Mirabilis Rv. Jalapa T.
+	Plumbago T. Dentillaria R.
+	ε. PETAL. I. CAPS. I-LOCULAR.
+	Hydrophyllum.
+	Swertia †. Gentianæ ſp. aliis.
+	Hottonia B. Myriophyllum Rp.
+	Samolus.
+	Menyanthes.
+	    Nymphoides T.
+	Lyſimachia.
+	    Nummularia B.
+	Anagallis.
+	Cyclamen.
+	Soldanella.
+	Ruellia Pl.
+	Primula. Prim. veris T.
+	    Auricula urſi T.
+	Androſace.
+	Armeria. Lychnidea D.
+	ζ. PET. I. CAPS. 2-LOCUL.
+	Verbaſcum T.
+	    Blattaria T.
+	Hyoſcyamus.
+	Apollinaris. Priapeja Kn.
+	Nicotiana.
+	Datura. Stramonium T.
+	Myrſine †.
+	η. PET. I. CAPS. 3-LOCUL.
+	Convolvulus.
+	    Convolvuloides Hs.
+	Ipomœa. Quamoclit T.
+	Campanula.
+	Phyteuma. Rapunculus T.
+	Polemonium.
+	Trachelium.
+	Polypremum. †
+	θ. PETAL. I. CAPS. 4-LOCUL
+	Diervilla A.
+	ι. PETAL. I. CAPS. 5-LOCUL.
+	Dioſma. † an Aniſi ſtellati ſp. ?
+	Azalea. †. Chamærhododend. T.
+	κ. PETAL. I. BACCIFERÆ.
+	Atropæa. Belladonna T.
+	Mandragora.
+	Solanum.
+	    Melongena T.
+	    Lycoperſicum T.
+	Capſicum.
+	Phyſalis. Alkekengi T.
+	Strychnos †. Vomica. *.
+	Genipa. *.
+	Tinus.
+	Phillyrea.
+	Patagonica D. *.
+	Sideroxylon *.
+	Coffea. Coffe Hs.
+	Fuchſia *.
+	Tournefortia. Pittonia Pl. *.
+	Lycium. Jaſminoides A.
+	Caprifolium T.
+	    Periclymenum T.
+	    Chamaceraſus T.
+	    Xyloſteum T.
+	λ. PETALA 5 ÆQUALIA.
+	Cuminum. Cuminoides T.
+	Telephium T.
+	Brunia †. Leviſanus Pet.
+	Gronovia. Houſt. apud. Mr.
+	μ. PET. 5 INÆQUALIA.
+	Viola.
+	Impatiens Rv. D.
+	    Balſamina Rv. T.
+DIGYNIA.	α. VARIÆ.
+	Chenopodium.
+	Beta.
+	Ulmus.
+	Salſola. C. Kali T.
+	Panax *. Araliaſtrum V.
+	Gentiana T.
+	    Centaurium minus T.
+	Heuchera †. Cortuſa Hr.
+	§. XII. 2. Agrimonoides T.
+	§. XX. 2. Ribes.
+	§. V. 3. Staph. Zanthoxyl. Ctb.
+	β. FR. BIFOLLICULARIS.
+	Plumeria T.
+	Vinca Rp. Pervinca T.
+	Nerium.
+	Tabernemontana Pl. *
+	Cameraria Pl. *
+	Apocynum. .
+	γ. UMBELLA SIMPLEX.
+	Eryngium.
+	Hydrocotyle.
+	Sanicula.
+	Aſtrantia.
+	δ. UMB. COMPOSITA, INVOLUCRO NULLO.
+	Carum Rv. Carvi T.
+	Fœniculum T.
+	    Anethum T.
+	Apium.
+	    Aniſum Rv.
+	Ægopodium Kn. Podagrar. Rv.
+	Pimpinella.
+	Paſtinaca.
+	Heracleum. Sphondylium T.
+	Smyrnium.
+	Imperatoria Rv.
+	ε. UMBELLA COMPOSITA, INVOLUCRO PARTICULARI.
+	Cicuta †. Cicutaria Rv.
+	Phellandrium.
+	Oenanthe.
+	Æthuſa. Cynapium Rv.
+	Chærophyllum.
+	    Myrrhis Rv.
+	Myrrhis. Odorata Rv.
+	Scandix.
+	    Cereſolium Rv.
+	Thapſia.
+	Coriandrum.
+	Bupleurum T.
+	    Perfoliata Rv:
+	ζ. UMBELLA COMPOSITA INV. PART. ET UNIVERS.
+	Laſerpitium.
+	Angelica.
+	Sium.
+	    Siſarum T.
+	Conium. Cicuta Rv.
+	Thyſſelinum.
+	Daucus.
+	    Staphylinus Rv.
+	Caucalis.
+	Peucedanum.
+	Athamanta. Meum T.
+	Leviſticum Rv.
+	    Cicutaria T.
+	Ammi.
+	Crithmum.
+	Cachrys.
+TRIGYNIA.	Tamarix. Tamariſcus T.
+	Viburnum.
+	Sambucus T.
+	    Ebulus Pn.
+	    Opulus T.
+	Cotinus.
+	Staphylæa V:I. Staphylodendr. T
+	§. V. 2. Chenopodium.
+TETRAGYNIA.	Parnaſſia.
+PENTAGYNIA.	Linum IV. 4.
+	Droſera. Ros Solis T.
+	Aralia T. V.
+	Statice T.
+	    Limonium T.
+	Craſſula D.
+	Cotyledon.
+POLYGYNIA.	Myoſurus Kn. D.
+
+F.
+HEXANDRIA.
+Stamina Sex.
+MONOGYNIA.	α. FL. INCOMPL. VI-PETAL.
+	Lirium.
+	    Martagon Rp.
+	Petilium. Corona Imper. T.
+	Fritillaria.
+	Tulipa.
+	Erythronium. Dens canis T.
+	Glorioſa. Methonica A.
+	Ornithogalum.
+	Scilla.
+	Aſparagus.
+	Leontice. Leontopetalum T.
+	β. FL. INCOMPL. I-PETAL.
+	Convallaria IV. I Lil. Conv. T.
+	    Polygonatum T.
+	Hyacinthus.
+	    Muſcari T.
+	Polyanthes. Tuberoſa Hs.
+	Suſiana. Lil. Suſianum.
+	Aſphodelus.
+	Hemerocallis. Lilio-aſphod. T.
+	    Liliaſtrum T.
+	Aloë T.
+	    Yucca D.
+	γ. FL. COMPLETUS.
+	Ananas T.
+	Bromelia Pl.
+	Tillandſia. Caraguata Pl.
+	Tradeſcantia Rp. Ephemer. T.
+	Burmannia. †
+	Lithocardium. * Sebeſtena D.
+	Berberis.
+	δ. FL. SPATACEUS.
+	Pancratium D.
+	Narciſſus.
+	Amaryllis. Lilio-Narciſſ. T.
+	Leucojum. Narciſſo-Leuc. T.
+	Galanthus †.
+	Praſum. Scordopraſum M.
+	Porrum.
+	Cepa.
+	Allium.
+	Pontedetia †. G. Pet. Gaz I 12.
+	ε. FL. INVOLUCRATUS.
+	Hæmanthus.
+	ζ. FL. GLUMOSUS.
+	Juncus.
+	η. FL. APETALUS.
+	Peplis. Portula D.
+DIGYNIA.	Atraphaxis *. Atripl. or. acul. D.
+	Oryza *.
+	§. V. I. Perſicaria.
+	§. VI. 3. Rumex. Acetoſa.
+TRIGYNIA.	Scheuchzeria †. Juncoidi aſ. S.
+	Triglochin. Rv. Juncago T.
+	Rumex. Lapathum T.
+	    Acetoſa T. VI. 2. ♓ VI.
+	Anthericum. Phalangium T.
+	Colchicum.
+	Medeola † G. Ipecacuanha ?
+	Meniſpermum.
+	§. VIII. 4. Paris.
+HEXAGYNIA.	§. VI. 100. Aliſ. Damaſon. T.
+POLYGYNIA.	Aliſma. VI. 6. Plantaginoid. Kn.
+
+G.
+HEPTANDRIA.
+Stamina Septem.
+MONOGYNIA.	Trientalis Rp.
+	Caſtanea. Hippocaſtanum.
+
+H.
+OCTANDRIA.
+Stamina Octo.
+MONOGYNIA.	Rivina Pl. *.
+	Daphne. Thymelæa T.
+	Erica.
+	Vaccinium. Vitis idæa T.
+	    Oxycoccus T.
+	Ruta.
+	Monotropa. Hypopitys D.
+	Oenothera. Onagra T.
+	Epilobium D. Chamænerion T.
+	Crateva. * Tapia Pl.
+	Trophæum. Cardamindum T.
+	Pavia B.
+	Melianthus.
+	Acer.
+	Cliffortia. †. G.
+	Cæſalpina Pl. *
+DIGYNIA.	Chryſoſplenium T.
+	Galenia.
+TRIGYNIA.	Biſtorta.
+	Polygonum.
+	Helxine. Fagopyrum T.
+	Seriana Pl.
+	    Ururu Pl.
+	Cardioſpermum. Corindum T.
+TETRAGYNIA.	Paris VI. 3.
+	Adoxa. Moſchatellina T.
+	Sagina. Alſinella D.
+	Potamopithys B.
+	§. X. 5. Sedum.
+
+I.
+ENNEANDRIA.
+Stamina Novem.
+MONOGYNIA.	Camphora †.
+	Cinnamomum. Lauri ſpecies.
+TRIGYNIA.	Rheum. Rhabarbarum T.
+HEXAGYNIA.	Butomus.
+
+K.
+DECANDRIA.
+Stamina Decem.
+MONOGYNIA.	α. ANTHERÆ BICORNES.
+	Arbutus.
+	    Uva Urſi T.
+	Andromeda. Ledum Rj.
+	    Ledum M.
+	    Chamædaphne Bx.
+	    polifolia Bx.
+	Pyrola.
+	β. STAMINA IRREGULARIA.
+	Dictamnus. Fraxinella T.
+	Caſſia T.
+	    Senna T.
+	Poinciana T.
+	Cercis. Siliquaſtrum T.
+	Hæmatoxylon †. Camperia Sl.
+	Acinodendron. Plk. † Malab. off.
+	γ. STAMINA REGULARIA.
+	Malpighia Pl.
+	Averrhoa. † Bilimbi HM.
+	Zygophyllum. Fabago T.
+	Fagonia T.
+	Tribulus T.
+	Portulaca.
+	Clethra †. G. Alnifolia Plk.
+	Anacardium. Acajv T.
+	δ. CALIX NULLUS.
+	Ledum Rp.
+DIGYNIA.	Mitella T.
+	Saxifragia T.
+	    Geum T.
+	Dianthus. Caryophyllus T.
+	    Armeria H.
+	Saponaria †.
+	Scleranthus. Knauel D.
+TRIGYNIA.	Garidellia T.
+	Drypis M.
+	Silene. X: 5. Muſcipula Rp.
+	Cucubalus. ♓: 10. X: 5.
+	    Behen.
+	Alſine.
+	Arenaria Rp. Spergula D.
+	    Lychnoides V.
+PENTAGYNIA.	Lychnis.
+	Agroſtema. Nigellaſtrum.
+	Ceraſtium D. Myoſotis T.
+	Spergula †.
+	Benzoa †. G. Benzoë: an ?
+	Sedum T. VIII. 4. Y. d.
+	    Anacampſeros T.
+	§. X. 3. Silen: Viſcaria Rp.
+	§. X. 3. Cucub. Lychnis.
+DECAGYNIA.	Phytolacca T.
+
+L.
+DODECANDR.
+Stamina Duodecim.
+MONOGYNIA.	Aſarum.
+	Lythrum. Salicaria T.
+DIGYNIA.	Agrimonia V. 2.
+	    Agrimonoides T. V. 2.
+TRIGYNIA.	§. XXX: I. Euph. Tithymalus T.
+	    Euph. Elutheria Pet. * G.
+DODECAGYNIA.	Sempervivum Rp.
+
+M.
+ICOSANDRIA.
+Stamina Calici adnata.
+MONOGYNIA.	α. FRUCTU DRUPA.
+	Zizyphus T.
+	Eugenia M. *
+	Amygdalus.
+	    Perſica T.
+	Prunus.
+	    Armeniaca T.
+	Ceraſus.
+	Padus.
+	Guajacum Pl. *
+	β. FR. BACCA vel POMO
+	Myrtus.
+	Punica.
+	Styrax.
+	Citrus.	S. 100.
+	    Aurantium T.
+	    Limon.
+	γ. FR. CAPSULA:
+	Philadelphus. Syringa T.
+DIGYNIA.	Ribes. Groſſularia T. V. 2.
+	Cratægus T.
+	    Oxyacantha Rp.
+TRIGYNIA.	Sorbus.
+	    Aucuparia Rp.
+	    Cotoneaſter.
+PENTAGYNIA.	Meſpilus.
+	Pyrus.
+	    Malus.
+	    Cydonia.
+	Spiræa.
+POLYGYNIA.	Muntingia Pl. *
+	Roſa.
+	Rubus.
+	    Chamæmorus Rj.
+	Fragaria.
+	    Camaroides Pn.
+	Potentilla. Pentaphylloides T.
+	    Quinquefolium T.
+	Tormentilla. XVI. 8.
+	Dryadæa †.
+	Comarum †.
+	Geum. Caryophyllata T.
+[/TABLE]
+
+<<<PAGE pdf=9 file=page_009.txt>>>
+[PAGE 9: unnumbered]
+[NOTE: this PDF page is stored with /Rotate 90 (page box 1187.64 x 960.84 pts); the renderer applies the rotation, so the image is upright and is transcribed as printed]
+[NOTE: right half of the broadsheet table begun on page 8; the display title is split across the break — page 8 carries "CAROLI LINNÆI", this half carries "REGNUM VEGETABILE."]
+[NOTE: table continues from page 8]
+[NOTE: order names (MONOGYNIA, GYMNOSPERMIA, DIANDRIA, ...) are printed sideways, rotated 90°, in a narrow ruled strip at the left edge of each class column; they are given below in the first tab-column]
+
+REGNUM VEGETABILE.
+
+[TABLE]
+N.
+POLYANDRIA.
+St. multa recept. adnata.
+MONOGYNIA.	α. CALICE CADUCO.
+	Actæa. Chriſtophoriana T.
+	Podophyllum. Anapodophyl. T.
+	Corchorus.
+	Sanguinaria D. *
+	Chelidonium T.
+	    Glaucium T.
+	Papaver T.
+	Argemone T.
+	Sarracena T. Coilophyllum Mſ.
+	Tilia.
+	β. CALICE PERSISTENTE.
+	Peganum. Harmala.
+	Nymphæa.
+	    Leuconymphæa B.
+	Michelia. † Samſtravadi HM.
+	Anacampſeros. Telephiaſtr. D.
+	Ciſtus.
+	    Helianthemum T.
+	Caryophyllus. Car. arom. T.
+	Thea * †.
+	Meſua †. Belutta HM.
+	Capparis.
+	Plinia. Pl. *
+	γ. CALICE TABESCENTE.
+	Euphorbium L. 3.
+	Cereus.
+	Opuntia T. Tuna D.
+	Cactus. Melocactus T.
+	§. N. 3. Delphinium.
+DIGYNIA.	Pæonia.
+	Anona. Guanabanus Pl.
+TRIGYNIA.	Pereskia Pl. *
+	Reſeda T.
+	    Luteola T.
+	Hypericum N. 5.
+	    Androſæmum T.
+	Aconitum T. N. 5.
+	Delphinium N. 1.
+	    Staphiſagria Rp.
+TETRAGYNIA.	Tetragonia. Tetragonocarpos.
+PENTAGYNIA.	Aquilegia.
+	Nigella.
+	Aizoum *. Ficoidea N.
+	Meſembryanthemum D.
+	§. N. 3. Hyper. Aſcyrum.
+	§. N. 3. Aconitum.
+HEXAGYNIA.	Stratiotes. Aloides B.
+POLYGYNIA.	Dillenia †. Syalita HM.
+	Magnolia Pl. Tulipifera.
+	Clematitis.
+	Atragena. Viticella D.
+	Pulſatilla.
+	Anemone.
+	    Anemone-ranunculus D.
+	    Nemoroſa Rp.
+	Caltha Rp. Populago T.
+	Helleborus.
+	    Trollius Rv. Helleboro-Ran. B
+	    Helleboroides B. Aconit. Rv.
+	Ranunculus.
+	    Ficaria D.
+	    Ranunculoides V.
+	    Ranunculo-aſphodel. HS.
+	Adonis D.
+	Hepatica D.
+	Filipendula T.
+	    Ulmaria T.
+
+O.
+DIDYNAMIA.
+Stam. 4, quor. 2 longiora.
+GYMNOSPERMIA. i. e. Seminibus Pericarpio nudis.	α. PETALI LAB. SUP. NULLO.
+	Bulga. Bugula T.
+	Polium.
+	Teucrium.
+	Triſſago. Chamæpitys T.
+	β. PETALI LAB. SUP. ERECTO.
+	Origanum T.
+	    Majorana T.
+	Thymus T.
+	    Satureja T.
+	    Serpillum T.
+	    Thymbra T.
+	Lavendula.
+	Stœchas.
+	Hyſſopus.
+	Clinopodium.
+	Marrubium.
+	Betonica.
+	Glechoma. Calamintha T.
+	    Chamæclema B.
+	Ruyſchia. Ruiſchiana B.
+	Ocymum.
+	γ. PETALI LAB SUP. CONCAVO.
+	Mentha.
+	    Menthaſtrum Rp.
+	    Pulegium Riv.
+	Moldavica.
+	    Volkamera Hs.
+	Stachys.
+	Galeopſis.
+	Ladanum D. Tetrahit. D.
+	Lamium.
+	Molucca.
+	Cardiaca.
+	    Galeobdolon D.
+	Leonurus.
+	δ. PETALI LAB. SUP. GALEATO
+	Dracocephalon.
+	Scutellaria Rv. Caſſida T.
+	Brunella.
+	Phlomis.
+ANGIOSPERMIA. i. e. Seminibus tectis Pericarpio.	Antirrhinum T.
+	    Linaria T.
+	    Elatine Rp.
+	    Aſarina T. Cymbalar. Rv.
+	Scrophularia.
+	Digitalis.
+	    Gratiola Rv.
+	Volkameria †. Digitalis ſp. T.
+	Chelone A.
+	Orobanche.
+	Squammaria Rv. Anblatum T.
+	Acanthus.
+	Melampyrum.
+	Fiſtularia. Criſta galli Rv.
+	Pedicularis.
+	Euphraſia.
+	    Odontites D.
+	Verbena.
+	    Sherardia V.
+	Selago. Camphorata.
+	Bontia *.
+	Dodartia *.
+	Phelypæa T *.
+	Creſcentia *. Cujete Pl.
+	Celſia †.
+	Limoſella. Plantaginella D.
+	Rhinanthus. Elephas T.
+	Martynia. Houſt. apud Mr.
+	Æginetia † Tſcemcumulu HM.
+
+P.
+TETRADYNAM.
+Stam. 6, quor. 4 longiora.
+FRUCTU SILICULOSO.	α. PERICARPIO UNILOCULARI.
+	Iſatis.
+	Crambe.
+	Cakile.
+	Myagrum.
+	Bunias. Rapiſtrum T.
+	β. PERIC. BILOC. DISSEP. OPPOSITO.
+	Thlaſpi T.
+	    Burſa paſtoris T.
+	Iberis D.
+	Biſcutella. Thlaſpidium T.
+	Naſturtium.
+	    Iberis Rp.
+	Coronopus H. Rp.
+	Lepidium.
+	    Armoratia Rp.
+	Cochlearia.
+	Subularia Rj. Juncifolia Rj.
+	γ. PERIC. BILOC. DISSEP. PARALL.
+	Alyſſum.
+	Draba D.
+	Lunaria T. Bulbonac. Rp.
+FRUCTU SILIQUOSO.	Eryſimum.
+	Irio. Eruca T.
+	Sinapis.
+	Rapa.
+	    Napus.
+	Braſſica.
+	Turritis.
+	Heſperis.
+	    Alliaria Rp.
+	Conringia Hs.
+	Dentaria.
+	Sophia. Accipitrina Rv.
+	Siſymbrium.
+	    Radicula D.
+	Cardamine.
+	Raphanus.
+	    Raphaniſtrum T.
+	Cleome. Sinapiſtrum T.
+	Cheri. Leucojum T.
+
+Q.
+MONADELPH.
+St. Filam. coal. in 1 corp.
+PENTANDRIA.	Hermannia.
+	Melochia D. *
+	Xeræa. Amaranthoides T.
+DECANDRIA.	Azedarach.
+	Geranium X: 1.
+	    Gruinalis.
+POLYANDRIA.	Malva.
+	    Alcea T.
+	    Abutilon T.
+	Malope †.
+	    Lavatera. A.
+	Goſſypium. Xylon T.
+	Alcea. Malva roſea.
+	Althæa †.
+	Urena *.
+	Trionum. Bammia Rv.
+	Ibiſcus. Ketmia T.
+	Camellia *. Tſubaki. Kp.
+	Sida. Althæades. Mg.
+	Fevillæa. Inga Pl.
+
+R.
+DIADELPHIA.
+St. Filamentis coalita in 2 corpora.
+HEXANDRIA.	Fumaria T.
+	    Capnoides T.
+	    Split Rv.
+	    Capnorchis B.
+	    Cyſticapnos B.
+DECANDRIA. i. e. Stamina coalita filamentis 9 in unum corpus, & 1 libero.	α. FRUCTU SILICULOSO.
+	Polygala.
+	Cicer.
+	Lens.
+	Onobrychis.
+	Sertula. Melilotus T.
+	Dorycnium.	} ? ſimul.
+	Trifolium.
+	Coreba. Lagopus Rv.
+	Anthyllis Rv. Vulneraria T.
+	β. FR. INCURVO IRREGULARI.
+	Medica T. Falcata Rv.
+	    Medicago T. Cochleata Rv.
+	Hippocrepis. Ferrum Equ. T.
+	Scorpiurus. Scorpioides T.
+	Ornithopodium.
+	Telis. Fœnum Græcum T.
+	Hedyſarum.
+	    Meibomia Hs.
+	γ. FR. LEGUMINOSO ORDIN.
+	Lotus.
+	Ononis.
+	Ternatea. Clitoris.
+	Corallodendron.
+	Colutea.
+	Ulex. Geniſta-Spartium T.
+	Spartium.
+	Geniſta.
+	Anagytis.
+	Cytiſus.
+	Laburnum.
+	Orobus.
+	Vicia.
+	Arachis. Cracca Rv.
+	Lathyrus.
+	Clymenum.
+	Niſſolia.
+	Lupinus.
+	Faba.
+	Piſum.
+	Phaſeolus.
+	δ. FR. BILOCULARI.
+	Biſerrula. Pelecinus T.
+	Tragacantha.
+	Glycia. Aſtragalus T.
+
+S.
+POLYADELPH.
+Fil. coal. in plures part.
+POLYAN.	Laſianthus †. G. Alcea ſp. aliis.
+	§. XX 1. Citrus.
+
+T.
+SYNGENESIA.
+St. Antheræ coalitæ.
+MONOGAMIA.	α. FLORE SIMPLICI.
+	Dortmanna Rd.
+	    Rapuntium T. Cardin. Rv.
+	    Laurentia M.
+	Jaſione †. Rapunculus ſcab. cap.
+	β. SEMIFLOSCULOSI T.
+	Lampſana.
+	Cichorium.
+	Catanance.
+	Zacintha.
+	Taraxacum. Dens Leonis T.
+	Piloſella.
+	Hieracium.
+	Sonchus.
+	Chondrilla.
+	Picris †.
+	Lactuca.
+	Scorzonera.
+	Tragopogon.
+	γ. FLOSCULOSI T.
+	Chryſocome. Linoſyris Mg.
+	Eupatorium.
+	Sphærocephalus. Echinopus T.
+	Santolina.
+	Vebeſina. Bidens T. Pn.
+	    Forbicina Pn.
+	Carlina.
+	Xeranthemum T. Stœbe Rv.
+	Serratula D.
+	Carthamus.
+	Carduus.
+	Cinara.
+	Arctium. Lappa T.
+	Cnicus.
+	Petaſites.
+	Klenia †. An Tithymaloides B.
+POLYGAMIA SUPERFLUA.	α. RADIO PETAL. DESTITUTO.
+	Artemiſia.
+	Abſinthium.
+	Abrotanum.
+	Filago.
+	Ananthocyclus V.
+	Tanacetum T.
+	Baccharis D.
+	Senecio.
+	β. RADIATI T. CALICE SEMIGLOBOSO.
+	Achillea. Millefoltum T.
+	    Ptarmica T.
+	Anthemis. Chamæmelum T.
+	Buphthalmum.
+	Matricaria.
+	Bellis.
+	Leucanthemum.
+	Chryſanthemum.
+	Cotula.
+	γ. RADIATI T. CALICE VENTRICOSO.
+	Calendula. Caltha T.
+	Dimorphotheca V.
+	Tuſſilago.
+	Doronicum.
+	Arnica Rp.
+	Solidago. Doria D.
+	    Virga aurea T.
+	Jacobæa.
+	Aſter.
+	Amellus †.
+	Helenium. Enula Camp. Mg.
+	Erigerum. Conyzoides D.
+	Othonna. Tagetes T.
+POLYGAMIA FRUSTRANEA.	α. RADIATI T.
+	Helianthus. Corona Solis T.
+	Rudbeckia. Obeliſcotheca V.
+	β. FLOSCULOSI T.
+	Jacea.
+	Cyanus.
+	Centaurium. Cent. maj. T.
+	Crupina D.
+POLYGAMIA NECESSARIA.	Parthenium. Partheniaſtrum D.
+	Milleria. Houſt. apud Mr.
+
+U.
+GYNANDRIA.
+Stamina Piſtillo adnata.
+DIANDRIA.	Orchis.
+	    Satyrium Rv.
+	    Palmata Rv.
+	Satyrium.
+	    Orchioides. Trew.
+	Neottia. Corallorhiza Rp.
+	Serapias. Helleborine T.
+	Herminium. Monorchis M.
+	Cypripedium. Calceolus Mar.
+	Epidendron †. G. Orchidi aff. Hr.
+	Ophris.
+	    ? Nidus Avis T.
+TRIANDRIA.	Bermudiana.
+TETRANDRIA.	Nepenthes †.
+PENTANDRIA.	Aſclepias. Vincetoxic. Rp.
+	    Beidalſar Kn.
+	Periploca.
+	Stiſſeria. Craſſa Rv.
+	Paſſiflora. Granadilla T.
+	    Murucuja. T.
+	Clutia B.
+HEXANDRIA.	Ariſtolochia.
+DECANDRIA.	Helicteres. Plk. Iſera Pl.
+POLYANDRIA.	Grewia †. ? Guidonia B.
+	Arum T.
+	    Dracunculus T.
+	    Colocaſia Rj.
+	    Ariſarum T.
+	Calla. Anguina Trew.
+	    Arioides B.
+	Acorus VI: 1.
+	Ruppia *. Bucca ferrea M.
+
+V.
+MONOECIA.
+Plantæ Androgynæ.
+MONAND.	Zannichella M *. Aponoget. Pn.
+	Najas *. Fluvialis V.
+	Cynomorion M. *
+TRIAND.	Thalyſia. Mays T.
+	Sphærium *. Lacryma Jobi T.
+	Ægilops. S. *
+	Iſchœmum *. Dactyloides.
+	Carex. Cyperoides T.
+	    Scirpoides Mg. Carex Rp.
+	Diaſperus. Nivuri Mr.
+IVAND.	Alnus.
+	Betula.
+	Buxus.
+	§. V. 4. Urtica.
+VAND.	Amaranthus.
+	Jatropha *. Manihot T.
+	Andrachne. Telephioides.
+	Oxydectes. Ricinoides T.
+POLYAND. Stamina plus quam 7.	Ceratophyllum. Dichotoph. D.
+	Myriophyllum Pn.
+	    Pentapterophyllum D.
+	Corylus.
+	Oſtrya M.
+	    Carpinus T. M.
+	Fagus.
+	    Caſtanea *.
+	Quercus.
+	    Ilex T.
+	    Suber T.
+	Sagittaria Rp. D.
+	Sparganium.
+	Typha.
+MONAD.	Pinus.
+	Abies.
+	Larix. *
+	Thuya. *
+	Cedrus. *
+	Xanthium.
+POL.	Ricinus.
+SYNGENESIA.	Bryonia.
+	Momordica.
+	Sicyos. Sicyoides T.
+	Tamnus.
+	Luffa Arab.
+	Anguria.
+	Colocynthis.
+	Cucumis.
+	Melo.
+	Pepo.
+	Cucurbita.
+	Anguina M.
+
+X.
+DIOECIA.
+Pl. Mares & Feminæ.
+IIAND.	Salix.
+IIIAND.	Phœnix *. Palma.
+	Oſyris. Caſia T.
+IVAND.	Morus.
+	Hippophaë *. Rhamnoides T.
+	Myrica. Gale A.
+	Urtica. V. 4.
+	§. V: 1. Rham. Cervi Spina D.
+VAND.	Lentiſcus.
+	Toxicodendron.
+	Humulus. Lupulus T.
+	Cannabis.	♓. 10.
+	Spinacia.
+VIAND.	Smilax.
+	§. VI: 3. Rum. Acetoſa.
+VIIIAND.	Populus.
+	Laurus.
+IXAND.	Mercurialis.
+	Hydrocharis. Morſus ranæ D.
+XAND.	Saſſafras †.
+	Nyſſa †. G. Tupelo Catb.
+	§. X: 3. Cucub. Lychnis.
+	§. ♓. 5. Cann. Cannabina T.
+POL.	Papaya T. *
+	Aruncus. Barba Capræ T.
+	Kiggelaria †. Arb. Ilicis folio B.
+MONAD.	Juniperus T.
+	    Sabina Rp.
+	Taxus *.
+SYNG.	Ruſcus *.
+
+Y.
+POLYGAMIA.
+Species Hybridæ.
+MONOECIA.	Veratrum.	VI: 3
+	Valantia A. *.	IV: 1
+	Holcus †.	III: 2
+	Sorgum M.	III: 2
+	Schœnanthum M.	III: 2
+	Halimus * Mg.	X: 2
+	Atriplex.	V: 2
+	Parietaria.	IV: 1
+	§. IV: 1. Poterium N:	2
+DIOECIA.	Fraxinus T. Pn.	II: 1
+	    Ornus Pn.	II: 1
+	Elichryſum.	T: M.
+	§. X. 5. Sedum. Rhodia.
+TRIOECIA.	Empetrum.	III: 1
+
+Z.
+CRYPTOGAMIA
+Flores abſconditi.
+ARBORES.	Ficus.	III: 1
+	    Capriſicus Pn.
+	    Erinoſyce Pn.
+FILICES.	Equiſetum.
+	Ophiogloſſum T.
+	    Lunaria Rp.
+	Pteris. Thilypteris D.
+	Polypodium.
+	Lonchitis.
+	Hemionitis T.
+	    Lingua Cervina T.
+	Adiantum.
+	Trichomanes.
+	Acroſticum †.
+	    Muraria.
+MUSCI.	Lycopodium D.
+	    Selaginoides Rj.
+	    Selago D.
+	    Lycopodioides Rj.
+	Fontinalis D.
+	Sphagnum D.
+	Mnium D. Muſcoides V.
+	Hypnum D.
+	Bryum D.
+	Polytrichum D.
+	Jungermannia. Hepatica M.
+	    Lichenaſtrum D.
+	Marchantia. Lichen D.
+	Marſilea. Lunularia M.
+	Lichen. Lichenoides D.
+ALGÆ.	Fucus.
+	Ulva Rj.
+	Hydrophace Bx.
+	Lemna. Lenticula M.
+	    Lenticularia M.
+	Chara Rj. Hippuris D.
+	Conferva Rj.
+FUNGI.	Agaricus D.
+	    Amanita D.
+	Boletus D.
+	Hydna. Erinaceus D.
+	Merulius B. Morchella D.
+	Elvela. Fungoides D.
+	Peziza D. Cyathoides M.
+	Coniplea. Lycoperdon T.
+	    Lycoperdaſtrum M.
+	    Geaſter M.
+	    Carpobolus M.
+	Byſſus Rj.
+	Noſtoc V.
+LITHOPHYTA.	Spongia.
+	    Badiaga Bx.
+	Iſis. Keratophyton B.
+	Tubipora Tubularia T.
+	Cellepora †.
+	Millepora.
+	Madrepora.
+	Retipora.
+	Corallium.
+	Acetabulum.
+	Eſchara.
+[/TABLE]
+
+<<<PAGE pdf=10 file=page_010.txt>>>
+[PAGE 10: unnumbered]
+[NOTE: full-width broadsheet page of numbered observations; not part of the table on pp. 8-9]
+
+OBSERVATIONES
+IN
+REGNUM VEGETABILE.
+
+1. Omnem Plantam Fructificatione gaudere, docet in majoribus nuda autopſia; in minoribus, Filicibus nempe, Muſcis, Algis & Fungis oculus armatus, ut teſtantur Clariſſ. Michelii, aliorumque obſervationes; nec ullam unquam Plantarum ſpeciem Fructificatione carere poſſe, patet conſideranti analogiam, uſum, finem, ſtructuram, creationem harum. Reliquæ autem Plantarum partes in multis deficiunt, ut Radix, Caulis, Folia, Fulcra; & tamen Vegetabilia ſunt; uti Viſcus, Lemna, Cuſcuta, Tulipa.
+
+2. Fundamentum Botanices conſiſtit in Plantarum Diviſione & Denominatione Syſtematica, Generica, & Specifica.
+
+3. Botanicis paucisſimis debetur nitor & certitudo Scientiæ, idque præcipue Auctoribus Syſtematicis, quorum exempla ſequendo debemus continuare, excolere, ac perficere Diviſionem Plantarum Syſtematicam (2).
+
+4. Syſtematica Diviſio Plantarum (3), pro baſi aſſumere debet partem harum primariam; ergo Fructificationem (1), quam unicum eſſe Botanices fundamentum Syſtematicum confirmat Natura; adeoque pro abſoluto fundamento demonſtrari poteſt. Hinc recepta fuit à ſummis Syſtematicis, Botanices Fulcris & Conditoribus: Cæſalpino, Moriſono, Hermanno, Boerhaavio, Rajo, Sloaneo, Rivino, Knautiis, Ruppio, Tournefortio, Plumiero, Fevilleo, Dillenio, Buxbaumio, Michelio, Magnolio, Vaillantio, Scheuchzero: & vix ab ullo Methodico, noſtro imprimis tempore, negari poteſt, niſi forte à ſolo Heiſtero.
+
+5. FRUCTIFICATIONIS Partes Univerſales duæ, Flos ſcilicet & Fructus: Particulares vero ſeptem ſunt, cum ſuis ſpeciebus:
+[TABLE]
+I. FLOS.	1. Calix	Spec. 6.	Perianthium, Involucrum, Amentum, Spatha, Gluma, Calyptra.
+	2. Corolla	Spec. 2.	Petalum, Nectarium.
+	3. Stamina	Part. 2.	Filamentum, Anthera (Apex vulgo).
+	4. Piſtilla	Part. 2.	Stylus, Stigma (Summitas).
+II. FRUCTUS.	5. Pericarpium	Sp. 9.	Capſula, Conceptaculum, Siliqua, Legumen, Nux, Drupa, Pomum, Bacca, Strobilus.
+	6. Semina	Part. 3.	Seminulum, Corona, Floccus.
+	7. Receptaculum	Sp. 3.	Floris, Fructus, Fructificationis.
+[/TABLE]
+
+6. Eſſentia Plantarum conſiſtit in Fructificatione (1); Fructificationis in Flore & Fructu (5: I. II.); Fructus in Semine (5: 6.) Floris in Stamine (5: 3.) & Piſtillo (5: 4.); Staminis in Anthera; Piſtilli in Stigmate.
+
+7. Fructum omnem antecedit Flos; Floris eſſentia conſiſtit in Anthera & Stigmate (6), unde Methodum meam deſumſi, cujus itaque robur à priori patet ex jam dictis (1-7).
+
+8. Antheras & Stigmata (7) conſtituere Sexum Plantarum, à Grewio, Rajo, Camerario, Morlando, Vaillantio, Blairio, Juſſieo, Bradleyo, Royeno, &c. detectum, deſcriptum & pro infallibili aſſumtum: nec ullum, apertis oculis conſiderantem cujuſcunque plantæ Flores, latere poteſt: licet hic ob anguſtiam loci explicari nequeat. Negaturque noſtro tempore vix ab ullo alio, niſi à ſolo Pontedera.
+
+9. Antheræ ſunt organa genitalia MASCULINA, quæ cum Farinam ſuam genitalem Stigmati, genitali FEMININO, inſpergunt, fit Fecundatio; quam probant Obſervationes, Experimenta, Analogia, Anatomia, Antecedentia, Conſequentia, Uſus.
+
+10. Flores itaque (9) qui Antheras habent, Maſculini; qui Stigmata, Feminini; qui utraque ſimul, Hermaphroditi dicuntur.
+
+11. Planta quæ Floribus Maſculinis gaudet, Mas; quæ Femininis, Femina; quæ utrisque, Androgyna; quæ Hermaphroditis, Hermaphrodita; quæque Hermaphroditis & ſimul Maſculinis vel Femininis, Hybrida dicitur.
+
+12. Nullum Syſtema Plantarum Naturale, licet unum vel alterum propius accedat, adhucdum conſtructum eſt; nec ego heic Syſtema quoddam Naturale contendo (forte alia vice ejus Fragmenta exhibebo); neque Naturale conſtrui potuit, antequam omnia, ad noſtrum Syſtema pertinentia, notiſſima ſint. Interim tamen Syſtemata artificialia, defectu Naturalis, omnino neceſſaria ſunt.
+
+13. Nulla Methodus Botanica, à Fructificatione Syſtematice deſumta, adhuc conſtructa eſt, quæ non maximam præbuit utilitatem; nec nocuit ulla unquam, niſi quatenus ex aſſumtis principiis genera naturalia contra naturam dilaceravit, quod Nos ſcientes volentesve non commiſimus.
+
+14. Genus omne eſt naturale, in ipſo primordio tale creatum: hinc pro lubitu & ſecundum cujuscunque theoriam non proterve diſcindendum, vel conglutinandum eſt.
+
+15. Nomina Generica male conſtructa, quæque confuſionem pariunt, Synonymis Veterum melioribus (paucis novis à me confectis) inſignivi. Multa tamen adhuc minus congrua reſtant.
+
+16. Nominum receptiſſimorum permutationem, maximam parere difficultatem, exercitatis diu in arte Viris, in confeſſo eſt: hinc non mutari deberent, ſi multitudo errantium errori pareret patrocinium. Neque auctor ſum, ut ad mentem meam, ſeniores Botanici mutent nomina. Veniat tandem ſerus dies, quo nova & noſtris accuratior Gens, per ordinem ſucceſſionis ætatum, ſurgat, quam ſpondeo meam conſideraturam fore theoriam, nominaque illa ſæpius abſurda, præcipue ſpecifica expungat, de quibus in Fundamentis meis Botanicis Amſtelodami nuper editis plura dixi.
+
+17. Methodum meam difficultatem parere nimiam, hariolor Botanicos jam dicere, ad examinandas nempe partes has minimas Floris, vix nudis oculis conſpicuas. Reſpondeo: quod ſi Microſcopium, inſtrumentum maxime neceſſarium, quivis Curioſus ſecum habeat, quid plus opus? Ego tamen examinavi hos omnes Plantarum Flores nudo oculo, absque omni Microſcopiorum uſu. Ultima tamen Claſſis videtur à Creatore veluti excluſa à theoria Staminum, adeoque ſecundum numerum non deſcripſi. Negat enim Natura conjunctionem harum ſecundum Stamina; videſis Cl. Michelii opera.
+
+18. Ne ordines nimis longi, adeoque difficiliores evaderent, eos ſubdiviſionibus auxiliaribus à Fructificatione diſpeſcui. Inter hos notabilis maxime eſt Pentandria Monogynia, ubi plantæ Umbellatæ recenſentur, quas ſecundum methodum à Cl. Artedio in Umbelliferis excogitatam diſpoſui. Fundamentum has diſtinguendi deſumit ab involucro ſeu calice Umbellæ: Umbellasque omnes in tres ordines diſpeſcit: 1m. continet plantas Umbellatas, quæ involucro omni carent. 2d., quæ involucro ad Umbellas tantum particulares gaudent. 3t., quæ involucro ad Umbellas univerſales & particulares inſtruuntur. Quæ Methodus in hac familia reliquis palmam præripit.
+
+19. Vires Vegetabilium à Botanico, qua talis, dijudicantur ſecundum theoriam Artis vel Senſuum; hinc, qui utriusque ſigna intelligit, ille verè ſcit vires plantarum. Plantæ quæcunque Claſſe Naturali, adhuc magis Ordine N. ſed maxime Genere N. conveniunt, etiam viribus propius accedunt. ex. gr.
+
+TRIANDRIA, Digynia. α. β. folia armentis & jumentis læta paſcua; ſemina minora avibus, majora hominibus vulgatiſſima ſunt eſculenta.
+
+TETRANDRIA, Monogynia β. Stellatæ Rj. Adſtringentes ſunt, diureticæ vulgo dicuntur.
+
+PENTANDRIA, Monogynia β. Aſperifoliæ Rj. Adſtringentes, glutinoſæ & vulnerariæ ſunt. ---- ---- κ. Monopetalæ Bacciferæ, maximam partem venenatæ ſunt.
+
+.......... Digynia γ. δ. ε. ζ. Umbellatæ T. in ſiccis locis aromaticæ, calefacientes, reſolventes & carminativæ: in humidis autem venenatæ ſunt; Radice & Seminibus pollent.
+
+ICOSANDRIA Baccifera, Drupifera vel Pomifera; omnis hic fructus cum oblectamento edatur. POLYANDRIA autem omnis probe diſtinguenda, quæ ſæpius venenata eſt.
+
+DIDYNAMIA Gymnoſpermia odorata, cephalica & reſolvens eſt: Folia virtute pollent. TETRADYNAMIA omnis antiſcorbutica & diuretica eſt: exſiccatione amittit vires.
+
+DIADELPHIA folia Pecoribus; ſemina Quadrupedibus (non feris) eſculenta & flatulenta ſunt. MONADELPHIA mucilaginoſa & emolliens eſt.
+
+SYNGENESIA amaras continet & ſtomachicas. GYNANDRIA autem aphrodiſiacas. CRYPTOGAMIA vegetabilia ſæpe ſuſpecta includit.
+
+Senſus externi ſunt examinatores Diætetici omnis cibi ingerendi, quibus Bona à malis diſtinguuntur, à Creatore omni animali pro diverſitate naturæ, diverſi conceſſi.
+
+SAPIDA. Dulcia nutriunt; Pinguia emolliunt; Salſa ſtimulant; Acida refrigerant; Auſtera adſtringunt; Amara alcalina, Acria corroſiva, Nauſeoſa venenata ſunt.
+
+ODORATA. Suavia ſalutaria, Suaviſſima cardiaca, Aromatica reſolventia, Hircina aphrodiſiaca, Ingrata ſuſpecta, Nauſeoſa venenata alunt.
+
+COLOR ruber ubicunque acidum indicat, luridus & Aſpectus totius plantæ triſtis ſuſpectas reddit plantas.
+
+20. Ranunculi nota eſſentialis conſiſtit in petalis ad ungues interius excavatis pro melle; reliquæ partes Fructificationis omnes ludunt, idque patet conſideranti.
+
+<<<PAGE pdf=11 file=page_011.txt>>>
+[PAGE 11: unnumbered]
+[NOTE: full-width broadsheet page of numbered observations]
+[HANDWRITTEN] [?6]  [NOTE: small ink numeral in the upper right margin, above the printed area]
+
+OBSERVATIONES
+IN
+REGNUM ANIMALE.
+
+1. Zoologia, pars illa Hiſtoriæ Naturalis Nobiliſſima, longe minus exculta eſt, quam duæ reliquæ ejus partes. Si tamen vel motum, vel mechaniſmum, vel ſenſus externos internoſque, vel denique figuram Animalium, cæteris præſtantiorem, reſpiciamus, omnibus in aprico erit, Animalia eſſe ſumma & perfectiſſima Creatoris opera.
+
+2. Si Zoologias Auctorum ſub examen revocemus, maximam partem nihil niſi narrationes fabuloſas, diffuſum ſcribendi modum, Chalcographorum Icones & Deſcriptiones imperfectas, ac ſæpe nimis extenſas, inveniamus. Paucisſimi vero ſunt, qui Zoologiam in Genera & Species ſecundum leges Syſtematicas redigere tentarunt, ſi Nobiliſſ. Willughbejum & Clariſſ. Rajum excipiamus.
+
+3. Hinc Obſervationibus, quas unquam propria autopſia obtinere potuerim adjutus, Syſtema quoddam Zoologiæ conſcribere cœpi, quod heic Tibi ſiſto Illuſtris Lector. In Tetrapodologia Ordines Animalium à Dentibus; in Ornithologia à figura Roſtri; In Entomologia ab Antennis & Alis &c. inprimis deſumſi.
+
+4. In Ichthyologia nullam ipſe elaboravi Methodum, verum Suam nobiſcum communicavit ſummus noſtri temporis Ichthyologus Cl. D. Petr. Artedi, Suecus, qui in diſtinguendis Generibus Piſcium Naturalibus, & Specierum differentiis parem ſui vix habuit. Hanc Curioſo Lectori jam ſiſto, ut ideam totius operis heic videat. Plura Ill. Lect. brevi ab Eodem exſpectabit, Inſtitutiones nempe totius Ichthyologiæ.
+
+5. Sunt qui putent Zoologiam minus utilem eſſe, quam reliquas Hiſtoriæ Naturalis partes, inprimis ad minutiſſima Animalcula quod attinet; ſed ſi hucuſque notiſſimorum tantummodo Inſectorum Noxam, Utilitatem & Proprietates conſideremus, facile apparebit, quantam utilitatem, eamque magni momenti futuram, affunderent ἰδιότητες eorum, quæ nondum probe cognita nobis ſunt.
+
+6. Noxa (5) Inſectorum ex ſequentibus ſatis ſuperque patet: ex. gr. Blatta in Finlandia Ruſſiaque & panes, & omnis generis veſtimenta conſumit, ita ut Incolæ intenſiſſima hieme domicilia ſua ad tempus relinquere coacti ſint, uſque dum frigore pereat. Oeſtrum Lapponicum tertiam circiter partem Cervorum Rangiferorum ſeu pecudum Lapponicarum, dum adhuc juvenes exiſtunt, deſtruit. Teredo Navium quantum detrimentum navibus & palis attulerit, omnibus in confeſſo eſt. Culices quanta moleſtia homines & pecudes in provinciis Lapponiæ finitimis afficiant, dicere vix poſſum. Grylli domeſtici, notiſſimi illi murorum incolæ, quam moleſtum ſtridorem edant, & quam multas inſomnes noctes dormituris creent, res notiſſima eſt. Muſcas domeſticas, in Finmarkia Norvegica, totas domos impleviſſe & nihil intactum reliquiſſe, ipſe in itinere Lapponico vidi. Pulices Mulieribus, Pediculi Nautis & Militibus quantum laborem & moleſtiam multis in locis faceſcant, nulli non conſtat. Imo Quadrupedia quoque, Aves &c. propriis pediculis moleſtantur. Acari Inſectorum minima animalcula, ipſa exanthemata corporis humani ſæpiſſime cauſant. Quanto agmine Locuſtæ Africanæ paucis abhinc annis in quibuſdam Europæ locis vegetabilia devaſtarint, & quanta ſtrage Erucæ papilionum quotannis arborum folia exedant, notiſſimum eſt. Gyrinus terreſtris Noſtr. quomodo Plantarum Embryones tenellos primo vere deſtruat, Hortulani optime noſcunt. Dermeſtes pretioſiſſimas pelles Quadrupedum & Avium miro modo dilacerat. Oeſtrum Bovinum moleſtia maxima defatigatos boves æſtivo tempore afficit. Quam multos homines Aranei & Scorpii necarint, & Tarantulæ inſaniâ affecerint, obſervationes Medicorum teſtantur, ut ſexcenta ejuſmodi præteream.
+
+7. Uſus (5) vero Inſectorum maximos in arte Tinctoria præbent Coccionella, Kermes, Gallæ ab Ichneumonibus productæ. Cantharidum uſus in Chirurgia, Meloës in Medicina, Bombycum in arte Textoria, mellis Apum in Oeconomia &c. notiſſimus eſt.
+
+8. Proprietates (5) Inſectorum qui conſiderare velit curioſus Scrutator, vix ullibi majori afficiatur voluptate. Examina modo: Roſtrum Curculionis, Cornua Lucani, Antennas Tragoceri, Articulos Meloës, Alas Forficulæ, Plumas Papilionis, Oculos Tabani, Ventriculum Ricini, Aculeum Crabronis, Colorem Cantharidis, Elaſticitatem Notopedæ, Stridorem Grylli, Odorem Cimicis, Exilitatem Acari, Coitum Libellulæ, Nidum Ichneumonis, Favos Apum, Hibernaculum Oeſtri, Ædificium Veſpæ, Teſtam Eremitæ, Vitam Ephemeræ, Acervum Formicæ, Foveam Formicæ-Leonis, Telam Aranei, Natatum Monoculi, Curſum Gyrini aqv. Phoſphorum Lampyridis, Scintillas Scolopendræ, Renovationem Cancri, Motum Spiralem Erucæ ex Muſca cærulea provenientis, Vitam fere indeſtructibilem Erucæ aquaticæ Tabani, & Metamorphoſes ſic dictas fere omnium Inſectorum.
+
+9. Ova plurimorum Inſectorum triplici Integumento obducuntur; abſcedente Integumento Primo appellatur Eruca, Secundo Propolis, & Tertio tandem Inſectum perfectum; hinc in ejuſmodi ovis triplex excluſio Pulli.
+
+10. In Tubo Inteſtinali Hominum tres Species animalium occurrunt, Lumbrici nempe, Aſcarides, & Tæniæ. Quod Lumbricus inteſtinorum una eademque ſit ſpecies cum Lumbrico terreſtri vulgatiſſimo, monſtrat figura omnium partium. Quod Aſcarides iidem ſint cum Lumbricis illis minutiſſimis, in locis paluſtribus ubique obviis, ex autopſia clariſſime patet. Tænia hucuſque pro ſpecie paraſitica habita eſt, quum in Hominibus, Canibus, Piſcibus &c. frequentiſſime ſolitaria reperta fuerit, & maximum negotium illis faceſcat, qui in indaganda Generatione Animalium diligentem operam contulerunt. Ego vero in itinere Reuterholmiano-Dalekarlico Ann. 1734. conſtitutus in præſentia Septem Sociorum meorum hanc inter Ochram acidularem Jærnenſem inveni, quod maxime miratus ſum; quum aqua acidulari ejuſmodi Tænias expellere plurimi tentant. Hinc ſequitur Vermes non oriri ex ovis Inſectorum, Muſcarum & ſimilium (quod ſi fieret nunquam multiplicari poſſent intra Tubum Inteſtinalem, & ſecundum gradus metamorphoſes perirent) ſed ex ovis vermium prædictorum, unà cum aqua bibendo hauſtis; unde patet medicamenta Inſectis adverſa non per conſequens vermes necare.
+
+<<<PAGE pdf=12 file=page_012.txt>>>
+[PAGE 12: unnumbered]
+[NOTE: this is the large single-sheet "Regnum Animale" table of the Systema Naturae. The PDF splits the broadsheet across two pages; this page is the LEFT portion. The engraved display title is itself split at the break: only "CAROLI LINNÆI" falls on this page.]
+[NOTE: three class tables stand side by side across the sheet (I. QUADRUPEDIA, II. AVES, III. AMPHIBIA). They are transcribed here one after the other, full left column first, per protocol; they are read across the sheet in the original.]
+[NOTE: in each class table the ORDINES column is set rotated 90° (reading bottom-to-top, i.e. rotated counter-clockwise); it is transcribed below as read, in its row position.]
+[NOTE: the column headings "Ordines. Genera. Characteres Generum. Species." are printed at the FOOT of the QUADRUPEDIA table, not at its head; they are given below in the printed position.]
+[NOTE: within a cell that runs to several printed lines, the line breaks are kept and continuation lines begin with a tab so that column association is preserved. Columns are separated by single tabs.]
+[NOTE: table continues onto page 13.]
+
+CAROLI LINNÆI
+
+[TABLE]
+I. QUADRUPEDIA.
+Corpus hirſutum.	Pedes quatuor.	Feminæ viviparæ , lactiferæ.
+
+ANTHROPO-MORPHA.	Homo.	Noſce te ipſum.	H {	Europæus albeſc.
+Dentes primores 4. utrinque: vel nulli.			{	Americanus rubeſc.
+			{	Aſiaticus fuſcus.
+			{	Africanus nigr.
+	Simia.	ANTERIORES.	POSTERIORES.	Simia cauda carens.
+		Digiti	5. . . . . . 5.	Papio.	Satyrus.
+		Poſteriores anterioribus ſimiles.	Cercopithecus.
+			Cynocephalus.
+	Bradypus.	Digiti	3. vel 2. . . 3.	Ai.	Ignavus.
+			Tardigradus.
+
+FERÆ.	Urſus.	Digiti	5. . . . . . 5.	Scandens.	Urſus.
+Dentes primores 6. utrinque: intermedii longiores: omnes acuti.		Mammæ 4. ( Ald. )	Coati Mrg.
+Pedes multifidi, unguiculati.		Calcaneis inſiſtit. Pollex extus poſitus.	Wickhead Angl.
+	Leo.	Digiti	5. . . . . 4.	Scandens.	Leo.
+		Mammæ 2. ventrales.
+		Lingua aculeata.
+	Tigris.	Digiti	5. . . . . 4.	Scandens.	Tigris.
+		Mammæ 4 umbilicales.	Panthera.
+		Lingua aculeata.
+	Felis.	Digiti	5. . . . . 4.	Scandens.	Felis.
+		Mammæ 8. ſc. 4. pect. 4. abdom.	Catus.
+		Lingua aculeata.	Lynx.
+	Muſtela.	Digiti	5. . . . . 5.	Scandens.	Martes.
+		Dentes molares 4. utrinque.	Zibellina.
+			Viverra.
+			Muſtela.
+			Putorius.
+	Didelphis.	Digiti	5. . . . . 5.	Philander. Poſſum.
+		Mammæ 8. intra burſulam abdomin.
+	Lutra.	Digiti	5. . . . . 5.	Palmipes.	Lutra.
+	Odobænus.	Digiti	5. . . . . 5.	Palmipes.	Roſſ. Morjus.
+		Dentes intermedii ſuperiores longiſſ.
+	Phoca.	Digiti	5. . . . . 5.	Palmipes.	Canis marinus.
+		Mammæ duæ umbilicales.
+	Hyæna.	Digiti	4. . . . . . 4.	Hyæna Veter.
+		Collum ſuperne jubatum.	Vivam Londini nuper vidit & deſcripſit ARTED.
+		Cauda brevis.
+	Canis.	Digiti	5. . . . . 4.	Canis.
+		Mammæ 10. ſc. 4. pect. 6. abdom.	Lupus.
+			[?Squillachi.]
+			Vulpes.
+	Meles.	Digiti	5. . . . . 5.	Taxus.
+		Ungues medii digitis ipſis longiores.	Zibetha.
+		Corpus ſuperne albicat: inferne nigricat.
+	Talpa.	Digiti	5. . . . . 5. anteriores maximi.	Talpa.
+	Erinaceus.	Digiti	5. . . . . 5.	Echinus terreſtris.
+		Spinis vel lorica ſquamoſa munitus.	Armadillo.
+	Veſpertilio.	Digiti	5. . . . . 5.	Veſpertilio.
+		Pes anticus in alam expanſus.	Felis volans Seb.
+		Mammæ 2. pectorales.	Canis volans Seb.
+			Glis volans Seb.
+
+GLIRES	Hyſtrix.	Aures humanæ.	Corpus ſpinoſum.	Hyſtrix.
+Dentes primores 2. utrinque.
+Pedes multifidi.
+	Sciurus.	Digiti	4. . . . . 5.	Sciurus.
+		Cauda longiſſima lanigera.	. . . volans.
+	Caſtor.	Digiti	5. . . . . 5.	palmipes poſtice.	Fiber.
+		Cauda horizontalis , plana , nuda.
+	Mus.	Digiti	4. . . . . 5.	Rattus.
+		Cauda teres , ſquamoſa , hirſuta.	Mus domeſticus.
+			.  . brachiurus.
+			.  . macrourus.
+			Lemures.
+			Marmota.
+	Lepus.	Digiti	5. . . . . 4.	Lepus.
+		Cauda breviſſima , villoſa.	Cuniculus.
+	Sorex.	Digiti.	5. . . . . 5.	Sorex.
+		Dentes canini adſunt.
+
+JUMENTA.	Equus.	Mammæ 2. inguinales.	Equus.
+Dentes primores incerti, obtuſi.		Pedes integri.	Aſinus.
+canini exerti , validi.			Onager.
+			Zebra.
+	Hippopotamus.	Mammæ 2 inguinales ( Ariſt. )	Equus marinus.
+		Pedes quadrifidi.
+	Elephas.	Mammæ 2. pectorales.	Elephas.
+		Pedes 5. callis inſtructi.	? Rhinoceros.
+	Sus.	Mammæ 10. abdominales.	Sus.
+		Pedes biungulati : raro ſimplices.	Aper.
+			Porcus.
+			Barbyrouſſa.
+			Tajacu.
+
+PECORA.	Camelus.	Cornua nulla.	Dromedarius.
+Dentes primores inferiores tantum : Superiores nulli.			Bactrianus.
+Pedes ungulati.			Glama.
+			Pacos.
+	Cervus.	Cornua annua , primum piloſa,	Camelopardalis.
+		ſolida , ab apice creſcentia.	Caprea.
+		plurimis ramoſa : feminis rara.	Axis.
+			Cervus.
+			Platyceros.
+			Rheno. Rangifer.
+			Alces.
+	Capra.	Cornua ſurſum verſa.	Hircus.
+		erecta , ſcabra.	Ibex.
+			Rupicapra.
+			Strepſiceros.
+			Gazella.
+			Tragelaphus.
+	Ovis.	Cornua retrorſum flexa	Ovis vulgaris.
+		intorta , rugoſa.	.  . Arabica.
+			.  . Africana.
+			.  . Angolenſis.
+	Bos.	Cornua antrorſum verſa.	Bos.
+		lunulata , lævia.	Urus.
+			Biſon.
+			Bubalus.
+
+Ordines.	Genera.	Characteres Generum.	Species.
+[/TABLE]
+
+[TABLE]
+II. AVES.
+Corpus plumoſum.	Alæ duæ.	Pedes duo.	Roſtrum oſſeum.
+Feminæ oviparæ.
+
+ACCIPITRES.	Pſittacus.	Digiti pedis antici 2.	poſtici 2.	Pſittacus.
+Roſtrum uncinatum.
+	Strix.	Digiti pedis antici 3.	poſticus 1.	Bubo.	Otus.
+		quorum extimus retrorſum flexilis.	Noctua.	Ulula.
+	Falco.	Digiti pedis antici 3.	poſticus 1.	Aquila.	Vultur.
+			Buteo.	Falco.
+			Cyanopus.	Milvus.
+			Lanius.	Pygargus.
+			Niſus.	Tinnunculus.
+
+PICÆ.	Paradiſæa.	Pennæ 2. longiſſimæ , ſingulares ,	Manucodiata.
+Roſtrum ſuperne compreſſum, convexum.		nec alis , nec uropygio infixæ.	Avis Paradiſiaca.
+	Coracias.	Pes 4dact. Rectrices exteriores gradatim	Pica.
+		breviores.
+	Corvus.	Pes 4dact. Rectrices æquales.	Corvus.	Cornix.
+			Monedula.	Lupus.
+			Glandaria.	Caryocatactes.
+	Cuculus.	Digiti pedis antici 2.	poſtici 2.	Cuculus.
+		Roſtrum læve.	Torquilla ſ. Junx.
+	Picus.	Digiti pedis antici 2.	Picus niger.
+		Roſtrum angulatum.	. . . viridis.
+			. . . varius.
+	Certhia.	Pes 4dact. Roſtr. gracile incurvum.	Certhia.
+	Sitta.	Pes 4dact.  Roſtr. triangulare.	Picus cinereus.
+	Upupa.	Pes 4dact.  Caput plumis criſtatum.	Upupa.
+	Iſpida.	Pes 4dact. cujus digitus extimus medio	Iſpida.
+		adnectitur tribus articulis.	Merops.
+
+MACRORHYN-CHÆ.	Grus.	Caput criſtatum.	Grus.
+Roſtr. longiſſ. acut.
+	Ciconia.	Ungues plani , ſubrotundi.	Ciconia.
+	Ardea.	Unguis medius inferne ſerratus.	Ardea.
+
+ANSERES.	Platelea.	Roſtr. depreſſo-planum , apice ſubrot.	Platea.
+Os dentato-ſerratum.
+	Pelecanus.	Roſtr. depreſſum , apice unguiculato ,	Onocrotalus.
+		inferne burſa inſtructum.
+	Cygnus.	Roſtr. conico-convexum.	Olor.	Elder.
+			Anſer.	Anſ. Bernicla.
+	Anas.	Roſtr. conico-depreſſum.	Anas fera.	Glaucium.
+			Boſchas.	A. Domeſt.
+			Penelope.	Querquedula.
+	Mergus.	Roſtr. cylindriforme , apice adunco.	Mergus.
+			Merganſer.
+	Graculus.	Roſtr. conicum , apice adunco.	Carbo aquat.
+			Graculus aquat.
+	Colymbus.	Roſtr. ſubulatum. Pedes infra æquilibr.	Colymbus.	C. minim.
+			Podiceps.	Arctica.
+	Larus.	Roſtr. ſubulatum. Pedes in æquilibr.	Cataracta.	Larus.
+			Sterna.	Piſcator.
+
+SCOLOPACES.	Hæmatopus.	Pes 3dact.  Roſtri apex compreſſus.	Pica marina.
+Roſtrum cylindraceo-teretiuſculum.
+	Charadrius.	Pes 3dact.  Roſtri apex teres.	Pluvialis.
+			Hiaticula.
+	Vanellus.	Pes 4dact.  Roſtrum digitis brevius.	Capella.
+		Caput pennato criſtatum.
+	Tringa.	Pes 4dact.  Roſtrum digitis brevius.	Tringa.	Ocrophus.
+		Caput ſimplex.	Pugnax.	Gallinula.
+	Numenius.	Pes 4dact.  Roſtrum digitis longius.	Gallinago.	Limoſa.
+			Arquata.	Recurviroſtra.
+	Fulica.	Pes 4dact.  Digiti membranis aucti.	Gallinula aquatica.
+		Caput carnoſo-criſtatum.
+
+GALLINÆ.	Struthio.	Pes 2dact. abſque poſtico.	Struthio-camelus.
+Roſtrum conico-incurvum.
+	Caſuarius.	Pes 3dact. abſque poſtico.	Emeu.
+		Caput galea & palearibus ornatum.
+	Otis.	Pes 3dact. abſque poſtico.	Tarda.
+		Caput ſimplex.
+	Pavo.	Pes 4dact. Caput corolla pennac. orn.	Pavo.
+	Meleagris.	Pes 4dact.  Frons papilla.  Gula mem-	Gallopavo.
+		branâ unicâ longitudinali in-
+		ſtructa.
+	Gallina.	Pes 4dact. Frons membrana ſerrata.	Gallina.
+		Gula membr. duplici longitud. inſt.
+	Tetrao.	Pes 4dact. Supercilia papilloſa nuda.	Phaſianus.
+			Urogallus.	Tetrao.
+			Bonaſia.	Lagopus.
+			Perdix.	Coturnix.
+
+PASSERES.	Columba.	Roſtr. rectum , ad baſin furfuraceum.	Columba.	Turtur.
+Roſtrum conico-attenuatum.		Nares oblongæ , membranula ſuperne	Palumbus.	Oenas.
+		inſtructæ.
+	Turdus.	Roſtr. parum convexum.	Turdus.
+		Plumæ roſtri baſin tegunt.	Merula.
+	Sturnus.	Roſtr. rectum ſubteres.	Sturnus.
+		Lingua bifida cornea.
+	Alauda.	Unguis digiti poſtici digitis ipſis longior.	Alauda.
+	Motacilla.	Roſtr. gracile.  Fauces nigricant.	Motacilla.	Oenanthe.
+		Lingua apex bifidus laceratus.	Merula aquatica.
+	Luſcinia.	Roſtr. gracile rectum.	Luſcinia.	Ficedula.
+		Lingua apex bifidus laceratus.	Erithacus.	Troglodytes.
+			Carolina Rudb.
+	Parus.	Roſtr. gracile.	Parus.	P. caudatus.
+		Lingua apex truncatus , 4 ſetis in-	.  . criſtatus.
+		ſtructus.
+	Hirundo.	Roſtr. gracile , ad baſin depreſſum ,	Hirundo.
+		minimum : rictu ampliſſimo.	Caprimulgus.
+	Loxia.	Roſtr. craſſum , magnum , breve , cur-	Coccothrauſtes.
+		vum , undique convexum.	Loxia.	Pyrrhula.
+	Ampelis.	Roſtr. craſſum , rectum.	Garrulus Bohem.
+		Remigum apices nonnulli membra-
+		nacei.
+	Fringilla.	Roſtr. craſſum.	Fringilla.	Carduelis.
+		Maxilla utraque alteram ſinu quodam	Emberiza.	Spinus.
+		ad baſin recipit.	Paſſer.
+[/TABLE]
+
+[TABLE]
+III. AMPHIBIA.
+Corpus nudum, vel ſquamoſum.	Dentes molares
+nulli : reliqui ſemper.	Pinnæ nullæ.
+
+SERPENTIA.	Teſtudo.	Corpus quadrupedium , caudatum,	Teſtudo teſſulata.
+		teſta munitum.	. . . terreſtris.
+			. . . marina.
+			Lutaria.
+	Rana.	Corpus quadrupedium , cauda de-	Bufo.
+		ſtitutum , ſquamis carens.	Rana arborea.
+			.  . aquatica.
+			.  . Carolina.
+	Lacerta.	Corpus quadrupedium , caudatum,	Crocodilus.
+		ſquamoſum.	Allegator.
+			Cordylus.
+			Draco volans.
+			Scincus.
+			Salamandra aq.
+			.  . terreſtris.
+			Chamæleo.
+			Seps.
+			Senembi Mrg.
+	Anguis.	Corpus apodum , teres , ſquamo-	Vipera.
+		ſum.	Cæcilia.
+			Aſpis.
+			Caudiſona.
+			Cobras de Cabelo.
+			Anguis Æſculapii.
+			Cenchris.
+			Natrix.
+			Hydrus.
+[/TABLE]
+
+AMPHIBIORUM Claſſem ulterius continuare noluit benignitas Creatoris ; Ea enim ſi tot Generibus , quot reliquæ Animalium Claſſes comprehendunt , gauderet; vel ſi vera eſſent quæ de Draconibus , Baſiliſcis , ac ejuſmodi monſtris [illegible] τε[?symbol: 7-shaped Greek ligature]ραλόγοι fabulantur , certè humanum genus terram inhabitare vix poſſet.
+
+[NOTE: two glyphs stand at the end of the line after "monſtris" — the first like α or ο, the second hook-topped with a descender (ς or ζ) — which I cannot read with confidence; marked [illegible]. In the Greek word that follows, the third glyph is a "7"-shaped ligature I cannot resolve; the remaining glyphs read τε…ραλόγοι.]
+
+PARADOXA.
+
+HYDRA corpore anguino , pedibus duobus , collis ſeptem, & totidem capitibus, alarum expers, aſſervatur Hamburgi , ſimilitudinem referens Hydræ Apocalypticæ à S. JOANNE CAP. XII. & XIII. deſcriptæ. Eaque tanquam veri animalis ſpeciem plurimis præbuit, ſed falſo. Natura ſibi ſemper ſimilis plura capita in uno corpore nunquam produxit naturaliter. Fraudem & artificium , cum Ipſi vidimus , dentes Ferino-muſtelini , ab Amphibiorum dentibus diverſi , facillime detexerunt.
+
+RANA-PISCIS s. RANÆ IN PISCEM METAMORPHOSIS valdè paradoxa eſt , quum Natura mutationem Generis unius in aliam diverſæ Claſſis non admittat. Ranæ , ut Amphibia omnia , pulmonibus gaudent & oſſibus ſpinoſis. Piſces ſpinoſi , loco pulmonum , branchiis inſtruuntur. Ergo legi Naturæ contraria foret hæc mutatio. Si enim piſcis hic inſtructus eſt branchiis , erit diverſus à Rana & Amphibiis. Si verò pulmones , erit Lacerta : nam toto cælo à Chondropterygiis & Plagiuris differt.
+
+MONOCEROS Veterum , corpore equino , pedibus ferinis; cornu recto , longo , ſpiraliter intorto , Pictorum figmentum eſt. MONODON Artedi ejuſmodi cornu gerit , cæteris verò partibus multum differt.
+
+PELECANUS roſtro vulnus infligens femori ſuo , ut emanante ſanguine ſitim pullorum levet, fabuloſè ab Iiſdem traditur. Anſam fabulæ dedit ſaccus ſub gula pendulus.
+
+SATYRUS caudatus , hirſutus , barbatus , humanum referens corpus , geſticulationibus valde deditus , ſalaciſſimus, Simiæ ſpecies eſt , ſi unquam aliquis viſus fuit. Homines quoque Caudati , de quibus recentiores peregrinatores multa narrant , ejuſdem generis ſunt.
+
+BOROMETZ s. AGNUS SCYTHICUS plantis accenſetur , & agno adſimilatur ; cui caulis alterius plantæ è terra erumpens umbilicum intrat ; idemque ſanguine præditus à feris devorari temerè dicitur. Eſt autem artificioſe ex radicibus Filicinis Americanis compoſitus. Naturaliter autem eſt Embryo Ovis allegoricè deſcriptus , qui omnia data habet attributa.
+
+PHOENIX , Avis ſpecies, cujus unicum in mundo individuum , & quæ decrepita ex ferali buſto , quod ſibi ex aromatibus ſtruxerat, repueraſcere fabuloſè fertur , felicem ſubitura prioris vitæ periodum. Eſt verò PALMA DACTYLIFERA. vid. Kæmpf.
+
+BERNICLA s. ANSER SCOTICUS & CONCHA ANATIFERA è lignis putridis in mare abjectis naſci à Veteribus creditur. Sed fucum impoſuit Lepas interaneis ſuis penniformibus , & modo adhærendi , quaſi verus ille anſer Bernicla inde oriretur.
+
+DRACO corpore anguino, duobus pedibus , duabus alis, Veſpertilionis inſtar, eſt Lacerta alata , vel Raja per artem monſtroſe ficta , & ſiccata.
+
+AUTOMA MORTIS Horologii minimi ſonitum edens in parietibus , eſt Pediculus pulſatorius dictus, qui ligna perforat, eaque inhabitat.
+
+<<<PAGE pdf=13 file=page_013.txt>>>
+[PAGE 13: unnumbered]
+
+[NOTE: table continues from page 12]
+[NOTE: this page is the right half of the single "REGNUM ANIMALE" broadsheet; it carries classes IV. PISCES, V. INSECTA and VI. VERMES, printed side by side as three independent tables. Reading order below: the whole PISCES table, then the whole INSECTA table, then the whole VERMES table.]
+[NOTE: the order names (PLAGIURI, CHONDROPTERYGII, ... ) with their italic definitions are printed sideways, reading bottom-to-top, in a narrow column at the left edge of each class; they are given here in the first tab-separated field, on the first row of the order they head.]
+[NOTE: each table row is given here as one line with four single-tab-separated fields — order / genus / character / species-and-synonyms. Where a cell is set on several printed lines those lines are joined with a space; where a cell prints two side-by-side sub-columns of names those names are likewise run together in reading order (left name then right name of each printed line).]
+[NOTE: long-s (ſ) throughout.]
+
+REGNUM ANIMALE.
+
+[HANDWRITTEN] [illegible] (a small pencil or ink mark in the top right corner of the ruled frame)
+
+[TABLE]
+IV. PISCES.
+Corpus apodum, pinnis veris inſtructum, nudum, vel ſquamoſum.
+
+PLAGIURI. Cauda horizontalis.	Thrichechus.	Dentes in utraque maxilla. Dorſum impenne.	Manatus ſ. Vacca mar.
+	Catodon.	Dentes in inferiore maxilla. Dorſum impenne.	Cot. Fiſtula in roſtro Art. Cete Cluſ.
+	Monodon.	Dens in ſuperiore max. 1. Dorſum impenne.	Monoceros. Unicornu.
+	Balæna.	Dentes in ſup. max. cornei. Dorſum ſæpius impenne.	B. Groenland. B. Finfiſch. B. Maxill. inf. latiore. Art.
+	Delphinus.	Dentes in utraque maxilla. Dorſum pinnatum.	Orcha. Delphinus. Phocæna.
+CHONDROPTERYGII. Pinnæ cartilagineæ.	Raja.	Foramina branch. utrinq. 5. Corpus depreſſum.	Raja clav. aſp. læv. &c. Squatino-Raja. Altavela. Paſtinaca mar. Aquila. Torpedo. Bos Vet.
+	Squalus.	Foram. branch. utrinq. 5. Corpus oblongum.	Lamia. Galeus. Catulus. Vulpes mar. Zygæna. Squatina. Centrine. [?Priilis.]
+	Acipenſer.	Foram. branch. utrinq. 1. Os edentul. tubulatum.	Sturio. Huſo. Ichthyocolla.
+	Petromyzon.	Foram. branch. utrinq. 7. Corpus bipenne.	Enneophthalmus. Lampetra. Muſtela.
+BRANCHIOSTEGI. Pinnæ oſſic. carentes. Branch. oſſ. & membran.	Lophius.	Caput magnitudine corporis. Appendices horizontaliter latera piſcis ambiunt.	Rana piſcatrix. Guacucuja.
+	Cyclopterus.	Pinnæ ventrales in unicam circularem concretæ.	Lumpus. Lepus mar.
+	Oſtracion.	Pinnæ ventrales nullæ. Cutis dura, ſæpe aculeata.	Orbis div. ſp. Piſc. triangul. Atinga. Hyſtrix. Oſtracion. Lagocephalus.
+	Baliſtes.	Dentes contigui maximi. Aculei aliquot robuſti in dorſo.	Guaperua. Hiſtrix. Capriſcus. Caper.
+ACANTHOPTERYGII. Pinnæ oſſeæ, quarum quædam aculeatæ.	Gaſteroſteus.	Membr. branch. oſſiculis 3. Venter laminis oſſeis inſtr.	Aculeatus. Spinachia. Pungitius.
+	Zeus.	Corpus compreſſum. Squamæ ſubaſperæ.	Aper. Faber. Gallus mar.
+	Cottus.	Membrana branch. oſſic. 6. Caput aculeatum, corpore latius.	Cataphractus. Scorpio mar. Cottus. Gobio fl. capit.
+	Trigla.	Appendices ad pinn. pect. articulatæ 2 vel 3.	Lyra. Gurnardus. Cuculus. Lucerna. Hirundo. Milvus. Mullus barb. & imberb.
+	Trachinus.	Opercula branch. aculeata. Oculi vicini in vertice.	Draco. Araneus mar. Uranoſcopus.
+	Perca.	Memb. branch. oſſicul. 7. Pinnæ dorſales. 1 vel 2.	Perca. Lucioperca. Cernua. Schraitſer.
+	Sparus.	Opercula branch. ſquamoſa. Labia dentes tegunt. Dentes molares obtinet.	Salpa. Melanurus. Sparus. Sargus. Chromis. Mormyrus. Mæna. Smaris. Boops. Dentex. Erythrinus. Pagrus. Aurata. Cantharus.
+	Labrus.	Labia craſſa dentes teg. Color ſpecioſus.	Julis. Sachettus. Turdus diverſar. ſpecier.
+	Mugil.	Memb. branch. oſſic. 6. Caput totum ſquamoſum.	Mugil. Cephalus.
+	Scomber.	Memb. branch. oſſic. 7. Pinnæ dorſi 2 vel plures.	Glaucus. Amia. Scomber. Thynnus. Trachurus. Saurus.
+	Xiphias.	Roſtrum apice enſiformi. Pinnæ ventrales nullæ.	Gladius.
+	Gobius.	Pinnæ vent. in 1 ſimpl. concr. Squamæ aſperæ.	Gob. niger. Jozo. Paganellus. Apkua.
+MALACOPTERYGII. Pinnæ oſſeæ, quæ omnes molles.	Gymnotus.	Membr. branch. oſſicul. 5. Pinna dorſalis nulla.	Carapo.
+	Muræna.	Membr. branch. oſſic. 10. Tubuli in apice roſtri. 2.	Anguilla. Conger. Fluta. Serpens mar.
+	Blennus.	Pinnæ ventr. conſtant oſſ. 2. Caput admodum declive.	Alauda non criſt. & galer. Blennus. Gattorugine.
+	Gadus.	Membr. branch. oſſic. 7. Pinnæ dorſi. 2 vel 3.	Aſellus diverſar. ſpecier. Merluccius. Anthias 2dus. Muſtela. Egrefinus.
+	Pleuronectes.	Membr. branch. oſſ. 6. Oculi ambo in eodem later.	Rhombus diverſ. ſpecier. Paſſer. Limanda. Hippogloſſus. Bugloſſ. Solea.
+	Ammodytes.	Membr. branch. oſſic. 7. Pinnæ ventr. nullæ.	Ammodytes. Tobianus.
+	Coryphæna.	Membr. branch. oſſic. 5. Pinna dorſi à capite ad caudam.	Hippurus. Pompilus. Novacula. Pecten.
+	Echeneis.	Striæ tranſverſæ, aſperæ, in ſuperna capitis parte.	Remora.
+	Eſox.	Membr. branch. oſſic. 14.	Lucius. Belone. Acus maxima ſquamoſa.
+	Salmo.	Membr. branch. oſſic. 10-12. Corpus maculoſum.	Salmo. Trutta. Umbla. Carpio lacuſtr.
+	Oſmerus.	Membr. branch. oſſic. 7 -- 8. Dentes in max. lingu. palat.	Eperlanus. Spirinchus. Saurus.
+	Coregonus.	Membr. branch. oſſic. 8--10. Appendix pinniformis.	Albula. Lavaretus. Thymallus. Oxyrhynchus.
+	Clupea.	Membr. branch. oſſic. 8. Venter acutus ſerratus.	Harengus. Spratti. Encraſicholus. Aloſa.
+	Cyprinus.	Membr. branch. oſſic. 3. Dentes ad orificium ventriculi tantum.	Erythrophthal. Mugil. fluv. Brama. Ballerus. Capito. Naſus. A. M. Caraſſius. Cypr. nobilis. Tinca. Barbus. Rutilus. Alburnus. Leuciſcus. Phoxinus. Gobius fl.
+	Cobitus.	Caput compreſſum. Pinnæ dorſi & ventrales eâdem à roſtro diſtantia.	Cobitis. Barbatula. Miſgurn.
+	Syngnathus.	Opercula branch. ex lamina 1. Maxillæ à lateribus clauſæ.	Acus lumbr. Acus Ariſtot. Hippocampus.
+[/TABLE]
+
+[TABLE]
+V. INSECTA.
+Corpus cruſta oſſea cutis loco tectum.  Caput antennis inſtructum.
+
+		§. FACIE EXTERNA FACILE DISTING.
+COLEOPTERA. Alæ elytris duobus tectæ.	Blatta.	Elytra concreta. Alæ nullæ. Antennæ truncatæ.	Scarab. tardipes. Blatta fœtida.
+	Dytiſcus.	Pedes poſtici remorum forma & uſu. Ant. ſetaceæ. Sterni apex bifurcus.	Hydrocantharus. Scarab. aquaticus.
+	Meloë.	Elytra mollia, flexilia, corpore breviora. Ant. moniliformes. Ex articulis oleum fundens.	Scarab. majalis. Scarab. unctuoſus.
+	Forficula.	Elytra breviſſima, rigida. Cauda bifurca.	Staphylinus. Auricularia.
+	Notopeda.	Poſitum in dorſo exſilit. Ant. capillaceæ.	Scarab. elaſticus.
+	Mordella.	Cauda aculeo rigido ſimplici armata. Ant. ſetaceæ, breves.	Negatur ab Ariſtotele.
+	Curculio.	Roſtrum productum, teres, ſimplex. Ant. clavatæ in medio Roſtri poſitæ.	Curculio.
+	Buceros.	Cornu 1. ſimplex, rigidum, fixum. Ant. capitatæ, foliaceæ.	Rhinoceros. Scarab. monoceros.
+	Lucanus.	Cornua 2 ramoſa, rigida, mobilia. Ant. capitatæ, foliaceæ.	Cervus volans.
+	Scarabæus.	§. ANTENNÆ TRUNCATÆ. Ant. clavatæ foliaceæ. Cornua nulla.	Scarab. pilularis. Melolontha. Dermeſtes.
+	Dermeſtes.	Ant. clavatæ horizontaliter perfoliatæ. Clypeus planiuſculus, emarginatus.	Cantharus faſciatus.
+	Caſſida.	Ant. clavato-ſubulatæ. Clypeus planus, antice rotundatus.	Scarab. clypeatus.
+	Chryſomela.	Ant. ſimplices, clypeo longiores. Corpus ſubrotundum.	Cantharellus.
+	Coccionella.	Ant. ſimplices, breviſſimæ. Corpus hemiſphæricum.	Cochinella vulg.
+	Gyrinus.	Ant. ſimplices. Corpus breve. Pedibus poſticis ſaliens.	Pulex aquaticus. Pulex plantarum.
+	Necydalis.	Ant. clavato-productæ. Clypeus anguſtus, rotundatus.	Scarabæo-formica.
+	Attalabus.	Ant. ſimplices, conſtructæ articulis orbicularibus, præter ultim. globoſum.	Scarab. pratenſis.
+	Cantharis.	§. ANTENNÆ SETACEÆ. Clypeus planus, margine undique promin. Elytra flexilia.	Cantharis offic.
+	Carabus.	Clypeus fere planus, marg. prominente. Elytra fragilia.	Cantharus fœtidus. Cantharellus auratus.
+	Cicindela.	Clypeus cylindraceus vel teres. Forceps oris prominens.	Cantharus Marianus.
+	Leptura.	Clypeus ſubrotundus. Pedes longi. Corpus tenue acuminatum.	Scarab. tenuis.
+	Cerambyx.	Clypeus ad latera mucrone prominet. Ant. corpus longitudine æquant, vel ſuperant.	Capricornus.
+	Bupreſtis.	Clypeus ſuperne 2 punctis elevatis notatus.	Scarab. ſylvaticus.
+ANGIOPTERA. Alæ omnibus datæ, elytris deſtitutæ.	Papilio.	Roſtrum ſpirale. Alæ 4.	Papilio alis erectis. Pſyche --- planis. Phalæna -- compreſſis.
+	Libellula.	Cauda folioſa. Alæ 4. expanſæ.	Perla. Virguncula.
+	Ephemera.	Cauda ſetoſa. Alæ 4. erectæ.	Muſca Ephemera.
+	Hemerobius.	Cauda ſetoſa. Alæ 4. compreſſæ.	Phryganea.
+	Panorpa.	Cauda cheliformis. Alæ 4. Roſtr. corn.	Muſca ſcorpiurus.
+	Raphidia.	Cauda ſpinoſo-ſetacea. Alæ 4. Cap. corn.	Non depicta.
+	Apis.	Cauda aculeo ſimplici. Alæ 4.	Crabro. Veſpa. Bombylius. Apis.
+	Ichneumon.	Cauda aculeo partito. Alæ 4.	Ichneumon. Muſca tripilis.
+	Muſca.	Stylus ſub alis capitatus. Alæ 2.	Muſcæ div. ſpec. Oeſtrum Vet. Oeſtrum Lapponum. Tabanus. Culex. Teredo nav. Tipula. Formica-leo.
+HEMIPTERA. Alæ elytris deſtitutæ, Quibuſdam tantum individuis conceſſæ.	Gryllus.	Pedes 6. Alæ 4. ſuperiores craſſiores.	Gryllus domeſticus. Gryllo-talpa. Locuſta. Mantis.
+	Lampyris.	Pedes 6. Clypeus planus. Alæ 4.	Cicindela.
+	Formica.	Pedes 6. Alæ 4. Cauda aculeum condit.	Formica.
+	Cimex.	Pedes 6. Alæ 4. cruciferæ. Roſtrum ſtyliforme, rectum.	Cimex lectularius. Orſodachne. Tipula aquatica. Bruchus.
+	Notonecta.	Pedes 6. quorum poſtici remorum figura & uſu. Alæ 4. cruciferæ.	Notonecta aquatica.
+	Nepa.	Pedes 4. Frons chelifera. Al. 4. crucif.	Scorpio aquat.
+	Scorpio.	Pedes 8. Frons chelifera, aculeata. Alæ 4. laxæ.	Scorpio terreſtris.
+APTERA. Alæ nullæ.	Pediculus.	Pedes 6. Antennæ capite breviores.	Pediculus humanus. Ped. avium. Ped. piſcium. Ped. pulſatorius.
+	Pulex.	Pedes 6. ſaltatrices.	Pulex vulgaris.
+	Monoculus.	Pes 1.? Antennæ bifidæ.	Pulex arboreſc. Swam. Monoculus Bradl. Apus Friſch.
+	Acarus.	Pedes 8. articulis 8 conſtantes. Oculi 2. Ant. minimæ.	Ricinus. Scorpio-araneus. Pedic. inguinalis. Pedic. Scarabæi. Pedic. Scabiei. Araneus coccineus.
+	Araneus.	Pedes 8. Oculi communiter 8.	Araneus. Tarantula. Phalangium.
+	Cancer.	Pedes 12. priores cheliformes.	Cancer. Aſtacus. Pagurus. Squilla. Majas. Eremita. Gammarus.
+	Oniſcus.	Pedes 14.	Aſellus Officin. Aſellus aquat.
+	Scolopendria.	Pedes 20. & ultra.	Scolop. terreſtris. Scolop. marina. Julus.
+[/TABLE]
+
+[NOTE: a brown ink or foxing blot crosses the Acarus / Araneus rows of the INSECTA table; the type under it remains legible.]
+
+[TABLE]
+VI. VERMES.
+Corporis Muſculi ab una parte baſi cuidam ſolidæ affixi.
+
+REPTILIA. Nuda, artubus deſtituta.	Gordius.	Corpus filiforme, teres, ſimplex.	Seta aquatica. Vena Medina.
+	Tænia.	Corpus faſciatum, planum, articulatum.	Lumbricus longus.
+	Lumbricus.	Corpus teres, annulo prominenti cinctum.	Inteſtinum terræ. Lumbricus latus. Aſcaris.
+	Hirudo.	Corpus inferne planum, ſuperne convex. tentaculis deſtitutum.	Sanguiſuga.
+	Limax.	Corpus inferne planum, ſuperne conv. tentaculis inſtructum.	Limax.
+TESTACEA. Habitaculo Lapideo inſtructa.	Cochlea.	Teſta univalvis, ſpiralis, unilocularis.	Helix. Labyrinthus. Voluta Cochlea varia. Buccinum. Lyra. Turbo. Caſſida. Strombus. Fiſtula. Terebellum. Murex. Purpura. Aporrhais. Nerita. Trochus.
+	Nautilus.	Teſta univalvis, ſpiralis, multilocularis.	Nautilus. Orthoceros. Lituus.
+	Cypræa.	Teſta univalvis, convoluta, rima longitudinali.	Concha Veneris. Porcellana.
+	Haliotis.	Teſta univalvis, patula, leviter concava, perforata, ad angulum ſpiralis.	Auris marina.
+	Patella.	Teſta univalvis, concava, ſimplex.	Patella.
+	Dentalium.	Teſta univalvis, teres, ſimplex.	Dentalium. Entalium. Tubus vermicul.
+	Concha.	Teſta bivalvis.	Mytulus. Vulva marina. Pholus. Bucardium. Perna. Chama. Solenes. Tellina. Pinna. Oſtrea. Pecten. Mitella. Vomer.
+	Lepas.	Teſta multivalvis. Valvulæ duabus plures.	Concha anatifera. Verruca teſtudin. Balanus marinus.
+ZOOPHYTA. Artubus donata.	Tethys.	Corpus forma variabile, molle, nudum.	Tethya. Holothurium. Penna marina.
+	Echinus.	Corpus ſubrotundum, teſta tectum, aculeis armatum.	Echinus marinus.
+	Aſterias.	Corpus radiatum, corio tectum, ſcabrum.	Stella marina. Stella oligantis. St. pentactinoides. St. polyſactinoid.
+	Meduſa.	Corpus orbiculatum, gelatinoſum, ſubtus filamentoſum.	Urtica marina. Urt. vermiformis. Urt. crinita. Urt. aſtrophyta.
+	Sepia.	Corpus oblongum, interne oſſeum, anterius octo artubus donatum.	Sepia. Loligo.
+	Microcoſmus.	Corpus variis heterogeneis tectum.	Microcoſm marin.
+[/TABLE]

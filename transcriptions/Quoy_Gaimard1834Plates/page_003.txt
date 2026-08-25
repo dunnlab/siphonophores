@@ -1,0 +1,74 @@
+[PAGE 3: unnumbered]
+
+[NOTE: plate-only page; coarse bilevel (1-bit) scan, so the smallest engraved
+lettering is at the edge of legibility. Figure numerals were checked one by one
+at 800 dpi.]
+
+[RUNNING HEAD] Voyage de l'Astrolabe. – ZOOLOGIE.
+
+[RUNNING HEAD] ZOOPHYTES. – Pl. 2.
+
+[PLATE]
+ZOOPHYTES. – Pl. 2.
+
+Engraved figure numbers, in reading order:
+
+1
+[?5]
+4
+2
+[?3]
+11
+9
+8
+12
+7
+10
+15
+23
+22
+17
+18
+24
+25
+19
+13
+14
+16
+20
+21
+26
+
+[NOTE: the two numerals given as [?5] and [?3] are single digits about ten pixels
+across in the source scan. [?5] labels the small dark object in the upper middle
+of the plate, [?3] the crescent-shaped body below and right of it. Each could be
+read 3, 5 or 6.]
+
+[NOTE: the figure at the far left of the top band — a stem bearing two coiled,
+banded organs — carries no engraved numeral, although the legend below covers
+figures 1–6. No numeral 6 appears anywhere on the plate.]
+
+[?Quoy ad vivum f.] [NOTE: draughtsman's credit in engraved script at lower left;
+four word-shapes, letters not individually resolvable but the formula is clear]
+
+[?Danvin sc.] [NOTE: engraver's credit in engraved script at lower right; "sc."
+is legible, the name is a script capital (D or P) plus about five letters]
+
+1	6	Stéphanomie helianthe	}	N.
+7	12	Stephanomie mélon	}	N.
+[NOTE: brace-grouped — one large brace to the right of the two lines, with a
+single italic "N." serving both. Printed as shown: "helianthe" without an accent,
+"Stephanomie" without an accent in the second line, and no full stop after
+"mélon".]
+
+13	21	Stéphanomie hippopode .
+[NOTE: this line stands alone between the two braced groups, with no brace and no
+"N."]
+
+22	25	Stéphanomie à vrilles.	}	N.
+26		Stéphanomie en toit .	}	N.
+[NOTE: brace-grouped as above — one brace and one italic "N." for both lines.
+The second line has a single figure number, 26, in the first column only.]
+
+[?J. Tastu édit.] [NOTE: minute type at the lower left corner of the sheet]
+[/PLATE]

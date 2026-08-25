@@ -1,0 +1,33 @@
+[PAGE 12]
+
+PLOS One
+
+lifestyle. This makes it particularly challenging to associate specific genomic changes with changes in other aspects of their biology without additional data.
+
+One of the most striking unique features of siphonophore biology is the extreme functional specialization between bodies (zooids) within siphonophore colonies, and the precise organization of these bodies into species-specific patterns. This unique morphology arises through unique developmental processes. Little is known, though, about the molecular mechanisms controlling these novel developmental processes. They could be completely novel to siphonophores, or the unique colony-level development of siphonophores could be coordinated with slight modifications to existing pathways. We examined two distinct features of genome organization that could be associated with developmental novelty. First, we used phylogenetic analyses of gene annotations to see if several known gene families central to cnidarian development (homeobox, wnt, etc.) have expanded in Nanomia septata. These gene families have not expanded and have around the same number of homeobox and wnt genes found in other closely related hydrozoans (S1 Table, S1 and S2 Fig). Second, we asked whether the extensive genome rearrangements found in Nanomia septata had brought genes that have similar expression across specialized zooids into closer physical proximity, perhaps for shared transcriptional regulation. Again, they have not (S4 Fig). The only exception are male gonophores, where we found genes relevant to spermatogenesis to be colocalized in multiple regions of the genome. This is not a siphonophore specific feature, though, and likely reflects the unique transcriptional demands of sperm as their genomes are packed [39–42]. As of now, the evolution of zooid specialization in siphonophore colonies is not caused by expansion of known gene families or by physical proximity of zooid specific genes. This leaves the relationship between the radically changed genomes of siphonophores and their radically unique morphology and development still to be determined. Further mechanistic developmental work in siphonophores will be critical to bridging this gap in understanding, an achievable goal with a new genome assembly and annotation.
+
+Great strides have been made in siphonophore systematics in recent years, including a recent study of Nanomia ([7]. That work was based on morphology and phylogenetic analyses of two genes, and newly described the species our reference genome animal belongs to as Nanomia septata. Individuals of Nanomia septata had previously not been recognized as distinct from Nanomia bijuga. We sequenced 20 additional genomes of Nanomia and mapped them to the reference scale presented here (Fig 4). This corroborates the findings of Hosia et al. [7], adding support and new details, including regions of overlapping distribution of Nanomia species. Nanomia bijuga is found in multiple areas in the Atlantic, Mediterranean and Pacific. Nanomia cara overlaps with Nanomia bijuga in Rhode Island, while Nanomia sp. 1 overlaps with Nanomia bijuga in Hawai’i. These two regions harbor sympatric Nanomia species as there are no obvious oceanic barriers, though describing any specific species ranges is out of the scope of this project. These results are consistent with other recent studies [18, 43] that show that the diversity and geographic structure of gelatinous zooplankton has been greatly underestimated.
+
+Understanding the specific features of global Nanomia diversity also has practical importance as Nanomia septata emerges as a model species for the study of development and other aspects of siphonophore biology. One of the most difficult parts of studying siphonophores is acquiring them since they must be regularly collected from the field. This makes it critical to know the diversity within the group, including how many species there are, where and when they are found, and how to tell them apart.
+
+The genome biology of Nanomia septata presented here, including the chromosome-scale assembly along with its comparison to other cnidarian genomes and use as a reference for population studies, will facilitate future work on the evolution of functional specialization and transitions from one body to multiple bodies within a single organism.
+
+Methods
+
+Genome description
+
+Specimen collection. S8 Table presents sample data, including collection date, location, depth and Yale Peabody Museum accession number, for each newly sequenced specimen considered in this study and sequences from previous
+
+PLOS One | https://doi.org/10.1371/journal.pone.0351247	July 2, 2026	12 / 25
+
+[NOTE: Single-column page of continuous prose. The first paragraph continues from page 11 ("...colonial development and a pelagic" / "lifestyle."). Two bold headings, "Methods" and "Genome description", follow the last Discussion paragraph, then a bold run-in sub-heading "Specimen collection." begins the final paragraph, which ends mid-sentence at "and sequences from previous".
+
+Author's own errors preserved as printed, not corrected: "a recent study of Nanomia ([7]." has an opening parenthesis that is never closed; and the cross-reference list "(S1 Table, S1 and S2 Fig)" prints a bare linked "S1" with no following word, both checked at 4-4.5x magnification.
+
+PAGE FURNITURE: the PLOS One masthead and pictorial device at the head, and the running foot "PLOS One | https://doi.org/10.1371/journal.pone.0351247   July 2, 2026" with the page-number line "12 / 25" at the right; the foot's three elements are separated by tabs above. Printed, and so transcribed. There is no Crossmark stamp on this page.
+
+Words broken across a printed line by a soft hyphen have been joined and the hyphen removed, per the protocol: "specialization" (printed "spe-" / "cialization"), "difficult" (printed "dif-" / "ficult"). Real hyphens kept: "species-specific", "colony-level", "chromosome-scale".
+
+"[39–42]" is printed with an en dash. In "(homeobox, wnt, etc.)" the gene names are italic and the comma after "wnt" is itself printed italic. "Hawai’i" is printed with a 9-shaped right single quotation mark (U+2019), consistently with earlier pages. After the run-in heading "Specimen collection." the following "S8 Table" is set off by a wider-than-normal word space; rendered here as a single space.
+
+Cross-references ("S1 Table", "S1", "S2 Fig", "S4 Fig", "Fig 4", "S8 Table") and reference-number citations ("[39–42]", "[7]", "[18, 43]") are printed in a blue hyperlink colour; colour is not marked. Genus, species and gene names are printed in italic; the headings and run-in heading are bold. Italics and bold are not marked. Diacritics: only the ’ of "Hawai’i".]

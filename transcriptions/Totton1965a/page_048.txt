@@ -1,0 +1,39 @@
+[PAGE 43]
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 2 RHIZOPHYSIDAE	43
+
+Bathyphysa conifera (Studer, 1878)
+Plate V, figure 3; Plate VI, figures 1–4
+
+Rhizophysa conifera Studer, 1878
+B. abyssorum Studer, 1878
+Pterophysa grandis Fewkes, 1884
+B. grimaldii Bedot, 1893a; Kawamura, 1954
+Pterophysa (Bathyphysa) studeri Lens & van Riemsdijk, 1908
+Pterophysa grandis Lens & van Riemsdijk, 1908
+
+Stem:   Measured length of 3·7 m (in formalin: Lens & van Riemsdijk, 1908). The elongated cylindrical pneumatophore may measure 2 cm long and 0·5 cm diameter.
+
+Gastrozooid:   The secondary gastrozooids, each bearing a simple, tubular tentacle in the later but not earlier growth stages, are budded from a region close to the pneumatophore. In early growth-stages the sessile gastrozooids bear two longitudinal ridges or ptera. Later on these disappear.
+
+Gonodendron:   Associated with each gastrozooid is a gonodendron of cystonect type with palpons, gonophores and asexual nectophores. In early stages of growth the gonodendron is sessile and globular. In later stages it becomes pedunculate and elongated. Parts of it break away when mature, but few details are known of its structure and breakdown. The various growth-stages were illustrated by Leloup (1936, Pl. I, fig. 6).
+
+B. conifera differs from the only other well-known species B. sibogae in having simple tentacles. It was beautifully illustrated by Lens & van Riemsdijk (1908, Pl. XIX) – as Pterophysa grandis.
+
+Beautifully preserved gastrozooids and pieces of stem (Pl. VI, fig. 4) were collected by the method already described, in 1948 on board the cable-ship 'Monarch' working in depths of from 914 m to 4,489 m at the following localities: 01° 35'S, 31° 35'W, 914–2,743 m; 2° 40'S, 3° 05'W, 4,489 m; 20° 25'N, 21° 47'W, 4,189 m; 6° 19'N, 27° 23'W, 1,097 m.
+
+Kawamura (1954) published some interesting observations and figures of preserved specimens which purported to show branches of the stem. My tentative interpretation is that these branches are gonodendra. The fact that they bear gastrozooids may perhaps be explained in the following way: Physonect gonodendra develop by successive budding of palpons from the bases of their predecessors. These palpons are reduced gastrozooids. In Bathyphysa gonodendra appear to develop from unreduced gastrozonoids, though there is a terminal gonopalpon on the ultimate branchlets.
+
+Bathyphysa sibogae Lens & van Riemsdijk, 1908
+Plate V, figure 2
+
+Only two specimens, the types of Lens & van Riemsdijk, are known, one 72 cm, and the other 10 cm in length. The pneumatophore of the longer one measured 9 mm × 4 mm. The hypocystic villi are small, and there is an apical pore. The gastrozooids, after fixation, measured up to 30 mm × 3 mm, and bear the usual two ptera or wings.
+
+Gastrozooid:   There is no peduncle to the gastrozooid (Leloup, 1936). Gastrozooids up to 25 mm in length, one bearing tentacles 40 mm in length with tentilla. The tentilla terminate in a central, short filament and two lateral excrescences, not unlike those of the trifid type in Rhizophysa filiformis. They were figured by Lens & van Riemsdijk (1908, Pl. XXIII).
+
+Gonodendra borne on a peduncle resembling that of B. conifera.
+
+Cystonectae : Species inquirendae
+
+Under this heading I group the following: Bathyphysa japonica, Kawamura, 1943 and the family Epibuliidae, Haeckel, 1888.
+
+[NOTE: "unreduced gastrozonoids" is so printed (for "gastrozooids"); transcribed as printed. Latitude/longitude minutes are printed with a prime, e.g. "35'S".]

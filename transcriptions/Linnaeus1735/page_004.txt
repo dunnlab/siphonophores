@@ -1,0 +1,175 @@
+[PAGE 4: unnumbered]
+
+[NOTE: broadsheet table, left half. The display title is split across the page break — this page carries only "CAROLI LINNÆI"; the rest of the title is on page 5. The whole table continues onto page 5.]
+[NOTE: two tables stand side by side on this half-sheet: "I. PETRÆ" (left) and "II. MINERÆ" (right). The MINERÆ heading itself is cut by the page edge and continues on page 5.]
+[NOTE: the column headings of the left table are printed at the FOOT of the table, not the head; they are transcribed below in the position where they appear. In order they head: the rotated ordinal column (Ordines), the genus-name column (Nom. generic.), the italic generic-character column (Characteres generici.), the wide specific-difference column (Differentiæ specificæ Auctoris.), the italic synonym column (Synonyma.) and the Fraktur Swedish column (Nom. Svecica.).]
+[NOTE: the "Ordines" entries are set rotated 90° (read bottom-to-top up the left edge of each block); they are transcribed here as ordinary words.]
+[NOTE: strong mirror-image show-through from the verso is visible over the whole sheet, especially behind the title band and in the blank areas of the right-hand table; it has been ignored.]
+[NOTE: a sign recurring in the MERCURIALIA block, transcribed below as "[?symbol: double bar]", is two short horizontal bars one above the other, the lower one with a downward notch at its middle. It always follows ∇F or ∇R. It has not been identified and is not guessed at.]
+
+CAROLI LINNÆI
+
+[TABLE]
+I. PETRÆ	sunt Lapides SIMPLICES, qui Metallurgis dicuntur Bergarter.
+	conſtant particulis tantummodo ſimilaribus.
+
+[Ordines] 1. APYRI in igne docimaſtico vix deſtructibiles.
+
+Aſbeſtus.	Conſtat Fibr. pappoſis intertextis.
+	Aſbeſtus natans, ſolido-flexilis.	Suber montanum.	[?Bergkork.]
+	A natans fibroſo-coriaceus.	Aluta montana.	Bergläder.
+	A ponderoſus fiſſilis.	Caro foſſilis.	Bergkiöt.
+
+Amiantus.	Fibris parallelis.
+	A fibris capillaceis flexilibus tenacibus.	Linum incombuſtibile.	Berglin.
+	A fibris capillaceis flexilibus fragilibus.	Alumen plumoſ. offic.	Bergfiun.
+	A fibris ſetoſis rigidis.	Amiantus immaturus.	[?Gallflas.]
+	A fibris anguloſis rigidis.	Pſeudo-amiantus.	Omogen Amiant.
+
+Ollaris.	Fibris ſparſis.
+	O fibris acceroſis friabilibus.	Lebetum Lapis.	Tälgſten.
+	O fibris aceroſis rigidis.	Aceroſus Lapis.	[?Sådſlag.]
+	O fibris e centro radiatis.	Radians Lapis.	Stiernſlag.
+	O fibris faſciculatim inflexis.	Toroſus Lapis.	[?Folk.]
+
+Talcum.	Membranis carnoſis, inæqualis ſuperficiei.
+	T durum craſſum, cortice nitido.	Corneus Lapis.	Hornſten.
+	T durum coriaceum.	Tunicatus Lapis.	[?Skirſlag.]
+	T friabile molliuſculum.	Talcum offic.	Hwit Talk.
+	T friabile fragile membranaceum.	Talcum aureum.	Guld-talk.
+
+Mica.	Membranis ſquamoſis, æqualis ſuperficiei.
+	M particulis impalpabilibus.	Sterile nigrum.
+	M particulis ſqvamoſis.	Mica vulgaris.	Skimmer.
+	M particulis membranaceis fiſſilibus.	Vitrum Moſcoviticum.	Kattguld.
+	M particulis ſqvamoſis & membr. mixtis.		[?Bunda.]
+	M particulis priſmaticis immixtis.
+
+[Ordines] 2. CALCARII igne docimaſtico uſti & Aquâ rigati, in farinam reducuntur.
+
+Schiſtus.	Fragmentis fiſſilibus.
+	S cinereus.	Fiſſilis inutilis.	[?grå ſkifvernen.]
+	S nigricans friabilis.	Fiſſilis vulgaris.	Lös ſkifver.
+	S niger duriuſculus.	Fiſſilis Lapis.	Tafle-ſkifver.
+	S niger durus clangoſus.	Ardeſia tegularis.	Tak-ſkifver.
+
+Spatum.	Fragm. rhomboidalibus.
+	S fiſſile, lamellis dehiſcentibus.	Spatum lamellatum.
+	S compactum, opacum nitidum.	Spatum vulgare.	Tärningſten.
+	S compactum pellucidum.	Cryſtallus Iſlandica.
+
+Marmor.	Fragmentis incertis.
+	§. Rudia ſunt, quæ polituram vix ullam admittunt.
+	M rude.	Calcarius Lapis.	Kalkſten.
+		Variat infinite.
+	M rude, venis qvartzoſis rubris.	Vena hæmatica.
+	§. Nitida ſunt marmora, quæ polituram aſſumunt arte.
+	M nitidum album.	Marmor album.	Hwit marmer.
+	M nitidum rubrum.	Marmor rubrum.	Röd marmer.
+	M nitidum atrum.	Lydius Lapis.	Proberſten.
+	M nitidum, coloribus mixtis.	Marm. variegatum.	[?Spräkletmarmer.]
+	M nitidum, coloribus alternis.	Marm. Polyzonias.
+	M nitidum, coloribus picturam referens.	Marm. Florentinum.	Florentinſten.
+	M nitidum vireſcens, maculis nigris.	Serpentinus Lapis.	Serpentinſten.
+	M nitidum cœruleum, maculis albicantibus.	Lazulus Lapis.	Lazulſten.
+	§. Fugacia ſunt, quæ particulis nitidis interlucentibus gaudent.
+	M fugax opacum.	Gypſum.	Gips.
+	M fugax ſubdiaphanum.	Alabaſtrum.	Alabaſter.
+
+[Ordines] 3. VITRESCENTES igne docimaſtico uſti in vitrum liqueſcunt.
+
+Cos.	Fragmentis granulatis opacis.
+	C particulis inæqualibus rigidis.	Arenarius Lapis.	Sandſten.
+	C particulis æqualibus friabilibus.	Coticula.	Slippſten.
+	C aquam filtrans.	Filtrum.
+
+Silex.	Fragmentis convexis & concavis ſubdiaphanis.*
+	Generis hujus differentias	Pyromachus.	Flinta.
+	vel	Calcedonius.	Calcedon.
+	variationes reales,	Jaſpis.	Jaſp.
+	licet è colore deſumtas,	Carneolus.	Carneol.
+	addat,	Malachites.	Malachit.
+	qui poteſt;	Turcheſia.	Turcos.
+	Ego non ....	Sardius.	Sard.
+		Achates.	Agat.
+
+Qvartzum.	Fragmentis angulatis acutis pellucidis.
+	Q aqueo-album.	Qvartzum.	Kiſſel.
+	Q luteum.	Pſeudo-Topazius.	deſſe alle
+	Q rubrum.	Pſeudo-Rubinus.	Kallas
+	Q purpureum.	Pſeudo-Amethiſtus.	O-ächta
+	Q cœruleum.	Pſeudo-Saphirus.	eller
+	Q viride.	Pſeudo-Smaragdus.	Omogne
+	Q viridi-cœruleum.	Pſeudo-Beryllus.	ädle ſtenar.
+[NOTE: the seven Swedish words above are set as a single legend "deſſe alle Kallas O-ächta eller Omogne ädle ſtenar." bracketed by two large braces spanning the seven Qvartzum rows.]
+
+* Obſ. Silicis ſub nomine quidam Quartzum, quidam vero Pyromachum, ut veteres intelligunt & nos. A quibuſdam ad calcareos, ab aliis autem ad vitreſcentes refertur, Nos cum Bromelio huc retulimus.
+
+Ordines	Nom. generic.	Characteres generici.	Differentiæ ſpecificæ Auctoris.	Synonyma.	Nom. Svecica.
+[/TABLE]
+
+[TABLE]
+II. MINERÆ	ſunt Lapides COMPOSITI
+	conſtant Petrâ particulis
+[NOTE: this heading is cut off by the right edge of the page and continues on page 5.]
+
+[Ordines] 1. SALIA in aqua ſolubilia & ſapida ſunt. ſimpliciter compoſita ſæpe occurrunt.
+
+Nitrum.	in igne fremens,
+	Figura priſmatica hexaëdra,
+	Acidum eſſentiale.
+
+Muria.	in igne crepitans,
+	Figura teſſulata hexaëdra,
+	Alcalino-acidum.
+
+Alumen.	in igne ſpumans, metallo deſtitutum,
+	Figura teſſulata octaëdra,
+	Acidum purum.
+
+Vitriolum.	in igne ſpumans, metallo imprægnatum,
+	Figura rhomboidea dodecaëdra.
+	Acidum purum.
+
+[Ordines] 2. SULPHURA in Igne fumantia & odorata ſunt. Decompoſita ſæpe occurrunt.
+
+Electrum.	Fumus odore ſuavi, colore fuſco.
+
+Bitumen.	Fumus odore triſti, colore atro.
+
+Pyrites.	Fumus od. acutiſſimo, col. luteo, ſapore ſalſo, princip. acido [?symbol: circle with an upright bar and a rightward arm inside]
+
+Arſenicum.	Fumus od. alliaceo, col. albo, ſapore dulci, princip. alcalino.
+
+[Ordines] 3. MERCURIALIA igne fuſa, depurata & nitida evadunt. Supradecompoſita communiter occurrunt.	Igne fuſa dicuntur Metalla.
+
+Hydrargyrum.	in △ᵉ mox volatile,	metallo fluido,	∇F[?symbol: double bar] à [?symbol: circle with an upright bar and a rightward arm inside][?ᵗᵉ].
+
+Stibium.	in △ᵉ ſenſim avolans,	metall. fragili,	vitro fulvo.
+
+Zincum.	in △ᵉ flagrans,	metall. molli,	∇F[?symbol: double bar] calc. ♋
+	cineribus albis,	tenaci.
+	flamma viridi.
+
+Viſmutum.	in △ᵉ facile liqueſcens,	metall. teſſulato,
+		fragidiuſculo.
+
+Stannum.	in △ᵉ facile liqueſcens,	metall. tenaci.	vitro albo.
+
+Plumbum.	in △ᵉ facile liqueſcens,	metall. tenaci.	vitro flavo.
+
+Ferrum.	in △ᵉ difficillime liqueſc.	met. duriſſimo,	∇F[?symbol: double bar] [?symbol: circle with a cross above]°. vitro nigro.
+			[?symbol: small circle with a circumflex above]-°.
+
+Cuprum.	in △ᵉ difficulter liqueſc.	met. duro,	∇F[?symbol: double bar] ♂.
+
+Argentum.	in △ᵉ commode liqueſc.	metal. firmo,	∇F[?symbol: double bar] ♀•.
+	indeſtructibile.	tenaci,	[?symbol: circle with horizontal bar].
+		albo.
+
+Aurum.	in △ᵉ commode liqueſc.	metall. firmo,	∇R[?symbol: double bar] [?symbol: circle with horizontal bar]□+
+	indeſtructibile,	tenaci,	☿°.
+	— etiam [?symbol: circle with a cross above]ⁱᵒ.	luteo.
+[/TABLE]
+
+[NOTE: table continues onto page 5.]

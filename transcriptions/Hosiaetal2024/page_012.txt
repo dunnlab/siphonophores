@@ -1,0 +1,23 @@
+[PAGE 12]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+[FIGURE]
+FIGURE 8
+Ontogenetic change in Nanomia cara nectophore shape. Upper/lower, lateral, distal and proximal views (top to bottom). Specimens (left to right): HYPNO_050, HYPNO_037, HYPNO_122 (ref. Supplementary Table S1). Scale bars for each column ~1 mm.
+[/FIGURE]
+
+Bay palpons, lipid droplets identified forming in column of palpon, presumably migrating proximally, and eventually coalesced into single proximal lipid droplet.
+
+Bracts: Two types of bracts present (Figure 9): Type A kite-shaped and Type B, found in enantiomorphic pairs.
+
+Type A. Kite-shaped, longer (2.0 mm) than wide (1.6 mm). Distinctly prismatic, often as high as wide. With an obvious cell patch on the upper surface, prone to abrasion hence lost in some bracts. Such patches have been shown to be the sites of
+
+bioluminescence in other physonects. Distally the upper surface divided into two facets, separated by a prominent median ridge. Two other ridges demarcating lateral margins of distal facets. Median ridge and lower third of lateral ridges lined with large cells. Bracteal canal running along lower surface without penetrating into mesoglea for nearly 80% of bract’s length, but not reaching the proximal process.
+
+Type B. More elongate than Type A, reaching 1.6 mm in length and 0.9 mm in width. Terminating distally in three cusps. Three
+
+Frontiers in Marine Science	12	frontiersin.org
+
+[NOTE: Figure 8 fills the upper three quarters of the page in a boxed panel; below it the page is two columns, transcribed left column then right column. The first paragraph continues the sentence broken off at the foot of page 11 ("In young Bantry" / "Bay palpons"), and the right column ends mid-sentence at "Three".
+
+Inside the [FIGURE] block only text physically printed in the panel is given; the photographs are not described. Figure 8 is a grid of ten photographs (three, three, three and one, in four rows) on a black ground; none of them carries any lettering, number or leader label, and there are three plain white scale bars along the top edge with no printed values (the caption supplies "Scale bars for each column ~1 mm"). The caption is therefore the only text in the panel. Presentation ligatures (fi, fl) are transcribed as the ordinary two-letter sequences; the apostrophe in “bract’s” is printed as a right single quotation mark and is given as that character. Note that the specimen codes are printed with underscores, "HYPNO_050, HYPNO_037, HYPNO_122". Running head and running foot elements are separated by tabs.]

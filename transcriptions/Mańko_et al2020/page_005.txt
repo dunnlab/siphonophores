@@ -1,0 +1,75 @@
+[PAGE 5]
+
+[NOTE: printed square brackets occur on this page and are the source's own, not
+transcriber markers: the Fig. 2 axis and colour-bar labels "[°C]" (set in the figure
+with a superscript letter o, transcribed below as "[^oC]"), "Depth [m]" and
+"Longitude [°E]". Everywhere else on this page "[" is my marker. Superscripts are
+rendered with "^"; the raised minus in the abundance unit is transcribed as
+"ind.·1000 m^−3" with a middle dot, as printed.]
+
+[RUNNING HEAD] M.K. Mańko, et al.
+[RUNNING HEAD] Progress in Oceanography 189 (2020) 102414
+
+[FIGURE]
+[NOTE: figure occupies the head of the page across both columns, in two rows of two
+panels. The following is the printed lettering only, in reading order. Station
+positions along the top of each panel are marked with unlabelled symbols keyed by
+the "Bathymetric zones" line below the panels.]
+Temperature
+Transect N (76^o30’N)	Transect EB (79^oN)
+[^oC]
+Depth [m]
+0	200	400	600	800	1000
+7.0
+6.0
+5.0
+4.0
+3.0
+2.0
+1.0
+0.0
+-1.0
+-2.0
+Salinity
+Transect N (76^o30’N)	Transect EB (79^oN)
+Depth [m]
+0	200	400	600	800	1000
+35.15
+35.10
+35.05
+35.00
+34.95
+34.90
+34.70
+34.00
+5	6	7	8	9	10	11	12	13	14	15
+Longitude [°E]
+0	1	2	3	4	5	6	7	8	9
+Longitude [°E]
+Bathymetric zones:	SHELF	SLOPE	OFFSHORE	EXTERIOR
+
+Fig. 2. Water salinity and temperature along the two transects (northern EB, southern N) down to 1000 m, with the marked bathymetric zones sampled. Source: Gluchowska M et al. (2017b) Variations in the structural and functional diversity of zooplankton over vertical and horizontal environmental gradients en route to the Arctic Ocean through the Fram Strait. PLoS ONE 12(2): e0171715. doi:https://doi.org//10.1371/journal.pone.0171715 - modified.
+[/FIGURE]
+
+a broader, multiyear perspective by Merchel and Walczowski (2018). Based on our data, the water temperature decreased with increasing distance from the slope towards the exterior, either throughout the water column (transect N) or only in the 0–50 m stratum (transect EB) (Fig. 2).
+
+The temperature of the deepest water (below 600 m) on average ranged from −0.27 °C (northern transect) to 0.11 °C (southern transect). When considering both transects and all depths, the water temperature ranged from −0.51 °C to 6.37 °C. The salinity was lower at the stations along transect EB compared with the stations along transect N, with the highest variation in salinity in the surface waters and the highest values within the layer spanning from 50 to 200 m. The water with the lowest salinity (33.61) was found in the surface layer of the exterior zone along transect EB, whereas the highest salinity (35.16) was detected in the waters from 25 to 50 m in depth above the slope along the southern transect (Fig. 2). The shelf stations in both transects were characterized by strongly differing conditions: those located along transect N remained under the influence of the cold Sørkapp (South Cape) Current, whereas more Atlantic conditions prevailed in the shallow sites above the shelf in transect EB (Fig. 2). Formation of the surface shelf water (SSW) was detected in the upper 25 m of the water column in the shelf stations, with the exception of station N3P were only Atlantic water (AtW) was found (Table 1B). The core of the West Spitsbergen Current (WSC) was located over the slope, extending as deep as 500 m in transect EB and 600 m in transect N. The sampling sites in the offshore zone were under the influence of the WSC offshore branch (characterized by weaker northward velocities) in transect N, and in EB, they were situated within a rotating structure that presumably arose as a consequence of the local topography. Vertical distribution of the water masses detected at the slope and offshore sampling sites was the same at both transects i.e., AtW occupied upper 200 m, Arctic water (ArW) was found below 600 m, and the transformed Atlantic water was squeezed between the two (Table 1B). The only exception was one of the offshore sites along transect EB (EB2-9) where, due to the presence of the rotating structure, ArW was brought to the 200–600 m depth stratum. Similar shallowing of ArW was documented for the sites of the exterior zone in transect N, where AtW was found only down to 50 m (25 m at N-11). Westernmost stations in transect EB (exterior zone) were under the influence of the Return Atlantic Current, which flows southward and was found between thin layer (25–50 m) of the intermediate water (IW) at the top, and the transformed Atlantic water (TAW) at the bottom (Fig. 2, Table 1). The IW formed as a result of mixing between the AtW and polar surface water (PSW) present in the top 25 m of the water column.
+
+3.2. General horizontal distribution patterns of gelatinous zooplankton
+
+Gelatinous zooplankton were present in 70 out of the 97 examined samples (see Table 1). In total 1928 individual specimens were identified and measured. The average abundance of all gelatinous zooplankton per station was significantly higher along southern transect N (305 ind.·1000 m^−3) than along transect EB (265 ind.·1000 m^−3) (Table 2, Supp. mat. 1). The difference in the average abundance was more pronounced for the shelf stations (N: 568 ind.·1000 m^−3; EB: 432 ind.·1000 m^−3), while the abundances averaged for all zones of the open ocean (i.e., slope, offshore, and exterior) were more consistent (N: 217 ind.·1000 m^−3; EB: 210 ind.·1000 m^−3) (Supp. mat. 1), but the differences between the zones were still statistically significant (Table 2).
+
+In total, 17 taxa of gelatinous zooplankton were identified, and the species richness for the open ocean zones was higher (12 taxa) than that for the shelf stations (8 taxa; Fig. 3). A. digitale constituted 41.94% of all GZ observed, while D. arctica and Mertensia ovum were the second and third most abundant species, contributing 25.43% and 19.07%, respectively, of all species found (Fig. 3). The lowest total abundance was found for two siphonophores, Marrus orthocanna and Crystallophyes amygdalina, each represented by a single colony, what accounts for 0.04% of all GZ found.
+
+Although A. digitale dominated in both transects, the numerical contributions of this species to the total abundance of GZ in each transect were different: 5451 ind.·1000 m^−3 (southern transect N) and 3689 ind.·1000 m^−3 (northern transect EB; Supp. mat. 3). The second most abundant species, D. arctica, reached relatively similar abundances in both transects (2684 ind.·1000 m^−3 in N; 2858 ind.·1000 m^−3
+
+[NOTE: source oddities transcribed as printed, not corrected: the Fig. 2 caption
+gives "Gluchowska M et al. (2017b)" with no comma after the initial and prints the
+DOI with a doubled slash, "doi:https://doi.org//10.1371/journal.pone.0171715 -
+modified."; the figure lettering sets the degree sign as a superscript letter o in
+"Transect N (76^o30’N)", "Transect EB (79^oN)" and "[^oC]", while the body text and
+the "Longitude [°E]" axis label use a true degree sign; the body text has "station
+N3P were only Atlantic water (AtW) was found" ("were" for "where") and "both
+transects i.e., AtW occupied" with no comma before "i.e.". Italics are not marked in
+this transcription: "A. digitale", "D. arctica", "Mertensia ovum", "Marrus
+orthocanna" and "Crystallophyes amygdalina" are set in italic on the page.]

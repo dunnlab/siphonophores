@@ -1,0 +1,151 @@
+<<<PAGE pdf=1 file=page_001.txt>>>
+[PAGE 1: unnumbered]
+
+[NOTE: engraved pictorial title page of the journal volume (Humboldt, Erster Jahrgang, 1882), not the first page of the Chun article. All lettering is engraved; the German lines are in ornamental Fraktur.]
+
+[HANDWRITTEN] N.H.   [pencil, upper left margin, above the plate border]
+[HANDWRITTEN] [?H. 4]   [pencil, upper right margin, partly cut off by the trim]
+
+[FIGURE]
+HUMBOLDT
+
+[NOTE: the word HUMBOLDT is engraved in large roman capitals on an arch at the head of the plate. Beneath the arch: an allegorical female figure reclining at left; a medallion vignette of a tropical coast with a volcano at centre; a portrait bust of Alexander von Humboldt at right; a telescope, terrestrial globe, retort and other instruments at right; a rolled scroll below carrying the title lettering.]
+
+Monatsſchrift
+für die
+geſamten Naturwiſſenſchaften
+
+Herausgegeben
+von
+Dr. G. Krebs.
+
+Erſter Jahrgang.
+
+Stuttgart.
+Verlag von Ferdinand Enke.
+1 8 8 2.
+[/FIGURE]
+
+R. E. Kepler fec.
+
+[NOTE: "R. E. Kepler fec." is engraved in white script in the dark lower left corner of the plate.]
+
+[?A. CLOSS X. A.]
+
+[NOTE: the credit above is engraved in white capitals in the dark lower right corner of the plate; it is partly overprinted by the library stamp and only partly legible.]
+
+[STAMP] SMITHSONIAN I[NSTITUTION] / 296728 / JUN 26 1934 / [NA]TIONAL MUSEUM   [violet oval stamp with a black serial number and a violet date, lower right; the upper and lower arcs of the oval legend are partly obscured where the stamp falls on the dark engraving]
+
+[NOTE: a small red ink dot sits in the blank margin below the plate border, left of centre.]
+
+<<<PAGE pdf=2 file=page_002.txt>>>
+[PAGE 54]
+
+[RUNNING HEAD] Humboldt. — Februar 1882.
+
+Die mikroſkopiſchen Waffen der Cölenteraten.
+
+Von
+
+Dr. Carl Chun,
+Privatdozent in Leipzig.
+
+[NOTE: two columns below the title; the left column is transcribed in full, then the right.]
+
+Bereits Ariſtoteles und Plinius war die Fähigkeit der Polypen und Meduſen, bei der Berührung ein unter Umſtänden unerträgliches Neſſeln zu verurſachen, bekannt. Sie faßten deshalb den größten Teil unſrer Cölenteraten unter dem Namen der Neſſeltiere (κνῑδαι, urticae) zuſammen, einer Bezeichnung, die neuerdings in der Form „Cnidaria“ vielfach angewendet wird, um die Cölenteraten im engeren Sinne den Schwämmen gegenüberzuſtellen. Begreiflich, daß es ſchon ſeit alter Zeit nicht an Verſuchen fehlte, das Neſſeln der reizenden Blumenpolypen, Meduſen und Siphonophoren zu erklären und die Organe aufzufinden, welche den ätzenden Stoff ſezernieren. Es würde an dieſer Stelle zu weit führen, die mannigfachen, oft ſehr abenteuerlich klingenden Hypotheſen älterer Forſcher zu erwähnen, zumal nur eine eingehende mikroſkopiſche Analyſe über die Neſſelorgane Aufſchluß zu geben vermochte. In den dreißiger Jahren dieſes Jahrhunderts wurde man zuerſt auf kleine glänzende Körper aufmerkſam, die maſſenhaft über die Oberfläche der Neſſeltiere zerſtreut, bald als Samenfäden, bald als Eier oder ſelbſt als Infuſionstiere in Anſpruch genommen wurden. Erſt den Erörterungen von Siebolds, Ehrenbergs und Erdls iſt es zu verdanken, daß man in dieſen glänzenden „Neſſelkapſeln“ die ſpezifiſchen Neſſelorgane zu erblicken habe. Von rundlicher, ovaler oder langgeſtreckter Form und ſtets mikroſkopiſcher Größe häufen ſie ſich beſonders an der Spitze der Fangfäden oft ſo maſſenhaft an, daß dort förmliche Neſſelbatterieen entſtehen. Prüft man nun eine ſolche Neſſelkapſel (Fig. 3—6 nk) genauer, ſo erkennt man leicht, daß ſie aus einer derben, ſtark lichtbrechenden Wandung beſteht, an deren einem Pole ein glänzender, im Innern der Kapſel ſpiralig aufgerollter Faden (Fig. 6 nf) ſich anheftet. Ein Druck auf der Kapſel oder der Zuſatz von Reagentien genügt, um dieſen Neſſelfaden nach Außen vortreten zu laſſen. Inſofern er in ſeiner ganzen Länge von einem feinen Kanale durchzogen wird, ſo wird es ermöglicht, daß er, ohne von der Kapſel abzureißen, ſich vollſtändig bei dem Hervorſchnellen umkrempelt, vergleichbar etwa einem Handſchuhfinger, den man umſtülpt. Oft iſt der ausgeſchleuderte Faden an ſeiner Baſis mit ſtarren, rückwärtsgerichteten Borſten verſehen oder er läßt in ſeiner ganzen Länge ſpiralig verlaufende Verdickungen erkennen (Fig. 4).
+
+Daß die Neſſelkapſeln in Zellen erzeugt werden, wußten bereits die älteren Forſcher. Thatſächlich gelingt es leicht, das Protoplasma der Zelle in dünner Lage um die Neſſelkapſel nachzuweiſen und gewöhnlich an der Baſis letzterer den Zellkern (Fig. 4 u. 5 n) aufzufinden. Stets trifft man auch an der freien Oberfläche der Neſſelzelle einen feinen fadenförmigen Fortſatz, den ſogenannten Cnidozil, welcher nur ſelten ſo kurz und ſtumpf erſcheint, wie an den in Fig. 3 und 6 (cn) dargeſtellten Zellen.
+
+Ehe wir uns nun über weitere Eigentümlichkeiten der Neſſelzellen und über ihre Wirkungsweiſe orientieren, ſo mag es geſtattet ſein, auf die ſonderbaren früher für Neſſelzellen gehaltenen Fangapparate der Rippenquallen einen Blick zu werfen. Unter dem Mikroſkope erſcheint der Fangfaden dieſer ungemein zarten und graziöſen Cölenteraten dicht mit halbkugeligen Hervorragungen bedeckt, welche auf ihrer Außenfläche mit kleinen klebenden Körnchen beſät ſind (Fig. 7 und 8 k) und im Innern einen Spiralfaden (m u) enthalten. Das ganze Gebilde gleicht täuſchend einer Neſſelkapſel mit ihrem eingerollten Faden und thatſächlich wurde es auch von allen Beobachtern in dieſem Sinne gedeutet. Es gelang mir jedoch nachzuweiſen, daß der vermeintliche Neſſelfaden einen ſpiral aufgerollten, deutlich kontraktilen Muskel repräſentiert, der ſich in einen feinen nach der Mitte des Fangfadens verlaufenden Ausläufer fortſetzt und an den die Fangfäden durchziehenden Muskeln endigt. Kein Beobachter hat bei den Rippenquallen eine Spur von neſſelnder Wirkung wahrnehmen können. Dagegen überzeugt man ſich leicht, daß den Fangfäden eine merkliche Klebrigkeit, von den erwähnten kleinen Körnchen herrührend, zukommt. Setzt man z. B. eine Cydippe in ein Glasgefäß, ſo bleiben die Fangfäden oft ſo feſt an den Wandungen haften, daß es dem Tiere nicht gelingt, ſie ohne Zerreißen zu kontrahiren. Wir können uns nun leicht über die Wirkungsweiſe dieſer „Greifzellen“, wie ich ſie genannt habe, folgende Vorſtellung bilden. Gerät ein Tier, etwa ein kleiner Krebs (denn dieſe bilden die hauptſächliche Nahrung der Rippenquallen) mit dem Fangfaden in Berührung, ſo bleibt er an einer größeren Zahl von Greifzellen kleben. Bei ſeinen Fluchtverſuchen zieht er dieſelben derart aus, daß ſie den Vortizellen vergleichbar mit einem langen, von dem nun gerade geſtreckten Muskel durchzogenen Stiel dem Fangfaden aufzuſitzen ſcheinen (Fig. 8). Der Muskel ſucht ſich jedoch zu kontrahieren und verhütet, daß die Greifzelle abreißt. Durch eine raſche Kontraktion des ganzen Fangfadens wird ſchließlich das anklebende und von den Greifzellen teilweiſe umſchlungene Tier der Mundöffnung überliefert.
+
+[NOTE: the Greek word in the first paragraph is printed with a horizontal bar (macron) over the iota, not an acute accent.]
+
+<<<PAGE pdf=3 file=page_003.txt>>>
+[PAGE 3: unnumbered]
+
+[NOTE: full-page plate belonging to the Chun article, with an engraved letterpress legend at the foot. The plate itself carries only the engraved figure numbers and single-letter reference marks listed below; the descriptive legend is set in type below the engraving.]
+
+[PLATE]
+Engraved figure numbers, in reading order (all set as "Fig" with no full stop):
+
+Fig 8   [upper left]
+Fig 1   [upper centre — the large Physalia]
+Fig 2   [upper right]
+Fig 7   [middle left]
+Fig 3   [middle right]
+Fig 4   [middle right, to the right of Fig 3]
+Fig 5   [lower right]
+Fig 6   [lower left]
+
+Engraved reference letters, by figure:
+Fig 2: v, b
+Fig 7: k, mu
+Fig 3: cn, n, mu
+Fig 4: nf, nk, n
+Fig 5: n, nk, mu
+Fig 6: cn, nf, nk, n
+[/PLATE]
+
+Fig. 1.	Physalia Arethusa [?uv.] in natürlicher Größe.
+Fig. 2.	Stück eines Fangfadens von Physalia vergrößert. v Gefäß. b Neſſelbatterie.
+Fig. 3—6.	Neſſelzellen bei 600facher Vergrößerung. n k Neſſelkapſel. n f Neſſelfaden. n Zellkern. c n Cnidozil. m u Muskel.
+Fig. 3.	Kleine Neſſelzelle von Physalia.
+Fig. 4.	Große Neſſelzelle von Physalia.
+Fig. 5.	Neſſelzellen von den Fangfäden der Velella (einer Siphonophore).
+Fig. 6.	Große Neſſelzelle von Physalia mit eingerolltem Neſſelfaden.
+Fig. 7.	Greifzelle einer Rippenqualle (Euplokamis).
+Fig. 8.	Ausgeſtreckte Greifzellen einer gelappten Rippenqualle (Eucharis).
+
+Humboldt 1882.	8
+
+[NOTE: "Humboldt 1882." at the foot left is the signature catchword; "8" at the foot right is the printer's signature number.]
+
+[NOTE: two small red ink dots sit in the blank outer margin at the left edge of the page, about a third and a half of the way down.]
+
+<<<PAGE pdf=4 file=page_004.txt>>>
+[PAGE 56]
+
+[RUNNING HEAD] 56	Humboldt. — Februar 1882.
+
+[NOTE: two columns; the left column is transcribed in full, then the right.]
+
+Während alſo eine Greifzelle beliebig oft in Aktion zu treten vermag, ſo iſt hingegen eine Neſſelkapſel, ſobald ſie ihren Faden hervorgeſchnellt hat, für den Organismus wertlos geworden, denn es iſt nicht abzuſehen, durch welche Kraft der ausgeſchnellte Faden wieder in die Kapſel aufgerollt werden könnte. Indeſſen werden auch vielfach bei Meduſen Neſſelkapſeln erzeugt, welche einen nur unvollkommenen Faden differenzieren oder deſſen ganz entbehren und wie die Klebekörnchen der Greifzellen eine klebrige Beſchaffenheit erkennen laſſen. Thatſachlich können wir die Körnchen der Greifzellen als rudimentäre Neſſelkapſeln betrachten, die in großer Zahl auf der Oberfläche einer halbkugelig ſich emporwölbenden Ektodermzelle abgeſchieden wurden.
+
+[NOTE: "Thatſachlich" is printed without the umlaut over the a (compare "Thatſächlich" on p. 54); transcribed as printed.]
+
+Doch auch für den ſonderbaren Muskel der Greifzellen laſſen ſich homologe Bildungen bei Neſſelzellen nachweiſen. Man iſt nämlich neuerdings mehrfach auf feine baſale Ausläufer an den Neſſelzellen aufmerkſam geworden, welche bald als muskulöſe, bald als nervöſe Fäden gedeutet wurden, ohne daß es indeſſen gelungen wäre, überzeugende Beweiſe für die eine oder andre Anſicht beizubringen. Ich neigte mich auf Grund der Homologieen zwiſchen Greif- und Neſſelzellen zu der Anſicht hin, daß dieſe Fäden Muskeln repräſentieren möchten, welche zugleich mit der Entladung der Neſſelkapſel in gewiſſe Beziehung zu ſetzen ſeien und fand dieſe Auffaſſung durch erneute Unterſuchungen völlig beſtätigt. Belehrt ſchon das optiſche Verhalten der oft anſehnlich langen Fäden und ihr Herantreten an die in der Tiefe verlaufenden Muskelfaſern, daß ſie weit eher die Charaktere von Muskeln zur Schau tragen, als diejenige von Nerven, ſo gab die Unterſuchung der Neſſelzellen von Physalia, jener Siphonophore, welche durch die formidabelen Wirkungen ihrer Neſſelbatterieen ſeit alter Zeit eine gewiſſe Berühmtheit erlangt hat, den untrüglichſten Aufſchluß über die Natur und Wirkungsweiſe jener baſalen Ausläufer. In der Fig. 1 habe ich ein kleines Exemplar der Physalia darzuſtellen verſucht. Ihre anſehnliche mit Luft erfüllte Schwimmblaſe, welche eine feine vermittelſt eines kräftigen Sphinkters verſchließbare Oeffnung aufweiſt, trägt an der Baſis eine erſtaunlich große Zahl von Nahrpolypen, Taſtern, Geſchlechtspolypen und Fangfäden. Nie vermag die ausgebildete Physalia völlig in das Meer unterzutauchen, ſondern als Spiel von Wind und Wellen treibt ſie oft in unabſehbaren Scharen an der Oberfläche dahin, durch ihre prachtvolle ultramarinblaue und roſa Färbung ſchon von weitem die Aufmerkſamkeit des Reiſenden erregend. Die Matroſen kennen und fürchten die „Seeblaſe“ oder „Fregatte“, denn ſchon eine leiſe Berührung der gewaltigen, zu einer Länge von 20—40 Metern dehnbaren Senkfäden erzeugt ein unerträgliches Brennen, welches gefährliche Eiterungen im Gefolge haben kann, zumal wenn etwa bei dem Baden empfindliche Hautſtellen mit der Physalia in Berührung kamen. Was nun die feinere Struktur der uns hier hauptſächlich intereſſierenden Senkfänden anbelangt, ſo repräſentieren ſie ſeitlich kompreſſe von kräftigen Längsmuskelbündeln
+
+durchzogene Bänder, an deren einer Kante dichtgedrängte nierenförmige Neſſelbatterieen (Fig. 2 b) ſich inſerieren. Der Fangfaden wird von einem Ernährungskanal (v) durchzogen, welcher unter jede Batterie einen blinden Aſt abgibt. Eng nebeneinandergedrängt, trifft man bei mikroſkopiſcher Analyſe Neſſelkapſeln von zweierlei Art in der Batterie an: kleinere, an der Oberfläche ſtehende und große tieferliegende kugelige Kapſeln. An der Baſis beider Formen von Neſſelkapſeln bemerkt man anſehnliche Zellkerne, wie ſie denn weiterhin durch außerordentlich kurze Cnidozils ausgezeichnet ſind (Fig. 3, 4 u. 6 n u. c n). Der lange Neſſelfaden (n f) iſt in mehreren Spiraltouren in der Kapſel aufgerollt und läßt, wenn hervorgeſchnellt, ſpiralige Verdickungen an ſeiner Oberfläche erkennen. Die kleinen Neſſelzellen beſitzen lange baſale Ausläufer (Fig. 3 m u), welche dadurch unſer beſonderes Intereſſe in Anſpruch nehmen, daß ſie deutlich quergeſtreift ſind wie die willkürlichen Muskeln der höheren Tiere. Noch origineller ſind die kurzen, breiten und ſtämmigen Ausläufer der großen Neſſelzellen gebildet. An ihrer peripheren den Kern umgebenden Schichte iſt nämlich die kontraktile Subſtanz in Form iſolierter quergeſtreifter Fibrillen ausgeſchieden, welche ſich in der Umgebung der Kapſel mehrfach dichotomiſch teilen und mit ihren Endausläufern gegen den Cnidozil konvergieren. So wird die ganze Kapſel von einem ungemein zierlichen und regelmäßigen Netzwerk kontraktiler Fibrillen umflochten, deren Querſtreifung an den feinſten Ausläufern verſchwindet. Die kleinen Neſſelzellen laſſen dieſelbe Komplikation erkennen, wenn auch bei der geringen Größe der Nachweis des Netzwerkes ein ſchärferes Zuſehen erfordert.
+
+Mit dem ſtrikten Nachweiſe, daß die baſalen Ausläufer der Neſſelzellen Muskelfäden repräſentieren, erhalten wir einmal eine von den früheren Anſichten abweichende Vorſtellung über den Mechanismus der Entladung, anderſeits tritt die Natur der Neſſelzellen in ein neues Licht. Im allgemeinen war man darüber einig, daß nur ein Druck auf die Wandung der Kapſel die Entladung bewerkſtelligen könne. Während man jedoch bald ein endosmotiſches Aufquellen der in der Neſſelkapſel enthaltenen Subſtanz durch von außen eingedrungenes Waſſer (Dujardin), bald eine Ausdehnung derſelben durch Wärme (Gosse), bald die Elaſtizität der Neſſelkapſelwand als Haupttriebkraft in Anſpruch nahm, ſo ſuchte der treffliche Kenner des feineren Baues der Polypen, F. E. Schulze, den auf die einzelnen Cnidozils ausgeübten Druck als erſten Anſtoß zur Entladung geltend zu machen, ſei es, daß der Druck von der Baſis desſelben ſich direkt auf die Kapſelwand fortpflanze, ſei es, daß das die Kapſel umgebende Plasma ſich kontrahiere. Es iſt gewiß nicht zu leugnen, daß in vielen Fällen ein kräftiger von außen kommender Stoß durch Druck auf die Kapſel den Faden entladet. Ob jedoch der Cnidozil bei ſeiner Länge und Feinheit gewiſſermaßen wie der Schlagbolzen unſrer Hinterlader den Druck überträgt, dürfte zweifelhaft erſcheinen. Bei ſeiner Berührung wird er eher die Rolle eines Taſthaares ſpielen und
+
+<<<PAGE pdf=5 file=page_005.txt>>>
+[PAGE 57]
+
+[NOTE: Fraktur throughout, two columns. Long-s is transcribed as `ſ` here, to match the convention already used in this document's pages 1-4. The Fraktur double-hyphen at line ends (=) is treated as an ordinary soft hyphen and removed when a word is rejoined; the suspended compound hyphen in "Neſſel- und Greifzellen" is kept.]
+
+[RUNNING HEAD] Humboldt. — Februar 1882.
+
+nicht das Plasma der Zelle, ſondern die Muskelfaſern zur Kontraktion anregen. Wo ſie, wie bei Physalia, die Kapſel allſeitig umfaſſen, liegt der Effekt einer Kontraktion auf der Hand, wo ſie dagegen, wie bei den in Fig. 5 abgebildeten Neſſelzellen der Velella, nur bis zur Baſis der Kapſel reichen, da dürfte ſchon allein der bei der Kontraktion des langen Muskels ausgeübte Zug, ſowie der Umſtand, daß die Neſſelzelle gegen das unterliegende Gewebe gedrückt wird, zu einer Entladung Veranlaſſung geben. Denken wir uns nun weiterhin die Muskelenden der einzelnen Neſſelzellen durch nervöſe Apparate in Verbindung geſetzt (bei den Velelliden, Phyſalien und einigen andern Siphonophoren iſt es mir in der That gelungen, Ganglienzellen aufzufinden, welche mit den bei Meduſen bekannten in vieler Beziehung übereinſtimmen), ſo leuchtet ein, daß auch ſchon eine bloße Berührung der vielfach zwiſchen den Neſſelzellen zerſtreuten Sinneszellen mit ihren feinen Sinneshärchen genügt, um eine größere oder geringere Zahl von Neſſelkapſeln zur Entladung zu bringen.
+
+Leider wiſſen wir über die chemiſche Natur des in den Neſſelkapſeln enthaltenen Giftes einſtweilen nur ſo viel, daß es keine ſaure Reaktion erkennen läßt. Wahrſcheinlich gelangt es meiſt dadurch zum Austritt, daß der Neſſelfaden durch die Bewegungen der Beute abreißt.
+
+Was nun ſchließlich die morphologiſche Natur der Neſſel- und Greifzellen anbetrifft, ſo repräſentieren dieſelben nicht Drüſen, wie man früher glaubte, welche ihr Sekret in Form einer Kapſel reſp. der Klebekörnchen erſtarren laſſen, ſondern einzellige Muskeln — Muskeln allerdings von ſo komplizierter Struktur, wie ſie in der Tierreihe ſich kaum möchten wiederfinden laſſen. Nicht nur differenziert der plasmatiſche Nährteil der Muskelzelle einen feinen Fortſatz, den Cnidozil, nicht nur ſcheidet er urſprünglich in Form einer Vakuole die ſo fein modellierte Kapſel mit ihrem Faden aus, ſondern unter Umſtänden tritt uns die kontraktile quergeſtreifte Subſtanz in einer ſo eigenartigen Anordnung entgegen, wie ſie bis jetzt noch nicht beobachtet wurde.
+
+Daß man den Neſſel- und Greifzellen einen ſo hohen ſyſtematiſchen Wert beilegt, wie dies neuerdings vielfach geſchieht, möchte ich nicht befürworten. Nicht nur kommen den Neſſelkapſeln gleichende Bildungen bei Protozoen und niederen Würmern (Turbellarien) vor, ſondern ſelbſt manche Nacktſchnecken (Aeolidien) beſitzen in ihren Anhängen echte Neſſelkapſeln. Und ſchließlich fehlen unter den ſogenannten „Cnidarien“ ſowohl Neſſel- wie Greifzellen vollſtändig den höchſtorganiſierten Rippenquallen und Cölenteraten überhaupt, nämlich den gewandten und räuberiſchen Beroen.
+
+[NOTE: horizontal rule across both columns; new article begins here: Die Genußmittel]
+
+Die Genußmittel.
+
+Von
+
+Prof. Dr. H. Fleck in Dresden.
+
+Wenn der Gebrauch des Geheimniſſes, ſich entſprechend zu nähren, ein Vorrecht der beſitzenden Klaſſe wäre, ſo müßte der Mangel hinreichenden Beſitzes zugleich als die trübe Quelle der Erkrankungen betrachtet werden, und Armut und Krankheit als untrennbare Geſchwiſter der darbenden Menſchheit Gemeingut ſein. Der Umſtand indes, daß gerade in den Reihen der Unbemittelten oft wahre Typen der menſchlichen Geſundheit vertreten, hingegen in den mit häuslicher Bequemlichkeit und Ueppigkeit ausgeſtatteten Häuſern der höheren Geſellſchaft und beſitzenden Klaſſen gar häufig die unheimlichen Brutſtätten ſchwerer körperlichen Leiden anzutreffen ſind, läßt keinen Zweifel darüber aufkommen, daß das Wohlbefinden des Einzelnen nicht ſowohl im Vollbeſitz der Mittel zu ſuchen iſt, welche die menſchliche Exiſtenz im allgemeinen zu begründen und zu heben vermögen, als vielmehr in der Fähigkeit einer rationellen Ausnützung derſelben, und daß der Aufwand an materiellen Bedürfniſſen zur Erreichung dieſes Zieles kein ſo großer iſt, als er für den erſten Augenblick ſcheint, ja, daß vielmehr gerade darin das Geheimnis der Geſundheitspflege ſchlummert, daß die vernünftigſte Art der Ernährung den Beſitz beſonders ergiebiger materieller Hilfsquellen nicht vorauszuſetzen hat.
+
+Unſer phyſiſches Wohlbefinden gipfelt in dem allzeitig richtigen Abwägen der drei Hauptlebensfunktionen: der Arbeit, der Ernährung und der Ruhe, und ſtellt in Betreff der Ernährung ſo beſcheidene Anſprüche an unſre Mittel, daß auch der mit Glücksgütern wenig Geſegnete in der günſtigen Lage bleibt, ſich regelrecht zu ernähren, wenn er es verſteht, den Ernährungsanſprüchen in Qualität und Quantität jederzeit gerecht zu werden.
+
+Schon der Umſtand, daß uns die gleiche Menge derſelben Speiſen verſchiedenartig mundet, ungleichartig ſättigt und nährt oder bekommt, je nach der Art ihrer Zubereitung, nach der Tageszeit, an welcher ſie genoſſen und nach den äußern Umſtänden, unter welchen ſie verzehrt wird, führt uns darauf hin, daß zu einer vernunftgemäßen Ernährung etwas mehr gehört, als die heutige Wiſſenſchaft auf Grund ein-
+
+[NOTE: the article title "Die Genußmittel." and the words "der Arbeit, der Ernährung und der Ruhe" are set letter-spaced (gesperrt) for emphasis; the spacing has been closed up here. "Physalia" and "Velella" in the first paragraph are set in roman (antiqua) type, as is usual for Latin names in this journal; all other names are Fraktur. The page — the last leaf of this PDF — breaks off mid-word at "ein-"; the trailing hyphen is retained because the continuation is not present.]

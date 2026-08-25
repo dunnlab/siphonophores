@@ -1,0 +1,57 @@
+[PAGE 160]
+
+[NOTE: scanned page: four lines of Russian text at the head, then two framed
+screen plots, Fig. 7 and Fig. 8, filling the rest of the page. Both are gridded
+month-against-depth fields with filled cells and a hand-drawn closed outline
+looped round the occupied region; both carry a black scale bar under the month
+axis whose white numerals are almost entirely destroyed in this scan.]
+
+Генерируемые программой гистограммы т[?р]ивиальны, однако позволяют увидеть закономерность без расчетов. Наглядный пример – рис. 6, показывающий распределение суммы половых фрагментов по глубине с явно выраженным максимумом.
+
+[NOTE: in "тривиальны" the first two letters are run together into a blot by
+over-inking; only the т is certain.]
+
+[FIGURE]
+[NOTE: Fig. 7 — framed screen plot. Title bar at the head, twenty-one depth labels
+down the left, twelve Roman-numeral month labels along the foot, then a black
+scale bar. Lettering in reading order: title, depth labels top to bottom, month
+labels left to right, scale bar.]
+
+ALL OF GENERATIVE FRAGMENTS ON MONTH-DEPTH DIAGRAM
+
+0	100	200	300	400	500	600	700	800	900	1000	1100	1200	1300	1400	1500	1600	1700	1800	1900	2000
+
+I	II	III	IV	V	VI	VII	VIII	IX	X	XI	XII
+
+[illegible]	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]
+
+[NOTE: in this bitmap face the Roman five is drawn with a rounded foot and on its
+own would read as a U; it is transcribed V on the strength of the I–XII sequence.
+The scale bar carries nine numerals white on black, none of them legible.]
+
+Рис. 7. Распределение генеративных фрагментов D.arctica в поле диаграммы месяц-глубина.
+Distribution of D.arctica generative fragments on diagram month-depth
+[/FIGURE]
+
+[FIGURE]
+[NOTE: Fig. 8 — framed screen plot of the same construction as Fig. 7, with the
+filled cells concentrated in the leftmost month column and around 100–300 and
+700–900 m.]
+
+NARROW NECTOFORES DISTRIBUTION ON MONTH-DEPTH DIAGRAM
+
+0	100	200	300	400	500	600	700	800	900	1000	1100	1200	1300	1400	1500	1600	1700	1800	1900	2000
+
+I	II	III	IV	V	VI	VII	VIII	IX	X	XI	XII
+
+[illegible]	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]
+
+[NOTE: the title spells NECTOFORES, as the table in Fig. 3 does in its fourth
+column head; the English caption below spells "nectophores". The scale bar's nine
+numerals are illegible.]
+
+Рис. 8. Распределение количества "узких" нектофоров D.arctica в поле диаграммы месяц-глубина.
+Distribution of D.arctica "narrow" nectophores on diagram month-depth.
+[/FIGURE]
+
+160

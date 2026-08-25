@@ -1,0 +1,50 @@
+[PAGE 142]
+
+142	[RUNNING HEAD] A SYNOPSIS OF THE SIPHONOPHORA
+
+Both ♂ and ♀ gonophores are present in each cormidium. The tentilla vary from bright yellow to brick-red in life.
+
+Vogtia pentacantha Kölliker, 1853
+
+This species is at once distinguishable from spinosa by the general absence of spines from the facets of the nectophores at all stages of development. Occasionally spines are found around the base of the median dorsal prominence. Otherwise the facets are entirely smooth.
+
+Definitive Nectophores:   Kölliker's (1853, Pl. VIII) figures 2 and 6 were badly drawn. For a more accurate representation see (text-fig. 81, 4a, b). Spines are found only on the edges of facets. The frontal-lateral wings have flat upper facets. The nectosac is relatively small.
+
+Vogtia serrata (Moser, 1925)
+Plate XXVII, figure 3
+
+V. pentacantha: Bigelow, 1913, plate 5, figures 7, 9 (non V. pentacantha Kölliker, 1853)
+
+The large smooth, triangular nectophores of this species are easily recognized.
+
+Definitive nectophores:   Large, smooth and triangular, with hollows under the lateral corners (text-fig. 81, 5).
+
+Vogtia glabra Bigelow, 1918
+
+Definitive nectophore:   There are only two rounded prominences above the ostium (text-fig. 81, 2). Young nectophores are usually somewhat pointed, and their prominences more marked.
+
+Family 12 : DIPHYIDAE Quoy & Gaimard, 1827
+
+Galeolariinae Chun, 1897
+Muggiinae Bigelow, 1911b (pars)
+Diphyinae Moser, 1925
+
+Bigelow (1911b) made a classical review of this family. The history of the treatment of members of the family will be found therein, as well as numbers of beautifully drawn figures and descriptions. He dealt with eleven of the thirty-nine forms now known. Moser (1925) wrote about the family at considerable length – some 250 pages – and described four new species, one of which is confined to the Antarctic. She dealt with nineteen of the thirty-nine forms we know to-day. Since then there have been no comprehensive reviews.
+
+In earlier days calycophores which had two rather similar nectophores were called 'diphyids'. To-day we group together, because of the possession of a number of characters, thirty-nine species, some of which do not bud off a posterior nectophore. They are at present arranged in seven genera.
+
+The first genus, Sulculeolaria, is separated off to form a monotypic sub-family, Sulculeolariinae (Totton, 1954). The old name Galeolariinae had regretfully to be changed when it became evident that Sulculeolaria and Galeolaria – itself changed by Stechow to Galetta – were synonymous.
+
+Five of the other diphyid genera are treated as members of a sub-family Diphyinae which is a synonym of the older name Diphyopsinae Haeckel.
+
+A seventh, monotypic genus, Dimophyes, which seems to be related to the diphyids, was regarded by Moser as forming a monotypic family, Dimophyidae.
+
+The increase in the number of species known to-day is largely accounted for by additions to the number of species of Lensia, consisting of small specimens which had been overlooked previously.
+
+[NOTE: the two symbols in the first line are the printed astronomical/biological signs for male (♂) and female (♀), set at text size; verified at 7x.]
+
+[NOTE: the family heading is printed "Family 12 : DIPHYIDAE Quoy & Gaimard, 1827", with a space on each side of the colon; the corresponding heading four pages earlier uses a comma ("Family 11, HIPPOPODIIDAE"). "DIPHYIDAE" is in bold capitals. Verified at 4.5x.]
+
+[NOTE: numerals verified digit by digit: Kölliker, 1853; Kölliker's (1853, Pl. VIII) figures 2 and 6; text-fig. 81, 4a, b; Moser, 1925; Plate XXVII, figure 3; Bigelow, 1913, plate 5, figures 7, 9; Kölliker, 1853; text-fig. 81, 5; Bigelow, 1918; text-fig. 81, 2; Quoy & Gaimard, 1827; Chun, 1897; Bigelow, 1911b; Moser, 1925; Bigelow (1911b); Moser (1925); 250 pages; Totton, 1954.]
+
+[NOTE: the three species headings and "Vogtia" in them are bold italic. The three synonymy lines under the family heading are set smaller, the taxon names italic. The parenthetical dashes in "– some 250 pages –" and "– itself changed by Stechow to Galetta –" are en rules. Counts are spelt out in words in the body: "eleven", "thirty-nine", "nineteen", "seven", "Five", "A seventh". No printed square brackets occur on this page.]

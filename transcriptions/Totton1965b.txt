@@ -1,0 +1,169 @@
+<<<PAGE pdf=1 file=page_001.txt>>>
+[PAGE 71]
+[NOTE: offprint title page. Two small ink marks sit at the extreme top-left edge of the sheet, cropped by the scan and not legible.]
+
+From the ANNALS AND MAGAZINE OF NATURAL HISTORY
+Ser. 13, vol. viii, p. 71, February, 1965.
+
+A NEW SPECIES OF LENSIA (SIPHONOPHORA : DIPHYIDAE) FROM THE COASTAL WATERS OF VANCOUVER, B.C.; AND ITS COMPARISON WITH LENSIA ACHILLES TOTTON AND ANOTHER NEW SPECIES LENSIA CORDATA.
+
+By A. K. TOTTON,
+· British Museum (Natural History).
+
+THE object of this paper is to fix the identity of a small diphyid siphonophore of the genus Lensia that occurs in Burke Inlet off Vancouver, B.C., with a view to encouraging its further study and obtaining more specimens of both its polygastric and eudoxid phases. Some figures are given of a related new species. The specimens of the Vancouver species on which the paper is based were kindly sent to me just after I had completed my synopsis (Totton, 1965). The species to which they belong was at first thought to be Lensia achilles Totton, 1941 because of the fact that L. achilles was the only species known at that time in which the ostial ends of the lateral ridges ran dorsad, as shown in figures of L. achilles (Totton 1941, figs. 6, 7). But it now appears that there is more than one species of Lensia whose lateral ridges run dorsad at the ostial end. They can be differentiated by the shape of the somatocyst, which is fairly constant.
+
+The somatocyst of L. achilles was shown to be somewhat elongated, club- or spindle-shaped. It is difficult to find specimens of L. achilles, a red or orange coloured deep-water species, in good enough condition to figure, but a study of more than eighty anterior nectophores from twenty-two net-hauls, half of which were made by closing nets, showed that the shape of the somatocyst was fairly constantly club-shaped. In fact this was one of the criteria for specific identity. There is another allied new species whose somatocyst is short and heart-shaped. Ninety seven specimens of this were picked out from six net-hauls, three of them made by closing nets.
+
+The Vancouver specimens were unusually robust and squat for Lensia spp, and in all seven the apical end of the somatocyst was partly constricted off and smaller in diameter than the main part. This feature is not shown in Bigelow's (1913) fig. 2, which I would otherwise suspect of belonging to this new Vancouver species. Bigelow figured and described it as coming from the coasts of British Columbia under the name Diphyes truncata. Up to that time Bigelow had included under this name truncata specimens of several small diphyid species including (1) Lensia conoidea Sars (see Bigelow & Sears 1937), (2) L. multicristata (Moser), (3) L. challengeri Totton, and (4) his (1913) figure 2. The name L. truncata is a synonym of L. conoidea (Sars), so is no longer used.
+
+<<<PAGE pdf=2 file=page_002.txt>>>
+[PAGE 72]
+[RUNNING HEAD] 72	A. K. Totton : on three species of Lensia (Siphonophora)
+
+[NOTE: the whole of this page below the running head is one full-page figure printed rotated 90° on a page that is not itself rotated — the sheet must be turned clockwise for the figure and its caption to come upright. The running head at the top of the page is printed the normal way up. Transcribed below as if the figure were correctly oriented.]
+
+[FIGURE]
+Fig. 1.
+3mm
+0
+A
+B
+C
+Lensia baryi, sp. n., anterior nectophore from Burke Inlet, Vancouver, 570–0 m.	A, Dorsal view;	B, ventro-lateral view of same;	C, lateral view of another specimen.
+[/FIGURE]
+
+[NOTE: within the figure, "Fig. 1." stands alone at the upper left; the scale bar is graduated and labelled "3mm" at one end and "0" (a small open circle) at the other; the three drawings are lettered A, B and C. The caption occupies two lines running along the outer edge of the figure.]
+
+<<<PAGE pdf=3 file=page_003.txt>>>
+[PAGE 73]
+[RUNNING HEAD] A. K. Totton : on three species of Lensia (Siphonophora)	73
+
+[FIGURE]
+Fig. 2.
+A
+B
+C
+Lensia baryi, sp. n., posterior nectophore from Burke Inlet, Vancouver, 570–0 m.	A, lateral view; B. dorsal view; C. ventral view.
+[/FIGURE]
+
+The description of the new Vancouver species is:
+
+Lensia baryi sp. n.
+? Diphyes truncata Bigelow 1913
+non Lensia truncata (Sars 1846)
+? Lensia sp. aff. leloupi Totton 1965
+
+As in Lensia achilles the lateral ridges at their ostial ends run dorsad to the margin. The longitudinal ridges of the anterior nectophore are not so sharply crested as those of L. achilles. The anterior nectophore is rather squat and sturdily built compared with that of L. achilles.
+
+Anterior nectophore (fig. 1 A, B, C), length ≃10 mm., width in lateral view ≃5·8 mm.; pentagonal in cross-section; longitudinal ridges without marked crests; hydrocium shallow, slightly emarginate on the ventro-ostial edge. Somatocyst spindle-shaped or inverted club-shaped, the apical end smaller in diameter than the remainder and forming an oil-filled diverticulum (in the seven specimens so far examined.)
+
+Posterior nectophore (fig. 2 A, B, C), length ≃10·5 mm.; maximum width ≃5 mm. The slightly sigmoid but unlooped course of the lateral radial canals is characteristic of those of all species of Lensia. The articular surface of the right side is rectangular, whilst that of the left side is triangular. The mouth-plate is entire not emarginate. For this
+
+[HANDWRITTEN] [a script "e" with a long descender is inked in between the "o" and the "c" of the printed word "hydrocium", correcting it to "hydroecium"]
+
+[NOTE: the "approximately equal" sign printed before the measurements has been transcribed as ≃. The measurement decimal points are printed as raised points (5·8, 10·5).]
+
+<<<PAGE pdf=4 file=page_004.txt>>>
+[PAGE 74]
+[RUNNING HEAD] 74	A. K. Totton : on three species of Lensia (Siphonophora)
+
+[FIGURE]
+Fig. 3.
+3mm
+0
+A
+B
+C
+Lensia cordata, sp. n., anterior nectophore from Discovery Station 1586, TYFB, 650–950 m. Figured type specimen, B.M. Reg. No. 1958.1.8.312.	A, lateral view; B, dorsal view; C, ventral view.
+[/FIGURE]
+
+reason I doubt if the posterior nectophore shown in Bigelows (1913) fig. 3–5, which has an emarginate ostial edge to the mouth-plate can belong to L. baryi. The only specimen seen was specifically identified by its association with the anterior nectophore in the absence of specimens of other species of Lensia.
+
+Eudoxid phase: unknown.
+
+The second new species referred to above is:
+
+Lensia cordata sp. n.
+
+Only the anterior nectophore is known. Material in a moderately good state of preservation was taken by R.S.S. " Discovery II " at Station 1586 in an oblique haul of a young fish trawl on the 2nd May 1935 (Table I). This closing net was fished from 950 m. to 650 m. (8 anterior nectophores.) Forty-two anterior nectophores were taken also at Station 1587 net TYFB on May 3, 1935 in a closing net haul from 1250 m.–800 m. Both stations were made off the East coast of Africa.
+
+[NOTE: "Bigelows (1913)" is printed without an apostrophe. The scale bar at the right of the figure is labelled "3mm" at the top and "0" at the bottom.]
+
+<<<PAGE pdf=5 file=page_005.txt>>>
+[PAGE 75]
+[RUNNING HEAD] A. K. Totton : on three species of Lensia (Siphonophora)	75
+
+Anterior nectophore: (fig. 3 A, B, C). Resembling those of L. achilles and L. baryi, but with a squat, heart-shaped somatocyst situated above the ostial level. The longitudinal ridges bear well marked crests, unlike those of L. baryi. Length ≃10·5 mm.
+
+Posterior nectophores unknown.
+
+Eudoxid phase unknown.
+
+TABLE I.—Distribution of catches of Lensia achilles Totton and Lensia cordata sp. n.
+
+Lensia achilles Totton
+
+[TABLE]
+[MARGIN] (A)
+Discovery Stations	Net	Depth	Material
+89	TYFB	1000 (–0) m.	2 anterior nectophores
+100	TYFB	475–0 m.	4 „	„
+100C	TYF	2500–2000 m.	1 „	„
+100C	TYF	2500 (–0) m.	1 „	„
+100B¹	TYF	900–1000 m.	4 „	„
+256	TYF	850–1100 (–0) m.	1 „ (" Red diphyid ")
+258	TYF	320–450 m.	1 „
+282	TYF	300–0 m.	1 ex., 10 ant. nect.
+697	TYF	460–0 m.	3 ant.
+1567	TYF	1350–0 m.	1 ant.
+1583	TYFB	530–0 m.	3 „
+1586	TYFB	550–0 m.	4 „
+1587	TYFB	450–0 m.	7 „
+1639	TYFB	2400–1150 m.	1 „
+1772	N7OV	750–500 m.	1 „
+2015	N7OV	500–250 m.	1 „
+2024	N7OV	250–100 m.	1 „
+„	N7OV	500–250 m.	1 „
+„	1OOB	650–400 m.	14 „
+„	N7OV	1500–1000 m.	1 „
+2025	N7OV	1000–750 m.	1 „
+[MARGIN] (B)
+Irish Fishery Board 40 m. N.W. of Eagle Id.		1337 m.	9 anterior nectophores
+[/TABLE]
+
+Lensia cordata sp. n.
+
+[TABLE]
+Discovery Stations	Net	Depth	Material
+89	TYF	1000 (–0) m.	6 anterior nectophores
+1585 ²	TYFB	1400–700 m.	32 „	„
+1586	TYFB	650–900 m.	8 „	„
+1587	TYFB	450–0 m.	1 „	„
+1587	TYFB	1250–800 m.	49 „	„
+1589	TYFB	600–0 m.	1 (juv.) „	„
+[/TABLE]
+
+[FOOTNOTE] ¹ Records from Discovery Stations 85, 100B and 100C were published in 1941. L. achilles has been taken also in the Faroe Channel.
+[FOOTNOTE] ² Stations 1585–9 were made off the E. African coast.
+
+[NOTE: Table I is set as two ruled boxes. In the first box the marginal label "(A)" stands outside the rules beside the column headings, and "(B)" beside the last, deeper row (Irish Fishery Board); the (B) row's Net cell is empty. The second box, for Lensia cordata, carries no marginal letter. In the Net column the net designations are printed with wide capital letter O's, not zeros — "N7OV" and "1OOB" — clearly distinct from the narrow zeros used in the Depth column; they are transcribed as printed. Repeat marks in the Material column are the printed ditto sign „.]
+
+<<<PAGE pdf=6 file=page_006.txt>>>
+[PAGE 76]
+[RUNNING HEAD] 76	A. K. Totton : on three species of Lensia (Siphonophora)
+
+[FIGURE]
+Fig. 4.
+4 mm
+0
+Lensia achilles, Totton 1941. Anterior nectophore from Discovery Station 256, TYF., 850–1100 (–0) m. Field note: " Red diphyid ".
+[/FIGURE]
+
+REFERENCES.
+
+BIGELOW, H. B. 1913. Medusae and Siphonophorae collected by the U.S. Fisheries Steamer " Albatross " in the Northwestern Pacific, 1906. Proc. U.S. Nat. Mus. 44, 119, 6 pls.
+BIGELOW, H. B., and SEARS, M. 1937. Siphonophorae. Rep. Danish. Oceanogr. Exped. Medit. II. Biology. H.2. : 1–44, 83 figs.
+TOTTON, A. K. 1941. New species of the siphonophoran genus Lensia Totton 1932. Ann. Mag. nat. Hist. London (11) 8, 145–168, 29 figs.
+———. 1965. A Synopsis of the Siphonophora. Brit. Mus. (nat. Hist.).
+
+[NOTE: the word REFERENCES and the author surnames in the reference list are printed in small capitals; transcribed here as full capitals. The "4 mm" and "0" inside the figure block are the printed labels at the top and bottom of the vertical scale bar drawn beside the nectophore — the only lettering in the figure. The lower third of the page, below the references, is blank.]

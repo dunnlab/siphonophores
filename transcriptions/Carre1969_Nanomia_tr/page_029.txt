@@ -1,0 +1,30 @@
+[PAGE 8]
+
+[NOTE: Full-page halftone plate — a scan of Plate I of the French original — with the translator's new English caption set beneath it in born-digital type. The lettering inside the plate is therefore the French original's abbreviations (G.♀, C.End, Bl., Ect., End., C.End., V.G., F.A., Z.Cort.) while the caption below is English: the two do not match in language. The plate scan is cropped at its foot, so a line of lettering under panel 6 survives only as the tops of a few letters and is unreadable. The label on the lower gonophore of panel 1 is a "G." followed by a circle whose upper right runs into a dark inked structure; it is most probably the male sign ♂ (matching "male and female gonophores" in the caption, and matching the abbreviation list on page 18 of this translation, which lists a female-gonophore and a male-gonophore "G" abbreviation) but the arrow cannot be separated from the drawing, so it is flagged. Panel numbers 1-8 are engraved in bold at the lower right of each panel except 1 and 2, which carry theirs at lower right of the first and last panel of their row.]
+
+[PLATE]
+G.♀
+C.End
+[?G.♂]
+1
+2
+Bl.
+3
+Ect.
+End.
+4
+C.End.
+V.G.
+5
+F.A.
+Z.Cort.
+6
+F.A.
+7
+End.
+8
+[illegible]
+
+Plate I.
+1: Bunches of male and female gonophores at the base of a dactylozooid. 2: segmentation of the egg. 3: longitudinal section of a young female blastostyle. 4: longitudinal section of a well differentiated female blastostyle. 5: Section of an oocyte at the beginning of the formation of the vitelline vesicle. 6: passage from stage 16 to stage 32 blastomeres by synchronous divisions of which the axes are parallel to the surface of the larva. 7: gastrulation – section showing an achromatic axis perpendicular to the surface of the larva. 8: section of a very young planula showing the endodermic nuclei situated between the ectoderm and another site in the midst of the vitellus.
+[/PLATE]

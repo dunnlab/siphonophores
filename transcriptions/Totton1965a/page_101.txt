@@ -1,0 +1,51 @@
+[PAGE 96]
+[RUNNING HEAD] 96	A SYNOPSIS OF THE SIPHONOPHORA
+
+Genus: ARCHANGELOPSIS Lens & van Riemsdijk, 1908
+Monotypic genus for Archangelopsis typica Lens & van Riemsdijk, 1908.
+
+Archangelopsis typica Lens & van Riemsdijk, 1908
+Plate XIX, figures 1, 2
+
+Archangelopsis typica Bigelow, 1913
+
+The corm forms a voluminous thin-walled sac. The aurophore bears numerous papilliform appendages on its surface.
+
+Pneumatophore:   6 mm × 4 mm (the largest known specimen), flattened above, smooth.
+
+Aurophore:   With prominences on the surface. A well preserved specimen captured by 'Albatross' in the NW Pacific near Japan, was reported by Bigelow (1911b).
+
+Corm:   Sac-like, with one vast cavity, its walls not containing a network of canals (see Lens & van Riemsdijk, 1908, Pl. XVII, fig. 24); the cormidia were described by Bigelow (1913). They bear from one to three muscular lamellae to which bracts were probably attached.
+
+Genus: DROMALIA Bigelow, 1911
+Monotypic genus for D. alexandri Bigelow, 1911b.
+The corm, is bulbous, its upper part or nectosome of considerable length. Pneumatophore flattened apically and bearing gelatinous prominences on its outer rim. The aurophore bears numerous papilliform appendages. No hypocystic cavity in nectosome.
+
+Dromalia alexandri Bigelow, 1911
+Plate XIX, figures 3–6
+
+Pneumatophore:   Flattened apically; with eight to eleven triangular gelatinous prominences on its outer rim. Radial septa present between pneumatocodon and pneumatosaccus.
+
+Aurophore:   Sac-like, with numerous, hollow, papilliform appendages about 2 mm long on its surface, with terminal pores (see Bigelow, 1911b, Pl. 24, fig. 6).
+
+Corm:   Bulbous, its upper part or nectosome of considerable length. Zone of proliferation of nectophores and cormidia on the side opposite to the aurophore (see Bigelow, 1911b, Pl. 24, figs. 1–3). Cormidia arranged in a spiral (see Bigelow, 1911b, Pl. 23, fig. 11), on conical, gelatinous prominences (see Bigelow, 1911b, Pl. 23, fig. 9). A number of gastrozooids and gonodendra are carried on a common peduncle. From two to four palpons with gonophores at their bases to each of the gonodendra which bud from the pedicels of the gastrozooids.
+
+Tentacles:   With suspensorium at base. Tentilla tricornuate (Pl. XIX, fig. 6), probably with basal involucre.
+
+Family 9: FORSKALIIDAE Haeckel, 1888
+
+Forskaliidae Bedot, 1893b
+
+Haeckel established this family for four supposed genera, Forskalia Kölliker, Forskaliopsis Haeckel, Bathyphysa Studer and Strobalia Haeckel (nom. nud.). As typical of Forskalia, Haeckel cited F. edwardsi Kölliker. Typical of Forskaliopsis he cited 'F. ophiura Leuckart' (= F. edwardsi Köll.), mentioning that in that form there were numerous 'tasting palpons' scattered between the nectophores. The only siphonophores which have tentacles budded from the nectosome are species of Apolemia. It is typical of Forskalia spp., as Bedot (1893b) pointed out, that the very long active palpons budded from the upper part of the siphosome habitually explore up among the nectophores, from between which their distal ends may protrude. Presumably Haeckel thought that such palpons were
+
+[NOTE: printed folio 96 at the outer (left) edge of the running head; PDF index 101, offset −5 holds. Single column throughout; no figures, tables, footnotes or signature mark. The page breaks off mid-sentence at "such palpons were", continuing on the next page.
+
+No printed square brackets occur on this page; every bracket here is round.
+
+Printed oddities preserved as printed. (1) The genus diagnosis of DROMALIA begins "The corm, is bulbous," with a spurious comma after "corm", verified at 2.2x. (2) The genus heading reads "Bigelow, 1911" and the species heading "Dromalia alexandri Bigelow, 1911", both without a letter suffix, while the line between them reads "D. alexandri Bigelow, 1911b" and every citation in the body reads "1911b". (3) Under Archangelopsis typica the "well preserved specimen ... in the NW Pacific near Japan, was reported by Bigelow (1911b)" carries a comma before "was" with none opening the phrase. (4) Bigelow's plates are cited in arabic numerals under Dromalia (Pl. 24, Pl. 23) but Lens & van Riemsdijk's in roman (Pl. XVII), and Totton's own plate in roman (Plate XIX, Pl. XIX).
+
+Type: "Genus:" roman, then bold italic capitals ("ARCHANGELOPSIS", "DROMALIA"), then roman authority. "Family 9:" roman, then bold roman capitals "FORSKALIIDAE", then roman "Haeckel, 1888" with a wide space before the date. Species headings bold italic with roman authority; the plate lines beneath them are roman with en-dashes in ranges. The two small-type synonym lines ("Archangelopsis typica Bigelow, 1913" and "Forskaliidae Bedot, 1893b") stand flush left, unindented, with the name italic and the authority roman. Italic side-headings each followed by a wide two-space gap: "Pneumatophore:" (twice), "Aurophore:" (twice), "Corm:" (twice), "Tentacles:". Italic elsewhere: "see" in every parenthetical cross-reference, "D. alexandri", "Forskalia" (three times), "Forskaliopsis" (twice), "Bathyphysa", "Strobalia", "nom. nud.", "F. edwardsi" (twice), "F. ophiura", "Apolemia", and "budded" in "tentacles budded from the nectosome". "Haeckel", "Bigelow", "Kölliker", "Studer", "Bedot", "Leuckart", "Lens", "van Riemsdijk" are all set in ordinary upper-and-lower case roman, not small capitals, on this page.
+
+Numerals verified digit by digit: 96; 1908, 1908; 1908, XIX, 1, 2; 1913; 6 mm x 4 mm; 1911b; 1908, XVII, 24, 1913; 1911, 1911b; 1911, XIX, 3-6; 2 mm, 1911b, 24, 6; 1911b, 24, 1-3, 1911b, 23, 11, 1911b, 23, 9; XIX, 6; 9, 1888; 1893b, 1893b. The multiplication sign in "6 mm x 4 mm" is a printed multiplication cross, transcribed above as the character x in this note only; the body text has the cross itself.
+
+Stray marks, all scanning blemishes: a speck in the left margin above the folio, a speck level with "papilliform ap-" near the right edge, a fine slanting fleck in the right margin level with "Bigelow, 1911" in the Dromalia species heading, a similar fleck in the right margin level with the "Family 9" heading, specks in the left margin level with "Cormidia arranged" and with "form appendages", and a small speck between lines above "Bathyphysa". None is printed matter.]

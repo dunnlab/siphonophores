@@ -1,0 +1,72 @@
+[PAGE 10]
+
+[NOTE: no printed square brackets occur on this page; every "[" in this file is my
+marker.]
+
+[RUNNING HEAD] M.K. Mańko, et al.
+[RUNNING HEAD] Progress in Oceanography 189 (2020) 102414
+
+[TABLE]
+Table 5
+Value of association index (IndVal.g) between GZ species and water mass types. Association index of value 0 not shown, as they correspond to no specimens of particular species detected in the tested water mass. Grey shading indicates the association with the highest significance. Significance levels: * p < 0.05; **p < 0.005.
+[NOTE: the table spans both columns at the head of the page. Empty cells are printed
+blank. Grey-shaded cells are marked below with a trailing "(shaded)".]
+	SSW	AtW	TAW	IW	ArW
+Aglantha digitale					
+juvenile		0.43* (shaded)	0.09	0.22	0.25
+intermediate		0.35	0.65** (shaded)	0.15	0.43
+mature		0.05** (shaded)	0.62**	0.31	0.42
+Trachymedusae indet.		0.09			0.49* (shaded)
+Homoeonema platygonon					0.51** (shaded)
+Pantachogon haeckeli					0.40* (shaded)
+Catablema vesicarium	0.58* (shaded)				
+Halitholus cirratus	0.43 (shaded)			0.43	
+Bougainvillia superciliaris	0.58* (shaded)				
+Crystallophyes amygdalina					0.23 (shaded)
+Dimophyes arctica					
+eudoxid		0.15*	0.58**		0.67** (shaded)
+polygastric		0.09	0.69** (shaded)		0.27
+Muggiaea bargmannae			0.07		0.73** (shaded)
+Diphyid eudoxid indet.			0.58** (shaded)		0.31
+Marrus orthocanna					0.23 (shaded)
+Physophora hydrostatica		0.20 (shaded)			
+Rudjakovia plicata			0.12		0.46* (shaded)
+Beroe spp.	0.85** (shaded)	0.08*	0.24	0.14	0.02**
+Mertensia ovum	0.96** (shaded)			0.13	
+Ctenophora indet.			0.26 (shaded)		
+[/TABLE]
+
+4. Discussion
+
+Here, we provide the first description of the vertical structuring of the GZ community down to the mesopelagic zone in the Fram Strait and characterize the statistically supported ordering of its biotic and environmental drivers. Our results indicated a prevailing role of water mass distribution in shaping of the local planktonic community, affecting the GZ diversity and the vertical structuring of their demography, suggesting susceptibility of the Arctic GZ to the Atlantification.
+
+4.1. Northward decrease in GZ abundance
+
+When considered all together, stations along the southern transect N harboured a more abundant community of the GZ (Fig. 3). Stronger influence of AtW along the transect N than along the transect EB (Fig. 2), could thus justify the claims of numerically richer boreal planktonic communities there (e.g., Hop et al., 2019). This notion was further supported by the statistically significant dependence of the GZ abundance on the water temperature and salinity and their interplay (Table 2, Fig. 6), but also on the water mass distribution (Table 2).
+
+Majority of the differences in the GZ abundance along the two transect was attributed to the shelf stations, whereas the GZ communities of the open ocean zones were relatively similar in size, though still more abundant community was detected along transect N. Surface waters in the shelf zone were classified as SSW (Table 1A), that in the case of transect N probably originated in the Barents Sea and got there via the Sørkapp Current, which flows northward along the southern shore of Svalbard (Swerpel, 1985), while in the transect EB comprised a mixture of the glacial meltwater and the AtW. Presence of this particular water mass explains why these waters were teeming with the typically Arctic ctenophore, M. ovum, (Fig. 3; Majaneva and Majaneva, 2013), while the different origin of the SSW could account for the differences in the abundance of other GZ taxa found there. Discovery of a thin layer of a relatively warm surface water above the shelf may also explain why A. digitale (mostly juveniles) was also particularly abundant there, as this species is often associated with higher temperatures (e.g., Haberlin et al., 2019). Disproportion in abundance of these two species between the two transects, and the occurrence of additional taxa along the transect N, are thus very likely explained by the varying influence of the Sørkapp Current, and the proximity to the core of the West Spitsbergen Current (Fig. 2).
+
+Outside of the shelf waters, that are known to host abundant planktonic assemblage (e.g., Sabatès et al., 1989, Graham et al., 2001; Coyle et al. 2008), GZ reached highest abundance in the transformed Atlantic water that originated in between of AtW and ArW (Table 1A, Cottier et al. 2005). Surprisingly, the AtW did not harbour the most abundant GZ community, but in turn had the highest contribution of a single species, A. digitale, to the abundance of all gelatinous taxa (c. 66%, Table 1A). Presence of a more abundant assemblage of GZ in ArW, when taking into account the patchiness of zooplankton (Trudnowska et al., 2016), could potentially be related to the unequal sampling efforts in AtW compared to ArW (52 and 19 samples, respectively).
+
+The third most abundant species (after A. digitale and M. ovum) the siphonophore D. arctica, had a relatively similar abundance along both transects, although it was absent from the shelf samples along the northern transect and was less abundant along the slope of transect N.
+
+10
+
+[NOTE: source oddities transcribed as printed, not corrected: in Table 5 the shaded
+(highest-significance) cell in the A. digitale "mature" row is AtW 0.05**, a much lower
+index than the unshaded TAW 0.62** in the same row, and in the Beroe spp. row the
+shaded cell is SSW 0.85** while ArW 0.02** is unshaded; the Table 5 caption reads
+"Association index of value 0 not shown, as they correspond to", with plural "they" for
+singular "index"; the body text prints "the typically Arctic ctenophore, M. ovum, (Fig.
+3; ...)" with a comma immediately before the opening parenthesis; the citation string
+"(e.g., Sabatès et al., 1989, Graham et al., 2001; Coyle et al. 2008)" mixes a comma and
+a semicolon as separators and omits the comma before the year in "Coyle et al. 2008",
+as does "Cottier et al. 2005"; "Majority of the differences in the GZ abundance along
+the two transect" prints singular "transect"; and "The third most abundant species
+(after A. digitale and M. ovum) the siphonophore D. arctica, had" has no comma or verb
+after the closing parenthesis. Italics are not marked in this transcription: the species
+names, "Beroe", "Ctenophora", the heading 4.1, and "via" are set in italic on the page,
+and in several places the following comma falls inside the italic run ("A. digitale,",
+"D. arctica,", "M. ovum,"). Colour is not marked: the cross-references and
+author-date citations ("Fig. 3", "Table 1", "Hop et al., 2019", etc.) are set in blue as
+hyperlinks, and the shaded Table 5 cells have a grey ground.]

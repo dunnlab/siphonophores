@@ -1,0 +1,53 @@
+[PAGE 217]
+
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 15 ABYLIDAE	217
+
+relatively long posterior nectophore, which is about three times as long as wide, whereas in Abylopsis eschscholtzi the posterior nectophore is a little less than twice as long as wide. I described in 1932 how the main propulsive jet is made by the posterior nectophore, and how the intermittent and more rapid contraction of the anterior nectosac serves to alter course. These observations were repeated by Dr. D. A. Boag at Naples in 1961.*
+
+[FIGURE]
+0
+10mm
+To.r.
+R.r.
+R.d
+R.l.
+N.post.
+N.ant.
+[?Sc n.]
+To.d.
+Ret.
+Ns.obs.
+To.l.
+C.pa
+C.ped
+C.ped
+To.v.r.
+To.v.l.
+W.hyd.r.
+W.hyd.l.
+Cmb.
+H
+
+FIG. 149.   Abylopsis tetragona (Otto). Polygastric phase
+The two nectophores rigidly locked together as in life, × 4·2. Abbreviations as in figures 141, 142, 147 (from Totton, 1954, fig. 82)
+[/FIGURE]
+
+Polygastric phase
+
+Anterior nectophore (text-fig. 149):   The most reliable way of distinguishing it from that of eschscholtzi is, as a rule, to examine the lateral radial canals. In tetragona these canals rise towards the apex of the nectosac in an ascending loop before running down to the circular canal. In eschscholtzi they do not. The figures given by Bigelow (1911b, Pl. 14, figs. 6 and 1) are excellent and make this point quite clear. The other distinguishing features are more subtle and less reliable.
+
+Posterior nectophore (text-fig. 150):   About three times as long as broad. There is a peculiar arrangement of the radial canals which virtually increases the number from four to four-and-a-half (see Pl. XL, fig. 1; and Sears, 1953, fig. 25D – a ventral view – and Totton, 1954, text-fig. 83A). From the rete at the junction between the circular (ostial) canal and the ventral radial canal there arises towards the left a blind canal, separated at its apex from a short, blind down-growth from the left lateral radial canal, at a point where it is deflected to the left. The new half canal lies under the left ventral ridge.
+
+The upper half of the hydroecial canal is covered by a flap of the left hydroecial wing or left ventral ridge. A comb or 'Leiste' bearing nine teeth arises from the upper half of the inner side of the right hydroecial wing or right ventral ridge. In Abyla this comb arises from the outer part of the wing. The outer reflexed part of the left hydroecial wing is locked in position between the comb and a small mamma-like projection from the middle of the hydroecial wing (text-fig. 150). The apical wall of the posterior nectophore articulates with almost the whole of the ventral wall of the anterior nectophore.
+
+[FOOTNOTE] * Communicated in litt. to author.
+
+15
+
+[NOTE: the "15" standing alone at the foot of the page, at the left below the footnote, is a
+printer's signature mark, not a folio. There are no printed square brackets on this page. One
+label in text-figure 149, at the upper right beside the anterior nectophore, is read only
+uncertainly: it appears to be "Sc n." (or "Sc.n."), and no such abbreviation is given in the
+keys of text-figures 141, 142 or 147 to which the caption refers; it is marked [?Sc n.] above.
+The horizontal scale bar is lettered "0" at the left and "10mm" at the right, over ten equal
+divisions.]

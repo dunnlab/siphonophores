@@ -1,0 +1,73 @@
+[PAGE 3390]
+
+[NOTE: born-digital journal page. One short line of body text at the head, then
+Fig. 10 (four DCCA ordination diagrams), then full-measure body text to the foot.
+Punctuation convention as described on page 3.]
+
+[RUNNING HEAD] 3390	生 态 学 报	35 卷
+
+海水的影响特征。
+
+[FIGURE]
+[NOTE: Fig. 10 — four DCCA ordination biplots. The upper two are set side by side
+and are the same size; the third (秋季) sits at the left below them and is taller;
+the fourth (冬季) sits at the right, is shorter, and its baseline is level with the
+foot of the third. Each plot has arrows for the ten environmental variables (in
+italic roman with a subscript) and open triangles for the species (italic
+binomials). Lettering transcribed panel by panel, in reading order within each
+panel.]
+
+[NOTE: panel 1, upper left]
+0.8	-0.8	-1.0	1.0	[NOTE: axis end labels: y top, y bottom, x left, x right]
+春季
+Chab	Tb	Ts	Pleurobrachia globosa	Tm	Ss	Sb	Lensia subtilis	Sm	Nanomia bijuga	Solmunde leucostyla	Clytia folleata	Cham	D	Lensia subtiloides	Diphyes chamissonis	Chas	Bassia bassensis	Euphysora knides	Aglaura hemistoma	Solmaris leuocostyla
+
+[NOTE: in this panel "Nanomia bijuga" is crossed by three vector arrows and its
+first two letters are broken up; "Solmunde leucostyla" has a vector arrow running
+between the two words, so letters may be hidden there and the genus may be longer
+than the eight letters visible. In "Diphyes chamissonis" the plot's vertical axis
+rule runs through the penultimate letter, which makes it look like a t; it is read
+as i. "Solmaris leuocostyla" is spelt with "leuo-" as printed, against
+"leucostyla" earlier in the same panel.]
+
+[NOTE: panel 2, upper right]
+0.8	-0.8	-1.0	1.0
+夏季
+Sm	Nanomia bijuga	Eirene brevistylis	Ss	Aglaura hemistoma	Sb	Diphyes chamissonis	Eirene ceylonensis	Pleurobrachia globosa	Cunina peregrina	Eirene brevigona	Tb	Chas	Solmundella bitentaculata	Malagazzia condensum	Cham	D	Bougainvillia aurantiaca	Amphogona apsteini	Liriope tetraphylla	Tm	Lensia subtiloides	Ts	Chab	Sulculeolaria chuni	Hydractinia minuta
+
+[NOTE: "Solmundella bitentaculata" and "Malagazzia condensum" both sit on the
+horizontal axis rule and their descenders are cut by it.]
+
+[NOTE: panel 3, lower left]
+1.0	-0.6	-1.0	0.8	[NOTE: this panel's y axis runs 1.0 to -0.6 and its x axis
+-1.0 to 0.8, unlike the upper two]
+秋季
+Eirene brevigona	Eirene menoni	Tm	Ts	Nanomia bijuga	Diphyes chamissonis	Lensia subtiloides	Pleurobrachia globosa	Tb	Chas	Enneagonum hyalinum	Chab	Liriope tetraphylla	Cham	Cunina peregrina	Sb	D	Ss	Sm
+
+[NOTE: "Enneagonum hyalinum" is crossed by two vector arrows at its first
+letters.]
+
+[NOTE: panel 4, lower right]
+0.4	-0.6	-1.0	1.0	[NOTE: this panel's y axis runs 0.4 to -0.6]
+冬季
+Diphyes chamissonis	Sb	Ss	Clytia folleata	Sm	D	Ts	Nanomia bijuga	Tm	Pleurobrachia globosa	Tb	Aglaura hemistoma	Vannuccia forbesii	Chas	Euphysora verrucosa	Lensia subtiloides	Cham	Chab
+
+图 10	北部湾北部水母类的主要种类-重要环境因子 DCCA 排序（累计贡献率取 90%）
+Fig. 10	DCCA based on dominant species of jellyfish and environment variables in northern Beibu Gulf
+[/FIGURE]
+
+秋季: 群集 Ⅰ 包括广西沿岸的 B21 和 B38 测站，群集 Ⅱ 几乎分布于整个调查海域（图 9），Anosim 分析结果表明两群集间的差异极显著（R = 0.764，P = 0.001）。
+
+SIMPER 分析表明群集 Ⅰ 的主要种为四叶小舌水母，短腺和平水母和细颈和平水母（Eirene menoni）基本只分布在群集 Ⅰ，位于 DCCA 排序图（图 10）低盐区域，说明该群集主要受沿岸流影响；群集 Ⅱ 的主要种为四叶小舌水母、拟细浅室水母、双生水母和球型侧腕水母，其中拟细浅室水母、双生水母、球型侧腕水母、异摇篮水母、晶莹九角水母（Enneagonum hyalinum）和双小水母为群集 Ⅱ 的特有种，在图中高温高盐和低温低盐区域均有分布，反映了该群集受沿岸流和外海水共同影响的混合性特点。
+
+冬季: 群集 Ⅰ 包括 B36 和 B40 站位，群集 Ⅱ 分为涠洲岛以北的沿岸群集 Ⅱ1 和涠洲岛以南的远岸群集 Ⅱ2（图 9），Anosim 分析表明两群集间的差异极显著（R = 0.819，P = 0.001），其中群集 Ⅱ1 和 Ⅱ2 之间的差异极显著（R = 0.771，P = 0.001）。
+
+SIMPER 分析表明，群集 Ⅰ 的主要种为单囊美螅水母（Clytia folleata），此外刺胞真囊水母基本只分布在群集 Ⅰ，属于近岸种，该群集受沿岸流影响；群集 Ⅱ 的主要种为双生水母和半口壮丽水母等 6 种水母，该 6 种水母和四叶小舌水母、两手筐水母为该群集的特有种，属近岸种或大洋种，群集 Ⅱ 受沿岸流和外海水的共同影响。对比群集 Ⅱ1 与 Ⅱ2，半口壮丽水母和疣真囊水母（Euphysora verrucosa）只分布在 Ⅱ2，位于 DCCA 排序图
+
+[NOTE: the text breaks off at the foot of the page. In the body text "Ⅱ1" and "Ⅱ2"
+are set as the Roman numeral two immediately followed by an arabic 1 or 2, with a
+thin space; transcribed here without a space.]
+
+http: / / www.ecologica.cn
+
+?1994-2018 China Academic Journal Electronic Publishing House. All rights reserved.    http://www.cnki.net

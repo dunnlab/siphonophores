@@ -1,0 +1,22 @@
+[PAGE 4]
+
+[NOTE: English translation, born-digital and fully legible. Figure 2 is a scan of the same raster as the figure on page 5 of the French original earlier in this PDF — the same illustration appears twice in the document, once in each half; its internal lettering is the French original's. Printed as-is: "heterogeneous structure, It shows" (comma followed by a capital), and "some very large vascular internal cells" (for the French "vacuolisées").]
+
+[RUNNING HEAD] 4
+
+third plane of cleavage is always perpendicular to the previous and gives rise to four quartets of identical, and practically superimposed, blastomeres (Pl. I, 2).
+
+[FIGURE]
+[leaders, upper right and mid right:] Z.Cort. / Vit.
+30 µ
+
+Fig. 2. Section of an embryo at the 16 blastomere stage.
+[/FIGURE]
+
+The 16 blastomere stage is formed by two superimposed layers of eight cells. All the blastomeres are external: they face in a more or less regular way into the central part of the larva without leaving a cavity between them (Fig. 2). Each blastomere has a heterogeneous structure, It shows a highly stainable superficial cap, finely granulose, containing the nucleus and an internal region formed by the vitelline reserves included in some vacuoles.
+
+The passage to the 32 blastomere stage is made by a series of more or less synchronous divisions but effectually all following the radial plane (Pl. I, 6). The larva obtained is a full sphere of which all the cells are identical in their position and their constitution. Each blastomere shows the heterogeneous structure described for the cells of the 16 blastomere stage. One such stage seems to us to be a sterroblastula (following the definitions given by Dawydoff in 1928).
+
+After the 32 stage, we have observed, in some histological sections, some divisions following the tangential plane or sometime oblique in relation to the surface of the larva (Pl. I, 7). These divisions, more often at one of the poles, isolate some peripheral plate cells, of small size, with granulose cytoplasm and some very large vascular internal cells, in which the nucleus is eccentric. We think we can identify this process as gastrulation by primary delamination (always following the definitions given by Dawydoff).
+
+The treatises on Zoology and Embryology that deal with the development of siphonophores indicate the existence of a true morula and of gastrulation by secondary delamination. However, it is convenient to note that these conclusions have not always been confirmed in a way as formal as in the original works. Fewkes (1885), in his detailed study of the development of Agalma elegans, mentioned that he could not elucidate the origin of the ciliated ectodermic cells of the “morula”.

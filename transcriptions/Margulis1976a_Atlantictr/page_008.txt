@@ -1,0 +1,25 @@
+[PAGE 8: unnumbered]
+
+[NOTE: English typescript begins here]
+
+[NOTE: from this page to the end of the document the text is a clean born-digital English translation (A4 pages, Times-like proportional type, no printed folios). The figure and its caption, by contrast, are a raster scan pasted into the file: the caption is set in a typewriter face and is not live text, and it is transcribed below as printed inside the [FIGURE] block. The bibliographic head-note and the running text are the translator's, not the 1976 original's.]
+
+Margulis, R.Ya. 1976.
+
+On regularities of the distribution of siphonophores in the Atlantic.
+
+Trudy Vsesoyuznogo Nauchno-Issledovatel'skogo
+Instituta Rybnogo Khozyaistva i Oceanografii, 110 70-76.
+
+Detailed studies of siphonophores in the Atlantic have been made by various writers based on samples collected during many expeditions (Margulis, 1972). Further, over the last ten years, significant collections of plankton have been gathered together during cruises by the RS Pyotr Lebedev at 19 sites ranging from the southern parts of the Norwegian Sea to 43°S (Margulis, 1968, 1971, 1972b).
+
+Maps summarising the locations of finds for 70 species of siphonophores have been compiled for the Atlantic providing a sound base for fixing the distribution of each species, namely: establishing the habitat boundaries, their types, and examining the possible reasons determining this or that type of habitat from the point of view of dynamic biogeography.
+
+[FIGURE]
+FIG. 1.  BOUNDARIES OF HABITATS OF SPECIES OF SIPHONOPHORES.
+1: arctic; 2: antarctic;  3: bipolar;  4: boreal;  5: distant-neritic.
+[/FIGURE]
+
+[NOTE: the figure is a rescan of Рис. 1 of the Russian original (this document's p. 2), the same world map on the same graticule. Lettering inside the frame, all numerals: along the top edge, left to right, 180°  90°  0°  90°  180°  90°, with 60° at each upper corner; along the bottom edge, left to right, 180°  90°  0°  90°  120°  90°  0°, with 60° at each lower corner — note that the fifth label of the bottom row reads 120° where the corresponding top label reads 180°, as printed. Latitude labels down the left edge, top to bottom, 60°  30°  0°  30°  60°, and the same five down the right edge. A key box in the upper right of the map holds five boxed symbol swatches numbered in italic — 1 and 2 in the left column, 3 and 4 in the middle, 5 at the right; the swatches carry no words.]
+
+The modern view (Parin, 1968; Beklemishev, 1969) is that the functional structure of the habitat of pelagic organisms consists of the habitat base: sufficiently consistent circulation where the species can exist indefinitely irrespective or not it inhabits other regions of the ocean; breeding areas – areas of the habitat where the breeding of the species supports the existence of the population without bringing in individuals from other parts of the habitat if the population is not carried away by the current. The habitat base is part of the breeding area. Outside the habitat base there is a non-sterile emigration zone where the population can survive only as a result of individuals migrating to it from the base so that there is a constant transfer of individuals in one direction. In the sterile emigration zone individuals are not able to

@@ -1,0 +1,128 @@
+[PAGE 10]
+
+PLOS One
+
+[FIGURE]
+A
+
+Halistemma rubrum	OQ957197
+100	OQ957195
+Agalma okenii	OQ957191
+100	100	A. clausi	OQ957189
+100	A. elegans	OQ957203
+OQ957190
+N. cara	YPM IZ 111735
+YPM IZ 111736
+N. septata	YPM IZ 111164
+100	YPM IZ 111165
+Nanomia	YPM IZ 111166
+100	YPM IZ 107008
+YPM IZ 111737
+YPM IZ 111739
+YPM IZ 111738
+100	YPM IZ 111756	genome individual
+YPM IZ 111744
+YPM IZ 111745
+N. sp 1	YPM IZ 111733
+YPM IZ 111732
+100	YPM IZ 111734
+YPM IZ 35039
+N. bijuga	YPM IZ 110216
+100	YPM IZ 110451
+YPM IZ 11174[illegible]
+YPM IZ 11174[illegible]
+YPM IZ 11174[illegible]
+YPM IZ 11159
+YPM IZ 11159
+
+B
+
+C
+
+all Nanomia samples
+
+PC1 : 46.6%
+
+0.2
+0.1
+0.0
+−0.1
+
+N. sp 1
+N. bijuga
+N. cara
+N. septata
+
+−1.00	−0.75	−0.50	−0.25	0.00
+
+PC2 : 5.5%
+
+D
+
+N. septata samples
+
+PC1 : 22.2%
+
+0.2
+0.0
+−0.2
+−0.4
+
+Monterey Bay
+Friday Harbor
+
+0.0	0.5
+
+PC2 : 10.5%
+
+E
+
+N. bijuga samples
+
+PC1 : 30.6%
+
+0.4
+0.2
+0.0
+−0.2
+
+Hawai’i
+Gulf of California
+New England
+Virginia
+Villefranche
+
+−0.9	−0.6	−0.3	0.0	0.3
+
+PC2 : 10.2%
+
+Fig 4. Population genomics of Nanomia. A. Phylogeny based on complete mitochondrial genomes. B. Map of collecting locations, which are coded by color. Colors in other panels correspond to locations here. C. PCA of all Nanomia specimens newly sequenced in this study. D. PCA of Nanomia septata specimens only. E. PCA of Nanomia bijuga samples only. All PCAs use the Nanomia septata reference genome. Analyses with species specific transcriptome references are shown in S10 Fig. Map made with Natural Earth (public domain) in R.
+
+https://doi.org/10.1371/journal.pone.0351247.g004
+[/FIGURE]
+
+previously [21]. The single sample of Nanomia cara had a 1.7 GB genome, providing critical new information on a species for which no previous genome statistics were available. K-mer analyses of all Nanomia bijuga samples, as well as the specimen of Nanomia sp. 1 show that these species have much smaller genomes of about 0.7 GB and a lower fraction of repetitive elements. Taken together, these results indicate that there are two Nanomia species, Nanomia septata and Nanomia cara, with large genomes of 1.7 GB, and two, Nanomia bijuga and Nanomia sp. 1 with much smaller genomes that are about half the size at 0.7 GB. In combination with the phylogenetic results that show Nanomia septata sister to Nanomia bijuga and Nanomia sp. 1 and Nanomia cara sister to all of these species (Fig 4), these analyses suggest that the most recent common ancestor of Nanomia had a genome size of about 1.7 GB, and that there was then a large reduction in genome size along the branch that gave rise to Nanomia bijuga + Nanomia sp. 1 (Fig 4).
+
+Combined population genomic analyses (see Methods), based on mapping each genome to the chromosome scale reference genome for Nanomia septata, clearly differentiate the species identified above (Fig 4C). There is also strong
+
+PLOS One | https://doi.org/10.1371/journal.pone.0351247	July 2, 2026	10 / 25
+
+[NOTE: Fig 4 (panels A-E) fills the upper two thirds of the page, with its full caption and DOI line below it, then two paragraphs of body text continuing from page 9 ("...consistent with the single individual analyzed" / "previously [21]."). The page ends mid-sentence at "There is also strong".
+
+Inside [FIGURE] only text physically printed on the page is transcribed. Panel A is a phylogram: its printed matter is given in top-to-bottom reading order, with tab-separated columns holding, from left to right, the branch support values, the italic clade/taxon labels printed above branches, and the tip labels at the right. Support values are printed on internal branches rather than at tips, so their assignment to a line here is approximate to within a row; there are nine printed "100" values and no other numerals. The tip circles are coloured but carry no text.
+
+Panel B is a world map of collecting localities with coloured dots and no printed lettering whatsoever apart from the panel letter "B"; nothing is described here.
+
+For panels C, D and E the printed matter is given as: panel letter, plot title, rotated y-axis title, y-axis tick labels top to bottom, the in-plot group labels in printed reading order, the x-axis tick labels left to right (tab separated), and the x-axis title.
+
+Five tip labels in panel A are clipped by the edge of the plotting region and cannot be read in full. Three read "YPM IZ 11174" followed by a narrow sliver of a sixth digit which is unreadable, given as "YPM IZ 11174[illegible]". The last two read "YPM IZ 11159" with no further ink visible; by analogy with the neighbouring six-digit accessions they are probably also truncated, but as nothing is printed beyond the "9" nothing further is transcribed. These five labels are the page's only unreadable text and are the reason this page may want a second opinion.
+
+The negative axis tick labels in panels C, D and E are printed with true minus signs (a long dash on the mathematical axis, as ggplot2 emits), transcribed U+2212: "−0.1", "−1.00", "−0.75", "−0.50", "−0.25", "−0.2", "−0.4", "−0.9", "−0.6", "−0.3". "Hawai’i" in panel E is printed with a 9-shaped right single quotation mark (U+2019, not an ʻokina), as in the body text on page 9. The in-plot group labels are printed in the colour of their points; colour is not marked. "N. sp 1" is printed without a full stop after "sp", both in panel A and in panel C.
+
+In the caption, "All PCAs use the Nanomia septata reference genome" is printed with "Nanomia" roman and "septata" italic, unlike every other occurrence of the binomial on the page; transcribed as printed. "species specific" is printed unhyphenated.
+
+PAGE FURNITURE: the PLOS One masthead and pictorial device at the head, and the running foot "PLOS One | https://doi.org/10.1371/journal.pone.0351247   July 2, 2026" with the page-number line "10 / 25" at the right; the foot's three elements are separated by tabs above. Printed, and so transcribed. There is no Crossmark stamp on this page.
+
+Words broken across a printed line by a soft hyphen have been joined and the hyphen removed, per the protocol: "reduction" (printed "reduc-" / "tion"). Real hyphens kept: "K-mer". "Nanomia bijuga + Nanomia sp. 1" is printed with thin spaces either side of the plus sign, rendered here as ordinary spaces.
+
+Cross-references ("S10 Fig", "Fig 4", "Fig 4C") and the reference-number citation "[21]" are printed in a blue hyperlink colour, as is the figure DOI line; colour is not marked. "Fig 4." and "Population genomics of Nanomia." are printed bold, the genus bold italic; taxon names elsewhere italic. Bold and italics are not marked.]

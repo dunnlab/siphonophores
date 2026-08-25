@@ -1,0 +1,123 @@
+[PAGE 3384]
+
+[NOTE: born-digital journal page (生态学报 / Acta Ecologica Sinica), clean type.
+Layout: a two-column band at the head (text left, Fig. 1 right), then a full-measure
+band of text across the page, then a second two-column band at the foot (text left,
+Fig. 2 right). Transcribed in that order — left column then right column within
+each band.]
+
+[NOTE ON PUNCTUATION: the journal sets Chinese punctuation with generous
+side-bearing, so a comma or a bracket looks like a half-width mark followed by a
+space. Full-width forms （）， 。、；《》 have been used throughout the Chinese text
+because that is what the marks are, but the image alone cannot prove the codepoint.
+The same applies to the decimal points in numerals, which are set with a visible
+gap after them ("20. 0556°" as it appears on the page); they are transcribed here
+as ordinary periods with no space.]
+
+[RUNNING HEAD] 3384	生 态 学 报	35 卷
+
+北部湾海域的综合调查结果。为了解北部湾北部的生物群落结构和生态系统功能，上述专项中选取北部海域 40 个测站（20.0556°—21.4842° N，108.0381°—109.8225° E，图 1）进行专题探讨。浮游动物样品采集与实验室处理均按照《海洋生物生态调查技术规程》[22]进行，30 m 以浅海域用浅水 I 型网（孔径 0.505 mm，内径 50 cm，网长 145 cm），30 m 以深海域用大型浮游生物网（孔径 0.505 mm，内径 80 cm，网长 280 cm）由底层至表面垂直拖取，样品现场用 5% 福尔马林溶液固定。从浮游动物样品中挑取水母，按个体计数法在体式解剖镜下鉴定并计数，丰度以单位水体内的个体数（个/m3）表示。
+
+[NOTE: "[22]" is a superscript reference number. "浅水 I 型网" — the letter is a
+seriffed capital I, which may be the Latin letter or the Roman numeral Ⅰ; it is
+transcribed as Latin "I". "个/m3" has the 3 as a superscript.]
+
+优势度（Y）计算：Y = ni/N · fi
+
+[NOTE: displayed formula, centred and indented. Set as a built-up fraction: italic
+n with subscript i over italic N, then a centred multiplication dot, then italic f
+with subscript i. Transcribed above on one line; the subscripts are not marked.]
+
+式中，ni 为第 i 种的个体数；fi 为该种在各位站出现的频率；N 为总的个体数。优势种以 Y ≥0.02 [23] 为优势种划分标准。
+
+[NOTE: "各位站" is as printed. "[23]" is a superscript reference number. ni, fi and
+Xi, Yi below all carry italic subscripts, not transcribed as such.]
+
+聚类分析: 将北部湾北部水母类按出现频率降序排列，舍去出现频率 <3% 的种类，并将各水母丰度进行平方根转换。计算各站位间的 Bray-Curtis 相似性指数，并以此为基础构建相似性矩阵，在此基础上，用类平均法对站位进行聚类。应用非参数的相似性分析检验各聚类分组的差异显著性。
+
+相似百分比（SIMPER）分析: 将北部湾北部水母类的每个种对群集之间非相似性贡献的百分比（累计贡献率取 90%）降序排列，确定对北部湾北部水母类群集划分起主要作用的种。
+
+去趋势典范对应（DCCA）分析: 对北部湾北部主要水母类（SIMPER 分析结果）物种丰度和环境因子进行 DCCA 分析，数据经对数转换:
+
+Yi = ln( Xi + 1)
+
+[NOTE: displayed formula, centred.]
+
+式中，Xi 为水母丰度，Yi 为转换后的数值。以了解影响北部湾北部水母类主要种类分布的环境因子。
+
+聚类分析和相似百分比分析采用 Primer5.0 软件包；去趋势典范对应分析采用 Canoco4.5 软件包。
+
+本文使用的水深、水温、盐度和叶绿素 a 等环境因子参数由厦门大学"908"专项办公室提供。
+
+[NOTE: the quotation marks around 908 are curly double quotes, opening and closing.]
+
+2	结果
+
+2.1	水母群集组成和种数时空分布
+
+本区共记录水母类 4 类 125 种（包括未定种），以水螅水母类为主（99 种），占总种数的 79.2%。春季记录水母 49 种，夏季 83 种，秋季 49 种，冬季 56 种，种数的季节变化与调查区表层平均水温的变化基本一致（图 2）。
+
+本区水母类可分为沿岸暖温性、沿岸暖水性和大洋暖水性 3 种生态类群，沿岸暖温种很少，只有蝶水母（Ocyropsis crystallina）1 种；沿岸暖水种占总种数 61.6%，代表种有拟细浅室水母（Lensia subtiloides）、双生水母（Diphyes chamissonis）和球型侧腕水母（Pleurobrachia globosa）等；大洋暖水种占总种数 37.6%，代表种有四叶小舌水母（Liriope tetraphylla）、半口
+
+[NOTE: the left column of the foot band breaks off mid-word at "半口"; it continues
+on the next page.]
+
+[FIGURE]
+[NOTE: map of the northern Beibu Gulf with 40 sampling stations as filled circles,
+land shaded grey, isobaths drawn as thin lines. Lettering on the map, in reading
+order:]
+
+22°N	21°	20°	[NOTE: latitude ticks, left edge]
+108°	109°	110°	111°E	[NOTE: longitude ticks, foot]
+
+防城港	大风江	南流江	铁山港	北海	雷州半岛	琼州海峡	海南岛
+
+[NOTE: 雷州半岛 and 琼州海峡 and 海南岛 are set vertically or spread across the land
+masses; 雷州半岛 reads downward as 雷 州 半 岛.]
+
+B14	B21	B28	B07	B12	B19	B26	B34	B40	B05	B32	B38	B10	B17	B24	B03	B30	B15	B22	B29	B36	B35	B01	B08	J01	J03	J05	J07	J08	J10	J12	J15	J16	J17	J19	J21	J23	J30	J26	J28
+
+[NOTE: forty station labels, listed above roughly in reading order (top to bottom,
+left to right). Several labels are partly overprinted by their own station dot or by
+an isobath (B07, B05, B19, B34, B17, B30, B22, B01, B23, B30 of the J series); all
+were resolved at eightfold magnification.]
+
+20	30	40	50	[NOTE: isobath labels, set along the contour lines]
+
+审图号: GS(2014)1797号
+
+图 1	北部湾北部浮游生物采样站位（示等深线）
+Fig. 1	Sampling stations of plankton in northern Beibu Gulf（Depth）
+[/FIGURE]
+
+[FIGURE]
+[NOTE: stacked bar chart with a superimposed line for temperature. Lettering:]
+
+种类数 Species Number	[NOTE: left axis title, rotated]
+0	20	40	60	80	100	120	140	[NOTE: left axis]
+表层平均温度 Surface average temperature/°C	[NOTE: right axis title, rotated]
+18	20	22	24	26	28	30	32	[NOTE: right axis]
+
+水螅水母类	栉水母
+管水母类	表层温度
+钵水母类
+
+[NOTE: legend key, two columns as set: three filled patches in the left column and
+one patch plus a line-with-open-circle symbol in the right.]
+
+春季	夏季	秋季	冬季	全年
+Spring	Summer	Autumn	Winter	The whole year
+
+图 2	北部湾北部水母类群集组成与表层温度
+Fig. 2	Group composition of jellyfish assemblage and surface temperature in northern Beibu Gulf
+[/FIGURE]
+
+http: / / www.ecologica.cn
+
+[NOTE: the URL is set with spaces around the two solidi, as transcribed.]
+
+?1994-2018 China Academic Journal Electronic Publishing House. All rights reserved.    http://www.cnki.net
+
+[NOTE: grey CNKI footer stamp added by the digitiser, printed below the journal's
+own page. The first character really is a question mark on the page, standing where
+a copyright sign would be.]

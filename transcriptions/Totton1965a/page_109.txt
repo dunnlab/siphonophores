@@ -1,0 +1,35 @@
+[PAGE 104]
+[RUNNING HEAD] 104	A SYNOPSIS OF THE SIPHONOPHORA
+
+[FIGURE]
+1mm
+R
+N
+F
+
+FIG. 56.   Forskalia leuckarti Bedot
+View of under surface of a young nectophore
+F = fold; N = patch of nematocysts; R = future rete mirabile.
+[/FIGURE]
+
+or appears only as a slight ovoid expansion of the pedicular canal. There is an oval patch of nematocysts just above the stem-side of the outer ends of the wings of the nectosac.
+
+Gastrozooids:   Forty to fifty on a 20 cm long specimen (contracted); from 10 to 19 mm in length. They are very mobile and are carried on long peduncles which measure 12 mm or more in length. There are from eight to twelve rose-red 'liver stripes' within the stomach. The cnido-band of the tentillum of the tentacle is fiery red in colour, with no involucre and is spirally twisted into two to four turns. On either side of the cnidoband is a lateral row of bean-shaped nematocysts, 0·51 mm long and 0·16 mm broad. The long terminal filament carries short bean-shaped nematocysts, 0·003 mm in length. There are two pairs of folded cords in the tentillum, very much better developed according to Leuckart than in Halistemma rubrum.
+
+Bracts (text-fig. 59):   Very numerous, overlapping like shingles on a roof. When the peduncular bracts are lost the peduncles contract down to 2·1–3·2 mm in length. The majority of the peduncular
+
+[NOTE: printed folio 104 at the outer (left) edge of the running head; PDF index 109, offset −5 holds. Single column. No footnotes, no table, no signature mark. The body text opens mid-sentence with "or appears only as a slight ovoid expansion" and the page breaks off mid-sentence at "The majority of the peduncular", both continuing from and to the adjacent pages.
+
+No printed square brackets occur on this page; every bracket here is round.
+
+Layout: text-fig. 56 fills the upper two-thirds of the page, one large line drawing set full measure with a short horizontal scale bar standing free above and to the left of it, and a three-line caption centred below in type smaller than the body. Because the figure stands above the text, the [FIGURE] block is placed first, in printed reading order. The body text occupies the lower quarter, three paragraphs.
+
+The items inside [FIGURE] before the caption are exactly the labels printed within the drawing and nothing else — the illustration itself is deliberately not described. In reading order, top to bottom: "1mm" set into a gap in the scale bar at the upper left, with no space between figure and unit; then the leader labels "R" (centre), "N" (right), and "F" (lower right). All four were checked at 6x. The three leader labels are upright sans-serif capitals, each joined to the structure by a fine ruled line; the caption key gives the same three letters as italic serif capitals. Total lettering: 1 "1mm", 1 "R", 1 "N", 1 "F".
+
+Caption detail: "FIG." small capitals, old-style 56, full point, wide gap, italic "Forskalia leuckarti", roman "Bedot". The second line "View of under surface of a young nectophore" has no full point printed. The key line reads "F = fold; N = patch of nematocysts; R = future rete mirabile." with the three letters italic, each equals sign spaced, and "rete mirabile" italic.
+
+Type in the body: italic side-headings each followed by a wide two-space gap, "Gastrozooids:" and "Bracts"; italic "Halistemma rubrum"; single curly quotes round 'liver stripes'. "text-fig. 59" is lower-case roman. Printed as printed: "cnido-band" hyphenated at its first occurrence, mid-line and not at a line break, but "cnidoband" unhyphenated two lines later; both are transcribed as printed.
+
+Numerals verified digit by digit: 104; FIG. 56, 1mm; 20 cm, 10 to 19 mm; 12 mm; 0·51 mm, 0·16 mm, 0·003 mm; text-fig. 59, 2·1–3·2 mm. Decimal points are raised middle dots throughout; the zeros are old-style, sitting at x-height, so "0·51", "0·16" and "0·003" resemble "o·51", "o·16", "o·oo3" in this face — they are zeros. The range "2·1–3·2" uses an en-dash. Note "from 10 to 19 mm" is written out with "to" while the bract range uses a rule.
+
+Stray marks, all scanning blemishes: a speck in the far left margin level with the lower part of the drawing, a short fleck in the upper part of the drawing area above the left lobe, a speck in the right margin level with the caption's first line, specks in the right margin level with "Halistemma rubrum" and with "in length", and two or three specks in the blank band at the foot of the page. None is printed matter.]

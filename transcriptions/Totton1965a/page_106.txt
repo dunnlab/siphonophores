@@ -1,0 +1,38 @@
+[PAGE 101]
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 9 FORSKALIIDAE	101
+
+cross-section. Other peduncular bracts have a knee-like bend, giving them the shape of a laterally flattened sock. All the bracts have a shallow pocket between the distal facet and the upper, dorsal facet. The pocket is very wide in the stem bracts. In the more distal peduncular bracts it is very narrow. There are two or three pairs of tooth-like projections on the distal half.
+
+The peduncular bracts of edwardsi can be homologized with those of leuckarti. The outer angle is obtuse, otherwise the pattern is similar, but the flange on the inner side of the upper face which overlaps the next distal bracts is less marked, and the bracts are arranged in pairs which are mirror-images of one another. They are much less thick than in leuckarti, in which the pocket is much less evident. There is no little spur-canal at the bend of the bracteal canal such as is present in the bracts of leuckarti, and the bend in the canal itself is obtuse instead of being right-angled.
+
+[FIGURE]
+S
+P¹
+G
+
+FIG. 54.   Forskalia edwardsi Kölliker
+A young growth stage of a gonodendron, × 12 (after Leuckart, 1853)
+s = stem; P¹ = palpon; G = gonodendron, initial growth-stage.
+[/FIGURE]
+
+The arrangement of the bracts is as follows: In each cormidium there is a pair (see Totton, 1954, text-fig. 29a, b) attached immediately on each side of the ventral meridian by muscular lamellae, which extend from a point immediately distal to the gastrozooid of the previous cormidium to the base of the gonodendron. Their pedicular canals arise from the stem at about one quarter of the distance between gastrozooid peduncle and gonodendron. They are mirror-images of one another. The uppermost pointed ends of my figured bracts are aboral. The bolster shaped bracts (id. fig. c) are attached in pairs to the basal part of the peduncle of each gastrozooid on the side facing the gonodendron. The proximal edges of their muscular lamellae overlap somewhat the distal oral edges of the lamellae of the stem bracts. In figure 29c the pointed end of the bract is the proximal stem end. The bracts shown in my (1954) text-figure 30 a–e are arranged in an alternating, overlapping fashion on the peduncles of the gastrozooids, those at the base resembling figure c, those at the distal end – there may be a succession of ten – resembling figures d and e. The pedicular canals of these peduncular bracts issue from the peduncle close to the proximal end of the next distal broad muscular lamella. The lamellae lie nearly in one meridian of the peduncle, which may twist. I suppose that one of the functions of these peduncular bracts is to give buoyancy to the gastrozooid peduncle, which projects out nearly at right angles to the stem.
+
+Gonodendra (text-figs. 54, 55):   There is a single gonodendron between each two gastrozooid peduncles measuring 1 cm in length, of which the peduncle forms half. It is formed by a series of about six palpons, each with a palpacle, successively budded from the distal ends of the elongated
+
+[NOTE: printed folio 101 at the outer (right) edge of the running head; PDF index 106, offset −5 holds. Single column. No footnotes, no table, no signature mark. The page opens mid-sentence with "cross-section." and breaks off mid-sentence at "the distal ends of the elongated", continuing on the next page.
+
+No printed square brackets occur on this page; every bracket here is round.
+
+Layout: text-fig. 54 occupies the middle third of the page, a single line drawing set full measure between two paragraphs, with its caption centred below in type smaller than the body. The [FIGURE] block is placed at that point, in printed reading order. About a twelfth of the page is blank at the foot.
+
+The items inside [FIGURE] before the caption are exactly the three labels printed within the drawing and nothing else — the illustration itself is deliberately not described. In reading order (top to bottom): "S" upper right, "P¹" in the middle right, "G" lower right, each standing free without a leader line. They are upright sans-serif. The label at the top is a capital "S", cap height, measured at 6x against the "G" below it and found the same height — whereas the caption key spells the same reference as an italic lower-case "s"; both are transcribed as printed. In "P¹" the numeral 1 is raised and smaller than the P, in the drawing as well as in the caption key.
+
+Caption detail: "FIG." small capitals, old-style 54, full point, wide gap, italic "Forskalia edwardsi", roman "Kölliker". The magnification "× 12" uses a saltire multiplication cross with spaces either side. The key line is "s = stem; P¹ = palpon; G = gonodendron, initial growth-stage." with the letters italic and each equals sign spaced.
+
+Type in the body: italic "edwardsi" and "leuckarti" used as bare epithets without a genus (three occurrences of "leuckarti"); italic "see" and "id." inside the parenthetic references; italic side-heading "Gonodendra" followed by a wide two-space gap after the colon. Cross-references are lower-case roman and are not uniform on this page: "text-fig. 29a, b" and "text-figs. 54, 55" abbreviated, but "text-figure 30 a–e" spelt out; and plain "figure 29c", "fig. c", "figure c", "figures d and e" for the letters alone. In "30 a–e" the letters are separated from the numeral by a space and joined by an en-dash, while in "29a" and "29c" the letter is closed up to the numeral.
+
+Punctuation: the parenthetical dashes in "those at the distal end – there may be a succession of ten – resembling figures d and e" are spaced en-dashes.
+
+Numerals verified digit by digit: 101; FIG. 54, × 12, 1853; 1954, text-fig. 29a, b; figure 29c; 1954, text-figure 30 a–e; text-figs. 54, 55; 1 cm.
+
+Stray marks, all scanning blemishes: a speck in the top right margin above the folio, a speck in the right margin level with "of leuckarti, and the bend", a short dash and a tick in the far right margin level with the upper part of the drawing, a small tick in the left margin just below the drawing, a curved fleck in the right margin level with "The arrangement of the bracts", and specks in the right margin level with "the proximal stem end" and with "buoyancy". None is printed matter.]

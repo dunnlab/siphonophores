@@ -1,0 +1,31 @@
+[PAGE 56]
+[RUNNING HEAD] 56	A SYNOPSIS OF THE SIPHONOPHORA
+
+Genus: HALISTEMMA Huxley, 1859
+
+Type species H. rubrum (Vogt) 1852.
+
+Agalmidae with unicornuate tentilla whose cnidobands lack a marked basal involucrum. Only two species have hitherto been described, H. rubrum (Vogt) and H. cupulifera Lens & van Riemsdijk, but plankton samples sometimes contain nectophores of agalmids which somewhat resemble the large nectophores of H. rubrum, but with extra, vertical, lateral ridges. Such a specimen was taken in 1929 by Beebe off Bermuda, in about 1530 m (700 fathoms). It has been described under the name H. striata sp.n. on page 59 with others, which were taken at two Discovery stations, 81 and 704, in open nets fished obliquely from 231 m and 650 m to the surface. The nectophore is shown in text-figure 24.
+
+Halistemma rubrum (Vogt, 1852)
+Plate XII
+
+Agalma rubra Vogt, 1852; 1854
+Agalmopsis rubra Leuckart, 1853
+Agalma rubrum Leuckart, 1854
+Agalmopsis punctata Kölliker, 1853
+Halistemma rubrum Huxley, 1859
+Agalmopsis rubra Schneider, 1899
+Stephanomia rubra Bigelow, 1911b; Totton, 1954
+
+A well-known Mediterranean species, studied in detail and beautifully illustrated by Vogt (1854, Tab. 7) but confused by him with juvenile specimens of Nanomia bijuga and with the 'Athorybia larva' of Agalma elegans, all of which he mistook for early growth-stages of H. rubrum.
+
+The nectosome (up to 17 cm long) carries as many as thirty pairs of nectophores, which measure 13 mm in length and are 10·5 mm wide (text-fig. 21). The corresponding siphosome would be 176 cm in length. The stem is about 1·5 mm in diameter.
+
+The gastrozooids are spaced about 2·5 cm apart, measure from 15–17 mm in length and 2 mm in diameter, and have an elongate ovate basigaster measuring 4·5 mm in length and 1·5 mm in diameter. The tentacle bears from four to six unicornuate, vermilion tentilla, coiled up in from eight to ten coils and 5 mm in length, on pedicels measuring 1 cm in length. At the junction of the pedicel with the cnidoband there is an inconspicuous expansion that probably represents the involucrum. The tentillum (see Korotneff, 1884; and Schneider, 1899) consists of a cnidoband loosely coiled ten or so times round the two cords that expand on activation and cause the apparatus to function like a mustard plaster. The bulk of the cnidoband consists of innumerable rows of sabre-shaped nematocysts which measure from 65–70μ in length and 7μ in width. On each side in the proximal region is a row of larger bean-shaped nematocysts of the same length but 20μ in width. The terminal filament exceeds 2 cm in length and terminates in a cone-shaped coil of ten turns, 0·75 mm in length, faithfully depicted by Vogt (1854, Tab. 8, fig. 1).
+
+The palpons are very active and vermiform in extension. They measure 11 mm in length and 2 mm in diameter. Their simple palpacles bear pairs of small nematocysts. Their arrangement and association with the gonodendra has not, as far as I know, been described hitherto. I observed the following arrangement in a specimen whose nectosome measures 10 cm in length, preserved in formalin after relaxation in MgCl2. It was taken at Villefranche at 9.30 a.m. on March 31, 1949, and bore about forty gastrozooids.
+
+On each cormidium there are proximally two or three palpons, probably derived from secondary budding. Distal to them there is a larger palpon with a palpacle that measures 15 mm in length, not fully
+
+[NOTE: the folio 56 is at the outer (left) edge of the running head. "MgCl2" is printed with a subscript 2. "μ" is the printed Greek mu, set immediately after the numeral without a space ("65–70μ", "7μ", "20μ"). "Discovery" in "two Discovery stations" is printed in roman, not italic. In the last line of the page "to them there" is set with the words almost touching, an artefact of tight justification. The page ends mid-sentence with "not fully".]

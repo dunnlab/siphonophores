@@ -1,0 +1,23 @@
+[PAGE 10]
+
+[NOTE: English translation, born-digital. Figure 4 is a scan of a line-drawing plate from the French original, so its internal lettering (Ect., Pig., End., C.Pn., Ch., Ect.A., S., C. Ect. A., Eb.F. and the scale "30µ.") is the French original's abbreviated lettering while the caption beneath is the translator's English. The caption's last line is printed "(longitudinal section." with the closing parenthesis missing. Printed as-is in the text: "possessed three often two nuclei" and "not followed by partitioning". The lettering is listed inside [FIGURE] in top-to-bottom order.]
+
+[FIGURE]
+Ect.
+Pig.
+End.
+C.Pn.
+End.
+Ect.
+Ch.
+Ect.A.
+S.
+C. Ect. A.
+Eb.F.
+30µ.
+
+Fig. 4. Differentiation of the pneumatophore of Nanomia bijuga.
+Pneumatophore of a week old siphonula showing the formation of the definitive cavity and the appearance of a cavity in the basal region of the mass of aeriform ectoderm (longitudinal section.
+[/FIGURE]
+
+we have often observed, in these ectodermal cells, some small, comma-shaped bodies of which we are unable to give any interpretation. The endodermic cells also show an original peculiarity: their cytoplasm, encroached upon by some poorly stainable granules, possessed three often two nuclei. This peculiarity does not appear linked to an incomplete nuclear division, or to a fusion between adjacent elements, but seems to result from a direct division of the nuclei after division of the nucleoles. In effect, one never observes some form of division in the endoderm of the adult pneumatophore but, in contrast, it is frequent to note the presence of two nucleoles in the nuclei of some uninucleate cells. Chun (1897) had signalled the existence of polynucleate cells in various organs of siphonophores and interpreted them as the result of direct nuclear divisions, not followed by partitioning. Pérez (1930) described some cells with multiple nuclei in the spadix of the gonophores of Physalia: he connected these morphological peculiarities with an intense physiological activity. He thought that the same interpretation could be advanced for the cells of the endodermal

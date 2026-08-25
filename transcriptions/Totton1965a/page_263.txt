@@ -1,0 +1,37 @@
+[PAGE 263: unnumbered]
+
+[RUNNING HEAD] A SYNOPSIS OF THE SIPHONOPHORA
+
+PLATE XV	Physophora hydrostatica Forskål
+
+Figures 1-8 from Sars, 1877, plate VI
+
+FIG. 1.	Whole animal.
+FIG. 2.	Gastrozooid.
+FIGS. 3, 4.	Nectophores.
+FIG. 5.	Part of a tentacle.
+FIG. 6.	Tentillum, early growth stage.
+FIG. 7.	Tentillum, late growth stage.
+FIG. 8.	Activated cnidoband and elastic cords.
+FIG. 9.	Photograph of the living animal, taking-off from the bottom of a tank, at Villefranche.
+FIG. 10.	Another living animal reacting to a touch on the pneumatophore. The previously hidden gonophores can be seen.
+
+[NOTE: caption leaf for PLATE XV; the facing leaf (PDF page 264) is the plate itself. Unfoliated — no printed folio, no signature mark. The caption block begins a little above the middle of the leaf and runs to about three-fifths of the way down; the whole upper third and the whole lower two-fifths are blank apart from scan speckle.]
+
+[NOTE: as on PDF page 257, "PLATE XV" and the species name are set on ONE centred line, "PLATE XV" in spaced full capitals followed by a wide space, then "Physophora hydrostatica" in italic and "Forskål" in roman. There is no separate species line. The tab above stands for that printed space.]
+
+[NOTE: "Forskål" is printed with the Scandinavian ring-a — a lower-case a carrying a small open ring above it — and with no other accent. It is transcribed with the Unicode character å. The spelling is Totton's; it is not the more common "Forsskål" with a double s.]
+
+[NOTE: the source line is centred and covers only figures 1-8, "Figures 1-8 from Sars, 1877, plate VI". It prints "Figures" in full, in roman upper and lower case, not as "FIGS.". Figures 9 and 10 have no source line, being the author's own photographs.]
+
+[NOTE: the ten FIG. entries are set as a conventional indented list, each on its own line, flush-left in the "FIG." column with the description indented to a common alignment. Only FIG. 10 runs to two printed lines; its second line, "can be seen.", is indented to align with the description column and is joined to the first above. No line-break hyphen is involved. Every entry closes with a full point — unlike the caption on PDF page 261, where none do.]
+
+[NOTE: "taking-off" in FIG. 9 is printed with a hyphen, within a single line, and the hyphen is therefore retained.]
+
+[NOTE: there is NO key to the lettering on this caption leaf, and no list of abbreviations. Nothing on the leaf tells the reader what the reference letters on the plate mean.]
+
+[NOTE: "FIG."/"FIGS." in each entry is printed with a full-size F and small-capital following letters and is transcribed in full capitals. The tabs above stand for the printed spaces. All numerals are printed in old-style (text) figures, so that 1 has no upper serif, 5 and 7 have descenders and 0 is small; transcribed as ordinary digits. "1-8" is printed with an en dash; the source plate number is roman, "VI", and the plate number "XV".]
+
+[NOTE: no printed square brackets occur on this leaf, and no editorial query mark of any kind appears here. There are no parentheses at all on the leaf. Every square bracket above is a transcriber marker.]
+
+[NOTE: faint grey scan speckle covers the blank areas of the leaf throughout; the speckle is heavier on this leaf than on the neighbouring caption leaves, with several distinct dark specks in the lower blank half, and a small comma-shaped mark low in the left margin. None of it is type.]

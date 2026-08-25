@@ -1,0 +1,25 @@
+[PAGE 93]
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 8 RHODALIIDAE	93
+
+[FIGURE]
+G.KINNS.
+
+FIG. 51.   Stephalia corona Haeckel
+Reconstruction of the whole animal (Dundee specimen), expanded and contracted, × 3
+[/FIGURE]
+
+sence of bracts been noted. One was by Kawamura (1954) in a specimen described and figured as a new species of a new genus, Sagamalia hinomaru, taken by the boat of the Emperor of Japan in Sagami Bay in 1935 at a depth of 450 metres. Another Japanese specimen Steleophysema aurophora was briefly described by Moser (1924b, 1925).
+
+The rhodaliid group is not well known, since specimens are rarely taken. When they are, they are usually defective. The only good review of the various species is that of Bigelow (1911b), to which the reader is referred. The specimen in question was labelled Stephalia corona Haeckel, and this may well be its proper name. But unfortunately none of the four specimens on which Haeckel (1888b)
+
+[NOTE: printed folio 93 at the outer (right) edge of the running head; PDF index 98, offset −5 holds. No printed square brackets occur on this page, and no printed bare query marks either.
+
+Layout: text-fig. 51 fills the upper three-quarters of the page as a single large drawing, full measure, with a two-line caption centred beneath it; only two paragraphs of text follow, the first continuing from p. 92 (it opens mid-word with "sence of bracts", completing "pre-sence") and the last breaking off at "Haeckel (1888b)" at the foot. Single column throughout, and no signature mark.
+
+The only lettering physically present inside the drawing is the engraver's signature at the lower left, "G.KINNS." — verified at 9× as a capital G, a full point, a large capital K and then INNS in smaller capitals, closed with a full point. There are no leader labels, no panel letters, no engraved numbers and no scale bar anywhere in the illustration (the magnification × 3 is given in the caption), so the [FIGURE] block holds the signature and the caption and nothing else. The illustration is deliberately not described.
+
+Caption type: "FIG." small capitals, "Stephalia corona" italic, "Haeckel" roman; the second line is roman with "(Dundee specimen)" in round brackets and "× 3" using a saltire multiplication cross. The first caption line is centred and the second is a wider centred line.
+
+Italic in the body: "Sagamalia hinomaru", "Steleophysema aurophora", "Stephalia corona". Numerals verified digit by digit: FIG. 51, × 3, 1954, 1935, 450 metres, 1924b, 1925, 1911b, 1888b. Note the depth is given in words as "metres" here, not abbreviated "m" as on p. 92, and that Moser's two dates differ in suffix ("1924b" against plain "1925"), matching the synonymy on p. 92.
+
+Stray marks, all scanning blemishes: a faint tick in the top margin above the running head at the right, small specks in the right margin level with the upper part of the drawing and again level with "(Dundee specimen)", a short slanting fleck in the right margin just below the caption, a speck in the left margin level with the middle of the drawing, and a speck in the right margin near the foot. None is printed matter.]

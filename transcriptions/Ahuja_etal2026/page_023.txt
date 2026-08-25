@@ -1,0 +1,44 @@
+[PAGE 23]
+
+PLOS One
+
+49.	Lieberman-Aiden E, van Berkum NL, Williams L, Imakaev M, Ragoczy T, Telling A, et al. Comprehensive mapping of long-range interactions reveals folding principles of the human genome. Science. 2009;326(5950):289–93. https://doi.org/10.1126/science.1181369 PMID: 19815776
+50.	Durand NC, Robinson JT, Shamim MS, Machol I, Mesirov JP, Lander ES, et al. Juicebox Provides a Visualization System for Hi-C Contact Maps with Unlimited Zoom. Cell Syst. 2016;3(1):99–101. https://doi.org/10.1016/j.cels.2015.07.012 PMID: 27467250
+51.	Destanović D, Schultz DT, Styfhals R, Cruz F, Gómez-Garrido J, Gut M, et al. A chromosome-level reference genome for the common octopus, Octopus vulgaris (Cuvier, 1797). G3 (Bethesda). 2023;13. https://doi.org/10.1093/g3journal/jkad220
+52.	Zhang H, Song L, Wang X, Cheng H, Wang C, Meyer CA, et al. Fast alignment and preprocessing of chromatin profiles with Chromap. Nat Commun. 2021;12(1):6566. https://doi.org/10.1038/s41467-021-26865-w PMID: 34772935
+53.	Dudchenko O, Batra SS, Omer AD, Nyquist SK, Hoeger M, Durand NC, et al. De novo assembly of the Aedes aegypti genome using Hi-C yields chromosome-length scaffolds. Science. 2017;356(6333):92–5. https://doi.org/10.1126/science.aal3327 PMID: 28336562
+54.	Manni M, Berkeley MR, Seppey M, Simão FA, Zdobnov EM. BUSCO Update: Novel and Streamlined Workflows along with Broader and Deeper Phylogenetic Coverage for Scoring of Eukaryotic, Prokaryotic, and Viral Genomes. Mol Biol Evol. 2021;38(10):4647–54. https://doi.org/10.1093/molbev/msab199 PMID: 34320186
+55.	Manni M, Berkeley MR, Seppey M, Zdobnov EM. BUSCO: Assessing Genomic Data Quality and Beyond. Curr Protoc. 2021;1(12):e323. https://doi.org/10.1002/cpz1.323 PMID: 34936221
+56.	Hoff KJ, Stanke M. WebAUGUSTUS--a web service for training AUGUSTUS and predicting genes in eukaryotes. Nucleic Acids Res. 2013;41(Web Server issue):W123–8. https://doi.org/10.1093/nar/gkt418 PMID: 23700307
+57.	Korf I. Gene finding in novel genomes. BMC Bioinformatics. 2004;5:59. https://doi.org/10.1186/1471-2105-5-59 PMID: 15144565
+58.	Dobin A, Davis CA, Schlesinger F, Drenkow J, Zaleski C, Jha S, et al. STAR: ultrafast universal RNA-seq aligner. Bioinformatics. 2013;29(1):15–21. https://doi.org/10.1093/bioinformatics/bts635 PMID: 23104886
+59.	Cantarel BL, Korf I, Robb SMC, Parra G, Ross E, Moore B, et al. MAKER: an easy-to-use annotation pipeline designed for emerging model organism genomes. Genome Res. 2008;18(1):188–96. https://doi.org/10.1101/gr.6743907 PMID: 18025269
+60.	UniProt Consortium. UniProt: the universal protein knowledgebase in 2021. Nucleic Acids Res. 2021;49(D1):D480–9. https://doi.org/10.1093/nar/gkaa1100 PMID: 33237286
+61.	Altschul SF, Gish W, Miller W, Myers EW, Lipman DJ. Basic local alignment search tool. J Mol Biol. 1990;215(3):403–10. https://doi.org/10.1016/S0022-2836(05)80360-2 PMID: 2231712
+62.	Camacho C, Coulouris G, Avagyan V, Ma N, Papadopoulos J, Bealer K, et al. BLAST+: architecture and applications. BMC Bioinformatics. 2009;10:421. https://doi.org/10.1186/1471-2105-10-421 PMID: 20003500
+63.	Altschul SF, Madden TL, Schäffer AA, Zhang J, Zhang Z, Miller W, et al. Gapped BLAST and PSI-BLAST: a new generation of protein database search programs. Nucleic Acids Res. 1997;25(17):3389–402. https://doi.org/10.1093/nar/25.17.3389 PMID: 9254694
+64.	Chan PP, Lin BY, Mak AJ, Lowe TM. tRNAscan-SE 2.0: improved detection and functional classification of transfer RNA genes. Nucleic Acids Res. 2021;49(16):9077–96. https://doi.org/10.1093/nar/gkab688 PMID: 34417604
+65.	Cantalapiedra CP, Hernández-Plaza A, Letunic I, Bork P, Huerta-Cepas J. eggNOG-mapper v2: Functional Annotation, Orthology Assignments, and Domain Prediction at the Metagenomic Scale. Mol Biol Evol. 2021;38(12):5825–9. https://doi.org/10.1093/molbev/msab293 PMID: 34597405
+66.	Huerta-Cepas J, Szklarczyk D, Heller D, Hernández-Plaza A, Forslund SK, Cook H, et al. eggNOG 5.0: a hierarchical, functionally and phylogenetically annotated orthology resource based on 5090 organisms and 2502 viruses. Nucleic Acids Res. 2019;47(D1):D309–14. https://doi.org/10.1093/nar/gky1085 PMID: 30418610
+67.	Emms DM, Kelly S. OrthoFinder: phylogenetic orthology inference for comparative genomics. Genome Biol. 2019;20(1):238. https://doi.org/10.1186/s13059-019-1832-y PMID: 31727128
+68.	Emms DM, Kelly S. OrthoFinder: solving fundamental biases in whole genome comparisons dramatically improves orthogroup inference accuracy. Genome Biol. 2015;16(1):157. https://doi.org/10.1186/s13059-015-0721-2 PMID: 26243257
+69.	Zwarycz AS, Nossa CW, Putnam NH, Ryan JF. Timing and Scope of Genomic Expansion within Annelida: Evidence from Homeoboxes in the Genome of the Earthworm Eisenia fetida. Genome Biol Evol. 2015;8(1):271–81. https://doi.org/10.1093/gbe/evv243 PMID: 26659921
+70.	Steinworth BM, Martindale MQ, Ryan JF. Gene loss may have shaped the cnidarian and bilaterian hox and parahox complement. Genome Biol Evol. 2023. https://doi.org/10.1093/gbe/evac172
+71.	Khalturin K, Shinzato C, Khalturina M, Hamada M, Fujie M, Koyanagi R, et al. Medusozoan genomes inform the evolution of the jellyfish body plan. Nat Ecol Evol. 2019;3(5):811–22. https://doi.org/10.1038/s41559-019-0853-y PMID: 30988488
+72.	Katoh K, Standley DM. MAFFT multiple sequence alignment software version 7: improvements in performance and usability. Mol Biol Evol. 2013;30(4):772–80. https://doi.org/10.1093/molbev/mst010 PMID: 23329690
+73.	Capella-Gutiérrez S, Silla-Martínez JM, Gabaldón T. trimAl: a tool for automated alignment trimming in large-scale phylogenetic analyses. Bioinformatics. 2009;25(15):1972–3. https://doi.org/10.1093/bioinformatics/btp348 PMID: 19505945
+74.	Minh BQ, Schmidt HA, Chernomor O, Schrempf D, Woodhams MD, von Haeseler A, et al. IQ-TREE 2: New Models and Efficient Methods for Phylogenetic Inference in the Genomic Era. Mol Biol Evol. 2020;37(5):1530–4. https://doi.org/10.1093/molbev/msaa015 PMID: 32011700
+
+PLOS One | https://doi.org/10.1371/journal.pone.0351247	July 2, 2026	23 / 25
+
+[NOTE: born-digital PLOS One typescript. The whole page is reference list, entries 49.–74., continuing from p. 22 and continued overleaf. Each numbered entry is kept on one line, in printed order, with a tab between the number and the entry text. The lower fifth of the page is blank above the running foot.
+
+PAGE FURNITURE: the PLOS One masthead and pictorial device at the head, and the running foot "PLOS One | https://doi.org/10.1371/journal.pone.0351247   July 2, 2026" with the page-number line "23 / 25" at the right; the foot's three elements are separated by tabs above. Printed, and so transcribed. There is no Crossmark stamp on this page.
+
+URLs broken across printed lines with no hyphen (refs 54 "…10.1093/  molbev/msab199", 55 "https://doi.  org/10.1002/cpz1.323", 60 "…10.1093/nar/  gkaa1100", 61 "…10.1016/  S0022-2836(05)80360-2", 66 "…10.1093/  nar/gky1085", 67 "https://doi.  org/10.1186/s13059-019-1832-y") are joined as printed. End-of-line soft hyphens removed on joining in refs 52 ("Com-mun."), 59 ("organ-ism"), 66 ("phylogeneti-cally"), 73 ("Bioinfor-matics") and 74 ("Phy-logenetic").
+
+Ref 56 is printed with a double hyphen, "WebAUGUSTUS--a web service", and with no space in "2013;41(Web Server issue)"; both retained as printed.
+
+Diacritics as printed: Gómez-Garrido, Simão, Schäffer, Hernández-Plaza, Gutiérrez, Martínez, Gabaldón. Ref 73's tool name is printed "trimAl".
+
+Bold is used for the reference numbers; italics for taxon names, "De novo" in ref 53's title and "Eisenia fetida" in ref 69. Bold and italics are not marked. DOIs and PMIDs are printed as blue underlined hyperlinks; colour is not marked.]

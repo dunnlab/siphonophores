@@ -1,0 +1,46 @@
+[PAGE 6]
+[RUNNING HEAD] 6	A SYNOPSIS OF THE SIPHONOPHORA
+
+[TABLE]
+TABLE I continued
+Modern names	Huxley's names
+A. Calycophorae
+Chelophyes appendiculata (Esch.)	Diphyes appendiculata
+Eudoxoides mitra (Huxley)	Diphyes mitra; Eudoxoides sagittata
+Muggiaea kochi (Will)	Diphyes kochii
+Abylopsis tetragona (Otto)	Abyla pentagona
+A. eschscholtzi (Huxley)	Aglaismoides eschscholtzii. A. elongata
+Bassia bassensis (Huxley)	Abyla bassensis, Sphenoides australis
+Enneagonum hyalinum (Q. & G.)	Abyla vogtii, Cuboides vitreus, Enneagonoides quoyi
+Abyla sp.	Abyla trigona
+Abyla sp.	Amphiroa alata Lesueur
+Abyla ? sp.	Amphiroa angulata sp.n.
+Ceratocymba leuckarti (Huxley)	Abyla leuckartii
+Sphaeronectes gracilis (Claus)	Sphaeronectes köllikeri gen. n., sp.n.
+Rosacea cymbiformis (Chiaje)	Praya diphyes?
+Hippopodius hippopus* (Forskål)	Hippopodius gleba*
+Vogtia pentacantha* (Kölliker)	Vogtia pentacantha*
+Sulculeolaria sp.	Galeolaria filiformis†
+
+B. Physonectae
+Apolemia uvaria (Lesueur)	Stephanomia amphitridis†
+Halistemma rubrum (Huxley)	Halistemma rubrum
+Forskalia edwardsi* (Kölliker)	Forskalia edwardsii*
+Agalma okeni (Esch.)	Agalma breve sp.n.
+Physophora hydrostatica (Forskål)	Physophora (sp. ?)
+Athorybia rosacea (Forskål)	Athorybia rosacea
+
+C. Cystonectae
+Rhizophysa eysenhardti Gegenbaur	Rhizophysa filiformis
+Physalia physalis (L.)	Physalia utriculus (Esch).
+[/TABLE]
+
+[FOOTNOTE] † I have not identified Huxley's Galeolaria filiformis (posterior nectophore of Sulculeolaria sp.), nor his Stephanomia amphitridis (the siphosome only of a physonect). * Species not seen by Huxley.
+
+This famous Ray Society monograph closes with Huxley's remarks on doubtful genera and species; a note on the terminology of hydrozoan organs; a bibliography; and twelve plates and their descriptions.
+
+HAECKEL
+
+It is a difficult task even for a specialist to sort out Haeckel's muddled classification, contained in his report (1888b) on the Siphonophora of the 'Challenger' Expedition, but this must be done before any discussion of his views on the morphology of the group can be appreciated. The difficulty is further enhanced by the fact that, as Lens & van Riemsdijk (1908) have already pointed out, 'of the Challenger siphonophores the British Museum contains no remnants other than a certain number of specimens of Rhodalia miranda Hkl. Of all the other species described in Haeckel's bulky volume – also of his own private collection – no traces are left'. Bigelow (1911b) went so far as to say (p. 176) 'Haeckel's monograph . . . with many new species beautifully figured but none of them critically studied from the systematic standpoint, cannot be used as a manual of the group'.
+
+Haeckel divided the Siphonophora into four orders: Calyconectae, Physonectae, Cystonectae and Auronectae. The last of these was shown by Lens & van Riemsdijk (1908) and by Bigelow (1911b) to be a family of Physonectae. The following analysis of his classification of the Calycophorae may serve to illustrate the difficulties of working with Haeckel's system:

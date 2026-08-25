@@ -1,0 +1,35 @@
+[PAGE 74]
+[RUNNING HEAD] 74	A SYNOPSIS OF THE SIPHONOPHORA
+
+taken by 'Discovery II', the rest of the tentacles having been torn away, probably through their attachment to nets or trawls. The third 'Discovery' specimen was fortunately accompanied by twenty-seven large detached nectophores. This lucky chance has made it possible to prepare a description of a reconstruction.
+
+Fragmentary specimens were recorded by Bigelow (1911b) from the Galapagos Islands, and by Moser (1925), in the Gulf of Gascony (Bay of Biscay).
+
+In April 1963, M. Gostan brought back to the Station Zoologique at Villefranche from a cruise between Monaco and Corsica a small piece of a pink tentacle that one of his companions suggested might be part of a siphonophore and that came up with one of his water-samples. Having examined it and discovered its identity I obtained the information from him that these specimens were constantly found but were regarded as merely a nuisance. So the species is evidently common in the Mediterranean, though efforts to find specimens in the spring of 1964 were unsuccessful.
+
+Erenna richardi Bedot, 1904
+Plate XIV, figures 10, 11
+
+Erenna bedoti Lens & Riemsdijk, 1908
+
+This rare siphonophore, an outline of the steps in the discovery of which has been given under the genus, has a quantity of black pigment in its endoderm, probably derived from feeding on pigmented, deep-sea fish.
+
+Two specimens were taken by R.R.S. 'Discovery II' on August 21/22, 1959, in a 2 m, closing, young-fish trawl, fished at 1,200 m at Station 4230 (12° 30'W, 40° 09' 30"N). On September 23, 1959, one larger and more complete animal was taken at Station 4255 in the Isaac Kidd mid-water trawl fished at 1,000 m for 2½ hours from 36° 31'N, 11° 24'W to 36° 22'N, 11° 15' 30"W.
+
+A fragmentary specimen of a siphosome accompanied by three detached nectophores was taken in May 1937 by 'Discovery II' at Station 2061 at a depth of from 1,900–1,500 m.
+
+The species probably occurs in Californian waters too. Dr. Ahlstrom of La Jolla has taken some thin nectophores with unlooped, pigmented lateral canals which appear to belong to this species; and Dr. William Beebe took nectophores of this type in deep water off Bermuda. Lens & van Riemsdijk figured (1908, Pl. XI, fig. 87) a young nectophore.
+
+Nectophores (text-figs 38, 39):   There is a muscle-free strip of the nectosac above and below the proximal, adcauline part of the unlooped pigmented lateral radial canals, and there may be a long, fine 'horn' canal at the outer end of this part. Nectophores measure up to 32 mm × 25 mm × 2 mm.
+
+Bracts:   Elongated, up to 20 mm length, 3 mm broad and 1 mm thick, with a pair of short, hook-like processes 7 mm from the proximal end, and another pair at a distance of 3 mm from the distal end. Bracts commonly measure 12 mm × 4·5 mm. A characteristic feature is a terminal sphere of tissue containing nematocysts. The muscular lamella is attached to most of the length of the bract. The bracteal canal runs close to the adaxial surface except for the terminal 1 mm, which leaves the surface. The bracts are arranged in four rows on either side and five or six to a row in each cormidium.
+
+Monotypic genus for P. vanhoeffeni Moser, 1925.
+
+Nematocysts:   Two egg-shaped nematocysts that had been discharged from one of the terminal batteries of a bract measured 70μ × 23μ. The thread appeared to be ridged, but no spines could be seen with a ⅙ inch objective.
+
+Tentacles:   Leloup (1936) reported that 'Princesse Alice II' took a tentacle 18 cm long on a 'palencre' (a long line) coming up from a depth of 2,032 m in the region of the Canaries, and numerous fragments also on a cable that had been down to 2,000 m in the Gulf of Gascony.
+
+Through the courtesy of M. Testa of the Institut Océanographique, Monaco, I have been able to re-examine both Bedot's (1904) original material and also that recorded by Leloup (1936). The
+
+[NOTE: printed folio 74 at the outer (left) edge of the running head; PDF index 79, offset −5 holds. This page carries no figures. One line of printed type in the middle of the page — "Monotypic genus for P. vanhoeffeni Moser, 1925." — is cancelled by a single heavy wavy stroke drawn through it in ink. The stroke tapers and is unmistakably hand-drawn, not a printed rule; the printed line itself is set in the same type as the surrounding text, between the end of the Bracts paragraph and the start of the Nematocysts paragraph, where it does not belong (it names a genus not under discussion here). The printed words are transcribed above; the italic epithet is partly buried under the stroke but reads as "vanhoeffeni" at 14× magnification. The trailing full stop is followed by a small ink flourish. Numerals in this page's station data were read digit by digit at 3× magnification: Station 4230 (12° 30'W, 40° 09' 30"N), Station 4255, Station 2061, 1,200 m, 1,000 m, 1,900–1,500 m, 2,032 m, 2,000 m, and the co-ordinates 36° 31'N, 11° 24'W to 36° 22'N, 11° 15' 30"W. Note that in the Station 4230 parenthesis the longitude is printed before the latitude; transcribed in the printed order. The degree signs are printed with a space on either side, the minute and second marks as prime and double prime with no space before the hemisphere letter. Two stacked vulgar fractions occur, "2½ hours" and "⅙ inch objective"; they are printed as one-over-two and one-over-six with a horizontal rule and are represented here by the Unicode fraction characters ½ and ⅙. The micron symbol in "70μ × 23μ" is printed as a Greek mu set close up against the figure. "×" throughout is a printed multiplication sign. "Nectophores (text-figs 38, 39)" is printed "text-figs" with no point after "figs". Decimal point in 4·5 is a raised middot. No printed square brackets occur on this page; the only square brackets above are this note's own.]

@@ -1,0 +1,33 @@
+[PAGE 216]
+
+216	[RUNNING HEAD] A SYNOPSIS OF THE SIPHONOPHORA
+
+Sub-family ii: ABYLOPSINAE Totton, 1954
+
+This sub-family contains four species belonging to the genera Abylopsis, Enneagonum and Bassia. Enneagonum has only one species, like Bassia, and in it no posterior nectophore is ever developed. On this account it used to be included in another family. But its affinities with Abylopsis spp. were pointed out thirty years ago by Totton (1932). In these three genera the anterior nectophore has no apical facet but a ridge, formed by the junction of two lateral facets. The most characteristic feature in which the polygastric phase of abylopsines differs from that of abylines is the way in which anterior and posterior nectophores articulate with one another. In abylines the posterior nectophore, after issuing from the tunnel-like hydroecium, hangs below or follows after with its long axis in line with the long axis of the hydroecium and nectosac of the anterior nectophore. But in abylopsines these two long axes of the anterior and posterior nectophores form an angle of about 45° to each other (cf. Totton, 1954, text-figs. 73A and 82). As a consequence, when the animal is swimming horizontally, the dorsal facet of the anterior nectophore of abylines is on the underside; whilst in abylopsines it is nearly vertical, and the apical end of the posterior nectophore (excluding the pedicel or apophysis, which lies in the hydroecium) articulates with almost the whole of the ventral facet of the anterior nectophore. In abylines this ventral facet, which lies uppermost during horizontal progression, ends, as a rule, in a posterior tooth which hooks over the dorsal facet of the posterior nectophore. The ridge, which in abylines separates the dorso-lateral and ventro-lateral facets of the anterior nectophore, is represented in abylopsines by an elongated homologue the 'horizontal ridge'. Having no longitudinal lateral ridge to join onto, as in abylines, this horizontal ridge is produced till it meets the lateral margins or ridges of the dorsal facet. Anterior nectophores of abylopsines have no apical facets. Instead the apices of the pentagonal dorsal and ventral facets are joined together by a ridge. The dorsal facet itself in Abylopsis and Bassia is shaped as in Ceratocymba dentata and C. sagittata. But in Enneagonum it bears a ridge as in the Diphyinae. The posterior nectophore, in those abylopsine species where one is developed differs from those of Abylines in having a flap on the inner side of both right and left ventro-lateral ridges or wings.
+
+The abylopsine eudoxid phase also differs from that of abylines, so that the division of abylids into two sub-families seems to be a natural one. I have already (1932) pointed to the affinities between Enneagonum and the other three abylopsines.
+
+Genus: ABYLOPSIS Chun, 1888
+
+Type species: Abylopsis tetragona (Otto, 1823).
+
+It was Chun who substituted the present name Abylopsis for the old one Calpe (preocc. Lepidoptera).
+
+The somatocyst of the anterior nectophore extends well over to the ventral side of the hydroecium, whose lower walls are extended beyond both ventral and basal facets. The apical part of the nectosac extends well up between the somatocyst and the dorsal facet. The dorsal facet is flat and bears no median ridge. A posterior nectophore is produced. In the bract of the eudoxid the phyllocyst has well developed ventro-lateral branches. There is a rectangular apical bracteal facet.
+
+Abylopsis tetragona (Otto, 1823)
+Plate XL, figures 1, 3
+
+For synonymy see Bigelow, 1911b, page 224
+
+One of the very abundant and well-known 'Diphyids'.
+
+Complete specimens of the polygastric phase of this species can be readily recognized by the
+
+[NOTE: the sub-family number in "Sub-family ii: ABYLOPSINAE" is a lower-case roman ii, as
+printed. There are no printed square brackets on this page. In "for the old one Calpe" a small
+stray ink flick sits above the final e of "one", giving it the look of a grave accent; it is a
+printing blemish, and the word is printed "one". The last line of the page, "Complete specimens
+of the polygastric phase of this species can be readily recognized by the", is over-inked and
+appears bolder than the rest of the type.]

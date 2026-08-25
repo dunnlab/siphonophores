@@ -1,0 +1,64 @@
+[PAGE 3]
+
+PLOS One
+
+[FIGURE]
+A
+
+B
+
+Haplotype 1	Haplotype 2
+
+Chromosome	1	2	3	4	5	6	7	8	1	2	3	4	5	6	7	8
+
+MB
+286
+220
+220
+229
+214
+198
+191
+176
+
+Haplotype 1
+
+277
+228
+228
+224
+212
+201
+194
+177
+
+Haplotype 2
+
+C
+
+5 µm
+
+Fig 1. Genome of Nanomia septata. A. Nanomia septata. Scale bar is 1 cm. Photo credit to C. Munro. B. Omni-C Heatmap of genome assembly. Haplotype 1 is on the upper left, and haplotype 2 is on the lower right with the upper right and lower left squares representing the overlap between both haplotypes. Each chromosome is numbered 1–8 for each haplotype along the top row. Numbers on the left side give the approximate length of each chromosome in MB. C. Nanomia septata karyotype showing 2n = 16. A stained nucleus is present in the bottom left.
+
+https://doi.org/10.1371/journal.pone.0351247.g001
+[/FIGURE]
+
+animal colonies? Have key gene families involved in zooid development expanded within siphonophore genomes? Are zooid specific genes expressed together in the spatial landscape of the genome? To understand how functional specialization has evolved, it is imperative to understand more about genome biology within siphonophores.
+
+Of particular interest within the genome study of siphonophores is Nanomia since Nanomia septata had an estimated genome size around 1.4 GB, larger than typical of other cnidarians but within the range of siphonophore genome sizes, while Nanomia bijuga has a much smaller genome of only about 0.7 GB [21]. This previous work found that the Nanomia septata genome is about 63% repetitive [21], partially explaining the large size, though the types of repeats present were unknown. The genome differences between these two Nanomia species offer an opportunity to expand our understanding of population differences and diversity at the genomic level.
+
+Only two species of Nanomia, Nanomia bijuga globally and Nanomia cara in the North Atlantic, were recognized as valid for most of the past century [22]. A new study based on morphology and sequences of two mitochondrial genes made critical progress toward understanding global Nanomia diversity [7]. It presented strong support for a distinct species in the North Pacific, which the authors describe as Nanomia septata [2, 7]. Before 2024, all specimens of Nanomia septata had been referred to as Nanomia bijuga in the literature (though not all specimens referred to as Nanomia bijuga are Nanomia septata). This previous study also found several Nanomia specimens that are likely from additional undescribed species [7]. Newer and improved methods and tools are well suited to advancing our rapidly changing picture of diversity of open ocean animal systems, including on Nanomia. Questions on genome biology and diversity are critical to using Nanomia as a model organism for the study of siphonophore biology, specifically those that address the evolution of zooid specialization and development, as well as addressing general questions of broad interest about the structure of animals in the open ocean.
+
+PLOS One | https://doi.org/10.1371/journal.pone.0351247	July 2, 2026	3 / 25
+
+[NOTE: Single-column page. Fig 1 occupies the upper half; the body text below is the continuation of the Introduction from page 2, beginning mid-sentence ("...distinct bodies within" / "animal colonies?").
+
+Inside [FIGURE] only text physically printed on the page is given: the panel letters A, B and C, the axis lettering of panel B (the two "Haplotype 1"/"Haplotype 2" column headings, the row label "Chromosome" with the numerals 1-8 twice, the "MB" heading and the sixteen chromosome-length numerals down the left side, and the two rotated y-axis labels "Haplotype 1" and "Haplotype 2"), the "5 µm" scale-bar label in panel C, and the printed caption and figure DOI. Column and row lettering is separated by tabs. No description of the images is given.
+
+The two rotated labels are printed running bottom-to-top at the left edge of panel B, "Haplotype 1" beside the upper eight numerals and "Haplotype 2" beside the lower eight; they are placed after their respective number runs above. The left-hand numerals as printed, in order: 286, 220, 220, 229, 214, 198, 191, 176 (upper block), then 277, 228, 228, 224, 212, 201, 194, 177 (lower block) - "220" is printed twice in a row in the upper block and "228" twice in a row in the lower block, and both repetitions are as printed.
+
+PAGE FURNITURE: the PLOS One masthead and pictorial device at the head, and the running foot "PLOS One | https://doi.org/10.1371/journal.pone.0351247   July 2, 2026" with the page-number line "3 / 25" at the right; the foot's three elements are separated by tabs above. Printed, and so transcribed. There is no Crossmark stamp on this page.
+
+Words broken across a printed line by a soft hyphen have been joined and the hyphen removed, per the protocol: "specialization" (printed "special-" / "ization"), "species" (printed "spe-" / "cies"), "undescribed" (printed "unde-" / "scribed"). The hyphen inside "Omni-C" is real and is kept; "1-8" in the caption is printed with an en dash, "1–8".
+
+Reference-number citations are printed as bracketed numerals in a blue hyperlink colour, e.g. "[21]", "[22]", "[7]", "[2, 7]"; colour is not marked. The figure DOI line is printed as a blue underlined hyperlink. In the caption, "2n = 16" is printed with thin spaces either side of the equals sign, rendered here as ordinary spaces. Genus and species names are printed in italic, and the caption's "Fig 1." and "Genome of Nanomia septata." are printed bold; italics and bold are not marked. Diacritics: only the "µ" of "5 µm".]

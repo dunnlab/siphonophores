@@ -1,0 +1,13 @@
+[PAGE 256]
+
+[NOTE: Fraktur throughout except the Latin genus name "Abyla" and the author name "(Claus)", which are set in roman. Long-s rendered as plain `s`. Line-end hyphens (Fraktur double hyphen) closed up. Letter-spaced (gesperrt) emphasis is not reproduced. No footnote on this page. Clean 600 dpi bitonal scan; the right edge is trimmed close but nothing is lost.]
+
+[NOTE: the printing is inconsistent about the umlaut in "äußer-": "die äußere Haut" and "der äußeren und inneren Haut" carry it, but "eine Verdickung der außeren Haut" and "des spateren Schwimmsacks" are set without it. Both are transcribed as printed. The word "spateren" is broken at the line end as "spa-" and its "a" plainly has no umlaut, while "später" three words later does.]
+
+— 256 —
+
+Die Entwicklung der Schwimmstücke haben wir bei allen uns vorgekommenen Siphonophoren, mit Ausnahme von Abyla wo wir es versäumten, beobachtet und sie überall dieselbe gefunden. An der einfach kolbenförmigen aus jenen zwei Bildungshäuten bestehenden Knospe, verdickt sich die äußere Haut an der Spitze und treibt so die innere zu einer Rückeinstülpung vor sich her, bis vom früheren centralen Hohlraum nur ein ringförmiger Raum übrig bleibt, der aber endlich bis auf das Ringgefäß und die vier Radiärkanäle ausgefüllt wird. Im „Knospenkern“ (Claus) der also eine Verdickung der außeren Haut ist, bildet sich nun der Hohlraum des spateren Schwimmsacks und von ihm existirt später nichts mehr, als die Epithelauskleidung dieses. Zwischen der äußeren und inneren Haut am Umfang des Schwimmstücks beginnt sich nun die structurlose Zwischensubstanz abzulagern und überwiegt bald die Masse der äußeren und inneren Haut von deren ersterer am reifen Schwimmstück nur die Epithelbekleidung noch gebildet wird, während die Wände des Gefäßsystems und die Muskulatur des Schwimmsacks von der inneren Haut zusammengesetzt werden.
+
+Der Bau und die Entwicklung der Deckstücke ist ganz wie bei den Schwimmstücken, nur mit den daraus entspringenden Veränderungen, daß bei ihnen keine Schwimmhöhle gebildet wird.
+
+Die drei Abtheilungen der Polypen, Basalstück, Magen Rüssel, werden durch das verschiedene Massenverhältniß der äußeren und inneren Haut charakterisirt. Am Basalstück verdickt sich die äußere Haut gewaltig und in ihren Zellen entstehen viele große Nesselkapseln, die aber nie zur Reife gelangen. An der Uebergangsstelle des Basalstücks in

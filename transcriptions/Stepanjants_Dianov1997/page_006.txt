@@ -1,0 +1,53 @@
+[PAGE 159]
+
+[NOTE: scanned page: four lines of Russian text at the head, then two framed
+screen plots, Fig. 5 and Fig. 6, which between them fill the rest of the page.
+Both are in the coarse bitmap face of the visualisation program; their numerals
+are thickened by the scan and the white-on-black scale bar under Fig. 5 is almost
+entirely destroyed.]
+
+грамма на рис. 5 показывает, что опасения оправданы – на ней показано распределение количества половых фрагментов по широте и долготе (на географической карте). Необходимо заметить, что такой вывод не потребовал каких-либо вычислений.
+
+[FIGURE]
+[NOTE: Fig. 5 — a framed screen plot of the Japan Sea. Title bar at the head, a
+latitude axis down the left, a longitude axis along the foot, a black scale bar
+below that, and four solid square markers in the field (one at about 47.5°N /
+138°E, the others in a row at about 42.5°N between 130° and 132°E). Lettering in
+reading order: title, y-axis labels top to bottom, x-axis labels left to right,
+then the scale bar.]
+
+ALL OF GENERATIVE FRAGMENTS DISTRIBUTION ON JAPAN SEA MAP
+
+48.00°	46.00°	44.00°	42.00°	40.00°	38.00°
+
+130.00°	132.00°	134.00°	136.00°	138.00°	140.00°
+
+12	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]	[illegible]
+
+[NOTE: the scale bar carries nine numerals set white on black; only the first,
+12, can be read, and even that is uncertain in its second digit. The label 38.00°
+sits at the left-hand end of the foot, level with the longitude labels, and is the
+lowest latitude tick.]
+
+Рис. 5. Распределение количества генеративных фрагментов D.arctica в Японском море.
+Distribution of D.arctica generative fragments on Japan Sea map.
+[/FIGURE]
+
+[FIGURE]
+[NOTE: Fig. 6 — a framed screen plot, a horizontal bar chart with the depth scale
+down the left and no numbered scale along the foot. Twenty-one depth labels, each
+against a bar or a blank; the longest bars stand at 400 and at 800. Lettering in
+reading order: title, then the depth labels top to bottom.]
+
+ALL OF GENERATIVE FRAGMENTS DISTRIBUTION ON DEPTH
+
+0	100	200	300	400	500	600	700	800	900	1000	1100	1200	1300	1400	1500	1600	1700	1800	1900	2000
+
+[NOTE: the depth numerals are inked over in this scan and the trailing zeros are
+merged; the sequence is read from the leading digits and the even spacing.]
+
+Рис. 6 . Распределение количества генеративных фрагментов D.arctica по глубине.
+Distribution of D.arctica generative fragments on depth.
+[/FIGURE]
+
+159

@@ -1,0 +1,46 @@
+[PAGE 153]
+
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 12 DIPHYIDAE	153
+
+antarctica. There is reason to believe that the anterior nectophore in these species is the larval one retained.
+
+The anterior nectophore is five-ridged. Except in the isolated antarctic species, where the dorsal tooth is obscured, there are three conspicuous teeth round the ostium. The mouth-plate is undivided and the hydroecium deep. A posterior nectophore is produced except in D. chamissonis. There is a rete mirabile at the velar ends of all four radial canals of the anterior nectophores of dispar, bojani and chamissonis. It is found in a simpler form also in antarctica.
+
+Polygastric phase
+
+Species in which the large pentagonal anterior nectophore has a complete dorsal ridge extending from apex to ostium, three large ostial teeth and undivided mouth-plate with slightly prominent baso-lateral angles. Hydroecium deep. The lateral radial canals of the posterior nectophore, where developed, form an apical loop.
+
+Haeckel (1888b, p. 152) purported to select what is now known as Chelophyes appendiculata as the type species. This is ultra vires since Diphyes Cuvier was monotypic.
+
+Eudoxid phase
+
+Details are given in the specific descriptions.
+
+Diphyes dispar Chamisso & Eysenhardt, 1821
+Plate XXXIII, figure 3
+
+For synonymy see Moser, 1925, pp. 170–171. The following corrections and amendments should be made to her synonymy "Kolonie":
+Diphyopsis compressa Haeckel, 1888, [read] p. 153
+Doramasia picta Chun, 1892, [read] p. 91–8 T.VIII F.3, T.IX F.5 Canaren
+Eudoxie:
+Eudoxia lessonii Eschscholtz, 1829 [omit: ? = Dimophyes arctica]
+Cucullus doreyanus Blainville, 1834, p. 131 [omit figure reference]
+Ersaea lessoni Mayer, 1900, p. 75 T.XXVIII [read] F.96, 97 ..."
+
+The principal figures of the whole of this well-known animal, the first Calycophoran siphonophore to be described and figured, are those of Eschscholtz (1829, Taf. XII, fig. 6); Huxley (1859, Pl. 1, fig. 1); Haeckel (1888b, Pl. XXXIII, fig. 1); Lens & van Riemsdijk (1908, Pl. VIII, fig. 63) and Kawamura (1915, Pl. XII, fig. 21).
+
+Moser (1925) dealt with this species at very great length, but her theorizing has been judged to be unsound. Huxley gave the early history of the species, first described and figured by Bory de St. Vincent (1804). Since this is the species on which Cuvier founded his genus Diphyes, and since Bory's description is difficult to understand until one realizes that, as Huxley pointed out, Bory regarded the anterior nectophore as the posterior, I give a translation of part of Bory's description with an explanatory gloss in square brackets.
+
+'. . . The anterior part [posterior nectophore] shows five projecting angles [ostial teeth] the dorsal side being carinate, the lower [ventral] on the contrary is furrowed. One recognizes in this part [posterior nectophore] two longitudinal cavities; from the upper one [hydroecium] emerges an artefact thread [a stem], often very long and rarely complete; it carries, when present, a mass of small bodies [gastrozooids, etc.] which resemble the pedicellate glands of many plants. The posterior part [anterior nectophore] is constricted at its extremity [apex] and has some similarities with the shape of a lancet; the upper [ventral] side, which is flat, is one-and-a-half lines thick. In this thick part is found an internal cavity [hydroecium], into which enters a sort of spur (pedicel of posterior nectophore) which terminates the anterior part [posterior nectophore]; and here is the only apparent union of the
+
+11
+
+[NOTE: printed square brackets are the author's own throughout this page and are not transcriber markers. They occur seventeen times. Five are in the synonymy block: "[read] p. 153" after "Haeckel, 1888,"; "[read] p. 91–8" after "Chun, 1892,"; "[omit: ? = Dimophyes arctica]" after "Eschscholtz, 1829"; "[omit figure reference]" after "p. 131"; and "[read] F.96, 97" in the Ersaea lessoni line. Twelve are the editorial glosses in the translation of Bory in the last paragraph, which Totton announces in the preceding sentence as "an explanatory gloss in square brackets": [posterior nectophore], [ostial teeth], [ventral], [posterior nectophore], [hydroecium], [a stem], [gastrozooids, etc.], [anterior nectophore], [apex], [ventral], [hydroecium], [posterior nectophore]. All are transcribed exactly as printed, and nothing inside them is mine.]
+
+[NOTE: the "11" on the last line of the page, at the foot in the outer left position, is a printer's signature mark, not a folio. The folio of this page is 153, printed at the head with the running head.]
+
+[NOTE: numerals verified digit by digit: FAMILY 12 DIPHYIDAE, 153; Haeckel (1888b, p. 152); Chamisso & Eysenhardt, 1821; Plate XXXIII, figure 3; Moser, 1925, pp. 170–171; Haeckel, 1888, [read] p. 153; Chun, 1892, [read] p. 91–8 T.VIII F.3, T.IX F.5; Eschscholtz, 1829; Blainville, 1834, p. 131; Mayer, 1900, p. 75 T.XXVIII [read] F.96, 97; Eschscholtz (1829, Taf. XII, fig. 6); Huxley (1859, Pl. 1, fig. 1); Haeckel (1888b, Pl. XXXIII, fig. 1); Lens & van Riemsdijk (1908, Pl. VIII, fig. 63); Kawamura (1915, Pl. XII, fig. 21); Moser (1925); Bory de St. Vincent (1804). "p. 91–8" is an elided range as printed. In "Huxley (1859, Pl. 1, fig. 1)" both numerals are 1, checked at 4x.]
+
+[NOTE: "T.VIII F.3", "T.IX F.5", "T.XXVIII" and "F.96, 97" are printed with no space after the stop, as given. The "?" and the "=" in "[omit: ? = Dimophyes arctica]" are as printed, the equals sign being two short parallel rules. The ellipsis after "F.96, 97" is three spaced full points, and is followed immediately by a closing double quotation mark, which closes the quotation opened at "Kolonie". The opening quotation mark of the Bory translation is a single one, followed by a spaced three-point ellipsis.]
+
+[NOTE: the species heading is bold italic with the authority in roman; the synonymy block is set in smaller type, the taxon names italic, and is indented in stages — "For synonymy" flush, "Kolonie" and "Eudoxie:" at one indent, the five taxon lines at a deeper indent. Line breaks within the synonymy block are preserved. "see" in "For synonymy see Moser" is italic. "Calycophoran", "Kolonie" and "Eudoxie" are capitalised as printed. "artefact thread" is as printed.]

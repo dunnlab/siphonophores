@@ -1,0 +1,32 @@
+[PAGE 90]
+[RUNNING HEAD] 90	A SYNOPSIS OF THE SIPHONOPHORA
+
+Gastrozooids and tentacles:   Of the usual agalmid type, with thick walled basigasters, alternating radially with the lamellae. Bigelow counted eight gastrozooids. Tentilla tricornuate and involucrate. The cnidoband has seven or eight coils. The involucre may cover them or become contracted down to the base in preserved specimens.
+
+Gonodendra:   Both male and female on same specimen in pairs, each pair alternating radially with the gastrozooids. The detailed structure is not yet understood.
+
+Palpons:   There is a ring of nine palpons in the post-larva. Presumably these give rise to gonodendra.
+
+[FIGURE]
+FIG. 49.   Melophysa melo Q. & G.
+Whole animal, × 7, with only one bract retained. The large nectophore has become twisted upside down (after Bigelow, 1931).
+[/FIGURE]
+
+Nectophores (text-fig. 50):   Probably only one functional at one time. They appear to be either rather primitive or reduced, somewhat flattened from above downwards, with a lateral ridge on each side and three longitudinal ridges on the upper side, best marked at the ostial end. There is a distinct pedicel as in agalmid buds of nectophores. The lateral radial canals form a loop on to the under side at mid-length. The dorsal radial canal is sinuous. In Bigelow's (1931) figure 217 the nectophore in my view has become twisted through 180° judging by the position of the ventral loop of the lateral radial canal, and the lateral ridges are somewhat contorted.
+
+Very little material of this species has been reported in recent years. For this reason two additional records of identification of 'Discovery' specimens taken in the Peru Coastal Current (or Humboldt Current) are given here:
+
+'William Scoresby' St. 707, 05° 37·5'S, 84° 31·5'W.
+'William Scoresby' St. 713, 04° 20'S, 81° 37'W.
+
+[NOTE: printed folio 90 at the outer (left) edge of the running head; PDF index 95, offset −5 holds. No printed square brackets occur on this page.
+
+Layout: text-fig. 49 occupies the whole middle third of the page, set full measure between the "Palpons:" paragraph and the "Nectophores" paragraph, with its caption centred below the drawing in a narrow measure. The page is single-column throughout. It ends with the two station records and about a tenth of the page blank below; there is no signature mark on this page (the "7" was on p. 89 opposite).
+
+The drawing carries no lettering whatever — no leader labels, no panel letters, no scale bar and no engraved numbers — checked over the whole illustration at 1.6× and 2×. The [FIGURE] block therefore holds only the printed caption, and the illustration is deliberately not described. In the caption "FIG." is small capitals, "Melophysa melo" is italic, and the authority is abbreviated to roman "Q. & G." for Quoy & Gaimard; the magnification "× 7" uses a saltire multiplication cross. The caption is set in smaller type than the body, with the first line centred and the following three lines flush left in a block narrower than the text measure.
+
+The two station lines are indented from the left margin and are transcribed one to a line as printed. Their numerals were read digit by digit at 5× magnification: St. 707 at 05° 37·5'S, 84° 31·5'W, and St. 713 at 04° 20'S, 81° 37'W. Note the leading zeros in the latitudes ("05°", "04°"), that the minutes on the first line carry decimal halves written with raised middle dots ("37·5", "31·5") while those on the second line are whole ("20", "37"), and that the minutes symbol is a single prime set close up against the hemisphere letter with no space ("37·5'S"). The degree symbols are separated from the figures by a thin space. In "twisted through 180°" the degree sign likewise follows a thin space.
+
+Italic in the body: the side-headings "Gastrozooids and tentacles:", "Gonodendra:", "Palpons:", "Nectophores". Single curly quotes enclose 'Discovery' and both occurrences of 'William Scoresby'; the ship names are roman inside the quotes, not italic. Numerals verified digit by digit: FIG. 49, × 7, 1931, text-fig. 50, 1931, figure 217, 180°, 707, 05, 37·5, 84, 31·5, 713, 04, 20, 81, 37.
+
+Stray marks, all scanning blemishes: specks in the white space just below the "Palpons" paragraph (two, near the centre of the page), single specks in the right margin level with the upper part of the figure and again level with "records of identification of 'Discovery'", a speck in the left margin level with the figure and another level with "my view has become twisted", and a fleck below the last station line. None is printed matter.]

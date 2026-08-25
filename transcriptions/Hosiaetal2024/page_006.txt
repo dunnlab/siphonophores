@@ -1,0 +1,141 @@
+[PAGE 06]
+[RUNNING HEAD] Hosia et al.	10.3389/fmars.2024.1421514
+
+[FIGURE]
+bPTP based on COI
+ASAP based on COI
+COI (ML)
+16S (ML)
+bPTP based on 16S
+ASAP based on 16S
+Nanomia septata sp. n.
+North Pacific
+(Specimens 1-25 in Table S1)
+98
+99
+54
+31
+100
+Nanomia sp.1
+Japan (32-34)
+99
+98
+100
+Nanomia bijuga
+86
+98
+warm circumglobal
+96
+(Specimens 35-49
+91
+in Table S1)
+100
+Nanomia sp.2
+100
+China (Specimens 54-60 in Table S1)
+89
+100
+Nanomia cara
+North Atlantic
+99
+100
+(Specimens 61-94 in Table S1)
+84
+92
+47
+58
+98
+Agalma elegans
+100
+Agalma elegans
+64
+Athorybia rosacea
+Athorybia rosacea
+69
+58
+Agalma okeni
+54
+Halistemma rubrum
+30
+Agalma clausi
+67
+Marrus orthocanna
+Physophora hydrostatica
+Halistemma rubrum
+Apolemia rubriversa
+Physophora hydrostatica
+0.04
+Marrus orthocanna
+Apolemia rubriversa
+COI (Bayesian)
+1
+Nanomia septata sp. n.
+0.04
+0.6
+1
+Nanomia sp.1 (Japan)
+1
+1
+Nanomia bijuga
+1
+1
+Nanomia sp.2 (China)
+1
+Nanomia cara
+1
+1
+Agalma elegans
+0.95
+0.69
+Athorybia rosacea
+0.81
+Halistemma rubrum
+1
+Marrus orthocanna
+Physophora hydrostatica
+Apolemia rubriversa
+16S (Bayesian)
+1
+Nanomia septata sp. n.
+0.42
+1
+0.03
+Nanomia sp.2 (China)
+1
+1
+Nanomia sp.1 (Japan)
+1
+1
+Nanomia bijuga
+1
+1
+Nanomia cara
+1
+Agalma elegans
+0.62
+0.99
+Athorybia rosacea
+0.94
+1
+Agalma okeni
+0.61
+0.99
+Agalma clausi
+1
+Halistemma rubrum
+Physophora hydrostatica
+Marrus orthocanna
+Apolemia rubriversa
+FIGURE 3
+Generalized maximum likelihood phylogenies based on COI and 16S sequences (bootstrap values on nodes), putative species identified by ASAP and bPTP, and alternative topologies from Bayesian analyses (posterior probabilities on nodes).
+[/FIGURE]
+
+putative species (Figure 3). The analysis of the intra- and interspecific Kimura 2-distances supports the splitting of our datasets in 5 putative species (Table 2). The mean interspecific distance (± SD) between Nanomia species was 17.7% ± 1.1% for COI and 13.4% ± 2.2% for 16S. The smallest interspecific distance (15.3% ± 0.6% for COI, 7.10% ± 0.2% for 16S) was found between N. bijuga and Nanomia sp. 1 Japan, while the largest interspecific distance (19.8% ± 0.2% for COI and 16.4% ± 0.3% for 16S) was found between N. cara and Nanomia sp.1 Japan. Nanomia bijuga showed the highest intraspecific variation (2.4% ± 1.2% for COI, 1.2% ± 0.9% for 16S), and geographically structured clustering could also be observed within the clade
+
+(Supplementary Figures S1, S2). The consensus trees for both COI and 16S showed bootstrap support of >99% and posterior probabilities of 1 for all putative species clades (Figure 3). The geographical distribution of the identified clades of Nanomia is presented in Figure 2. Four of the putative species correspond with a distinct Barcode Index Number (BIN) in the Barcode of Life Database (BOLD): Nanomia sp.2 China corresponds to BIN ACH6037, N. bijuga to BIN AAX3682, N. cara to ACQ6137 and N. septata n.sp. to BIN ACL8638. There are no prior publicly available COI sequences for the undescribed Nanomia sp.1 Japan in BOLD.
+
+Frontiers in Marine Science	06	frontiersin.org
+
+[NOTE: Figure 3 occupies the upper two thirds of the page in a boxed panel spanning the full width; below it the page is two columns, transcribed left column then right column. The paragraph beginning "putative species (Figure 3)" heads the left column and continues text from the foot of page 05. Presentation ligatures (fi, fl) are transcribed as the ordinary two-letter sequences.
+
+Inside the [FIGURE] block every string is one physically printed piece of text in the panel, given in approximate visual top-to-bottom (and, where two items are level, left-to-right) order; nothing is described and no graphic is interpreted. The panel contains four trees: two mirrored maximum-likelihood trees, "COI (ML)" facing right and "16S (ML)" facing left, drawn on either side of five shared clade boxes whose labels ("Nanomia septata sp. n. / North Pacific / (Specimens 1-25 in Table S1)", "Nanomia sp.1 / Japan (32-34)", "Nanomia bijuga / warm circumglobal / (Specimens 35-49 / in Table S1)", "Nanomia sp.2 / China (Specimens 54-60 in Table S1)", "Nanomia cara / North Atlantic / (Specimens 61-94 in Table S1)") are printed once and serve both trees; and below them two smaller trees, "COI (Bayesian)" on the left and "16S (Bayesian)" on the right, transcribed left panel in full then right panel. The bare numerals are the support values printed beside nodes (bootstrap percentages in the ML trees, posterior probabilities in the Bayesian trees); which branch each numeral attaches to is not recorded here. "0.04", "0.04" and "0.03" are the printed scale-bar labels (one between the two ML trees, one in each of the COI and 16S Bayesian panels). The four column labels "bPTP based on COI", "ASAP based on COI", "bPTP based on 16S" and "ASAP based on 16S" are printed rotated 90° (reading bottom-to-top) beside vertical colour bars at the far left and far right of the panel. Some outgroup terminal names appear twice, once in each ML tree. In the body text "Nanomia sp. 1 Japan" is printed with a space after "sp." in one place and "sp.1" without a space elsewhere; both are given as printed, as is "N. septata n.sp." (elsewhere in the paper "sp. n."). Running head and running foot elements are separated by tabs.]

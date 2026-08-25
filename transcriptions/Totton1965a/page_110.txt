@@ -1,0 +1,51 @@
+[PAGE 105]
+[RUNNING HEAD] SYSTEMATIC SECTION: FAMILY 9 FORSKALIIDAE	105
+
+[FIGURE]
+r
+r
+s.u
+ns.w.l
+c.r.l
+ns
+f
+A
+v
+1mm
+
+1mm
+r
+f
+n
+B
+s.u
+c.r.d
+c.r.l
+l.m
+f
+ns.w.l
+c.pa
+c.ped
+r.m
+c.r.v
+
+FIG. 57.   Forskalia leuckarti Bedot
+Nectophores of Villefranche Museum specimen No. 581, × 29. A, ostial view; B, lateral view
+c.r.d, c.r.l, c.r.v = dorsal, lateral and ventral radial canals; c.pa = pallial canal; c.ped = pedicular canal; f = fold; l.m = muscular lamella; n = patch of nematocysts; ns = nectosac; ns.w.l = lateral wing of nectosac; r = ridge; r.m = rete mirabile (rudiment); s.u = upper surface of nectophore; v = velum.
+[/FIGURE]
+
+[NOTE: printed folio 105 at the outer (right) edge of the running head; PDF index 110, offset −5 holds. There is no body text at all on this page: apart from the running head it carries only text-fig. 57 and its four-line caption. No footnote, no table, no signature mark.
+
+No printed square brackets occur on this page; every bracket here is round, including "(rudiment)" in the caption key.
+
+Layout: two line drawings stacked, A filling the upper half and B the lower half, each set full measure, with two short horizontal scale bars standing free in the left margin — one below drawing A, one above drawing B. The caption is centred below drawing B in type smaller than the running head, its first line centred, the second centred, and the key running on as three further lines set nearly full measure.
+
+The items inside [FIGURE] before the caption are exactly the labels printed within the drawings and nothing else — the illustrations are deliberately not described. They are listed in reading order, top to bottom and left to right, and fall into two groups separated by a blank line, drawing A first then drawing B. Drawing A: "r", "r", "s.u", "ns.w.l", "c.r.l", "ns", "f", the panel letter "A", "v", then "1mm" set into a gap in the first scale bar. Drawing B: "1mm" in the second scale bar, "r", "f", "n", the panel letter "B", "s.u", "c.r.d", "c.r.l", "l.m", "f", "ns.w.l", "c.pa", "c.ped", "r.m", "c.r.v". All are upright sans-serif, the panel letters capital and the leader labels lower case, each leader label joined to its structure by a fine ruled line except the "f" in the upper part of drawing B, which is joined by a ruled line ending in an arrowhead, and the "f" at the right of drawing B, likewise arrow-headed. In the sans-serif labels the internal points are full points and there is no terminal point: "s.u", "ns.w.l", "c.r.l", "c.r.d", "c.r.v", "c.pa", "c.ped", "l.m", "r.m". Both scale legends read "1mm" with no space between figure and unit. Checked at 3x-3.5x.
+
+Tally of lettering: 2 panel letters (A, B); 2 "1mm"; and, of the leader labels, "r" three times (twice in A, once in B), "f" three times (once in A, twice in B), "s.u" twice, "ns.w.l" twice, "c.r.l" twice, and one each of "ns", "v", "n", "c.r.d", "c.r.v", "c.pa", "c.ped", "l.m", "r.m" — 24 leader labels in all. Every abbreviation used in the drawings is explained in the caption key, and the key introduces none that the drawings lack.
+
+Caption detail: "FIG." small capitals, old-style 57, full point, wide gap, italic "Forskalia leuckarti", roman "Bedot". The second line ends "B, lateral view" with no full point printed. The magnification "× 29" uses a saltire multiplication cross. In the key the abbreviations are italic and the explanations roman, each equals sign spaced, entries separated by semicolons; the three canal abbreviations share one entry, "c.r.d, c.r.l, c.r.v = dorsal, lateral and ventral radial canals"; "rete mirabile" is italic and "(rudiment)" roman.
+
+Numerals verified digit by digit: 105; FIG. 57; No. 581, × 29; 1mm, 1mm. The specimen number 581 is the same as that cited in the text on p. 103.
+
+Stray marks, all scanning blemishes: two specks high in the page above drawing A, one near the centre and one a short dash to its left, a speck in the far left margin level with the upper part of drawing A, a speck inside the blank area of drawing B below "c.ped", a speck in the right margin level with the key's second line, and a fleck in the left margin level with the caption. None is printed matter.]

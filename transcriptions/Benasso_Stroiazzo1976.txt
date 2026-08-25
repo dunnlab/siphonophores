@@ -1,0 +1,241 @@
+<<<PAGE pdf=1 file=page_001.txt>>>
+[PAGE 1: unnumbered]
+[RUNNING HEAD] NATURA - Soc.Ital.Sci.nat., Museo civ.Stor.nat. e Acquario civ., Milano - 67 (1-2) : 59-71, 15-VI-1976
+
+GIAMBATTISTA BENASSO & NARCISA BENASSO STROIAZZO (*)
+
+OSSERVAZIONI SULLO SVILUPPO DEI GONOFORI DI MUGGIAEA KOCHI WILL
+
+(Siphonophora Calycophorae)
+
+Riassunto. — Sono stati studiati 670 gonofori indifferenziati e femminili di Muggiaea kochi Will (Siphonophora Calycophorae) per un tentativo di controllo della relazione diretta, supposta da vari autori, fra la lunghezza del gonoforo e la maturità degli ovociti; rapporto che la presente ricerca tenderebbe ad escludere.
+
+Abstract. — Observations about development of gonophori of Muggiaea kochi Will (Siphonophora Calycophorae).
+
+From the results of our research on the istology of the indifferential, male and [?femal] [?gonophori] of Muggiaea kochi Will (Siphonophora Calycophorae), two considerations can be drawn.
+
+Primarly, the free eudoxi[illegible], namely those detached from the [?stolons] of the colony and having the handle of inferior [?length] at µ 134, present both ovogonii in the multiplying period and ovocita already at the initial of the second period of growth. Moreover, in the material studied there was not found examples of handles with lengths superior to µ 657.
+
+On 670 indifferential and femal gonophori, only six were identified with lengths between µ 526 and µ 657, corresponding to the cytological images of the third period of growth.
+
+It was not possible to examine gonophori with ovocita at the first period of growth and therefore we are not at the point to ascribe with certainty the origin of the ovocita at the ectoderm or at the entoderm. Our study would seem to exclude the supposed relation between the dimentions of the handle and the stage of growth of the ovocita. When the dimensions of the handle are yet small they are often equivalent to cytological images of the ovocita already at the begining of the third period of growth. While in handles of larger dimension (µ 892-526) one can examin cytological images of the ovocita at the second period of growth. Yet it remains ot be emphasized that all the ovocita inserted on the same handle exhibit the same stage of maturity. In the less mature stage the gonophori are numerous and surrounded by « filling » cells which form small « cushions » around it; with the development process these cells reduce themselves and the more mature ovocita finish by being surrounded by a « film », that is made up of a very thin strata of cells.
+
+[FOOTNOTE] (*) « Al Pezzuco », Sistiana 12 M (Trieste)
+
+[NOTE: this is a poor, high-contrast photocopy; the bold face of the two abstracts is heavily over-inked and several letters are filled solid. Specific difficulties: (a) the head-of-page journal citation is set inside a ruled box in bold small capitals; the marks separating the numbers ("1-2", "59-71", "15-VI-1976") are printed as short marks that in this scan are indistinguishable from raised dots, and are transcribed as hyphens; the second digit of "59" is an ink blob, read as 9 (the following leaf carries the folio 60). (b) In the line "male and [?femal] [?gonophori]" an ink blot covers the end of both words; the readings follow the same two words as they are clearly printed two paragraphs lower ("On 670 indifferential and femal gonophori"). (c) In "eudoxi[illegible]" the final letter is a solid ink blob one glyph wide and cannot be read. (d) "[?stolons]" and "[?length]" each carry an ink blot that may or may not conceal a further letter. (e) "(µ 892-526)" is transcribed as printed — the same figure 892 is printed in the size-class list on p. 64 of this article, where it stands where 392 would be expected, so it appears to be the authors' or printer's own error rather than a misreading. (f) A small ring-shaped speck of dirt sits above the word "about" in the Abstract line, and a comma-shaped speck below the line after "free"; neither is type. (g) A hand-drawn curved pencil/ink line underscores the figure 134 in the "Primarly" paragraph. Author's own spellings retained throughout: Primarly, istology, indifferential, femal, ovocita, ovogonii, dimentions, begining, "remains ot be emphasized", examin.]
+
+<<<PAGE pdf=2 file=page_002.txt>>>
+[PAGE 60]
+[RUNNING HEAD] 60	G. BENASSO & N. BENASSO STROIAZZO
+
+Likewise, the number of ovocita reduce themselves and in the mature gonophori they never exceed more then five. The same thing had been asserted for the in intersectional cells. It remains yet unsolved, bat of notable interest for the embriological and istological research, the problem, concretized in this study, of the destiny of the missing ovocita: they, probably, have the same function of nutritional cells in comparisons of these germinating elements that succeed in leading to the termination of development.
+
+In base a materiale proveniente dal golfo di Trieste, WILL descrisse, nèl 1864, Muggiaea kochi « ... piccolo organismo pelagico, caratterizzato dall'aspetto medusoide della sua campana... » dotato di « ... movimenti locomotori contrattili ... » e due « specie » di Ersaea, E. pyramidalis ed elongata, ritenute dall'autore come appartenenti [?alle] Acalephae. WILL esaminò nelle due Ersaea una « ... porzione media[illegible] ... » contenente « ... dei corpiccioli sferici ... » ai quali ritenne possi[illegible] attribuire la natura di uova. Questa ipotesi, a distanza di oltre un [?secolo], si è rivelata essenzialmente esatta in quanto le due « specie » Ersaea pyramidalis ed E. elongata sono risultate essere i gonofori di Muggiaea kochi. Lo studio di questa specie fu ripreso in seguito, a livello istologico e citologico, da CHUN (1882) che tuttavia lasciò in ombra il problema della maturazione degli elementi germinali: processo che, non essendo stato ancora del tutto approfondito, desideriamo esaminare, almeno in alcuni dei suoi aspetti, nella presente nota.
+
+Nell'ambito delle nostre ricerche ci siamo soprattutto interessati di valutare la possibilità di una correlazione fra le dimensioni della porzione fertile del gonoforo (manubrio) e lo stadio di maturità degli ovociti, come pure di mettere in luce l'origine degli elementi germinali femminili di questo Calicoforo. Dobbiamo convenire che non siamo stati in grado di affrontare questo secondo problema per il mancato reperimento di ovociti nel primo periodo di accrescimento: fenomeno imputabile, probabilmente, alla estrema rapidità con cui si verificano i processi di accrescimento e maturazione degli elementi germinali in questa specie.
+
+La gametogenesi, l'eventuale migrazione delle cellule sessuali fino alle gonadi o la relativa differenziazione in situ nell'abbozzo stesso della gonade, rappresentano certamente i problemi di fondo dell' intero filone di ricerche sulle cellule germinali di questi Eumetazoi e, in conclusione, le nostre conoscenze sulla morfologia, istologia, citologia ed embriologia degli Idrozoi non ne rappresentano che una massa di informazioni « derivate ». Risulta dunque essenziale esaminare lo sviluppo storico delle teorie proposte per la interpretazione della gametogenesi del gruppo, soprattutto dei Sifonofori. Non solo, ma ben pochi capitoli della biologia degli invertebrati risultano così controversi e spesso caotici per la cospicua massa di dati che si è andata accumulando in 121 anni di ricerche,
+
+[NOTE: the English paragraph at the head of the page continues the Abstract begun on the preceding leaf; the Italian text of the article proper begins with "In base a materiale...". The scan carries a washed-out (under-inked) patch running down the right-centre of the page which has partly or wholly erased four short runs, marked above: "appartenenti [?alle] Acalephae" (only "al" plus fragments survive); "porzione media[illegible] ... »" (the letters after "media" are gone, two of the three ellipsis dots survive); "possi[illegible] attribuire" (the letters after "possi" are gone); "un [?secolo]" (the ascender of the l is gone, so it prints as "secoio"). "nèl 1864" is transcribed as printed — a distinct grave-accent stroke stands over the e, though it may be a speck rather than type. Faint horizontal pen or pencil strokes lie over the words "problema" and "della" in the CHUN (1882) sentence, and there are scattered specks of dirt in the margins. Author's own spellings retained: "more then five", "bat of notable interest", embriological, istological, ovocita, gonophori, "for the in intersectional cells".]
+
+<<<PAGE pdf=3 file=page_003.txt>>>
+[PAGE 61]
+[RUNNING HEAD] OSSERVAZIONI SULLO SVILUPPO DEI GONOFORI DI MUGGIAEA KOCHI WILL	61
+
+da VAN BENEDEN (1843), che con i suoi classici studi sulla gametogenesi delle Idromeduse ebbe il merito di richiamare l'attenzione dei biologi su questo ordine di Celenterati, a STAGNI e LUCCHI (1964).
+
+Sono state tre, fondamentalmente, le ipotesi elaborate dai diversi autori per spiegare l'origine delle cellule germinali nei Celenterati: derivazione dall'ectoderma, dall'entoderma e origine indifferente (da uno o dall'altro dei foglietti germinativi) dei gameti.
+
+Secondo WEISMANN (1883), che potè studiare un cospicuo numero di specie di Idromeduse, le cellule germinali sono in grado di originarsi in seno a tutta la massa dell' idrosoma (origine cenogenetica) e solo in un secondo tempo, mediante movimenti ameboidi, esse raggiungerebbero le gonadi locliazzate sugli individui in grado di staccarsi dal cormo idroide e condurre vita pelagica. In tali individui il differenziamento delle cellule germinali può aver luogo sia nella gemma medusoide prima del suo distacco dal cormo idroide, come in Dendroclava (WEISMANN, l. c.), sia direttamente nelle meduse dopo il distacco dalla colonia, come in Obelia (WEISMANN, l. c.; HARTLAUB, 1884) ed in Cytaeis (TRINCI, 1906). WEISMANN considerò tale fenomeno di origine secondaria, dovuto ad una graduale involuzione degli individui e degli organi stazionari (medusoidi fissi, gonofori, sporosacchi), mentre nelle condizioni primitive lo strato germinativo sarebbe stato l'ectoderma del manubrio delle forme medusoidi.
+
+Origini ectodermiche quanto entodermiche dei gonociti, non legate ad un precoce differenziamento, vennero sostenute, almeno per un periodo della sua attività di ricercatore (1904-1906), da HARGIT che lavorò sui polipi idroidi di Eudendrium e Tubularia. Tuttavia quest'autore studiando in seguito il problema su Campanularia flexuosa e Gonothyrea loveni (1913 - 1919), smentì categoricamente l'origine ectodermica delle cellule germinali. Queste deriverebbero direttamente da cellule somatiche differenziate o per una trasformazione diretta di un cellula epiteliale in cellula germinale od ancora dalla divisione di una cellula somatica in due cellule figlie, una delle quali persiste come elemento somatico, l'altra come elemento germinale. HARGIT basava la sua ipotesi sul fatto che in nessun organismo animale si verificherebbe la continuità del plasma germinale enunciata da WEISMANN (l. c.) secondo cui già la prima divisione condurrebbe alla formazione di un blastomero somatico ed uno germinale.
+
+Precedenti di poco le ricerche di HARGIT furono quelle di GOETTE (1907), condotte su Gonothyrea loveni, Sertularia argentea ed Obelia longissima. GOETTE osservò la divisione di cellule epiteliali entodermiche in due cellule figlie, una delle quali dava origine alla cellula uovo, l'altra permaneva come cellula entodermica. Lo stesso fenomeno venne messo in luce per l'origine degli spermi.
+
+[NOTE: author surnames are printed in small capitals throughout and are transcribed as full capitals. The running head is set in bold small capitals in which the G's have almost no crossbar, so that GONOFORI and MUGGIAEA read as "CONOFORI" and "MUCCIAEA" in this scan; the letters the type represents are transcribed. Printed as-is, without correction: "gonadi locliazzate" (for localizzate), "di un cellula epiteliale", "HARGIT" (for Hargitt), "Gonothyrea" (for Gonothyraea), "dell' idrosoma" and "quest'autore" with the spacing as printed.]
+
+<<<PAGE pdf=4 file=page_004.txt>>>
+[PAGE 62]
+[RUNNING HEAD] 62	G. BENASSO & N. BENASSO STROIAZZO
+
+L'altro problema dell'embriologia di questi Celenterati risiedeva nella possibile migrazione degli elementi germinali. HARTLAUB (1884) sostenne che in Obelia le prime cellule germinali farebbero la loro comparsa nelle forme medusoidi dopo il distacco di quest'ultime dal cormo idroide e sarebbero localizzate al di fuori delle gonadi. Circa 40-50 h dopo il distacco dalla colonia gli elementi germinali si differenzierebbero dall'entoderma del manubrio, all' inizo dei canali radiali (regione germinativa), e solo in seguito tali cellule passerebbero nell'entoderma dei canali stessi e quindi nell'abbozzo delle gonadi.
+
+TRINCI (1906) osservò costantemente gli elementi germinali femminili meno differenziati nell'entoderma della gonade presso la sua inserzione alla volta subombrellare: è dunque nel punto in cui l'entoderma della gonade si continua con quello dei canali radiali che TRINCI (l. c.) ha potuto riconoscere gli elementi germinali più giovani. Sempre questo autore (l. c.) in Podocorinae, Pennaria, Tiaridae e Margellidae riconobbe con una certa frequenza gli ovociti meno differenziati nell'ectoderma; in Corydendrium eucopidae anche nell'entoderma. Tuttavia è da sottolineare che TRINCI non volle mai apertamente giungere ad una conclusione sull'origine e la migrazione delle cellule germinali dei Celenterati.
+
+Infine RICHTER (1907), allievo di GOETTE, che studiò a lungo l'origine dei gonociti di Hippopodius hippopus e Rizophisa filiformis. In questi Sifonofori, i gonofori risultano sempre sessili e le cellule germinali si svilupperebbero nell'entoderma; solo in Fisalia, RICHTER ammise una possibile origine ectodermica degli spermi accanto ad una precoce differenziazione. Questo autore non osservò mai alcuna migrazione di cellule grminali dall'ectoderma: la sede definitiva delle cellule germinali maschili e femminili sarebbe dunque compresa fra il foglietto ectodermico e quello entodermico del gonoforo.
+
+Attualmente le ipotesi più accreditate sulla gametogenesi degli Idroidi risultano quelle di BRIEN (1942-1961). I gonociti si originerebbero nell'ectoderma del polipo o dell' idrocaule, dal quale passerebbero nell'entoderma. I gonociti, ancora indifferenziati, acquisterebbero i caratteri di oogoni o spermatogoni in relazione all'ambiente biochimico che troverebbero nell'entoderma, foglietto dotato di una elevata attività fisiologica (digestiva e nutritiva). In seguito i gonociti si porterebbero nella mesoglea tra le cellule gastriche e poi ancora nel gonoforo dove si accumulerebbero in una regione nettamente delimitata posta fra l'entoderma dello spadice (vestigia del manubrio) e la cavità subombrellare. Sempre secondo Brien (l. c.) le cellule germinali giunte nel gonoforo non potrebbero considerarsi più nè come elementi ectodermici nè entodermici ma risulterebbero estranee ai tessuti da cui hanno preso origine e dai quali per chemiotropismo sarebbero state attratte verso le regioni del loro dif-
+
+[NOTE: author surnames are in small capitals and are transcribed as full capitals; note that "secondo Brien (l. c.)" in the last paragraph is printed in ordinary upper- and lower-case, unlike the small-capital "BRIEN (1942-1961)" earlier in the same paragraph, and is transcribed accordingly. Printed as-is, without correction: "all' inizo" (for inizio), "cellule grminali" (for germinali), "Rizophisa filiformis" (for Rhizophysa), "Corydendrium eucopidae", "nè ... nè" with grave rather than acute accents, and the sentence beginning "Infine RICHTER (1907), allievo di GOETTE, che studiò..." which has no main verb as printed. A small stray speck of ink sits before the "e" of "(digestiva e nutritiva)", and a short horizontal stroke crosses the top of the "l" of "elementi" in the penultimate paragraph; neither is type. The page ends mid-word at a hyphen ("dif-").]
+
+<<<PAGE pdf=5 file=page_005.txt>>>
+[PAGE 63]
+[RUNNING HEAD] OSSERVAZIONI SULLO SVILUPPO DEI GONOFORI DI MUGGIAEA KOCHI WILL	63
+
+ferenziamento. Solo per le Idre, BRIEN (1955-1962) non ammette la migrazione durante la gametogenesi: in questi Idrini infatti gli elementi germinali si differenzierebbero in situ, cioè nelle ampolle testicolari e nelle tasche ovariche.
+
+Da questo rapido esame della letteratura essenziale sull'argomento, possiamo concludere che nulla esclude, a parte la smentita categorica di HARGIT (1817), che anche in questo ordine come è stato dimostrato in altri Metazoi — in Sagitta da HERTWIG (1878-1899), in Ascaris da BOVERI (1887-1904), in Cyclops da HAECHER (1892-1899), in Cymatogaster da EINGEMAN (1897) — la differenziazione degli elementi germinali primordiali risalga al periodo più precoce dello sviluppo, forse allo stadio di gastrula, blastula o, addirittura, alla prima segmentazione dell'uovo come ha dimostrato GHIRARDELLI (1954) nei Chetognati o come lascerebbero supporre i reperti di WULFERT (1902) che in Gonotyraea loveni riuscì ad identificare i gonociti subito dopo la formazione della planula. I gonociti verrebbero quindi a costituire effettivamente degli elementi cellulari del tutto distinti da quelli somatici e risulterebbe impossibile una trasformazione diretta degli uni negli altri.
+
+[FIGURE]
+Fig. 1. — Gonoforo di Muggiaea kochi.
+[/FIGURE]
+
+[NOTE: the lower two-thirds of the page is a single photographic figure; its two-line caption is set at the left, beside the foot of the plate, and is the only lettering. The photograph itself carries no labels or lettering. Author surnames are in small capitals and are transcribed as full capitals. Printed as-is, without correction: "HARGIT (1817)" (evidently for Hargitt 1917), "HAECHER" (for Haecker), "EINGEMAN" (for Eigenmann), "Gonotyraea loveni" (spelt "Gonothyrea" on p. 61 of this same article), "Idrini". A stray tick of ink stands above the "che" following "(1817),", and there are scattered specks in the right margin.]
+
+<<<PAGE pdf=6 file=page_006.txt>>>
+[PAGE 64]
+[RUNNING HEAD] 64	G. BENASSO & N. BENASSO STROIAZZO
+
+Considerazioni generali e metodi d' indagine.
+
+Per la presente ricerca sono stati esaminati, fra indifferenziati, di sesso femminile e maschile, 730 gonofori di Muggiaea kochi Will provnienti da pescate di plancton effettuate, in una stazione fissa (P.ta Sdobba) del golfo di Panzano (fra Monfalcone e Grado: provincia Gorizia), dal X.1971 all' XI.1972. I gonofori sono stati separati, al binoculare, dai campioni di plancton in toto e fissati in Bouin. Dopo 8-10 h, il materiale è stato prelevato dal fissativo e passato più volte in alcool 80° fino a decolorazione completa. A questo punto, la porzione fertile del gonoforo, cioè il manubrio, è stata misurata lungo l'asse longitudinale mediano, dalla sua inserzione sulla campana fino all'apice distale — monoculare Galleo, OC 10 x, obiettivo 5 x — (Fig. 1). Le misure sono state eseguite su di un vetrino portaoggetti a goccia, ponendo un gonoforo per volta in un decimillilitro di alcool 80°.
+
+In rapporto alla lunghezza del manubrio si sono stabilite cinque classi di gonofori, sia indifferenziati che femminili, corrispondenti alle seguenti dimensioni.
+
+lunghezza inferiore a µ 134
+lunghezza compresa fra µ 134 e µ 257
+lunghezza compresa fra µ 257 e µ 892
+lunghezza compresa fra µ 392 e µ 526
+lunghezza compresa fra µ 526 e µ 657
+
+Eseguite le misurazioni della porzione fertile dei gonofori, si è proceduto alla normale tecnica di inclusione usata per materiale delicato, cioè, quella in gelatina ed alla colorazione in eosina alcoolica a 70°, in modo da poter individuare in seguito i campioni nel cubetto di paraffina. Prima di reincludere definitivamente il materiale in paraffina a 57° si è passato attraverso i due seguenti stadi di preparazione:
+trattamento in stufa per 210' dentro una boverina chiusa, con i preparati immersi in paraffina a 42° con aggiunta di qualche goccia di cloroformio per rendere il materiale meno rigido;
+le fette [illegible]i µ 7 di spessore, sono state colorate con emallume-eosina.
+
+Osservazioni.
+
+I gonofori dei Sifonofori possono essere sessili, sulla colonia, o liberi. Quelli sessili, come in Cystonectae e Physonectae, sono strutturalmente affini alle gonoteche dei polipi Idroidi (CHUN, 1882; GOETTE, 1906; RICHTER, 1907), mentre le forme pelagiche, caratteristiche di molti Calicofori, presentano un aspetto medusoide. Lungo tutto lo stolone, si svi-
+
+[NOTE: the five-line size-class list is transcribed exactly as printed. The third line reads "fra µ 257 e µ 892" — the digit 8 is unmistakable at high magnification (two closed counters), and contrasts sharply with the open-sided 3 of "µ 392" on the line immediately below, so 892 stands in the printed text where 392 would be expected; the same figure appears in the Abstract on the first leaf as "(µ 892-526)". All other figures in the list were checked digit by digit: 134; 134 and 257; 257 and 892; 392 and 526; 526 and 657. Also printed as-is, without correction: "provnienti" (for provenienti), "d' indagine" and "all' XI.1972" with the space after the apostrophe as printed, "boverina", "Galleo". A washed-out patch in the last line of the methods list has erased the end of "fette" and the letter before "i" (so the printed "le fette, di µ 7" survives only as "le fette" + "i µ 7"); this is marked [illegible]. Degree marks (80°, 70°, 57°, 42°) print as small raised rings; the mark after 210 is a prime. Author surnames are in small capitals, transcribed as full capitals. The page ends mid-word at a hyphen ("svi-"), and the lower fifth of the page is blank.]
+
+<<<PAGE pdf=7 file=page_007.txt>>>
+[PAGE 65]
+[RUNNING HEAD] OSSERVAZIONI SULLO SVILUPPO DEI GONOFORI DI MUGGIAEA KOCHI WILL	65
+
+[PLATE]
+2	3
+4	5
+
+Figg. 2-5. — Sezioni di gonofori di Muggiaca kochi. Spiegazioni nel testo.
+[/PLATE]
+
+[NOTE: the whole page below the running head is one full-page plate of four photomicrographs in two rows, with the shared caption printed beneath. The only lettering on the plate is the four figure numbers, set in bold in the outer margins beside each photograph: 2 at the left and 3 at the right of the upper row, 4 at the left and 5 at the right of the lower row; they are transcribed above in reading order, the two rows on separate lines. The photographs themselves carry no labels, letters or scale bars. The species name in the caption is printed "Muggiaca" — at high magnification the letter after "Muggia" is unmistakably a c, with no crossbar, unlike the clear e in the caption to Fig. 1 on p. 63; transcribed as printed. Faint dashed rules and scattered specks run down both margins of the plate area (printer's crop or registration marks and dirt), and are not type.]
+
+<<<PAGE pdf=8 file=page_008.txt>>>
+[PAGE 66]
+[RUNNING HEAD] 66	G. BENASSO & N. BENASSO STROIAZZO
+
+luppano alternativamente gemme che danno gonofori maschili e femminili e quindi la colonia risulta ermafrodita mentre i singoli gonofori sono monoici. Il complesso cormidiale, costituito dalla brattea, dal gastrozoide, dal dattilozoide e dal gonoforo prende il nome di eudoxia. I gonofori di Muggiaea kochi, all' inizio del loro sviluppo, sono individuabili sullo stolone della colonia quali gemme polipoidi (CHUN l. c.).
+
+Con la crescita della gemma si abbozzano due strutture campanulari: la prima, basale, fornita di velum e manubrio, la seconda, apicale (brattea), fornita di somatocisti e collegata con la sottostante da un esile peduncolo. La brattea è provvista di due organi polipoidi: uno fusiforme, il gastrozoide, ed uno filamentoso, il dattilozoide. Il gonoforo, campanulare, è costituito, a livello istologico, da un doppio foglietto ectodermico comprendente l'esombrello ed il subombrello. Il manubrio è delimitato lungo la superficie esterna dal foglietto subombrellare; la superficie interna è costituita da entoderma che risulta direttamente connesso con l'entoderma del gastrozoide e della somatocisti. Fra le cellule entodermiche vi sono, probabilmente, cellule interstiziali (BRIEN, 1961; STAGNI-LUCCHI, 1964). Gli elementi sessuali si trovano inseriti sul manubrio, nello spazio compreso tra i due foglietti germinativi.
+
+In questa ricerca, sono stati studiati i soli gonofori indifferenziati e quelli femminili (670 su 730) tentando di verificare l'esistenza di un eventuale rapporto esistente fra la lunghezza del manubrio e la maturità degli ovociti, in base alle caratteristiche strutturali dei nuclei e del citoplasma (GHIRARDELLI, 1960).
+
+1ª Classe: lunghezza del manubrio inferiore a µ 134.
+
+I gonofori maschili non sono differenziati da quelli femminili, neppure nelle sezioni. I gonociti, in attiva moltiplicazione, non sono facilmente riconoscibili, tuttavia, in alcuni preparati si evidenziano gli ovociti che risultano tondeggianti e di forma più regolare di quello degli spermatogoni della stessa età (Figg. 2, 3). I goni femminili manifestano ben presto la tendenza a raccogliersi lungo le pareti delle logge costituenti l'ovario. In alcuni preparati sono evidenti gli ovociti che presentano un nucleo di dimensioni inferiori a µ 25 di diametro, con membrana nucleare ben visibile; il nucleolo, voluminoso e ben colorato, indica una attiva sintesi di RNA ribosomiale. Il citoplasma si presenta denso e molto colorabile ed è quantitativamente poco abbondante in rapporto alle dimensioni del nucleo. Tutte queste caratteristiche strutturali indicano che l'ovocita è all' inizio del secondo periodo di accrescimento. Nel manubrio si riconoscono agevolmente: l'ectoderma, costituito da cellule molto appiattite e l'entoderma, con cellule voluminose e nucleo ben evidente, a
+
+[NOTE: page continues from p. 64 — the first word "luppano" is the second half of "sviluppano", broken across the page turn (p. 65 is a full-page plate), so it is transcribed here without a leading hyphen, as printed. The class heading is set in italic with a small raised ordinal "a" after the figure; transcribed "1ª". Both size figures were checked digit by digit at high magnification: the second digit of "134" is a 3, matching the shape of the isolated "3" on p. 68 and of the 3 in "730" on this page (open-left wedge counters, unlike the closed-counter 8 on the plate on p. 67). The "µ" is the printed lowercase mu of the text font, set with a space before the number as here. The word "all'" is printed with a space after the apostrophe both times ("all' inizio"); preserved as printed, while "l'esombrello", "l'entoderma", "l'esistenza", "l'ovario", "l'ovocita", "l'ectoderma" are printed closed up. A short horizontal mark sits above the "l" of "lunghezza" in the class heading, and isolated specks/dots appear in the left and right margins and between some lines; these are dirt or printer's marks, not type, and are not transcribed. The last line of the page ends mid-sentence with "a"; the text continues on p. 67/68.]
+
+<<<PAGE pdf=9 file=page_009.txt>>>
+[PAGE 67]
+[RUNNING HEAD] OSSERVAZIONI SULLO SVILUPPO DEI GONOFORI DI MUGGIAEA KOCHI WILL	67
+
+[PLATE]
+6	7
+8	9
+
+Figg. 6-9. - Sezioni di [?gonofori] di Muggiaea kochi. Spiegazioni nel testo.
+[/PLATE]
+
+[NOTE: the whole page below the running head is one full-page plate of four photomicrographs in two rows, with the shared caption printed beneath. The only lettering on the plate is the four figure numbers, set in bold in the outer margins beside each photograph: 6 at the left and 7 at the right of the upper row, 8 at the left and 9 at the right of the lower row; they are transcribed above in reading order, the two rows on separate lines. The photographs themselves carry no labels, letters or scale bars. In the caption the species name is printed "Muggiaea", with an unmistakable e (crossbar clearly visible at high magnification), unlike the "Muggiaca" of the caption to Figg. 2-5 on p. 65. The separator after "Figg. 6-9." is a short hyphen-length dash, the same width as the hyphen in "6-9", not an em dash. A pale bleached/abraded patch in the caption line damages the "i" of the second "di" and the first two letters of "gonofori": the "i" is reduced to its dot but is legible, while "go" is largely gone, leaving "nofori" clear — hence the flagged reading. A stray speck sits between "nel" and "testo". Faint dashed rules and scattered specks and blots run around all four sides of the plate area (printer's crop or registration marks and dirt) and are not type. Only the lower halves of the two folio digits at the top right fall inside the scanned area; what remains — a round bowl followed by a narrow tapering stroke — is consistent with 67, the expected folio between 66 and 68.]
+
+<<<PAGE pdf=10 file=page_010.txt>>>
+[PAGE 68]
+
+diretto contatto con gli ovociti. La mesoglea e le cellule interstiziali risultano abbastanza chiaramente distinguibili dagli elementi entodermici.
+
+2ª Classe: lunghezza del manubrio compresa fra µ 134 e µ 257.
+
+Gli elementi germinali femminili sono distinguibili al binoculare da plancton. Nelle sezioni, il foglietto entodermico non presenta più le grosse cellule con nucleo ben evidente, come si è osservato per la prima classe di lunghezza, bensì risulta costituito da elementi più appiattiti che si insinuano fra gli ovociti al secondo stadio di accrescimento, avvolgendoli quasi totalmente. L'organizzazione di questo foglietto va in seguito perduta e le cellule entodermiche appaiono irregolarmente sparse nella porzione fertile del gonoforo. In tali sezioni, sembra quasi che le cellule interstiziali siano inglobate nel citoplasma ovulare (Fig. 4). Il nucleo degli ovociti presenta un diametro compreso tra i µ 25 ed i µ 35. In alcuni preparati sono evidenti i cromosomi diplotenici, dal caratteristico aspetto « a spazzola ». La membrana nucleare è sempre evidente; il citoplasma si presenta molto colorabile e di aspetto granuloso anche se in alcune regioni cellulari comincia a vacuolizzare. E' da notare, tuttavia, che non tutti i preparati esaminati evidenziano le caratteristiche accennate. In alcuni, il nucleo dell'ovocita si mantiene delle stesse dimensioni proprie del secondo periodo di accrescimento mentre il citoplasma tende ad essere poco colorabile ed il foglietto entodermico si riduce ad una pellicola monostratificata avvolgente il gonocita (Figg. 5, 6). Risultano pure assenti tutti gli altri elementi cellulari « di riempimento » del manubrio. Tutte queste caratteristiche sono proprie dell' inizio del terzo p[illegible]iodo di accrescimento. In questo stadio sono presenti da 3 (Fig. 7) a 5 ovociti, più comunemente 4, per ogni gonoforo.
+
+3ª Classe: lunghezza del manubrio compresa fra µ 257 e µ 392.
+
+Elementi germinali femminili visibili al binoculare da plancton. Nelle sezioni, le cellule entodermiche risultano molto appiattite. E' evidente una riduzione dello stroma del manubrio (Fig. 8). Il nucleo dell'ovocita appare vescicoloso ed il suo diametro si mantiene tra µ 35 e µ 45.
+
+I cromosomi diplotenici appaiono brevi e tozzi. La membrana nucleare è sempre evidente. Il citoplasma è abbondante, con numerose inclusioni vitelline e vacuoli; esso risulta meno colorabile che nello stadio precedente.
+
+4ª Classe: lunghezza del manubrio compresa fra µ 392 e µ 526.
+
+Elementi germinali femminili visibili al binoculare da plancton. Nelle sezioni, le cellule dell'entoderma risultano sempre appiattite ed inglobanti, quasi per intero, l'ovocita fino a collabire con il foglietto ectoder-
+
+[NOTE: the head of this page is missing from the scan — there is blank paper above the first line of text and no running head or folio is visible, so no [RUNNING HEAD] line is given; the folio 68 in the [PAGE] line follows the printed sequence (66 on the previous text page, 67 on the plate, 69 on the next) and is not itself visible on the image. The three class headings are set in italic with a small raised ordinal "a"; transcribed 2ª, 3ª, 4ª. All µ figures were read digit by digit at high magnification: 134, 257, 392, 526 in the headings and 25, 35, 35, 45 in the text; the "5" of "45" has the flat top bar of a 5, not the curved entry of a 6. Quotation marks are double-angle guillemets, printed with a space inside on both sides as transcribed. In "dell' inizio del terzo periodo" the word "periodo" is spoilt: a short horizontal rule sits over the "p", and between the "p" and "iodo" there is a c-shaped blot followed by a dot, with a space before "iodo" — apparently a damaged or fouled sort. The characters between "p" and "iodo" cannot be read as letters and are marked [illegible] rather than restored. "all'"/"dell'" before "inizio" are printed with a space after the apostrophe, while "dell'ovocita", "dell'entoderma", "l'ovocita", "L'organizzazione" are printed closed up; both are preserved as printed. Scattered specks and dots between lines and in the right margin are dirt, not type.]
+
+<<<PAGE pdf=11 file=page_011.txt>>>
+[PAGE 69]
+[RUNNING HEAD] OSSERVAZIONI SULLO SVILUPPO DEI GONOFORI DI MUGGIAEA KOCHI WILL	69
+
+mico esterno. Le cellule interstiziali non risultano più molto evidenti mentre sussistono ampi spazi tra gli ovociti stessi (Fig. 9). Il nucleo si presenta altamente colorabile, con il diametro compreso fra µ 45 e µ 55; esso tende a spostarsi verso la periferia dell'ovocita. Il nucleolo non è più evidenziabile. Il citoplasma è irregolarmente colorabile. L'ovocita risulta dunque al terzo stadio di accrescimento. In alcuni preparati, tuttavia, si evidenziano pure ovociti con nucleo di dimensioni corrispondenti a quelle del secondo periodo di accrescimento. In questo caso, le « figure » citologiche dell'ovocita, come pure la struttura del manubrio, sono perfettamente corrispondenti a quelle del secondo periodo di accrescimento.
+
+5ª Classe: lunghezza del manubrio compresa fra µ 526 e µ 657.
+
+Elementi germinali femminili visibili al binoculare da plancton. Nelle sezioni, il manubrio presenta l'ectoderma e l'entoderma ridotti a « pellicole » sottilissime. Il nucleo, voluminoso, di diametro superiore a µ 55, risulta essere spostato completamente verso la porzione periferica dell'ovocita e sembra esercitare quasi una pressione sulla « pellicola » ectodermica, le cellule della quale si presentano, in questo punto, particolarmente assottigliate. Il nucleo è riconoscibile; la membrana nucleare evidente. Il citoplasma non è più colorabile, tranne alcune regioni periferiche. Queste « figure » citologiche corrispondono alla fine del terzo periodo di accrescimento.
+
+Discussione e conclusioni.
+
+Dai risultati delle nostre ricerche sulla istologia dei gonofori indifferenziati e femminili di Muggiaea kochi, due sono le considerazioni che si possono trarre. In primo luogo l'eudoxia libera, cioè staccata dallo stolone della colonia, e avente il manubrio di lunghezza inferiore a µ 134 presenta sia ovogoni in periodo moltiplicativo sia ovociti già all' inizio del secondo periodo di accrescimento; inoltre nel materiale studiato non si sono trovati esemplari con manubrio di lunghezza superiore a µ 657. Su 670 gonofori indifferenziati e femminili se ne sono riconosciuti solamente sei di lunghezza compresa fra µ 526 e µ 657, corrispondenti ad immagini citologiche del terzo periodo di accrescimento. Non ci è stato possibile esaminare gonofori con ovociti al primo periodo di accrescimento e quindi non siamo in grado di attribuire con certezza l'origine degli ovociti all'ectoderma o all'entoderma.
+
+Per quanto riguarda il supposto rapporto fra le dimensioni del manubrio e lo stadio di accrescimento degli ovociti, il nostro studio tenderebbe ad escluderlo. A dimensioni ancora ridotte del manubrio (µ 134-257) corrispondono spesso immagini citologiche dell'ovocita già all' inizio del
+
+[NOTE: "Discussione e conclusioni." is a centred bold subheading. The scan clips the top of the running-head line: from about "SULLO" rightwards, and for the folio, only the lower halves of the letters and digits are inside the image, the upper halves having been cut away — the surviving letter-bottoms match the running head that prints in full on p. 67, and the folio's two digit-bottoms (a U-shaped bowl then a closed ring) match 69 in the sequence 66/67/68/69, so the head is transcribed in full. Every µ figure was read digit by digit at high magnification: 45, 55, 526, 657, 55, 134, 657, 526, 657, 134-257; the count "Su 670 gonofori" also checked. Quotation marks are double-angle guillemets; the space between guillemet and word varies between a thin space and none on the page and has been regularised to one space in this transcription. "all' inizio" is printed twice with a space after the apostrophe, while "dell'ovocita", "l'ectoderma", "l'entoderma", "L'ovocita", "l'eudoxia", "l'origine", "all'ectoderma", "all'entoderma" are printed closed up; both preserved as printed. Isolated specks of dirt sit above the "n" of "in" in "non siamo in grado", after "Dai", above "gonofori" in "esaminare gonofori con ovociti", and elsewhere between lines; they are not type and are not transcribed.]
+
+<<<PAGE pdf=12 file=page_012.txt>>>
+[PAGE 70]
+
+terzo periodo di accrescimento mentre in manubri di dimensioni maggiori (µ 392-526) si possono esaminare immagini citologiche dell'ovocita al secondo periodo di accrescimento. E' da rilevare ancora che gli ovociti sullo stesso manubrio presentano tutti lo stesso stadio di maturità. Negli stadi più immaturi, i gonociti sono numerosi e circondati da cellule « di riempimento » che formano attorno ad essi delle strutture « a cuscinetto »; con il procedere dello sviluppo queste cellule si riducono e gli ovociti più maturi finiscono con l'essere circondati da una « pellicola » costituita da un solo strato di cellule molto appiattite. Pure il numero degli ovociti si riduce e nei gonofori maturi essi non sono mai più di cinque. Lo stesso destino è stato accertato anche per le cellule interstiziali.
+
+Resta insoluto, ma di notevole interesse per la ricerca embriologica ed istologica, il problema, concretatosi in questo studio, del destino degli ovociti che scompaiono: probabilmente essi hanno la funzione di cellule nutrici nei confronti di quegli elementi germinali che riescono a condurre a termine lo sviluppo.
+
+BIBLIOGRAFIA
+
+BENEDEN P. VAN, 1843 - Recherches sur l'embryogénie des Tubulaires et l'histoire naturelle des differents genres de cette famille qui habitent la côte d'Ostende - Nouv. Mém. Ac. Brux., Brux.
+BOVERI T., 1887 - Ueber die Befruchtung der Eier von Ascaris meg. - Sitz. Ber. Ges. Morph. Phys. München.
+BOVERI T., 1887 - Ueber Differenzierung der Zellkerne während der Furchung des Ei. von Ascaris meg. - Anat. Anz.
+BOVERI T., 1904 - Ergebnisse über die Konstituzion der Cromatischen Substanz der Zellkerns - Jena.
+BRIEN P., 1942 - Etudes sur deux hydroides gymnoblastiques: Cladonema radiatum (Duj.) et Clara squamata (O. F. Müller) - Mem. Acc. Roy. Belg.
+BRIEN P., 1943 - Etude sur la régéneration et la rénovation de l'appareil sexuel chez les hydroides (Clara squamata O. F. Müller) - Arch. Biol.
+BRIEN P., 1946 - Les einsegnements qui apporte à la biologie l'étude de la reproduction asexuée - Bull. Acc. Roy. Belg.
+BRIEN P., 1961 - Etude d'Hydra pirardi (nov. spec.). Origine et repartition des nématocystes. Gamétogénèse. Involution postgamétique. Evolution réversible des cellules interstitielles - Bull. Biol. Fr. Belg.
+BRIEN P., 1962 - L'embryogénèse et la sénescence de l'Hydre d'eau douce - Mem. Acc. Roy. Belg.
+BRIEN P., RENIERS D[illegible] M., 19[illegible]5 - La signification des cellules de la réserve embryonnaire - Bull. Biol. Fr. Belg.
+CHUN C., 1882 - Ueber die cyclischen Entwicklung der Siphonophoren - Preuss. Akad. Wiss.
+CHUN C., 1887 - Zur Morphologie der Siphonophoren. Ueber die postembryonale Entwicklung von Physalia - Zool. Anz.
+
+[NOTE: the head of this page is missing from the scan — blank paper and two specks of dirt sit above the first line of text, with no running head or folio visible; the folio 70 in the [PAGE] line follows the printed sequence 66/67/68/69 and is not itself visible on the image. "BIBLIOGRAFIA" is centred and letterspaced (B I B L I O G R A F I A); transcribed closed up. The bibliography is set one reference per paragraph with hanging indent; line breaks inside an entry are wraps and have been joined, and one entry per line is kept as printed order. Author surnames are in small capitals; journal titles in italic. This page is printed in a lighter, finer face than pp. 66-69 and the inking is weak: the "µ" of "(µ 392-526)" prints with its descending leg missing, so that only the two x-height strokes and the bowl-join show — it is transcribed as µ on the strength of the µ that prints fully on pp. 66, 68 and 69, and it is the only µ on this page. In "Bull. Acc. Roy. Belg." and "Mem. Acc." the first c of "Acc." is filled by ink spread and reads as an o at high magnification; transcribed Acc. In "cyclischen" the s is a solid blob of ink, the rest of the word clear. In the BRIEN & RENIERS entry the second surname is a smear of over-inked type: the initial D and the general width (about six letters) are all that can be made out, so the body of the word is marked [illegible]; likewise the third digit of the year, which is spoilt and matches neither the 3 of 1843 nor the 5 that follows it — hence 19[illegible]5. In the same entry "Fr." prints with its point raised well above the baseline. In the two BRIEN hydroid titles the genus prints as "Clara": at maximum magnification the fourth letter is a narrow stem with a detached comma-like arm at the top right, matching the italic r of "radiatum" in the line above and not the wide pointed italic v of "Nouv." in the BENEDEN entry; transcribed as printed, though "Clava squamata" must be intended. In the second BOVERI 1887 entry "des Ei." is followed by an unusually wide word space before "von"; the mark after "Ei" sits on the baseline and is read as a full point, but a comma cannot be excluded. Quotation marks are double-angle guillemets, printed small on this page. Scattered specks of dirt appear between lines and at the foot of the page.]
+
+<<<PAGE pdf=13 file=page_013.txt>>>
+[PAGE 71]
+
+CHUN C., 1897 - Ueber den Bau und die morphologische Aufassung der Siphonophoren. Verh. Deutsch. Zool. Ges.
+EINGEMANN C., 1897 - Sex differentiation in the viviparous Teleost. Cymatogaster - Arch. Entw.
+GHIRARDELLI E., 1954 - Determinante germinale e nucleo nelle uova dei Chetognati - Boll. U.Z.I.
+GHIRARDELLI E., 1960 - Istologia e citologia degli stadi di maturità dei Chetognati - Boll. Pesca, Piscicoltura, Idrobiologia.
+GOLDSCHMIDT R., 1902 - Untersuchungen über de Eirefung, Befruchtung und Zelltheilung bei Polystomum integerrimum Rud - Zeit. Wiss. Zool.
+HAECHER V., 1892 - Die Eibildung bei Cyclops und Cantocamptus - Zool. Jahrb.
+HAECHER V., 1899 - Praxis und Theorie der Zellen und Befruchtungslehre - Jena.
+HARGITT C. W., 1904 - The early development of Pennaria tiarella Mc Cr. - Arch. Entwick. Mech. Organ.
+HARGITT G. T., 1909 - Maturation, fertilization and segmentation of Pennaria tiarella (Ayres) and of Tubularia crocca (Ag.) - Bull. Mus. Comp. Zool. Harvard.
+HARGITT G. T., 1918 - Germ cells of Coelenterates, V - Eudendrium ramosum - Journ. Morph.
+HARGITT G. T., 1919 - Germ cells of Coelenterates, VI - Zool. Lab. Syracus Univ. Journ. Morph.
+HARTLAUB C., 1884 - Beobachtungen über die Entstehung der Sexualproduke bei Obelia - Zool. Anz.
+HARTLAUB C., 1884 - Beobachtungen über die Entstehung der Sexualzellen bei Obelia - Zeitschr. Wiss. Zool.
+ROTTINI L., 1967 - I gonofori di Muggiaea kochi Will. (Siphonophora calycophorae): gonofori femminili - Boll. Zoologia.
+STAGNI A., LUCCHI M., 1964 - Alcune osservazioni sulla struttura submicroscopica di polipi di Chlorohydra viridissima all' inizio dei processi ovogenet[illegible] - Rend. Ist. Sci. Univ. Camerino.
+STAGNI A., LUCCHI M., 1964 - Alcuni aspetti ultrastrutturali nell'ovogenesi di Clorohydra viridissima - Boll. Zoologia.
+TRINCI G., 1906 - Tiarella partenopea nuovo genere e specie della famiglia Tiaridae - Monit. Zool. it.
+TRINCI G., 1906 - Studi sull'oocite dei Celenterati durante il periodo di crescita - Arch. it. Anat. Embr.
+WEISMANN A., 1883 - Die Entstehung der Sexualzellen bei den Hydromedusen - Jena.
+WILL J., 1844 - Horae Tergestinae... der im Herbste 1843 bei Triest beobachteten Akalephen - Leipzig.
+WULFERT M., 1902 - Die Embrionalentwicklung von Genothyraca loveni - Allm. Zeitschr. Wiss. Zool.
+
+[NOTE: the whole page is the continuation of the BIBLIOGRAFIA begun on p. 70; there is no heading. The head of the page is missing from the scan — blank paper above the first line, with no running head or folio visible; the folio 71 in the [PAGE] line follows the printed sequence and is not itself visible on the image. Entries are set one per paragraph with hanging indent; wrapped lines have been joined and one entry is kept per line, in printed order. Surnames are in small capitals, journal titles and taxon names in italic. The lower two-thirds of the page below the WULFERT entry is blank apart from two specks of dirt, and a further speck sits in the left margin beside the HARGITT 1919 entry. Everything is transcribed as printed, including what look like the printers' or authors' own errors: "Aufassung" (one f), "EINGEMANN" (for Eigenmann), "HAECHER" (for Häcker), "über de Eirefung", "Eirefung" (for Eireifung), "Sexualproduke", "Tubularia crocca", "Syracus", "Clorohydra" in the second STAGNI entry against "Chlorohydra" in the first, "Genothyraca", "Allm.", and "Embrionalentwicklung". In the ROTTINI entry the e of "Muggiaea" is filled solid with ink but the letter is the right width and shape for e. In the first STAGNI entry the end of the last word of the title and the dash that follows it are abraded away: "ovogenet" is clear, then a scratched region containing a raised dot, a small hooked stroke and a rule, before italic "Rend." — the damaged run is marked [illegible] rather than restored. "all' inizio" is printed with a space after the apostrophe, as on pp. 66-69, while "nell'ovogenesi" and "sull'oocite" are closed up; both preserved as printed.]

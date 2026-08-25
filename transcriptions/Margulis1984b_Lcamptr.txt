@@ -1,0 +1,169 @@
+<<<PAGE pdf=1 file=page_001.txt>>>
+[PAGE 26]
+[NOTE: the top of this page carries the end of a preceding article (M. A. Valovaya, on Cucullanus cirratus) — its English resume and its Russian reference list. The Margulis article begins in the lower half of the page.]
+[NOTE: author surnames in the reference list are printed letter-spaced for emphasis (В а л о в а я); transcribed here without the extra spacing.]
+
+M. A. Valovaya
+
+THE HEAD RASTR ELECTRONIC MICROSCOPY OF THE CUCULLANUS CIRRATUS MÜLLER, 1777 (NEMATODA, CUCULLANATA)
+
+There are two circles of the sensory organs on the head of the Cucullanus cirratus. In the first circle there are six receptors that correspond to lip papilla; in the second there are four submedian papilla that are doubled. The pair of pore-like amphids is disosed laterally. The three structure tipes form the cuticular armaments: 1) around stoma cutucular ring; 2) a pair of ventro-lateral plates and 3) a dorsal plate on the back. Each of these structures has, in its turn, additional morphological complications.
+
+СПИСОК ЛИТЕРАТУРЫ
+
+Валовая М. А. 1977. Морфология Cucullanus cirratus Müller, 1777 (Nematoda, Cucullanata). — Паразитология, 11, № 5, 424—430.
+Валовая М. А. 1979. К биологии Cucullanus cirratus Müller, 1777 (Nematoda, Cucullanata). — Паразитология, 13, № 5, 540—544.
+Berland B. 1970. On the morphology of the head in four species of the Cucullanidae. — Sarsia, 43, 15—64.
+Tornquist N. 1931. Die Nematodenfamilien Cucullanidae und Camallanidae, Samth. Handl. (S); Ser. B, Bd 2, N 3. Göteborg.
+Yorke W., Maplestone P. 1926. The nematode parasites of Vertebrates. L.
+
+Поступила в редакцию
+19.04.83
+
+ВЕСТН. МОСК. УН-ТА. СЕР. 16. БИОЛОГИЯ, 1984, № 4
+
+[NOTE: new article begins here: НОВЫЙ ПОДВИД СИФОНОФОРЫ LFNSIA CAMPANELLA ELONGATA SUBSP. N. (HYDROZOA, SIPHONOPHORA)]
+
+УДК 593.72
+
+Р. Я. Маргулис
+
+НОВЫЙ ПОДВИД СИФОНОФОРЫ
+LFNSIA CAMPANELLA ELONGATA SUBSP. N.
+(HYDROZOA, SIPHONOPHORA)
+[NOTE: the second letter of the genus name is printed as F (LFNSIA) — the lower bar of the E has failed in this copy; transcribed as printed.]
+
+В материалах XII рейса научно-исследовательского судна «Академик Петровский» (август — ноябрь 1981 г.) из района банки Атлантис в Атлантическом океане обнаружены передние нектофоры сифонофоры из рода Lensia. Такие детали строения, как отсутствие гидроциальной полости, положение овальной базальной грани под углом к остиальной плоскости, частично редуцированные продольные ребра, позволяют считать, что найденные нектофоры относятся к виду Lensia campanella (Moser, 1925). Однако соматоцист у найденных нектофоров длинный, до 1/2 длины нектофора, червеобразный, чего не бывает у известных подвидов этого вида. Поэтому описываем их как новый подвид вида L. campanella.
+
+Lensia campanella elongata Margulis, subsp. (рисунок, А, Б)
+
+Материал. НИС «Академик Петровский», станция 37, 34° 10′ с. ш., 30° 11′ з. д.; проба 87, глубина 50—0 м; проба 97, глубина 199—0 м; 17/X 1981 г. Сеть Джеди, океанская модель. Голотип хранится в коллекциях Зоологического института АН СССР (Ленинград) под № 1/9900, паратип — там же под № 2/9903 и на кафедре зоологии беспозвоночных биологического факультета МГУ.
+
+Описание. Передний нектофор длиной 3,75 и шириной 2,25 мм (в самом широком месте). Имеются два вентральных ребра, одно дорсальное и одно латеральное. Все они слабо выражены. Вентральные ребра начинаются ниже верхушки нектофора и доходят до базальной грани. У дорсального ребра только основание находится посередине дорсальной стороны нектофора, далее оно переходит на левую сторону, несколько изгибаясь. Начинается дорсальное ребро ниже верхушки нектосака. Латеральное ребро есть только на правой стороне нектофора. Оно расположено ближе к дорсальной стороне нектофора,
+
+26
+
+<<<PAGE pdf=2 file=page_002.txt>>>
+[PAGE 27]
+
+[FIGURE]
+[NOTE: unnumbered figure (referred to in the text simply as «рисунок»); six line drawings in two rows, lettered А, Б, В (upper row) and Г, Д, Е (lower row)]
+[HANDWRITTEN] [illegible] [NOTE: two short pencil/ink cursive annotations between the drawings and the caption, and a large handwritten letter R at the right margin]
+[HANDWRITTEN] R
+А, Б — передний нектофор Lensia campanella elongata, голотип (А — с правой стороны, Б — с левой); В — то же, паратип (с правой стороны); Г — передний нектофор L. campanella cossack с нетипичным соматоцистом (с правой стороны); Д, Е — задний нектофор (Д — с правой стороны, Е — с вентральной стороны)
+[/FIGURE]
+
+начинается ниже его верхушки и оканчивается, значительно не доходя до остиального края. Очень хорошо выражены вертикальные желобки на стенке нектосака. Один латеральный желобок расположен ближе к вентральной стороне, начинается от верхушки нектосака и идет до остиального края. Эти желобки одинаковы на правой и левой сторонах нектосака. Латеральные желобки, расположенные ближе к дорсальной стороне нектосака, разные: правый короткий и идет почти параллельно латеральному ребру нектофора, левый более длинный, начинается ниже верхушки нектосака и оканчивается немного выше остиального края, почти на дорсальной стороне.
+
+Верхушка нектофора округлая. Верхушка нектосака также округлая, хотя при рассмотрении сбоку кажется заостренной. Это происходит оттого, что начинающиеся от верхушки латеральные желобки образуют складки.
+
+Базальная грань овальная, расположена под углом около 45° к остиальной плоскости. Гидроциальная полость отсутствует. Сохранив-
+
+4*	27
+
+<<<PAGE pdf=3 file=page_003.txt>>>
+[PAGE 28]
+
+шиеся лопасти дорсальной стенки гидроциума («ротовые» лопасти) маленькие, левая с крючковидным выростом.
+
+Соматоцист длинный, составляет 1/2 длины нектофора, червеобразный, с неровной поверхностью. От педикулярного канала отходит тонкий стебелек, плавно переходящий в расширенную часть. Вершина соматоциста тупая, прилегает к вентральной грани нектофора. Соматоцист отходит от педикулярного канала выше остиального уровня и примерно посередине базальной грани.
+
+В той же пробе 87 находился еще один нектофор подобного типа, который рассматривается как паратип. У него отсутствует дорсальное ребро, вентральные ребра короче, чем у голотипа. Латеральное ребро есть только справа, как и у голотипа, но расположено оно почти посередине и имеет примерно S-образную форму. Желобки на нектосаке такие же, как у голотипа. Базо-вентральное ребро базальной грани в месте соединения с вентральными ребрами образует почти прямые углы. Поэтому базальная грань напоминает треугольник. Соматоцист длинный, но с более широкой расширенной частью. Вершина его также прилегает к вентральной грани нектофора (рисунок, В).
+
+У экземпляра из пробы 97 вентральные ребра очень слабо выражены, правое доходит почти до вершины нектофора, левое — до его середины. С дорсальной стороны нектофор смят, так что латеральные ребра и желобки не видны. Соматоцист немного меньше 1/2 длины нектофора.
+
+Диагноз подвида. Все пять продольных поверхностных ребер нектофора могут подвергаться редукции в разной степени, но нижняя часть вентральных ребер всегда сохраняется. Латеральные поверхности нектосака несут по два желобка. Гидроциальная полость отсутствует. Базальная грань овальная или треугольная, расположена под углом 45° к остиальной плоскости.
+
+Соматоцист составляет около 1/2 длины нектофора, прикрепляется к педикулярному каналу выше остиальной плоскости. Имеется тонкий стебелек, плавно переходящий в расширенную часть, которая может быть червеобразной или неправильно-веретеновидной. Вершина соматоциста прилегает к вентральной грани нектофора. Поверхность его неровная, бугорчатая.
+
+Кроме описанных выше нектофоров в пробе 87 были еще два нектофора L. campanella: один — типичная форма L. campanella cossack Totton, 1941 хорошей сохранности, другой, к сожалению, плохой сохранности, также похож на названный подвид, но по форме соматоциста занимает промежуточное положение между ним и новым подвидом. Из-за плохой сохранности не удается рассмотреть наличие и положение ребер и желобков. Соматоцист крупнее, чем обычно у L. campanella cossack, и с пальцевидным выростом на вершине (рисунок, Г). Однако соматоцист не так длинен, как у нового подвида, поэтому я определяю указанный нектофор как L. campanella cossack с нетипичным соматоцистом. В пробе 87 находился также один задний нектофор L. campanella, не прикрепленный ни к одному из передних нектофоров.
+
+Описание. Задний нектофор высотой около 3 мм. На вершине имеется воронка. Поверхность нектофора не несет ребер. Вентральные лопасти, ограничивающие щель гидроциума, только в верхней части (не более 1/4 их длины) заходят один на другой, а в нижней — расходятся. Ламелла короткая, цельная, выпуклая посередине. Нектосак неправильной формы, образует треугольные латеральные выросты в верхней трети. На его поверхности много желобков, особенно большой желобок — на вентральной стороне (рисунок, Д, Е).
+
+28
+
+<<<PAGE pdf=4 file=page_004.txt>>>
+[PAGE 4: unnumbered]
+[NOTE: printed matter occupies only the upper third of the page; the rest is blank apart from faint show-through of type from the reverse of the leaf.]
+[NOTE: the word «задний» in the last paragraph of the Russian text is marked with yellow highlighter.]
+[NOTE: author surnames in the reference list are printed letter-spaced for emphasis (С т е п а н ь я н ц); transcribed here without the extra spacing.]
+
+Подобный нектофор описан как задний нектофор L. campanella (Moser, 1925). Позднее С. Д. Степаньянц (1971) описала задний нектофор, условно отнесенный к виду L. cossack Totton, 1941. От нектофора L. campanella и описанного выше он отличается двулопастной ламеллой и наличием ребер на поверхности. Если окажется, что у L. cossack задний нектофор действительно такой, как описан С. Д. Степаньянц, то в нашем материале находится задний нектофор нового подвида, который сходен с задним нектофором L. campanella.
+
+R. Ya. Margulis
+
+A NEW SUBSPECIES OF SIPHONOPHORA LENSIA CAMPANELLA ELONGATA SUBSP. N. (HYDROZOA, SIPHONOPHORA)
+
+A new subspecies from genus Lensia (L. campanella elongata) is discribed from Atlantic Ocean (34°10′ N, 30°11′ W). The new subspecies differs from others by the structure of somatocyst, length of which reaches about 1/2 of the nectophore length and may be vermiform or irregulary fusiform. A posterior nectophore is discribed too. Probably, this nectophore is L. campanella elongata.
+
+СПИСОК ЛИТЕРАТУРЫ
+
+Степаньянц С. Д. 1971. Сифонофоры центральной части Тихого океана. — В кн.: Морской планктон. Исследования фауны морей, XX (XXVIII). Л., с. 54—81.
+Moser F. 1925. Die Siphonophoren der Deutschen Süd-Polar Expedition 1901—1903. — Ergebn. Deutsch. Süd-Polar Exped. 1901—1903. Bd 17 (Zool. 9). Berlin—Leipzig, S. 541.
+
+Поступила в редакцию
+24.10.83
+
+<<<PAGE pdf=5 file=page_005.txt>>>
+[PAGE 5: unnumbered]
+[NOTE: an English translation of the article begins here — a modern, digitally typeset typescript appended to the scan of the Russian original, not part of the journal printing. Pages 5-7 of the PDF are this translation.]
+[NOTE: the bracketed «[?]» in the first body paragraph is the translator's own query mark, printed on the page; it is not a transcription marker.]
+
+Margulis, R. Ya. 1984
+
+A new subspecies of siphonophore Lensia campanella elongata subsp. nov. (Hydrozoa, Siphonophora).
+
+Vestnik Moskovskogo Universiteta. Ser Biol. 16 No. 4, pp. 26-29
+
+Abstract
+
+A new subspecies from genus Lensia (L. campanella elongata) is described from Atlantic Ocean (34°10'N, 30°11'W). The new subspecies differs from others by the structure of the somatocyst, length of which reaches about 1/2 of the nectophore length and may be vermiform or irregularly fusiform. A posterior nectophore is described too. Probably, this nectophore is L. campanella elongata.
+
+In material from the twelfth cruise of "Akademik Petrovski" (August-November, 1981) to Atlantis Bank and the Atlantic Ocean some anterior nectophores of a siphonophore of the genus Lensia were found. In addition to the detailed structure, the absence of a hydroecial cavity, the position of the oval, basal facet, forming an angle to the ostial plane [?], and the partial reduction of the longitudinal ridges allow these distinctive nectophores to be placed within the species Lensia campanella (Moser, 1925). However, the somatocyst of these nectophores is long, about half the length of the nectophore, and vermiform, which is not characteristic of any of the known subspecies of this species, and, therefore, they areascribed here to a new subspecies.
+
+Lensia campanella elongata Margulis n. subsp. (Fig. А, Б)
+
+Material: "Akademik Petrovski" St.37, 34o10'N, 30o11'W; Series 87, depth 50-0m; Series 97, depth 199-0m; 17-x-1981. Juday net- ocean model. Holotype housed in the collections of the Zoological Institute, Leningrad, no. 1/9900. Paratypes - n. 2/9903 and in the Invertebrate Biology Faculty MGO.
+
+Description: Anterior nectophore length 3.75mm, width 2.25mm (at broadest), having 2 ventral ridges, 1 dorsal and 1 lateral. All ridges are weakly developed. The ventral ridges begin below the apex of the nectophore and continue to the basal margin. For the dorsal ridge, only the basal part is found in the middle of the dorsal surface of the nectophore, the remainder passes onto the left side and is somewhat bent. This ridge also starts below the apex of the nectophore. The lateral ridge occurs only on the right side of the nectophore. It is located close to the dorsal side of the nectophore, beginning below its apex and ending at some distance above the ostium. There are well-expressed vertical furrows on the wall of the nectosac. One lateral furrow is situated close to the ventral side, and stretches from the top of the nectosac to the ostium. This furrow occurs on both the left and right sides of the nectosac. Another lateral furrow, situated close to the dorsal side, is different. On the right side, it is short and almost parallels the lateral ridge of the nectophore. On the left side it is longer, beginning below the apex of the nectosac and ending a little above the ostial margin, almost on the dorsal side.
+
+The top of the nectophore is rounded. The apex of the nectosac is also rounded, although when viewed from the side it appears pointed, and originates from the lateral furrows, which form folds. This is because the lateral grooves starting from the apex form folds.
+
+The basal facet is oval, and is situated at an angle of about 45° to the ostial plane. A hydroecial cavity is absent. The lobes on the dorsal wall of the hydroecium (oral lobes) are small, and the left one has a hooked projection.
+
+The somatocyst extends to about half the length of the nectophore and is vermiform with an uneven surface. From the pedicular canal there arises a thin, smooth pedicel which gives rise to the dilated part. A thin stalk departs from the pedicular canal, smoothly turning into an expanded part. The apex of the somatocyst is obtuse, adjacent to the ventral edge of the nectophore. The
+
+<<<PAGE pdf=6 file=page_006.txt>>>
+[PAGE 6: unnumbered]
+[NOTE: continuation of the English translation; text occupies the upper two-thirds of the page, the rest is blank.]
+
+somatocyst departs from the pedicular canal above the ostial level and approximately in the middle of the basal facet.
+
+In the same haul (87) another nectophore of a similar type was found, and this has been designated the paratype. It lacks a dorsal ridge; the ventral ridges are shorter than in the holotype. The lateral ridge of this nectophore is found only on the right side, as in the holotype, but it is situated almost in the middle and has an S-shape. The furrows on the nectosac are similar to those of the holotype. The baso-ventral ridge of the basal facet together with the ventral ridge form almost right angles. Thus the basal facet is somewhat less triangular. The somatocyst is long, but with a wider part; its apex also borders on the ventral edge of the nectophore (Fig. Б).
+
+In the example from haul 97, the ventral ridge is very weakly expressed, and the one on the right continues almost to the apex of the nectophore; the left one to its middle. The dorsal side of the nectophore is crumpled, so that the lateral ridge and furrows cannot be seen. The somatocyst extends to a little less than half the height of the nectophore.
+
+Diagnosis of subspecies: With 5 longitudinal, superficial ridges on the nectophore which can undergo reduction to varying degrees, although the lower part of the ventral ridge is always preserved. The lateral surfaces of the nectosac bear two furrows. Hydroecial cavity absent. Basal facet oval or triangular, disposed at a 45° angle to the ostial opening.
+
+The somatocyst extends to approximately half the height of the nectophore. It is attached to the pedicular canal above ostial level. It has a thin pedicel, which transforms smoothly into the distal part, which is vermiform or irregularly spindle-shaped. The top of the somatocyst borders on the ventral side of the nectophore, and its surface is irregular, tuberculate.
+
+In addition to the above description of the nectophores from haul 87, there are two other nectophores of L. campanella: one has the typical shape of L .campanella cossack Totton, 1941, while the other, regrettably, is poorly preserved but appears to be of the same subspecies although the somatocyst appears to have an intermediates shape between it and the new subspecies. The presence and position of the ridges and furrows could not be ascertained, because of the bad state of preservation. The somatocyst is larger than that usually found in L. campanella cossack, and has a digitate process on top (Fig Г). However, the somatocyst is not as long as in the new subspecies, and so the nectophore has been ascribed as an atypical form of L. campanella cossack. In haul 87 there was found, in addition, a single posterior nectophore of L. campanella, but it was not attached to any of the anterior nectophores.
+
+Description: The posterior nectophore was about 3mm high. There is a furrow at the top. There were no ridges on the surface of the nectophore. The ventral wings, limiting the slit of the hydroecium, only in the upper part no more than ¼ of their length) overlap one another and diverge in the lower part. The lamella is short, solid, and convex in the middle. The nectosac has an irregular shape, forms triangular lateral outgrowths in the upper third. It has many grooves on its surface, especially a large furrow on the ventral side. (Fig. Д,Е).
+
+It is similar to the posterior nectophore described by Moser for L. campanella. Stepanjants (1971 - actually 1977) has also described a posterior nectophore, which was conditionally ascribed to L. cossack Totton, 1941. The latter is distinguished from L. campanella by its double-lobed lamellae and the presence of ridges on the surface. If this description is accurate then the posterior nectophore in the present material can be distinguished from that of L. cossack, as described by Stepanjants, and it is related to that of L. campanella.
+
+<<<PAGE pdf=7 file=page_007.txt>>>
+[PAGE 7: unnumbered]
+[NOTE: last page of the English translation; the figure of the Russian original is reproduced here with an English caption.]
+
+[FIGURE]
+[NOTE: six line drawings in two rows, lettered А, Б, В (upper row) and Г, Д, Е (lower row) — the same plate as on PDF page 2]
+Figure.
+А,Б – Anterior nectophore of Lensia campanella elongata, holotype (А – from right side, Б – from left); В … paratype (from right side); Г- anterior nectophore of Lensia campanella cossack with atypical somatocyst (from right side); Д,Е - posterior nectophore (Д – from right side, Е – from ventral side.
+[/FIGURE]
+
+References
+
+Moser, F. 1925. Die Siphonophoren der Deutschen Südpolar-Expedition, 1901-03. Deutsche Südpolar-Expedition 17 (zool 9), 1-541.
+Stepanjants, S.D. 1977. Siphonophora of the central part of the Pacific Ocean. In "Explorations of the Fauna of the Seas" XX (XXVIII) Marine Plankton. (Systematics and Faunistics), pp. 54-81.
