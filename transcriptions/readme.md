@@ -46,31 +46,35 @@ tool's output for the same page.
 | `sources.json` | which PDF in this repo each `<stem>/` transcribes, with its sha256 |
 | `scripts/` | tooling: `status.py`, `assemble.py`, `crosscheck.py`, `render.py`, `crop.py`, `next_job.py` |
 
-`sources.json` is not decoration. Most sources sit in `library/<LETTER>/`, but
-some are in `nonlibrary/others/`, `nonlibrary/translations/` or
-`library/orphans/`. Resolve a stem through it rather than guessing a shelf; the
-recorded sha256 pins the exact file.
+`sources.json` records which PDF each `<stem>/` transcribes, and the sha256 of
+that exact file. All 35 currently resolve under `library/<LETTER>/`, but resolve
+through the file rather than guessing a shelf letter — the checksum is what makes
+the binding provable, and the case below is why that matters.
 
-**The case that makes this necessary: `Lery1594.pdf` exists twice in this repo,
-under the same name, holding *different pages of the same book*.**
+**Two editions of Léry, and only one is transcribed.** The library holds Jean de
+Léry's *Histoire d'un Voyage fait en la terre du Bresil* in two editions, and both
+carry the same observation:
 
-| file | pages | content |
+| file | edition | Physalia passage |
 |---|---|---|
-| `nonlibrary/others/Lery1594.pdf` | title leaf + ff. 357–358 | the siphonophore passage |
-| `library/L/Lery1594.pdf` | title leaf + ff. 395–399 | Chap. XXII, the return voyage |
+| `library/L/Lery1594.pdf` | 1594, third (heirs of Eustache Vignon) | f. **358** — **transcribed here** |
+| `library/L/Lery1578.pdf` | 1578, first (Antoine Chuppin, Geneva) | f. **397** — not transcribed |
 
-**The transcription here is of the `nonlibrary/others/` file, and that is
-deliberate** — folio 358 carries the observation this document is in the corpus
-for: `Immondicitez rouges nageâs ſur mer`, red floating things "faites de la
-meſme façon que la creſte d'vn coq", venomous enough that touching them left the
-hand red and swollen. That is *Physalia*, and at 1594 it is the oldest record in
-the collection. The `library/L/` excerpt does not contain it.
+Folio 358 carries what this document is in the collection for:
+`Immondicitez rouges nageâs ſur mer`, red floating things "faites de la meſme
+façon que la creſte d'vn coq", venomous enough that touching them left the hand
+red and swollen — *Physalia*, observed on an Atlantic crossing in the 1550s.
 
-The bib entry agrees (`[pp. 357-358 scanned]`), even though its `file` field
-resolves by shelf convention to the `library/L/` copy — a filing inconsistency in
-the library, not in this transcription. Do not "correct" `sources.json` to point
-at `library/L/`; that would silently substitute a passage with no siphonophore
-content.
+The 1578 first edition sets the same passage on a single leaf (f. 397) where the
+1594 edition spreads it across ff. 357–358, so the two are **not
+interchangeable**: page indices, line breaks and folio numbers all differ. If the
+1578 edition is transcribed later it must be a separate `Lery1578/` directory, not
+a substitution.
+
+Both files were previously named `Lery1594.pdf` — one of them in
+`nonlibrary/others/` — which is how they came to be confused. They were renamed
+and reshelved on 2026-08-25, and `siphonophores.bib` gained a `Lery1578` record at
+the same time.
 
 **Not committed:** `<stem>/_provenance/poppler/` — poppler's own extraction of
 each page, used only as a cross-check input. It is derived from PDFs already in

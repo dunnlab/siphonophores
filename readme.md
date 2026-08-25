@@ -5,7 +5,7 @@ This is a collection of siphonophore manuscripts. The vast majority were painsta
 <!-- BEGIN: stats (autogen by scripts/validate_bib.py --emit-readme) -->
 ![Library by decade](assets/library_stats.png)
 
-**1,767 PDFs · 1,808 bib records · 63,102 total pages** (mean 36 pages/PDF, median 14)
+**1,768 PDFs · 1,809 bib records · 63,105 total pages** (mean 36 pages/PDF, median 14)
 <!-- END: stats -->
 
 ## Cloning
