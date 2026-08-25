@@ -698,10 +698,10 @@
   "Bernstein1934": {
    "pages": 27,
    "concatenation": "Bernstein1934.txt",
-   "concatenation_sha256": "5ee97c354cd4a99e745481fefef11932d14d0075ce614f0b835662fc985fb114",
-   "concatenation_bytes": 75476,
+   "concatenation_sha256": "e14d3926a72ec1f4e46a1514e84eb9d8286d5b90ded517d6a29fb869b275510f",
+   "concatenation_bytes": 75390,
    "uncertain_markers": 9,
-   "illegible_markers": 31,
+   "illegible_markers": 5,
    "figure_blocks": 2,
    "plate_blocks": 0,
    "table_blocks": 6,
@@ -773,8 +773,8 @@
      "pdf_page": 10,
      "file": "page_010.txt",
      "printed_header": "[PAGE 42]",
-     "bytes": 3044,
-     "sha256": "8d8ceccccc67a887e2e53cf2dab5e855cd780af81b875b0e58b6e2a24f71604a"
+     "bytes": 2958,
+     "sha256": "160a0850e4557c9debbdd500f6c41e9b6294ab16e3914242302e48007f421f2c"
     },
     {
      "pdf_page": 11,
@@ -1066,8 +1066,8 @@
   "Carre1969_Nanomia_tr": {
    "pages": 39,
    "concatenation": "Carre1969_Nanomia_tr.txt",
-   "concatenation_sha256": "472981d503b5045fa1576033675d396390e0214b6c3834ab3cf487c2ac07e177",
-   "concatenation_bytes": 98047,
+   "concatenation_sha256": "1d8873316959177efa8db7cb3b8eeebe861998b883ff077be31709ef68590e91",
+   "concatenation_bytes": 98780,
    "uncertain_markers": 11,
    "illegible_markers": 1,
    "figure_blocks": 14,
@@ -1085,8 +1085,8 @@
      "pdf_page": 2,
      "file": "page_002.txt",
      "printed_header": "[PAGE 326]",
-     "bytes": 3444,
-     "sha256": "21765499438d6844f7261b44297fe961485e818b29cc6a58d8854ffd59a56ecb"
+     "bytes": 3639,
+     "sha256": "55bfadac0621f7cbc823cf7a41f419724ffda310ea57efb8db5639f75b42af75"
     },
     {
      "pdf_page": 3,
@@ -1155,8 +1155,8 @@
      "pdf_page": 12,
      "file": "page_012.txt",
      "printed_header": "[PAGE 334]",
-     "bytes": 2239,
-     "sha256": "4176c2faa86f512d8dc80c0a9acb56d2eaa810ab21f04d08512b68bd40bb955a"
+     "bytes": 2777,
+     "sha256": "72446dada80fbb79292f2a2c78334ceac2e0cc34f626ca1da5a752819bbdf5b0"
     },
     {
      "pdf_page": 13,

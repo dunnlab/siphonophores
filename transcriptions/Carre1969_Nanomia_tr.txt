@@ -39,7 +39,7 @@ Tome X - 1969 - pp. 325-341
 <<<PAGE pdf=2 file=page_002.txt>>>
 [PAGE 326]
 
-[NOTE: French original, scanned. The bold sans-serif section headings are reproduced as plain text. A lone "2" is typeset at the foot of the page below the footnote — the sequential leaf number of this bilingual compilation, not the journal folio; it is transcribed on its own line at the end. In "autres Agalmidae" on the last line of the Metchnikoff quotation the "m" is broken in this impression and reads as "ın"; transcribed as the intended "Agalmidae".]
+[NOTE: French original, scanned. The bold sans-serif section headings are reproduced as plain text. A lone "2" is typeset at the foot of the page below the footnote — the sequential leaf number of this bilingual compilation, not the journal folio; it is transcribed on its own line at the end. In "autres Agalmidae" on the last line of the Metchnikoff quotation the "m" is broken in this impression and reads as "ın"; transcribed as the intended "Agalmidae". Confirmed against the volume (C. Dunn, 2026-08-25), and the case that settled protocol rule 5: damaged type is not orthography, so the compositor's word is transcribed and the defect noted here.]
 
 [RUNNING HEAD] 326	DANIÈLE CARRÉ
 
@@ -342,6 +342,7 @@ ressemblant à des sécrétions (Pl. III, 6). Ces cavités se développent peu �
 [leaders on the left, top to bottom:] Ect.A. / S. / C.Ect.A. / Ect.A. / St.
 [leaders on the right, top to bottom:] Ect. / M. / M. / Ect. / Ch. / End.
 60 µ
+[NOTE: the scale bar reads "60 µ". It is set in a blobby bold face in which the leading digit could plausibly be read as 4, and pass 1 transcribed it as 60 WITHOUT an uncertainty marker at about 85% confidence — so it would not have surfaced in any marker count. **Checked against the physical volume (C. Dunn, 2026-08-25): the reading 60 is correct.** Recorded here because a confidently wrong unflagged numeral is the one error class this corpus's verification design cannot detect, and this page is the known instance of the risk.]
 
 FIG. 5
 Différenciation du pneumatophore de Nanomia bijuga.

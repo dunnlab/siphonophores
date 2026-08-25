@@ -62,7 +62,7 @@
    "median_coverage": 0.8982,
    "median_recall": 0.8542,
    "uncertain": 9,
-   "illegible": 31
+   "illegible": 5
   },
   "Candeias1932": {
    "pages": 11,
@@ -1764,11 +1764,11 @@
      "excess_wordlike": null,
      "excess_novel": null,
      "status": "no_signal",
-     "gold_words": 236,
+     "gold_words": 231,
      "poppler_words": 1,
-     "volume_ratio": 236.0,
+     "volume_ratio": 231.0,
      "uncertain": 0,
-     "illegible": 28
+     "illegible": 2
     },
     {
      "page": 11,

@@ -686,3 +686,101 @@ Job 48 and Job 49 entries above — it was not a win, because better input does 
 exist. **Do not re-open it.** More generally: a marker dense page in a plate
 section is often recording a defect in the source, and re-transcribing it will
 reproduce the same markers at the same cost.
+
+---
+
+# Inspected against the physical volumes — C. Dunn, 2026-08-25
+
+Three of the seven pages put forward for human inspection are now settled. All
+three were resolved by looking at the printed page, which no amount of
+re-transcription would have achieved.
+
+## RESOLVED — `Bernstein1934/page_010.txt` (printed p.42): eight columns, no ninth
+
+**The table has eight data columns after the species stub, the last headed
+`100—25`.** The heavy gutter shadow may conceal a further column — the table is a
+two-page spread continuing on p. 43, and station 13 would take a third horizon by
+analogy with stations 14 and 15 — but **nothing of any such column is visible.**
+
+Pass 1 had recorded a ninth column of `[illegible]` cells. That was wrong in a
+specific and instructive way: **it asserted the existence of a column nobody can
+see.** `[illegible]` means "there is something here I cannot read", and using it
+for "there might be something here" manufactures data. The column has been
+removed from all 26 table rows; the station row now reads 15/15/15, 14/14/14,
+13/13, and the note records the possibility without encoding it.
+
+Illegible markers on the page: **28 → 2** (only station 13's cut-off longitude
+remains, which is a genuine partial reading of a visible value).
+
+**Generalises to:** do not use `[illegible]` for suspected content. If the page
+edge is lost, say so in a `[NOTE:]` and transcribe what is there.
+
+## RESOLVED — `Carre1969_Nanomia_tr/page_012.txt` (printed p.334): the scale bar is `60 µ`
+
+Confirmed correct. This one matters less for the answer than for what it exposed:
+pass 1 transcribed it **without an uncertainty marker**, at a self-assessed ~85%
+confidence, having judged the blobby leading digit could be a `4`. So a figure
+numeral that the transcriber privately doubted appeared in **no** marker count and
+in none of the audits — it was surfaced only because the agent mentioned it in
+prose in its job report.
+
+A `[NOTE:]` now records the reading and its verification.
+
+**Generalises to:** the marker counts understate uncertainty. `[?reading]` is
+applied to glyphs that cannot be resolved, but not reliably to *readings the
+transcriber is merely unsure of*. Figure numerals, scale bars and volume/page
+numbers deserve more suspicion than the counts imply.
+
+## RESOLVED — `Carre1969_Nanomia_tr/page_002.txt` (printed p.326): `Agalmidae`
+
+The broken `m` in "autres Agalmidae" (last line of the Metchnikoff quotation),
+which images as `ın`, is **damage to this impression, not orthography**. The
+correct transcription is `Agalmidae`.
+
+This became **protocol rule 5**, since it decides a whole class: broken sorts,
+dropped serifs and ink-fill are common across the 16th–19th century material here.
+The rule does not loosen rule 2 — a word set wrongly stays wrong. The line is
+between what the type says and what the ink did.
+
+## CLOSED — the whole Totton plate-lettering class (2026-08-25)
+
+`Totton1965a/page_262.txt` (Plate XIV, 63 flagged letters, the densest page in the
+corpus) was confirmed as already settled by the p282/p304 decision. **The entire
+plate-lettering class is now closed** and is not a second-pass candidate:
+
+`Totton1965a` pp. **250, 258, 262, 282, 298, 304, 314**, and the
+`Quoy_Gaimard1834Plates` plate leaves.
+
+The reasoning, once, for all of them: these are minute engraved reference letters
+that the original printing reproduced poorly. The limit is in the source, not in
+the 300 dpi render and not in the transcription, and no rescanning is planned.
+**A marker-dense plate page is usually recording a defect in the source**;
+re-transcribing it reproduces the same markers at the same cost.
+
+## Still open — needs a reader of Japanese, not a second transcription
+
+4. `Kawamura1911a/page_011.txt` — 32 flagged figure labels. Reviewed 2026-08-25;
+   **not resolvable by the current reviewer, who does not read Japanese.** This is
+   a language-competence gap, not a legibility problem, so re-transcribing by the
+   same means will not close it.
+
+   Two observations that narrow it for whoever does look, neither of which is
+   applied to the transcription (rule 3 — no guessing from plausibility):
+
+   - **The labels look iroha-ordered.** Four of them read `ロ ハ ニ ホ`, which are
+     iroha positions 2, 3, 4 and 5. If the sequence is iroha, then the one label
+     recorded as a bare `[?]` — sitting before `ロ` — is almost certainly `イ`,
+     position 1. That is an inference from ordering, not a reading, so it is
+     recorded here rather than in the page.
+   - **Katakana is the expected script for figure keys**, which is itself evidence
+     against the kanji members of the confusable pairs (口, 力, 工, 二). It raises
+     confidence in the existing readings without confirming them.
+
+   What would settle it: someone who reads Japanese looking at the rendered page
+   once. It is 32 single characters and would take minutes.
+
+## Still open — other
+6. `Quoy_Gaimard1834Plates/page_016.txt` — is plate 5 really present three times
+   in that PDF? Affects what correct extraction means for the document.
+7. `Mańko_et al2020/page_016.txt` — `Polyakov, I.B.` as printed vs `I.V.` in the
+   literature: source typo, or misread glyph?

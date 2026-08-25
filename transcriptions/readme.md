@@ -117,7 +117,9 @@ Minimal and mechanical: `[PAGE n]`, `[RUNNING HEAD]`, `[FIGURE]`/`[/FIGURE]`,
 `[PLATE]`/`[/PLATE]`, `[TABLE]`/`[/TABLE]`, `[FOOTNOTE]`, `[MARGIN]`, `[STAMP]`,
 `[HANDWRITTEN]`, `[?reading]`, `[illegible]`, `[NOTE: ...]`. Full rules in the
 protocol. Corpus totals: **348 figure, 76 plate, 65 table blocks; 422 `[?reading]`,
-314 `[illegible]`** over 139 pages.
+288 `[illegible]`** over 130 pages. Anything recounting these must exclude
+`_provenance/` — poppler's own text contains stray `[?` sequences, and a
+`grep -r --include='page_*.txt'` that forgets to exclude it overcounts.
 
 Four things a consumer needs to know:
 
@@ -150,12 +152,18 @@ Four things a consumer needs to know:
 - **The cross-check found zero gold omissions**, and its scores should not be used
   to target review. See `CROSSCHECK_REPORT.md` for the five poppler failure modes
   that generate false positives.
-- **422 `[?reading]` and 314 `[illegible]` markers are deliberate.** They record
+- **422 `[?reading]` and 288 `[illegible]` markers are deliberate.** They record
   what could not be read with confidence. Totton1965a p282/p304 were checked
   against the physical volume on 2026-08-24: the lettering is small type poorly
   reproduced *in the original 1965 printing*, so those markers are correct and
   final. **Marker density is often a property of the source, not of the
   transcription.**
+- **The markers cannot cover unflagged errors, and one such case is known and
+  resolved.** Carre1969_Nanomia_tr p12's `60 µ` scale bar was transcribed without
+  a marker at ~85% confidence; checked against the volume 2026-08-25, the reading
+  is correct, and a `[NOTE:]` on the page now says so. A confidently wrong
+  unflagged numeral is the one error class nothing here detects — treat figure
+  numerals with more suspicion than the marker counts imply.
 - **Source errors are preserved, not corrected**, each with a `[NOTE:]` — e.g.
   Mańko_et al2020's reference list spells the same author `Beszczynska-Möller` and
   `Beszczyńska-Möller` on one page, and prints `Texas AandM Press`. An extractor

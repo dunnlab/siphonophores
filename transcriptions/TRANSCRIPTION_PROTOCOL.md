@@ -25,6 +25,23 @@ a marked uncertainty.
    page numbers, footnotes, plate lettering, table contents, marginalia,
    library stamps and handwriting. If a page is blank, write
    `[BLANK PAGE]`.
+5. **Damaged type is not orthography.** Where a sort is broken, under-inked or
+   ink-filled so that the glyph images as some other letter, transcribe the word
+   the compositor set and record the defect in a `[NOTE:]`. **Ruled 2026-08-25**
+   on Carre1969 p. 326, where `Agalmidae` carries a broken `m` that images as
+   `ın`: the correct transcription is `Agalmidae`.
+
+   This does **not** loosen rule 2. A word the author or compositor *set* wrongly
+   stays wrong — `Pseudoculanus`, `Ostrucoda`, `wamr`, `Texas AandM Press` are all
+   transcribed as printed. The line is between **what the type says and what the
+   ink did**: a misspelling is in the type, a broken sort is damage to this
+   impression, and another copy of the same edition would show the letter intact.
+
+   Rationale, so the reasoning survives the ruling: the `[NOTE:]` preserves the
+   defect under either convention, so reading for intent loses no information —
+   whereas transcribing the literal glyph (`Agalınidae`) makes the word
+   unfindable by anyone searching the text. When you cannot tell damage from a
+   genuine variant spelling, that is what `[?reading]` is for.
 
 ## Markup — keep it minimal and mechanical
 

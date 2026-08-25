@@ -2,37 +2,37 @@
 
 — 42 —
 
-[NOTE: the outer (right) edge of this page is lost in a heavy black scan shadow. The table's "Таблица N" label and the longitude of station 13 are unreadable. A further narrow column of figures survives as traces inside the shadow and is wholly unreadable; it is given below as a trailing column of [illegible] cells. It may be station 13's shallowest horizon, or a sliver of the facing page (p. 43) caught in the scan — the table is a two-page spread and continues on p. 43.]
+[NOTE: the outer (right) edge of this page is lost in a heavy black scan shadow. The table's "Таблица N" label is unreadable, and station 13's longitude is cut off mid-figure. **The table has eight data columns**, the last headed "100—25"; that was confirmed against the physical volume (C. Dunn, 2026-08-25). The shadow may conceal a further column — the table is a two-page spread continuing on p. 43, and station 13 would take a third horizon by analogy with stations 14 and 15 — but **nothing of any such column is visible**, so none is transcribed. An earlier version of this file recorded a ninth column of unreadable cells; that asserted the existence of a column no one can see, and was removed.]
 
 [TABLE]
 [NOTE: column heads set vertically (rotated 90°); given here as an ordinary header row. Stub head reads "Третий разрез 1930 г."]
 
-Третий разрез 1930 г.	№№ станций	15	15	15	14	14	14	13	13	13
-Третий разрез 1930 г.	Местоположение	80°47′ N, 89°50′ E	80°47′ N, 89°50′ E	80°47′ N, 89°50′ E	80°26′ N, 88°57′ E	80°26′ N, 88°57′ E	80°26′ N, 88°57′ E	79°55′ N, 88[illegible]	79°55′ N, 88[illegible]	79°55′ N, 88[illegible]
-Третий разрез 1930 г.	Горизонты в метрах	48—25	25—10	10—0	165—100	100—25	25—0	193—100	100—25	[illegible]
-Sarsia flammea . . . . . . . . .	—	—	—	—	—	—	—	—	[illegible]
-Aglantha digitale . . . . . . . .	—	—	—	1*	—	—	—	—	[illegible]
-Aeginopsis laurentii . . . . . . .	—	—	—	6	5	7	4	3	[illegible]
-Diphyes arctica . . . . . . . . .	—	—	—	4	3	1	12	—	[illegible]
-Sagitta bipunctata . . . . . .	—	—	—	—	—	—	—	—	[illegible]
-Krohnia hamata . . . . . . . .	—	—	—	—	—	8	—	—	[illegible]
-Polychaeta larvae . . . . . . . .	—	—	—	—	2	—	1	—	[illegible]
-Calanus finmarchicus . . . . . .	19	20	29	101	442	178	89	229	[illegible]
-Calanus hyperboreus . . . . . .	—	1	—	—	2	—	4	—	[illegible]
-Pseudocalanus elongatus . . . . .	136	56	47	81	352	204	41	178	[illegible]
-Microcalanus pygmaeus . . . . .	—	—	—	39	23	2	142	11	[illegible]
-Euchaeta glacialis . . . . . . .	—	—	—	1	—	1	—	—	[illegible]
-Metridia longa . . . . . . . . .	1	—	—	17	27	—	56	20	[illegible]
-Oithona similis . . . . . . . . .	41	9	10	23	63	42	27	28	[illegible]
-Harpacticidae . . . . . . . . .	—	—	—	—	5	—	—	—	[illegible]
-Ostracoda . . . . . . . . . . .	—	—	1	1	—	—	2	—	[illegible]
-Amphipoda . . . . . . . . . . .	—	—	—	—	—	—	1	—	[illegible]
-Gastropoda juv. . . . . . . . . .	3	5	1	4	21	1	—	15	[illegible]
-Limacina helicina . . . . . . . .	—	—	—	—	—	—	—	—	[illegible]
-Echinopluteus . . . . . . . . .	—	—	—	—	—	—	—	8	[illegible]
-Ophiopluteus . . . . . . . . . .	3	—	1	1	14	—	25	—	[illegible]
-Fritillaria borealis . . . . . .	7	3	6	19	211	870	21	106	[illegible]
-Oikopleura labradoriensis . . . .	4	3	1	3	32	28	—	10	[illegible]
+Третий разрез 1930 г.	№№ станций	15	15	15	14	14	14	13	13
+Третий разрез 1930 г.	Местоположение	80°47′ N, 89°50′ E	80°47′ N, 89°50′ E	80°47′ N, 89°50′ E	80°26′ N, 88°57′ E	80°26′ N, 88°57′ E	80°26′ N, 88°57′ E	79°55′ N, 88[illegible]	79°55′ N, 88[illegible]
+Третий разрез 1930 г.	Горизонты в метрах	48—25	25—10	10—0	165—100	100—25	25—0	193—100	100—25
+Sarsia flammea . . . . . . . . .	—	—	—	—	—	—	—	—
+Aglantha digitale . . . . . . . .	—	—	—	1*	—	—	—	—
+Aeginopsis laurentii . . . . . . .	—	—	—	6	5	7	4	3
+Diphyes arctica . . . . . . . . .	—	—	—	4	3	1	12	—
+Sagitta bipunctata . . . . . .	—	—	—	—	—	—	—	—
+Krohnia hamata . . . . . . . .	—	—	—	—	—	8	—	—
+Polychaeta larvae . . . . . . . .	—	—	—	—	2	—	1	—
+Calanus finmarchicus . . . . . .	19	20	29	101	442	178	89	229
+Calanus hyperboreus . . . . . .	—	1	—	—	2	—	4	—
+Pseudocalanus elongatus . . . . .	136	56	47	81	352	204	41	178
+Microcalanus pygmaeus . . . . .	—	—	—	39	23	2	142	11
+Euchaeta glacialis . . . . . . .	—	—	—	1	—	1	—	—
+Metridia longa . . . . . . . . .	1	—	—	17	27	—	56	20
+Oithona similis . . . . . . . . .	41	9	10	23	63	42	27	28
+Harpacticidae . . . . . . . . .	—	—	—	—	5	—	—	—
+Ostracoda . . . . . . . . . . .	—	—	1	1	—	—	2	—
+Amphipoda . . . . . . . . . . .	—	—	—	—	—	—	1	—
+Gastropoda juv. . . . . . . . . .	3	5	1	4	21	1	—	15
+Limacina helicina . . . . . . . .	—	—	—	—	—	—	—	—
+Echinopluteus . . . . . . . . .	—	—	—	—	—	—	—	8
+Ophiopluteus . . . . . . . . . .	3	—	1	1	14	—	25	—
+Fritillaria borealis . . . . . .	7	3	6	19	211	870	21	106
+Oikopleura labradoriensis . . . .	4	3	1	3	32	28	—	10
 [/TABLE]
 
 [FOOTNOTE] * Цифры обозначают количество организмов в пробе.
