@@ -146,6 +146,15 @@ Four things a consumer needs to know:
   <50 chars — this is all of Adanson1757, Hjortberg1769 and LoBianco1909, at
   1 char/page) and 12 `script_lost` (the page's writing system is absent from the
   text layer). These rest entirely on pass 1.
+- **Quoy_Gaimard1834Plates contains every plate three times.** The PDF is three
+  concatenated renderings of the same five plates (pp. 2–6 bilevel, 7–11 colour
+  photographs of the bound volume, 12–16 colour scans of the sheets), plus a title
+  leaf. All 16 pages are transcribed — deliberately, since one engraving at three
+  scan qualities is useful test material — but figure counts for this document are
+  threefold, and **its independence guarantee is weaker than the rest of the set**
+  because a transcriber could have been influenced by an earlier reading of the
+  same plate. `page_012.txt` discloses one such exposure; no other page does. See
+  dunnlab/siphonophores#2.
 - **Kawamura1911a is bilingual** — an English translation followed by the original
   1911 vertical Japanese from p14. Poppler reads the kanji as roman noise, so the
   Japanese half has no cross-check while the English half agrees at 0.998.

@@ -780,7 +780,41 @@ re-transcribing it reproduces the same markers at the same cost.
    once. It is 32 single characters and would take minutes.
 
 ## Still open — other
-6. `Quoy_Gaimard1834Plates/page_016.txt` — is plate 5 really present three times
-   in that PDF? Affects what correct extraction means for the document.
-7. `Mańko_et al2020/page_016.txt` — `Polyakov, I.B.` as printed vs `I.V.` in the
-   literature: source typo, or misread glyph?
+~~6.~~ **RESOLVED 2026-08-25 — and it is bigger than plate 5.** *All* the plates
+   occur three times: `Quoy_Gaimard1834Plates.pdf` is three concatenated
+   renderings of the same five plates, plus an atlas title leaf.
+
+   | PDF pages | contents | rendering |
+   |---|---|---|
+   | 1 | atlas title leaf | — |
+   | 2–6 | Pl. 1–5 | coarse bilevel (CCITT 1-bit); numerals readable at 900 dpi, engraved credit lines destroyed |
+   | 7–11 | Pl. 1–5 | colour photographs of the opened bound volume, 826×1200 px per spread, binding and digitiser caption strip in frame; almost no engraved lettering readable |
+   | 12–16 | Pl. 1–5 | hand-coloured impressions scanned from the sheets; no binding or caption strip. Best for lettering |
+
+   Tracked as dunnlab/siphonophores#2; Casey will record which range corpus runs
+   should use.
+
+   **All 16 pages stay transcribed.** The triplication is not waste here — the same
+   engraving at three scan qualities is a genuine test of how much an extractor
+   recovers from a degraded image, and that is hard to come by.
+
+   **But the independence guarantee is weaker for this one document**, and that
+   must be said plainly. Because the same plates recur, a transcriber could have
+   been influenced by an earlier reading of the same plate rather than working
+   purely from the image in front of it. `page_012.txt` carries an explicit
+   disclosure under protocol rule 1 — its transcriber had read pp. 10–11 (plates 4
+   and 5) to learn the caption conventions before starting page 12 (plate 1). That
+   is the protocol working: the exposure is on the record. No other page in the
+   document carries such a disclosure, which means either there was none or it
+   went unreported, and we cannot tell which.
+~~7.~~ **RESOLVED 2026-08-25 — `I.B.` is what the page prints.** Checked against
+   the printed reference list: the initial really is `I.B.`, where the literature
+   has `I.V.` throughout. **The error is the publisher's and is preserved**, per
+   rule 2, with the page's closing note recording both the printed form and the
+   expected one.
+
+   Worth keeping as a small vindication of how the flag was raised: the
+   transcriber did not doubt the *glyph*, it doubted **its own familiarity with the
+   name** — it could read `I.B.` perfectly well and flagged it precisely because a
+   transcriber who "knows" an author's initials is the one most likely to correct
+   them silently. That is the instinct to reward.

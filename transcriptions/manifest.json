@@ -2652,8 +2652,8 @@
   "Mańko_et al2020": {
    "pages": 17,
    "concatenation": "Mańko_et al2020.txt",
-   "concatenation_sha256": "b34a3e5907f324d731ca480fe1a84deea0225ba710f35f11be80461e178b8d10",
-   "concatenation_bytes": 150939,
+   "concatenation_sha256": "be54b924316a68798ba61d1aab0571ffd32afd9527cab57957e1b79c211309fa",
+   "concatenation_bytes": 151113,
    "uncertain_markers": 2,
    "illegible_markers": 1,
    "figure_blocks": 9,
@@ -2769,8 +2769,8 @@
      "pdf_page": 16,
      "file": "page_016.txt",
      "printed_header": "[PAGE 16]",
-     "bytes": 14818,
-     "sha256": "f002682afcd4fd4629ff2d4cff0001d7525ab4d75190d4f16db51b5138aae5cd"
+     "bytes": 14992,
+     "sha256": "3f198a4342b9ac99060f165fe902ba9385593a5d77e6f466b2f040a6445dfc29"
     },
     {
      "pdf_page": 17,
