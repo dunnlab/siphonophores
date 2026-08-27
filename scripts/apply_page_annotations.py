@@ -53,6 +53,8 @@ REPO = Path(__file__).resolve().parents[1]
 BIB = REPO / "siphonophores.bib"
 BUILD = REPO / "build"
 ANNOTATIONS = BUILD / "page_annotations.json"
+# One file per document, for a parallel pass — see load_annotations.
+ANNOTATION_DIR = BUILD / "annotations"
 EVIDENCE = BUILD / "page_evidence.json"
 
 FIELDS = ("keeppages", "doclang", "pagemap")
@@ -189,6 +191,61 @@ def parse_keeppages(value: str, n_pages: Optional[int] = None) -> list[int]:
     return sorted(pages)
 
 
+def _records_from(payload) -> list[dict]:
+    """Normalise the three shapes an annotation file can take.
+
+    A single record (what a per-document file holds), a bare list, or a
+    ``{"documents": [...]}`` wrapper. The single-record case is the one the
+    prompt actually asks for, so getting it wrong reads every file as empty.
+    """
+    if isinstance(payload, list):
+        return payload
+    if isinstance(payload, dict):
+        if "documents" in payload:
+            return payload["documents"]
+        if "file" in payload:
+            return [payload]
+    return []
+
+
+def load_annotations(src: Path) -> tuple[list[dict], set[str]]:
+    """Read annotations from a file, or from every ``*.json`` in a directory.
+
+    The directory form is what makes a parallel pass safe. Several annotators
+    appending to one shared JSON file would interleave and lose records; one
+    file per document collides with nothing, needs no locking, and makes
+    resumption trivial — a document is done when its file exists.
+
+    Returns the records plus the set of basenames annotated more than once,
+    which is a real possibility once work is split and worth reporting rather
+    than silently resolving.
+    """
+    if src.is_dir():
+        paths = sorted(src.glob("*.json"))
+        if not paths:
+            raise SystemExit(f"no *.json files in {src}")
+    else:
+        paths = [src]
+
+    records: list[dict] = []
+    seen: set[str] = set()
+    dupes: set[str] = set()
+    for path in paths:
+        try:
+            payload = json.loads(path.read_text(encoding="utf-8"))
+        except json.JSONDecodeError as e:
+            # One malformed shard must not cost the whole run.
+            raise SystemExit(f"{path}: not valid JSON — {e}")
+        for rec in _records_from(payload):
+            name = (rec.get("file") or "").strip().lower()
+            if name:
+                if name in seen:
+                    dupes.add(name)
+                seen.add(name)
+            records.append(rec)
+    return records, dupes
+
+
 def load_page_counts() -> dict[str, int]:
     """Basename -> page count, from the evidence file if it exists."""
     if not EVIDENCE.exists():
@@ -204,7 +261,11 @@ def load_page_counts() -> dict[str, int]:
 def main() -> int:
     ap = argparse.ArgumentParser(
         description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--annotations", type=Path, default=ANNOTATIONS)
+    ap.add_argument("--annotations", type=Path, default=ANNOTATIONS,
+                    help="A JSON file, or a directory of per-document JSON "
+                         f"files (default: {ANNOTATIONS.name}, falling back to "
+                         f"{ANNOTATION_DIR.name}/ if that is absent). Use the "
+                         "directory form for a parallel pass.")
     ap.add_argument("--bib", type=Path, default=BIB)
     ap.add_argument("--dry-run", action="store_true",
                     help="Report what would change; write nothing.")
@@ -238,14 +299,19 @@ def main() -> int:
               f"match doclang.")
         return 1 if bad else 0
 
+    if args.annotations == ANNOTATIONS and not args.annotations.exists() \
+            and ANNOTATION_DIR.is_dir():
+        args.annotations = ANNOTATION_DIR
     if not args.annotations.exists():
         raise SystemExit(
             f"no annotations at {args.annotations}\n"
             "Run the pass in prompts/annotate_pages.md over "
             "build/page_evidence.json first."
         )
-    raw = json.loads(args.annotations.read_text(encoding="utf-8"))
-    records = raw["documents"] if isinstance(raw, dict) else raw
+    records, dupes = load_annotations(args.annotations)
+    if dupes:
+        print(f"warning: {len(dupes)} file(s) annotated more than once; the "
+              f"last record for each wins: {', '.join(sorted(dupes)[:5])}\n")
     page_counts = load_page_counts()
 
     stats: Counter[str] = Counter()

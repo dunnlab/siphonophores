@@ -308,7 +308,9 @@ the rest in `pagemap`.
 
 ## Output
 
-Append one object per document to `build/page_annotations.json`:
+Write **one file per document** to `build/annotations/<stem>.json`, where
+`<stem>` is the PDF basename without its extension — so `Ilyin1900.pdf` becomes
+`build/annotations/Ilyin1900.json`. The file holds a single object:
 
 ```json
 {
@@ -335,6 +337,23 @@ Append one object per document to `build/page_annotations.json`:
   or `doclang` means you should probably have omitted that field.
 - `needs_review` — true whenever a human should look. Contamination, an ambiguous
   boundary, a bound volume, a language you could not settle.
+
+**One file per document, never a shared one.** Several annotators may be working
+at once, and appending to a single JSON file would interleave and lose records.
+Separate files collide with nothing and need no coordination. It also makes the
+work resumable: a document is done when its file exists, so
+
+```bash
+# documents still to do
+comm -23 \
+  <(python -c "import json;print('\n'.join(sorted(d['file'][:-4] for d in json.load(open('build/page_evidence.json'))['documents'])))") \
+  <(ls build/annotations 2>/dev/null | sed 's/\.json$//' | sort)
+```
+
+lists what is left, and re-running an interrupted pass costs nothing.
+
+`scripts/apply_page_annotations.py` reads the whole directory and merges it, so
+nothing else needs to change.
 
 ## Triage: what `review_reasons` does and does not catch
 
