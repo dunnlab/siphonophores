@@ -1,0 +1,85 @@
+{
+  "_note": "Ground-truth test set: the ten documents characterised during design. Hand-written, not agent output.",
+  "documents": [
+    {
+      "file": "Ilyin1900.pdf",
+      "keeppages": "3--6",
+      "pagemap": "1 BHL banner; 2 blank notice; 3--6 article (image-only, no text layer); 6 also carries the start of an unrelated paper, Kaiser 'Noch einmal die Torsionselasticitaet des contrahirten Muskels' - contamination, page kept",
+      "confidence": "high",
+      "needs_review": true,
+      "notes": "Language and the page-6 contamination both read off a rendered contact sheet; the body has no text layer at all.",
+      "doclang": "de"
+    },
+    {
+      "file": "Bennett1860.pdf",
+      "keeppages": "3--23",
+      "doclang": "en",
+      "pagemap": "1 BHL banner; 2 blank notice; 3--23 the book, image-only (NOT blank)",
+      "confidence": "high",
+      "needs_review": false
+    },
+    {
+      "file": "Huxley1852b.pdf",
+      "keeppages": "3--8",
+      "doclang": "en",
+      "pagemap": "1 BHL banner; 2 blank notice; 3--8 article. p3 opens with French text from an adjacent article on steam boilers - contamination, page kept",
+      "confidence": "medium",
+      "needs_review": true
+    },
+    {
+      "file": "Leuckart1851c.pdf",
+      "keeppages": "4--80",
+      "doclang": "de",
+      "pagemap": "1--2 Google Books boilerplate; 3 shelfmark; 4--80 article. Pages 75--80 carry no text layer but are image pages, not blank",
+      "confidence": "medium",
+      "needs_review": true,
+      "notes": "Corrected: an earlier reading called 78--80 blank and dropped them. They are image pages, i.e. content. Fraktur not confirmed from rendered pages, so doclang left as plain de rather than de-Latf."
+    },
+    {
+      "file": "Mackie1964.pdf",
+      "keeppages": "2--27",
+      "doclang": "en",
+      "pagemap": "1 JSTOR cover; 2--27 article",
+      "confidence": "high",
+      "needs_review": false
+    },
+    {
+      "file": "Chun1881_tr.pdf",
+      "keeppages": "1--6",
+      "doclang": "de",
+      "pagemap": "1 journal title page; 2--6 German original; 6 runs into an unrelated herpetology article (contamination, page kept); 7--8 English translation, dropped",
+      "confidence": "medium",
+      "needs_review": true
+    },
+    {
+      "file": "Carre1969_Nanomia_tr.pdf",
+      "keeppages": "1--21",
+      "doclang": "fr",
+      "pagemap": "1--20 French original; 21 German Zusammenfassung; 22--39 English translation, dropped",
+      "confidence": "high",
+      "needs_review": false
+    },
+    {
+      "file": "Leloup1954tr.pdf",
+      "doclang": "en",
+      "pagemap": "translation only, no original present; whole document kept",
+      "confidence": "high",
+      "needs_review": false
+    },
+    {
+      "file": "Leloup1934btr.pdf",
+      "doclang": "fr",
+      "pagemap": "interleaved French original with English translation blocks. Language changes to English at p14, p40 and p60; returns to French at p17, p42 and p65. Boundaries not confirmed page by page",
+      "confidence": "low",
+      "needs_review": true,
+      "notes": "keeppages deliberately omitted. An earlier reading assumed a single English block and produced 1--13,17--59,65--86, which is wrong: there are three. Needs a page-by-page pass before any selection."
+    },
+    {
+      "file": "Dunn_etal2013.pdf",
+      "pagemap": "born digital, clean text layer, no front matter; whole document is the paper",
+      "confidence": "high",
+      "needs_review": false,
+      "notes": "doclang deliberately omitted: never OCR'd, so a pin would be inert but would still force a reprocess."
+    }
+  ]
+}

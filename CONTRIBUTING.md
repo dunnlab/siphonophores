@@ -1,12 +1,18 @@
 # Contributing — siphonophores.bib
 
-This file documents the build pipeline that turns
+This file documents the build pipeline that originally turned
 `AASCANNED LITERATURE.docx` (Phil Pugh's curated reference list) plus the
 PDFs in `library/` into `siphonophores.bib`.
 
-The intent is that anyone can re-run the pipeline end-to-end and reproduce
-`siphonophores.bib`. Re-runs are idempotent: every script writes a JSON
-artifact under `build/` that the next stage consumes.
+**That generation is finished.** `siphonophores.bib` is now the source of
+truth and is edited directly — see below — so re-running the pipeline would
+*discard* every correction made since. The scripts are documented here for
+provenance and for the rare case of rebuilding from the docx for comparison,
+not as a routine step. `build_bib.py` refuses to overwrite an existing
+`siphonophores.bib` without `--force` for exactly this reason.
+
+Within a rebuild, re-runs are idempotent: every script writes a JSON artifact
+under `build/` that the next stage consumes.
 
 ## Source of truth
 
@@ -33,6 +39,12 @@ conda env create -f environment.yaml
 conda activate siphonophores
 
 # rebuild the bib from scratch (~20 minutes, network-bound)
+#
+# ONLY for comparison against the docx. This overwrites siphonophores.bib and
+# discards every edit made since it was first built — pass
+# --out build/siphonophores.regenerated.bib to build_bib.py instead. Note the
+# four build/*.json inputs are no longer kept in the repo, so the whole chain
+# below has to run first.
 python scripts/parse_docx.py
 python scripts/match_library.py
 python scripts/extract_dois.py
@@ -51,8 +63,11 @@ python scripts/crossref_lookup.py --resume
 python scripts/verify_urls.py    --resume
 ```
 
-`build_bib.py` is a pure function over the cached JSON — re-run it freely
-to regenerate `siphonophores.bib` after editing `build_bib.py` itself.
+`build_bib.py` is a pure function over the cached JSON. It is *not* safe to
+re-run freely any more: `siphonophores.bib` is hand-edited and authoritative,
+so regenerating it discards those edits. It refuses to overwrite without
+`--force`; use `--out build/siphonophores.regenerated.bib` and diff if you
+need to see what a rebuild would produce.
 
 ---
 
