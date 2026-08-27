@@ -11,3 +11,12 @@ dependencies:
   - tqdm
   - pyyaml
   - lxml
+  # Bib validation (scripts/validate_bib.py). Was installed in the env but
+  # never declared here.
+  - bibtexparser
+  - matplotlib
+  # Page inspection (scripts/inspect_pages.py). PyMuPDF reads per-page text and
+  # raster coverage, which is what separates a blank page from an un-OCR'd
+  # image page; Pillow is only needed for --sheets contact-sheet rendering.
+  - pymupdf
+  - pillow

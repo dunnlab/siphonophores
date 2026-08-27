@@ -65,12 +65,91 @@ Siphonophore Library PDFs sit under `library/`, sharded by surname-letter shelve
 
 Phil's original reference list is preserved here as `archive/AASCANNED LITERATURE.docx`. This is an artefact for provenance; do not update it.
 
-`scripts/` contains two categories of scripts:
+`scripts/` contains three categories of scripts:
 
 - Scripts used to validate and summarize the library. These should be run when new records are added.
+- Scripts used to curate per-document annotations — see [Page annotations](#page-annotations) below.
 - Those that were used to generate `siphonophores.bib` from `archive/AASCANNED LITERATURE.docx` and then fully reconcile it to `library/`. Those scripts will not need to be run again and are preserved here for provenance.
 
 [`CONTRIBUTING.md`](CONTRIBUTING.md) documents the scripts, with a focus on the initial generation of `siphonophores.bib`.
+
+## Page annotations
+
+A PDF in this library is often not just the paper. Library and vendor wrappers
+(BHL, JSTOR, Google Books, ResearchGate), bound-in journal title pages, appended
+or interleaved English translations, and blank runs all share the file with the
+work the bib entry describes. Left alone they skew OCR language detection, waste
+OCR time, and turn copyright notices into searchable text.
+
+Three optional bib fields record what is actually in each file:
+
+| field | meaning |
+|---|---|
+| `keeppages` | physical, 1-based PDF pages that are the paper — `3--20`, `2,4,8--20`, `40--` |
+| `doclang` | language of those pages as a BCP-47 tag — `ru`, `fr`, `de-Latf`, `grc` |
+| `ocrlang` | Tesseract packs, **derived** from `doclang`; do not hand-edit |
+| `pagemap` | free-text description of the document's structure; documentation only |
+
+`keeppages` is physical page positions, never the printed `pages` range — for an
+offprint the two are wildly different numbers.
+
+The workflow:
+
+The scripts need `pymupdf` (and `pillow` for contact sheets). Both are declared
+in `environment.yaml`; an environment created before that needs
+`conda env update -f environment.yaml`.
+
+```bash
+# 1. Measure. Writes build/page_evidence.json (~16 MB, gitignored).
+python scripts/inspect_pages.py
+
+# Look at one document instead of the whole library:
+python scripts/inspect_pages.py --pdf Ilyin1900.pdf
+
+# Render it as contact sheets, 20 pages per grayscale JPEG, for documents
+# where the text layer cannot answer the question:
+python scripts/inspect_pages.py --pdf Ilyin1900.pdf --sheets
+
+# 2. Annotate, following prompts/annotate_pages.md, into
+#    build/page_annotations.json.
+
+# 3. Apply. Always dry-run first and read the diff.
+python scripts/apply_page_annotations.py --dry-run
+python scripts/apply_page_annotations.py
+git diff siphonophores.bib
+
+# Audit ocrlang against doclang at any time:
+python scripts/apply_page_annotations.py --check
+```
+
+`tests/fixtures/page_annotations.groundtruth.json` holds hand-checked
+annotations for ten documents spanning the awkward cases (BHL and JSTOR
+wrappers, Google Books boilerplate, appended and interleaved translations, a
+translation with no original, a born-digital paper). Use it to check the
+pipeline end to end before trusting a bulk run.
+
+`scripts/bibio.py` underlies step 3: it edits entries by byte span, so entries
+nobody touched are written back unchanged and the diff is only the added lines.
+`python scripts/bibio.py --selftest` verifies that on the live bib.
+
+Two things worth knowing before annotating:
+
+- **An empty `review_reasons` is not a clean bill of health.** The reasons come
+  from page measurements only. Translation-suffixed filenames, Fraktur typesetting
+  and publication age are invisible to them and have to be checked separately —
+  the prompt says where.
+- **An empty text layer does not mean an empty page.** A page with zero
+  characters may be a blank sheet or the whole article as a bitmap. The
+  evidence file's `kind` column distinguishes them by asking the raster layer.
+  `Bennett1860.pdf` has 21 consecutive zero-character pages and every one is the
+  paper.
+- **Publisher branding is not front matter.** Springer, ScienceDirect and Wiley
+  strings are printed on the article's own first page; dropping that page
+  because it carries one removes the paper's opening.
+
+These fields are read by the [corpus](https://github.com/caseywdunn/corpus)
+pipeline. `keeppages` support is tracked in corpus#188 and is not yet
+implemented, so annotations recorded now sit inert until it lands.
 
 ## Adding a PDF
 
