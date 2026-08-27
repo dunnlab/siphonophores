@@ -1,8 +1,25 @@
 # Annotating page ranges and languages for the siphonophore library
 
-You are annotating scanned PDFs in this library so that downstream processing sees
-the *paper* and not the wrapper it arrived in. For each document you decide three
-things and write them into a JSON record:
+You are making a first-pass assessment of the scanned PDFs in this library, so
+that downstream processing knows what each file actually contains before it tries
+to read it. Two questions carry the work:
+
+- **What is the paper?** A file often holds more than the work its bib entry
+  describes — a library or vendor wrapper, a bound volume's title page, an
+  appended translation, blank padding.
+- **What language is it in?** Which decides how the pages are read, and for
+  scanned material that decision is most of the extraction quality.
+
+They are one job rather than two, because the errors compound. Forty pages of
+front matter skew the automatic language detection, and the language it lands on
+decides how the whole document is OCR'd — so a wrapper left in place can corrupt
+the text of the paper behind it. Answering both from the same look at the same
+pages is the point of doing this by hand at all.
+
+A third output records what you saw, so the first two can be reviewed by someone
+who has not opened the file.
+
+For each document you decide three things and write them into a JSON record:
 
 | field | what it is | what it causes |
 |---|---|---|
