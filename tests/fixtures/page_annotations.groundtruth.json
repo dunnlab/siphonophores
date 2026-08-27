@@ -3,11 +3,11 @@
   "documents": [
     {
       "file": "Ilyin1900.pdf",
-      "keeppages": "3--6",
-      "pagemap": "1 BHL banner; 2 blank notice; 3--6 article (image-only, no text layer); 6 also carries the start of an unrelated paper, Kaiser 'Noch einmal die Torsionselasticitaet des contrahirten Muskels' - contamination, page kept",
+      "keeppages": "4--6",
+      "pagemap": "1 BHL banner; 2 blank notice; 3 bound-volume title page; 4--6 article (image-only, no text layer); 6 also carries the start of an unrelated paper, Kaiser 'Noch einmal die Torsionselasticitaet des contrahirten Muskels' - contamination, page kept",
       "confidence": "high",
       "needs_review": true,
-      "notes": "Language and the page-6 contamination both read off a rendered contact sheet; the body has no text layer at all.",
+      "notes": "Pages 3--6 were visually checked: page 3 is volume front matter, while page 6 contains both the end of the target and the next article.",
       "doclang": "de"
     },
     {
@@ -28,12 +28,12 @@
     },
     {
       "file": "Leuckart1851c.pdf",
-      "keeppages": "4--80",
+      "keeppages": "9--52",
       "doclang": "de",
-      "pagemap": "1--2 Google Books boilerplate; 3 shelfmark; 4--80 article. Pages 75--80 carry no text layer but are image pages, not blank",
-      "confidence": "medium",
-      "needs_review": true,
-      "notes": "Corrected: an earlier reading called 78--80 blank and dropped them. They are image pages, i.e. content. Fraktur not confirmed from rendered pages, so doclang left as plain de rather than de-Latf."
+      "pagemap": "1--2 Google Books boilerplate; 3--8 shelfmarks, blank leaves and cover matter; 9--52 German work; 53--79 scanned blank leaves; 80 physical back cover",
+      "confidence": "high",
+      "needs_review": false,
+      "notes": "Rendered boundary pages confirm that the work starts at its title page on 9 and ends with the printer imprint on 52. The body uses roman type, not Fraktur."
     },
     {
       "file": "Mackie1964.pdf",
@@ -45,10 +45,10 @@
     },
     {
       "file": "Chun1881_tr.pdf",
-      "keeppages": "1--6",
+      "keeppages": "2--6",
       "doclang": "de",
-      "pagemap": "1 journal title page; 2--6 German original; 6 runs into an unrelated herpetology article (contamination, page kept); 7--8 English translation, dropped",
-      "confidence": "medium",
+      "pagemap": "1 bound-volume journal title page; 2--6 German original; 2 opens with the end of a preceding item and 6 runs into an unrelated herpetology article (contamination, both pages kept); 7--8 English translation, dropped",
+      "confidence": "high",
       "needs_review": true
     },
     {
@@ -68,11 +68,12 @@
     },
     {
       "file": "Leloup1934btr.pdf",
+      "keeppages": "1--13,17--39,42--59,65--86",
       "doclang": "fr",
-      "pagemap": "interleaved French original with English translation blocks. Language changes to English at p14, p40 and p60; returns to French at p17, p42 and p65. Boundaries not confirmed page by page",
-      "confidence": "low",
-      "needs_review": true,
-      "notes": "keeppages deliberately omitted. An earlier reading assumed a single English block and produced 1--13,17--59,65--86, which is wrong: there are three. Needs a page-by-page pass before any selection."
+      "pagemap": "French original on 1--13, 17--39, 42--59 and 65--86; interleaved English translation blocks on 14--16, 40--41 and 60--64, dropped",
+      "confidence": "high",
+      "needs_review": false,
+      "notes": "All six language boundaries were confirmed from citation headers and page content."
     },
     {
       "file": "Dunn_etal2013.pdf",

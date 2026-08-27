@@ -287,7 +287,7 @@ def leading_run(kinds: Iterable[str], want: set[str]) -> int:
 
 def inspect_pdf(path: Path) -> dict:
     """Measure one PDF. Never raises — a failure is recorded, not fatal."""
-    import fitz
+    import pymupdf as fitz
 
     rec: dict = {
         "file": path.name,
@@ -461,7 +461,7 @@ def render_contact_sheet(path: Path, out_png: Path, dpi: int = 40,
     lossless RGB sheet of 20 pages runs to several MB, which is a poor thing to
     hand an annotator once per document across a 1,775-document library.
     """
-    import fitz
+    import pymupdf as fitz
     try:
         from PIL import Image, ImageDraw
     except ImportError:
@@ -565,7 +565,7 @@ def main() -> int:
     args = ap.parse_args()
 
     try:
-        import fitz  # noqa: F401
+        import pymupdf  # noqa: F401
     except ImportError:
         raise SystemExit(
             "PyMuPDF is required. It is declared in environment.yaml; if this "

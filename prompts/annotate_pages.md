@@ -149,19 +149,23 @@ page[]          per page: n, chars, img_cov, max_img, kind, scripts, lang, marke
 
 Each page is classified `text`, `image`, `blank`, or `sparse`.
 
-**`image` means an un-OCR'd page of content, not an empty page.** This is the
-single most dangerous confusion available to you. A page with zero characters in
-its text layer may be a blank sheet *or* the entire article rendered as a bitmap —
-identical in the text, opposite in meaning. `kind` distinguishes them by asking the
-raster layer instead.
+**`image` means a substantial raster page, not proof that the page is empty or
+proof that it belongs to the paper.** This is the single most dangerous confusion
+available to you. A page with zero characters in its text layer may be the entire
+article rendered as a bitmap, a scanned blank leaf, a binding, or a cover —
+identical in extracted text, very different in meaning. `kind` tells you that a
+raster must be looked at; it cannot decide what the raster depicts.
 
-`Bennett1860.pdf` is the case to hold in mind: 23 pages, of which pages 3–23 all
-report zero characters. Every one of them is the paper. `keeppages = {3--23}`, and
-a naive "drop the empty pages" reading would have deleted the entire document.
+`Bennett1860.pdf` is the first case to hold in mind: 23 pages, of which pages 3–23
+all report zero characters. Every one of them is the paper. `keeppages =
+{3--23}`, and a naive "drop the empty pages" reading would have deleted the entire
+document. `Leuckart1851c.pdf` is the counterexample: its pages 53–79 are image
+pages because they are scans, but rendering shows blank leaves; page 80 is the
+physical back cover. The evidence tells you to look, not what to decide.
 
 - `blank` — no text, no significant image. Padding. Safe to drop.
-- `image` — no text, but a full-page bitmap. **Content.** Keep unless you can see
-  from a rendered page that it is a scanner artefact.
+- `image` — no text, but a substantial bitmap. Usually content, but sometimes a
+  scanned blank leaf, binding, or cover. **Render it before dropping it.**
 - `sparse` — a shelfmark, a page number, a stamp.
 - `text` — a real text layer. Note this includes OCR'd scans, so `text` with
   `img_cov` near 1.0 means "a scan someone has already OCR'd".
@@ -191,7 +195,8 @@ title pages, so it is a prompt to look, never a verdict.
 
 **Blank runs** — leading or trailing `blank` pages. `leading_blank` and
 `trailing_blank` count only true blanks; `leading_nontext` / `trailing_nontext`
-include `image` pages and must **not** be used to decide what to drop.
+include `image` pages and must **not** be used by themselves to decide what to
+drop. Render image-only runs.
 
 **Plates and figures are part of the paper.** Do not drop a page because it is an
 image with no text — see above.
@@ -238,10 +243,11 @@ English translation occupies the tail, typically about a third of the pages.
 `Zusammenfassung` on 21, English translation from 22. Answer: `{1--21}`.
 
 **Interleaved** — the translation is broken into chunks placed between sections of
-the original. `Leloup1934btr.pdf`: French 1–13, English 14–16, French 17–58,
-English 60–64, French again. This needs a non-contiguous selection, which the
-syntax supports: `{1--13,17--58,65--86}`. Verify each range against the evidence
-rather than assuming two halves.
+the original. `Leloup1934btr.pdf`: French 1–13, English 14–16, French 17–39,
+English 40–41, French 42–59, English 60–64, then French again on 65–86. This needs
+a non-contiguous selection, which the syntax supports:
+`{1--13,17--39,42--59,65--86}`. Verify every range against the evidence rather
+than assuming two halves.
 
 **Translation-only** — no original is present. Known: `Leloup1954tr.pdf`,
 `Leloup1941btr.pdf`, `Stepanjants1963_Ndiomedeae_trans.pdf`. Keep the translation,
@@ -297,9 +303,10 @@ Rules:
 
 **Mid-page contamination.** Some scans bleed a neighbouring article into a page of
 the paper. `Huxley1852b.pdf` page 3 opens with French text about steam boilers from
-the adjacent article; `Chun1881_tr.pdf` page 6 runs into an unrelated herpetology
-paper. `keeppages` selects whole pages and cannot fix this. **Do not drop a page
-that is half real content.** Note it in `pagemap` and set `needs_review`.
+the adjacent article; `Chun1881_tr.pdf` page 2 opens with the end of the preceding
+item and page 6 runs into an unrelated herpetology paper. `keeppages` selects whole
+pages and cannot fix this. **Do not drop a page that is half real content.** Note
+it in `pagemap` and set `needs_review`.
 
 **Splitting a bound volume into several papers.** One PDF is one document; two bib
 entries pointing at the same file collide and cannot be processed separately. If a
@@ -315,12 +322,12 @@ Write **one file per document** to `build/annotations/<stem>.json`, where
 ```json
 {
   "file": "Ilyin1900.pdf",
-  "keeppages": "3--6",
+  "keeppages": "4--6",
   "doclang": "de",
-  "pagemap": "1 BHL banner; 2 blank notice; 3--6 article (image-only, no text layer)",
+  "pagemap": "1 BHL banner; 2 blank notice; 3 bound-volume title page; 4--6 article (image-only, no text layer); 6 also begins an unrelated paper",
   "confidence": "high",
-  "needs_review": false,
-  "notes": "Body pages carry no text layer; classified image, not blank."
+  "needs_review": true,
+  "notes": "Body pages carry no text layer; page 6 is kept because it contains the end of the target article."
 }
 ```
 
@@ -397,8 +404,9 @@ are invisible to them. Check these yourself on every document, flagged or not:
 2. If `wrappers` is non-empty, or `cover_shaped` is set, look at pages 1–3: their
    `head` text, and a rendered page if the text layer is absent.
 3. Check `langs` and `boundaries` for a translation, whatever the filename says.
-4. Check the head and tail for `blank` runs — and confirm from `kind` that they are
-   `blank` and not `image`.
+4. Check the head and tail for blank runs. A `blank` classification is strong
+   evidence; an `image` classification requires rendering because a scanned blank
+   leaf or binding is still an image.
 5. Open the PDF whenever step 2, 3 or 4 leaves a question the evidence cannot
    settle. This is expected, not a failure of the evidence — it is why the PDFs are
    on local disk.
@@ -406,3 +414,72 @@ are invisible to them. Check these yourself on every document, flagged or not:
 
 Keeping a page of front matter is a small, correctable cost. Dropping a page of the
 paper is a silent, permanent loss. The asymmetry should decide every close call.
+
+## Model evaluation record — 27 August 2026
+
+We evaluated OpenAI GPT-5.6 Sol, Terra and Luna for this annotation task before
+starting the library-wide pass. All runs used medium reasoning, the same prompt,
+local PDF inspection tools, isolated output directories, and blinded agents that
+could not read the reference annotations or one another's output.
+
+This is a repository-specific operational evaluation, not a general model
+benchmark. OpenAI's model documentation on the evaluation date described Sol as
+the frontier model for complex professional work, Terra as the intelligence/cost
+balance, and Luna as the cost-sensitive high-volume model. See the
+[OpenAI model catalog](https://developers.openai.com/api/docs/models).
+
+### Round 1: ten hand-characterised documents
+
+The test set was `tests/fixtures/page_annotations.groundtruth.json`. It includes
+vendor wrappers, image-only scans, bound-volume furniture, contamination,
+appended and interleaved translations, a translation-only file, and a clean
+born-digital article.
+
+The evaluation itself exposed stale reference decisions for `Ilyin1900.pdf`,
+`Leuckart1851c.pdf`, `Chun1881_tr.pdf`, and `Leloup1934btr.pdf`. Those PDFs were
+visually re-audited, the fixture and examples above were corrected, and all model
+outputs were rescored against the corrected reference. That correction is part of
+the result: a benchmark must not be treated as ground truth merely because it is
+named ground truth.
+
+An exact binding decision means that both `keeppages` and `doclang` match in
+presence and value for a document. `pagemap` wording was reviewed semantically but
+was not included in the exact score.
+
+| model | exact binding decisions | observed failure mode |
+|---|---:|---|
+| GPT-5.6 Sol | 10/10 | none in this small test |
+| GPT-5.6 Terra | 8/10 | dropped a contaminated target page; missed an interleaved translation block |
+| GPT-5.6 Luna | 7/10 | dropped end matter, selected the wrong German OCR typeface, retained a vendor wrapper, and retained a bound-volume title page |
+
+The Luna and Terra errors matter more than their raw counts suggest. A wrong
+`keeppages` or `doclang` is exactly the silent, binding failure this pass exists to
+prevent, and several incorrect records were nevertheless labelled high confidence.
+
+### Round 2: twelve fresh stratified documents
+
+A second set sampled new image-only files, wrappers, translation suffixes, old
+German/possible-Fraktur material, multilingual boundaries, and clean controls.
+This round had no prewritten ground truth, so it is an operational check rather
+than a numerical accuracy benchmark.
+
+- Sol completed all 12 records and correctly exercised the revised raster rule,
+  including retaining plates while excluding scanned blank versos, and
+  distinguishing roman German type from Fraktur.
+- Terra produced no output shards in the 12-document run. A retry reduced to six
+  documents also produced no shards before the run was stopped. Record this as a
+  failure of that evaluation run, not a universal claim that Terra cannot perform
+  the task.
+
+### Production policy resulting from the evaluation
+
+- Use **GPT-5.6 Sol with medium reasoning** for production annotations.
+- Run several Sol agents concurrently on disjoint, small, resumable batches. Each
+  agent writes one JSON file per document, as required above.
+- Do not use Luna to write `keeppages` or `doclang`.
+- Do not accept a model's `high` confidence as review evidence by itself.
+- Validate JSON syntax and page ranges mechanically, then manually review all
+  `needs_review` records and a stratified sample of high-confidence binding
+  decisions before applying annotations to the bibliography.
+- Re-run a representative evaluation when the prompt, PDFs, evidence generator,
+  or available model family changes.

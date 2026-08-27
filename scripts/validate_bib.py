@@ -57,24 +57,25 @@ DOI_RE = re.compile(r"^10\.\d{4,9}/.+$")
 URL_RE = re.compile(r"^https?://[^\s]+$")
 
 
+def library_pdf_paths() -> list[Path]:
+    """All non-orphan PDFs, with a case-insensitive extension check."""
+    return [
+        p for p in LIBRARY.rglob("*")
+        if p.is_file()
+        and p.suffix.lower() == ".pdf"
+        and p.relative_to(LIBRARY).parts[0] != "orphans"
+    ]
+
+
 def collect_library_pdfs() -> set[str]:
     """All PDF basenames in library/, excluding the orphans/ subdir."""
-    out: set[str] = set()
-    for p in LIBRARY.rglob("*.pdf"):
-        rel = p.relative_to(LIBRARY)
-        if rel.parts and rel.parts[0] == "orphans":
-            continue
-        out.add(p.name)
-    return out
+    return {p.name for p in library_pdf_paths()}
 
 
 def pdf_paths_by_basename() -> dict[str, list[Path]]:
     """basename → list of full paths (catches duplicate basenames in subdirs)."""
     out: dict[str, list[Path]] = defaultdict(list)
-    for p in LIBRARY.rglob("*.pdf"):
-        rel = p.relative_to(LIBRARY)
-        if rel.parts and rel.parts[0] == "orphans":
-            continue
+    for p in library_pdf_paths():
         out[p.name].append(p)
     return out
 
@@ -442,9 +443,7 @@ def main() -> None:
     hash_errors: list[tuple[str, str]] = []
     dup_hash_groups: dict[str, list[str]] = {}
     if args.scan_pdfs:
-        pdfs = [p for p in LIBRARY.rglob("*.pdf")
-                if not (p.relative_to(LIBRARY).parts
-                        and p.relative_to(LIBRARY).parts[0] == "orphans")]
+        pdfs = library_pdf_paths()
 
         # Hash + page-count in parallel.
         hash_results: dict[str, str] = {}
