@@ -56,6 +56,33 @@ gap.** Do not reach for a plausible answer to avoid a blank.
 
 ## Input
 
+### Where things are
+
+Every path in this document is **relative to the root of the `siphonophores`
+repository**, and every command assumes that is your working directory. Nothing
+here uses an absolute path, because the repository is not always checked out in
+the same place.
+
+```
+siphonophores/
+  siphonophores.bib     the bibliography; you do not edit it directly
+  library/              the PDFs, in surname shelves — library/A/ … library/H_J/ … library/U_Z/
+  build/
+    page_evidence.json    your input
+    page_annotations.json your output
+    contact_sheets/       rendered pages, written by --sheets
+  scripts/              inspect_pages.py, apply_page_annotations.py
+  prompts/              this file
+```
+
+You never open `siphonophores.bib` and never edit it. The bib facts you need
+(`bib_key`, `title`, `year`, `bhl_title`, any existing annotations) are already
+joined into each evidence record's `bib` object, and
+`scripts/apply_page_annotations.py` is what writes your output into the bib
+afterwards.
+
+### The evidence file
+
 `build/page_evidence.json`, produced by `scripts/inspect_pages.py`. One record per
 PDF.
 
@@ -66,8 +93,9 @@ complete description of any document, and its schema was fixed before anyone
 looked at the document in front of you.
 
 So: **when a question matters and the evidence does not answer it, open the PDF.**
-The library is on local disk at the record's `path`. Read more text, render a page
-and look at it, check a page the evidence summarised away. Regenerating one
+The PDF is on local disk at the record's `path` (repo-relative, e.g.
+`library/H_J/Ilyin1900.pdf`). Read more text, render a page and look at it, check
+a page the evidence summarised away. Regenerating one
 document's record takes a fraction of a second:
 
 ```bash
@@ -86,6 +114,7 @@ The fields you will use:
 
 ```
 file            basename, e.g. "Ilyin1900.pdf"
+path            repo-relative path, e.g. "library/H_J/Ilyin1900.pdf"
 pages           total page count
 bib             bib priors: bib_key, title, year, bhl_title, existing annotations
 text_layer      "full" | "none"
