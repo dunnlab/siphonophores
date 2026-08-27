@@ -4,14 +4,37 @@ You are annotating scanned PDFs in this library so that downstream processing se
 the *paper* and not the wrapper it arrived in. For each document you decide three
 things and write them into a JSON record:
 
-| field | what it is | binding? |
+| field | what it is | what it causes |
 |---|---|---|
-| `keeppages` | which physical PDF pages are the paper | **yes** — everything else is discarded |
-| `doclang` | what language the paper is in, as a BCP-47 tag | **yes** — it becomes a pinned OCR pack |
-| `pagemap` | free-text description of the document's structure | no — documentation only |
+| `keeppages` | which physical PDF pages are the paper | read by the pipeline — every page you leave out is discarded |
+| `doclang` | what language the paper is in, as a BCP-47 tag | not read directly, but `ocrlang` is derived from it, and that pins OCR |
+| `pagemap` | free-text description of the document's structure | nothing — documentation only |
 
-Read the whole of this document before starting. The two binding fields cause
+Read the whole of this document before starting. The first two fields cause
 irreversible things to happen, and the failure modes are silent.
+
+### How `doclang` reaches OCR
+
+You never write `ocrlang`, and you should not try to. `doclang` is a fact about
+the paper in a standard vocabulary; `ocrlang` is a list of Tesseract pack names,
+which is a different vocabulary and an instruction to a specific tool. When
+`scripts/apply_page_annotations.py` writes your annotations into the bib, it
+resolves one to the other and writes both:
+
+```
+doclang = {de-Latf}   ->   ocrlang = {deu_latf+deu}
+doclang = {ja}        ->   ocrlang = {jpn+eng}
+doclang = {ru}        ->   ocrlang = {rus+eng}
+```
+
+Two consequences worth holding onto:
+
+- **`doclang` is inert on its own.** Nothing in the pipeline reads it. It is the
+  derived `ocrlang` that has teeth. So the care you take is about what your tag
+  resolves to, not about the tag sitting in the file.
+- **A `doclang` you leave blank produces no `ocrlang` at all**, and the pipeline
+  detects the language itself, exactly as it does today. That is the safe
+  default, and it is why omitting is cheap.
 
 ## The one rule that matters most
 
@@ -21,10 +44,11 @@ A wrong `keeppages` silently deletes real content. Every later stage sees only t
 pages you selected; nothing downstream can tell that a page was withheld, so the
 loss is invisible and permanent until someone re-reads the original PDF.
 
-A wrong `doclang` becomes a pinned Tesseract pack that overrides *all three*
+A wrong `doclang` resolves to a pinned Tesseract pack that overrides *all three*
 automatic language signals at once — langdetect, Tesseract's script detection, and
 the OCR sampling probe. Pinning the wrong language produces confidently garbled
-text, which is worse than no annotation at all.
+text, which is worse than no annotation at all. The pin is what the pipeline acts
+on, so a wrong tag is not merely a wrong label.
 
 Omitting a field costs nothing: the pipeline behaves exactly as it does today.
 **Expect to leave roughly 15% of documents unannotated. That is a success, not a
@@ -261,8 +285,8 @@ Append one object per document to `build/page_annotations.json`:
 - `pagemap` — always write one, even when you annotate nothing else. It is what
   makes the other two reviewable, and it costs nothing to be wrong in.
   **No braces** — the value goes into a BibTeX field.
-- `confidence` — `high` / `medium` / `low`. Anything below `high` on a binding
-  field means you should probably have omitted the field.
+- `confidence` — `high` / `medium` / `low`. Anything below `high` on `keeppages`
+  or `doclang` means you should probably have omitted that field.
 - `needs_review` — true whenever a human should look. Contamination, an ambiguous
   boundary, a bound volume, a language you could not settle.
 
