@@ -104,10 +104,26 @@ _SCRIPT_TO_PACKS: dict[str, tuple[str, ...]] = {
     "zh-tw": ("chi_tra",),
 }
 
-# A Latin-script pack is appended to non-Latin pins because this literature
-# carries Latin binomials, journal titles and reference lists on nearly every
-# page whatever the body language. corpus does NOT append `eng` to an honored
-# pin (deliberately — see prepare_pdf), so if we want it, we say it.
+# `eng` is appended to every pin that does not already name it. corpus does NOT
+# append it to an honored pin (deliberately — the pin is the exact `-l` value),
+# so if we want it, we say it here, where it stays a literal in the bib and a
+# directly-fingerprinted input.
+#
+# Not because English is on every page, and not because `eng` is a better
+# model — alone it loses to `swe` (0.751 vs 0.837) and `por` (0.850 vs 0.931).
+# Because Tesseract arbitrates per word between the models it is given, so a
+# second, complementary one covers words the first gets wrong. Measured
+# against the gold transcriptions:
+#
+#     lat -> lat+eng   0.562 -> 0.624
+#     nld -> nld+eng   0.789 -> 0.818
+#     por -> por+eng   0.931 -> 0.944
+#     swe -> swe+eng   0.837 -> 0.833
+#
+# Three gains and one wash. The condition used to be "no Latin-script pack
+# present", which fired for `rus` and `chi_sim` and never for `fra`, `swe` or
+# `por` — so 482 papers were pinned to a single pack where detection would
+# have used two. See corpus dev_docs/OCR_LANGUAGES.md.
 _LATIN_FALLBACK = "eng"
 _LATIN_PACKS = {
     "eng", "deu", "deu_latf", "fra", "lat", "ita", "spa", "por", "nld", "pol",
@@ -173,7 +189,7 @@ def derive_ocrlang(doclang: str) -> Optional[str]:
     # compete for the same glyphs. Never widen such a pin.
     if any(p.endswith("_vert") for p in packs):
         return "+".join(p for p in packs if p.endswith("_vert"))
-    if not any(p in _LATIN_PACKS for p in packs):
+    if _LATIN_FALLBACK not in packs:
         packs.append(_LATIN_FALLBACK)
     return "+".join(packs)
 
