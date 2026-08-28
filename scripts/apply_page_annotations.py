@@ -133,11 +133,46 @@ def bcp47_to_tesseract(tag: str) -> list[str]:
     return []
 
 
+def parse_doclang(doclang: str) -> list[str]:
+    """Split a ``doclang`` value into BCP-47 tags, dominant first.
+
+    A comma-separated list, because a document is routinely more than one
+    language: 271 of this library's papers have a pagemap naming two or more,
+    most often a Spanish or French article with an English title and abstract.
+    A single tag could not say that, so `derive_ocrlang` could only ever emit
+    one language's packs and the English on page 2 was read by a Spanish-only
+    model.
+
+    Order is meaningful and preserved — Tesseract takes the first pack as
+    primary — so the dominant language of the body comes first.
+    """
+    return [t.strip() for t in (doclang or "").split(",") if t.strip()]
+
+
 def derive_ocrlang(doclang: str) -> Optional[str]:
-    """The ``ocrlang`` value for a ``doclang``, or None if unresolvable."""
-    packs = bcp47_to_tesseract(doclang)
+    """The ``ocrlang`` value for a ``doclang``, or None if unresolvable.
+
+    Every tag contributes its packs, in order, deduplicated. Two models
+    covering two languages that are genuinely on the page is the case
+    Tesseract's per-word arbitration is good at; measured against the gold
+    transcriptions, `por+eng` beats both `por` (0.931) and `eng` (0.850) at
+    0.944. What does *not* pay is a model with nothing to contribute — seven
+    packs on a monolingual Latin text scored below one — which is why this
+    derives from what the annotator observed rather than adding packs
+    speculatively. See corpus dev_docs/OCR_LANGUAGES.md.
+    """
+    packs: list[str] = []
+    for tag in parse_doclang(doclang):
+        for pack in bcp47_to_tesseract(tag):
+            if pack not in packs:
+                packs.append(pack)
     if not packs:
         return None
+    # Vertical CJK is exclusive: `jpn_vert` alone scores 0.574 on vertically
+    # set pages where `jpn_vert+eng` scores 0.176, because the two models
+    # compete for the same glyphs. Never widen such a pin.
+    if any(p.endswith("_vert") for p in packs):
+        return "+".join(p for p in packs if p.endswith("_vert"))
     if not any(p in _LATIN_PACKS for p in packs):
         packs.append(_LATIN_FALLBACK)
     return "+".join(packs)
