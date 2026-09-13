@@ -5,7 +5,7 @@
 
 .claude/
 
-to_add/
+# to_add/
 
 # Logs from build scripts
 logs/
