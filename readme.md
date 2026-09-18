@@ -5,7 +5,7 @@ This is a collection of siphonophore manuscripts. The vast majority were painsta
 <!-- BEGIN: stats (autogen by scripts/validate_bib.py --emit-readme) -->
 ![Library by decade](assets/library_stats.png)
 
-**1,773 PDFs · 1,811 bib records · 63,218 total pages** (mean 36 pages/PDF, median 14)
+**1,774 PDFs · 1,812 bib records · 63,220 total pages** (mean 36 pages/PDF, median 14)
 <!-- END: stats -->
 
 ## Cloning
@@ -42,7 +42,7 @@ Siphonophore Library PDFs sit under `library/`, sharded by surname-letter shelve
   bibliographic information. They're intentionally not referenced from
   `siphonophores.bib` and are skipped by the curation scripts.
 
-[`siphonophores.bib`](siphonophores.bib) contains reference data for all these PDFs. This document should be kept up to date with repo contents.
+[`siphonophores.bib`](siphonophores.bib) contains reference data for all these PDFs. This document should be kept up to date with repo contents. Source-checked corrections and remaining review items are recorded in [`CURATION_NOTES.md`](CURATION_NOTES.md).
 
 [`instructions.md`](instructions.md) holds clade-specific knowledge to be injected into the context of an MCP server serving this corpus — facts about siphonophore taxonomy and biology that should override or qualify what the older literature in `library/` says.
 
@@ -86,7 +86,7 @@ Three optional bib fields record what is actually in each file:
 | field | meaning |
 |---|---|
 | `keeppages` | physical, 1-based PDF pages that are the paper — `3--20`, `2,4,8--20`, `40--` |
-| `doclang` | language of those pages as a BCP-47 tag — `ru`, `fr`, `de-Latf`, `grc` |
+| `doclang` | language(s) of those pages as BCP-47 tags, comma-separated with the dominant language first — `ru`, `fr`, `de-Latf`, `grc`, `es, en` |
 | `ocrlang` | Tesseract packs, **derived** from `doclang`; do not hand-edit |
 | `pagemap` | free-text description of the document's structure; documentation only |
 

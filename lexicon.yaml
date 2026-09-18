@@ -130,7 +130,8 @@ anatomy:
       de: [Geschlechtsmedusoid, Gonophore]
       fr: [gonophore]
       ru: [гонофор]
-    description: Reproductive zooid; may be male, female, or dioecious.
+    # Mapstone (2009), printed p. 70 (PDF p. 77), glossary.
+    description: Sexual medusoid zooid that produces and releases either eggs or sperm.
 
   gonodendron:
     synonyms: [gonodendra, gonodendrons]
@@ -148,7 +149,8 @@ anatomy:
 
   somatocyst:
     synonyms: [somatocysts]
-    description: Axial canal in a nectophore.
+    # Mapstone (2009), printed p. 73 (PDF p. 80), glossary; see also printed p. 10.
+    description: Blind-ending gastrovascular diverticulum extending into the mesogloea of some calycophoran nectophores.
 
   # --- Life-cycle stages ---
 
